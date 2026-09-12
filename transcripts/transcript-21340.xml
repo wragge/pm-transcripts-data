@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21340</transcript-id>
-    <title>Council of Australian Governments&#039; Meeting  25 June 2004, Canberra Communique </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/06/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Council of Australian Governments (COAG) held its 14th meeting today in Canberra. The Council, comprising the Prime Minister, Premiers and Chief Ministers and the President of the Australian Local Government Association, had detailed discussions on significant areas of national interest.  This Communique sets out the agreed outcomes of the discussions.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21340</transcript-id><title><![CDATA[Council of Australian Governments&#039; Meeting  25 June 2004, Canberra Communique ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/06/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Council of Australian Governments (COAG) held its 14th meeting today in Canberra. The Council, comprising the Prime Minister, Premiers and Chief Ministers and the President of the Australian Local Government Association, had detailed discussions on significant areas of national interest.  This Communique sets out the agreed outcomes of the discussions.</p>
 <p>NATIONAL WATER INITIATIVE</p>
 <p>COAG noted the continuing national imperative of increasing the productivity and efficiency of Australia's water use and to ensure the health of river and groundwater systems.  This will require arrangements that provide greater certainty for investors in the water industry and for the environment, and which will allow Australia's water management regimes to adapt to future changes in water availability responsively and fairly in both rural and urban areas.</p>
 <p>COAG agreed to a National Water Initiative (NWI) covering a range of areas in which greater compatibility and the adoption of best-practice approaches to water management nationally will bring substantial benefits.  In particular, the NWI will result in:</p>
@@ -242,6 +232,4 @@
 <p>e) The transportation must also conform to Australian Standards and the Australian Dangerous Goods Code.</p>
 <p>10. Supply</p>
 <p>a) A person may only supply SSAN to another</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

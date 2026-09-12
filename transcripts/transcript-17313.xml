@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17313</transcript-id>
-    <title>Prime Minister Assistant Treasurer Support for One Laptop Per Child Australia 27 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/05/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Assistant Treasurer, Senator Nick Sherry, have today announced tax deductible donation status for One Laptop per Child Australia Ltd.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17313</transcript-id><title>Prime Minister Assistant Treasurer Support for One Laptop Per Child Australia 27 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/05/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Assistant Treasurer, Senator Nick Sherry, have today announced tax deductible donation status for One Laptop per Child Australia Ltd.</p>
 <p>One Laptop per Child Australia was founded in 2008 and aims to improve the lives of Indigenous children living in disadvantaged communities in rural and remote Australia.</p>
 <p>It is working to achieve this goal by giving remote Indigenous school children laptops. The laptops are designed to be durable, energy efficient and child appropriate.</p>
 <p>Since 2008, the organisation has delivered over 1,500 laptops to 20 disadvantaged schools in the Northern Territory, Western Australia and Queensland. Before 2012, it hopes to provide up to 20,000 laptops.</p>
@@ -20,6 +10,4 @@
 <p>The Commonwealth is also already investing $7 million over four-years from 2009-10 in improving internet access in indigenous communities through the National Partnership Agreement on Remote Indigenous Public Internet Access.</p>
 <p>The Government is strongly committed to encouraging an active and dynamic philanthropic sector in Australia. Major reforms to boost the level and transparency of private giving were legislated in 2009 and reforms to public ancillary funds were announced in the 2010-11 Budget.</p>
 <p>Legislation to amend the Income Tax Assessment Act 1997 to give effect to this announcement will be introduced as soon as practicable.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

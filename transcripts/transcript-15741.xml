@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15741</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Prime Minister, Mr Kevin Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15741</transcript-id><title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Prime Minister, Mr Kevin Rudd, good morning.</p>
 <p>PM: G'day, how are you?</p>
 <p>MITCHELL: I'm well, thank you. Just down to business. Should David Hicks be able to sell his story?</p>
 <p>PM: Well, there's a thing in Australia called the Proceeds of Crime Act. And it specifically prohibits the sort of activity which is being envisaged by Mr Hicks. Therefore, if he was to proceed in that direction, it would be a matter for what the police did and what then the DPP did independently under the powers vested in that Act, and that Act goes back to 2002.</p>
@@ -97,6 +87,4 @@
 <p>MITCHELL: Thank you very much for your time.</p>
 <p>PM: Thanks, Neil.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

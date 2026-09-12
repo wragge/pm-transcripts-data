@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41568</transcript-id>
-    <title>Response to targeted strikes in Syria</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/04/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, the United States, United Kingdom and France responded forcefully to the Syrian regime’s illegal use of chemical weapons on 7 April in Douma.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41568</transcript-id><title>Response to targeted strikes in Syria</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/04/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, the United States, United Kingdom and France responded forcefully to the Syrian regime’s illegal use of chemical weapons on 7 April in Douma.</p>
 <p>Australia supports these strikes, which demonstrate a calibrated, proportionate and targeted response. They send an unequivocal message to the Assad regime and its backers, Russia and Iran, that the use of chemical weapons will not be tolerated.</p>
 <p>The use of chemical weapons by anyone, anywhere, under any circumstances is illegal and utterly reprehensible. The Assad regime must not be allowed to commit such crimes with impunity.</p>
 <p>Australia called on the United Nations Security Council (UNSC) to address this chemical attack as soon as possible. In UNSC debate over a resolution to create an independent investigative mechanism to examine chemical weapons use in Syria on 10 April, Russia used its veto power to shield the Assad regime from the consequences of its abhorrent actions. By doing so, Russia showed yet again a blatant disregard for the application of international law and norms against the use of chemical weapons.</p>
@@ -17,6 +7,4 @@
 <p>The Australian Government has taken action in response to the Syrian regime’s use of chemical weapons. It has placed a total of 135 individuals and 42 entities under Australia’s autonomous sanctions regime in relation to Syria including the 24 August 2017 sanctions against 40 individuals and 14 entities linked to the Syrian regime’s chemical weapons program</p>
 <p>Australia has long called for a political solution to this crisis and continues to support the UN-led peace process in Geneva. Since 2011, we have committed and provided more than $433 million in humanitarian assistance to support those affected by the civil war in Syria.</p>
 <p>Russia and Syria’s other main supporter, Iran, must place pressure on the regime to end its abuse of international law and human rights within the conflict and engage seriously in negotiations to bring the seven year civil war to an end.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21665</transcript-id>
-    <title>Press Conference Phillip Street, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/04/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21665</transcript-id><title>Press Conference Phillip Street, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/04/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Good morning ladies and gentlemen, I'd like to welcome you to this news conference on a very sad morning indeed.</p>
 <p>First, can I on behalf of all Australians extend my condolences and my respects in relation to the death of His Holiness the Pope.  This great man who has led the Catholic Church for 26 years, who has been a pillar of strength as well as a provider of great compassion and in every proper sense of the term an apostle of peace during his pontificate, has been a source of leadership not only to the one billion people worldwide who belong to the Catholic Church, but on most occasions he has also spoken on behalf of all Christians.</p>
 <p>He has been a special blend of strength and compassion.  He held fast to the central tenets of the Catholic Church.  He was an unwavering critic of those who believed that watering down the faith in the face of criticism would win support.  He was one of those people who combined his great strength with tremendous compassion. He was a friend to all Christian denominations.  He advanced the ecumenical movement, he reached out to Jewish people, to those of the Islamic faith, and was also an inspiration to people of no faith at all. His personal courage was demonstrated when he survived an assassination attempt more than 20 years ago.</p>
@@ -72,6 +62,4 @@
 <p>Well that is something I don't know yet.  They are being treated on the Kanimbla and I imagine that if they need to be brought back to Australia for better and further treatment that will happen.  But I will take the advice of  the medical people and the military on that, that's a matter for them to decide.  Whatever is needed to make sure that they are given the best possibility of a full recovery will be provided.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

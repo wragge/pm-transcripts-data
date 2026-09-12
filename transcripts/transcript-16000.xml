@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16000</transcript-id>
-    <title>Transcript of Interview with Charles Wooley, Across Australia Program, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/07/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>WOOLEY: Kevin Rudd good morning to you Sir.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16000</transcript-id><title>Transcript of Interview with Charles Wooley, Across Australia Program, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/07/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>WOOLEY: Kevin Rudd good morning to you Sir.</p>
 <p>PM: Charles thanks for having me on the program.</p>
 <p>WOOLEY: Can you as a supporter of the Maroons tell us how it is pronounced.</p>
 <p>PM: MA-RONES</p>
@@ -63,6 +53,4 @@
 <p>It will take tough decisions but I think, you know, I think the Australian people want us to have a responsible debate about this and I don't think they just want the usual fear driven politics.</p>
 <p>WOOLEY: I think the polling shows that you are heading in the right direction. Prime Minister thank you very much for your time this morning.</p>
 <p>PM: Thank you Charles.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

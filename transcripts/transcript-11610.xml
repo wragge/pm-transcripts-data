@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11610</transcript-id>
-    <title>The Queen Mother&#039;s 100th Birthday</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/08/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I know that all Australians will join me in conveying good wishes to Her Majesty Queen Elizabeth The Queen Mother on reaching her 100th birthday.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11610</transcript-id><title><![CDATA[The Queen Mother&#039;s 100th Birthday]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/08/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I know that all Australians will join me in conveying good wishes to Her Majesty Queen Elizabeth The Queen Mother on reaching her 100th birthday.</p>
 <p>She is held in great affection and respect in our nation. We salute her wonderful life.</p>
 <p>Older generations of Australians remember her great courage and stoicism during World War II when, with her husband the late King George VI, she remained in London through the worst of the blitz.</p>
 <p>That calm resolution was characteristic of her life in the years that followed.</p>
@@ -17,6 +7,4 @@
 <p>Throughout her life this very gracious lady has been a great example of service, commitment and duty.</p>
 <p>All Australians wish her continued good health and happiness.</p>
 <p>4 August 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

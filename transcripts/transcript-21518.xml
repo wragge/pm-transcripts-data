@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21518</transcript-id>
-    <title>Interview with Catherine McGrath AM Programme, ABC Radio, Santiago </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/11/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21518</transcript-id><title>Interview with Catherine McGrath AM Programme, ABC Radio, Santiago </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/11/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>I think APEC has regained some momentum. This is the best APEC meeting I've been to over the last three or four years.</p>
 <p>MCGRATH:</p>
 <p>Why more momentum?</p>
@@ -44,6 +34,4 @@
 <p>PRIME MINISTER:</p>
 <p>Oh, I think that's in a sense a bit of imagination. I don't think we're terribly different. Of course we all talk about security but he's very committed to trade, and he made it very clear that America is very committed to seeing a successful Doha Round.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

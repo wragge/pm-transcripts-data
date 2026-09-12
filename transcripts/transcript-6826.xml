@@ -1,28 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6826</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>29/01/1986</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006826.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 29 January 1986<br />
-The Prime Minister has sent the following message to<br />
-President Reagan:<br />
-" I am shocked and greatly saddened by the tragic accident<br />
-that has resulted in the destruction of the space Shuttle<br />
-Challenger and the loss of its crew. We in Australia have<br />
-long admired the expertise, dedication and courage that have<br />
-characterised the many pioneering American achievements in<br />
-space over recent decades. I am sure all Australians join me<br />
-in extending through you to the American people and<br />
-especially to the families of the Challenger crew our deep<br />
-sympathy and understanding."<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6826</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>29/01/1986</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006826.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 29 January 1986<br>
+The Prime Minister has sent the following message to<br>
+President Reagan:<br>
+" I am shocked and greatly saddened by the tragic accident<br>
+that has resulted in the destruction of the space Shuttle<br>
+Challenger and the loss of its crew. We in Australia have<br>
+long admired the expertise, dedication and courage that have<br>
+characterised the many pioneering American achievements in<br>
+space over recent decades. I am sure all Australians join me<br>
+in extending through you to the American people and<br>
+especially to the families of the Challenger crew our deep<br>
+sympathy and understanding."<br>
 L </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16034</transcript-id>
-    <title>Joint Media Release with the Minister for Sport, Kate Ellis, Australian Paralympic Team set for Beijing  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/07/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and Minister for Sport today officially wished the Australian Paralympic Team good luck for the upcoming games in Beijing.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16034</transcript-id><title>Joint Media Release with the Minister for Sport, Kate Ellis, Australian Paralympic Team set for Beijing  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/07/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and Minister for Sport today officially wished the Australian Paralympic Team good luck for the upcoming games in Beijing.</p>
 <p>170 athletes, including 11 guide runners and pilots for the sight impaired, will represent Australia at the 13th Paralympiad in Beijing. They will be supported by 121 officials.</p>
 <p>During a ceremony at Parliament House, the Prime Minister said the Government was proud to support the athletes through the Australian Paralympic Committee.</p>
 <p>“You are an inspiration to all Australians - we will be right behind you as you chase your dreams in Beijing.”</p>
@@ -17,6 +7,4 @@
 <p>“Australia has a rich sporting heritage and you can be proud of your place in this team and of the mark you will make in writing the next chapter in Australian sporting history,” Ms Ellis said.</p>
 <p>The Australian Government provided more than $26 million to the Australian Paralympic Committee to support Australia's paralympic athletes in Beijing and the Winter Paralympics in Torino, Italy.</p>
 <p>The Australian Government has also supported Australian Paralympic Committee programs, such as the Telstra Paralympic Preparation Program, the Toyota Talent Search Program and the Classification Program, in the lead-up to the Beijing Games.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

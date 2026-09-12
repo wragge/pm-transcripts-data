@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18513</transcript-id>
-    <title>Statement on the visit of the President of Lebanon</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18513</transcript-id><title>Statement on the visit of the President of Lebanon</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Gillard today warmly welcomed President Sleiman and his accompanying delegation to Australia, the first visit to Australia by a President of Lebanon.</p>
 <p>Prime Minister Gillard and President Sleiman acknowledged the strength of people to people links between Australia and Lebanon and the foundation for a strong, productive and long-standing bilateral relationship.</p>
 <p>They discussed the significant contribution to all aspects of Australian society by Australians of Lebanese descent.</p>
@@ -21,6 +11,4 @@ Prime Minister Gillard today warmly welcomed President Sleiman and his accompany
 <p>Prime Minister Gillard reiterated Australia's support for de-mining activities in Lebanon and announced an additional $1 million contribution to accelerate the return of land free of mines to the people of South Lebanon.</p>
 <p>President Sleiman and Prime Minister Gillard discussed the important work of the United Nations Relief and Works Agency for Palestinian Refugees (UNRWA).  Australia's financial assistance to UNRWA includes support for the valuable help UNRWA provides to Palestinian refugees in Lebanon.</p>
 <p>President Sleiman welcomed the Prime Minister's announcement that Australia would provide funding to support a Visiting National Professionals Program at the Special Tribunal for Lebanon. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

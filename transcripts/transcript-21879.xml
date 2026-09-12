@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21879</transcript-id>
-    <title>Interview with Paul Murray Radio 6PR, Perth </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/08/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MURRAY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21879</transcript-id><title>Interview with Paul Murray Radio 6PR, Perth </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/08/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MURRAY:</p>
 <p>  Good morning. Shortly I'll be joined by Prime Minister John Howard. Fresh from his discussions yesterday with Muslim Leaders, the Prime Minister is about to board a flight to Perth where he will farewell members of the Special Air Service Regiment who are off to Afghanistan. I've got to say, the timing's pretty exquisite. The Prime Minister was told yesterday that one of the things radicalising young Muslims in Australia was our involvement in conflicts in Muslim countries. And today the Prime Minister is right here in Perth sending soldiers off to fight Muslims. I'll talk to Mr Howard about that shortly.</p>
 <p>[break]</p>
 <p>Prime Minister John Howard flies to Perth this morning and he's heading straight for the Campbell Barracks at Swanbourne the home of our elite Special Air Service Regiment. He's going to farewell a contingent bound for Afghanistan. It's the second engagement there for the Regiment. In the first they lost Sergeant Drew Russell, husband of Kylie and father of Lisa who was born just 11 days after Drew's patrol car blew up on the 16th February 2002. So the Regiment knows just how dangerous this assignment could be. Prime Minister John Howard joins me now. Good morning.</p>
@@ -77,6 +67,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

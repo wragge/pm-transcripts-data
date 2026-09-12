@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20745</transcript-id>
-    <title>Doorstop Interview Moffett Field, Palo Alto, USA </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/05/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20745</transcript-id><title>Doorstop Interview Moffett Field, Palo Alto, USA </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/05/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Have the American and Australian relations ever been stronger than they are today?</p>
 <p>PRIME MINISTER:</p>
 <p>No they haven't. And it's very important that as we move into the 21st century that the relationship deepen and strengthen even more, not to the exclusion of other very important relationships that both countries have, but I can't think of a time in our shared history where the relationship has been stronger than what it is now.</p>
@@ -46,6 +36,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10787</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 DOORSTOP INTERVIEW                 ANGLICAN RETIREMENT VILLAGES                 CASTLE HILL, SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/04/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10787</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 DOORSTOP INTERVIEW                 ANGLICAN RETIREMENT VILLAGES                 CASTLE HILL, SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/04/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................</p>
 <p> JOURNALIST:</p>
 <p>Prime Minister, wharfies are staging another seven-day strike from</p>
 <p> next Tuesday, what do you think?</p>
@@ -100,6 +90,4 @@
 <p>I thought it was American Independence Day.</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10752</transcript-id>
-    <title>27 July 1998                                 TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH MATT PEACOCK                AM PROGRAMME, ABC RADIO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/07/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10752</transcript-id><title>27 July 1998                                 TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH MATT PEACOCK                AM PROGRAMME, ABC RADIO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/07/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>PEACOCK:</p>
 <p>Prime Minister, thanks for joining us. Jeffrey Kennett, even Rupert</p>
 <p>   Murdoch, are suggesting that your Government's stalled </p>
@@ -239,6 +229,4 @@
 <p>PRIME MINISTER:</p>
 <p>Pleasure.</p>
 <p> [ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

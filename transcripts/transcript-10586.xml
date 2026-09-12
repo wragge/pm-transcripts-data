@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10586</transcript-id>
-    <title>Federal Boost for National Gallery of Victoria </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/11/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10586</transcript-id><title>Federal Boost for National Gallery of Victoria </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/11/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I am pleased to announce that the Federal Government will provide $25 million from the Federation Fund towards the redevelopment of the National Gallery of Victoria.</p>
 <p>The project will be a three-way partnership between the Federal Government, the Victorian Government and the private sector.</p>
 <p>The Federal Government is pleased to be contributing to this project which is of significance to all Australians.</p>
@@ -18,9 +8,7 @@ I am pleased to announce that the Federal Government will provide $25 million fr
 <p>I am impressed with the high priority that the Victorian Government and particularly Jeff Kennett, as Minister for the Arts, has given to the cultural sector, including several major capital projects.</p>
 <p>This is the third project to receive funding from the $1 billion Federation Fund, which I announced at the last Budget.</p>
 <p>The other projects to have received funding are:</p>
-<p>a contribution of $100 million to the Alice Springs-Darwin railway; and<br />
+<p>a contribution of $100 million to the Alice Springs-Darwin railway; and<br>
 $147 million for construction and establishment costs of the National Museum of Australia, the Australian Institute of Aboriginal and Torres Strait Islander Studies and the ACT Aboriginal and Torres Strait Islander Cultural Centre on Acton Peninsula.</p>
 <p>13 November 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

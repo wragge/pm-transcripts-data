@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20899</transcript-id>
-    <title>Doorstop Interview, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/09/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20899</transcript-id><title>Doorstop Interview, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/09/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Prime Minister, how was your meeting with Dr Glasson this morning?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh it was pretty constructive, it';s the first time I had met him and I always work to have a good relationship with the AMA, they do represent a very important profession in Australia and I felt that the relationship under this leadership got off to a good start.</p>
@@ -23,6 +13,4 @@
 <p>Well nothing the Commonwealth is doing is forcing doctors out of the profession, in fact what the Commonwealth has done has been in fact to help doctors stay in the profession.  We have for example relieved all doctors over 65 of any liability, we';ve provided very big subsidies for the neurosurgeons and some of the obstetricians, so we have been very generous in what we';ve done.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

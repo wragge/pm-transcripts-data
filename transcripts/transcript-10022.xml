@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10022</transcript-id>
-    <title>Port Arthur Assistance </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/06/1996</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010022.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10022</transcript-id><title>Port Arthur Assistance </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/06/1996</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010022.pdf</document><subjects></subjects><content><![CDATA[<p>
 I was pleased to inform the Tasmanian Premier, Mr Rundle, today of the Commonwealth's offer of additional funds to assist the Tasmanian community recover from the tragic events at Port Arthur on April 28, including $ 2.5 million for the reconstruction of the Broad Arrow Cafe.</p>
 <p>These announcements comne after discussions and submissions both from Mr Rundle and my Tasmanian colleagues in the Government. </p>
 <p>The full array of Commonwealth counselling services have already been made available for the wounded, families of victims, local residents, employees of the Port Arthur Historic Site Authority and others closely involved. </p>
@@ -18,6 +8,4 @@ I was pleased to inform the Tasmanian Premier, Mr Rundle, today of the Commonwea
 <p>This support comes on top of the $200 000 donation made to the appeal opened by Tasmanian television stations. </p>
 <p>In addition to the Government's move to tougher national gun laws in cooperation with the States, I am hopeful that the Commonwealth's further assistance will help to heal the physical, emotional and social wounds of the people of Tasmania resulting from the Port Arthur massacre. </p>
 <p>12 June 1996 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

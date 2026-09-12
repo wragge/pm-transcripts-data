@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17509</transcript-id>
-    <title>Parliament returns after the election</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/09/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17509</transcript-id><title>Parliament returns after the election</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/09/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 After one of the closest elections in our nation's history followed by 17 days of negotiations, I know Australians are ready to see our Government get down to business.</p>
 <p>I believe Australians want to see this Parliament get work done.</p>
 <p>It's important to remember that the last minority government - the Curtin-Chifley Government in 1941 - went on to become arguably the greatest Government in the history of our Commonwealth.</p>
@@ -29,6 +19,4 @@ After one of the closest elections in our nation's history followed by 17 days o
 <p>I am confident that, led by Labor, this unique Parliament can deliver strong, stable and effective government that also delivers real change for all Australians.</p>
 <p>I look forward to sharing our achievements with you.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

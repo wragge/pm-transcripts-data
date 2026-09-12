@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>666</transcript-id>
-    <title>PM 92/1962 - Statement by the Prime Minister</title>
-    <prime-minister>Menzies, Robert</prime-minister>
-    <period-of-service>19491219 - 19660126</period-of-service>
-    <release-date>29/11/1962</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000666.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>P. M. No. 92/ 1962 </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>666</transcript-id><title>PM 92/1962 - Statement by the Prime Minister</title><prime-minister>Menzies, Robert</prime-minister><period-of-service>19491219 - 19660126</period-of-service><field_date>29/11/1962</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000666.pdf</document><subjects></subjects><content><![CDATA[<p><strong>P. M. No. 92/ 1962 </strong></p>
 <p>The great mass of work requiring my attention as the Session draws to a close makes it impossible for me to make another visit to Perth.</p>
 <p>Mr. Hasluck will represent me at the departure of His Royal Highness, and is bearing with him a letter from me explaining the reasons for my inability officially to say farewell to His Royal Highness.</p>
-<p>CANBERRA,<br />29th November, 1962,</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>CANBERRA,<br>29th November, 1962,</p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15609</transcript-id>
-    <title>Doorstop Announcement,  Moorebank High School, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/10/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15609</transcript-id><title>Doorstop Announcement,  Moorebank High School, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/10/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Australian History Guide; parliament  </p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -75,6 +65,4 @@ Australian History Guide; parliament  </p>
 <p>PRIME MINISTER:</p>
 <p>Look, parliament is scheduled to meet next week.  I think we're playing games. Ok.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

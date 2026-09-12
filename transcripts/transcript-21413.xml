@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21413</transcript-id>
-    <title>Strengthening Australia&#039;s Border Surveillance  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/07/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today that the Australian Government has awarded $135m worth of contracts to ensure the continued effective monitoring and protection of our maritime borders.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21413</transcript-id><title><![CDATA[Strengthening Australia&#039;s Border Surveillance  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/07/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today that the Australian Government has awarded $135m worth of contracts to ensure the continued effective monitoring and protection of our maritime borders.</p>
 <p>Involving five Dash 8 aircraft, three Reims 406 electronic surveillance aircraft, and a Bell 412 helicopter, these contracts will strengthen Australia's aerial surveillance capability.</p>
 <p>These assets, which operate from bases in Broome, Darwin, Cairns and the Torres Strait, provide around 136 million of the 148 million square nautical miles of total surveillance coverage every year.</p>
 <p>The extension of the contracts means that the current Coastwatch aircraft fleet of 17 will continue to operate and provide effective levels of surveillance and response coordination for the next 3 years.</p>
@@ -17,6 +7,4 @@
 <p>Coastwatch surveillance aircraft play a vital role in detecting activities including people smuggling, attempts to import prohibited goods, illegal fishing, illegal trafficking in flora and fauna and environmental pollution.</p>
 <p>The Dash 8 aircraft are equipped with state of the art communication satellite technology allowing the transmission of real-time video, images, voice and data from Coastwatch aircraft direct to the Customs National Surveillance Centre in Canberra.</p>
 <p>Building on the $102 million maritime security initiatives approved earlier this month, the surveillance contracts demonstrates that strong border protection remains a high priority for the government.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

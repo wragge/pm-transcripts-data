@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19424</transcript-id>
-    <title>Hume Highway Duplication: Job Done!</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/06/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Holbrook</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19424</transcript-id><title>Hume Highway Duplication: Job Done!</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/06/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Holbrook</p>
 <p>After half a century of continuous construction and the investment of billions of dollars, a modern fully duplicated Hume Highway is at last a reality  -  a significant nation building achievement.</p>
 <p>Prime Minister Julia Gillard, Federal Infrastructure and Transport Minister Anthony Albanese and NSW Roads Minister Duncan Gay today joined with local community at Holbrook in southern NSW to celebrate this historic event and inspect the town's newly built bypass, the final stage in the upgrade of this iconic road.</p>
 <p>The Bypass will open to traffic next month.</p>
@@ -24,6 +14,4 @@
 <p>Such personal reflections and anecdotes, together with videos and photos dating back to as early as 1876, will help make this website a valuable resource for anyone interested in tracking the history of the Hume Highway from dirt track to what it is today.</p>
 <p>Without a doubt, it has been a momentous journey.</p>
 <p>The Highway closely follows the path first taken by European explorers Hamilton Hume and William Hovell during their successful 1824 expedition to find an alternate inland route from Sydney to Port Phillip, the site of modern day Melbourne.  Work on its northern section between Picton and the Goulburn Plains begun in 1819 on the orders of Australia's original nation builder, Governor Lachlan Macquarie.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

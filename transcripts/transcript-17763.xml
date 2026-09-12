@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17763</transcript-id>
-    <title>Transcript of interview, 6PR</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/12/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister of Australia Julia Gillard's in the studio. Nothing to do with things you may have said in the past. That's my theme. PM: Well, Howard, as long as you're not going to ask me to sing, because I think that that would end badly. HOST: I'm not allowed to sing, and you're not allowed to sing. How are you going?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17763</transcript-id><title>Transcript of interview, 6PR</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/12/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister of Australia Julia Gillard's in the studio. Nothing to do with things you may have said in the past. That's my theme. PM: Well, Howard, as long as you're not going to ask me to sing, because I think that that would end badly. HOST: I'm not allowed to sing, and you're not allowed to sing. How are you going?</p>
 <p>PM: No singing. I'm very well, thank you, and very pleased to be in Perth.</p>
 <p>HOST: But even though in Perth, Western Australia, in the State of Western Australia, the voters don't like the Labor Government? They don't like Federal Labor Governments. You only won three seats out of 15 last time round. Why?</p>
 <p>PM: Well, Howard, this is a great State and I'm here as Prime Minister and be out and about meeting people in Western Australia. The main thing, I think, for the Government, is to be here in Western Australia and to keep delivering the changes that people want to see in this State.</p>
@@ -123,6 +113,4 @@
 <p>PM: Thanks, Howard.</p>
 <p>HOST: And we'll see you again soon.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

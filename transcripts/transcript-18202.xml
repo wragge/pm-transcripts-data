@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18202</transcript-id>
-    <title>Prime Minister&#039;s taskforce on manufacturing</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18202</transcript-id><title><![CDATA[Prime Minister&#039;s taskforce on manufacturing]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Innovation Minister Senator Kim Carr today announced the membership of the Gillard Government's new Manufacturing Taskforce, announced at last month's Future Jobs Forum.</p>
 <p>The new high-level Taskforce will map out a shared vision for the future of Australia's manufacturing sector and help strengthen local firms as they adapt to changes in our economy, including the rise of Asia.</p>
 <p>We want to see the sector move up the value chain. To do this we need to build the skills and innovation that the sector needs for a new era of manufacturing. </p>
@@ -47,6 +37,4 @@ Prime Minister Julia Gillard and Innovation Minister Senator Kim Carr today anno
 <p>Professor Roy Green, Professor and Dean of the Faculty of Business, University of Technology Sydney</p>
 <p>Dr Megan Clark, Chief Executive, CSIRO</p>
 <p>Professor Jonathan West, AIRC, University of Tasmania</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15598</transcript-id>
-    <title>Doorstop Interview, Kirribilli House, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/02/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15598</transcript-id><title>Doorstop Interview, Kirribilli House, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/02/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 National Water Security Plan; coal miners</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER: </p>
@@ -21,6 +11,4 @@ National Water Security Plan; coal miners</p>
 <p>Just regarding a carbon trading scheme, Federal and State Labor are supporting it and you seem to be dodging the issue? </p>
 <p>PRIME MINISTER: </p>
 <p>Certainly not, we have a task group between the Government and industry examining it right at the moment. We have shown no reluctance at all to examine it, but I am not going to embrace something that damages Australia's competitive position. I am not going to embrace something that destroys the jobs of Australian coal miners. We have to be very careful that with all the talk and all the rhetoric about climate change we are not stampeded into adopting responses and solutions that damage our competitive position. We've all got to take a deep breath and we've got to say </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

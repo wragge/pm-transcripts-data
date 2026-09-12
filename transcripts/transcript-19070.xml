@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19070</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/02/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Brisbane</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19070</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/02/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Brisbane</p>
 <p>PM: I'm here at Primo Smallgoods because yesterday I announced a billion dollar plan for Australian jobs.</p>
 <p>It's a plan for blue collar jobs. A plan for blue collar jobs today and tomorrow.</p>
 <p>And as I made the point inside talking to the workers here, many people when they visualise a blue collar job in manufacturing would think of someone working on an assembly line in a car plant.</p>
@@ -96,6 +86,4 @@
 <p>I'm out here talking about the policies and plans that matter for jobs, for families, for the future.</p>
 <p>Okay, thanks very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

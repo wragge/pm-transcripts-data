@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24560</transcript-id>
-    <title>Australia Remembers MH17</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>22/06/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A National Memorial Service in Canberra will take place on Friday 17 July 2015, the first anniversary of the downing of Flight MH17.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24560</transcript-id><title>Australia Remembers MH17</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>22/06/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A National Memorial Service in Canberra will take place on Friday 17 July 2015, the first anniversary of the downing of Flight MH17.</p>
 <p>The Service will honour those who lost their lives in this atrocity, and thank those who were involved in the recovery and investigation process.</p>
 <p>It will be a time to show support to those still grieving.</p>
 <p>All Australians mourned the loss of Flight MH17.</p>
@@ -20,6 +10,4 @@
 <p>This will serve as a permanent reminder that we will never, ever forget the innocent victims of Flight MH17.</p>
 <p>
 22 June 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

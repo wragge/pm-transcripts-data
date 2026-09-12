@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15399</transcript-id>
-    <title>Stronger Border Control</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/07/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>For some months now the Department of Immigration and Citizenship, ASIO and other agencies have been working on a new border control system for Australia. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15399</transcript-id><title>Stronger Border Control</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/07/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>For some months now the Department of Immigration and Citizenship, ASIO and other agencies have been working on a new border control system for Australia. </p>
 <p>This new approach would greatly enhance the already strong border control mechanism we have in place.</p>
 <p>Australia's border control system is arguably more effective than any other in the world, primarily because it does not allow for the visa-free entry of anyone except Australian citizens. </p>
 <p>The next generation border control system will be smarter, increasingly flexible and more agile and able to adjust more quickly to changes in the security environment and to available intelligence.</p>
@@ -23,6 +13,4 @@
 <p>Australia's record to date is very good. Approximately half of the visas refused on security grounds each year come from that unknown category. </p>
 <p>Given the stark challenges of today's security environment and the rapid growth in the number of international visitors to Australia, the task is to be even more effective with border control. That is the purpose of the new and stronger system. </p>
 <p>Additional resources will be provided to both the Department of Immigration and Citizenship and ASIO this financial year to support this important step forward in controlling Australia's borders.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

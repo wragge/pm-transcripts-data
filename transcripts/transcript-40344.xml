@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40344</transcript-id>
-    <title>Joint Media Release: Australia extends assistance to Afghanistan</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/07/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced it will continue to support the security of Afghanistan and will join other nations in pledging ongoing financial assistance at the NATO Leaders’ Summit in Warsaw from 8 to 9 July.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40344</transcript-id><title>Joint Media Release: Australia extends assistance to Afghanistan</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/07/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced it will continue to support the security of Afghanistan and will join other nations in pledging ongoing financial assistance at the NATO Leaders’ Summit in Warsaw from 8 to 9 July.</p>
 <p>Since 2010, Australia has been a leading contributor to the sustainment of the Afghan security forces, with a total commitment of US$500 million from 2010 to 2017.</p>
 <p>Australia will extend its US$100 million annual commitment to the Afghan National Army and National Police until 2020 in order to entrench and build on the gains made in Afghanistan over the past decade.</p>
 <p>The commitment includes an US$80 million contribution to the Afghan National Army Trust Fund and a $20 million contribution to the Afghan National Police.</p>
@@ -20,6 +10,4 @@
 <p>Australian Defence Force personnel will continue to work alongside their counterparts from 39 other nations in non-combat roles into 2017.</p>
 <p>There are currently around 270 ADF personnel deployed to Afghanistan, providing training, advice and assistance to Afghan security forces essential for the stability of Afghanistan.</p>
 <p>In line with caretaker protocols, the Opposition has been briefed regarding this commitment.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

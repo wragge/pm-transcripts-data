@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18971</transcript-id>
-    <title>New Government Elected In Japan</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18971</transcript-id><title>New Government Elected In Japan</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Australia congratulates Mr Shinzo Abe on the Liberal Democratic Party's victory in Japan's lower house elections on 16 December.</p>
 <p>Australia's close strategic partnership with Japan is built on shared values, common security interests and a longstanding friendship. </p>
 <p>Japan is Australia's second largest trading partner with two-way trade more than doubling in the past ten years to reach $75.6 billion in 2011-12.  Japan is also our largest Asian source of foreign investment, with a total stock of $123 billion in 2011. </p>
@@ -17,6 +7,4 @@
 <p>As Japan's Prime Minister in 2007, Mr Abe visited Australia to participate in the APEC leaders' summit in Sydney. </p>
 <p>I look forward to working with Mr Abe after he is sworn in to deepen and enhance our ties, including through completion of a high-quality and comprehensive Free Trade Agreement.</p>
 <p>I would also like to acknowledge the contribution by Japan's outgoing Prime Minister, Mr Yoshihiko Noda, to strengthening Australia-Japan ties.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

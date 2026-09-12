@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20978</transcript-id>
-    <title>Joint Press Conference with the President of the  People&#039;s Republic of China, Parliament House Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/10/2003</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER HOWARD:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20978</transcript-id><title><![CDATA[Joint Press Conference with the President of the  People&#039;s Republic of China, Parliament House Canberra]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/10/2003</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER HOWARD:</p>
 <p>Mr President, ladies and gentlemen.  This news conference will be by way of consecutive translation.  I will make a short opening statement, the President will make a short opening statement and then they'll be two questions.  Two from the Chinese media and then two from the Australian media.</p>
 <p>The agreements which have just been signed demonstrate very clearly the breadth and the depth of the relationship between Australia and China.</p>
 <p>I welcome very much again the historic nature of the President's visit to our country, the fact that he addressed our national Parliament and the fact that we have been able to witness the signing of so many agreements which further reinforce an already close relationship.</p>
@@ -51,6 +41,4 @@
 <p> PRESIDENT HU:</p>
 <p>About the question you raised, China and Australia have already signed a contract for the provision of LNG to Guangdong.  So one of the documents signed just now was about the participation by Chinese companies in the development of oil in the north west shelf.  I'm confident that this will even further broaden our prospect for energy and mineral resources cooperation in the future.  China has now become a member of the WTO and we are part of APEC.  We follow WTO rules and we live by our WTO commitments.  We will actively promote trade liberalisation and facilitation.  Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

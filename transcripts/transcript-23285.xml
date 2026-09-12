@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23285</transcript-id>
-    <title>Doorstop Interview, Parliament House</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/02/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Launch of 2014 beyondblue National Roadshow,  Budget,  Qantas.  </subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23285</transcript-id><title>Doorstop Interview, Parliament House</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/02/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Launch of 2014 beyondblue National Roadshow, Budget, Qantas.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>It is an honour to be associated with the official launch of the <em>beyondblue</em> bus. This has been for too long Australia’s hidden epidemic. It is being dealt with much better now than in times past, but there is always more to be done and this bus trip around Australia will bring awareness to a lot of people and, I hope, healing to at least some.</p>
 <p>So, it is good to be here. It is good to see so many Members of Parliament from all points of the philosophical and political compass represented here, because addressing mental health issues is certainly something that is way beyond party politics.</p>
 <p>We’ll just take a couple of questions.</p>
@@ -32,6 +22,4 @@
 <p>What we want to do is to set Australia up for the best possible future; we want to set our country up for the best possible future and I am confident that whatever decisions have to be made over the next few weeks, that this is going to be a good year. 2014 is going to be a year of opportunity for our country.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

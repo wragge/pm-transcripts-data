@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10579</transcript-id>
-    <title>Doorstop Interview, Parliament House Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/12/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>5 December 1997</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10579</transcript-id><title>Doorstop Interview, Parliament House Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/12/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>5 December 1997</p>
 <p>E&amp;OE........................................................................................................................</p>
 <p><b>JOURNALIST:</b></p>
 <p>Do you accept Kim Beazley’s backflip on freehold?</p>
@@ -33,6 +23,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Well he has just voted against it.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

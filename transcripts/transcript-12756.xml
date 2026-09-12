@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12756</transcript-id>
-    <title>Interview with Alan Jones, Radio 2GB</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/12/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Bushfires; drought; fundraising function for Bali victims;</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12756</transcript-id><title>Interview with Alan Jones, Radio 2GB</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/12/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bushfires; drought; fundraising function for Bali victims;</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p>JONES:</p>
 <p>Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
@@ -55,7 +45,7 @@
 <p>PRIME MINISTER:</p>
 <p>The drought is as severe as we have had in 100 years and I will later this morning with the Deputy Prime Minister announce a number of additional measures and major further areas of support. The first of those relates to a very significant simplification of the emergency circumstances procedures involving, because of the particular severity and extent of the drought, a different and more liberal measure in relation to rainfall. And this will mean that people will get interim assistance, which is the income support assistance, more readily and in a greater number of areas. We’re also going to…</p>
 <p>JONES:</p>
-<p>Just on that - on those Exceptional Circumstances - the last time we spoke, I indicated to you there were 10 applications either submitted or in process but only two had been fully approved. Have you been able to do anything to sort of quicken up…?<br /><br />PRIME MINISTER:</p>
+<p>Just on that - on those Exceptional Circumstances - the last time we spoke, I indicated to you there were 10 applications either submitted or in process but only two had been fully approved. Have you been able to do anything to sort of quicken up…?<br><br>PRIME MINISTER:</p>
 <p>My understanding is that most of the others have been at least a process through what is called the interim stage, or the prima facie stage, which means that those people would now be receiving income support or be entitled to income support. Now in addition to that we’re going to introduce some interest rate subsidies and additional loans of up to $100,000 available for two years to allow farmers to recover from the drought and also to buy fodder and other things for stock support. One of the problems that you have with a drought is keeping your stock alive. The other problem is being given some help to replant and otherwise recover when the drought ultimately breaks.</p>
 <p>JONES:</p>
 <p>And this is up to $100,000.</p>
@@ -86,6 +76,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

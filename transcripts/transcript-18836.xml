@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18836</transcript-id>
-    <title>Prime Minister To Make State Visit To India</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/10/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18836</transcript-id><title>Prime Minister To Make State Visit To India</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/10/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard will make a state visit to India from 15 to 17 October.</p>
 <p>India, the world's biggest democracy and one of the fastest growing major economies, stands in the front rank of Australia's international partnerships and will be a key part of Australia's future in the Asian Century. </p>
 <p>Our strategic partnership is based on shared values and mutual interests.  India is Australia's fourth-largest export market and a key strategic and economic partner in the region.  </p>
@@ -19,6 +9,4 @@
 <p>Australia and India share longstanding people-to-people and cultural ties, with a flourishing Indian community here which has made a significant social and economic contribution.  Australia's largest ever cultural festival in India - Oz Fest - will be launched by Ms Gillard at a concert in New Delhi.</p>
 <p>Oz Fest will run until February 2013 and involve over 100 events across 18 Indian cities. This will further enhance our cultural ties and understanding between the two countries. </p>
 <p>This will be Ms Gillard's first visit to India as Prime Minister.  She visited India in 2009 as Deputy Prime Minister.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

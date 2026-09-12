@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11307</transcript-id>
-    <title>KING HUSSEIN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/02/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On receiving news of the death of King Hussein of Jordan, I have today</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11307</transcript-id><title>KING HUSSEIN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/02/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On receiving news of the death of King Hussein of Jordan, I have today</p>
 <p> sent the following message of condolence to the Prime Minister of</p>
 <p> Jordan:</p>
 <p>I was deeply saddened to hear of the death of His Majesty King</p>
@@ -29,6 +19,4 @@
 <p> and profound affection for their King.</p>
 <p>He will be deeply mourned by Jordanians and we share in your grief</p>
 <p> at his passing.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

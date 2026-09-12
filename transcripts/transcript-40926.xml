@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40926</transcript-id>
-    <title>Interview with Richard Glover, ABC Sydney</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>02/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Schools Funding; Western Sydney Airport</subjects>
-    <content><![CDATA[<p><strong>RICHARD GLOVER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40926</transcript-id><title>Interview with Richard Glover, ABC Sydney</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>02/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Schools Funding; Western Sydney Airport</subjects><content><![CDATA[<p><strong>RICHARD GLOVER:</strong></p>
 <p>The Prime Minister Malcolm Turnbull is on the line, good afternoon.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good afternoon.</p>
@@ -88,6 +78,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks so much Richard.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

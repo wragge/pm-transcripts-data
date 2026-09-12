@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17502</transcript-id>
-    <title>2010 Prime Minister&#039;s Prizes for Science</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/11/2010</release-date>
-    <release-type>Education</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Parliament House, Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17502</transcript-id><title><![CDATA[2010 Prime Minister&#039;s Prizes for Science]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/11/2010</field_date><release-type>Education</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Parliament House, Canberra</p>
 <p>Senator the Honourable Kim Carr, Minister for Innovation, Industry, Science and Research and our fellow parliamentary colleagues.</p>
 <p>Distinguished ambassadors and members of the diplomatic community.</p>
 <p>Our honoured guests from the Chinese Academy of Sciences.</p>
@@ -97,6 +87,4 @@
 <p>Dedicating your lives to science is not always easy, but your work is more necessary and more relevant than ever before.</p>
 <p>So together let's champion the cause of science.</p>
 <p>And through these awards and beyond, let's tell your brilliant story to the world. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

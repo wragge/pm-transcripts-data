@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21540</transcript-id>
-    <title>Doorstop Interview, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/11/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21540</transcript-id><title>Doorstop Interview, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/11/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PRIME MINISTER:</p>
 <p>I congratulate President Bush on a quite remarkable win.  It was strong and emphatic not only through the popular vote but also the victories he's had in the House of Representatives and the Senate, the fact that he received 51 per cent of the popular vote, the first President for 12 years to win a majority of the votes cast.  So I congratulate him very, very warmly indeed on a quite remarkable victory.</p>
 <p>This was a strong reaffirmation of his leadership of the United States in its fight against world terrorism.  It's a victory for the anti-terrorism cause.  It's a signal to the rest of the world that it must redouble its efforts to unite, to combat the threat that terrorism represents to all of us because of the values that we hold and the attitude to life that we take.</p>
@@ -40,6 +30,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>Well, people make decisions on a combination of issues, but speaking for the Australian electorate - I'm not going to speak for the American electorate, I wouldn't be so presumptuous - it is quite clear that the very negative campaign that was waged against my Government in relation to Iraq failed to resonate with the Australian people.  That doesn't mean to say that we don't face significant ongoing challenges in that country but we must stay the distance and this result will send a very clear signal around the world that the Coalition of more than 30 nations in Iraq is determined to stay the distance, is determined to give the people of Iraq the opportunity of reaching out for a democratic future.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

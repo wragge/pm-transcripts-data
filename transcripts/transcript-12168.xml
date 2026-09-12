@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12168</transcript-id>
-    <title>Radio Interview with Alan Jones, 2UE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: banks; HIH insurance; GST; immigrants; One Nation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12168</transcript-id><title>Radio Interview with Alan Jones, 2UE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: banks; HIH insurance; GST; immigrants; One Nation.</p>
 <p>E&amp;OE................................</p>
 <p>JONES:</p>
 <p>Prime Minister I took a couple of calls from listeners this morning and I asked them if they had a chance to ask you a question, what would they ask you. So before we look at this HIH question, can I just raise the first one with you in relation to banks. Alan a caller said he'd heard you make a comment on the weekend about profits, and he argued, as many of my listeners are arguing, that this is depositors money and charges levied on customers that enables them to make profit, he wanted to know at what point are profits obscene and at what point do banks stop sacking people and closing branches?</p>
@@ -48,7 +38,7 @@
 <p>PRIME MINISTER:</p>
 <p>Look I'm not going to start talking about what might be in the budget.</p>
 <p>JONES:</p>
-<p>Terry asked when you're going to do something, and I asked him what he meant by 'do something', about the hoons and hooligans at Port Hedland detention centre.<br />
+<p>Terry asked when you're going to do something, and I asked him what he meant by 'do something', about the hoons and hooligans at Port Hedland detention centre.<br>
 PRIME MINISTER:</p>
 <p>Well we're certainly not going to do what Mr Beazley does and basically side with the people who riot and demonstrate. I mean every time there's a riot and demonstration Mr Beazley says you should have an inquiry. That infers that the authorities are in the wrong and the rioters are correct. I mean I applaud the tough stand that Philip Ruddock has taken. These people have come here illegally, they are treated humanely, they are treated far more humanely in that detention centre than they were in the country from which they fled. And there is no way that a government I lead is going to bow to the intimidation involved in those riots. And I really think the attitude that Mr Beazley is taking of in effect siding with the rioters is wrong.</p>
 <p>JONES:</p>
@@ -132,7 +122,7 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>In the end Alan if something goes wrong anywhere in the country, people will blame the Government.</p>
 <p>JONES:</p>
-<p>That's it.<br />
+<p>That's it.<br>
 PRIME MINISTER:</p>
 <p>No matter what happens.</p>
 <p>JONES:</p>
@@ -162,6 +152,4 @@ PRIME MINISTER:</p>
 <p>JONES:</p>
 <p>Thanks for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

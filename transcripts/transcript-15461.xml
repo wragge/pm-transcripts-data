@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15461</transcript-id>
-    <title>Murray-Darling Basin Irrigation Allocations</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/04/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I have received a contingency planning report on the water shortages in the Murray-Darling Basin.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15461</transcript-id><title>Murray-Darling Basin Irrigation Allocations</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/04/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I have received a contingency planning report on the water shortages in the Murray-Darling Basin.</p>
 <p>The report reveals an unprecedented situation in the Murray-Darling Basin in relation to irrigation allocations unless significant rain falls in the next month. </p>
 <p>Based on the need to provide a critical minimum supply of water to urban communities within the Basin, there is unlikely to be any water available for irrigation purposes at the commencement of the upcoming water year (1 July 2007).</p>
 <p>The report states that:</p>
@@ -19,6 +9,4 @@
 <p>If some states were to exercise their rights under the current Murray-Darling agreement, communities in those regions may not have access to critical water supplies. </p>
 <p>I have written to the Premiers seeking their cooperation to ensure this does not happen and I expect no difficulty with this approach.</p>
 <p>The Minister for the Environment and Water, the Hon Malcolm Turnbull MP will assist me in managing the Commonwealth's response.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

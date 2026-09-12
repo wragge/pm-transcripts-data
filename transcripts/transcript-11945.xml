@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11945</transcript-id>
-    <title>Interview on AM Programme with Catherine McGrath </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Federal Budget.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11945</transcript-id><title>Interview on AM Programme with Catherine McGrath </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Federal Budget.</p>
 <p>E&amp;OE................................</p>
 <p>MCGRATH:</p>
 <p>Prime Minister thank you for joining AM this morning. Looking first of all at the newspaper coverage, 'Desperate Measures' says the headline in The Age, 'Golden Oldies Gamble' says the Sydney Morning Herald. The Telegraph has a dummied up Seniors Card saying it entitles older Australians to the undivided attention of the Government until polling day. It's not exactly the sort of bounce you would have liked this morning.</p>
@@ -76,6 +66,4 @@
 <p>PRIME MINISTER:</p>
 <p>You're welcome.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

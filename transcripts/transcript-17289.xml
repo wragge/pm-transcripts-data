@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17289</transcript-id>
-    <title>Prime Minister Transcript of interview with Neil Mitchell 3AW 12 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17289</transcript-id><title>Prime Minister Transcript of interview with Neil Mitchell 3AW 12 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
 <p>PM: Good morning Neil. Thanks for having me on your program.</p>
 <p>HOST: Well thanks for your time. Just before the Budget, have you spoken to the new Prime Minister in the UK yet?</p>
 <p>PM: Ah, yes, just within the last hour I spoke with David Cameron, and I certainly congratulated him on being elected to the high office. I also suggested that he and his wife just take a moment of quiet time to enjoy it all because in about an hour's time it all starts. I've met him twice before in London, Neil. The thing about the Australia/UK relationship over many years is that it's always risen above party politics, goes back to the days, I suppose, of Curtin and Churchill. So I think this will be a good relationship between us for the future, a lot of work to do on the global economy. Big meeting, the G20, up in Canada at the end of next month, given that global financial markets are still jittery.</p>
@@ -67,6 +57,4 @@
 <p>HOST: Thank you for your time, will interest rates stay down because of this?</p>
 <p>PM: Well we've taken the cue that we've really got to make sure we stick to budget discipline here, and I've said bringing this Budget back to surplus helps keep pressure off rates. But it's going to be still a tough year ahead and as you know the Reserve Bank makes up its own decision.</p>
 <p>HOST: Thank you very much for your time, the Prime Minister Kevin Rudd, sorry I kept you a little bit too long.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

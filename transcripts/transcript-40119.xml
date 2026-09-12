@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40119</transcript-id>
-    <title>Interview with Geoff Hutchison, ABC Statewide Mornings WA, Esperance</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/12/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>GEOFF HUTCHISON:</strong> Prime Minister, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40119</transcript-id><title>Interview with Geoff Hutchison, ABC Statewide Mornings WA, Esperance</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/12/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>GEOFF HUTCHISON:</strong> Prime Minister, good morning to you.</p>
 <p><strong>PRIME MINISTER:</strong> Good morning, Geoff.</p>
 <p><strong>GEOFF HUTCHISON:</strong> Prime Minister, what were the people of Esperance wanting to talk to you about over bacon and eggs this morning.</p>
 <p><strong>PRIME MINISTER: </strong>Well, we haven't got to the community breakfast yet, Geoff. We have just had a meeting with the Shire President and the fire service volunteers here, Fire Brigade volunteers here at what was the control centre for the fires last month. So, we have had a good discussion about the nature of the fires, obviously, the tragic deaths. That clearly is, as you said, it has shaken the community and I think every death in bushfires, which are part of our experience, shake the nation actually, they remind us of the strength, the immensity of nature. And, with all of our technology, how it often, nonetheless, can defeat us.</p>
@@ -46,6 +36,4 @@
 <p><strong>GEOFF HUTCHISON: </strong>We don’t wish you to do that. Malcolm Turnbull thank you very much.</p>
 <p><strong>Ends</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

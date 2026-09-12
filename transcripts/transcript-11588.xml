@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11588</transcript-id>
-    <title>Sydney Paralympics</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/05/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Federal Government will provide an additional $10 million to the Sydney Paralympics Organising Committee to ensure the success of this great sporting event.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11588</transcript-id><title>Sydney Paralympics</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/05/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Federal Government will provide an additional $10 million to the Sydney Paralympics Organising Committee to ensure the success of this great sporting event.</p>
 <p>The contribution from the Federal Government will, I understand, be matched dollar for dollar by the New South Wales Government, and is in addition to $25 million that has already been provided by the Federal Government towards the Sydney Paralympics.</p>
 <p>The additional financial support will allow organisers of the Paralympics to focus their efforts on making the Games an outstanding success.</p>
 <p>The Paralympics is not only a great sporting event, but an enduring symbol of the spirit, bravery and skill of people with a disability.</p>
@@ -18,6 +8,4 @@
 <p>Subsidies will be available for school children travelling more than 200 km, with the increases announced today particularly helping children travelling more than 400 km. The subsidies range up to $250 depending on the distance travelled.</p>
 <p>I know that Australia will welcome athletes and spectators to the Sydney 2000 Paralympics and that our nation will be enriched through the experience of hosting the first Paralympics of the new millennium.</p>
 <p>23 May 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

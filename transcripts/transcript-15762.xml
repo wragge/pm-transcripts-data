@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15762</transcript-id>
-    <title>Mackay Flooding    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our thoughts are with the families of Mackay, who today are attempting to deal with the impacts of extensive flooding.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15762</transcript-id><title>Mackay Flooding    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our thoughts are with the families of Mackay, who today are attempting to deal with the impacts of extensive flooding.</p>
 <p>Overnight and morning heavy rains have essentially isolated Mackay, with the airport closed and roads to both the north and south blocked and only limited communications available.</p>
 <p>Despite this latest blow, I am sure Queenslanders will again rally together, as they did so magnificently last month to help other families in need.</p>
 <p>The Federal Member for Dawson, James Bidgood has been in constant contact with my office, local families, small business operators and local government officials since early this morning.</p>
@@ -18,6 +8,4 @@
 <p>This will enable local families, small businesses operators, primary producers and councils to access a range of assistance measures.</p>
 <p>I would also like to thank those emergency service personnel and volunteers who again have again responded to this latest urgent situation without hesitation.</p>
 <p>Finally I urge everyone in flood affected areas to stay safe and follow the directions of the experts like the police and emergency services.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22909</transcript-id>
-    <title>Doorstop Interview - Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/10/2000</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Sir Don Bradman; Corporation Law; Business Names act</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22909</transcript-id><title>Doorstop Interview - Melbourne </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/10/2000</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Sir Don Bradman; Corporation Law; Business Names act</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>The decision with sir Donald Bradman, is this an unusual decision?</p>
@@ -29,6 +19,4 @@
 <p>PRIME MINISTER:</p>
 <p>Oh, I would expect he would be. He’s a person who values his privacy. He’s a reasonable man. He obviously doesn’t want an improper use of his name and this will be seen by him I know in a very positive light and it will be supported by the Australian community.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

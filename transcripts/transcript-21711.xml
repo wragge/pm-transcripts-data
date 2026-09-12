@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21711</transcript-id>
-    <title>Press Conference Sofitel Hotel, Boao Forum </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/04/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21711</transcript-id><title>Press Conference Sofitel Hotel, Boao Forum </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/04/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
    PRIME MINISTER:</p>
 <p>I'm looking forward to participating in the Boao Economic Forum.  It's only been going for four years but it's already established a reputation as the "Asian Davos" and the support from the business community as well as a number of political leaders indicates that as the years go by it will become an extremely important forum and I'll be addressing some remarks to the gathering tomorrow regarding the economic opportunities for the Asian Pacific region, Australia's participation in that and I'll obviously be drawing on the experience that I've had in the past few days in both China and Japan, as well as the success Australia has had over a long period of time in integrating her economy with the economies of the Asia-Pacific region.</p>
 <p>Any questions?</p>
@@ -51,6 +41,4 @@
 <p>Look I'm not going to, you can't judge the involvement of the United States in one particular forum by a speakers' list.  But I think it will grow in importance and there's tremendous corporate support from a lot of companies that, the way I read it, have very strong American affiliations.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

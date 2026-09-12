@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16423</transcript-id>
-    <title>Interview with Neil Mitchell and Dennis Walter    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/02/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Prime Minister thank you for speaking with us.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16423</transcript-id><title>Interview with Neil Mitchell and Dennis Walter    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/02/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Prime Minister thank you for speaking with us.</p>
 <p>PM: It is a pleasure Neil and it is an extraordinary day, an extraordinary day for Victoria, an extraordinary day for the country.</p>
 <p>MITCHELL: What do you hope will come out of today, what do you hope it will achieve?</p>
 <p>PM: A national day of mourning is to provide a single national opportunity for all people who have been affected by this extraordinary tragedy to grieve, to mourn. Some say that mourning and grieving is an entirely personal matter and I understand that. But when you have events which go across whole communities and by the extension of the national family, the whole country, it is appropriate that we grieve together. There is one thing.</p>
@@ -42,6 +32,4 @@
 <p>But you know, how I feel, how you feel, slides into nowhere compared with those who we honour today in this national day of mourning, who have lost everything.</p>
 <p>MITCHELL: Very true. Thank you very much for your time, I appreciate it, thank you.</p>
 <p>PM: Thanks Neil, thanks Dennis.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

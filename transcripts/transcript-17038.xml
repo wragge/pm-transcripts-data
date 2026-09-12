@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17038</transcript-id>
-    <title>Prime Minister Transcript of interview with David Koch and Melissa Doyle Sunrise 5 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DOYLE: Well, last week was the inaugural Ask the PM segment. Now, three viewers got to ask Kevin Rudd a question without notice. Hundred of you have since emailed us with your questions, so thank you very much. The response has just been fantastic.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17038</transcript-id><title>Prime Minister Transcript of interview with David Koch and Melissa Doyle Sunrise 5 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DOYLE: Well, last week was the inaugural Ask the PM segment. Now, three viewers got to ask Kevin Rudd a question without notice. Hundred of you have since emailed us with your questions, so thank you very much. The response has just been fantastic.</p>
 <p>KOCH: Now, let's recap what this segment is about. This is your opportunity to ask the Prime Minister directly about any issue, because he's ultimately the man who makes the decisions, he's the only bloke, he's the boss of the country. Mr Rudd has not been briefed on the nature of the questions, and this morning the PM joins us from our Melbourne studio. Prime Minister, good morning to you.</p>
 <p>PM: Good morning, Kochie. Good morning, Mel.</p>
 <p>KOCH: You've got a bit of homework to catch up on from last week. Let's quickly get that out of the way. Liz from South Australia wanted to know why aged pensioners were given an increase in the last Federal Budget, not the Widow's Allowance.</p>
@@ -75,6 +65,4 @@
 <p>KOCH: Okay.</p>
 <p>DOYLE: Okay, well, keep us up to date. Let us know when there's a moment that you can say something, and also, Rebecca and Alex's questions, we'll get some homework next week, so, thank you for your time this morning.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

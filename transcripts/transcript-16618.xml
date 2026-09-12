@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16618</transcript-id>
-    <title>Speech to the Australian Industry Group Lunch    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/06/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is a great pleasure to be here today with friends in the business community to discuss the common challenges we face through the global recession. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16618</transcript-id><title>Speech to the Australian Industry Group Lunch    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/06/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is a great pleasure to be here today with friends in the business community to discuss the common challenges we face through the global recession. </p>
 <p>I thank AIG for organising this event, and especially Heather.</p>
 <p>The Government has a strong relationship with AIG which operates in the spirit of open dialogue and regular consultation  -  across key challenges facing the business community including skills and training, infrastructure investment, tax and industry policy.</p>
 <p>That dialogue between business and government is essential because it's only by working through each of the challenges of this global crisis together, that we can make it through and build a stronger Australia for the future.</p>
@@ -133,6 +123,4 @@
 <p>So I encourage all businesses to make the most of the measures in place, and for advisors to pass that message on.</p>
 <p>And the Australian Government is determined to do what we can to support you through very challenging economic times.</p>
 <p>Because all of us are in this together - whether a business owner, an employee, a customer or supplier, or someone in government or other organisations.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

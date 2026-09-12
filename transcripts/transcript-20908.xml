@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20908</transcript-id>
-    <title>The PM&#039;s Running for a Future Team  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/09/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20908</transcript-id><title><![CDATA[The PM&#039;s Running for a Future Team  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/09/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I am pleased to launch today the Prime Minister';s Running For A Future Team, a new partnership aimed a developing and fostering excellence in distance running and promoting Australian athletics.</p>
 <p>The purpose of the initiative is to help identify and foster Australia';s marathon stars of the future.</p>
 <p>Each year a five member team will be selected in conjunction with The Sydney Marathon Festival.  The Running For A Future Team will consist of up-and-coming marathon runners who show the potential, desire, talent and attitude required to achieve on the world stage.</p>
@@ -23,6 +13,4 @@ I am pleased to launch today the Prime Minister';s Running For A Future Team, a 
 <p>“Success in sport isn';t just about athletic ability – it';s about commitment, persistence and perseverance but even the most committed will admit that nobody can make it on their own. Although the marathon is seen as a solo sport, every successful athlete has a team, be they family, sponsors, coaches or mentors.”</p>
 <p>The Australian Government is committed to partnership programmes that are designed to benefit promising Australian athletes.</p>
 <p>All five runners in the PM';s Team will be competing in the 2003 Sydney Marathon Festival on Sunday.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

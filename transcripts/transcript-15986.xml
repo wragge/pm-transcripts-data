@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15986</transcript-id>
-    <title>Interview with Chris Uhlmann, ABC AM Radio   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15986</transcript-id><title>Interview with Chris Uhlmann, ABC AM Radio   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Prime Minister, good morning.</p>
 <p>PM: Good morning Chris.</p>
 <p>UHLMANN: Were working families better off this time last year?</p>
 <p>PM: Well, we've had a huge increases in petrol. We've had significant increases in the cost of groceries and, of course, the wash through effect still of what's been 12 interest rate rises in a row over many years and that means therefore that there are huge new pressures on working families.</p>
@@ -56,6 +46,4 @@
 <p>On the question of nuclear, we believe that we have a full range of energy options available to Australia beyond nuclear with which and through which we can respond to the climate change challenge, and we're confident we can do that.</p>
 <p>UHLMANN: Prime Minister, thank you.</p>
 <p>PM: Thanks Chris</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18214</transcript-id>
-    <title>Transcript of joint doorstop interview, Perth</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18214</transcript-id><title>Transcript of joint doorstop interview, Perth</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Good morning, everyone. I'm joined by Minister Peter Garrett and we're here at the opening of the Commonwealth Youth Forum.</p>
 <p>I want to say a few words about CHOGM and then I want to make an announcement about mental health services in Australia for young people.</p>
 <p>Firstly, the Commonwealth Heads of Government Meeting. I arrived in Perth yesterday and I will, for this week, be governing Australia from WA.</p>
@@ -75,6 +65,4 @@ PM: Good morning, everyone. I'm joined by Minister Peter Garrett and we're here 
 <p>So the days of just, you know, hoping and muddling through are gone. Decisive action needs to be taken by European leaders.</p>
 <p>JOURNALIST: What are the consequences for-</p>
 <p>PM: Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

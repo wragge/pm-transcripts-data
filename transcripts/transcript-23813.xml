@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23813</transcript-id>
-    <title>Address to the National Press Club 50th Anniversary Dinner, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>10/09/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I suppose Laurie the only respect in which I take after Sir Robert is that I am just as hard to get to the National Press Club.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23813</transcript-id><title>Address to the National Press Club 50th Anniversary Dinner, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>10/09/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I suppose Laurie the only respect in which I take after Sir Robert is that I am just as hard to get to the National Press Club.</p>
 <p>But Laurie Wilson, Tony Eggleton, Juris and Lois Greste, my parliamentary colleagues and I can see three in the room; Dan Tehan, Angus Taylor and Peter Hendy, ladies and gentlemen, it is great honour to be addressing the National Press Club to mark its 50th year.</p>
 <p>As some of you would know, like Alfred Deakin and John Curtin, I was a journalist before eventually becoming a prime minister.</p>
 <p>I have often said that as a journalist, I was a frustrated politician; and as a politician, I am a frustrated journalist; and while a trainee priest, I was just frustrated!</p>
@@ -78,12 +68,22 @@
 <p>Yes, my vision is better schools, better hospitals, and more productive businesses – but a government that tries to dictate this will end up wasting billions of dollars.</p>
 <p>The best way to achieve better schools, better hospitals and more productive businesses (that employ more people and pay higher wages), is to liberate our people and our institutions so that they can do what they know must be done.</p>
 <p>My vision is not bigger governments but stronger people:</p>
-<ul><li>whether it’s the Work for the Dole scheme – about giving people a chance to show what they can do, not what they can’t;</li>
-</ul><ul><li>entrenching the fee for service principle in the health system – so that people will respect what they get;</li>
-</ul><ul><li>establishing the Cole Royal Commission when I was the Workplace Minister into the construction industry – so the rule of law cannot be flouted;</li>
-</ul><ul><li>setting up first the Green Corps, and now the Green Army – so that we can give our children a better environment than that we inherited;</li>
-</ul><ul><li>or even supporting the crown in our constitution – because we should never lightly junk what’s stood the test of time.</li>
-</ul><p>There is, if I may say so, a consistent thread running through this public life.</p>
+<ul>
+<li>whether it’s the Work for the Dole scheme – about giving people a chance to show what they can do, not what they can’t;</li>
+</ul>
+<ul>
+<li>entrenching the fee for service principle in the health system – so that people will respect what they get;</li>
+</ul>
+<ul>
+<li>establishing the Cole Royal Commission when I was the Workplace Minister into the construction industry – so the rule of law cannot be flouted;</li>
+</ul>
+<ul>
+<li>setting up first the Green Corps, and now the Green Army – so that we can give our children a better environment than that we inherited;</li>
+</ul>
+<ul>
+<li>or even supporting the crown in our constitution – because we should never lightly junk what’s stood the test of time.</li>
+</ul>
+<p>There is, if I may say so, a consistent thread running through this public life.</p>
 <p>People deserve a fair go – that’s the Australian way; and they need to have a go too – because that’s also the Australian way.</p>
 <p>Everyone can be good at something.</p>
 <p>Our challenge is to empower each person to discover what that is and to make it happen.</p>
@@ -92,6 +92,4 @@
 <p>And I have to say, tonight, is my vision for the National Press Club – a speech with no questions afterwards.</p>
 <p>Thanks very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

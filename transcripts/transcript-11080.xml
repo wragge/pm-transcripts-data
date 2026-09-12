@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11080</transcript-id>
-    <title>Radio Interview, ABC Country Hour, Hamilton, Victoria</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>US lamb decision, free trade, wool industry, family farming in Australia</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11080</transcript-id><title>Radio Interview, ABC Country Hour, Hamilton, Victoria</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>US lamb decision, free trade, wool industry, family farming in Australia</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>JOURNALIST:</b></p>
 <p>Welcome, Prime Minister John Howard, to the <i>Country Hour</i>, Australia’s longest running radio programme. Have you had much of a chance to speak to a few people? You arrived a couple of hours ago.</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -46,6 +36,4 @@
 <p>Thank you very much for joining the<i> Country Hour</i>.</p>
 <p>[Ends]</p>
 <p>2 August 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

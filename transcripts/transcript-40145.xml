@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40145</transcript-id>
-    <title>Remarks on the Departure of HMAS Darwin</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>30/12/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>HMAS Darwin</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong><br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40145</transcript-id><title>Remarks on the Departure of HMAS Darwin</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>30/12/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>HMAS Darwin</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong><br>
 Rear Admiral Mayer, thank you very much for such an eloquent, inspiring and informative speech. Like you, I begin with the ship’s company of HMAS Darwin and their families, their loved ones, that are here to support them.</p>
 <p>What a family! What a family that Australia that is so proud of. The extended family of HMAS Darwin, thank you. Let’s give you all a round of applause.</p>
 <p>[applause]</p>
@@ -22,6 +12,4 @@ Rear Admiral Mayer, thank you very much for such an eloquent, inspiring and info
 <p>Julius Caesar made his reputation as a Commander defeating pirates in the Mediterranean. The United States Navy itself, the greatest in the world, was founded in the first instance to combat and defeat the Barbary Pirates from Algiers. This is a mission with thousands of years of history behind it.</p>
 <p>Know that you go on this journey with the prayers, the admiration and the thanks of the Australian people.</p>
 <p>On behalf of the Australian Government and all Australians I wish the HMAS Darwin, her ship’s company and fair winds and following seas.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23108</transcript-id>
-    <title>House of Representatives votes to scrap the Carbon Tax</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>21/11/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Coalition Government is keeping its promise to scrap the carbon tax.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23108</transcript-id><title>House of Representatives votes to scrap the Carbon Tax</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>21/11/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Coalition Government is keeping its promise to scrap the carbon tax.</p>
 <p>The people of Australia voted against the Carbon Tax and the House of Representatives has now joined them.</p>
 <p>This was an important vote for Australian families because repealing the Carbon Tax will create a stronger economy with more jobs and saves families $550 a year on average.</p>
 <p>The people of Australia have been left in no doubt about who wants to bring down their household power bills and who doesn’t.</p>
@@ -22,6 +12,4 @@
 <p>All that stands between strengthening the economy, boosting jobs and manufacturing is ‘Electricity Bill’ Shorten.</p>
 <p>The Government will not stop until the carbon tax is gone. It’s time for Labor to step up and help Australian families and businesses by scrapping the Carbon Tax.</p>
 <p>21 November 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

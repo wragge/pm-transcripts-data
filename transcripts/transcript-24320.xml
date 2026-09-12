@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24320</transcript-id>
-    <title>Abbott Government delivers funding certainty to Autism Centres</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>27/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Abbott Government will deliver funding certainty to the families of children with autism who access early intervention services across Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24320</transcript-id><title>Abbott Government delivers funding certainty to Autism Centres</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>27/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Abbott Government will deliver funding certainty to the families of children with autism who access early intervention services across Australia.</p>
 <p>Funding is being extended to six autism-specific centres that employ an innovative early intervention model.</p>
 <p>The Government will extend funding for the six <em>Autism Specific Early Learning and Care Centres </em>(ASELCCs) until the end of 2015, and will also develop new, individualised funding agreements with each centre for the next three years to the end of 2018.</p>
 <p>The investment in the new three year agreements is estimated to be more than $16 million dollars.</p>
@@ -22,6 +12,4 @@
 <p>The Abbott Government is committed to a better deal for people with disability and their carers through the rollout of the NDIS, and in the meantime is working to ensure vital services are continuing to be delivered to those who need them.</p>
 <p>BURNIE</p>
 <p>27 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17536</transcript-id>
-    <title>Transcript of interview with Emma Alberici, ABC AM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/10/2010</release-date>
-    <release-type>Trade</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17536</transcript-id><title>Transcript of interview with Emma Alberici, ABC AM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/10/2010</field_date><release-type>Trade</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: What was your impression of the situation in Afghanistan?</p>
 <p>PM: Well, my impression was that our troops are making progress there. It is very, very tough. It is tough terrain. It is difficult work but they are training the Afghan National Army and they are making progress and of course our aid workers and our Australian Federal Police are making progress too, progress in health and education, in aid work and also progress in training Afghan police.</p>
 <p>HOST: When you meet the NATO secretary-general here in Brussels, what will you be telling him about Australia's commitment to Afghanistan? Is it open ended?</p>
@@ -47,6 +37,4 @@ HOST: What was your impression of the situation in Afghanistan?</p>
 <p>PM: What I would say is I understand that the community wants to make sure that there is transparency about Parliamentarians' entitlements. That is appropriate but people do also want to make sure that if they go to see their MP that they are in an office where there are staff that can help them so that people's concerns can be dealt with. So we have got to get the balance right here.</p>
 <p>HOST: Julia Gillard, thank you very much for your time.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

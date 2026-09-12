@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22054</transcript-id>
-    <title>Interview with Matt Brown AM Programme, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/11/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BROWN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22054</transcript-id><title>Interview with Matt Brown AM Programme, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/11/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BROWN:</p>
 <p>Prime Minister, first to a domestic issue, Bruce Baird says that Singapore Airlines should be told that the impending execution of Mr Van Nguyen will be a factor in their request to fly from the Australian mainland to the West Coast of the USA. What do you say to that kind of appeal for that sort of pressure?</p>
 <p>PRIME MINISTER:</p>
 <p>I don't support linking the two things and they won't be linked. That would not be in Australia's interests, it would not be good policy. The Singapore Airlines issue is a separate issue. As I think most Australians know, I'm a strong supporter of Qantas, that doesn't mean to say that there isn't a case, in certain circumstances at some time for some changes, but I would not seek to make the link. I don't think that is good policy.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>Matt, the position on the leadership is as I have described it. Of course I am fit and of course I'm committed. That's what I owe the Australian people, they are entitled to have 200 per cent from me while ever I am in this job.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

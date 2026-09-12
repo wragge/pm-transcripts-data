@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16928</transcript-id>
-    <title>Prime Minister Minister for Defence Parade marks the end of Operation CATALYST in Iraq 20 November 2009 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>More than 300 current and former ADF personnel and Defence civilians who served on Operation CATALYST will tomorrow participate in a parade marking the end of the operation at the Australian War Memorial.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16928</transcript-id><title>Prime Minister Minister for Defence Parade marks the end of Operation CATALYST in Iraq 20 November 2009 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>More than 300 current and former ADF personnel and Defence civilians who served on Operation CATALYST will tomorrow participate in a parade marking the end of the operation at the Australian War Memorial.</p>
 <p>The Minister for Defence, Senator John Faulkner and I will attend the parade, along with Her Excellency the Governor-General.</p>
 <p>Operation CATALYST was the Australian Defence Force (ADF) contribution to the US-led Multinational Force effort to develop a secure and stable environment in Iraq and to assist national recovery programs.</p>
 <p>Around 20,000 ADF personnel served on Operation CATALYST, which commenced on 16 July 2003 and concluded on 31 July 2009.</p>
@@ -18,6 +8,4 @@
 <p>Servicemen and women from all three Services were deployed in a range of combat, combat support, security and training roles to enable the people of Iraq to take responsibility for their own security.</p>
 <p>The Australian Federation Guard will lead the parade from Anzac Parade onto the Australian War Memorial Parade Ground.</p>
 <p>The parade commences at 2pm.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

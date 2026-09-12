@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10619</transcript-id>
-    <title>Business Combats Domestic Violence -</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/11/1997</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announce the latest step in the Federal Government's fight against domestic violence with a programme to encourage corporate Australia to play its part.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10619</transcript-id><title>Business Combats Domestic Violence -</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/11/1997</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announce the latest step in the Federal Government's fight against domestic violence with a programme to encourage corporate Australia to play its part.</p>
 <p>Entitled Business Against Domestic Violence, the initiative recognises that employers have ways of reaching people that Governments, churches and charities cannot.</p>
 <p>Business will be encouraged to contribute top level leadership, develop policies linking the workplace to services addressing domestic violence, or donate to public benevolence projects.</p>
 <p>To provide an incentive for organisations to become involved in this initiative, the Government has decided to amend the income tax law to allow tax deductions for gifts of the value of $2 or more.</p>
@@ -21,6 +11,4 @@
 <p>The Commonwealth and State Governments spend $226 million annually on crisis services for the victims of domestic violence, including a $25 million programme announced last Friday to find new ways of preventing the cycle of violence infecting a new generation of abusers.</p>
 <p>I am proud to be the patron of this initiative because domestic violence has the capacity to destroy families, now and in the next generation.</p>
 <p>12 November, 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

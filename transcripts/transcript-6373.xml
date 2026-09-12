@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6373</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>17/04/1984</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006373.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 17 April 1984<br />
-I met today with the Premier of Tasmania, Mr. Robin Gray,<br />
-as a follow-up to our meeting on 6 April.<br />
-The discussions were productive and another meeting will be<br />
-held within the next two weeks at which it is hoped<br />
-substantial progress towards a resolution of the issues<br />
-between the Commonwealth and Tasmania will be achieved.<br />
-It was agreed that no further public comment would be made<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6373</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>17/04/1984</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006373.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 17 April 1984<br>
+I met today with the Premier of Tasmania, Mr. Robin Gray,<br>
+as a follow-up to our meeting on 6 April.<br>
+The discussions were productive and another meeting will be<br>
+held within the next two weeks at which it is hoped<br>
+substantial progress towards a resolution of the issues<br>
+between the Commonwealth and Tasmania will be achieved.<br>
+It was agreed that no further public comment would be made<br>
 before the next meeting. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

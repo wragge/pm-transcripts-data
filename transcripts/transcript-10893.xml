@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10893</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                 ADDRESS TO THE NATION ON THE TAX PLAN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10893</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                 ADDRESS TO THE NATION ON THE TAX PLAN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>Good Evening.</p>
 <p>Tonight I want to talk to you about a plan that will help all Australians.</p>
 <p>The economic troubles in Asia have brought home to all of us just</p>
@@ -108,6 +98,4 @@
 <p>It deserves a better and fairer tax system for the next century. Our</p>
 <p> plan will help give the nation that future.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

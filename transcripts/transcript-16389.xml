@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16389</transcript-id>
-    <title>Interview with Mike Carlton and Sandy Aloisi Radio 2UE   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/02/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ALOISI: Prime Minister, good morning. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16389</transcript-id><title>Interview with Mike Carlton and Sandy Aloisi Radio 2UE   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/02/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ALOISI: Prime Minister, good morning. </p>
 <p>PM: Good morning Mike, good morning Sandy.</p>
 <p>ALOISI: And these are dangerous, fairly unchartered waters that we're in. How confident are you that this package will work?</p>
 <p>PM: I believe this strategy will see Australia through this global economic crisis, this global economic recession. The key challenge is this: as we respond to each new piece of economic data to make sure that the package of proposals we put forward is best placed to support growth and jobs in a global environment, which is very, very volatile indeed. There are no guarantees in this whatsoever because we're in unchartered global economic waters.</p>
@@ -66,6 +56,4 @@
 <p>So the problem is this: I can respond to the circumstances as they present themselves to me now, based on the information which has come in from across the world including the halving of China's growth which so directly affects us and shape a strategy to see the nation through.</p>
 <p>To go back to one of your earlier questions. You know, this nation will come through this crisis. And we'll come through it more resilient than we were before because we've got a strategy here which seeks to support growth, support jobs and provides therefore a rational basis for optimism for the future. We intend to get on with it.</p>
 <p>CARLTON: Prime Minister thanks very much for your time, much appreciated.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

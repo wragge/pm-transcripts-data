@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24468</transcript-id>
-    <title>$254 million investment in high value manufacturing</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today the Commonwealth Government announced the projects to gain funding under its $50 million Manufacturing Transition Programme.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24468</transcript-id><title>$254 million investment in high value manufacturing</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today the Commonwealth Government announced the projects to gain funding under its $50 million Manufacturing Transition Programme.</p>
 <p>The Commonwealth contribution to the Programme is accompanied by over $200 million in investment by Australian manufacturers.</p>
 <p>Nineteen businesses will receive between $1 million and $5 million to improve their competitiveness by investing in new capital equipment and plant improvements.</p>
 <p>The Programme seeks to encourage Australian manufacturers to invest in more sophisticated and knowledge-intensive manufacturing. This will create high value jobs in areas where the greatest economic opportunities exist.</p>
@@ -19,6 +9,4 @@
 <p>Successful projects were awarded through a competitive, merit based process, and based on advice from an expert technical committee.</p>
 <p>Information on the Manufacturing Transition Programme can be found at <a href="http://www.business.gov.au/grants-and-assistance/manufacturing/Manufacturing-Transition-Programme/Pages/default.aspx">business.gov.au</a>/MTP.</p>
 <p>20 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18478</transcript-id>
-    <title>Transcript of interview with Hugh Riminton, Meet the Press</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/04/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18478</transcript-id><title>Transcript of interview with Hugh Riminton, Meet the Press</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/04/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Welcome back to the program, Prime Minister Julia Gillard. Good morning.</p>
 <p>PM: Good morning Hugh.</p>
 <p>HOST: Now in Korea, as the news was coming in from Queensland and the latest Newspoll was also coming in, you said your job was “to listen and to lead.” As you listen, what now are you hearing across Australia?</p>
@@ -67,6 +57,4 @@ HOST: Welcome back to the program, Prime Minister Julia Gillard. Good morning.</
 <p>SHERIDAN: Prime Minister, one question on foreign policy  -  we have seen a colossal drop in public support for the US commitment in Afghanistan. We are the second-largest provider of military training to Pakistan in the world after the United States. It's very clear that Pakistani intelligence services are helping the Taliban and the Haqqani network kill Australian soldiers. Are you happy with that?</p>
 <p>PM: We certainly know that as we work towards a solution in Afghanistan and we continue our training mission and acquit our mission and transition in Uruzgan province that there are issues about Pakistan and its involvement. Of course we know that, Greg. At the highest levels we are working to make our position clear. We do think the training that we provide of military offices is an important contribution  - </p>
 <p>HOST: Prime Minister, I do apologise  -  we are going to have to wrap it up. We are hard out of time. Thank you very much for joining us today, also to our panel.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

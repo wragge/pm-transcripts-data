@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41023</transcript-id>
-    <title>Interview with Jonesy and Amanda, WSFM101.7 - Pure Gold</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>23/06/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>School Funding; G20</subjects>
-    <content><![CDATA[<p><strong>AMANDA:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41023</transcript-id><title>Interview with Jonesy and Amanda, WSFM101.7 - Pure Gold</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>23/06/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>School Funding; G20</subjects><content><![CDATA[<p><strong>AMANDA:</strong></p>
 <p>Let’s see what gets the Ghoulies of Malcolm from Canberra. Hello Malcolm, what gets your Ghoulies?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>The years of inconsistent and unfair school funding gets my Ghoulies. Or it got my Ghoulies until 2 o’clock this morning. We’ve changed it and made it right.</p>
@@ -63,6 +53,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Yeah it’s great to talk. Okay thanks a lot.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

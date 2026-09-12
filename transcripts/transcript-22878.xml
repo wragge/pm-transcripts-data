@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22878</transcript-id>
-    <title>Doorstop -  Earlwood Primary School, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/08/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Cricket; Defence force; International relations</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22878</transcript-id><title>Doorstop -  Earlwood Primary School, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/08/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Cricket; Defence force; International relations</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Can I ask you a question Prime Minister about cricket?</p>
@@ -37,6 +27,4 @@
 <p>I have remained concerned about the militias and we continue to encourage the Indonesians to do what they can to curb them.  I know there’s a determination on the part of a lot of people in Indonesia to do that and we’d encourage them to keep doing it.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

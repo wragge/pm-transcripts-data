@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21232</transcript-id>
-    <title>Doorstop Interview, Iraq  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21232</transcript-id><title>Doorstop Interview, Iraq  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 [tape begins] I came to say thank you to the men and women of the ADF and the most evocative effective way that I could say thank you was to join them in the Anzac Day dawn service.  There is no service in the Australian calender that is more evocative of that particular part of our character and I believed it was a way that I could say thank you.  I admire what they';re doing.  They are here in a just cause and I wanted to personally thank them.</p>
 <p>JOURNALIST:</p>
 <p>What about the risk?</p>
@@ -48,6 +38,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

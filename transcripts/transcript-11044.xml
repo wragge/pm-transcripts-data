@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11044</transcript-id>
-    <title>Doorstop Interview, Convention Centre, Canberra City </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/10/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Meeting with Xanana Gusmao;</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11044</transcript-id><title>Doorstop Interview, Convention Centre, Canberra City </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/10/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Meeting with Xanana Gusmao;</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><b>JOURNALIST: </b></p>
 <p>Mr Howard, what are hoping to get from your meeting with Xanana Gusmao this morning?</p>
 <p><b>PRIME MINISTER: </b></p>
@@ -71,6 +61,4 @@
 <p><b>PRIME MINISTER: </b></p>
 <p>Well, somebody got a document and that always excites you people doesn’t it?</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

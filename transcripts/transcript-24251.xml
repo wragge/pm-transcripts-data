@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24251</transcript-id>
-    <title>Interview with Michael Brissenden, ABC AM</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>04/03/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Building Partner Capacity in Iraq,  Daesh death cult,  a strong and sustainable Medicare,  higher education reform,  domestic violence</subjects>
-    <content><![CDATA[<p><strong>MICHAEL BRISSENDEN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24251</transcript-id><title>Interview with Michael Brissenden, ABC AM</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>04/03/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Building Partner Capacity in Iraq, Daesh death cult, a strong and sustainable Medicare, higher education reform, domestic violence</subjects><content><![CDATA[<p><strong>MICHAEL BRISSENDEN:</strong></p>
 <p>Prime Minister, welcome to the programme.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>It’s good to be with you.</p>
@@ -93,6 +83,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

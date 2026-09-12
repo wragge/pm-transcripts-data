@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18334</transcript-id>
-    <title>Transcript of press conference, Hobart</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/01/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18334</transcript-id><title>Transcript of press conference, Hobart</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/01/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I am delighted to be here in Hobart. I'm joined by the acting Premier, Bryan Green. I'm also joined by my parliamentary colleagues, Julie Collins, who is here in her capacity as the Member for Franklin, and Senator Lisa Singh.</p>
 <p>As we stand here, the 100-year memorial for Douglas Mawson's epic journey into the Antarctic is being commemorated. The service is underway as we gather here.</p>
 <p>So, no better time to talk about our future, our future for marine studies and our future for Antarctic studies.</p>
@@ -96,6 +86,4 @@ PM: I am delighted to be here in Hobart. I'm joined by the acting Premier, Bryan
 <p>So, our concentration is obviously on making sure we can provide core services. The budget strategy remains intact, and we will, as I've just indicated, work closely with those parties, and including the Commonwealth, to see this project through.</p>
 <p>PM: Can I just conclude by thanking everybody who's made us so welcome here today, from the University of Tasmania and from CSIRO. We've got to meet staff, we've got to meet scientists, we've got to meet students, we've got to meet people who actually crew the vessel that currently does the ocean surveying, so thank you very much for making us so welcome, and this is a good day, I think, for Tasmanian jobs, with these new investments both in the Institute here and in Bellerive Oval.</p>
 <p>It's a good day for science in Australia and our connection with our waters and with Antarctica and it's also a good day for sporting fans, so thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

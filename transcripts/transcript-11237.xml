@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11237</transcript-id>
-    <title>NEW AUSTRALIAN CRICKET CAPTAIN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/02/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I congratulate Steve Waugh on his appointment as Australia's</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11237</transcript-id><title>NEW AUSTRALIAN CRICKET CAPTAIN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/02/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I congratulate Steve Waugh on his appointment as Australia's</p>
 <p> new cricket captain. It is an excellent choice.</p>
 <p>Steve Waugh has made a remarkable contribution to Australian cricket</p>
 <p> over a long period. His batting performance has been quite outstanding.</p>
@@ -21,6 +11,4 @@
 <p>All Australians will wish the One Day team well in their encounter</p>
 <p> with England at the Melbourne Cricket Ground in Melbourne tonight.</p>
 <p> 12 February 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

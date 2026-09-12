@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18303</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/12/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18303</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/12/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much. I'm here with Senator Mark Arbib, the Minister for Sport.</p>
 <p>we're having a very good day out at Red Hill Primary School, and if I can reinforce the message to kids, please get involved in 2012 in the Prime Minister's Olympic and Paralympic Challenge, please get out there, be active, earn those points and earn those rewards including gold, silver and bronze medals - and you've got plenty of amazing Australians to inspire you in that task.</p>
 <p>We're very happy to take any questions.</p>
@@ -83,6 +73,4 @@ PM: Thank you very much. I'm here with Senator Mark Arbib, the Minister for Spor
 <p>JOURNALIST: Prime Minister given the weekend's events, are you still able to work  -  have a functioning relationship with Kevin Rudd, and are you bracing for a challenge from him?</p>
 <p>PM: The answer is, yes, of course we work together closely in the interests of the Government and the nation. Kevin is a very valued part of my team. He's doing a great job as Minister for Foreign Affairs. He's an incredibly active Minister for Foreign Affairs, pursuing our great Australian tradition of middle power diplomacy, what we like to style as punching above our weight. Kevin Rudd is doing that for our nation, so we'll keep working together with Kevin pursuing his work as the Minister for Foreign Affairs.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

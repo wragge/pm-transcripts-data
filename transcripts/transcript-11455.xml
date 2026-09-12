@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11455</transcript-id>
-    <title>Interview with Helen Dally, Today on Saturday </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: GST and tax reform; Centenary of Federation London trip</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11455</transcript-id><title>Interview with Helen Dally, Today on Saturday </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: GST and tax reform; Centenary of Federation London trip</p>
 <p>E&amp;OE................................................................................................................................</p>
 <p>DALLY:</p>
 <p>Well Opposition Leader, Kim Beazley calls it the beginning of the nightmare. For Prime Minister Howard today's introduction of a broad based consumption tax is the realisation of a 22 year dream to overhaul Australia's tax system. And while he says the verdict on the GST won't be in until Christmas the Prime Minister will take to the streets today to witness first hand how Australians take to the tax. But first the Prime Minister joins us in the studio. Good morning Prime Minister.</p>
@@ -122,6 +112,4 @@
 <p>DALLY:</p>
 <p>Thank you for you time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

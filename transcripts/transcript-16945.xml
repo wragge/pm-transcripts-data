@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16945</transcript-id>
-    <title>Prime Minister Media Release Australia strengthens relations with the Caribbean Trinidad 29 November 2009</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia and the 15 member countries of the Caribbean community (CARICOM) signed a new Memorandum of Understanding today in Port of Spain, Trinidad and Tobago.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16945</transcript-id><title>Prime Minister Media Release Australia strengthens relations with the Caribbean Trinidad 29 November 2009</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia and the 15 member countries of the Caribbean community (CARICOM) signed a new Memorandum of Understanding today in Port of Spain, Trinidad and Tobago.</p>
 <p>This agreement will begin a new phase in Australia's relations with the countries of the Caribbean, with an emphasis on building regional economic resilience and integration and supporting small island states address the threat of climate change.</p>
 <p>The centrepiece of the new relationship will be a $60 million development partnership over four years.</p>
 <p>Many Caribbean states are vulnerable to the impact of climate change and natural disasters. The new partnership will provide a framework for cooperation on climate change adaptation, renewable energy, disaster risk reduction, natural disaster management, food security and agriculture.</p>
@@ -20,6 +10,4 @@
 <p>Australia's High Commissioner to Trinidad and Tobago, Philip Kentwell, will be accredited as non-resident Ambassador to CARICOM.</p>
 <p>Australia and the Caribbean have long enjoyed friendly relations based on shared historical, sporting, social and political ties and membership of the Commonwealth.</p>
 <p>CARICOM's 15 members are: Antigua and Barbuda, Bahamas, Barbados, Belize, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname and Trinidad and Tobago.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

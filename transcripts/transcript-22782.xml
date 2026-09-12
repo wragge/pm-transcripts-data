@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22782</transcript-id>
-    <title>Transcript of joint press conference with President of Nauru , Minister for Immigration - Brisbane</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>03/08/2013</release-date>
-    <release-type>Press Conference</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject(s): Regional Resettlement Arrangement with Nauru; Election date; G20</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22782</transcript-id><title>Transcript of joint press conference with President of Nauru , Minister for Immigration - Brisbane</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>03/08/2013</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject(s): Regional Resettlement Arrangement with Nauru; Election date; G20</p>
 <p>PM: Mr President, you're a very welcome guest in Brisbane, a very welcome guest in Australia, and it's good to see you here representing our good friends in the Republic of Nauru.</p>
 <p>I'd also like in particular to thank you for travelling to Brisbane to finalise this agreement.</p>
 <p>And also to our ministerial colleagues, Minister Tony Burke, the Minister for Immigration and of course the Minister for Finance and Sustainable Development and Justice, Mr David Adeang from the Republic of Nauru. I extend to you also, Minister, our warmest welcome.</p>
@@ -234,6 +224,4 @@
 <p>MINISTER BURKE: I've seen no evidence that it did.</p>
 <p>That realistically will probably have to be a question to them given that they've never raised it with me in those terms.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

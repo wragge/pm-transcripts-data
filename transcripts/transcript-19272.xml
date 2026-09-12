@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19272</transcript-id>
-    <title>Anzac Day Address</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/04/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Morning Service, Townsville</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19272</transcript-id><title>Anzac Day Address</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/04/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Morning Service, Townsville</p>
 <p>"Australians said goodbye ... and promised never to forget."</p>
 <p>ANZAC DAY ADDRESS</p>
 <p>MORNING SERVICE, TOWNSVILLE</p>
@@ -46,6 +36,4 @@
 <p>And so little is asked in return.</p>
 <p>That for a few hours each year, we hush the busy course of our lives and dedicate this day, to remember.</p>
 <p>Lest we forget.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

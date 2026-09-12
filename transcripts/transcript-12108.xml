@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12108</transcript-id>
-    <title>Doorstop Interview, Sydney Airport</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Illegal immigrants; Ansett.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12108</transcript-id><title>Doorstop Interview, Sydney Airport</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Illegal immigrants; Ansett.</p>
 <p>E&amp;OE................................</p>
 <p>PRIME MINISTER:</p>
 <p>Well ladies and gentlemen late last night another vessel was spotted by Australian Coast Watch believed to be carrying illegal immigrants to Australia. That vessel was intercepted by HMAS Warramunga, it was bound for Ashmore Reef. Following warnings to turn around from the frigates' boat the vessel was subsequently boarded as a stateless vessel without a flag. The vessel was then identified as the Aceng, registered in Bali, and notwithstanding this warning the vessel continued towards Ashmore Islands.</p>
@@ -63,6 +53,4 @@
 <p>Well look there's been no proposal put to us in relation to that. I'm just saying that I don't favour a direct equity investment.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

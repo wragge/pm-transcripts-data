@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19050</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/02/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Queenstown, New Zealand</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19050</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/02/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Queenstown, New Zealand</p>
 <p>PM: First can I say, this has been a very successful visit to New Zealand. I want to thank Prime Minister Key for the warmth of his welcome and also for the very constructive discussions we've had whilst I've been here.</p>
 <p>This is an incredibly close relationship, a family relationship, and I'm pleased that we've been able to build on that relationship in a very practical way over the last few days.</p>
 <p>I'm returning today to Australia and in the week to come the Government will be making a number of announcements about workplace relations.</p>
@@ -58,6 +48,4 @@
 <p>JOURNALIST: But do you understand that they do have those concerns?</p>
 <p>PM: I expect them to be negative and whatever we say they will say something negative so I don't bother with it.</p>
 <p>Okay, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

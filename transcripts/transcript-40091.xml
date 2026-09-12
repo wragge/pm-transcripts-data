@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40091</transcript-id>
-    <title>Remarks at the White Ribbon Breakfast</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/11/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>White Ribbon Day</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40091</transcript-id><title>Remarks at the White Ribbon Breakfast</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/11/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>White Ribbon Day</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you for the commitment of the men and women who work in the building and in the surrounds to this absolutely critical national cause. Our leaders and deputy leaders of our parties are represented, the Speaker is here, all of my parliamentary colleagues I want to acknowledge and welcome.</p>
 <p>The Chief of the Defence Force and many other of our Defence leaders are here too, as you said.</p>
 <p>Let there be no doubt, what we need in Australia today, is significant cultural change.</p>
@@ -38,6 +28,4 @@
 <p>So that's what we need to practice, we need to practice that as an example in our public lives and in our private lives alike.</p>
 <p>So here on White Ribbon Day, we recommit to end violence against women, to support the victims of violence, but above all to work together to effect this critical cultural change for the protection of the women of Australia and of all of us.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10809</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                DOORSTOP INTERVIEW                MERIMBULA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/02/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10809</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                DOORSTOP INTERVIEW                MERIMBULA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/02/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................</p>
 <p>JOURNALIST:</p>
 <p>Are you trying to persuade Janette to take up the offer of a holiday</p>
 <p> in Merimbula next year?</p>
@@ -98,6 +88,4 @@
 <p> there are fewer planes over Lowe and there is less noise over his</p>
 <p> electorate now than when my Government was returned.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

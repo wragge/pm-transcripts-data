@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18641</transcript-id>
-    <title>Intervention at the United Nations Conference on Sustainable Development, Rio de Janeiro</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/06/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18641</transcript-id><title>Intervention at the United Nations Conference on Sustainable Development, Rio de Janeiro</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/06/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 In the twenty years since the first Earth Summit, the world's great environmental challenges have grown.</p>
 <p>Biodiversity is being lost.  </p>
 <p>Many oceans and forests are threatened.</p>
@@ -62,6 +52,4 @@ In the twenty years since the first Earth Summit, the world's great environmenta
 <p>Let us greet this privilege with passion and perspective.</p>
 <p>We are not here this week just to talk to each other. </p>
 <p>We're here to decide, to agree  -  and then to act.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

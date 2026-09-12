@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17482</transcript-id>
-    <title>Transcript of press conference - Lisbon, Portugal </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/11/2010</release-date>
-    <release-type>Foreign Affairs</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17482</transcript-id><title>Transcript of press conference - Lisbon, Portugal </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/11/2010</field_date><release-type>Foreign Affairs</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here with Stephen Smith at the conclusion of the meetings today about the future strategy in Afghanistan, and the meeting today has been an important meeting for Afghanistan and for Australia.</p>
 <p>48 countries have met to discuss the future strategy in Afghanistan. Now, previously we had agreed that we would work towards having Afghan national security forces in the lead in security in Afghanistan by 2014. Today, we have agreed to launch the transition process for security leadership in 2011, and that would be occurring in selected districts and places in Afghanistan.</p>
 <p>This means that we have pressed the political start button on transition. As I've said before, transition will be a gradual process. It will happen place by place. There will be no one transition day, and transition will be conditions-based.</p>
@@ -64,6 +54,4 @@ PM: I'm here with Stephen Smith at the conclusion of the meetings today about th
 <p>PM: I'll be relieved to be flying to the final parliamentary week, so we'll be flying into question time and we'll be looking forward to it, won't we? Love question time.</p>
 <p>MINISTER SMITH: Absolutely. Couldn't think of anything better to be doing.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

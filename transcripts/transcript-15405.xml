@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15405</transcript-id>
-    <title>Ron Evans AM</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/03/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am greatly saddened by the news that former Australian Football League Chairman Ron Evans lost his battle against cancer this morning. He was 67.<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15405</transcript-id><title>Ron Evans AM</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/03/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am greatly saddened by the news that former Australian Football League Chairman Ron Evans lost his battle against cancer this morning. He was 67.<br>
  He fought a brave battle against the disease showing great strength and courage despite knowing he faced the toughest of fights.</p>
 <p>He was a wonderful family man and a distinguished business figure. As Managing Director of the Spotless company he helped grow the business into a major global services provider employing more than 27,000 people worldwide. He was also a director with the iconic Australian fashion house Country Road.</p>
 <p>Ron was a friendly and engaging man who had an infectious love of Australian Football. In his bright and enthusiastic manner, he taught me a great deal about the game. </p>
@@ -17,6 +7,4 @@
 <p>As well as being an excellent sports administrator, he was an accomplished player. He was twice the league's leading goal kicker during his 64 games for Essendon and also twice topped the goal kicking in the West Australian Football League where he played for West Perth. He represented both Western Australia and Victoria in interstate football.</p>
 <p>Ron was made a Member of the Order of Australia last year for his services to business, commerce, the AFL and the community through a range of charities.</p>
 <p>On behalf of Janette and myself and the Australian Government, I extend my deepest sympathies to Ron's wife Andrea, his three children David, Richard and Deanna, his family, friends, the AFL administration and the game's many fans across Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

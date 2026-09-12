@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24602</transcript-id>
-    <title> Indigenous Recognition </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/07/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our country has moved closer to recognising the First Australians in our constitution and ending the great silence about indigenous people in our founding document.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24602</transcript-id><title> Indigenous Recognition </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/07/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our country has moved closer to recognising the First Australians in our constitution and ending the great silence about indigenous people in our founding document.</p>
 <p>There will be more steps in this journey but for the first time in our country’s history, the Prime Minister and the Leader of the Opposition have sat down with Australia’s Aboriginal and Torres Strait Islander leaders to consider the path ahead.</p>
 <p>The Leader of the Opposition and I restated our commitment to recognising indigenous people in the constitution and we listened to indigenous leaders’ views and advice.</p>
 <p>Without bipartisan support, no referendum is likely to succeed.</p>
@@ -32,6 +22,4 @@
 <p>Let us take these steps together.</p>
 <p>
 6 July 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

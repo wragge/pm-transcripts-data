@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10642</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                RADIO 5DN WITH JEREMY CORDEAUX</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/07/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10642</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                RADIO 5DN WITH JEREMY CORDEAUX</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/07/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>CORDEAUX:</p>
 <p>It is with great pleasure that we welcome the Prime Minister of</p>
 <p>   Australia John Howard. Good morning.</p>
@@ -375,6 +365,4 @@
 <p>   well, people are entitled to have a go at them.</p>
 <p>CORDEAUX:</p>
 <p>Prime Minister thank you for your time. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

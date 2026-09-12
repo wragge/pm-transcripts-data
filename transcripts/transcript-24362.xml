@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24362</transcript-id>
-    <title>Joint Press Conference, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>14/04/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Australia to contribute to the Building Partner Capacity mission in Iraq,  GST,  Budget 2015.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24362</transcript-id><title>Joint Press Conference, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>14/04/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Australia to contribute to the Building Partner Capacity mission in Iraq, GST, Budget 2015.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Back in March, the Government announced that we were preparing a force for a Building Partner Capacity training mission in Iraq. I can inform you that today the Cabinet has decided to deploy that force. The deployment will start tomorrow and we expect that the force will be deployed and operational by the middle of May.</p>
 <p>It is, as I stress, a Building Partner Capacity training mission, it’s not a combat mission, but Iraq is a dangerous place. It is a dangerous place and I can't tell you that this is risk-free.</p>
 <p>Our force is about 330-strong. It will partner with over 100 New Zealand military personnel and we will jointly be doing the Building Partner Capacity mission at the Taji military complex north of Baghdad.</p>
@@ -101,6 +91,4 @@
 <p>As for Peter's comments today well, as a distinguished former treasurer, he is perfectly, perfectly entitled to his view, but this is a tax-cutting Government as we've already demonstrated by abolishing the carbon tax, by abolishing the mining tax and preparing as we are for a small business tax cut in the upcoming budget.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

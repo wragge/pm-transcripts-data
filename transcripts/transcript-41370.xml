@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41370</transcript-id>
-    <title>Television interview – The Project, Ten</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>07/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>CARRIE BICKMORE: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41370</transcript-id><title>Television interview – The Project, Ten</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>07/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage</subjects><content><![CDATA[<p><strong>CARRIE BICKMORE: </strong></p>
 <p>Here to help us celebrate this historic day would you please welcome the Prime Minister, Malcolm Turnbull.</p>
 <p>(Applause)</p>
 <p>Prime Minister, about bloody time.</p>
@@ -72,6 +62,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

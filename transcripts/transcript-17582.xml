@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17582</transcript-id>
-    <title>Transcript of interview, Channel Nine News </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17582</transcript-id><title>Transcript of interview, Channel Nine News </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister thank you for your time tonight. You've toured the flood hit areas today, what have you seen and how as it affected you personally?</p>
 <p>PM: Today I've been in St George and they are still bracing for the peak of the flood. They're very well prepared, but of course they're anxious as they await the peak and there are people there who had their homes flooded in March and who are now battling floodwaters again.</p>
 <p>Now I'm in Rockhampton and you can see the river and the water behind me. I've had the opportunity here today to go to the local evacuation centre and the recovery centre to speak to a large number of local people. The peak of the flood is past here, the mood is stoic, people are looking after each other, they're really lending a helping hand to each other.</p>
@@ -18,6 +8,4 @@ HOST: Prime Minister thank you for your time tonight. You've toured the flood hi
 <p>HOST: Well a very long process ahead, thank you so much for your time tonight.</p>
 <p>PM: Thank you and of course I'd be asking Australians to dig deep for your telethon and appeal.</p>
 <p>HOST: I'm sure they will, thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

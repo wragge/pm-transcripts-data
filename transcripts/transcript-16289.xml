@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16289</transcript-id>
-    <title>The First National Security Statement to the Parliament Address by the Prime Minister of Australia The Hon. Kevin Rudd MP </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/12/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>National Security Statement</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16289</transcript-id><title>The First National Security Statement to the Parliament Address by the Prime Minister of Australia The Hon. Kevin Rudd MP </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/12/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>National Security Statement</p>
 <p>This Statement outlines the Government's national security policy. It describes the scope of national security; our national security interests, principles and priorities; and outlines the Government's vision for a reformed national security structure.</p>
 <p>Introduction</p>
 <p>The first priority of government is the nation's security. </p>
@@ -230,6 +220,4 @@
 <p> Documents</p>
 <p>    First National Security Statement - RTF 400KB | PDF 127KB </p>
 <p>    Summary and Conclusions - Report of the Review of Homeland and Border Security RTF 125KB | PDF 121KB </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

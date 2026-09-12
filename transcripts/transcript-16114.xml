@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16114</transcript-id>
-    <title>Press Conference, Entertainment and Convention Centre Townsville   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: National security is the first responsibility of government and defence, within that is the first responsibility of government. And part of planning for the future means planning for our future defence needs.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16114</transcript-id><title>Press Conference, Entertainment and Convention Centre Townsville   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: National security is the first responsibility of government and defence, within that is the first responsibility of government. And part of planning for the future means planning for our future defence needs.</p>
 <p>What the Government is determined to do is to ensure that Australia meets our future defence challenges.</p>
 <p>Later this year we will be delivering our first national security statement to the Parliament - the first time Australia has had such a statement to the Parliament.</p>
 <p>And that will be followed by a defence White Paper, which will outline Australia's future strategic scenario, Australia's future defence capability needs and our future recommended force structure.</p>
@@ -63,6 +53,4 @@
 <p>PM: One</p>
 <p>JOURNALIST: Eating meat only once a week.</p>
 <p>PM: I kind of like meat so I will have a read of that report. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

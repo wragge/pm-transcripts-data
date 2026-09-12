@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20653</transcript-id>
-    <title>Radio Interview with Alan Jones, Radio 2GB   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JONES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20653</transcript-id><title>Radio Interview with Alan Jones, Radio 2GB   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JONES:</p>
 <p>The Prime Minister has entered this critical issue of the debate, least about this critical issue, of children as victims of broken relationships. Prime Minister Howard has reportedly moved to restore the role of fathers. He says young boys need male role models in their lives. The Prime Minister has said if a boy lives with his mother, sees little of his father, has no older brothers or close uncles or close family male adult friends, and typically might go to a primary school where there are very few male teachers, it's often not until the boy's 15 or 16 that he comes across a male role model with which he can identify. This is a very big issue. The Prime Minister's on the line. Prime Minister good morning.</p>
 <p> PRIME MINISTER:</p>
 <p>Good morning Alan.</p>
@@ -86,6 +76,4 @@
 <p>PRIME MINISTER:</p>
 <p>You too.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

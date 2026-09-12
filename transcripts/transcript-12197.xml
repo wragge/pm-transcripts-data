@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12197</transcript-id>
-    <title>New President in the Philippines </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/01/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government welcomes the apparently peaceful and constitutional resolution of the political crisis in the Philippines.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12197</transcript-id><title>New President in the Philippines </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/01/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government welcomes the apparently peaceful and constitutional resolution of the political crisis in the Philippines.</p>
 <p>We in Australia have followed with both intense interest and concern developments in the Philippines which flowed from the impeachment proceedings launched against former president Estrada.</p>
 <p>It had become increasingly apparent in recent days that a peaceful transfer of authority from Joseph Estrada to his vice-president was needed to end the immediate impasse.</p>
 <p>Australia enjoys a close association with the Philippines. It is a country with which we have many ties.</p>
@@ -17,6 +7,4 @@
 <p>She is an experienced political figure in her country and the daughter of a former president. Her electoral support is strong having secured a higher popular vote than Estrada when they were elected in 1998.</p>
 <p>Australia wishes President Macapagal Arroyo every success in responding to the enormous challenge she now faces in restoring stability and direction to political life in the Philippines.</p>
 <p>20 January 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

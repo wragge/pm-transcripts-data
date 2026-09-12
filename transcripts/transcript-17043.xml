@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17043</transcript-id>
-    <title>Prime Minister Transcript of interview with Tony Jones Q and A 8 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JONES: Good evening and welcome to a new season of Q&amp;A and another year of lively and entertaining political debate. Tonight, something special - Prime Minister Kevin Rudd joins us at the Museum of Australian Democracy in Old Parliament House. Please welcome the Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17043</transcript-id><title>Prime Minister Transcript of interview with Tony Jones Q and A 8 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JONES: Good evening and welcome to a new season of Q&amp;A and another year of lively and entertaining political debate. Tonight, something special - Prime Minister Kevin Rudd joins us at the Museum of Australian Democracy in Old Parliament House. Please welcome the Prime Minister.</p>
 <p>We're standing in the old House of Representatives chamber, where past leaders, such as Curtin, Menzies, Whitlam and Fraser stood to address the nation and answer questions from the floor. Tonight the Prime Minister will face questions, without notice, from this audience of 200 young Australians all aged between 16 and 25.</p>
 <p>Now, remember, Q&amp;A is live from 9.35 Eastern Time, so join the Twitter conversation. Send your questions by SMS to 197 55 222 or go to our website at abc.net.au/qanda. That's "qanda".</p>
 <p>Our young audience have outdone themselves with hundreds of great questions. We won't get through all of them, but the Prime Minister has agreed to keep his answers short and concise - that's true, isn't it - and help us get through as many of them as possible.</p>
@@ -217,6 +207,4 @@
 <p>But the last thing is this: to make sure also that this future Australia, which is prosperous, which is strong, which is creating jobs of the future, is also one where we have made the right decisions to ensure that this is a sustainable country as well. Sustainable environmentally, but the questions of tolerance and harmony and shall I say, our unity are preserved in the future.</p>
 <p>That's the sort of Australia I want for the future. Five broad objectives but none of them work unless you get in behind them with real, practical policies which make a difference. What we're doing is not perfect but that's the direction we're trying to take the country in.</p>
 <p>JONES: I'm sorry to you who still have your hands up, because that is all we have time for tonight. Please thank our guest, the Prime Minister, Kevin Rudd.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

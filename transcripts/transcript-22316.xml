@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22316</transcript-id>
-    <title>Nuclear Review: Taskforce Membership  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/06/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today all of the remaining members of the Prime Ministerial Taskforce that will be undertaking the review into uranium mining, processing and the longer term contribution of nuclear energy in Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22316</transcript-id><title>Nuclear Review: Taskforce Membership  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/06/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today all of the remaining members of the Prime Ministerial Taskforce that will be undertaking the review into uranium mining, processing and the longer term contribution of nuclear energy in Australia.</p>
 <p>In addition to the Taskforce Chairman, Dr Ziggy Switkowski, and Professors George Dracoulis and Warwick McKibbin from the Australian National University, the Taskforce will also include:</p>
 <p>Ms Sylvia Kidziak AM</p>
 <p>Ms Kidziak is the Chairman of the Radiation Health and Safety Council that advises the Australian Radiation Protection and Nuclear Safety Agency. Ms Kidziak has also Chaired the Nuclear Safety Committee and has experience of nuclear safety issues in the United States nuclear industry and her involvement with the Australian Nuclear Science and Technology Organisation. Ms Kidziak will provide the Taskforce with significant practical and technical experience on the various issues relating to nuclear health and safety.</p>
@@ -19,6 +9,4 @@
 <p>Dr Johnston was the Supervising Scientist, a statutory position within Environment Australia, from 1999 until 2005. Dr Johnston, who was trained in nuclear physics, has extensive experience in the area of radiation protection through studies on the dispersion of radionuclides in the environment. He was awarded the Public Service Medal in 2003 for outstanding service in the development of environmental standards relating to Kakadu National Park, and ensuring the highest levels of scientific integrity in the environmental research program and in the Environmental Research Institute of the Supervising Scientist.</p>
 <p>These appointments provide a well rounded, highly experienced and balanced Taskforce that will allow for an objective and highly professional review of the complex issues outlined in the terms of reference.</p>
 <p>I am also pleased to announce that the whole-of-government Secretariat that will be established to support the work of the Taskforce will be headed by Mr John Ryan. Mr Ryan is a Deputy Secretary from the Department of Industry, Tourism and Resources and has extensive experience in a wide range of energy policy issues. Mr Ryan is also the serving Chairman of the Governing Board of the International Energy Agency.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

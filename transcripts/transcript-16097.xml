@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16097</transcript-id>
-    <title>Interview with Neil Mitchell Radio 3AW  Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Good morning, Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16097</transcript-id><title>Interview with Neil Mitchell Radio 3AW  Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Good morning, Prime Minister.</p>
 <p>PM: Good morning, Neil.</p>
 <p>MITCHELL: Believe it or not we were just talking about the AFL drugs policy which has been released after consultation with your Government. Are you happy with it?</p>
 <p>PM: They seem to be doing the right thing. I've only just got a full briefing on it. As I understand it it's based on a principle of three strikes and you're out. And we think that this is a positive advance on where things were before.</p>
@@ -99,6 +89,4 @@
 <p>MITCHELL: I noticed your wife crying in public this week, which I thought was a lovely human moment. What makes you cry?</p>
 <p>PM: I think we all just run into cases of just human tragedy and Therese wasn't planning on the other day. She was reading a poem handed to her by an Aboriginal girl about her mother's death and there you go.</p>
 <p>MITCHELL: Thank you very much for talking to us.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

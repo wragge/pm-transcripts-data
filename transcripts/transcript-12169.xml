@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12169</transcript-id>
-    <title>ANZUS Treaty</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/09/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>APPLICATION OF ANZUS TREATY TO TERRORIST ATTACKS ON THE UNITED STATES</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12169</transcript-id><title>ANZUS Treaty</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/09/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>APPLICATION OF ANZUS TREATY TO TERRORIST ATTACKS ON THE UNITED STATES</p>
 <p>The Australian people have been shocked and outraged at the enormity of the terrorist attacks on the United States. These heinous crimes have caused catastrophic loss of life, injury and destruction. We anticipate that a significant number of Australian nationals are included among those who lost their lives.</p>
 <p>I have already conveyed to the President of the United States the condolences of the Australian Government and people, and expressed our resolute support for the United States at this most difficult time.</p>
 <p>The terrorist attacks on the United States were discussed today at a special Cabinet meeting that I convened on my return from the United States.</p>
@@ -17,6 +7,4 @@
 <p>This action has been taken to underline the gravity of the situation and to demonstrate our steadfast commitment to work with the United States in combating international terrorism.</p>
 <p>The Australian Government will be in close consultation with the United States Administration in the period ahead to consider what actions Australia might take in support of the US response to these attacks.</p>
 <p>14 September 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

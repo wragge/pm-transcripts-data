@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17640</transcript-id>
-    <title>Transcript of interview, ABC Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17640</transcript-id><title>Transcript of interview, ABC Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard, good morning to you.</p>
 <p>PM: Good morning, Jon.</p>
 <p>HOST: We had, in fact, a very positive reaction on talkback on this radio station but I'm astonished to see that the next morning the written media - the press - pretty much universally say that your policy has been badly received and on the skids.</p>
@@ -49,6 +39,4 @@ HOST: Julia Gillard, good morning to you.</p>
 <p>HOST: And at the start of what could turn out to be quite a turbulent year. We will see just how turbulent it turns out to be.</p>
 <p>I'm grateful to you for your time today.</p>
 <p>PM: Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

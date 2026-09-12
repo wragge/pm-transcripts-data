@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22874</transcript-id>
-    <title>Doorstop Interview, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Interest rates; sex discrimination act.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22874</transcript-id><title>Doorstop Interview, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Interest rates; sex discrimination act.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>[Inaudible], are we returning to the bad old days of 17% inflation rates….interest rates?</p>
@@ -60,6 +50,4 @@
 <p>PRIME MINISTER:</p>
 <p>The only thing that we have considered is what we announced.  Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

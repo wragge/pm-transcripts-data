@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21305</transcript-id>
-    <title>Doorstop Interview Capitol Hill, Washington DC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21305</transcript-id><title>Doorstop Interview Capitol Hill, Washington DC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Can I just say that I've been very encouraged from the responses that I've had this afternoon from both sides in Congress and the Senate. The general view is supportive and I'm hopeful that it will be ratified and if parliamentary approval is given it will come into force on the 1st of January next year. Now, they have certain processes to go through, I can only report at this stage that have been very encouraged by all the Congressmen and women and Senators that I've spoken to this afternoon. Generally the response has been very good but there are processes to be followed, but I am hopeful that it will receive the requisite support in time for, providing the Australian parliament approves the necessary legislation, in time for it to come into force on the 1st of January next year.</p>
 <p>JOURNALIST:</p>
 <p> ...[inaudible] before the elections both here and in Australia?</p>
@@ -139,6 +129,4 @@
 <p> Well I am very encouraged by everything that I've been told. But I respect the processes of this place, and all I can report is that I am very encouraged by what I have been told.</p>
 <p> Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

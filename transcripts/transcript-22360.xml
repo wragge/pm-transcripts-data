@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22360</transcript-id>
-    <title>Doorstop Interview Opera House, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22360</transcript-id><title>Doorstop Interview Opera House, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>  Prime Minister, how do you answer claims that you have been dishonourable over Mr Costello?</p>
 <p> PRIME MINISTER:</p>
 <p>  The situation is very simple, there was no deal made. There were lots of discussions at that time, including one in which Mr McLachlan was present, that did not involve the conclusion of a deal. Perhaps the best evidence of that is that the discussions about the leadership of the Liberal Party went on for weeks and weeks after that particular discussion took place in December of 1994. Could I just make one other point, I think everybody should just take a bit of a reality check. The leadership of the Liberal Party is determined by the more than 100 men and women who make up the Parliamentary Liberal Party. The leadership of the Liberal Party is not determined by John Howard or Peter Costello or indeed any other individual. The leadership of the Liberal Party is in the hands of the men and women who comprise the Federal Parliamentary Liberal Party and beyond that I don't have anything further to say.</p>
@@ -102,6 +92,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well at the time of the last election, the words I used about my future were exactly the same as the words that I continue to use. So I have in no way misled the Australian public. I openly said at the time of the last election that I would remain the leader of the Liberal Party for so long as the Party wanted that and it was in the Party's best interests. That was the condition on which I was elected and that remains my position.</p>
 <p>Thank you.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

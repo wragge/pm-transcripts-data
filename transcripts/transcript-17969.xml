@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17969</transcript-id>
-    <title>Support for Australia&#039;s coal sector</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17969</transcript-id><title><![CDATA[Support for Australia&#039;s coal sector]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard, Minister for Climate Change and Energy Efficiency Greg Combet and Minister for Resources and Energy Martin Ferguson today announced a $1.3 billion Coal Sector Jobs Package to support jobs in the Australian coal industry during the move to a clean energy future. </p>
 <p>The Prime Minister said the impact of a $23 a tonne carbon price on the industry will be low  -  around $1.80 per tonne of coal produced for coal mine fugitive greenhouse gas emissions. </p>
 <p>However, a small number of gassy mines will face significant cost pressures as a carbon price is introduced. </p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard, Minister for Climate Change and Energy Efficiency 
 <p>Both the Coal Sector Jobs Package and the Coal Mining Abatement </p>
 <p>Technology Support Package will be administered by the Department of Resources, Energy and Tourism. </p>
 <p>Further information in relation to the Government's clean energy future and carbon price announcement is available at <a href="http://www.cleanenergyfuture.gov.au">www.cleanenergyfuture.gov.au</a>  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

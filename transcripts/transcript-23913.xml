@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23913</transcript-id>
-    <title>A Message from the Prime Minister - The G20</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/11/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In just under two weeks, the leaders of the G20 will assemble in Brisbane.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23913</transcript-id><title>A Message from the Prime Minister - The G20</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/11/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In just under two weeks, the leaders of the G20 will assemble in Brisbane.</p>
 <p>This will be the largest ever gathering of world leaders in our history, and it is the culmination of Australia’s presidency of the G20.</p>
 <p>The G20 is the world’s most important economic forum.</p>
 <p>The countries of the G20 generate 75 per cent of all world trade and 85 per cent of the world’s Gross Domestic Product.</p>
@@ -23,8 +13,6 @@
 <p>While a stronger economy won’t solve every problem; it will make almost every problem easier to tackle.</p>
 <p>So it’s an honour to be hosting the G20.</p>
 <p>I know there will be inconveniences in Brisbane as the leaders gather and I thank people for their patience.</p>
-<p>It is an important event for Australia.  I’m confident that it will make a lasting difference for our country and for our world.</p>
+<p>It is an important event for Australia.&nbsp; I’m confident that it will make a lasting difference for our country and for our world.</p>
 <p>2 November 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11858</transcript-id>
-    <title>Doorstop Interview, Mount White</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: F3 Freeway improvements; Budget speculation; HIH insurance.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11858</transcript-id><title>Doorstop Interview, Mount White</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: F3 Freeway improvements; Budget speculation; HIH insurance.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>How important is it for the people of the Central Coast to get this road built?</p>
@@ -117,6 +107,4 @@
 <p>Well I'm just like any other member of the public. If I get caught up in a traffic jam I get caught up in a traffic jam. And it will just remind me what a good local member the people of the Central Coast have in Jim Lloyd because he's been twisting my arm on this F3 for a hell of a long time.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18419</transcript-id>
-    <title>Speech to the Medicines Australia Parliamentary Dinner, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/02/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18419</transcript-id><title>Speech to the Medicines Australia Parliamentary Dinner, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/02/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 It is a pleasure to welcome you all to Parliament House, the home of Australia's very much alive-and-well democracy.</p>
 <p>I'm here as Prime Minister to acknowledge this industry and its magnificent contribution to the health of our people and the productivity of our nation.</p>
 <p>When we talk about the success of Australia's economy, and our contemporary success is simply remarkable, we celebrate the contribution made by sectors such as mining and manufacturing, and we are right to do so.</p>
@@ -39,6 +29,4 @@ It is a pleasure to welcome you all to Parliament House, the home of Australia's
 <p>As a result, we are maintaining the integrity and sustainability of the PBS as one of the most respected and rigorous pharmaceutical schemes in the world.</p>
 <p>Will Delaat has made a significant contribution to that outcome. He can be very proud of the mark he left on your industry and on public life in this nation. A person of quality and a person of substance.</p>
 <p>Ladies and gentlemen, please join me in acknowledging Will de Laat as I present this certificate of appreciation on your behalf. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

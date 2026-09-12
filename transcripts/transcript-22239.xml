@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22239</transcript-id>
-    <title>St John&#039;s Cathedral  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/04/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today that the Australian Government will provide a further $2 million to assist with the completion of St John's Cathedral in Brisbane to its original design.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22239</transcript-id><title><![CDATA[St John&#039;s Cathedral  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/04/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today that the Australian Government will provide a further $2 million to assist with the completion of St John's Cathedral in Brisbane to its original design.</p>
 <p>  Work on the cathedral commenced on 20 April 1906.  Today's commemorative service marks the 100-year anniversary of that day.</p>
 <p>The Australian Government has previously provided $4 million towards St John's Cathedral's completion.  Today's additional contribution brings total Australian Government funding for St John's Cathedral to $6 million.</p>
 <p>St John's Cathedral is a landmark in the city of Brisbane and the last internationally significant gothic style cathedral being completed in the world.  The Australian Government's contribution will assist St John's to utilise the services of United Kingdom-based master mason Peter Dare, whose skills and expertise as a craftsman would be difficult to replace if lost to this project.</p>
@@ -17,6 +7,4 @@
 <p>  The present programme to complete St John's Cathedral to the vision of John Loughborough Pearson commenced in 1989 and has to date raised more than $24 million.  This sustained and successful effort demonstrates the enormous value of community support and participation.</p>
 <p>St John's Cathedral is an important part of the spiritual and community life of Brisbane and its completion to its original design will represent a worthy addition to the city's architecture and civic life.</p>
 <p>Completion of St John's in 2009 will be a fitting way to mark the 150th anniversary of the Brisbane Anglican Diocese.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

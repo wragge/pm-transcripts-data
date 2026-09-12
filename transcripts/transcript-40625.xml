@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40625</transcript-id>
-    <title>Interview on Sunrise, Channel 7</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/12/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>DAVID KOCH: </strong></p>
-<p>Prime Minister Malcom Turnbull joins us now, Prime Minister were you concerned for your safety? </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40625</transcript-id><title>Interview on Sunrise, Channel 7</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/12/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>DAVID KOCH: </strong></p>
+<p>Prime Minister Malcom Turnbull joins us now, Prime Minister were you concerned for your safety?&nbsp;</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well I wasn’t concerned for my personal safety but I was concerned that the Parliament could be interrupted like that, the demonstrators who rioted in the Gallery were interrupting the people’s House. They were interrupting democracy, they were denying democracy.</p>
 <p><strong>DAVID KOCH: </strong></p>
@@ -66,6 +56,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>A very Merry Christmas to you too. I hope everyone has a safe and happy and blessed Christmas. Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

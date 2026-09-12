@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17834</transcript-id>
-    <title>Transcript of doorstop interview, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/05/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17834</transcript-id><title>Transcript of doorstop interview, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/05/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm joined here today by the Member for Reid, John Murphy, and it's a pleasure to be here with him.</p>
 <p>We're now not many days away from the forthcoming Federal Budget. This is a Federal Budget where we will be returning the budget to surplus in 2012-13, as promised.</p>
 <p>It will be a tight budget. It's important that the Government live within its means, that the nation live within its means, in the same way that it's important that families do.</p>
@@ -63,6 +53,4 @@ PM: I'm joined here today by the Member for Reid, John Murphy, and it's a pleasu
 <p>This is not the only conversation I will have with the business community about carbon pricing. I've had dozens already, I'll have dozens more and we've got the business roundtable for consultation to continue and, of course, that consultation includes Australian's biggest businesses.</p>
 <p>I see people from the mining sector very, very regularly, as recently as when I was in China, I was at an event with Sam Walsh and Marius Kloppers, to name just two.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

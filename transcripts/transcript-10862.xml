@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10862</transcript-id>
-    <title>BEYOND THE CLEVER COUNTRY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/05/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Challenges such as addressing the enormous problems posed by rural</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10862</transcript-id><title>BEYOND THE CLEVER COUNTRY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/05/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Challenges such as addressing the enormous problems posed by rural</p>
 <p> salinity and looking toward Australia's ability to profit from</p>
 <p> the biotechnology revolution were among the issues discussed at my</p>
 <p> first Science, Engineering and Innovation Council meeting in Canberra</p>
@@ -49,6 +39,4 @@
 <p> between universities and industry, priority issues in science and</p>
 <p> technology, the nexus between science and its application and developing</p>
 <p> strategies for a vibrant software industry.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

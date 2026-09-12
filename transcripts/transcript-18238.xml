@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18238</transcript-id>
-    <title>Transcript of interview with David Koch, Sunrise</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18238</transcript-id><title>Transcript of interview with David Koch, Sunrise</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard is in Canberra. Prime Minister, good morning to you. Now, despite the overnight ruling from Fair Work Australia there has been a lot of criticism of your Government for not intervening sooner. Why didn't you act earlier?</p>
 <p>PM: Thanks for the question Kochie, and it gives me an opportunity to explain some of the circumstances of this dispute, which I don't think have been clearly understood.</p>
 <p>Kochie, the circumstances here are that on Friday Qantas was reassuring that it could make progress in negotiations. On Saturday, around 2pm, Alan Joyce contacted the Minister for Transport, Antony Albanese, and said he would be grounding the planes at 5pm.</p>
@@ -30,6 +20,4 @@ HOST: Prime Minister Julia Gillard is in Canberra. Prime Minister, good morning 
 <p>HOST: OK, sounds like they're in your bad books. We'll wait and see how that pans out. Prime Minister, thanks for joining us.</p>
 <p>PM: It's a question of the grand inconvenience for passengers and the impact for the national economy that's concerning me.</p>
 <p>HOST: OK, alright Prime Minister, we'll have to leave it there. Thank you again for your time this morning.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

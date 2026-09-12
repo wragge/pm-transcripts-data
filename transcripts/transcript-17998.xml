@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17998</transcript-id>
-    <title>Transcript of interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17998</transcript-id><title>Transcript of interview with Neil Mitchell, 3AW</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Thank you so much for your time.</p>
 <p>PM: No problems.</p>
 <p>HOST: You've launched, and I apologise Anne we'll get back to you. You've launched major changes here and there are doubts about whether the compensation will be enough as international uncertainty on the stock market, our own stock market dropped seven billion dollars. Is there any way you can be convinced to take this to an election before introducing it?</p>
@@ -192,6 +182,4 @@ HOST: Thank you so much for your time.</p>
 <p>PM: Lady Gaga will continue to have her view and I'll continue to have mine. And no one will confuse the two of us, there's no way in the world anybody's going to get confused which one's which.</p>
 <p>HOST: Thank you very much for your time.</p>
 <p>PM: Thank you Neil. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11263</transcript-id>
-    <title>Indonesia’s Decision on East Timor</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/10/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I welcome the historic decision of Indonesia’s People’s Consultative Assembly (MPR) to approve the separation of East Timor from Indonesia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11263</transcript-id><title>Indonesia’s Decision on East Timor</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/10/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I welcome the historic decision of Indonesia’s People’s Consultative Assembly (MPR) to approve the separation of East Timor from Indonesia.</p>
 <p>The decision faithfully implements the freely expressed will of the majority of the East Timorese people.</p>
 <p>It marks a new start for East Timor.</p>
 <p>The decision is also a milestone in Indonesia’s progress towards democracy, beginning with the general elections last June. It will be welcomed by the international community.</p>
@@ -19,6 +9,4 @@
 <p>Australia is committed to continuing to work closely with both East Timor and Indonesia to ensure that the transition to independence for East Timor proceeds as smoothly as possible.</p>
 <p>The Australian Government has undertaken to play a significant role in helping East Timor establish itself. The Government also looks forward to rebuilding Australia’s relationship with Indonesia on the basis of the many important interests that our countries share.</p>
 <p>20 October 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

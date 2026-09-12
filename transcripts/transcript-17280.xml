@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17280</transcript-id>
-    <title>Prime Minister Australia to fund L&#039;Aquila reconstruction project 6 May 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/05/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government is pleased to announce that the money raised by the Australian Abruzzo Earthquake Appeal Fund will be used to fund an earthquake-proof, multi-purpose theatre in the heart of L'Aquila - Il Nuovo Teatro Stabile d'Abruzzo.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17280</transcript-id><title><![CDATA[Prime Minister Australia to fund L&#039;Aquila reconstruction project 6 May 2010  ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/05/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government is pleased to announce that the money raised by the Australian Abruzzo Earthquake Appeal Fund will be used to fund an earthquake-proof, multi-purpose theatre in the heart of L'Aquila - Il Nuovo Teatro Stabile d'Abruzzo.</p>
 <p>The historic town of L'Aquila was devastated by an earthquake that struck the region of Abruzzo in April 2009, prompting the Italian-Australian community to establish the Fund to raise money to assist with its reconstruction.</p>
 <p>The Government agreed to match the community contributions to the Fund up to a level of $1.5 million. Taken together, the community's fundraising efforts and the Government's contribution have raised more than $3.7 million for L'Aquila.</p>
 <p>The decision to fund Il Nuovo Teatro Stabile d'Abruzzo follows a recommendation by the Fund's National Committee, which consulted closely with the Italian-Australian community and the township of L'Aquila.</p>
@@ -17,6 +7,4 @@
 <p>The Prime Minister announced the theatre project as he joined with the Italian-Australian community in Melbourne for the official 50th anniversary celebrations of the Italian-language newspaper Il Globo.</p>
 <p>Since 1959 Il Globo has informed the Italian community in Australia of significant national and global events. It has played an important community role, supporting fundraising initiatives to help recovery efforts in the wake of disasters like the Victorian bushfires and the earthquake in L'Aquila.</p>
 <p>The Rudd Government acknowledges the hard work and commitment of the various committees that worked under the Australian Abruzzo Earthquake Appeal Fund. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

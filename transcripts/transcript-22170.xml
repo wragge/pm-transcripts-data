@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22170</transcript-id>
-    <title>Interview with Nicholas Witchell BBC TV, Canberra  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/03/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22170</transcript-id><title>Interview with Nicholas Witchell BBC TV, Canberra  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/03/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, how would you say the modern Australia feels towards its Queen, Queen Elizabeth, in this 80th birthday year?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh clearly very different from 50 years ago, but isn't that true of so many things? Life's changed a lot. Most people like and respect her. They see her as somebody who's done a very conscientious job, and that applies to people who are republican in disposition as well as otherwise. So she's liked in Australia and respected for having worked very hard.</p>
@@ -50,6 +40,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16677</transcript-id>
-    <title>Transcript of interview with Neil Mitchell Radio 3AW   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/07/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16677</transcript-id><title>Transcript of interview with Neil Mitchell Radio 3AW   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/07/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE</p>
 <p>MITCHELL: Prime Minister thank you very much for speaking with us.</p>
 <p>PM: Pleasure to be with you Neil.</p>
 <p>MITCHELL: An Australian man is in custody in China accused of spying, the Rio Tinto executive Stern Hu. Now several analysts here have said it is ludicrous what has happened to him. Do you agree?</p>
@@ -86,6 +76,4 @@
 <p>MITCHELL: Thank you for your time.</p>
 <p>PM: I appreciate it very much.</p>
 <p>(Ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

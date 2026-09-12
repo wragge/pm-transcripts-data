@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11510</transcript-id>
-    <title>Interview with Kerry O&#039;Brien, 7.30 Report</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Centenary of Federation London visit; tax reform</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11510</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien, 7.30 Report]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Centenary of Federation London visit; tax reform</p>
 <p>E&amp;OE .........................</p>
 <p>O'BRIEN:</p>
 <p>John Howard, it seems an unfortunate accident of timing for you as the architect of the GST that you'll be celebrating federation in London at the time that the rest of Australia will be experiencing the first impact of the new tax.</p>
@@ -101,6 +91,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you Kerry.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

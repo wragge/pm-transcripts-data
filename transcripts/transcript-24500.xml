@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24500</transcript-id>
-    <title>National Science and Research Priorities</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>26/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government has announced new national Science and Research Priorities to ensure our high performing science, research and innovation system delivers maximum benefit.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24500</transcript-id><title>National Science and Research Priorities</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>26/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government has announced new national Science and Research Priorities to ensure our high performing science, research and innovation system delivers maximum benefit.</p>
 <p>The nine cross-disciplinary priorities are food, soil and water, transport, cybersecurity, energy, resources, advanced manufacturing, environmental change and health.</p>
 <p>The priorities will help our world-class science and research efforts to reflect the needs of industry, the national economy and the community.</p>
 <p>The Government will work with universities, research institutions and industry to identify projects and investments to address the priority areas.</p>
@@ -20,6 +10,4 @@
 <p>The priorities were developed in consultation with Australia’s Chief Scientist, Professor Ian Chubb AC, industry and science and research sectors. They were agreed to by the Commonwealth Science Council and endorsed by the Government.</p>
 <p>
 26 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

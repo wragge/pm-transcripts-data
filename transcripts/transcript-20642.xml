@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20642</transcript-id>
-    <title>Radio Interview with Jon Faine, Radio 3LO   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FAINE:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20642</transcript-id><title>Radio Interview with Jon Faine, Radio 3LO   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FAINE:</p>
 <p>The Prime Minister joins us from our Parliament House studios. Mr Howard, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Jon. How are you?</p>
@@ -93,6 +83,4 @@
 <p>But you've made inquiries this morning.</p>
 <p>PRIME MINISTER:</p>
 <p>No, no, in the little time that has been available, I have been informed that he was searched, I have been informed by Customs and I'll just read what I've been told - and this comes from the Media and Public Affairs - it says, </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

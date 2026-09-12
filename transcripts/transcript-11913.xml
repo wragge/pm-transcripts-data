@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11913</transcript-id>
-    <title>Doorstop Interview, Parliament House </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: One Nation preferences, NT election.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11913</transcript-id><title>Doorstop Interview, Parliament House </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: One Nation preferences, NT election.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>. One Nation preference deals played a part in the Northern Territory's, or the CLP's fall out in the Northern Territory on the weekend?</p>
@@ -41,6 +31,4 @@
 <p>Look these things are decided by the organisation. The overwhelming view of members of the parliamentary Liberal Party is a view that I have articulated. I will not compromise on that view, it is my strongly held view that in every electorate contested by the Liberal Party One Nation should be put last. That happened in the last federal election. I mean people seem to have forgotten in the last federal election that is exactly what happened. This may be a passing fantasy for some people who comment on politics but our position has been quite consistent and my position will not change. I will not compromise on this matter.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

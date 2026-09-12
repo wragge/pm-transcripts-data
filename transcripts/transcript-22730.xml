@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22730</transcript-id>
-    <title>Transcript of Joint Press Conference - Canberra</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>04/07/2013</release-date>
-    <release-type>Press Conference</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Good morning, thank you for joining us.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22730</transcript-id><title>Transcript of Joint Press Conference - Canberra</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>04/07/2013</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Good morning, thank you for joining us.</p>
 <p>This has been a busy first week for the government.</p>
 <p>We have sworn in a new ministry, I've been working with the Ministers to set up Cabinet processes for the orderly consideration of a range of policy challenges which lie ahead of us.</p>
 <p>Yesterday I spent the time on the telephone to each of the Premiers and Chief Ministers and I have spoken to all of them.</p>
@@ -222,6 +212,4 @@
 <p>It's next door to us. A quarter of a billion people and with a rising middle class, and with that, per capita beef consumption will go from 2 kilograms per year to 17 or 18 kilograms per year over time. </p>
 <p>Frankly, this is a very big opportunity. We have got to manage the problems and reopen the doors to the future.</p>
 <p>Thanks very much folks.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23088</transcript-id>
-    <title>Interview with Leigh Sales, 7.30, ABC Television</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/11/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>the Federal Government’s commitment to repeal the carbon tax,  Labor’s debt legacy,  Operation Sovereign Borders,  Indonesia.</subjects>
-    <content><![CDATA[<p><strong>LEIGH SALES:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23088</transcript-id><title>Interview with Leigh Sales, 7.30, ABC Television</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/11/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>the Federal Government’s commitment to repeal the carbon tax, Labor’s debt legacy, Operation Sovereign Borders, Indonesia.</subjects><content><![CDATA[<p><strong>LEIGH SALES:</strong></p>
 <p>Prime Minister, welcome to the programme for the first time since taking the job and congratulations.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you so much Leigh.</p>
@@ -135,6 +125,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

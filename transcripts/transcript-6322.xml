@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6322</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>11/02/1984</release-date>
-    <release-type>Correspondence</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006322.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-Y^<br />
--lilAUST XLIA<br />
-FOR M DIA11/ 2/ 84<br />
-THE PRIME MINISTER HAS SENT THE FOLLOWING MESSAGE TO SOVIET PRIME<br />
-MINISTER TIKHONOV:<br />
-" PLEASE ACCFPT THE SYMPATHY OF THE GOVERNMENT OF AUSTRALIA AND<br />
-OF MYSELF ON THE DEATH OF PRESIDENT ANDROPOV."<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6322</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>11/02/1984</field_date><release-type>Correspondence</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006322.pdf</document><subjects></subjects><content><![CDATA[<p>
+Y^<br>
+-lilAUST XLIA<br>
+FOR M DIA11/ 2/ 84<br>
+THE PRIME MINISTER HAS SENT THE FOLLOWING MESSAGE TO SOVIET PRIME<br>
+MINISTER TIKHONOV:<br>
+" PLEASE ACCFPT THE SYMPATHY OF THE GOVERNMENT OF AUSTRALIA AND<br>
+OF MYSELF ON THE DEATH OF PRESIDENT ANDROPOV."<br>
 ~ a01i~ iO~ TE~ </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

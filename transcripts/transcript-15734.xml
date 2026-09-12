@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15734</transcript-id>
-    <title>2008 Australia Day Message Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/01/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia Day is a time to celebrate our nation's past achievements.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15734</transcript-id><title>2008 Australia Day Message Canberra   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/01/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia Day is a time to celebrate our nation's past achievements.</p>
 <p>And it's a time to embrace our nation's future.</p>
 <p>This is a great country, rich in heritage and unlimited in its possibilities.</p>
 <p>We should be deeply proud of our country.</p>
@@ -52,6 +42,4 @@
 <p>Let's together seize the opportunities that lie before us.</p>
 <p>To realise Australia's potential as a nation  -  and the individual potential of every member of the Australian family.</p>
 <p>Therese and I and our family would like to wish everyone a very happy and a very safe Australia Day 2008.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

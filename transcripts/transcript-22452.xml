@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22452</transcript-id>
-    <title>Doorstop Interview Hunter Holden, Ryde </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/09/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22452</transcript-id><title>Doorstop Interview Hunter Holden, Ryde </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/09/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, Geoff Cousins, are you likely to withdraw his nomination for the Telstra board following criticism from them?</p>
 <p>PRIME MINISTER:</p>
 <p>No. Mr Cousins has outstanding qualifications to be a Director of Telstra. He's a very experienced businessmen, he knows telecommunications in Australia very intimately. He will bring to the position of Telstra Director a deep understanding of the industry and that's very important. It can only be a plus.</p>
@@ -91,6 +81,4 @@
 <p>I think it's just another contribution to a debate that will go on for a long period of time. It's another view, you've asked me my view, I've given you my view.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

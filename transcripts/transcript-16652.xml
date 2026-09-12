@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16652</transcript-id>
-    <title>Darwin a priority in National Broadband Network    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A new optical fibre broadband link to Darwin will be one of the first priority steps in the roll out of the National Broadband Network.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16652</transcript-id><title>Darwin a priority in National Broadband Network    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A new optical fibre broadband link to Darwin will be one of the first priority steps in the roll out of the National Broadband Network.</p>
 <p>The Australian Government today called a competitive tender to construct, operate and maintain the backbone link  -  with construction expected to begin by September, and better broadband services available in Darwin next year.</p>
 <p>The $43 billion National Broadband Network is the single largest infrastructure project in Australia since the Snowy Hydro scheme, and is critical to building the recovery from the global economic recession.</p>
 <p>Darwin is one of the first six priority locations for new broadband infrastructure under the $250 million Regional Broadband Blackspots Program.</p>
@@ -27,6 +17,4 @@
 <p>     * South West Gippsland, Victoria.</p>
 <p>Submissions from a wide range of stakeholders have helped the Government identify the first six priority locations for these initial backbone infrastructure investments  -  and subject to the outcome of Round 1, more locations and routes will be identified later in the year.</p>
 <p>Further information on the National Broadband Network is also available online: <a href="http://www.dbcde.gov.au/nationalbroadbandnetwork">www.dbcde.gov.au/nationalbroadbandnetwork</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

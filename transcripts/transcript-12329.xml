@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12329</transcript-id>
-    <title>Address at Plenty Valley Christian School</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/02/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: education, Centenary of Federation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12329</transcript-id><title>Address at Plenty Valley Christian School</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/02/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: education, Centenary of Federation.</p>
 <p>E&amp;OE..................</p>
 <p>Students and teachers,</p>
 <p>I would first of all  like to thank the Plenty Valley Christian School for inviting me here.  It is a magnificent view and I can imagine that people's attention might wander during assemblies.  It's certainly a great part of the world.</p>
@@ -27,6 +17,4 @@
 <p>Cherish the education you receive at this school.  Thank your parents for the choice that they have exercised to send you here and I wish all of you the very best of good luck in the years ahead.</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

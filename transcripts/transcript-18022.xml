@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18022</transcript-id>
-    <title>Transcript of interview with Andrea Close, ABC Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18022</transcript-id><title>Transcript of interview with Andrea Close, ABC Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Now the Prime Minister, Julia Gillard, rang in earlier this morning requesting a spot on this show. Now, this is quite unusual, it's often very difficult to get federal ministers to come on the program, they're very busy, obviously. The Prime Minister's visiting the Gunning wind farm today, on her round the country carbon pricing sales pitch and we are very privileged to have Julia Gillard on the show.</p>
 <p>Prime Minister, good morning.</p>
 <p>PM: Good morning Andrea.</p>
@@ -39,6 +29,4 @@ HOST: Now the Prime Minister, Julia Gillard, rang in earlier this morning reques
 <p>PM: Well, I'm happy to talk about the election campaign, and I certainly did say there would be no carbon tax and when I said that I mean every word of it. I spoke to people about the need for pricing carbon and for an emissions trading scheme, a scheme where you put a cap on carbon pollution. In the Parliament that Australians voted for, I confronted changed circumstances, so yes, I did change my mind. If we were going to address climate change in this Parliament, then we needed to work with the Parliament and get through a scheme to put a price on carbon. We will reach that emissions trading scheme. There will be a three year fixed period, effectively a carbon tax and then we will reach that cap and trade scheme. On the way we've gone about designing that scheme, we did need to have a period where we consulted with people, having announced the framework and if we hadn't done those consultations, we wouldn't have got, for example, the real information we needed to make sure we got arrangements for the coal industry right or arrangements for the steel industry right. So, that time was well used. Of course, a lot of fear has been generated in that time, people have been told petrol is going up six and a half cents a litre, completely wrong. People have been told that the coal industry is closing down, completely wrong. People have been told the steel industry is shutting down and towns will be wiped off the map, completely wrong. So now is the time to just go around calmly and methodically, making sure people have the facts.</p>
 <p>HOST: Prime Minister Julia Gillard, thank you very much for joining us on the show today.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

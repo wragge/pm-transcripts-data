@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7371</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>09/08/1988</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007371.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-6D<br />
-PRIME MINISTER<br />
-FOR MEDIA9 AUGUST 1988<br />
-I have today sent the following message to Their Royal<br />
-Highnesses The Duke and Duchess of York:<br />
-The news of the Royal Birth has been received with delight<br />
-throughout Australia. The people and the Government of<br />
-Australia join with my wife and me in offering our<br />
-congratulations on this joyous occasion to you both.<br />
-We look forward with much pleasure to your coming visit to<br />
-Australia in this our Bicentennial year.<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7371</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>09/08/1988</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007371.pdf</document><subjects></subjects><content><![CDATA[<p>
+6D<br>
+PRIME MINISTER<br>
+FOR MEDIA9 AUGUST 1988<br>
+I have today sent the following message to Their Royal<br>
+Highnesses The Duke and Duchess of York:<br>
+The news of the Royal Birth has been received with delight<br>
+throughout Australia. The people and the Government of<br>
+Australia join with my wife and me in offering our<br>
+congratulations on this joyous occasion to you both.<br>
+We look forward with much pleasure to your coming visit to<br>
+Australia in this our Bicentennial year.<br>
 950 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

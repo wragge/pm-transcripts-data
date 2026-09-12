@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17921</transcript-id>
-    <title>Visit to Australia by the Prime Minister of New Zealand</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17921</transcript-id><title>Visit to Australia by the Prime Minister of New Zealand</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today warmly welcomed New Zealand Prime Minister John Key to Canberra for an official visit.</p>
 <p>New Zealand is one of Australia's closest and most valued partners.</p>
 <p>Our relationship is anchored in the bonds of our ANZAC tradition, the warm ties between our people and the unique closeness of our economic ties.</p>
@@ -48,6 +38,4 @@ Prime Minister Julia Gillard today warmly welcomed New Zealand Prime Minister Jo
 <p>With the rising strategic and economic importance of the Asia Pacific, the Leaders welcomed the important decision by the East Asia Summit in Hanoi last year to include the US and Russia as members, agreeing this represented a major opportunity to build the architecture needed for a stable and prosperous region.  </p>
 <p>They also welcomed renewed efforts to foster regional trade, innovation and integration, including through Australia and New Zealand's participation in negotiations on the Trans-Pacific Partnership agreement.</p>
 <p>Prime Minister Gillard confirmed the importance of concluding the Doha Round of world trade talks. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12379</transcript-id>
-    <title>New Year Message</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/01/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>1998 will be a year of prosperity and opportunity for Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12379</transcript-id><title>New Year Message</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/01/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>1998 will be a year of prosperity and opportunity for Australia.</p>
 <p>Australians can enter the new year in the knowledge that the nation's economy is the strongest it has been for 25 years.</p>
 <p>The Government's policies, which have produced low inflation, low interest rates, sharply reduced national debt, and high economic growth, have enabled Australia to weather the economic turbulence which has swept through parts of Asia.</p>
 <p>Significantly those policies led to the creation of 145,000 jobs in the last quarter of 1997.</p>
@@ -20,6 +10,4 @@
 <p>Most importantly those traditional Australian values of persistence, mateship, voluntary effort and optimism will again sustain us in all aspects of our national life.</p>
 <p>I wish all Australians a happy and fulfilling new year.</p>
 <p>31 December 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

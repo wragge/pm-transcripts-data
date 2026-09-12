@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17344</transcript-id>
-    <title>Prime Minister Transcript of interview with David Koch 11 June 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH: Good morning to you Prime Minister. Look, what really-</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17344</transcript-id><title>Prime Minister Transcript of interview with David Koch 11 June 2010  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH: Good morning to you Prime Minister. Look, what really-</p>
 <p>PM: Good morning Kochie.</p>
 <p>KOCH: Gets my goat up with this sort of thing is that, during the financial crisis, we all came to the help of the banks, the Government- which is us- let them trade on our AAA credit rating so they could raise capital cheaply. The Government, which is us, guaranteed deposits. And this is what they do to us.</p>
 <p>PM: Well you're right Kochie. There's been far too much gouging in the past on bank fees and charges. That's absolutely right. And if you look at that most recent data, by the way, no consolation to your viewers, the level of gouging has slowed a bit, would you believe, from where it was in the past. But here's the good news.</p>
@@ -47,6 +37,4 @@
 <p>PM: I think it's the safest thing to do. It's a family program.</p>
 <p>KOCH: Okay, yeah. We wouldn't want to give you the tube of dencorub. Alright, thank you very much for that.</p>
 <p>PM: No way, no way. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

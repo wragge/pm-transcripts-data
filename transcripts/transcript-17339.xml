@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17339</transcript-id>
-    <title>Prime Minister Treasurer Minister for Infrastructure $6 billion regional infrastructure fund 9 June 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/06/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced that it will establish a new $6 billion Regional Infrastructure Fund.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17339</transcript-id><title>Prime Minister Treasurer Minister for Infrastructure $6 billion regional infrastructure fund 9 June 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/06/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced that it will establish a new $6 billion Regional Infrastructure Fund.</p>
 <p>The Regional Infrastructure Fund will invest in projects with potential partner funding from States, private investors and/or local governments.</p>
 <p>The Fund comprises $5.6bn of revenue from the Resources Super Profits Tax commencing in 2012-13, as previously announced, and an additional $400 million for the fund between 2010-11 and 2013-14. These additional funds have already been provided for in the Budget.</p>
 <p>Today's announcement means investment can start now, to address our urgent infrastructure needs, rather than waiting for revenue proceeds of the Resources Super Profits Tax to flow.</p>
@@ -24,6 +14,4 @@
 <p>- Address potential capacity constraints arising from export production and resource projects.</p>
 <p>It is high time that the regions in Western Australia that generate so much of our national wealth got their fair share of the proceeds of the mining boom - and that is what our tax reform plans will deliver.</p>
 <p>This builds on the record investment the Rudd Government is making in the nation's economic infrastructure - more than doubling the roads budget and increasing fivefold the investment in our interstate rail network</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

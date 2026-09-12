@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18885</transcript-id>
-    <title>Valuing Our Volunteers</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Central Coast, NSW</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18885</transcript-id><title>Valuing Our Volunteers</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Central Coast, NSW</p>
 <p>The Australian Government today announced 4,800 not-for-profit volunteer organisations will receive $16 million as part of the Volunteer Grants 2012 initiative.</p>
 <p>These grants of between $1,000 and $5,000 are being delivered to recognise the valuable contribution volunteers make to Australian society.</p>
 <p>These grants will help community organisations to purchase much-needed equipment or as a contribution towards training courses, background checks and transport costs of volunteers with disability who are unable to drive.</p>
@@ -20,6 +10,4 @@
 <p>Organisations such as the Country Women's Association will use the grant to purchase kitchen equipment and marquees, which will help their volunteers organise events which build support networks in rural and remote communities.</p>
 <p>Through these grants, volunteers are better equipped to assist those who are marginalised, disadvantaged or facing hardship remain connected to their community.</p>
 <p>In Australia, more than six million people volunteer each year, accounting for over one-third of the population.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41474</transcript-id>
-    <title>Doorstop in Washington DC</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/02/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>United States visit, TPP, South China Sea, business tax cuts and steel and aluminium tariffs</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41474</transcript-id><title>Doorstop in Washington DC</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/02/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>United States visit, TPP, South China Sea, business tax cuts and steel and aluminium tariffs</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Lucy and I are heading back to Australia now.</p>
 <p>This has been - as you are too - this has been a very, very valuable visit.</p>
 <p>Our goal was to broaden and deepen our enduring relationship with the United States, our great alliance. Build on a hundred years of mateship for a hundred more.</p>
@@ -72,6 +62,4 @@
 <p>The one thing that we know is that those values we share, those Australian and American values. Democracy, freedom, the rule of law, enterprise - enabling that spirit of enterprise. Those values are timeless and in this age of unprecedented change both in its scale and pace, those timeless values are more timely than ever.</p>
 <p>Thank you all very much and have a safe flight home.</p>
 <p><strong>ENDS</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

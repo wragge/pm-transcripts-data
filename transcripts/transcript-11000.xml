@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11000</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP PRESS CONFERENCE WILLARD INTER-CONTINENTAL HOTEL WASHINGTON, USA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/07/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11000</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP PRESS CONFERENCE WILLARD INTER-CONTINENTAL HOTEL WASHINGTON, USA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/07/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Well, ladies and gentlemen, starting with this afternoon and this</p>
 <p> evening is the intensive part of my visit to the United States. I'll</p>
 <p> be seeing the President tomorrow and I'll be talking to Dr Alan Greenspan</p>
@@ -406,6 +396,4 @@ Well, ladies and gentlemen, starting with this afternoon and this</p>
 <p> that there are some things that if addressed would make Australia</p>
 <p> and Sydney in particular more attractive.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

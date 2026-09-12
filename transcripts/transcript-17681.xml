@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17681</transcript-id>
-    <title>Transcript of joint press conference with Prime Minister John Key</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17681</transcript-id><title>Transcript of joint press conference with Prime Minister John Key</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PRIME MINISTER KEY: Okay good afternoon, so the programme is that I'm going to make some opening remarks and then I'll pass to Julia Gillard to make some remarks and then we'll go over and sign the investment protocol then we'll come back and take questions. You'll appreciate there is a limited period of time we have for questions because of the Parliamentary reception.</p>
 <p>Firstly, can I just welcome everyone here, I'm pleased to welcome Prime Minister Julia Gillard here to Wellington, on her first visit to New Zealand as Prime Minister. Australia is our indisputable ally, partner and friend. Our relationship is growing stronger and closer all the time. We share close business and commerce links and our people-to-people links are very strong, through everything from family ties to our rivalry on the sporting field. But nowhere is the bond between our two countries stronger than in our shared Anzac history and tradition.</p>
 <p>It is particularly poignant today to receive news that a New Zealand soldier serving in Afghanistan had been killed in a vehicle accident. Three other soldiers were injured, one seriously. I want to offer the New Zealand Government's sincerest condolences to the families of Private Kirifi Mila. Both our defence forces are operating in a difficult and dangerous environment in Afghanistan in order to help the Afghan people. Later today Prime Minister Gillard and I will lay wreaths at the National War Memorial to again acknowledge our shared Anzac history.</p>
@@ -85,6 +75,4 @@ PRIME MINISTER KEY: Okay good afternoon, so the programme is that I'm going to m
 <p>JOURNALIST: One final one on asylum seekers, Prime Minister, is it fair to send the families of the grieving asylum seekers from Christmas Island straight to Sydney for the funeral and then straight back to Christmas Island?</p>
 <p>PM: I know this was the subject of debate in Australia yesterday and I made my position clear that it was appropriate to enable people to come and say a formal and tragic goodbye to their loved ones, that that was the right thing to do.</p>
 <p>We are a nation that operates a mandatory detention policy and that means of course that people in detention whose claims are being processed need to be housed in appropriate places and Christmas Island is one of the most major facilities that we do that in. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

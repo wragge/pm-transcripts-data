@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41375</transcript-id>
-    <title>Radio interview with Sabra Lane - ABC AM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage; 2018; Bennelong; Israel</subjects>
-    <content><![CDATA[<p><strong>SABRA LANE: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41375</transcript-id><title>Radio interview with Sabra Lane - ABC AM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage; 2018; Bennelong; Israel</subjects><content><![CDATA[<p><strong>SABRA LANE: </strong></p>
 <p>Joining us now is the Prime Minister Malcolm Turnbull, good morning and welcome back to AM.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning Sabra and I hope you gave George a hug.</p>
@@ -25,7 +15,7 @@
 <p><strong>SABRA LANE: </strong></p>
 <p>In your wildest dreams, did you ever expect that 78 per cent of people would respond to the survey process?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>I did not think the participation rate would be that high. To be honest with you, I thought over 50 per cent would be good, below 50 per cent would be disappointing. I thought over 60 per cent,  I would be ecstatic and when it got to just under 80 per cent, I was absolutely amazed.</p>
+<p>I did not think the participation rate would be that high. To be honest with you, I thought over 50 per cent would be good, below 50 per cent would be disappointing. I thought over 60 per cent,&nbsp; I would be ecstatic and when it got to just under 80 per cent, I was absolutely amazed.</p>
 <p>You know, people were very critical of the postal survey, as you know. They said: “Young people don't know what letterboxes are, let alone how to find them.”</p>
 <p>They found them. In their thousands, they found them.</p>
 <p><strong>SABRA LANE: </strong></p>
@@ -115,6 +105,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yes and Sabra, a very Merry Christmas to you and your family and all of your listeners.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40037</transcript-id>
-    <title>Government response to the Financial System Inquiry</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>20/10/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today we are pleased to release the Turnbull Coalition Government’s response to the Financial System Inquiry (FSI).</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40037</transcript-id><title>Government response to the Financial System Inquiry</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>20/10/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today we are pleased to release the Turnbull Coalition Government’s response to the Financial System Inquiry (FSI).</p>
 <p>The final report of the FSI, led by David Murray AO and released on December 7 last year, satisfied an election promise.</p>
 <p>The financial system affects all Australians. It plays a vital role across the Australian economy, contributing to productivity and growth.</p>
 <p>The biggest decisions Australians make in life – buying a home, providing for our retirement, or starting a business – are all supported by our financial system.</p>
@@ -28,7 +18,7 @@
 <p>The Government has consulted stakeholders on a regulatory regime for crowd-sourced equity funding and will negotiate draft legislation to implement before the end of 2015. We will soon begin consultations to facilitate crowd-sourced debt funding.</p>
 <p><strong>Financial advisers </strong></p>
 <p>Measures will also ensure that consumers receive professional and fair treatment from advisers and financial product and service providers.</p>
-<p>More needs to be done to make the issuers and distributors of financial products accountable for their offerings.  We will consult extensively about product design and distribution obligation and a new product intervention power for Australian Securities and Investments Commission.</p>
+<p>More needs to be done to make the issuers and distributors of financial products accountable for their offerings.&nbsp; We will consult extensively about product design and distribution obligation and a new product intervention power for Australian Securities and Investments Commission.</p>
 <p>The Government will raise professional, ethical and education standards for financial advisers. Subject to transitional arrangements, advisers will be required to hold a degree, pass an exam, undertake continuous professional development, subscribe to a code of ethics and undertake a professional year before they can advise clients.</p>
 <p>These higher standards will, for the first time, place financial advising on a similar footing to other professions and in doing so increase consumer trust and confidence in the sector.</p>
 <p>The Coalition Government will soon hold a roundtable with key stakeholders to discuss the implementation details of this important reform.</p>
@@ -45,10 +35,8 @@
 <p>The Government sets out a blueprint for an efficient and resilient financial system, characterised by fair treatment of users.</p>
 <p>Australians can now be confident that our financial system remains the best in the world.</p>
 <p>The Government response to the Financial System Inquiry can be found at treasury.gov.au/fsi</p>
-<p><strong>Media contacts:  </strong></p>
+<p><strong>Media contacts:&nbsp; </strong></p>
 <p><strong>PM – Caitlin Keage 0427 729 987, Matt Moran 0438 929 264</strong></p>
 <p><strong>Treasurer – Julian Leembruggen 0400 813 253</strong></p>
 <p><strong>Assistant Treasurer - Kerri Griffiths 0417 617 482, Sarah Nicholson 0466 522 608</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

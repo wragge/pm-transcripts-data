@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16135</transcript-id>
-    <title>Interview with Kieran Gilbert, Sky News    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GILBERT: You're heading off to New York this afternoon. You're going to miss the rest of the week in parliament. Why do you need to go?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16135</transcript-id><title>Interview with Kieran Gilbert, Sky News    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GILBERT: You're heading off to New York this afternoon. You're going to miss the rest of the week in parliament. Why do you need to go?</p>
 <p>PM: Well, this week in New York the annual meeting of the UN General Assembly will have heads of government from 122 countries around the world including the heads of government from 13 of the world's 15 major economies.</p>
 <p>There'll be one subject, one core subject on people's mind, and that is the global response to the global financial crisis.</p>
 <p>And there are two schools of thought here. Either you can go down the populist road, the opportunistic populist road, which is what various people in politics are championing at the moment and not go, or you can act in the national interest. My judgment is that my responsibility as Prime Minister is to act in the national interest, which means working through with other heads of government the best response to this global financial crisis.</p>
@@ -48,6 +38,4 @@
 <p>The test for Mr Turnbull is what is he going to do about that.</p>
 <p>GILBERT: Prime Minister thanks for your time</p>
 <p>PM: Good to be with you</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

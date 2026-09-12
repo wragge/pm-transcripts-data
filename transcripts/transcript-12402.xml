@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12402</transcript-id>
-    <title>Address at Lunch in Honour of the President of Germany </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/05/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  President of Germany; Australian-German relations; greenhouse gas emissions; Australian wine.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12402</transcript-id><title>Address at Lunch in Honour of the President of Germany </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/05/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  President of Germany; Australian-German relations; greenhouse gas emissions; Australian wine.</p>
 <p>E&amp;OE..................</p>
 <p>Your excellency Johannes Rau, Mrs Rau, Minister, other members of the German delegations, your excellencies, ladies and gentlemen.</p>
 <p>It';s a special delight for Janette and I to welcome you Mr President to Canberra, to the capital of Australia, and to take the opportunity of expressing on behalf of the people of Australia the great warmth we feel towards our relationship with Germany and the German people.</p>
@@ -29,6 +19,4 @@
 <p>But to you and your wife, welcome to our country.  I hope you enjoy your time in Australia and I now invite Mr Kim Beazley the Leader of the Opposition to support my remarks.  </p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19008</transcript-id>
-    <title>Australian Cyber Security Centre</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/01/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19008</transcript-id><title>Australian Cyber Security Centre</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/01/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>A new Australian Cyber Security Centre will be established in Canberra to boost the country's ability to protect against cyber-attacks.</p>
 <p>By drawing on the skills of the nation's best cyber security experts, the ACSC will help ensure Australian networks are among the hardest to compromise in the world.</p>
 <p>Cyberspace is increasingly a strategic asset for Australia.</p>
 <p>Already around 73 per cent of Australians use the internet more than once a day. Australians' use  of cyberspace is estimated to be worth $50 billion to our economy, with the rollout of the NBN only expected to accelerate these changes.</p>
 <p>Yet Australia's cyberspace is subject to threats:</p>
-<p> * 	In 2011-12, there were more than 400 cyber incidents against government systems requiring a significant response by the Cyber Security Operations Centre.<br />
+<p> * 	In 2011-12, there were more than 400 cyber incidents against government systems requiring a significant response by the Cyber Security Operations Centre.<br>
  * 	In 2012, 5.4 million Australians fell victim to cyber crime with an estimated cost to the economy of $1.65 billion.</p>
 <p>Securing and protecting our networks, and ensuring confidence in the online environment, is pivotal to Australia's economy.</p>
 <p>The ACSC will be responsible for analysing the nature and extent of cyber threats, leading the Gillard Government's response to cyber incidents. It will work closely with critical infrastructure sectors and key industry partners to protect our nation's most valuable networks and systems. The Centre will also provide advice and support to develop preventative strategies to counter cyber threats. </p>
 <p>The ACSC will be the hub of the government's cyber security efforts. It will include, in one place, cyber security operational capabilities from the Defence Signals Directorate, Defence Intelligence Organisation, Australian Security Intelligence Organisation, the Attorney-General's Department's Computer Emergency Response Team Australia, Australian Federal Police and the Australian Crime Commission.</p>
 <p>Industry and state and territory partners will have the opportunity to collaborate with the Government through the Centre.</p>
 <p>Establishment of the ACSC will begin immediately and is expected to be fully operational by late 2013.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

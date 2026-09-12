@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19231</transcript-id>
-    <title>Transcript of Interview with Mark Simkin, ABC News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/04/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>National plan for school improvement; Gonski reforms</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19231</transcript-id><title>Transcript of Interview with Mark Simkin, ABC News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/04/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>National plan for school improvement; Gonski reforms</p>
 <p>JOURNALIST: Prime Minister, the numbers you're talking about today are enormous, but the actual Gonski review actually asks for more money to be injected in schools.</p>
 <p>Are schools being short-changed?</p>
 <p>PM: The numbers we're talking about today are enormous, and this is an historic change for our nation.</p>
@@ -56,6 +46,4 @@
 <p>But I am going to keep arguing for this and campaigning for it because it's the right thing for our nation's future, for our kids, and for our economy.</p>
 <p>JOURNALIST: Prime Minister, thank you.</p>
 <p>PM: Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24413</transcript-id>
-    <title>Government strengthens the foreign investment framework</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government is taking action to strengthen the integrity of the foreign investment framework.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24413</transcript-id><title>Government strengthens the foreign investment framework</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government is taking action to strengthen the integrity of the foreign investment framework.</p>
 <p>Foreign investment is integral to Australia’s economy and we welcome all investment that is not contrary to our national interest.</p>
 <p>After extensive consultations on our Options Paper, we are announcing important reforms to foreign investment that will help to demonstrate that it is for our country’s benefit.</p>
 <p>We will ensure stronger enforcement of new and existing foreign investment rules by transferring all residential real estate functions to the Australian Taxation Office.</p>
@@ -26,6 +16,4 @@
 <p>There will also be increased scrutiny around foreign investment in agriculture and increased transparency on the levels of foreign ownership in Australia through a comprehensive land register.</p>
 <p>Further information on the agricultural changes, fees and the penalty regime is attached.</p>
 <p>2 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

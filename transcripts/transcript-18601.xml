@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18601</transcript-id>
-    <title>Speech to the Minerals Industry Parliamentary Dinner, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/05/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18601</transcript-id><title>Speech to the Minerals Industry Parliamentary Dinner, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/05/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Friends, it's a tribute to your industry's importance to this country that Minerals Week has become an institution on our political calendar, now into its fourth decade.</p>
 <p>Mining is our economy's “strong right arm”.</p>
 <p>When Australians see those great images of the industry, big yellow trucks the size of apartment blocks and open cuts as deep as Sydney Harbour and trains as long as the Story Bridge, we all feel a real pride in the vast continent we share and the endeavour we've made to develop it.</p>
@@ -122,6 +112,4 @@ Friends, it's a tribute to your industry's importance to this country that Miner
 <p>There's nowhere in the world you'd be better off investing.</p>
 <p>And there's nowhere in the world where mining has a stronger future.</p>
 <p>And this is Australia, and it has a Labor Government. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

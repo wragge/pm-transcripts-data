@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19248</transcript-id>
-    <title>Transcript of Joint Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/04/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19248</transcript-id><title>Transcript of Joint Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/04/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>PM: I'm joined by Peter Garrett, the Minister for School Education and by Mike Symon the local member here, the Member for Deakin.</p>
 <p>And a little bit later today we will have the 40th Community Cabinet that we've held as a Government, here in Mike's electorate. And that will be the sixth that we've had in Victoria.</p>
 <p>So an opportunity for local community members to raise issues at the top of their mind with us, so I will look forward to that later today.</p>
@@ -81,6 +71,4 @@
 <p>JOURNALIST: FOI figures, just quickly, show the mining tax is possibly a shambles. Do you agree with that?</p>
 <p>PM: Certainly not. The mining tax is a profits-based tax. That's how it was designed, and so it is inevitable and part of the design of the mining tax that it goes up and down as things like commodity prices go up and down.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10881</transcript-id>
-    <title>COMMONWEALTH DAY: 9 MARCH 1998</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10881</transcript-id><title>COMMONWEALTH DAY: 9 MARCH 1998</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Each year, Commonwealth Day provides an opportunity to highlight the</p>
 <p> valuable role the Commonwealth continues to play in bringing together</p>
 <p> nations across the globe. The theme for this year's Commonwealth</p>
@@ -42,6 +32,4 @@ Each year, Commonwealth Day provides an opportunity to highlight the</p>
 <p> and the strong public support for sport in Melbourne will enhance</p>
 <p> the Games' status and profile.</p>
 <p>  9 March 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

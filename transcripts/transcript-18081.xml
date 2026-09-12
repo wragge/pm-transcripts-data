@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18081</transcript-id>
-    <title>COAG delivers key step for national disability insurance scheme</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18081</transcript-id><title>COAG delivers key step for national disability insurance scheme</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Council of Australian Governments (COAG) today agreed on the need for major reform of disability services in Australia through a National Disability Insurance Scheme.</p>
 <p>This follows the release of the Productivity Commission's final report into Disability Care and Support last week.</p>
 <p>The Gillard Government has already made it clear it supports the Productivity Commission's vision for a system to provide individuals with the support they need over the course of their lifetime and that reform of disability services needs to be financially sustainable.</p>
@@ -28,6 +18,4 @@ The Council of Australian Governments (COAG) today agreed on the need for major 
 <p>They also include putting in place service and quality standards so that people with disability can expect high-quality support; building workforce capacity so we have more trained staff to support people with disabilities; and</p>
 <p>developing rigorous timelines, milestones and benchmarks to support the delivery of these and other essential foundation reforms.</p>
 <p>The Select Council will report at COAG's first meeting in 2012. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

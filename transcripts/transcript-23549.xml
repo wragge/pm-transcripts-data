@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23549</transcript-id>
-    <title>Address to morning tea at Victoria School, Villers-Bretonneux, France</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>07/06/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Yesterday, we marked the 70th anniversary of the D-Day landings.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23549</transcript-id><title>Address to morning tea at Victoria School, Villers-Bretonneux, France</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>07/06/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Yesterday, we marked the 70th anniversary of the D-Day landings.</p>
 <p>The Normandy landings marked the beginning of the liberation of Europe and led to the final defeat of Nazi Germany.</p>
 <p>It’s important to honour the men who fought that day – including the 3000 or so Australians who took part, mostly providing air support to the landings in our own or in British squadrons.</p>
 <p>By 1945, there were more than 15,000 Australian air force personnel serving in Europe.</p>
@@ -40,6 +30,4 @@
 <p>Because that’s the day, all going well, a new interpretive centre, the Sir John Monash centre, will open here on the principal site that Monash and his fellow soldiers chose to dedicate to their comrades’ service and sacrifice.</p>
 <p>As the historian Les Carlyon has said, if we remember them – if we remember what they did – they are still alive in our hearts.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

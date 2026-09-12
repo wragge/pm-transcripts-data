@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12258</transcript-id>
-    <title>Sir John Overall CBE, MC and Bar </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/09/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am saddened to learn of the passing of a great Australian public servant, Sir John Overall.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12258</transcript-id><title>Sir John Overall CBE, MC and Bar </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/09/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am saddened to learn of the passing of a great Australian public servant, Sir John Overall.</p>
 <p>Sir John's contribution to this country spans a number of areas.</p>
 <p>He was a distinguished soldier in the AIF in World War II, being decorated with the Military Cross and subsequently a Bar.</p>
 <p>In 1952 he became the Chief Government Architect in the then Commonwealth Department of Works. He held this position until 1957 and in the following year was appointed by Prime Minister Menzies as Commissioner of the National Capital Development Commission (NCDC), the body then responsible for the planning and development of Canberra as the national capital.</p>
@@ -20,6 +10,4 @@
 <p>He was an unwavering Christian and in July this year he drove the bulldozer which turned the sod marking the commencement of the Australian Centre for Christianity and Culture.</p>
 <p>On behalf of the government, I extend my sincere condolences to Sir John's family.</p>
 <p>4 September 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

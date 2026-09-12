@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17491</transcript-id>
-    <title>Tribute for the late Dame Joan Sutherland OM AC DBE </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/11/2010</release-date>
-    <release-type>Honours, Commemorations &amp; Condolences</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>State Memorial Service,  Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17491</transcript-id><title>Tribute for the late Dame Joan Sutherland OM AC DBE </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/11/2010</field_date><release-type><![CDATA[Honours, Commemorations &amp; Condolences]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>State Memorial Service,  Sydney</p>
 <p>Last month the great and generous life of Dame Joan Sutherland came to its end, and so we gather formally as a nation to express our gratitude and to mourn our loss.</p>
 <p>But we are also conscious that the family and friends of Dame Joan have lost someone precious and dear and they have our deepest sympathy and support. Our thoughts are especially with Richard, for whom Joan's passing has not only broken a lifelong partnership but it also ended one of the most remarkable artistic collaborations in the history of modern music.</p>
 <p>Richard can't be here, but I hope he can picture us here today as Joan's spirit inhabits this familiar venue one last time.</p>
@@ -57,6 +47,4 @@
 <p>- Thank you.</p>
 <p>- Goodbye.</p>
 <p>- You will never be forgotten.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

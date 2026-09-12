@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24482</transcript-id>
-    <title>A message from the Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/05/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Like many other countries, Australia is dealing with an increased terror threat.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24482</transcript-id><title>A message from the Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/05/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Like many other countries, Australia is dealing with an increased terror threat.</p>
 <p>Since the terror alert level was raised from Medium to High last September, we’ve witnessed terrorist inspired events in Sydney and in Melbourne.</p>
 <p>As well, the actions of our police and intelligence agencies have averted six terrorist attacks.</p>
 <p>Already, the Parliament has passed new laws to strengthen police powers, including laws on metadata, and the Government has boosted funding for our counter-terrorism agencies.</p>
@@ -24,6 +14,4 @@
 <p>So, in coming days, the Government will be making further announcements about keeping our country as safe as possible.</p>
 <p>You can be assured that this Government will do everything in our power to protect our people and to stop radicalised and brutalised people from roaming our streets.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

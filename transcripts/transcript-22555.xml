@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22555</transcript-id>
-    <title>Interview with Leon Byner  Radio 5AA, Adelaide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/11/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BYNER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22555</transcript-id><title>Interview with Leon Byner  Radio 5AA, Adelaide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/11/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BYNER:</p>
 <p>The Prime Minister of Australia is John Howard, he is on the line.  Prime Minister, thanks for joining us today.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Leon.</p>
@@ -120,6 +110,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p> [Ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

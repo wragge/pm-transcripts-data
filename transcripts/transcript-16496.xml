@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16496</transcript-id>
-    <title>Tasmania First to Receive Superfast Broadband    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government and the Tasmanian Government today announced that Tasmania will be the launch state for the Commonwealth's new super fast National Broadband Network.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16496</transcript-id><title>Tasmania First to Receive Superfast Broadband    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government and the Tasmanian Government today announced that Tasmania will be the launch state for the Commonwealth's new super fast National Broadband Network.</p>
 <p>This new National Broadband Network will begin rolling out in Tasmania as early as July 2009, before a full national roll-out in early 2010.</p>
 <p>The Tasmanian Government, in conjunction with Aurora Energy, will construct a fibre to the premise network which will deliver speeds of 100 Megabits per second, connecting over 200,000 Tasmanian households and businesses.</p>
 <p>The FTTP network will also extend to all hospitals and almost 90 per cent of schools.</p>
@@ -27,6 +17,4 @@
 <p>As a result of this advice, the Australian and Tasmanian Governments have entered into negotiations with the Tasmanian Government to progress the roll-out of fast broadband as part of the enhanced National Broadband Network.</p>
 <p>The Australian Government's commitment to Tasmania is an early demonstration of its plan to support the deployment of new high speed broadband infrastructure nationally.</p>
 <p>The rollout of superfast broadband in Tasmania will revolutionise its economy and dramatically improve the lives of all Tasmanians.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

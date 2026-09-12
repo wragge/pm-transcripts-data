@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22941</transcript-id>
-    <title>Radio Interview with Jeremy Cordeaux, 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: economy; petrol prices; private health insurance; family payments; Minister Reith; foreign aid; tobacco sponsorship.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22941</transcript-id><title>Radio Interview with Jeremy Cordeaux, 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: economy; petrol prices; private health insurance; family payments; Minister Reith; foreign aid; tobacco sponsorship.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>CORDEAUX:</p>
 <p>Prime Minister, good morning sir.</p>
@@ -129,6 +119,4 @@
 <p>CORDEAUX:</p>
 <p>I really appreciate it. Thank you sir.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

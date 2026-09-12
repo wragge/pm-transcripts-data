@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18362</transcript-id>
-    <title>Historic Fair Pay Decision for Low Paid Workers</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18362</transcript-id><title>Historic Fair Pay Decision for Low Paid Workers</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 150,000 of Australia's lowest paid workers will benefit from substantial pay rises of between 23 and 45 percent as a result of Fair Work Australia's historic pay equity decision today.</p>
 <p>120,000 of these Social and Community Services sector workers are women - working in difficult jobs often described as “caring” jobs, includingworking with people with disabilities, counselling families in crisis, running homeless shelters and working with victims of domestic violence or sexual assault.</p>
 <p>This Labor Government allowed the case to be brought to the independent umpire through our introduction of the Fair Work Act and the ability to seek gender equity in rates of pay, and supported the application that was brought.</p>
@@ -23,6 +13,4 @@
 <p>Properly valuing caring work and providing decent wages in industries dominated by women will keep our economy strong and resilient.</p>
 <p>Importantly, the decision will also help part of the social and community services sector attract and keep qualified, valuable employees.</p>
 <p>Today's decision is good for the sector, good for caring workers, good for women, good for families and good for the economy. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

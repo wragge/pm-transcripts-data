@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10855</transcript-id>
-    <title>FEDERATION FUND SUPPORT FOR ST. ANDREW&amp;#146;S CATHEDRAL RESTORATION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/02/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Federal Government will provide</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10855</transcript-id><title><![CDATA[FEDERATION FUND SUPPORT FOR ST. ANDREW&amp;#146;S CATHEDRAL RESTORATION]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/02/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Federal Government will provide</p>
 <p> $5 million from the Federation Fund towards the restoration of St</p>
 <p> Andrew's Cathedral, Sydney.</p>
 <p>This contribution towards the St Andrew's Appeal Fund will help</p>
@@ -36,6 +26,4 @@
 <p> Government to the restoration of Sydney's St Mary's Cathedral.</p>
 <p>This will bring to $369 million commitments made to date from the</p>
 <p> $1 billion Federation Fund announced in the last Budget.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

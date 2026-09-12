@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11620</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT DUBBO COMMUNITY LUNCHEON            AMAROO HOTEL, DUBBO                    SUBJECTS: Regional visit, service delivery, new tax system,             employment network;</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/02/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11620</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT DUBBO COMMUNITY LUNCHEON            AMAROO HOTEL, DUBBO                    SUBJECTS: Regional visit, service delivery, new tax system,             employment network;</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/02/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>Thank you very much Tony, and to the Mayor, Gerry Peacocke, ladies and</p>
 <p> gentlemen.</p>
 <p>As Tony said I am on a week long visit to rural and regional areas of</p>
@@ -173,6 +163,4 @@
 <p>Well, that kind of, if the community information centre is a not for</p>
 <p> profit organisation that wouldn't be subject, no.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

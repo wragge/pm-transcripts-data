@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11082</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   TELEVISION INTERVIEW WITH TONY JONES                ABC&amp;#146;S LATELINE PROGRAMME</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/03/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11082</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   TELEVISION INTERVIEW WITH TONY JONES                ABC&amp;#146;S LATELINE PROGRAMME]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/03/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>JONES:</p>
 <p>Welcome to Lateline, Prime Minister, and congratulations on</p>
 <p> the anniversary.</p>
@@ -346,6 +336,4 @@
 <p>If we could just talk about the trials themselves for a moment. Several</p>
 <p> times you have pointed to the Swiss trials to point, to support your</p>
 <p> position. But they clai</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

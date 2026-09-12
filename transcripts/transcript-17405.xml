@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17405</transcript-id>
-    <title>Transcript of interview with Deborah Cameron, ABC Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/07/2010</release-date>
-    <release-type>Defence</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17405</transcript-id><title>Transcript of interview with Deborah Cameron, ABC Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/07/2010</field_date><release-type>Defence</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Good morning, Prime Minister.</p>
 <p>PM: Good morning, Deborah.</p>
 <p>HOST: I'd like to, I suppose, hone in a little bit on the Indonesia part of this picture. East Timor, the East Timor strategy also involves very much trading on the co-operation and agreement of Indonesia. Australia has already asked much of Indonesia, which has already done a lot to remedy the terrorism risk in the region, for example. It also arrests and deals with many Australians, recreational drug users among them, who turn up in their bars and now in their jails more often than not. As Prime Minister, though, you've never met the Indonesian President, Susilo Bambang Yudhoyono, and now you want more. Now, Paul Keating said that Australia had no more important relationship than Indonesia. Do you share his view?</p>
@@ -41,6 +31,4 @@ HOST: Good morning, Prime Minister.</p>
 <p>PM: No, I haven't seen the GetUp video of myself and anybody who's met me and knows how unbelievably clumsy I am - I am a very clumsy person, I easily drop things and knock things over, I've done that spectacularly in front of a few TV cameras in my time - wouldn't see me as much of an action hero, so I'm sorry to disappoint.</p>
 <p>HOST: Prime Minister, thank you very much for your time this morning.</p>
 <p>PM: Thanks, Deborah. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

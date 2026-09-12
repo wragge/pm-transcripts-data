@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11893</transcript-id>
-    <title>Interview with Jeremy Cordeaux, 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: election; CHOGM; US terrorist attack; illegal immigrants; economy; Ansett; Michael Wooldridge.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11893</transcript-id><title>Interview with Jeremy Cordeaux, 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: election; CHOGM; US terrorist attack; illegal immigrants; economy; Ansett; Michael Wooldridge.</p>
 <p>E&amp;OE................................</p>
 <p>CORDEAUX:</p>
 <p>Just let me say while we're getting this fixed, I was listening to one news report this morning on the ABC and it was talking about your surge in popularity. It was saying it's amazing what a crisis can do for popularity, what they didn't say of course was it has nothing to do with the crisis it has a great deal to do with the way in which you handled it, but you won't hear the ABC say that I shouldn't think.</p>
@@ -169,6 +159,4 @@
 <p>Thank you, sir.</p>
 <p>PRIME MINISTER:</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

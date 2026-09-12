@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16277</transcript-id>
-    <title>Joint Media Release with Minister for Health - $1.6 billion COAG investment in Closing the Gap   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australian Governments will invest $1.6 billion in Indigenous health to help close the appalling gap in life expectancy between Indigenous and non-Indigenous people within a generation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16277</transcript-id><title>Joint Media Release with Minister for Health - $1.6 billion COAG investment in Closing the Gap   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australian Governments will invest $1.6 billion in Indigenous health to help close the appalling gap in life expectancy between Indigenous and non-Indigenous people within a generation.</p>
 <p>This funding, including an $800 million Commonwealth commitment, will deliver more health professionals to Indigenous communities, expand health services, and help tackle key risk factors like smoking.</p>
 <p>This investment will target chronic disease, the single largest contributor to the current life expectancy gap.</p>
 <p>Chronic diseases like cardiovascular disease, diabetes and cancer account for about two thirds of premature deaths among Indigenous Australians.</p>
@@ -26,6 +16,4 @@
 <p>The package also includes $161 million to tackle the key risk factors for chronic diseases in the Indigenous community, like smoking.</p>
 <p>Both mainstream and Indigenous community controlled primary health care services will be eligible for the additional funding and support.</p>
 <p>States and Territories have agreed to contribute an additional $772 million to provide additional resources for tackling smoking, expanding allied health and other State Government-funded services provided to Indigenous people, and introducing strategies to improve care provided to Indigenous people in public hospitals.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

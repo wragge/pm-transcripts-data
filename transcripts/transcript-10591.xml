@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10591</transcript-id>
-    <title>Enhancing Business and Community Sector Partnerships </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/11/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I wish to announce measures to improve links between Australian businesses and the community sector.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10591</transcript-id><title>Enhancing Business and Community Sector Partnerships </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/11/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I wish to announce measures to improve links between Australian businesses and the community sector.</p>
 <p>The community sector comprises a large number of non-profit organisations engaged in a broad range of activities including welfare service delivery, sporting and cultural pursuits. These organisations typically rely heavily on volunteer assistance, and each year around 2.5 million Australians participate in voluntary work.</p>
 <p>Many of these organisations have special insights and capacities to resolve social problems, and can provide a vital integrating force between different sectors of society.</p>
 <p>While governments have an on-going role in facilitating the community sector's work, including financial support, the business sector also has a role to play.</p>
@@ -56,6 +46,4 @@
 <p> 1995 Report into Charitable Organisations. This announcement will</p>
 <p> remove any uncertainty within the community sector about the Government's</p>
 <p> intentions in this regard.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

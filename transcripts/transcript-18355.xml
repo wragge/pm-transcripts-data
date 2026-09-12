@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18355</transcript-id>
-    <title>National Emergency Medal Presentation, Flowerdale</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/01/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18355</transcript-id><title>National Emergency Medal Presentation, Flowerdale</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/01/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Mr Rob Mitchell MP, Federal Member for McEwen.</p>
 <p>Mrs Sophie Mirabella MP, Federal Member for Indi.</p>
 <p>Councillor John Walsh, Mayor of the Murrindindi Shire Council and your Council colleagues,</p>
@@ -52,6 +42,4 @@ Mr Rob Mitchell MP, Federal Member for McEwen.</p>
 <p>And so in the shadow of Australia Day here in the landscape where the deeds of your generosity were inscribed I proudly present these medals to a very deserving group of recipients, from a very proud and grateful nation.</p>
 <p>Accept them with honour.</p>
 <p>And wear them with pride. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

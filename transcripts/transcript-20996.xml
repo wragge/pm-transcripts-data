@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20996</transcript-id>
-    <title>Interview with Dermott Mernahan, BBC Breakfast  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/11/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MERNAHAN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20996</transcript-id><title>Interview with Dermott Mernahan, BBC Breakfast  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/11/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MERNAHAN:</p>
 <p>Good morning to you Prime Minister.  Can we start with talking about this memorial in Hyde Park.  Is it a long overdue tribute to all the Australians who gave their lives during those two campaigns, over 60 years, nearly 60 years since the end of the second World War.</p>
 <p>PRIME MINISTER:</p>
 <p>I guess it is, but that doesn't diminish the value of the gesture. It's a beautiful memorial.  It's in a very central location.  It will become the focal point for Anzac Day services in London from next year onwards and we are all very pleased at the way it has come out and it is a fitting reminder of the enormous sacrifice that Australians made in defence of Britain in both World War I and World War II.</p>
@@ -40,6 +30,4 @@
 <p>MERNAHAN:</p>
 <p>Prime Minister, thank you very much indeed for joining us.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

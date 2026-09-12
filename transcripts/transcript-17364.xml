@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17364</transcript-id>
-    <title>New State Emergency Service opens in Marysville</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/07/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17364</transcript-id><title>New State Emergency Service opens in Marysville</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/07/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Victorian Premier John Brumby today officially opened a new State Emergency Services headquarters in Marysville, marking another important milestone in the bushfire recovery process in Victoria.</p>
 <p>Ms Gillard and Mr Brumby were joined by emergency services volunteers and the Marysville community to open the new headquarters and hand over a new rescue truck to the town's SES crew.</p>
 <p>Ms Gillard said the Australian Government would continue to stand by those affected by the worst natural disaster in the nation's history and support them as they rebuild their lives, homes and communities.</p>
@@ -28,10 +18,8 @@ Prime Minister Julia Gillard and Victorian Premier John Brumby today officially 
 <p>The Australian and Victorian Governments have put in place a $193 million plan which is driving the economic and social recovery of communities across Victoria.</p>
 <p>The Rebuilding Together plan set out the rebuilding priorities which have been driven by local communities, to rebuild their essential town buildings and services, to generate business growth and investment and to rehabilitate key local attractions central to their future prosperity.</p>
 <p>The $193 million Rebuilding Together plan delivered:</p>
-<p> * 	$93.4 million to support people and communities rebuild through ongoing accommodation support, counselling services and rebuilding key community assets including upgrading more than 20 community halls, building new community centres and restoring sports and recreation facilities, parks, gardens, walking and cycling trails;<br />
- * 	$60.5 million to build new multipurpose facilities that will improve education and recreation services in Kinglake, Flowerdale, Callignee and Marysville including a new primary school in Strathewen, a new Marysville Police Station and a new Marysville community centre which brings together the primary school and early childhood services.<br />
- * 	$21.6 million to assist small business to return to pre-fire operating levels, new tourism marketing campaigns, new National and State Park facilities and the restoration of the iconic Lake Mountain Alpine Resort as a major tourism destination; and<br />
+<p> * 	$93.4 million to support people and communities rebuild through ongoing accommodation support, counselling services and rebuilding key community assets including upgrading more than 20 community halls, building new community centres and restoring sports and recreation facilities, parks, gardens, walking and cycling trails;<br>
+ * 	$60.5 million to build new multipurpose facilities that will improve education and recreation services in Kinglake, Flowerdale, Callignee and Marysville including a new primary school in Strathewen, a new Marysville Police Station and a new Marysville community centre which brings together the primary school and early childhood services.<br>
+ * 	$21.6 million to assist small business to return to pre-fire operating levels, new tourism marketing campaigns, new National and State Park facilities and the restoration of the iconic Lake Mountain Alpine Resort as a major tourism destination; and<br>
  * 	$17.5 million to rehabilitate the environment including urgent action to protect threatened species and habitats, regenerate state forests, help farmers and landholders restore their land and repair critical waterways and catchments. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

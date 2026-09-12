@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22229</transcript-id>
-    <title>Doorstop Interview Phillip Street, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22229</transcript-id><title>Doorstop Interview Phillip Street, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well ladies and gentlemen I just want to make one point and that is that the appearance by me, earlier this week by the Foreign Minister and also by the Trade Minister, demonstrates absolutely how open and transparent and accountable the Government is being in relation to this matter. Australia alone has established an inquiry, a public inquiry, with the powers of a Royal Commission-and that includes compelling a production of documents which is crucial in relation to a matter such as this-and I think overwhelmingly this demonstrates how open and transparent the Government has been. I don't intend to say anything this morning about what I will say to the commission-that would not be appropriate. I will later on today be available to talk to the media about aspects of the Cole Commission that it's appropriate for me to talk about as well as other matters of public affairs, but beyond that I have nothing further to say. Thank you and we'll see you later today.</p>
 <p>JOURNALIST:</p>
 <p>Do you think it's been damaging to your Government....</p>
@@ -20,6 +10,4 @@
 <p>PRIME MINISTER:</p>
 <p>I will be available to talk to all of you later today. So come along and I'll answer all of your questions. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

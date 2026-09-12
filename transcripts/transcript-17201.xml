@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17201</transcript-id>
-    <title>Guaranteed elective surgery waiting times    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will guarantee elective surgery waiting times and set a national target that 95 per cent of Australians receive elective surgery within clinically recommended times.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17201</transcript-id><title>Guaranteed elective surgery waiting times    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will guarantee elective surgery waiting times and set a national target that 95 per cent of Australians receive elective surgery within clinically recommended times.</p>
 <p>To help hospitals reach these goals, the Government will provide $650 million, or the equivalent of around 90,000 extra elective surgeries across Australia.</p>
 <p>The Rudd Government will introduce:</p>
 <p>-A National Access Guarantee for Elective Surgery under which free treatment in public or private hospitals will be rapidly provided if patients wait longer than the clinically recommended time for elective surgery.</p>
@@ -31,6 +21,4 @@
 <p>The new National Access Targets will help ensure that 95 per cent of patients waiting for elective surgery will be treated within the clinically recommended time by 2014.</p>
 <p>The Government will work closely with clinicians and the states and territories so that appropriate clinical standards are enforced to maintain the quality of care.</p>
 <p>This builds on the Government's earlier Elective Surgery Waiting List Plan which has delivered more than 62,000 additional elective surgeries since it began in 2008. It also provided $150 million for more than 120 hospitals to expand their elective surgery capacity. A further $300 million in performance payments are currently being rolled out.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

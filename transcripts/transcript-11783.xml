@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11783</transcript-id>
-    <title>Press Conference, Australian Embassy, Washington DC, USA </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11783</transcript-id><title>Press Conference, Australian Embassy, Washington DC, USA </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well ladies and gentlemen, could I start this news conference by reading a message that I sent a few moments ago to President Bush.</p>
 <p>Dear Mr President. The Australian Government and people share the sense of horror experienced by your nation at today's catastrophic events and the appalling loss of life. I feel the tragedy even more keenly being here in Washington at the moment.</p>
 <p>In the face of an attack of this magnitude, words are always inadequate in conveying sympathy and support. You can however be assured of Australia's resolute solidarity with the American people at this most tragic time.</p>
@@ -68,6 +58,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well, they are a long way away from a lot of other...I think they are very safe.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23348</transcript-id>
-    <title>Reducing red tape to build a strong and prosperous economy</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/03/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today the Government introduced legislation and tabled documents to repeal over 10,000 unnecessary and counter-productive pieces of legislation and regulations.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23348</transcript-id><title>Reducing red tape to build a strong and prosperous economy</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/03/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today the Government introduced legislation and tabled documents to repeal over 10,000 unnecessary and counter-productive pieces of legislation and regulations.</p>
 <p>More than 50,000 pages of unnecessary and costly legislation and regulations that are a dead weight on Australian businesses, community groups and households will be removed.</p>
 <p>This will reduce red tape across the economy by more than $700 million a year, every year.</p>
 <p>We are committed to cutting red tape costs by $1 billion a year to improve our nation’s competitiveness, help to create more jobs and lower household costs.</p>
@@ -23,14 +13,16 @@
 <p>Repealing the Carbon Tax and the Mining Tax will not only reduce cost of living pressures and help create jobs, but will also save nearly $100 million in compliance costs.</p>
 <p>Common sense changes will be made to Labor’s recent “Future of Financial Advice” laws to reduce the compliance costs for small businesses, financial advisers, and the broader financial services industry, whilst maintaining the quality of advice for consumers.</p>
 <p>Other examples of the red tape reforms include:</p>
-<ul><li>The film industry will be able to make minor modifications to films (e.g. turning 2D into 3D, then DVD and Blu-ray) without going through the classification process every time.</li>
-</ul><ul><li>Job service providers will no longer have to retain cabinets full of paper files and will now be able to keep records electronically.</li>
+<ul>
+<li>The film industry will be able to make minor modifications to films (e.g. turning 2D into 3D, then DVD and Blu-ray) without going through the classification process every time.</li>
+</ul>
+<ul>
+<li>Job service providers will no longer have to retain cabinets full of paper files and will now be able to keep records electronically.</li>
 <li>Slow moving machinery – like concrete mixers or “wacker packers” (used to compact soil) will no longer need to be registered as “motor vehicles” under the <em>Personal Property Securities </em>register.</li>
 <li>Universities will no longer be required to submit extensive (and duplicated) survey data on the size, use, management and maintenance of their lecture theatres, laboratories, offices and other facilities each year.</li>
 <li>Charities will no longer be subjected to as much duplication with their paperwork.</li>
 <li>Aged care providers and Disability Employment Service Providers will be spared many thousands of hours of paperwork.</li>
-</ul><p>Cutting red tape is at the heart of this Government’s mission: to build a strong and prosperous economy for a safe and secure Australia.</p>
+</ul>
+<p>Cutting red tape is at the heart of this Government’s mission: to build a strong and prosperous economy for a safe and secure Australia.</p>
 <p>19 March 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21044</transcript-id>
-    <title>Interview with Larry King Live, CNN  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KING:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21044</transcript-id><title>Interview with Larry King Live, CNN  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KING:</p>
 <p>Mr Prime Minister, we understand the President of the United States called you today.  What did he say?</p>
 <p>PRIME MINISTER:</p>
 <p>Well he rang me to talk about what had been announced, that was the capture of Saddam Hussein. We shared a satisfaction, a very deep satisfaction, and a common belief that this would be very good for the people of Iraq.  He talked a little about the events that led up to it, the success of American intelligence.  I congratulated the American military on its achievement.  The American military of course is carrying the main burden in Iraq, and for their sakes in particular I think this is a wonderful development and it will give the boys and girls of the US Defence Force a great Christmas present to feel that the person who has been the chief tormentor of the Iraqi people for so long, for more than 35 years, has now finally been arrested and is going to face justice.</p>
@@ -38,6 +28,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you very much, Larry.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

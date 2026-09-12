@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18976</transcript-id>
-    <title>Transcript of Interview with Sarah Harris - Today</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/01/2013</release-date>
-    <release-type>Health</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Good morning Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18976</transcript-id><title>Transcript of Interview with Sarah Harris - Today</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/01/2013</field_date><release-type>Health</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Good morning Prime Minister.</p>
 <p>PM: Good morning Sarah, I'm here in the pink as you can see and the ground's starting to fill with everybody sporting their pink as well for Jane McGrath Day.</p>
 <p>HOST: Well Prime Minister it looks very good on you indeed, but before we get to the funding announcement could we just chat bushfires for a moment. 80 properties have been destroyed in Tasmania so far, we're looking at a horror few days with temperatures continuing to soar right across the southern states.</p>
 <p>Is financial assistance to those affected by bushfires something the Federal Government is already putting together?</p>
@@ -57,6 +47,4 @@
 <p>So I've got some resolutions about what I want us to get done together during the course of the year, and none of them bigger than what I want us to do for Australia's kids.</p>
 <p>HOST: Okay Prime Minister Julia Gillard, thank you very much for joining us this morning. Have a great day at the SCG. Over to you Steve.</p>
 <p>PM: Thanks.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

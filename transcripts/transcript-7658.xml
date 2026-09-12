@@ -1,22 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7658</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>24/06/1989</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007658.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-PRIME MINISTER<br />
-FOR MEDIA24 JUNE 1989<br />
-I have sent the following message to Jeff Harding today from<br />
-Washington: begins Congratulations on your magnificent victory. You showed<br />
-great courage in coming through in the final round. You<br />
-rightly deserve to join the illustrious ranks of<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7658</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>24/06/1989</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007658.pdf</document><subjects></subjects><content><![CDATA[<p>
+PRIME MINISTER<br>
+FOR MEDIA24 JUNE 1989<br>
+I have sent the following message to Jeff Harding today from<br>
+Washington: begins Congratulations on your magnificent victory. You showed<br>
+great courage in coming through in the final round. You<br>
+rightly deserve to join the illustrious ranks of<br>
 Australian world champions. o </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11960</transcript-id>
-    <title>Interview with Phillip Clark, 2GB</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11960</transcript-id><title>Interview with Phillip Clark, 2GB</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: </p>
 <p>E&amp;OE.................................</p>
 <p>CLARKE:</p>
 <p>Mr Howard good morning.</p>
@@ -18,7 +8,7 @@
 <p>CLARKE:</p>
 <p>Yes well nice to have you on the program as well.  Tax looks set to be the battleground for this years forthcoming poll whenever that may be, (inaudible) - the level of tax and so on.  We saw in New South Wales last night Mr Egan the State Treasurer bring down the budget which got rid of one tax, the bank accounts deposits tax, was that a step in the right direction and what did you make of that budget?</p>
 <p>PRIME MINISTER:</p>
-<p>Well of course it's a step in the right direction.  I hope the other states follow.  That of course has been made possible by the new tax system.  Without a GST delivering rising revenues to the States in the years ahead, they wouldn't have the resources to abolish things like the bank account debits tax.  Remember, it was part of the agreement between the States and the Commonwealth as a result of the introduction of the GST and tax reform that the financial institutions duty should be abolished on the first of July this year, which it will in every State where it operates.  And the bank account debits tax a few years later.  Now New South Wales has brought that forward, that's good, I welcome that, but both of these taxes, the abolition of them was put on the table as a result of tax reform.  It's another illustration of how, over the years ahead, having a GST which is a broadly based indirect tax we guarantee a revenue source for the States.   The States are the great beneficiaries and as a result of that the people of the States and the services they receive  from the introduction of the GST.<br />
+<p>Well of course it's a step in the right direction.  I hope the other states follow.  That of course has been made possible by the new tax system.  Without a GST delivering rising revenues to the States in the years ahead, they wouldn't have the resources to abolish things like the bank account debits tax.  Remember, it was part of the agreement between the States and the Commonwealth as a result of the introduction of the GST and tax reform that the financial institutions duty should be abolished on the first of July this year, which it will in every State where it operates.  And the bank account debits tax a few years later.  Now New South Wales has brought that forward, that's good, I welcome that, but both of these taxes, the abolition of them was put on the table as a result of tax reform.  It's another illustration of how, over the years ahead, having a GST which is a broadly based indirect tax we guarantee a revenue source for the States.   The States are the great beneficiaries and as a result of that the people of the States and the services they receive  from the introduction of the GST.<br>
 CLARKE:</p>
 <p>Ok, I note your comments yesterday that you say we rely too heavily on personal income tax as a source of revenue.  Are you pointing to a point in the future where we could look at income tax cuts of a substantial nature?</p>
 <p>PRIME MINISTER:</p>
@@ -136,6 +126,4 @@ CLARKE:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

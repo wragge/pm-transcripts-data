@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41696</transcript-id>
-    <title>Radio interview with Rebecca Levingston and Bill McDonald - ABC Radio Brisbane</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/07/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>ACCC electricity review; State of Origin; Longman by-election; Thailand rescue</subjects>
-    <content><![CDATA[<p><strong>REBECCA LEVINGSTON:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41696</transcript-id><title>Radio interview with Rebecca Levingston and Bill McDonald - ABC Radio Brisbane</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/07/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>ACCC electricity review; State of Origin; Longman by-election; Thailand rescue</subjects><content><![CDATA[<p><strong>REBECCA LEVINGSTON:</strong></p>
 <p>Prime Minister, good morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning, great to be with you.</p>
@@ -79,7 +69,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well the Longman by-election is obviously a test of the candidates, a test of the parties, but really it is about deciding - for the people of Longman to decide - whether they want to vote for Bill Shorten and his higher taxes, fewer jobs, lower wages, less economic growth.</p>
 <p>I mean Bill Shorten’s going to be in Bribie Island today-</p>
-<p> <strong>REBECCA LEVINGSTON:</strong></p>
+<p>&nbsp;<strong>REBECCA LEVINGSTON:</strong></p>
 <p>So if the Labor voters are about Bill Shorten, are those in the LNP voting for Malcolm Turnbull?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Of course. The head-up, the contest is between me and Bill Shorten as the Prime Minister and the Opposition Leader.</p>
@@ -125,6 +115,4 @@
 <p><strong>REBECCA LEVINGSTON:</strong></p>
 <p>Great to talk to you, speak again. Bye.</p>
 <p><strong>[ENDS] </strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

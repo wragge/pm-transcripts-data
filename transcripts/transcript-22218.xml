@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22218</transcript-id>
-    <title>Joint Press Conference with The Hon Alan Carpenter MLA Premier of Western Australia Perth</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22218</transcript-id><title>Joint Press Conference with The Hon Alan Carpenter MLA Premier of Western Australia Perth</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, the Premier and I have called you here this morning to announce a very happy event that Western Australia will sign the National Water Initiative. I warmly welcome that. This will complete the historic process of agreement on water issues between the Commonwealth and the States of Australia and I am very pleased indeed with the decision of the West Australian Government because it will complete this process of water management.</p>
 <p> The initiative provides a national blueprint for handling our water resources, providing water security, water preservation and better water management for all Australians. It's going to result in the expansion of a permanent water trade in this country which is crucial to having a national framework to solve our challenges. It's going to provide a national framework for responding to all of the various areas of this great conservation challenge.</p>
 <p> I look forward to working with Western Australia on the implementation of the national agreement and I welcome the policy direction from the Western Australian Government to improve the management of water resources in this state.</p>
@@ -111,6 +101,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

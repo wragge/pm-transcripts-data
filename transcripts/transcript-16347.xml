@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16347</transcript-id>
-    <title>World Economic Forum and Working Visit to India    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/01/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and Treasurer will undertake a two day working visit to the World Economic Forum in late January to promote the need for a coordinated international response to the global financial crisis. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16347</transcript-id><title>World Economic Forum and Working Visit to India    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/01/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and Treasurer will undertake a two day working visit to the World Economic Forum in late January to promote the need for a coordinated international response to the global financial crisis. </p>
 <p>The Prime Minister and the Treasurer will use the World Economic Forum to continue to promote the comparative strengths of the Australian economy during this severe economic downturn.</p>
 <p>Over 40 world leaders and many corporate leaders will participate in this important meeting of the WEF, where the major focus will be to discuss the key challenges facing the world and the global economy in 2009.</p>
 <p>Prior to the World Economic Forum, the Prime Minister will make an official working visit to India on January 28. India is now becoming one of Australia's significant economic partners.</p>
@@ -27,6 +17,4 @@
 <p>On 27 January, the Prime Minister will also visit Papua New Guinea for a special meeting of Pacific Islands Forum leaders hosted by Sir Michael Somare, to consider the situation in Fiji.</p>
 <p>Pacific leaders agreed at their meeting in Niue in August 2008 that this meeting was needed because of the interim Fijian Government's refusal to hold elections by March 2009.</p>
 <p>As agreed in August, Pacific Islands Forum leaders will consider special measures in relation to Fiji to encourage a return to democracy, which is essential to a stable and prosperous future for the people of Fiji and the Pacific.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

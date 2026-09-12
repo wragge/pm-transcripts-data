@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17900</transcript-id>
-    <title>Prime Minister visits Alice Springs</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17900</transcript-id><title>Prime Minister visits Alice Springs</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today visited Alice Springs to see first hand how the Federal Government's $150 million Transformation Plan for the Northern Territory town is helping to improve lives for Indigenous people.</p>
 <p>The Prime Minister officially opened a new $8.3 million transitional accommodation facility today which is part of the plan to transform areas of Alice Springs and the town camps so that they are safe, healthy places to live in.</p>
 <p>The Aherlkeme Village will provide 75 supported accommodation places to help homeless Indigenous people make the move into public housing.</p>
@@ -33,6 +23,4 @@ Prime Minister Julia Gillard today visited Alice Springs to see first hand how t
 <p>We are making an unprecedented investment in closing the gap on Indigenous disadvantage, which is beginning to change the lives of Indigenous people.</p>
 <p>The Gillard Government is working with Indigenous people to support personal responsibility as the foundation for healthy, functional families and communities.</p>
 <p>Closing the gap requires a genuine partnership with Indigenous Australians at all levels. The Government is committed to a relationship based on trust and mutual respect. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

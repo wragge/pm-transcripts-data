@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20983</transcript-id>
-    <title>R.M. Williams  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/11/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Reginald Murray Williams was a legendary Australian who from humble beginnings launched a successful business that became a household name throughout the nation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20983</transcript-id><title>R.M. Williams  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/11/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Reginald Murray Williams was a legendary Australian who from humble beginnings launched a successful business that became a household name throughout the nation.</p>
 <p>Driven by his love of our country, "R.M." was a passionate advocate for rural and regional Australia, with his pioneering efforts contributing to the settlement and growth of country areas.</p>
 <p>He was a shining example of the spirit of the great Australian adventurer, rising from the adversity of the Great Depression to write his name into history as a bush craftsman and generous sponsor of outback ethic and culture.</p>
 <p>In particular, one of his great ambitions was to establish the Stockman's Hall of Fame which he helped bring about at Longreach in 1988.</p>
@@ -20,6 +10,4 @@
 <p>He quickly built a reputation for crafting high quality leather and bush products many of which, including the famous Drizabone, are sold as outdoor and fashion accessories throughout the world.</p>
 <p> From these humble and industrious beginnings, his business grew into a successful global company acknowledged across Australia as a national icon.</p>
 <p>  "R.M." will be greatly missed. I offer my sincerest condolences to his family and many friends.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

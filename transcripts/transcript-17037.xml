@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17037</transcript-id>
-    <title>Prime Minister Transcript of interview with David Speers Sky News 4 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS: Prime Minister, welcome back to Sky News.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17037</transcript-id><title>Prime Minister Transcript of interview with David Speers Sky News 4 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS: Prime Minister, welcome back to Sky News.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>SPEERS: Have you been rattled by Tony Abbott this week on climate change?</p>
 <p>PM: You know something, climate change is a hard debate, it's a complex debate. It is necessary however, for Australia's national interest. What I welcome is the fact that Mr Abbott at last, has joined the debate. One of the easiest things you can do in politics is to be all complaint and no solutions. And I've seen that in the time that Mr Abbott has been in the position so often, but on this one, can I say they've put their proposal forward and against the most basic tests this turned up to be a climate con job, first class.</p>
@@ -68,6 +58,4 @@
 <p>PM: Belinda, as I'm sure she will, will stick her hand up, and as I said, I believe that she has done a good job as a local member. But the Party's pre-selection processes are a matter for the Party's organisation, the National Executive, the National Secretary. I've got enough on my plate David, and there's a few things going on at the moment, and that's where my mind is focussed.</p>
 <p>SPEERS: We'll let you get back to them. Prime Minister, thanks for joining us.</p>
 <p>PM: Thanks for having me on the program</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

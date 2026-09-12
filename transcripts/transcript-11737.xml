@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11737</transcript-id>
-    <title>Doorstop, Lakes Entrance </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/02/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: fuel excise; rural and regional issues; roads funding; economy; Basslink project.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11737</transcript-id><title>Doorstop, Lakes Entrance </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/02/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: fuel excise; rural and regional issues; roads funding; economy; Basslink project.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, did you have a look at the petrol prices at the station you stopped at this morning?</p>
@@ -84,6 +74,4 @@
 <p>PRIME MINISTER:</p>
 <p>Just one thing before you go, on the question of petrol excise, I hear of course that Mr Beazley and Mr Crean are saying that they're going to sponsor a private members bill and how outrageous it all is. Well for them to be seriously listened to they should promise that a future Labor government will reverse today's indexation rise. And I don't think Mr Beazley can be seriously entertained on this issue unless he's prepared to commit a future Labor government to reverse it.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

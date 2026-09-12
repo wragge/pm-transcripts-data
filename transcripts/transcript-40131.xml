@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40131</transcript-id>
-    <title>Ceremony to Mark the Anniversary of the Martin Place Siege</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/12/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40131</transcript-id><title>Ceremony to Mark the Anniversary of the Martin Place Siege</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/12/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>A whole city grieved. A whole city woke in shock.</p>
 <p>A whole nation resolved to answer hatred with love.</p>
 <p>To answer those who seek to divide us with solidarity. To extend our love, our sympathy, our passionate commitment to be united, to the families of Tori and Katrina. And to all of us, to show that we were stronger, are stronger, will always be stronger, than those who seek to divide us, who seek to use violence to confront us.</p>
@@ -24,7 +14,5 @@
 <p>And a message for Sydney:</p>
 <p>‘The power of a community memorial is to remind each of us that love is greater than hate. I will also never forget all the reasons Sydney won my heart and my trust. Its vibrancy, its openness, its joy, its mateship, its community, its beauty.’</p>
 <p>And finally, a message that summed up the thoughts and feelings for all Australians:</p>
-<p>‘Testament to the spirit of Australians is that with such unnecessary, thoughtless tragedy, an amazing birth of mateship, unity and love occurs. Proud to be Australian.’ </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>‘Testament to the spirit of Australians is that with such unnecessary, thoughtless tragedy, an amazing birth of mateship, unity and love occurs. Proud to be Australian.’&nbsp;</p>
+]]></content></item></response>

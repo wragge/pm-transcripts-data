@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40307</transcript-id>
-    <title>Cyber Security Growth Centre Chairs announced</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>21/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Strong cyber security underpins Australia’s economy and is a major priority for the Australian Government. It is a fundamental element of our prosperity and confidence and is vital for national security.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40307</transcript-id><title>Cyber Security Growth Centre Chairs announced</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>21/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Strong cyber security underpins Australia’s economy and is a major priority for the Australian Government. It is a fundamental element of our prosperity and confidence and is vital for national security.</p>
 <p>Today we have appointed two of Australia’s most experienced IT executives as joint chairs of the Government’s new Cyber Security Growth Centre.</p>
 <p>Doug Elix AO and Adrian Turner will lead the Growth Centre in developing a national strategy for Australia to become a global leader in this $USD 71 billion cyber security industry.</p>
 <p>The Growth Centre, announced under the National Innovation and Science Agenda, will ensure Australia is best placed to tackle cyber hacking and data theft - which costs the world about $400 billion annually, according to Lloyds of London.</p>
@@ -18,6 +8,4 @@
 <p>The NSW hub will be at the Australian Technology Park, leveraging CSIRO’s Data61’s advanced cyber capability. Victoria will house its Growth Centre node at Goods Shed with the recently announced Oceania Cyber Security Centre, Oxford’s Global Cyber Security Capacity Centre and Data61.</p>
 <p>Mr Elix and Mr Turner will oversee consultation sessions with research and industry stakeholders and governments to establish hubs in other key locations across the country and outline how the Growth Centre will operate. State and Territory cyber innovation centres will be encouraged to join this network, further strengthening our cyber defences; growing business opportunities; and creating jobs.</p>
 <p>Further information on the Cyber Security Growth Centre can be found at <a href="http://www.business.gov.au/industrygrowthcentres">www.business.gov.au/industrygrowthcentres</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

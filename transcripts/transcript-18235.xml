@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18235</transcript-id>
-    <title>Transcript of press conference, Perth</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18235</transcript-id><title>Transcript of press conference, Perth</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you. Today is a bitter day for Australia. I don't know a better word than the word bitter to describe how we feel today. Three Australian soldiers have lost their lives in Afghanistan in an incident overnight. Seven Australian soldiers have been wounded, some of them seriously. An Afghan interpreter has also been killed.</p>
 <p>I join the nation in the sense of grief we are all feeling as we digest this news. I particularly offer my most sincere condolences to the three families who are in the depths of grief today. We are thinking of them, our thoughts are with them as they deal with this terrible and distressing news.</p>
 <p>Our thoughts are also with the families of the wounded who would be so anxious about the circumstances of their loved ones. We are certainly thinking of them too as they deal with news that their loved ones have been hurt in Afghanistan.</p>
@@ -61,6 +51,4 @@ PM: Thank you. Today is a bitter day for Australia. I don't know a better word t
 <p>In terms of the attitudes of the Australian people, I well and truly understand that when we see losses in Afghanistan and particularly when we see losses of this kind that it does cause the Australian people to question our deployment in Afghanistan. As Prime Minister I believe it is very important for me to speak to the Australian people about why we are there and the progress we are making. We are there because it is in our national interest to be in Afghanistan. We are making progress, we have a defined mission and a defined time line.</p>
 <p>Can I conclude this press conference where I started by saying that I do want to extend my very deepest condolences to the Australian families who are in the depths of pain today. Our thoughts are with them.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

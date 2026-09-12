@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16862</transcript-id>
-    <title>PM&#039;s Web Chat on Thursday 22 October 2009    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/10/2009</release-date>
-    <release-type>Website Updates</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister will be hosting a web chat from 9am to 10am, Thursday 22 October 2009 on topics including mental health, internet filtering, climate change, alcohol-fuelled violence and how young people can be empowered to shape the decisions that affect their lives.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16862</transcript-id><title><![CDATA[PM&#039;s Web Chat on Thursday 22 October 2009    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/10/2009</field_date><release-type>Website Updates</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister will be hosting a web chat from 9am to 10am, Thursday 22 October 2009 on topics including mental health, internet filtering, climate change, alcohol-fuelled violence and how young people can be empowered to shape the decisions that affect their lives.</p>
 <p>These online events are a dynamic and important mechanism to enable the Australian people to engage with the Government and get involved in strengthening the democratic process in Australia. For more information visit the PM's Web Chat page.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

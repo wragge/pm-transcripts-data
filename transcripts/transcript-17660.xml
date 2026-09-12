@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17660</transcript-id>
-    <title>Australia welcomes Southern Sudan referendum results</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17660</transcript-id><title>Australia welcomes Southern Sudan referendum results</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia congratulates the Government of Sudan and the people of Southern Sudan on the successful completion of their referendum.</p>
 <p>The results of the referendum have now been officially announced and indicate an overwhelming majority of the people of Southern Sudan voted in favour of independence.</p>
 <p>Australia commends the Government of Sudan for accepting the outcome and committing to work towards good relations with Southern Sudan.</p>
@@ -18,6 +8,4 @@ Australia congratulates the Government of Sudan and the people of Southern Sudan
 <p>Australia urges both parties to continue their important work in reaching resolution on a number of outstanding issues, including the status of the Abyei region, to ensure full implementation of the Comprehensive Peace Agreement.</p>
 <p>Australia was pleased to be able to support the referendum process. We will continue to provide humanitarian assistance to the people of Southern Sudan, focussing on education and maternal and child health. </p>
 <p>There is much work that still needs to be done as the people of southern Sudan make their way towards nationhood: it will be an enormous task.  Australia stands ready to support this process. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

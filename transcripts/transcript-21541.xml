@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21541</transcript-id>
-    <title>Interview with Neil Mitchell Radio 3AW, Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/10/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21541</transcript-id><title>Interview with Neil Mitchell Radio 3AW, Melbourne </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/10/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL:</p>
 <p>First though in our Canberra studio for the first time since his re-election the Prime Minister, Mr Howard, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Neil.</p>
@@ -195,6 +185,4 @@
 <p>PRIME MINISTER:</p>
 <p>Sensible reform, yes.  We'll do what we've promised to do, it won't go to our heads, we're not going to, you know, start cutting a swathe through things but we will certainly press ahead very strongly with what we said we'd do.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

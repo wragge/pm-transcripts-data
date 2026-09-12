@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18047</transcript-id>
-    <title>NBN to promote innovation and business opportunities for Brunswick residents</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18047</transcript-id><title>NBN to promote innovation and business opportunities for Brunswick residents</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The inner Melbourne suburb of Brunswick today became the first location in Victoria to benefit from the National Broadband Network (NBN).</p>
 <p>Prime Minister Julia Gillard was joined by Senator Stephen Conroy, Minister for Broadband, Communications and the Digital Economy, to launch the NBN in Brunswick, making it the third mainland Australian site to go live.</p>
 <p>Switching on the NBN in Brunswick is the beginning of unprecedented opportunities for Victorians as we rollout the super-fast broadband network. The NBN will create jobs, boost productivity, provide new and improved online health and education services and improve government service delivery.</p>
@@ -18,6 +8,4 @@ The inner Melbourne suburb of Brunswick today became the first location in Victo
 <p>The testing phase is an important part of the rollout. The first release sites, including Brunswick, will provide crucial information to assist the NBN rollout.</p>
 <p>Brunswick joins Armidale (NSW) and Kiama (NSW) as the third mainland site to be switched on to the NBN as part of customer trials.</p>
 <p>The other first release sites of Townsville (QLD) and Willunga (SA) will commence customer trials shortly. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

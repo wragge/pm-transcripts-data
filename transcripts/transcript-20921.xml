@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20921</transcript-id>
-    <title>James Cook University Centre of Excellence for Rehabilitation Sciences </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/09/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  I am pleased to announce that the Commonwealth Government will provide $6.1 million to James Cook University for a new Centre of Excellence for Rehabilitation Sciences at its Townsville campus.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20921</transcript-id><title>James Cook University Centre of Excellence for Rehabilitation Sciences </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/09/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  I am pleased to announce that the Commonwealth Government will provide $6.1 million to James Cook University for a new Centre of Excellence for Rehabilitation Sciences at its Townsville campus.</p>
 <p>The Centre for Rehabilitation Sciences will allow the university to offer new courses in physiotherapy and speech therapy.</p>
 <p>The funding to be provided by the Australian Government will meet the commitment announced by the Member for Herbert, Mr Peter Lindsay prior to the 2001 election.</p>
 <p>Plans for the Centre of Excellence include providing education services which will address both regional workforce shortages and the health needs of northern Australia.</p>
@@ -17,6 +7,4 @@
 <p>The Centre will aim to establish close links with rural and remote communities, and to work collaboratively with existing rehabilitation science services and related professions.</p>
 <p>The addition of this Centre of Excellence will complement the medical school established at James Cook University in 2000, as well as the other health science courses already offered by the university.</p>
 <p>James Cook University is a vital educational and research institution which recognises the importance of meeting the needs and the aspirations of regional communities across northern Queensland.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

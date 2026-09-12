@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21067</transcript-id>
-    <title>Photo Opportunity / Interview  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/01/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21067</transcript-id><title>Photo Opportunity / Interview  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/01/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Gentlemen could you give some details to the key issues (inaudible)?</p>
 <p>GENERAL RICHARD MYERS:</p>
 <p>Well, for my part, I';m here to discuss with General Cosgrove our US/Australia relationship and ways we can continue to improve that.  Obviously, we';re great partners for a long long time and we want to keep it that way, I think.  And we want to make sure that our forces are interoperable. We';ll probably also talk about some of the regional issues – Iraq, Afghanistan, no doubt North Korea, and talk about how we can contribute to security in region.</p>
@@ -24,6 +14,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay.  Thanks fellas.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

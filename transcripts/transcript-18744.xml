@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18744</transcript-id>
-    <title>Australia welcomes home its Olympic heroes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/08/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18744</transcript-id><title>Australia welcomes home its Olympic heroes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/08/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard and the Minister for Sport Kate Lundy proudly welcomed home members of the Australian Olympic Team at Sydney Airport today.</p>
 <p>The Olympics is the pinnacle international sporting event and our Australian team were inspiring ambassadors for the nation.</p>
 <p>We are enormously proud of our athletes for delivering a strong result in an increasingly competitive international environment at the London Games.</p>
@@ -19,6 +9,4 @@
 <p>We shared in the moments of triumph and disappointment.</p>
 <p>The moments we shared over the last fortnight have also inspired young Australians across the nation to develop a passion for sport.</p>
 <p>The Australian Government invested record funding to support our elite athletes and Olympians committing over $382 million in funding over the four years leading to the Games.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

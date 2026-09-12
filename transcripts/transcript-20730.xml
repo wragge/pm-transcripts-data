@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20730</transcript-id>
-    <title>Press Conference Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/05/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20730</transcript-id><title>Press Conference Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/05/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, I've called this news conference this afternoon to inform the Australian people that today the Governor General and I met at Admiralty House. It has been agreed between the Governor General and myself that Dr Hollingworth will stand aside from his position as Governor General pending the determination of the court proceedings initiated in the Supreme Court of Victoria by the late "Annie" Jarmyn. During the period that he stands aside, the Governor of Tasmania, Sir Guy Green, who is the senior serving State Governor, will administer the Commonwealth. I have already spoken to the Tasmanian Premier to obtain his approval for this course of action and my office has been in touch with the State Governor's Office.</p>
 <p>It is only when those proceedings have been determined that the Governor General can give proper consideration to his longer term tenure of his office. The Governor General has told me in giving consideration to the longer term tenure of that office that he will place the dignity and the protection of the office above all other consideration. It remains my view that the Governor General has not done anything during the tenure of his office as Governor General to warrant my recommending to the Queen that his commission should be terminated or his appointment ended.</p>
 <p> It should also be again recorded that he has vigorously and directly and openly repudiated the more than 40 year old allegations of rape which were the subject of his address last Thursday. As was proper the Governor General informed me when those allegations were first made and he has kept me in touch with the progress of the proceedings and discussions regarding it ever since.</p>
@@ -170,6 +160,4 @@
 <p>PRIME MINISTER:</p>
 <p>No, not necessarily, it would have depended upon the ultimate outcome of the proceedings. As at some point they would have become public and there is a procedure for all of this and somebody provided information, presumably in breach of the suppression order, I mean somebody has been in contempt of that suppression order in making information available. I mean I can't conceive that a question would have been put on notice without knowing what the answer is. One more question. No? Good, thanks.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

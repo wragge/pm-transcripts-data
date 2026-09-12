@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17647</transcript-id>
-    <title>Support for flood recovery package welcomed</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17647</transcript-id><title>Support for flood recovery package welcomed</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today welcomed the Federal Member for O'Connor Tony Crook's support for the Gillard Labor Government's Flood Response Package to help rebuild flood-affected infrastructure across the country.</p>
 <p>This $5.6 billion package includes a pre-payment of $2 billion to make sure rebuilding can get underway as quickly as possible.</p>
 <p>The Prime Minster said that Mr Crook's support for the package was good news for flood-affected communities who continue to be hampered by the damage to their local roads, rail lines, bridges and schools.</p>
@@ -19,6 +9,4 @@ Prime Minister Julia Gillard today welcomed the Federal Member for O'Connor Tony
 <p>The Government will provide an exemption to anyone that meets one or more of the criteria for AGDRP and lives in an area declared for the purpose of the National Disaster Recovery and Relief Arrangements.</p>
 <p>AGDRP is paid where someone is adversely affected by a major disaster and in the past has included circumstances where a person has suffered a serious physical injury in a disaster, where the disaster caused the death of an immediate family member, or where their principal place of residence sustained major damage.</p>
 <p>The Government's Flood Response Package will be introduced into the Parliament next week.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

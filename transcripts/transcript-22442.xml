@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22442</transcript-id>
-    <title>Interview with John Laws Radio 2UE, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LAWS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22442</transcript-id><title>Interview with John Laws Radio 2UE, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LAWS:</p>
 <p>Prime Minister why has the Government decided to sell off only part of its stake in Telstra, why not sell the whole lot of it?</p>
 <p>PRIME MINISTER:</p>
 <p>The professional advice we had from the people we've appointed, that's Goldman Sachs and UBS Warburg, was that we could, by doing it in this manner, namely selling part but not all of our remaining shareholding at the moment, we could get the better outcome. Now that's that the advice and in these things having set the policy, and the policy is to sell the lot, you've got to take advice from the experts as to how you sell the lot and in what stages.</p>
@@ -58,6 +48,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks John.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20580</transcript-id>
-    <title>Commonwealth Ombudsman   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/03/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the appointment by the Governor-General of Professor John McMillan as Commonwealth Ombudsman for a term of five years commencing on 17 March 2003.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20580</transcript-id><title>Commonwealth Ombudsman   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/03/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the appointment by the Governor-General of Professor John McMillan as Commonwealth Ombudsman for a term of five years commencing on 17 March 2003.</p>
 <p> Professor McMillan is a distinguished academic with extensive knowledge and experience in administrative law. He holds the Alumni Chair in Administrative Law at the Australian National University and was a founding member of the Australian Institute of Administrative Law.</p>
 <p> I am confident that he brings outstanding skills and experience to the office of Commonwealth Ombudsman.</p>
 <p>A copy of Professor McMillan's curriculum vitae is attached.</p>
@@ -35,6 +25,4 @@
 <p>1982-1983 Visiting Fellow, Australian Graduate School of Management</p>
 <p>1979-1980 Principal Investigation Officer in the Office of the Commonwealth Ombudsman</p>
 <p>Author of articles and legal opinions about the role of the Ombudsman</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

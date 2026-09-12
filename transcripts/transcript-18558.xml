@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18558</transcript-id>
-    <title>Transcript of interview with David Spears, Sky News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18558</transcript-id><title>Transcript of interview with David Spears, Sky News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, welcome. The centrepiece of this Budget is a $5 billion boost for families. Is this really about winning back the Labor heartland worried about the carbon tax?</p>
 <p>PM: It's about getting money to families, because they're under pressure and we want to assist them. The money that's going to families is going in two ways, through the Schoolkids Bonus, so that's a better way of helping people with the cost of getting the kids to school than the Education Tax Refund and it will mean that people will see some money before 30 June,  and then in January and June each year after afterwards.</p>
 <p>HOST: That's the point  -  before the carbon tax comes in, they're getting a hit of cash. How much of this is about easing those concerns?</p>
@@ -90,6 +80,4 @@ HOST: Prime Minister, welcome. The centrepiece of this Budget is a $5 billion bo
 <p>And Mr Abbott should knock off the hypocrisy of trying to apply to us a standard that he has never applied to himself.</p>
 <p>HOST: Prime Minister, thank you.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

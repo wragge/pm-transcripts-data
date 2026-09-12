@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40977</transcript-id>
-    <title>Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Manchester terrorist attack</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40977</transcript-id><title>Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Manchester terrorist attack</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Last night I spoke with Prime Minister Theresa May and conveyed to her the heartfelt sympathy, love and condolences of the Australian people to the people of Britain and to the victims and their families, of this shocking, criminal terrorist attack in Manchester.</p>
 <p>I also conveyed to her our resolute solidarity. Now and forever, as always, Australians and Britons stand shoulder-to-shoulder in freedom’s cause, standing up to destroy the terrorists who seek to undermine our way of life. That seek to change our way of life.</p>
 <p>We are partners in freedom’s cause, we always have been and we always will be.</p>
@@ -34,6 +24,4 @@
 <p>Since September 2014, 63 people have been arrested in Australia on terrorism charges. 12 terrorist plots have been thwarted, including one just before Christmas last year which would have involved among other criminal and destructive acts the detonation of an explosive device in or around Federation Square in Melbourne. Now intelligence is the key, knowing about these plans before they occur is vital. So that is why both signals intelligence and human intelligence are more important than ever.</p>
 <p>Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

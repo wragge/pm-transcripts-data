@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17098</transcript-id>
-    <title>A National health and hospitals network for Australia&#039;s future    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced major structural reforms to Australia's health and hospital system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17098</transcript-id><title><![CDATA[A National health and hospitals network for Australia&#039;s future    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced major structural reforms to Australia's health and hospital system.</p>
 <p>The Government will deliver better health services and better hospitals by establishing a National Health and Hospitals Network.</p>
 <p>This new national network will be funded nationally and run locally.</p>
 <p>These reforms represent the biggest changes to Australia's health and hospital system since the introduction of Medicare, and one of the most significant reforms to the federation in its history.</p>
@@ -32,6 +22,4 @@
 <p>- improve GP services; and </p>
 <p>- introduce personally-controlled electronic health records.</p>
 <p>The establishment of the National Health and Hospitals Network builds on record investments in health and hospitals made by the Rudd Government over the last two years.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

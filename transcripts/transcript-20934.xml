@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20934</transcript-id>
-    <title>Interview with Ray Hadley Radio 2GB </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/10/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  HADLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20934</transcript-id><title>Interview with Ray Hadley Radio 2GB </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/10/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  HADLEY:</p>
 <p>The Prime Minister, Mr John Howard, joins us in the studio, Prime Minister good morning to you.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Ray.</p>
@@ -126,6 +116,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

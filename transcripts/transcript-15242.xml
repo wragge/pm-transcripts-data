@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15242</transcript-id>
-    <title>Prime Minister&#039;s Weekly Radio Message</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/09/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15242</transcript-id><title><![CDATA[Prime Minister&#039;s Weekly Radio Message]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/09/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>  Listen to this Speech (MP3 -   1.84Mb - 120secs)</p>
 <p>My Government has been a strong supporter of Australia's welfare and charity groups.</p>
 <p>They have made and continue to make an immeasurable contribution to the well-being of many Australians - particularly the less fortunate in our community. They often catch those falling between the cracks in our society.</p>
@@ -20,6 +10,4 @@
 <p>Like any charity or not-for-profit organisation, they face the continuous challenge of needing financial and volunteer support to sustain their important services. I applaud their work, they have saved countless lives.</p>
 <p>[ends]  </p>
 <p>  Listen to this Speech (MP3 -   1.84Mb - 120secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40948</transcript-id>
-    <title>Interview with Samantha Armytage, Sunrise</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Federal budget; Neil Prakash; Mother’s Day</subjects>
-    <content><![CDATA[<p><strong>SAMANTHA ARMYTAGE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40948</transcript-id><title>Interview with Samantha Armytage, Sunrise</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Federal budget; Neil Prakash; Mother’s Day</subjects><content><![CDATA[<p><strong>SAMANTHA ARMYTAGE:</strong></p>
 <p>Malcolm Turnbull joins us in the studio this morning to talk all things Budget, Prime Minister good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning.</p>
@@ -117,7 +107,5 @@
 <p>I bet they are! Alright Prime Minister, lovely to see you thank you for your time</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Great to see you.</p>
-<p><strong> [ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><strong>&nbsp;[ENDS]</strong></p>
+]]></content></item></response>

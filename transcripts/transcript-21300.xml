@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21300</transcript-id>
-    <title>Interview with Belinda Goldsmith  Phil Smith Reuters </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GOLDSMITH:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21300</transcript-id><title>Interview with Belinda Goldsmith  Phil Smith Reuters </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GOLDSMITH:</p>
 <p>Mr Howard, your first stop is going to be in California where you're going to be meeting the Governor to lobby for BHP Billiton's proposed development, an offshore LNG terminal.  What are you hoping to secure from this meeting?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I want to put the case for BHP Billiton.  There are four of them, I understand, that are bidding for this contract, and a decision is likely by the end of the year.  I'll be promoting the benefits of BHP Billiton and the great reliability of supply from Australia.  There is a tremendous potential in an energy partnership between Australia and the United States, particularly the west coast of the United States, which is badly in need of energy.  We have lots of natural gas, we are a very reliable supplier, and the costs now of carrying it long distance are very competitive, so I will be hoping to argue very strongly that Australia is the best place from which to source the supply, and of course BHP Billiton is the company.</p>
@@ -74,6 +64,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

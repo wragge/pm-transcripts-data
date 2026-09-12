@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18557</transcript-id>
-    <title>Transcript of interview with Leon Delaney, 2SM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18557</transcript-id><title>Transcript of interview with Leon Delaney, 2SM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Let's see if we can find out some more answers to those questions, as I welcome to the program the Prime Minister, Julia Gillard. Good morning.</p>
 <p>PM: Good morning Leon.</p>
 <p>HOST: How very nice to have you on the program again.</p>
@@ -53,6 +43,4 @@ HOST: Let's see if we can find out some more answers to those questions, as I we
 <p>Everybody's played their part. We did what we needed to do, through providing economic stimulus and supporting jobs, but so did lots of employers around the country and lots of trade unions worked well and worked cooperatively to save jobs. So I really think we should be very proud of what we've achieved together, and now's the time to build on it, and that's what the surplus budget's about.</p>
 <p>HOST: And of course today must be the busiest day in your diary, so I'd better let you go. Thank you very much for your time today.</p>
 <p>PM: Thanks Leon. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19068</transcript-id>
-    <title>Transcript of Joint Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/02/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19068</transcript-id><title>Transcript of Joint Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/02/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>PM: I'm pleased to be here at Boeing with Minister Combet to launch a plan for Australian jobs and I'd like to think Ian and the team at Boeing for hosting us today.</p>
 <p>Today, we are launching a plan for Australian jobs, a plan for the future. Our economy is under some stress and strain as a result of the economic conditions of our times.</p>
 <p>The aftermath of the global financial crisis where we are continuing to see problems in the global economy and particularly stresses and strains in the American economy and the economy of Europe.</p>
@@ -124,6 +114,4 @@
 <p>JOURNALIST: Prime Minister, do you have a view on the Dutch MP Geert Wilders coming and speaking in Australia this week?</p>
 <p>PM: I think my ministers have made clear the Government's abhorrence and my abhorrence for his views. </p>
 <p>Okay, thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

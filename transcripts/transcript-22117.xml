@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22117</transcript-id>
-    <title>Visit by the Prime Minister of New Zealand  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/01/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Prime Minister Helen Clark of New Zealand will visit Canberra on Wednesday 8 February for our annual trans-Tasman talks.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22117</transcript-id><title>Visit by the Prime Minister of New Zealand  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/01/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Prime Minister Helen Clark of New Zealand will visit Canberra on Wednesday 8 February for our annual trans-Tasman talks.</p>
 <p>  Australia and New Zealand share a uniquely close relationship, reflected in wide-ranging political, economic, foreign policy, cultural and other co-operation.  Our two countries continue to be natural partners and the closer integration achieved between Australia and New Zealand in recent years has contributed substantially to both countries' economic well-being and given us a direct stake in each other's continued success and prosperity.</p>
 <p>  We will be discussing a range of bilateral regional and international issues including our joint commitment to playing a constructive international role in the Asia Pacific region. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

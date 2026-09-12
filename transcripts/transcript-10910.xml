@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10910</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                SPEECH TO CIVIC RECEPTION                AT THE MAITLAND TOWN HALL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/04/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10910</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                SPEECH TO CIVIC RECEPTION                AT THE MAITLAND TOWN HALL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/04/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
 <p>Thank you, thank you very much Bob Baldwin. To the Administrator,</p>
 <p> Mr Ron Eagle, to Senator John Tierney, Mr Peter Blackmore, other distinguished</p>
 <p> guests, ladies and gentlemen. And certainly, most importantly of all,</p>
@@ -232,6 +222,4 @@
 <p> contribution that you are making to our country, to your community</p>
 <p> and it's been a great delight to have been amongst you today.</p>
 <p> Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

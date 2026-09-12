@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41623</transcript-id>
-    <title>Interview with Fifi, Fev &amp; Byron, FOX FM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/05/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Federal Budget; tax cuts; Royal Wedding</subjects>
-    <content><![CDATA[<p><strong>FIFI BOX:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41623</transcript-id><title><![CDATA[Interview with Fifi, Fev &amp; Byron, FOX FM]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/05/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Federal Budget; tax cuts; Royal Wedding</subjects><content><![CDATA[<p><strong>FIFI BOX:</strong></p>
 <p>It was a big night in Parliament last night. Everyone had flown in from around the country. ScoMo – Scott Morrison – was laying down the Budget. I have to say, resounding success! I don’t think I’ve seen a Budget go down so well with Australia.</p>
 <p><strong>BYRON COOKE: </strong></p>
 <p>Me neither, pretty well received.</p>
@@ -111,6 +101,4 @@
 <p>That is probably the better focus. That is the Prime Minister Malcolm Turnbull, a pretty well received Budget overall, we appreciate your time as always Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

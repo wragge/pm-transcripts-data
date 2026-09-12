@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17404</transcript-id>
-    <title>Transcript of interview with Julia Christensen, ABC Darwin</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/07/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17404</transcript-id><title>Transcript of interview with Julia Christensen, ABC Darwin</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/07/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 CHRISTENSEN: Julia Gillard, good morning.</p>
 <p>PM: Good morning, Julia.</p>
 <p>CHRISTENSEN: Very nice. The Julia and Julia show.</p>
@@ -112,6 +102,4 @@ CHRISTENSEN: Julia Gillard, good morning.</p>
 <p>Our aim here is to have a regional processing centre within our region, which means that we take away the incentive for people to get on boats, to potentially lose their lives at sea, and take away the incentive to pay money to people who are plying a trade in misery - the people smugglers.</p>
 <p>CHRISTENSEN: Julia Gillard, thanks for your time this morning.</p>
 <p>PM: Thanks, Julia. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

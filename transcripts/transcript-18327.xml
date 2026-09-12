@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18327</transcript-id>
-    <title>Detroit meetings to support Australian automotive future</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18327</transcript-id><title>Detroit meetings to support Australian automotive future</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard and Weatherill Governments today reaffirmed their support for Australia's automotive sector following a meeting with General Motors to discuss the company's future investment plans.</p>
 <p>Manufacturing Minister Senator Kim Carr and South Australian Premier Jay Weatherill met with senior executives in Detroit to ensure the interests of our automotive sector are properly represented.</p>
 <p>The Prime Minister, Julia Gillard, said the meeting was another tangible step in our commitment to secure and strengthen the future of our automotive sector.</p>
@@ -27,6 +17,4 @@ The Gillard and Weatherill Governments today reaffirmed their support for Austra
 <p>Senator Carr said GM Holden directly employs more than 4,800 people across Australia, with major design and engineering facilities and an engine plant at Port Melbourne. About 2,500 people are employed at its assembly plant in Elizabeth, South Australia. </p>
 <p>The Victorian Government is also involved in the discussions on Holden's future, he said.</p>
 <p>Senator Carr and Premier Weatherill met Dan Akerson, GM's Chairman and Chief Executive Officer and Tim Lee, GM's President of International Operations.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

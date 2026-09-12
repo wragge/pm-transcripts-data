@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41416</transcript-id>
-    <title>Radio interview with Shad &amp; Carly - Hit 103.5 Cairns</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/01/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Great Barrier Reef</subjects>
-    <content><![CDATA[<p><strong>CARLY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41416</transcript-id><title><![CDATA[Radio interview with Shad &amp; Carly - Hit 103.5 Cairns]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/01/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Great Barrier Reef</subjects><content><![CDATA[<p><strong>CARLY: </strong></p>
 <p>Joining us right now on the show, it is the Prime Minister himself – Mal – as I like to call him – or Malcolm Turnbull. Good morning Mal.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning Carly, great to be with you. Good morning Shad.</p>
@@ -35,7 +25,7 @@
 <p>Extremely tall man.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>That’s right, well his arm, he’d be even better at selfies than me with that arm.</p>
-<p> [Laughter]</p>
+<p>&nbsp;[Laughter]</p>
 <p>But you know, the big story today is the Reef.</p>
 <p><strong>CARLY: </strong></p>
 <p>Yes.</p>
@@ -49,7 +39,7 @@
 <p>Well thank you very much. It is –</p>
 <p><strong>SHAD: </strong></p>
 <p>Geez, sucking up to the Prime Minister.</p>
-<p>[Laughter] </p>
+<p>[Laughter]&nbsp;</p>
 <p><strong>CARLY: </strong></p>
 <p>No, but it is! No, but good on you Malcolm, because you know after watching this series and seeing what is happening with the Reef and living on the Reef’s doorstep and you mentioned just there how important it is to people. It’s people’s livelihood and you know we don’t want to see that go.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -70,6 +60,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Okay thanks a lot, see you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

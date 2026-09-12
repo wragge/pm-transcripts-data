@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18788</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/09/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18788</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/09/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Perth</p>
 <p>PM: This is an important step forward for this university, more than $13 million of federal funds invested in refurbishing this building and in creating this precinct. </p>
 <p>Great work happens here in training the health professionals of the future. </p>
 <p>I've met with some pharmacists in training to take one example, and great research work happens here today too. </p>
@@ -90,6 +80,4 @@
 <p>PM: This was an operational decision taken by Indonesia. </p>
 <p>Thanks very much. </p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

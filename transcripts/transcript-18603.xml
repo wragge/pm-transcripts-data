@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18603</transcript-id>
-    <title>Address to the Whitlam Institute, Parramatta</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/06/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18603</transcript-id><title>Address to the Whitlam Institute, Parramatta</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/06/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Friends, this year we celebrate the 60thanniversary of Gough's election to Parliament, which brought into public life one of the finest minds of a great generation.</p>
 <p>Gough, who is so well-known for his deep love of literature, was very fond of quoting the last lines of the Inferno, when Dante and Virgil returned from the deep and “came forth to see the stars once again.”</p>
 <p>Gough Whitlam is one of those stars, one of those stars for the Australian nation, for the Labor movement and the Labor Party.</p>
@@ -37,6 +27,4 @@ Friends, this year we celebrate the 60thanniversary of Gough's election to Parli
 <p>So friends, in these historic walls, one of the nation's greatest stories can be told and retold, and one of nation's greatest sons can be esteemed.</p>
 <p>Gough, you are in our thoughts today, and we thank you for giving us so much; the men and women of Australia, so much to remember and so much to preserve.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

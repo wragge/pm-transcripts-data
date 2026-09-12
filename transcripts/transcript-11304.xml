@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11304</transcript-id>
-    <title>AUSTRALIAN-AMERICAN FRIENDSHIP WEEK AND             BATTLE OF THE CORAL SEA COMMEMORATIONS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/05/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I warmly welcome the generous greetings President Clinton has sent</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11304</transcript-id><title>AUSTRALIAN-AMERICAN FRIENDSHIP WEEK AND             BATTLE OF THE CORAL SEA COMMEMORATIONS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/05/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I warmly welcome the generous greetings President Clinton has sent</p>
 <p> to all Australians on the occasion of Australian-American Friendship</p>
 <p> Week and as part of commemorations to celebrate the 57th</p>
 <p> anniversary of the Battle of the Coral Sea. I fully share the President's</p>
@@ -45,6 +35,4 @@
 <p> in a number of events, in commemoration of the battle, in Sydney and</p>
 <p> in Canberra.</p>
 <p> 7 May 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

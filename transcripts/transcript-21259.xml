@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21259</transcript-id>
-    <title>Interview with Hugh Riminton Nightline, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>RIMINTON:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21259</transcript-id><title>Interview with Hugh Riminton Nightline, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>RIMINTON:</p>
 <p>Prime Minister, welcome to Nightline.</p>
 <p>PRIME MINISTER:</p>
 <p>Good evening Hugh.</p>
@@ -58,6 +48,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

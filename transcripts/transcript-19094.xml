@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19094</transcript-id>
-    <title>Extra Help for Queensland Farmers</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19094</transcript-id><title>Extra Help for Queensland Farmers</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Flood-affected primary producers in more of the hardest hit regions of Queensland can now apply for clean-up and recovery grants.</p>
 <p>The grants of up to $25,000 are available to help with the economic impacts of these devastating floods.</p>
 <p>Primary producers in targeted areas within the local government areas of Central Highlands, Gold Coast, Logan, Rockhampton, Sunshine Coast, and Western Downs are now able to apply for this assistance under the jointly funded Natural Disaster Relief and Recovery Arrangements.</p>
@@ -33,6 +23,4 @@
 <p>More information about the assistance that available in each affected local government area can be found at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
 <p>More information about how to apply for the clean-up and recovery grants is available at <a href="http://www.qraa.qld.gov.au">www.qraa.qld.gov.au</a></p>
 <p>The easiest way to lodge a claim for the DIRS is online at <a href="http://www.humanservices.gov.au">www.humanservices.gov.au</a> or by calling the Australian Government Information Line on 180 22 66 from 8am to 8pm local time, seven days a week. Completed claim forms can also be lodged in person at a Department of Human Services service centre.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

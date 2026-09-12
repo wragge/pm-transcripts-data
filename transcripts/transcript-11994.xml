@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11994</transcript-id>
-    <title>Doorstop Interview Hyatt Hotel, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Internet gambling; beer excise legislation; Minister Fahey.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11994</transcript-id><title>Doorstop Interview Hyatt Hotel, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Internet gambling; beer excise legislation; Minister Fahey.</p>
 <p>E&amp;OE................................ </p>
 <p>JOURNALIST:</p>
 <p>[inaudible] is that feasible?</p>
@@ -48,6 +38,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well John's had a serious operation. I have spoken to him and I've told him that all of his colleagues are looking forward to his return to work. I want him back as Finance Minister. He's been a very good Finance Minister and I wish him well. It's obviously a difficult time for him and the hopes and prayers of all of his colleagues are very much with him.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23005</transcript-id>
-    <title>Establishment of the Prime Minister&#039;s Indigenous Advisory Council</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/09/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, I announce the establishment of the Prime Minister’s Indigenous Advisory Council.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23005</transcript-id><title><![CDATA[Establishment of the Prime Minister&#039;s Indigenous Advisory Council]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/09/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, I announce the establishment of the Prime Minister’s Indigenous Advisory Council.</p>
 <p>The Council will inform the policy implementation of the Coalition Government. It will focus on practical changes to improve the lives of Aboriginal people.</p>
 <p>I am delighted that Mr Warren Mundine will chair the Council.</p>
 <p>Warren Mundine’s expertise is widely recognised. He is a natural leader and a forthright advocate for indigenous Australia.</p>
@@ -21,12 +11,10 @@
 <p>Prime Minister’s Indigenous Advisory Council</p>
 <p>Department of Prime Minister and Cabinet</p>
 <p>PO Box 6500</p>
-<p>CANBERRA  ACT  2600</p>
+<p>CANBERRA&nbsp; ACT&nbsp; 2600</p>
 <p>Australians yearn to see practical and genuine improvement in the lives of Aboriginal people.</p>
 <p>There is so much goodwill.</p>
 <p>The challenge, though, is to convert good sentiment into practical change for the better.</p>
 <p>I want to be a Prime Minister for Aboriginal Affairs and I am delighted that Warren Mundine has taken up the call to be part of this journey with me.</p>
 <p>25 September 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

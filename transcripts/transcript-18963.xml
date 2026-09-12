@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18963</transcript-id>
-    <title>North Korea Long-Range Rocket Launch</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18963</transcript-id><title>North Korea Long-Range Rocket Launch</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Australia unequivocally condemns today's launch of a long-range rocket by North Korea.</p>
 <p>The launch is a provocative and irresponsible act which has allowed North Korea to again test its ballistic missile technology.</p>
 <p>North Korea's nuclear and long-range missile programs and its proliferation of sensitive technologies threaten the stability and security of our region.</p>
@@ -20,6 +10,4 @@
 <p>We call on the North Korean Government to abide by UN Security Council resolutions, stop its provocations, improve the wellbeing of its people, and engage constructively with the international community.</p>
 <p>Australia will be expressing its concerns directly to the North Korean Government. </p>
 <p>We will continue to work vigorously with our friends and partners in the region, including with the Republic of Korea, to uphold peace and stability in North Asia. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

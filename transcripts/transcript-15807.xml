@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15807</transcript-id>
-    <title>Visit to Solomon Islands    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/03/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I met the Prime Minister of Solomon Islands, the Hon Dr Derek Sikua MP, in Honiara to discuss how our governments can work together to address the significant development challenges facing Solomon Islands.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15807</transcript-id><title>Visit to Solomon Islands    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/03/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I met the Prime Minister of Solomon Islands, the Hon Dr Derek Sikua MP, in Honiara to discuss how our governments can work together to address the significant development challenges facing Solomon Islands.</p>
 <p>In our meeting, we confirmed our shared commitment to work in partnership, both bilaterally and through the Regional Assistance Mission to Solomon Islands (RAMSI), to deliver better outcomes for the people of Solomon Islands.</p>
 <p>To do so, Prime Minister Sikua and I agreed that Australia and Solomon Islands will work together to establish a Pacific Partnership for Development: a bilateral agreement emphasising mutual commitments to improve long-term development outcomes.</p>
 <p>This Pacific Partnership for Development will link improvements in a number of high priority areas to additional Australian assistance, including for public works to improve infrastructure and create local employment.</p>
@@ -19,6 +9,4 @@
 <p>During my visit, I opened the Solomon Islands National Public Health Laboratory, constructed with Australian support. The laboratory will improve public health services in Solomon Islands and their ability to respond to outbreaks and epidemics by testing for diseases and water and food quality.</p>
 <p>Australia is taking a lead role in supporting the Solomon Islands health sector by providing $60 million over five years.</p>
 <p>Australia will also be scaling up its response to HIV and other sexually transmitted infections in the Pacific by providing $30 million over the next five years, focused on prevention activities at a community level and expanding testing and treatment in the region.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

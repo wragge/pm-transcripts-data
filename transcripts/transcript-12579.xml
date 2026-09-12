@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12579</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  DOORSTOP INTERVIEW, PARLIAMENT HOUSE, CANBERRA   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/08/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Archbishop Pell</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12579</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  DOORSTOP INTERVIEW, PARLIAMENT HOUSE, CANBERRA   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/08/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Archbishop Pell</p>
 <p>E&amp;OE...........  </p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, your reaction to the news about Archbishop Pell?</p>
@@ -32,6 +22,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I would hardly have rung him to do otherwise.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

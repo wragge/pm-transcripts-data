@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20644</transcript-id>
-    <title>Interview with Kerry O&#039;Brien The 7.30 Report, ABC  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>O'BRIEN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20644</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien The 7.30 Report, ABC  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>O'BRIEN:</p>
 <p> PM, it would seem that you're considering a commitment of military and police that could end up more than 1,000, is that so?</p>
 <p>PRIME MINISTER:</p>
 <p> It could be quite substantial, Kerry. We haven't settled on a final number yet, but it's going to be quite substantial. When you decide on these sorts of operations, which are essentially policing operations to restore law and order, you have to make certain, in the interests of the safety of the men and women you send, that you have sufficient backup and sufficient protection. And the advice that we received today from both General Cosgrove, the head of the Defence Forces, and the Commissioner of the Federal Police, Mick Keelty, was to the effect that it would be dangerous for the police to go in without adequate military backup and that's why in the final analysis you could be looking at quite a substantial contribution.</p>
@@ -86,6 +76,4 @@
 <p>PRIME MINISTER:</p>
 <p> Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

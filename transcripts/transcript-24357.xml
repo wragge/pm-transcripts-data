@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24357</transcript-id>
-    <title>Commonwealth Science Council meeting</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/04/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Science Council, chaired by the Prime Minister, met for the second time today in Canberra.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24357</transcript-id><title>Commonwealth Science Council meeting</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/04/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Science Council, chaired by the Prime Minister, met for the second time today in Canberra.</p>
 <p>The meeting was also attended by the Minister for Industry and Science, the Minister for Health, the Minister for Education, and the Parliamentary Secretary to the Minister for Industry and Science.</p>
 <p>Science is at the centre of Australian industry and science and technology are central elements to improving our productivity and competitiveness.</p>
 <p>The Commonwealth Science Council is an important source of advice to the Government in this respect.</p>
@@ -24,6 +14,4 @@
 <p>Information about the consultation and how to be involved will be available on <a href="http://www.science.gov.au">www.science.gov.au</a> in coming weeks.</p>
 <p>The Commonwealth Science Council will meet again in the second half of 2015.</p>
 <p>13 April 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

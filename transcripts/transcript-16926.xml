@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16926</transcript-id>
-    <title>Prime Minister Assistant Treasurer Media Release Census 2011 19 November 2009</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Assistant Treasurer, Senator Nick Sherry, today announced that the Australian Bureau of Statistics (ABS) has been approved to conduct the 16th national Census on 9 August 2011.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16926</transcript-id><title>Prime Minister Assistant Treasurer Media Release Census 2011 19 November 2009</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Assistant Treasurer, Senator Nick Sherry, today announced that the Australian Bureau of Statistics (ABS) has been approved to conduct the 16th national Census on 9 August 2011.</p>
 <p>Census 2011 will be the largest data collection ever undertaken by the ABS which has been allocated a total of $440 million over seven years to conduct the survey.</p>
 <p>With the first national Census having taken place in 1911, Census 2011 will also mark 100 years of national census-taking in Australia.</p>
 <p>Involving every household in the nation, the conduct of the Census is logistically the single largest peacetime operation conducted by the Australian Government.</p>
@@ -29,6 +19,4 @@
 <p>The ABS has also developed a wide range of strategies to considerably improve the engagement and involvement of remote, rural, regional and Indigenous communities in the Census. Importantly this will assist in ensuring all such communities are properly counted, which will in turn ensure accurate resourcing and funding decisions are made into the future.</p>
 <p>Primary and secondary students will also have the opportunity to boost their understanding of the Census process and to prepare for Census 2011 by taking part in the innovative CensusAtSchool, a world-leading student and teacher engagement, data collection, numerical literacy and statistics analysis project also run by the ABS.</p>
 <p>A detailed Information Paper on Census 2011, including topics to be included in the Census, will also be tabled in Parliament today and will be available at <a href="http://www.abs.gov.au">www.abs.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

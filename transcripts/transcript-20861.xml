@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20861</transcript-id>
-    <title>Doorstop Interview - Carlton Hotel Auckland, New Zealand </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20861</transcript-id><title>Doorstop Interview - Carlton Hotel Auckland, New Zealand </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, could you tell us whether us whether Australia has won the battle over Greg Urwin?</p>
 <p>PRIME MINISTER:</p>
 <p>The matter is still under consideration.</p>
@@ -107,6 +97,4 @@
 <p>PRIME MINISTER:</p>
 <p>Look I';m, you know, my playing days are over. Although if it fines up sufficiently I might, you know I might just put myself on the bench. But it will be a great match.</p>
 <p>[Ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16317</transcript-id>
-    <title>Joint Press Conference with the Queensland Premier at Windorah Solar Farm Queensland </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/12/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Tomorrow I'll be announcing the Government's approach to carbon pollution reduction, through the release of the Government's CPRS White Paper.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16317</transcript-id><title>Joint Press Conference with the Queensland Premier at Windorah Solar Farm Queensland </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/12/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Tomorrow I'll be announcing the Government's approach to carbon pollution reduction, through the release of the Government's CPRS White Paper.</p>
 <p>Today I'm announcing that the Government is bringing forward a half billion dollar Renewable Energy Fund to be invested over the next 18 months.</p>
 <p>It's time for Australia to begin a solar revolution, a renewable energy revolution, and we've got to fund it for the future.</p>
 <p>It's good for jobs. It's good for stimulus. It's good for acting on climate change, and that's what we're on about here.</p>
@@ -77,6 +67,4 @@
 <p>Cloncurry will be the next town.</p>
 <p>We'll take the learning out of Windorah and look at the next possible site in western Queensland.</p>
 <p>We haven't picked it yet, but it's on its way.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

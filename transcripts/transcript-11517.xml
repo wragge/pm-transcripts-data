@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11517</transcript-id>
-    <title>Radio Interview with John Faine - 3L0 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Sex Discrimination Act; mandatory sentencing.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11517</transcript-id><title>Radio Interview with John Faine - 3L0 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Sex Discrimination Act; mandatory sentencing.</p>
 <p>E&amp;OE................................</p>
 <p>FAINE:</p>
 <p>Good morning to you Prime Minister.</p>
@@ -159,6 +149,4 @@
 <p>FAINE:</p>
 <p>Thank you for your time this morning. You have been most generous and we have got through lots of callers with varying opinions. The Prime Minister John Howard, speaking to us from his office in Sydney.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

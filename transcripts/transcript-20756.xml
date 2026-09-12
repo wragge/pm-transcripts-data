@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20756</transcript-id>
-    <title>Press Conference Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/04/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20756</transcript-id><title>Press Conference Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/04/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, Senator Patterson and I have called this news conference to announce the details of the Commonwealth Government's funding proposal for public hospitals under Medicare, in effect a renewal of the Australian Health Care Agreements from the 1st of July this year for the ensuing period of five years. The Commonwealth proposal involves a real increase in funding of 17% over the lifetime of the agreement. It's an increase of $10 billion on the amount provided for under the existing agreement, and will take the total provision, subject to the conditions we're laying down being met by the States, to about $42 billion.</p>
 <p>The evidence that has emerged under the existing agreements points to a pattern whereby speaking nationally the Commonwealth provision for financing of public hospitals, which of course are run by the States and therefore directly administered by the States, has increased during the lifetime of the current agreements, and that the rate of increase of Commonwealth contributions has not been matched by the States. The most recent figures available from the Australian Institute of Health and Welfare indicate that for the period 1997/98 to 2001, the State and Territory share in total funding of public hospitals fell from 47.2% to 43.4%, while the Commonwealth share during the same period rose from 45.2% to 48.1%.</p>
 <p> What the Commonwealth is proposing in effect is that we should sign an agreement with the States where both of us are committed to the maintenance of the public hospital treatment element of Medicare. Under past arrangements, the Commonwealth contribution has been there in black and white and very transparent, whereas the State contribution has not. Our wish is to see increased public funding made available for public hospitals over the lifetime of the next agreement, from both the Commonwealth and the States. Medicare consists of three elements. I'm talking here of the element that involves the availability to every Australian, if he or she wants it, of free treatment in a public hospital. And what I'm announcing today is a willingness on the part of the Commonwealth to increase by 17% in real terms - that's over and above the rate of inflation - the money that we provide for those hospitals. And we expect the States to match our commitment.</p>
@@ -166,6 +156,4 @@
 <p>PRIME MINISTER:</p>
 <p>No, I don't. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

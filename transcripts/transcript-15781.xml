@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15781</transcript-id>
-    <title>Launceston Integrated Care Centre    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and Federal Minister for Health and Ageing today met with local health professionals in Launceston to discuss a range of frontline issues and the Government's planned $15 million Integrated Care Centre.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15781</transcript-id><title>Launceston Integrated Care Centre    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and Federal Minister for Health and Ageing today met with local health professionals in Launceston to discuss a range of frontline issues and the Government's planned $15 million Integrated Care Centre.</p>
 <p>The $15 million Launceston Integrated Care Centre (ICC) is part of the Australian Government's $50 million investment in Tasmanian Health Services.</p>
 <p>The Australian Government is committed to working with the Tasmanian Government to provide first class health care to the families of Launceston.</p>
 <p>A vital part of this commitment is our investment in the Launceston ICC.</p>
@@ -31,6 +21,4 @@
 <p>     * Tasmanians will also benefit from the Government's $300m investment in improving the transition from hospital to aged care;</p>
 <p>     * $8.1 million for Tasmanian hospitals to deliver an additional 895 elective surgery procedures during 2008; and</p>
 <p>     * Nurse incentive payments for 146 nurses to re-enter the workforce in Tasmania.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

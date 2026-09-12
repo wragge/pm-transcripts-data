@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19352</transcript-id>
-    <title>Transcript Of Interview With David Speers</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19352</transcript-id><title>Transcript Of Interview With David Speers</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, welcome. Now even without this $17 billion revenue writedown you talk about, this year's Budget would still be in deficit, wouldn't it?</p>
 <p>PM: The big hit has been from the revenue writedown. What we're talking about is $17 billion this year, and then more than $60 billion over five years, so that's the substantial factor.</p>
 <p>And any government, any prime minister sitting in this chair would have to deal with that.</p>
@@ -87,6 +77,4 @@ HOST: Prime Minister, welcome. Now even without this $17 billion revenue writedo
 <p>I've made some tough decisions to make that possible. People can judge them. But that's me, that's this Labor Government, that's who we are.</p>
 <p>HOST: Prime Minister thank you.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

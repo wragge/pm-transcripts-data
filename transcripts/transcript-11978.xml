@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11978</transcript-id>
-    <title>Joint Press Conference with the Rt Hon Helen Clark MP Wellington, New Zealand </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/02/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Australia/New Zealand relations; discussions held in New Zealand; social security arrangement; trade.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11978</transcript-id><title>Joint Press Conference with the Rt Hon Helen Clark MP Wellington, New Zealand </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/02/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Australia/New Zealand relations; discussions held in New Zealand; social security arrangement; trade.</p>
 <p>E&amp;OE................................</p>
 <p>PRIME MINISTER CLARK:</p>
 <p>Mr Howard and I have just come from close to an hour of discussion with the New Zealand Cabinet following two hours of bilateral talks in Auckland yesterday. I should say that the Cabinet took the opportunity to convey formally through Mr Howard to the people of Australia our very deep sorrow of the passing away of Sir Donald Bradman and there will be at the commencement of the State Luncheon today observation of a minute's silence for him.</p>
@@ -45,7 +35,7 @@
 <p>JOURNALIST:</p>
 <p>Mr Howard, in terms of trade issues, can you confirm that because New Zealand have a very strong defence relationship with the Americans that that actually gives you a much better chance for a positive result?</p>
 <p>PRIME MINISTER HOWARD:</p>
-<p>My experience with governments when it comes to trade matters is that they look to the national interest and they are relatively unsentimental. And therefore I think what will matter in our discussions with the United States is whether there's mutual benefit. I am cautiously hopeful that there may be a different attitude from the new administration and the early signs are at least they're very happy to talk. But I think we have to be realistic. For Australia to make any real progress on that front with the United States we'd need significant movement on agriculture. That's still alive in the American domestic political context. A live issue, let me put it like that at the very least. But I see it very much as something that's going to be governed by trade considerations.<br />
+<p>My experience with governments when it comes to trade matters is that they look to the national interest and they are relatively unsentimental. And therefore I think what will matter in our discussions with the United States is whether there's mutual benefit. I am cautiously hopeful that there may be a different attitude from the new administration and the early signs are at least they're very happy to talk. But I think we have to be realistic. For Australia to make any real progress on that front with the United States we'd need significant movement on agriculture. That's still alive in the American domestic political context. A live issue, let me put it like that at the very least. But I see it very much as something that's going to be governed by trade considerations.<br>
 JOURNALIST:</p>
 <p>Have you got any time set for the meeting with Bush's Administration?</p>
 <p>PRIME MINISTER HOWARD:</p>
@@ -61,7 +51,7 @@ JOURNALIST:</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, I was just going to ask how do you think that Australians back home will view this announcement?</p>
 <p>PRIME MINISTER HOWARD:</p>
-<p>I think Australians will see it as a sensible arrangement which is beneficial to both countries and the sort of arrangement they would expect close friends to conclude.<br />
+<p>I think Australians will see it as a sensible arrangement which is beneficial to both countries and the sort of arrangement they would expect close friends to conclude.<br>
 JOURNALIST:</p>
 <p>Has it been a sort of angst [inaudible] for Australians..?</p>
 <p>PRIME MINISTER HOWARD:</p>
@@ -79,7 +69,7 @@ JOURNALIST:</p>
 <p>PRIME MINISTER HOWARD:</p>
 <p>Well I'm not qualified to be an advocate and I know the perils of architectural commentaries. One of my predecessors demonstrated that.</p>
 <p>PRIME MINISTER CLARK:</p>
-<p>Perhaps we should seek the views of Prince Charles.<br />
+<p>Perhaps we should seek the views of Prince Charles.<br>
 PRIME MINISTER HOWARD:</p>
 <p>Indeed.</p>
 <p>JOURNALIST:</p>
@@ -123,6 +113,4 @@ PRIME MINISTER HOWARD:</p>
 <p>PRIME MINISTER HOWARD:</p>
 <p>Well that's a profoundly provocative and domestic political question which I will address when I return to Australia.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

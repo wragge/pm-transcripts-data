@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40693</transcript-id>
-    <title>40th Anniversary of the Granville Train Disaster Memorial Service</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>18/01/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40693</transcript-id><title>40th Anniversary of the Granville Train Disaster Memorial Service</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>18/01/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>We are here today to grieve and to remember. We are here, all of us, assembled with you who have lost so much.</p>
 <p>The Governor, Mrs Hurley, the Premier, so many of our state and federal parliamentary colleagues.</p>
 <p>All of us here, standing with you, sharing your loss.</p>
@@ -23,7 +13,7 @@
 <p>We mourn with Anthony Ball whose father Eric was killed in this tragedy. Anthony never met his dad. He was seven months in his mother’s womb. He turns 40 in just a little while.</p>
 <p>We put our arms around you in love and solidarity but know we will never truly understand the burden you bear and the pain that you endure.</p>
 <p>But you are not alone. Not today, and not then.</p>
-<p>Forty years ago, the nation wept with you, shared your horror, admired the courage of the victims, survivors and those who rushed to their aid. </p>
+<p>Forty years ago, the nation wept with you, shared your horror, admired the courage of the victims, survivors and those who rushed to their aid.&nbsp;</p>
 <p>To those who survived, we offer our heartfelt admiration for the grace and the strength you have shown.</p>
 <p>Many of you still suffer terribly from the ongoing physical effects and the emotional scars of your loss.</p>
 <p>And while what was lost that day will never heal, lessons were learned, safety regulation was improved. A reminder that the first duty of every government is ensuring the safety of the people and being always vigilant in making it better assured.</p>
@@ -37,6 +27,4 @@
 <p>On behalf of the Government and the people of Australia – we remember you and those you lost, we grieve with you, we are with you forever in your sorrow and in your solidarity.</p>
 <p><strong>[ENDS]</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

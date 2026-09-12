@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15475</transcript-id>
-    <title>Visit by the Prime Minister of Greece</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/05/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Prime Minister of Greece, His Excellency Mr Kostas Karamanlis, will visit Australia from 21 to 26 May 2007 as a guest of the Australian Government.  He will be accompanied by the Greek Minister for Foreign Affairs, Ms Dora Bakoyannis.  He will visit Sydney, Canberra, Adelaide, Melbourne and Darwin.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15475</transcript-id><title>Visit by the Prime Minister of Greece</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/05/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Prime Minister of Greece, His Excellency Mr Kostas Karamanlis, will visit Australia from 21 to 26 May 2007 as a guest of the Australian Government.  He will be accompanied by the Greek Minister for Foreign Affairs, Ms Dora Bakoyannis.  He will visit Sydney, Canberra, Adelaide, Melbourne and Darwin.</p>
 <p>Australia and Greece enjoy a very warm friendship due in large part to the close community ties between our countries.  Prime Minister Karamanlis's visit provides an appropriate opportunity to announce a number of important initiatives that will serve to strengthen these ties.</p>
 <p>During his visit, Prime Minister Karamanlis and I will witness the signing of a bilateral social security agreement that will provide improved access to age and retirement benefits for people in Australia and Greece.  Our governments also intend to explore mechanisms to aid the mutual recognition of family law orders in our respective court systems.</p>
 <p>I look forward to holding discussions with Prime Minister Karamanlis and to hosting a luncheon in his honour in the Great Hall of Parliament House on 23 May.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

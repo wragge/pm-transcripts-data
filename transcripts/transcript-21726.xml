@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21726</transcript-id>
-    <title>Doorstop Interview Garden Island, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/04/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21726</transcript-id><title>Doorstop Interview Garden Island, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/04/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well ladies and gentlemen could I just start by saying again how immensely proud the entire country is of Commander McGuire and the men and women in the ship's company of HMAS Kanimbla for the tremendous job they did in representing us in doing good work in our name and how very proud we are with their Commanding Officer for the magnificent leadership he provided in such stressful circumstances after the Sea King helicopter disaster. The crew and everybody on the ship got on with their responsibilities despite their grief as they behaved in a way that has done this country proud and the entire nation is immensely in their debt. That's all I wanted to say, if there are any questions I'll be happy to answer them.</p>
 <p>  JOURNALIST:</p>
 <p> (inaudible)</p>
@@ -48,6 +38,4 @@
 <p>  PRIME MINISTER:</p>
 <p>Mr Walker I will always enjoy your company no matter what position I hold in the affairs of the nation.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

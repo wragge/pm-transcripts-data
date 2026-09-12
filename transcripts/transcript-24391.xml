@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24391</transcript-id>
-    <title>Address to Peace Conference, Istanbul, Turkey</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/04/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In November last year, Prime Minister Davutoglu addressed Griffith University in Queensland, on the eve of the G20 summit.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24391</transcript-id><title>Address to Peace Conference, Istanbul, Turkey</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/04/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In November last year, Prime Minister Davutoglu addressed Griffith University in Queensland, on the eve of the G20 summit.</p>
 <p>He explained that his great-uncle had fought the Australians at Gallipoli 100 years ago.</p>
 <p>In some parts of the world, to enter the homeland of a former enemy, even two generations on, would be to invite hostility and suspicion; but Prime Minister Davutoglu was welcomed as a friend in Australia.</p>
 <p>Likewise, I have not only been welcomed here as a friend but invited to address this Peace Summit, notwithstanding Australia’s role in the 1915 attack on Turkey.</p>
@@ -65,6 +55,4 @@
 <p>As we honour our soldiers and remember their sacrifice, we also honour those who lifted their hands in peace and were a bridge between our peoples.</p>
 <p>I honour them all today, Australian and Turkish alike; I honour all who work for a just and lasting peace based on the universal decencies of mankind.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15555</transcript-id>
-    <title>Interview with John Laws Radio 2UE, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/05/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15555</transcript-id><title>Interview with John Laws Radio 2UE, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/05/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Australian Cricket Team; Julia Gillard; Industrial relations, Bennelong, coal   shipping</p>
 <p>E&amp;OE...</p>
 <p>LAWS:</p>
@@ -169,6 +159,4 @@ Australian Cricket Team; Julia Gillard; Industrial relations, Bennelong, coal   
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12667</transcript-id>
-    <title>Dorrstop Interview, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/09/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Iraq; Joe Hockey</subjects>
-    <content><![CDATA[<p>E&amp;OE...........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12667</transcript-id><title>Dorrstop Interview, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/09/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Iraq; Joe Hockey</subjects><content><![CDATA[<p>E&amp;OE...........</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, does Australia back the US penned resolution to the United Nations giving Iraq seven days to open up its sites to weapons inspectors?</p>
 <p>PRIME MINISTER:</p>
@@ -35,6 +25,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think the majority of Australians want this matter resolved through the Security Council of the United Nations, yes, but we take it a step at a time. That';s my goal at the moment and I don't intend to hypothesise about anything else. Thanks a lot.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21459</transcript-id>
-    <title>National Centre for Language Training  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today that the National Centre for Language Training, which is part of the Government's $113 million package of measures to support Australia's international engagement, will be based at the University of New South Wales.  The Centre will be run by a consortium that includes several Australian universities and TAFE institutes.  The consortium will be led by NewSouth Global, a subsidiary of the University of New South Wales.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21459</transcript-id><title>National Centre for Language Training  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today that the National Centre for Language Training, which is part of the Government's $113 million package of measures to support Australia's international engagement, will be based at the University of New South Wales.  The Centre will be run by a consortium that includes several Australian universities and TAFE institutes.  The consortium will be led by NewSouth Global, a subsidiary of the University of New South Wales.</p>
 <p> This important initiative will help equip Australians with the practical language skills and cultural knowledge they need to operate effectively in international markets.  The Centre will provide practical training in key languages, cultural awareness and cross-cultural communication skills targeted to the needs of Australian business.  Business people will be able to study short practical beginners courses through to more advanced courses in high demand languages such as Chinese, Japanese, Indonesian, Spanish, Hindi and Arabic.</p>
 <p>Also included in the Government's previously announced $113 million package are the International Centres of Excellence, which are dedicated to:</p>
 <p>  Asia-Pacific Studies and Diplomacy - established at the Australian National University;</p>
@@ -17,6 +7,4 @@
 <p> Water Resource Management - established by a consortium led by the University of Adelaide and based in Adelaide;</p>
 <p> Sports Science and Management - established by a partnership between the University of Sydney, the University of Technology Sydney, and the Sydney Olympic Park Authority and located at Sydney Olympic Park; and</p>
 <p>  Tourism and Hospitality Education - established by the CRC in Sustainable Tourism based at Griffith University.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

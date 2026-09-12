@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11651</transcript-id>
-    <title>Radio Interview with Jon Faine, 3LO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Malcolm Fraser; aboriginal reconciliation; bill of rights; practical reconciliation; fuel prices; Medicare cards; education funding; football grand finals. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11651</transcript-id><title>Radio Interview with Jon Faine, 3LO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Malcolm Fraser; aboriginal reconciliation; bill of rights; practical reconciliation; fuel prices; Medicare cards; education funding; football grand finals. </p>
 <p>E&amp;OE................................ </p>
 <p>FAINE:</p>
 <p>Prime Minister John Howard joins me on the programme in the studio. Good morning to you Mr Howard.</p>
@@ -217,6 +207,4 @@
 <p>Well we are a team and she's been very important to me.</p>
 <p>FAINE:</p>
 <p>Thank you for your contribution this morning.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16351</transcript-id>
-    <title>Acting Prime Minister Julia Gillard Interview on 2UE Radio   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/01/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GEORGE: Julia Gillard is the Acting Prime Minister at the moment and we have her on the line. Good morning and our first question is now going to be our second question because the first question is going to be different. Good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16351</transcript-id><title>Acting Prime Minister Julia Gillard Interview on 2UE Radio   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/01/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GEORGE: Julia Gillard is the Acting Prime Minister at the moment and we have her on the line. Good morning and our first question is now going to be our second question because the first question is going to be different. Good morning.</p>
 <p>JULIA GILLARD: Good morning.</p>
 <p>GEORGE: Our first question is what do we actually call you? The reason we ask you is on that our weekend program we always called John Howard ‘Mr Howard' and listeners would get very upset if we did it a different way and so on. So what should we call you?</p>
 <p>PAUL: Yes  -  are you Julia or the Acting PM, Gillard  -  who are you today?</p>
@@ -46,6 +36,4 @@
 <p>GEORGE: The clock has beaten us I'm afraid. We've got to go. The clock has beaten us. Wonderful to talk to. Thank you very much.</p>
 <p>JULIA GILLARD: Thank you. </p>
 <p>ENDS </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

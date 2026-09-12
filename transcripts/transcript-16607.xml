@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16607</transcript-id>
-    <title>Changes to the Ministry    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/06/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announce a minor reshaping of the Executive  -  underlining the Australian Government's core priorities of nation building for recovery and strengthening Australia's national security</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16607</transcript-id><title>Changes to the Ministry    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/06/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announce a minor reshaping of the Executive  -  underlining the Australian Government's core priorities of nation building for recovery and strengthening Australia's national security</p>
 <p>Yesterday I announced the appointment of Senator the Hon John Faulkner as Minister for Defence.</p>
 <p>Senator Faulkner served with distinction as Minister for Veterans' Affairs, Minister for Defence Science &amp; Personnel, and Minister for the Environment, Sports and Territories in the Keating Government. He also served as Leader of Opposition in the Senate from 1998 through to 2004 and National President of the Australian Labor Party in 2007-08.</p>
 <p>Since December 2007 Senator Faulkner has served as Special Minister of State and Cabinet Secretary. He will remain Vice-President of the Executive Council.</p>
@@ -38,6 +28,4 @@
 <p>Parliamentary Secretary to the Minister for Health and Ageing, Senator the Hon Jan McLucas, has informed me of her decision to step down from her portfolio responsibilities.</p>
 <p>She does so in order to focus on her role as Senator for Queensland, given the particular challenges faced by regional, rural and provincial Queensland during the global recession.</p>
 <p>Senator McLucas has made a significant contribution through her role as Parliamentary Secretary, and has provided valuable support to the Health Minister in a major area of policy reform and a priority area for the Government. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41144</transcript-id>
-    <title>Turnbull Government secures better power deal for Australian families</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>30/08/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Up to two million Australian households will be contacted by their electricity providers and offered a better, cheaper deal on their power bills.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41144</transcript-id><title>Turnbull Government secures better power deal for Australian families</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>30/08/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Up to two million Australian households will be contacted by their electricity providers and offered a better, cheaper deal on their power bills.</p>
 <p>The agreement was reached during a second meeting between the Government and the nation’s biggest energy retailers. It is the latest step in the Turnbull Government’s drive to cut energy prices for households and businesses.</p>
 <p>Retailers confirmed their commitments from the first meeting on 9 August to ensure that an estimated 1 million families on expired discount offers are contacted and directed to the best electricity plan for them.</p>
 <p>At today’s meeting, retailers agreed to go further; contacting another 1 million customers on ‘standing offers’ - usually the most expensive rates.</p>
@@ -18,8 +8,6 @@
 <p>At the urging of the Turnbull Government, companies will move towards marketing their offers in dollar terms, speed up switching between different providers, provide more flexible billing (such as monthly where smart meters are in place) and work with government and regulators to communicate more clearly and effectively with customers.</p>
 <p>The Government also secured a commitment from the retailers to make available to customers their consumption and payment information, working with the Australian Energy Regulator on a QR code, or equivalent, on their bill which they can scan using a smartphone and instantly compare offers from other retailers.</p>
 <p>The Government acknowledges the support retailers give through their hardship programs and both agree to identify and share best practice elements and examine potential improvements.</p>
-<p>Electricity is an essential service. Australian households and small businesses rightly expect they have access to the best possible deal and these commitments from retailers represents significant progress towards this end. </p>
+<p>Electricity is an essential service. Australian households and small businesses rightly expect they have access to the best possible deal and these commitments from retailers represents significant progress towards this end.&nbsp;</p>
 <p>These measures are part of the Government’s efforts to improve competition and lower energy prices, including commissioning the Australian Competition and Consumer Commission to review the electricity market.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

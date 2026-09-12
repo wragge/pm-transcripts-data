@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16874</transcript-id>
-    <title>New civilian corps to assist in disaster and conflict zones    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/10/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will provide $52 million to enable the rapid deployment of Australian civilians into overseas disaster or conflict zones.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16874</transcript-id><title>New civilian corps to assist in disaster and conflict zones    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/10/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will provide $52 million to enable the rapid deployment of Australian civilians into overseas disaster or conflict zones.</p>
 <p>This will enable the Government to send civilians with expert knowledge and abilities into disaster-struck regions or conflict zones with the urgency required in these terrible situations.</p>
 <p>This new initiative is expected to have an interim capability by mid-2010, and is expected to be fully operational by early 2011.</p>
 <p>The civilian specialists will be deployed across a wide range of roles. For example, they could be used to help:</p>
@@ -34,6 +24,4 @@
 <p>As we have seen in recent weeks with the disasters in Samoa and Tonga, and in East Asia Summit member nations including Indonesia, Vietnam and the Philippines, countries affected by crises require significant assistance to alleviate human suffering and to begin the process of recovery.</p>
 <p>Often this assistance is needed urgently, and requires specialised knowledge and skills. By providing skilled professionals through the DCC, Australia can play a greater role in this process.</p>
 <p>For those who would like further information or to register their interest in this initiative, AusAID will provide more details in the near future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

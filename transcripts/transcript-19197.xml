@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19197</transcript-id>
-    <title>Proposed Appointment of Departmental Secretary</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/04/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19197</transcript-id><title>Proposed Appointment of Departmental Secretary</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/04/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>I am pleased to announce that I will be recommending to the Governor-General, Her Excellency Ms Quentin Bryce AC CVO, that she appoint Mr Simon Lewis PSM as the Secretary to the Department of Veterans' Affairs.</p>
 <p>Mr Lewis' appointment will follow the retirement in July of the present Secretary, Mr Ian Campbell PSM. </p>
 <p>Mr Campbell had previously advised that he would not be seeking further appointment after his current term as Secretary expired in September this year. </p>
@@ -19,6 +9,4 @@
 <p>Mr Lewis has tertiary qualifications in economics, public administration and computing studies and is a graduate of the Joint Services Staff College.   </p>
 <p>The Governor-General will consider the recommended appointment under amendments to the Public Service Act 1999 which commence on 1 July 2013. The appointment would be for five years.</p>
 <p>I take this opportunity to acknowledge the outstanding service provided by Mr Campbell over his career in the Australian Public Service and wish him well in his retirement. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

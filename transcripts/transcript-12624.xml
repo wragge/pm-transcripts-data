@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12624</transcript-id>
-    <title>Interview with Hillary Andersson, BBC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/09/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Zimbabwe</subjects>
-    <content><![CDATA[<p><strong>23 September 2002</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12624</transcript-id><title>Interview with Hillary Andersson, BBC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/09/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Zimbabwe</subjects><content><![CDATA[<p><strong>23 September 2002</strong></p>
 <p>E&amp;OE……………………………</p>
 <p><strong>ANDERSSON:</strong></p>
 <p>Are you disappointed with the outcome of this meeting?</p>
@@ -76,6 +66,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well I don’t think you’ve seen the end of international reaction.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

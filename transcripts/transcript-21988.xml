@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21988</transcript-id>
-    <title>New Light Aeronautics Industry Cluster At Illawarra Regional Airport  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/10/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am very pleased to open the new Light Aeronautics Industry Cluster at the Illawarra Regional Airport.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21988</transcript-id><title>New Light Aeronautics Industry Cluster At Illawarra Regional Airport  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/10/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am very pleased to open the new Light Aeronautics Industry Cluster at the Illawarra Regional Airport.</p>
 <p>The opening of this magnificent new facility will provide significant social and economic benefits for the Illawarra Region.  This facility has turned a previously under-utilised asset into a hub for economic growth in the region.</p>
 <p>Five hangars will provide the region's first aeronautics business park attracting light aeronautics businesses to the region and increasing employment opportunities.</p>
 <p>This project is an excellent example of government and community partnerships acting together to deliver local solutions.</p>
@@ -20,6 +10,4 @@
 <p>The project will involve the construction of educational facilities, a retail outlet and a library, as well as providing the public with the opportunity to see the aircraft restoration work in progress.</p>
 <p>In addition to creating new jobs in the region this project will be a major drawcard for tourism.</p>
 <p>I congratulate the Society and its extensive network of supporters for their dedication and commitment.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

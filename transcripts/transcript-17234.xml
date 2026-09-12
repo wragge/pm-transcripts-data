@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17234</transcript-id>
-    <title>Prime Minister Transcript of interview with Karl Stefanovic Today Show 21 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Australians have been promised vastly better health and hospital services under Kevin Rudd's historic reform plan. From July 1, 2010 the National Health and Hospitals Network will start delivering 1,300 new hospital beds, another 2,500 beds in aged care and 6,000 new doctors. Waiting times in emergency will be no longer than four hours and elective surgery is to be delivered on time in 95% of cases. Funding is also aimed at mental health services for 20,000 young people. The ambitious plan is set to cost $21 billion over the next 10 years but the plan is at risk, of course, with Western Australia yet to sign up.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17234</transcript-id><title>Prime Minister Transcript of interview with Karl Stefanovic Today Show 21 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Australians have been promised vastly better health and hospital services under Kevin Rudd's historic reform plan. From July 1, 2010 the National Health and Hospitals Network will start delivering 1,300 new hospital beds, another 2,500 beds in aged care and 6,000 new doctors. Waiting times in emergency will be no longer than four hours and elective surgery is to be delivered on time in 95% of cases. Funding is also aimed at mental health services for 20,000 young people. The ambitious plan is set to cost $21 billion over the next 10 years but the plan is at risk, of course, with Western Australia yet to sign up.</p>
 <p>Prime Minister Kevin Rudd joins us now from Canberra. How are you travelling, PM?</p>
 <p>PM: It's OK, Karl. It's been a busy few days, but I think it's been a good outcome for working families, pensioners, carers - people who want to see better health and better hospitals.</p>
 <p>HOST: It sounds to me like you say you've cut a deal, but have you really when you haven't got all the States to sign on?</p>
@@ -36,6 +26,4 @@
 <p>HOST: Alright, I think everyone at home will be the judge of that as it unravels. Health reform is much needed in this country. We wish you all the best in implementing that with great speed.</p>
 <p>PM, thanks for your time.</p>
 <p>PM: Appreciate it very much, Karl.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19139</transcript-id>
-    <title>A Pledge To All Women And Girls</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19139</transcript-id><title>A Pledge To All Women And Girls</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>International Women's Day had today been marked with a pledge to continue Australia's efforts to eliminate and prevent violence against women and girls.</p>
 <p>The United Nations theme for International Women's Day this year is a promise: time for action to end violence against women.</p>
 <p>The first International Women's Day rallies were held in March 1911, a time when support for the right for women to work, vote and hold public office was building momentum.</p>
@@ -23,6 +13,4 @@
 <p>The theme at the Commission this year is the elimination and prevention of all forms of violence against women and girls.</p>
 <p>Domestically and internationally – including through our aid program and advocacy – Australia is promoting a world where women and girls can thrive and where their safety is guaranteed.</p>
 <p>To join in the CSW conversation on Twitter, use the hashtag #OZCSW57.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

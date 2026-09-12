@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16421</transcript-id>
-    <title>Official visit by the Prime Minister of New Zealand    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister of New Zealand, the Right Honourable John Key, will visit Australia from March 1 to 2.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16421</transcript-id><title>Official visit by the Prime Minister of New Zealand    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister of New Zealand, the Right Honourable John Key, will visit Australia from March 1 to 2.</p>
 <p>Australia and New Zealand have long enjoyed a strong relationship founded on a unique shared history and outlook.</p>
 <p>The intensity of our ties has been underscored vividly by the support and sympathy of the New Zealand people during the Victorian bushfires.</p>
 <p>Australia and New Zealand are also close economic partners.</p>
@@ -20,6 +10,4 @@
 <p>     * key international challenges and opportunities for the two nations, including tackling the global economic crisis and climate change.</p>
 <p>The Prime Minister looks forward to welcoming Prime Minister Key to Australia.</p>
 <p>The two Prime Ministers have previously met in Lima (APEC) and in Port Moresby (Pacific Island Forum Special Leaders' meeting). </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

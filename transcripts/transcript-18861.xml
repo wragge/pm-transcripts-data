@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18861</transcript-id>
-    <title>Speech to the National Farmers&#039; Federation National Congress</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/10/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18861</transcript-id><title><![CDATA[Speech to the National Farmers&#039; Federation National Congress]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/10/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>I want to begin by saying to the men and women of Australia's farming communities: because of your hard work and that of your forebears, Australia is an agricultural powerhouse.</p>
 <p>Our agricultural industries export over $30 billion worth of food a year.</p>
 <p>They provide enough food to feed our own population three times over.</p>
@@ -152,6 +142,4 @@
 <p>The Asian Century, like the Industrial Revolution, is a rare moment in history.</p>
 <p>You don't too many chances like this in the life of a nation.</p>
 <p>We've got one  -  and we won't let it slip away.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16249</transcript-id>
-    <title>Address at Commemorative Service for those lost in HMAS Sydney II Australian War Memorial Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/11/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On this day 67 long years ago 645 Australians gave their lives in defence of their nation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16249</transcript-id><title>Address at Commemorative Service for those lost in HMAS Sydney II Australian War Memorial Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/11/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On this day 67 long years ago 645 Australians gave their lives in defence of their nation.</p>
 <p>On 19 November 1941 HMAS Sydney was lost with all lives.</p>
 <p>Prime Minister Curtin announced the news to a stunned nation on 30 November.</p>
 <p>Mourning the “loss of a fine ship and her gallant complement” stating that “the people of Australia will be proud that she and they upheld the traditions of the Royal Australian Navy and completed a glorious career in successful action against the enemy.”</p>
@@ -50,6 +40,4 @@
 <p>But beyond all these great things, this day, this Memorial Day, this 67th Anniversary of the lost of this great ship, is about the 645 souls lost to the love and to the embrace of their families.</p>
 <p>To you, the brothers, the sisters, the sons, the daughters, the grandchildren, the families and the communities who love them and who gave them nurture, and to  you their mates, a grateful nation today says thank you.</p>
 <p>For Australia is a greater nation for them, for their service and for their sacrifice.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

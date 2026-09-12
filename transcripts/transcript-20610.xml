@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20610</transcript-id>
-    <title>Party Room Statement   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/06/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister made the following statement to a special Liberal Party meeting in Canberra at 10am today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20610</transcript-id><title>Party Room Statement   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/06/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister made the following statement to a special Liberal Party meeting in Canberra at 10am today.</p>
 <p>  I have given a lot of thought to my future.</p>
 <p>The Liberal Party has been very loyal and generous to me. I'll always put it first. Whilever it remains in the Party's best interests and my colleagues want me to, I'd be honoured to continue as Leader.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

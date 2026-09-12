@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16892</transcript-id>
-    <title>Transcript of interview on ABC PM Townsville   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, welcome to PM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16892</transcript-id><title>Transcript of interview on ABC PM Townsville   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, welcome to PM.</p>
 <p>PM: Good evening.</p>
 <p>HOST: What do you know of the rescue mission off the Cocos Islands?</p>
 <p>PM: I can take you through what my most recent advice is, which is that as of 11.15 last night the Australian Maritime Safety Authority received a report that a vessel had sunk approximately 350 nautical miles North-West of Cocos island. Initial indications from a commercial vessel on sight were that 39 people were believed to be on board. The Australian Maritime Safety Authority issued a general alert requesting immediate assistance from any vessel or aircraft in the area. Two foreign flagged commercial vessels were on site and seeking to assist the people in the water.</p>
@@ -51,6 +41,4 @@
 <p>It's in Australia's interest that we do so, for our voice to be heard in its own right in the principle capitals of the world, in the private halls of diplomacy and through public advocacy in the media of those countries as well. It's the sensible thing to do.</p>
 <p>HOST: Prime Minister, thank you very much for your time.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

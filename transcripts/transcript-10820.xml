@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10820</transcript-id>
-    <title>Honouring Surviving Veterans of the Great War </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/11/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the government will recommend to Her Majesty The Queen that a special commemorative medal be struck for all surviving Australian World War I veterans who will commemorate today the 80th anniversary of the armistice that ended the Great War.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10820</transcript-id><title>Honouring Surviving Veterans of the Great War </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/11/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the government will recommend to Her Majesty The Queen that a special commemorative medal be struck for all surviving Australian World War I veterans who will commemorate today the 80th anniversary of the armistice that ended the Great War.</p>
 <p>The commemorative medal, to be known as the <i>80<sup>th</sup> Anniversary Armistice Remembrance Medal</i>, will be presented in time to be worn at Anzac Day 1999.</p>
 <p>These 66 surviving veterans are a living reminder to all Australians three generations on of a conflict which gave birth to the Anzac tradition and marked Australia's nationhood on the world stage.</p>
 <p>I have written to each veteran conveying the nation's pride in their achievements.</p>
@@ -18,6 +8,4 @@
 <p>On behalf of the nation, I thank them and express our pleasure in honouring them with this symbol of our recognition.</p>
 <p>Lest we forget.</p>
 <p>11 November 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

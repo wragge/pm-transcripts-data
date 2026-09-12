@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21850</transcript-id>
-    <title>$43 Million Environmental Boost for South Australia  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOINT PRESS RELEASETHE HON JOHN HOWARD MP, PRIME MINISTER OF AUSTRALIATHE HON. MIKE RANN MP, PREMIER OF SOUTH AUSTRALIA</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21850</transcript-id><title>$43 Million Environmental Boost for South Australia  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOINT PRESS RELEASETHE HON JOHN HOWARD MP, PRIME MINISTER OF AUSTRALIATHE HON. MIKE RANN MP, PREMIER OF SOUTH AUSTRALIA</p>
 <p>Hard-working regional communities across South Australia will benefit from over $43 million in funding to continue to restore the State's natural landscapes and protect precious water resources.</p>
 <p>The joint projects were announced today by the Prime Minister, John Howard, and South Australian Premier, Mike Rann.</p>
 <p>Mr Howard today visited the Loxton/Bookpurnong region to unveil the projects with the State Minister for the River Murray, Karlene Maywald.</p>
@@ -27,6 +17,4 @@
 <p>The Prime Minister and Premier commended all eight regional bodies that had developed the investment strategies to underpin these investments.</p>
 <p>Mr Rann said the work undertaken by interim Natural Resources Management Group members would ensure the newly formed NRM Boards in each of the eight regions had a sound foundation on which to base their work.</p>
 <p> A full list of funding is attached.  For more information about South Australian regions, the Natural Heritage Trust and the National Action Plan, visit <a href="http://www.nrm.gov.au">www.nrm.gov.au</a>. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

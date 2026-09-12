@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21287</transcript-id>
-    <title>Show us the Details Mr Crean  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/05/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21287</transcript-id><title>Show us the Details Mr Crean  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/05/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Shadow Treasurer Simon Crean should explain to the Australian public precisely what he means in proposing an intergenerational fund.</p>
 <p> Does he have in mind the imposition of a tax surcharge to build up the fund over coming years?</p>
 <p>If he's not going to increase taxes to pay for this fund, is he going to run down the surplus?</p>
@@ -25,6 +15,4 @@ The Shadow Treasurer Simon Crean should explain to the Australian public precise
 <p> (v) lower taxation and spending as a share of GDP</p>
 <p>Something's got to give.</p>
 <p>Mr Crean owes us an explanation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

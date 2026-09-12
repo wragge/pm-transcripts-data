@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16575</transcript-id>
-    <title>Interview with Matt and Dave  ABC 891 - Adelaide   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Kevin Rudd joins us. Welcome to Adelaide Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16575</transcript-id><title>Interview with Matt and Dave  ABC 891 - Adelaide   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Kevin Rudd joins us. Welcome to Adelaide Prime Minister.</p>
 <p>PM: Good to be back, I've been back here a few times the last year and a half I've been Prime Minister, visit number 10 I am told. But today it is to be with Mike Rann to formalise our commitment of $228 million to the Adelaide desalination plant.</p>
 <p>HOST: Prime Minister that project, a big infrastructure project, also rail lines will be able to go ahead now and be modernised in a north and a new rail line running to Seaford. The, the question though is that somebody has to pay for that. Do you have any sleepless nights over running up debt for these sorts of projects?</p>
 <p>PM: Well the important thing is to realise where we are in terms of the global economic recession. What's our strategy for dealing with the global economic recession, the worst economic downturn in 75 years worldwide? It's a strategy of investing in nation building infrastructure for tomorrow and therefore creating the jobs and the support for small business and apprenticeships we need for today. That's the right thing to do. It's responsible to do that.</p>
@@ -62,6 +52,4 @@
 <p>So we have increased the aged pension, but we have also taken a measure for the very long term, to ensure that we have got fiscal sustainability of the pension and retirement incomes policy in general.</p>
 <p>HOST: Prime Minister thanks for talking with us.</p>
 <p>PM: Good to be back in Adelaide.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

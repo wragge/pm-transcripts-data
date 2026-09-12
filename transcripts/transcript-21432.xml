@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21432</transcript-id>
-    <title>Doorstop Interview, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21432</transcript-id><title>Doorstop Interview, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, on the Free Trade Agreement, the Opposition is saying it might have an answer next week.  What do you say to that?</p>
 <p>PRIME MINISTER:</p>
 <p>Well they've had five months and we now know that the Senate inquiry was a complete political alibi because the Labor Senators won't express an opinion until they get their riding instructions from Caucus.  Now this is a total shambles.  This is the country's future we're talking about and I want the Labor Party to support the Free Trade Agreement because without their support it won't go through, and they've had five months to make up their mind and I just ask Mr Latham to show leadership and strength and tell his party, as the Labor Premiers have said, that it's in Australia's interest that this Agreement go through.</p>
@@ -54,6 +44,4 @@
 <p>PRIME MINISTER:</p>
 <p>Look everybody should be concerned about the potential of terrorist activity in our region.  Australia is not as vulnerable as other countries, but we're all more vulnerable now than we used to be.  But I'm not going to comment on particular activities of ASIO and I think you know the reason why.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

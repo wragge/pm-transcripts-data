@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41222</transcript-id>
-    <title>Doorstop with Minister for Justice and Commissioner of the Australian Federal Police</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/10/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>AFP forensics; Counter-terrorism COAG meeting; Terrorism laws;</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41222</transcript-id><title>Doorstop with Minister for Justice and Commissioner of the Australian Federal Police</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/10/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>AFP forensics; Counter-terrorism COAG meeting; Terrorism laws;</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning. We’re here with the Minister for Justice, Michael Keenan and the Commissioner of the Australian Federal Police, Andrew Colvin.</p>
 <p>You’ve seen some of the amazing advances in technology here at Majura. And I’m so proud that my government has provided a record level of funding to support the forensics work here by the Australian Federal Police.</p>
 <p>We have provided $321 million in the budget as you know. It is vitally important.</p>
@@ -65,14 +55,14 @@
 <p><strong>JOURNALIST:</strong></p>
 <p>Commissioner what does that mean for the data? Could other agencies have access to it, if it's also useful to them? Will it be shared?</p>
 <p><strong>AUSTRALIAN FEDERAL POLICE COMMISSIONER:</strong></p>
-<p>Well at the moment there is a variety of regimes that operate around the country. As I said, we already have access to it and other agencies have access to it as well. There’s thresholds and it needs to be for a lawful purpose and nothing in this system is going to change the lawful purpose for which an agency has access to it.  It will put thresholds in place around what that lawful access should be, but again this is about bringing automation to something we are already doing.</p>
+<p>Well at the moment there is a variety of regimes that operate around the country. As I said, we already have access to it and other agencies have access to it as well. There’s thresholds and it needs to be for a lawful purpose and nothing in this system is going to change the lawful purpose for which an agency has access to it.&nbsp; It will put thresholds in place around what that lawful access should be, but again this is about bringing automation to something we are already doing.</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Prime Minister does that mean that Australians just have to get used to the fact that enormous amounts of data are being kept on us?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well, I don't know if you've checked your Facebook page lately, but people put an enormous amount of their own data up in the public domain already, I mean there has never been more data on citizens than there is today. The vast bulk of it is actually in the private sector and most of it, if you think about the amount of personal data, photographs and so forth, that are held on Facebook accounts, I think around three-quarters of Australians have Facebook accounts, so there is a lot of data out there.</p>
 <p>What we're talking about is taking drivers' licences and other photo IDs that are in the government domain and as Andrew said, being able to access them swiftly and using automation to do so, rather than being a clunky manual system.</p>
 <p><strong>JOURNALIST:</strong></p>
-<p>But that’s people making a choice to put something up, this is quite different information being collected on them they don’t know about? In your view, does that mean safety trumps privacy?  </p>
+<p>But that’s people making a choice to put something up, this is quite different information being collected on them they don’t know about? In your view, does that mean safety trumps privacy?&nbsp;&nbsp;</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Do you have a driver's licence?</p>
 <p><strong>JOURNALIST:</strong></p>
@@ -121,6 +111,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21004</transcript-id>
-    <title>Doorstop Interview, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/11/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21004</transcript-id><title>Doorstop Interview, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/11/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, you must be happy to see now Len Harris from One Nation, he';s also lending his support behind your MedicarePlus.</p>
 <p>PRIME MINISTER:</p>
 <p>Well I welcome any support we can get from the independents.  We need the support of the Senate to pass the new safety net.  This safety net will protect Australian families and I hope that every Senator understands the desirability of giving added protection to Australian families, and that really is what is at stake.  This package will give peace of mind to all Australian families, this package will provide further incentives for children and concession cardholders to be bulk billed, and this package will be therefore of considerable financial benefit to doctors as well.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>Tony Abbott is doing a very good job.  But it';s a long process.  We';ve listened to people and what we';ve put down is a response to the concerns that the Australian community expressed, and I express the hope that we will be able to give the families of Australia a Christmas present by passing this new safety net into law.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

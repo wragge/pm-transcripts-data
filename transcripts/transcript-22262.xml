@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22262</transcript-id>
-    <title>Doorstop Interview The Stamford Grand, North Ryde </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/05/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22262</transcript-id><title>Doorstop Interview The Stamford Grand, North Ryde </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/05/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Just before I take your questions, are we all ready? This is the first time I have been on camera since the news came through of the two miners, Brant Webb and Todd Russell being alive, and I know that I speak for every Australian in hoping and expressing our hopes and prayers that they are safely brought to the surface. It's a wonderful story of Australian endurance and courage and what is wonderful is the way in which everybody has pulled together. Everybody is working together, the mine management, the unions, the local community and our thoughts, of course are with the family of the miner who died and the wonderful act of mateship of that family in postponing his funeral so that his mates will be there. I think that's a wonderful expression of the Australian spirit.</p>
 <p> JOURNALIST:</p>
 <p> If you could speak down that long pipe to those miners, what personal message would you give them?</p>
@@ -60,6 +50,4 @@
 <p> PRIME MINISTER:</p>
 <p> I thought it was appropriate and tasteful and most importantly of all, I hope it was of comfort to his family.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

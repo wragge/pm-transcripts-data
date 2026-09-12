@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17287</transcript-id>
-    <title>Prime Minister Transcript if interview with David Koch Channel 7 Sunrise 12 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Well, today the Government begins to sell its Budget. The Prime Minister joins me now, Mr Rudd, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17287</transcript-id><title>Prime Minister Transcript if interview with David Koch Channel 7 Sunrise 12 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Well, today the Government begins to sell its Budget. The Prime Minister joins me now, Mr Rudd, good morning to you.</p>
 <p>PM: Good morning David.</p>
 <p>HOST: Well a lot of people are saying this Budget is based on us continuing to ride the rickshaw, that China is our saviour, the huge commodities boom. Some saying, they could be a bit rubbery, that they're a bit too optimistic, what's your view on that?</p>
 <p>PM: David, I think this is a responsible Budget, based on responsible economic management. It's something I believe in fundamentally, and therefore you've got to be very careful about all the assumptions these are based on. Part of it of course lies in our continued export performance.</p>
@@ -37,6 +27,4 @@
 <p>But also I'd like to acknowledge the role of Gordon Brown as well, critical role last year in that London G20 summit which was so critical in coming out of the global financial crisis.</p>
 <p>HOST: Prime Minister, thanks for joining us.</p>
 <p>PM: Thanks David.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

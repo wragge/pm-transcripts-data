@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18400</transcript-id>
-    <title>Transcript of joint doorstop interview, Adelaide</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: It's great to be here today at BAE Systems. I'm joined by the Premier of South Australia Jay Weatherill and by our local member Nick Champion the Member for Wakefield.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18400</transcript-id><title>Transcript of joint doorstop interview, Adelaide</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: It's great to be here today at BAE Systems. I'm joined by the Premier of South Australia Jay Weatherill and by our local member Nick Champion the Member for Wakefield.</p>
 <p>We're here today looking at some very advanced manufacturing. Advanced manufacturing that is happening right here and is so important to our Defence.</p>
 <p>Looking at this place you can see that it's a world away from many people's image of manufacturing. It's the latest of technology doing the most sophisticated things. This part of South Australia is well known for its manufacturing whether it's here at BAE Systems or whether it's at Holden, this is a great manufacturing region.</p>
 <p>As Prime Minister I'm very passionate about ensuring that Australia has a strong manufacturing sector for the future. To get that right we need to be working with great companies like this one and I thank everybody for making us so welcome here today.</p>
@@ -110,6 +100,4 @@
 <p>The people of Christchurch have suffered ten thousand aftershocks since this major earthquake; it's pretty hard to imagine that too. Having lived through such a major earthquake, then day after day feeling the tremors again with all of the stresses and strain that comes with that.</p>
 <p>So, our thoughts are with New Zealanders today, with the people of Christchurch, as they mark this very solemn anniversary and as they dedicate themselves to the rest of the rebuilding that needs to be done in that very beautiful city.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

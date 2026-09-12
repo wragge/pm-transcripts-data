@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12424</transcript-id>
-    <title>Mrs Rosemary Sinclair to Represent Australia at the UN Special Session on Children</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/04/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the appointment of Mrs Rosemary Sinclair as my Personal Representative for the United Nations Special Session on Children. The Special Session will be held in New York from 19-21 September 2001.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12424</transcript-id><title>Mrs Rosemary Sinclair to Represent Australia at the UN Special Session on Children</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/04/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the appointment of Mrs Rosemary Sinclair as my Personal Representative for the United Nations Special Session on Children. The Special Session will be held in New York from 19-21 September 2001.</p>
 <p>Mrs Sinclair has extensive experience working for families and children and is Chairman of the Australian Council for Children and Parenting. Mrs Sinclair has also initiated several community-based programmes to support families and parenting, including:</p>
 <p>?  - the National Association for Prevention of Child Abuse and Neglect;</p>
 <p>? - the Good Beginnings national parenting programme, which has volunteers in communities across Australia helping families with young children who are in need of encouragement and support; and</p>
@@ -19,6 +9,4 @@
 <p>As my Personal Representative, Mrs Sinclair will share Australia's experience with other countries represented at the Summit. She will be accompanied by a small Australian Government delegation.</p>
 <p>Further information about the United Nations Special Session on Children can be found at: <a href="http://www.unicef.org/specialsession/">http://www.unicef.org/specialsession/</a>.</p>
 <p>22 July 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

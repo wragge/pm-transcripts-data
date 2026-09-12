@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11803</transcript-id>
-    <title>Interview with Mike Munro, A Current Affair, Network Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11803</transcript-id><title>Interview with Mike Munro, A Current Affair, Network Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................</p>
 <p>MUNRO:</p>
 <p>Prime Minister thanks for your time and thanks for joining us so late at night. We can't speak to you on camera because of security reasons, are you able to say where you are?</p>
 <p>PRIME MINISTER:</p>
@@ -47,6 +37,4 @@
 <p>PRIME MINISTER:</p>
 <p>OK. Thanks Mike.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

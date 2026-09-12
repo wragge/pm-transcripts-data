@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21799</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/06/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21799</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/06/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>...It is a very, very welcome decision. It reflects very favourably on the tremendous work that Ian Campbell has done as our Environment Minister but there are still further challenges ahead and although it is a very welcome outcome and it does indicate strong feeling against commercial whaling, I wouldn't be surprised if different attempts were made on different aspects of the issue to try and alter the outcome. So we have to be vigilant and we have to continue to argue our case. I'm gratified that we appear to have picked up support from some people we didn't expect to, but you know what votes are like, you don't really know the outcome of the next one until it's counted.</p>
 <p> JOURNALIST:</p>
 <p> Do you think it's inevitable that Japan will increase its scientific cull regardless of today's vote in the IWC?</p>
@@ -40,6 +30,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think all of those things have to be looked at.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

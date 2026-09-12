@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23185</transcript-id>
-    <title>Christmas Message</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Christmas is such a wonderful time of the year.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23185</transcript-id><title>Christmas Message</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Christmas is such a wonderful time of the year.</p>
 <p>It’s a time to reflect, to count our blessings and to give thanks for all the good things we enjoy.</p>
 <p>We are a good and generous people – and I hope this Christmas we will remember everyone who is doing it tough and lend a hand where we can.</p>
 <p>This Christmas I pay tribute to everyone who’s away from family because of their service to our country and our communities.</p>
 <p>Across our country and overseas, members of our armed forces are serving our country and our values – so I thank them for what they’ve done for all of us.</p>
-<p>On Christmas Day, like every day, our hospitals, our police stations and our fire brigades are ready and working.  So I thank the nurses, the doctors, the police, the firies and the emergency services personnel who are missing Christmas lunch or Christmas dinner because they’re keeping our communities safe. We all hope you have a quiet day.</p>
+<p>On Christmas Day, like every day, our hospitals, our police stations and our fire brigades are ready and working.&nbsp; So I thank the nurses, the doctors, the police, the firies and the emergency services personnel who are missing Christmas lunch or Christmas dinner because they’re keeping our communities safe. We all hope you have a quiet day.</p>
 <p>And I also pay tribute to those working for charities today to ensure that everyone who’s less fortunate enjoys their Christmas meal too.</p>
 <p>From my family to yours, I wish you a happy, a peaceful and a safe Christmas.</p>
 <p>25 December 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

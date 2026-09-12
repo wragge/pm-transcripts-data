@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40686</transcript-id>
-    <title>Remarks at the Australia-Japan Business Reception</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/01/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40686</transcript-id><title>Remarks at the Australia-Japan Business Reception</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/01/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>The thread of continuity, of commitment, all weather friends, is so strong.</p>
 <p>Tomorrow we mark the two year anniversary of the Japan-Australia Economic Partnership Agreement. Now more than 97% of imports from Australia enter Japan duty free or under preferential tariff rates.</p>
 <p>Two-way trade between Australia and Japan is now worth over $60 billion. Japan is our second largest source of foreign direct investment.</p>
@@ -25,6 +15,4 @@
 <p>We are all weather friends and we welcome you Prime Minister and Mrs Abe to Sydney.</p>
 <p><strong>[ENDS]</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

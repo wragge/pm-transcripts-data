@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23387</transcript-id>
-    <title>Visit by the Malaysian Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>01/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Malaysian Prime Minister Najib Razak will visit Perth on Wednesday and Thursday April 2-3.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23387</transcript-id><title>Visit by the Malaysian Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>01/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Malaysian Prime Minister Najib Razak will visit Perth on Wednesday and Thursday April 2-3.</p>
 <p>I extended a personal invitation to the Prime Minister to officially visit Australia and receive briefings on the search effort for Malaysia Airlines flight MH370.</p>
 <p>He will tour RAAF Base Pearce and personally thank the international forces taking part in the search.</p>
 <p>This continues to be a trying time for Malaysia and for the many families grieving the loss of loved ones.</p>
@@ -17,6 +7,4 @@
 <p>We continue to hope that answers to the baffling mystery behind MH370 will be found to give some comfort to the grieving family and friends of passengers and crew.</p>
 <p>The Minister for Defence and I will tour RAAF Base Pearce with the Prime Minister and receive briefings from the recently formed Joint Agency Coordination Centre headed by Air Chief Marshal Angus Houston AC AFC.</p>
 <p>1 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

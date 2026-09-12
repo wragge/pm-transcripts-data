@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22265</transcript-id>
-    <title>Assistance to Ford Australia  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/05/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am very pleased to announce today that the Australian Government will provide $52.5 million to Ford Australia as part of a financial assistance package to help the vehicle manufacturer undertake two exciting new projects.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22265</transcript-id><title>Assistance to Ford Australia  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/05/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am very pleased to announce today that the Australian Government will provide $52.5 million to Ford Australia as part of a financial assistance package to help the vehicle manufacturer undertake two exciting new projects.</p>
 <p>These projects will secure Ford's manufacturing operations in Australia over the longer term.</p>
 <p>Ford will also receive assistance from the Victorian Government.</p>
 <p>The Australian Government's financial assistance will involve:</p>
@@ -20,6 +10,4 @@
 <p>The Australian Government's assistance is conditional on Ford undertaking to provide the Australian automotive component sector with every fair and reasonable opportunity to supply the necessary components for these projects.</p>
 <p>I very much encourage the Australian automotive component sector to work closely with Ford Australia in order to take full advantage of these exciting opportunities.</p>
 <p>Ford's decision to undertake these new projects in Australia is indicative of the company's confidence in the local automotive industry as well as the Australian Government's industry, economic and workplace relations policies.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

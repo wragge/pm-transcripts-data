@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12005</transcript-id>
-    <title>Doorstop Interview, Boonah, Queensland</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: dairy industry; low interest rates; gambling; tax policies</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12005</transcript-id><title>Doorstop Interview, Boonah, Queensland</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: dairy industry; low interest rates; gambling; tax policies</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, you come to an area where certainly during the State election you wern't polling too well. What's been the response you've received here particularly to policies of the Budget last week and also your compensation package for dairy farmers?</p>
@@ -56,6 +46,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well that's not the advice I have from the Treasury, so perhaps Alan Oster and the Federal Treasury should go and have a debate.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

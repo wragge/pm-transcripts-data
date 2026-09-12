@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21478</transcript-id>
-    <title>Government Rewards Older Australians Who Contribute To Private Health Insurance  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/08/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today that the Government will increase the Private Health Insurance Rebate from 30% to 35% for people aged from 65 to 69 years and to 40% for people older than 70 years.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21478</transcript-id><title>Government Rewards Older Australians Who Contribute To Private Health Insurance  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/08/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today that the Government will increase the Private Health Insurance Rebate from 30% to 35% for people aged from 65 to 69 years and to 40% for people older than 70 years.</p>
 <p>Private health insurance remains the key to private health choice for most Australians.  Older people are particularly aware of how important their health is and how important it is to have choice and peace of mind when things go wrong.</p>
 <p>Many older Australians have contributed to private health insurance for most of their adult lives.  They have contributed during their younger years while enjoying good health.  Now, when they need private health insurance cover most, it is important that premiums remain affordable.</p>
 <p>The Government believes that older Australians, particularly those on fixed and low to moderate retirement incomes, deserve a further reward for contributions over the years of their health fund membership.</p>
@@ -29,6 +19,4 @@
 <p>Subject to the passage of enabling legislation, the higher Rebate will be available from April 2005.</p>
 <p>Lifetime Health Cover</p>
 <p>Existing Lifetime Health Cover rules will be unchanged by this measure.  People born before 1 July 1934 are exempt from these rules.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

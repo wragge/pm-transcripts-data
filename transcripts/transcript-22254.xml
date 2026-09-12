@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22254</transcript-id>
-    <title>Government to proceed with access card  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/04/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has decided to proceed in principle with a new access card for health and welfare services. The Government is ruling out introducing a compulsory national ID card.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22254</transcript-id><title>Government to proceed with access card  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/04/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has decided to proceed in principle with a new access card for health and welfare services. The Government is ruling out introducing a compulsory national ID card.</p>
 <p>The new access card system will enable people to obtain Government benefits in a straightforward, convenient and reliable way without having to re-register and repeat the same information each time they visit a different Government office. The system will also assist in minimising fraud and misuse of public funds.</p>
 <p>The addition of a digital photograph will significantly enhance the identity security elements of the card, protecting the cardholder's identity and reducing the opportunities for fraud.</p>
 <p>The Australian Government needs to be sure that the $92 billion paid each year in health and social service benefits is available to those who are eligible, ensuring that taxpayers' money goes to the right people and that they get the right payment.</p>
@@ -19,6 +9,4 @@
 <p>The access card will be phased in over a two year registration period beginning in 2008. From early 2010, people will only be able to obtain government health and social service benefits if they have an access card.</p>
 <p>The Government will continue to consult with all interested groups to ensure that the implementation of the access card meets the needs and expectations of all Australians, particularly the elderly and ill and those in remote communities.</p>
 <p>Further details on the card will be announced at a later date. Funding details for the access card will be outlined in the Budget.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

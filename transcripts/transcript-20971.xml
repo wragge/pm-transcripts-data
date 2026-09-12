@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20971</transcript-id>
-    <title>Press Conference, Sukhothai Hotel, Bangkok  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/10/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20971</transcript-id><title>Press Conference, Sukhothai Hotel, Bangkok  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/10/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well this morning there';ll be the second part of the retreat and we';ll obviously talk about a number of security and related issues and then there';ll be the Leaders'; declaration.  I expect the Leaders'; declaration to contain a strong recapitulation of the region';s concerns about terrorism, a strong emphasis on trying to recover the ground lost at Cancun in relation to more open trade and I will be hoping that the push in that direction, that Australia very strongly supports, is prominent in the Leaders'; declaration.  Any questions?</p>
 <p>JOURNALIST:</p>
 <p>How was the Tuk Tuk?</p>
@@ -117,6 +107,4 @@
 <p>What';s 1939?  That';s the puzzle for the day.</p>
 <p>Okay, see you later.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

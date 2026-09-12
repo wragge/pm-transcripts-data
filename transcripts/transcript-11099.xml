@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11099</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                                     THE HON JOHN HOWARD MP                   DOORSTOP INTERVIEW, MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/05/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11099</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                                     THE HON JOHN HOWARD MP                   DOORSTOP INTERVIEW, MELBOURNE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/05/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.............................................................................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, are you any closer to an agreement with the Democrats?</p>
 <p>PRIME MINISTER:</p>
@@ -113,6 +103,4 @@
 <p> over it but if you want my opinion, I'm quite happy to give it to</p>
 <p> you. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

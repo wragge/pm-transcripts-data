@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15277</transcript-id>
-    <title>theradio.com.au weekly radio message</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/10/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15277</transcript-id><title>theradio.com.au weekly radio message</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/10/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>  Listen to this Speech (MP3 -   1.34Mb - 87secs)</p>
 <p>Good morning,</p>
 <p>Providing jobs for as many people as possible is one of the most important challenges for any government; and governments should be judged on their capacity to create the right economic environment for job creation.</p>
@@ -20,6 +10,4 @@
 <p>When last in government, the Labor Party had a shameful record on unemployment that included one million Australians out of work. </p>
 <p>The Coalition has a plan to maintain Australia's prosperity, keep producing more jobs and preserve the current low unemployment rate. Labor has no plan to keep the economy strong.</p>
 <p>  Listen to this Speech (MP3 -   1.34Mb - 87secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

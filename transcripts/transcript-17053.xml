@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17053</transcript-id>
-    <title>Prime Minister Transcript of interview with David Koch Sunrise 12 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH: Well, last week the Prime Minister had to tackle everything from IVF to gay marriage to Schapelle Corby, so what's on the agenda this week for our regular Ask the PM segment?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17053</transcript-id><title>Prime Minister Transcript of interview with David Koch Sunrise 12 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH: Well, last week the Prime Minister had to tackle everything from IVF to gay marriage to Schapelle Corby, so what's on the agenda this week for our regular Ask the PM segment?</p>
 <p>Let's get straight into it. The Prime Minister joins me in the studio. Kevin Rudd, good morning.</p>
 <p>PM: Good morning, Kochie.</p>
 <p>KOCH: First question is from Steve Foster, he's a truck driver who wants to know what's happening with the upgrade of the Pacific Highway. Steven, you have the ear of the Prime Minister - go for it.</p>
@@ -92,6 +82,4 @@
 <p>PM: Thanks, Kochie. Appreciate it.</p>
 <p>KOCH: See you next week.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

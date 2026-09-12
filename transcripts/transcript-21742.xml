@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21742</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/05/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21742</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/05/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, what's your response to Kim Beazley's speech tonight?</p>
 <p>PRIME MINISTER:</p>
 <p>Well it's the same old Mr Beazley I'm afraid - opposition for opposition's sake. Everything's terrible, the world is about to come to an end. And he's hastily cobbled together alternative tax figures. It's just a smokescreen to disguise the fact that Labor will vote against the Budget tax cuts. Nothing can hide that fact. That's the bottom line. They're going to vote against the Budget tax cuts.</p>
@@ -18,6 +8,4 @@
 <p>PRIME MINISTER:</p>
 <p>No. We are going ahead with what was announced in the Budget. No ifs, buts, or maybes. It will be delivered if Mr Beazley gets out of the way on the 1st of July. He was talking about delaying it at least six months. In any event he's going to vote against the tax cuts announced in the Budget. That's extraordinary, and it just shows that he believes in opposition for opposition's sake. Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22814</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/05/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Fiji crisis;  GST; Government spending; apology; Mr Mandela</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22814</transcript-id><title>Interview with Neil Mitchell, Radio 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/05/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Fiji crisis;  GST; Government spending; apology; Mr Mandela</p>
 <p>MITCHELL:</p>
 <p>Mr Howard good morning.  </p>
 <p>PRIME MINISTER:</p>
@@ -63,10 +53,10 @@
 <p>PRIME MINISTER:</p>
 <p>Some forms of political fund raising are exempt yes because they’re a not for profit organisation.  The Liberal Party doesn’t make any profits Neil.  I spend a large part of my life engaging in fund raising activities for various divisions of the party because we need money in order to run our campaign.</p>
 <p>MITCHELL:</p>
-<p>Could I just ask you then about.  This is, Rick Matthews, the Deputy Commissioner for Taxation, I asked him about it yesterday and he said this:<br />
+<p>Could I just ask you then about.  This is, Rick Matthews, the Deputy Commissioner for Taxation, I asked him about it yesterday and he said this:<br>
 “[Mitchell].. tell me that fund raising by political parties will be subject to the GST?  </p>
 <p>[Matthews] They are certainly not charities so they don’t get any of the entitlements of charities.  </p>
-<p>[Mitchell] So will they be subject to the GST on fund raising?<br />
+<p>[Mitchell] So will they be subject to the GST on fund raising?<br>
 [Matthews] I think they will.” </p>
 <p>The Tax Department thinks you will.</p>
 <p>PRIME MINISTER:</p>
@@ -240,6 +230,4 @@
 <p>PRIME MINISTER:</p>
 <p>Ok.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

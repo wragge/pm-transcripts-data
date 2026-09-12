@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21142</transcript-id>
-    <title>Doorstop Interview, Dobell  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/03/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21142</transcript-id><title>Doorstop Interview, Dobell  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/03/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, question from Laurie Oakes.</p>
 <p>PRIME MINISTER:</p>
 <p>G'day Laurie.</p>
@@ -50,6 +40,4 @@
 <p>PRIME MINISTER:</p>
 <p>It's very much them being given an opportunity to put views to me. I'm going there to listen to their concerns.  I obviously have some thoughts.  But I think at this stage the best thing to do is to hear what the people most affected have to say and then I'll take that back to my Cabinet colleagues and we'll take some final decisions.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20570</transcript-id>
-    <title>Secretary, Department of the Prime Minister and Cabinet   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/02/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the appointment of Dr Peter Shergold AM as Secretary of the Department of the Prime Minister and Cabinet for a term of five years. The appointment will date from 10 February 2003.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20570</transcript-id><title>Secretary, Department of the Prime Minister and Cabinet   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/02/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the appointment of Dr Peter Shergold AM as Secretary of the Department of the Prime Minister and Cabinet for a term of five years. The appointment will date from 10 February 2003.</p>
 <p>Dr Shergold is a distinguished and highly experienced public administrator. He has served this and previous governments in a number of senior positions. A copy of Dr Shergold's curriculum vitae is attached.</p>
 <p>I am sure that with his strong academic credentials, varied experience and commitment to a professional public service he will provide strong leadership to the Australian Public Service.</p>
 <p>Pending the appointment of a new Secretary the Department of Education, Science and Training, Dr Wendy Jarvie will act in that position.</p>
@@ -47,6 +37,4 @@
 <p>Lecturer, University of New South Wales</p>
 <p>1971-72</p>
 <p>Research Fellow, Institute of Historical Research, London  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

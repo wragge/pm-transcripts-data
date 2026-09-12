@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20799</transcript-id>
-    <title>Press Conference Makati Shangri-la Hotel, Manila </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/07/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20799</transcript-id><title>Press Conference Makati Shangri-la Hotel, Manila </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/07/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well we only have a limited amount of time, but I don';t have any introductory statement. If people have any questions they want to ask me, please go ahead.</p>
 <p>JOURNALIST:</p>
 <p>What does the escape of Rohman al-Ghozi say about the Philippine police [inaudible] in terms of…</p>
@@ -138,6 +128,4 @@
 <p>PRIME MINISTER:</p>
 <p>Wait till will we get to Japan.  You don';t need anything on Japan.</p>
 <p>   [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

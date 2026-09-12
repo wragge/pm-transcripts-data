@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18562</transcript-id>
-    <title>Address to the Global Foundation Summit Dinner, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18562</transcript-id><title>Address to the Global Foundation Summit Dinner, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Ten days ago I was making my sixth visit to Asia as Australia's Prime Minister.</p>
 <p>I visited Kranji War Cemetery and there reflected on the Singapore of 1942 and the Singapore of 2012.</p>
 <p>How a nation could so radically transform itself in the space of just one lifetime.</p>
@@ -111,6 +101,4 @@ Ten days ago I was making my sixth visit to Asia as Australia's Prime Minister.<
 <p>A nation able to realise the opportunities in front of us.</p>
 <p>I thank you for your preparedness to join me in designing and detailing how we can achieve that strength and prosperity in this Asian Century.</p>
 <p>Thank you very much.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23440</transcript-id>
-    <title>F-35 Joint Strike Fighters to transform Australia&#039;s air combat capability</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government has approved the acquisition of an additional 58 F-35 Lightning II Joint Strike Fighter aircraft.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23440</transcript-id><title><![CDATA[F-35 Joint Strike Fighters to transform Australia&#039;s air combat capability]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government has approved the acquisition of an additional 58 F-35 Lightning II Joint Strike Fighter aircraft.</p>
 <p>The fifth generation F-35 is the most advanced fighter in production anywhere in the world and will make a vital contribution to our national security.</p>
 <p>Together with the Super Hornet and Growler electronic warfare aircraft, the F-35 aircraft will ensure Australia maintains a regional air combat edge. The F-35 will also provide a major boost to the ADF’s intelligence, surveillance and reconnaissance capabilities.</p>
 <p>The first F-35 aircraft will arrive in Australia in 2018 and enter service with the Royal Australian Air Force in 2020.</p>
@@ -23,6 +13,4 @@
 <p>The Government will also consider the option of acquiring an additional squadron of F-35 aircraft to replace the Super Hornets in the future.</p>
 <p>The Government remains committed to building a strong, capable and sustainable Australian Defence Force.</p>
 <p>23 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

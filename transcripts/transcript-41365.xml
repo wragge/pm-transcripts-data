@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41365</transcript-id>
-    <title>Press Conference with Senator the Hon. George Brandis QC, Attorney-General and Senator the Hon. Mathias Cormann, Minister for Finance</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>05/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Foreign Interference; Foreign Donations; Same-sex Marriage; Citizenship</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41365</transcript-id><title>Press Conference with Senator the Hon. George Brandis QC, Attorney-General and Senator the Hon. Mathias Cormann, Minister for Finance</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>05/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Foreign Interference; Foreign Donations; Same-sex Marriage; Citizenship</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good afternoon. We are very fortunate to live in the most successful multicultural society in the world. Its foundation is fundamentally Australian values; the rule of law, mutual respect, equality, a fair go.</p>
 <p>We are the most diverse society in the world. Australians come from every possible background, every faith and we live together harmoniously.</p>
 <p>There is much to be proud of and much to protect. My Government will always seek to ensure that our values, our culture, our democracy, remain uniquely Australian.</p>
@@ -49,11 +39,11 @@
 <p>Very good.</p>
 <p><strong>JOURNALIST: </strong></p>
 <p>So, say the example of an MP receives money from say, a Chinese company for example, would that come under any of these laws that you’re proposing today?</p>
-<p><strong>PRIME MINISTER:  </strong></p>
+<p><strong>PRIME MINISTER:&nbsp; </strong></p>
 <p>When you’re saying, are you talking about a political donation?</p>
 <p><strong>JOURNALIST: </strong></p>
 <p>Like Senator Dastyari.</p>
-<p><strong>PRIME MINISTER:  </strong></p>
+<p><strong>PRIME MINISTER:&nbsp; </strong></p>
 <p>Well, Senator Dastyari solicited money from a Chinese national, apparently from a company that he owned and in return for that, did a U-turn on the Australian Labor Party's policy on the South China Sea. It was about as blatant an act of political interference that you could imagine.</p>
 <p>If I could just repeat this; I mean the simple fact of the matter is, that Senator Dastyari's presence in the Senate and in the Labor Party Caucus speaks volumes for the lack of character of Bill Shorten.</p>
 <p>Bill Shorten is keeping Dastyari there, when he knows that Dastyari sold out Australia's national interest in return for having his debts paid, in return for a personal benefit.</p>
@@ -62,23 +52,23 @@
 <p>This is an indictment on Bill Shorten.</p>
 <p><strong>JOURNALIST: </strong></p>
 <p>Do the new laws cover examples like that?</p>
-<p><strong>PRIME MINISTER:  </strong></p>
+<p><strong>PRIME MINISTER:&nbsp; </strong></p>
 <p>Well I’ll ask George to speak about the law.</p>
 <p><strong>ATTORNEY-GENERAL:</strong></p>
 <p>Well as the Prime Minister has instanced the case of Senator Sam Dastyari, let me point out to you the elements of the new offence of intentional foreign interference. It creates a criminal offence in circumstances in which a person engages in conduct on behalf of a foreign principal that will influence a political or governmental process, which I should interpolate to say would include the policies of both the Government party or the Opposition party, and is either covert or involves deception, or involves the person causing serious harm to the Australian national interest. Now, you know the allegations that have been made against Senator Dastyari. In my view, the conduct alleged against him does not reach the threshold of the existing laws of treason and espionage, but that is why we are introducing, because of the gap in those laws, a new offence of unlawful foreign interference.</p>
-<p><strong>PRIME MINISTER:  </strong></p>
+<p><strong>PRIME MINISTER:&nbsp; </strong></p>
 <p>Hang on, hang on. Sam and then James.</p>
 <p><strong>JOURNALIST: </strong></p>
 <p>Two questions, in relation to him, his instruction to Mr Huang to leave his phone behind, you don't think he's broken any law?</p>
 <p>Secondly, according to AEC disclosures within the same day that the ChAFTA deal was signed, a group, a company that Mr Huang was a director of, made a $50,000 donation to the Bayside Forum that the Trade Minister's electorate, do you think that was appropriate? Mr Robb also then went to work for that Chinese company shortly after leaving politics. Is that Chinese influence or is that something different?</p>
-<p><strong>PRIME MINISTER:  </strong></p>
+<p><strong>PRIME MINISTER:&nbsp; </strong></p>
 <p>Well, why don't you answer the question first?</p>
 <p><strong>ATTORNEY-GENERAL: </strong></p>
 <p>Well, in relation to Senator Dastyari, at the moment these are allegations, but they are credible allegations, made by serious journalists, which Senator Dastyari was given every opportunity to address and either deny or explain in the Senate last Thursday. He took the opportunity that was presented to him by the Senate to make a statement, and in that statement, significantly, he neither denied nor explained any of the allegations that had been made against him by either Fairfax Media, the ABC or other journalists. That's the first point.</p>
 <p>Now in relation to the particular conduct that is alleged, I'm not going to act as a judge and jury here, but plainly it is untenable that a man who is clearly by his own admission by silence, acting at the behest of a foreign principal, to undermine the foreign policy of the alternative Government in which he would have been a very influential figure, a minister close to the alternative Prime Minister. It is untenable that a person like that should be so close to the seat of power in the Labor Party.</p>
 <p><strong>JOURNALIST: </strong></p>
 <p>Is it appropriate for a Liberal minister in Andrew Robb's case, to so quickly after leaving Government and being intimately involved in the negotiations with the free trade, to then go and take up that work?</p>
-<p><strong>PRIME MINISTER:  </strong></p>
+<p><strong>PRIME MINISTER:&nbsp; </strong></p>
 <p>Well the Free Trade Agreement was negotiated and entered into while he was the Minister. You’re asking about his post-ministerial employment, which as you know, Andrew has made it very clear he's complied with the ministerial code of conduct.</p>
 <p>But there are some changes in the law which touch on ministers and I’ll ask George to expand on them.</p>
 <p><strong>ATTORNEY-GENERAL: </strong></p>
@@ -151,6 +141,4 @@
 <p>An Australian Prime Minister and anyone who wants to be an Australian Prime Minister should stand up for Australia. Bill Shorten has failed to stand up for our nation.</p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

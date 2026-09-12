@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11658</transcript-id>
-    <title>Address at the Sir Donald Bradman Oration, Melbourne</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/08/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11658</transcript-id><title>Address at the Sir Donald Bradman Oration, Melbourne</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/08/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................</p>
 <p>It is a special honour to have been invited by the Australian Cricket Board to deliver the inaugural Sir Donald Bradman Oration. </p>
 <p>I have no doubt that the Oration will become an important occasion - an opportunity to honour Sir Donald's continuing example to us all, to reflect upon his remarkable achievements and to extol the qualities of a game so indelibly a part of Australian life.</p>
 <p>I saw Sir Donald Bradman play but once.</p>
@@ -98,6 +88,4 @@
 <p>Future generations of young Australians, learning to love this game in their local schools and clubs, as we did, will ensure its survival and success.</p>
 <p>With well founded optimism about the game's future I share in Bradman's hope that cricket expand even further.  For, as Sir Donald once said, "there are no tariff barriers, licences, restrictions, or any other obstacle in the way of exporting this game which can bring such benefit and pleasure to a whole nation.  May cricket continue to flourish and spread its wings.  The world can only be the richer for it."</p>
 <p>With the example of Sir Donald as our inspiration - not just in cricket but in life - we can make this dream, or any dream, come true. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

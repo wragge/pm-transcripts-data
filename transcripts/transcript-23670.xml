@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23670</transcript-id>
-    <title>Condolence book in support and sympathy of those tragically killed on flight MH17</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>22/07/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, the Governor-General, the Presiding Officers of the Parliament, members of the Cabinet, representatives of the Federal Opposition, Members of the Diplomatic Corps and members of the public signed the Commonwealth of Australia Condolence Book in support and sympathy to the families of those tragically killed on Flight MH17.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23670</transcript-id><title>Condolence book in support and sympathy of those tragically killed on flight MH17</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>22/07/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, the Governor-General, the Presiding Officers of the Parliament, members of the Cabinet, representatives of the Federal Opposition, Members of the Diplomatic Corps and members of the public signed the Commonwealth of Australia Condolence Book in support and sympathy to the families of those tragically killed on Flight MH17.</p>
 <p>All Australians mourn the loss of Flight MH17.</p>
 <p>There were 298 people on this aircraft – and their deaths offend our sense of justice.</p>
 <p>We grieve for all, but particularly for the 37 men, women and children who called Australia home.</p>
@@ -21,6 +11,4 @@
 <p>In time, a copy of the Condolence Book will be provided to each of the Australian families.</p>
 <p>Condolence books will also be placed in Australia’s Embassies and High Commissions throughout the world.</p>
 <p>22 July 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

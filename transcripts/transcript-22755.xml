@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22755</transcript-id>
-    <title>Improving Health Outcomes in Papua New Guinea</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>15/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Port Moresby, PNG</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22755</transcript-id><title>Improving Health Outcomes in Papua New Guinea</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>15/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Port Moresby, PNG</p>
 <p>Prime Minister Kevin Rudd announced today that the Australian Government will increase support for health and hospitals in Papua New Guinea to help save lives.</p>
 <p>Support for improved health in Papua New Guinea is a key agreed priority under the Australia-Papua New Guinea Partnership for Development.</p>
 <p>The Australian Government will provide just over $160 million over four years to 2016.</p>
@@ -18,6 +8,4 @@
 <p>Funding will also be directed toward refurbishing and expanding training schools and colleges for nurses, midwives and other health workers.</p>
 <p>The quality and amount of health infrastructure throughout Papua New Guinea is inadequate for Papua New Guinea’s fast-growing population. The additional funding will help improve the quality of primary health services.</p>
 <p>Australia’s support would also improve the retention of health workers which is currently a significant problem. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

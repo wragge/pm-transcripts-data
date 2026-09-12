@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12124</transcript-id>
-    <title>$5.8 Million to put Victorian Local Government Online </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/02/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the government will provide $5.8 million to enable councils across Victoria to provide services to their local communities over the internet.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12124</transcript-id><title>$5.8 Million to put Victorian Local Government Online </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/02/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the government will provide $5.8 million to enable councils across Victoria to provide services to their local communities over the internet.</p>
 <p>This project will particularly assist councils in rural and regional areas and is part of the latest round of Networking the Nation projects funded from the proceeds of the part sale of Telstra.</p>
 <p>Many councils in rural and regional areas lack the resources to develop online service delivery. Today's funding announcement aims to assist them over the next two years to improve services to their communities by making important services accessible over the internet.</p>
 <p>These will include tenders, planning and building applications, new payment options and a range of information on community facilities. It will enable residents to comment on development proposals using the internet, pay their rates online and improve the capacity of local businesses to sell to local government.</p>
@@ -20,6 +10,4 @@
 <p>Many of these projects are world's best practice examples of regional communities working with the private sector to develop innovative service solutions.</p>
 <p>Networking the Nation is a tangible sign of the government's commitment to ensure rural and regional Australia enjoys the benefits of technological advances and it has been made possible by the part sale of Telstra.</p>
 <p>1 February 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12560</transcript-id>
-    <title>Interview with Jeremy Cordeaux, Radio 5DN   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/09/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Iraq; Israel; health insurance premiums; Kirsty Ruddock&#039;;s comments; family tax benefits; stem cell debate.</subjects>
-    <content><![CDATA[<p>E&amp;OE...........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12560</transcript-id><title>Interview with Jeremy Cordeaux, Radio 5DN   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/09/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects><![CDATA[Iraq; Israel; health insurance premiums; Kirsty Ruddock&#039;;s comments; family tax benefits; stem cell debate.]]></subjects><content><![CDATA[<p>E&amp;OE...........</p>
 <p><strong>CORDEAUX:</strong></p>
 <p>And it is with a great deal of pleasure that we go to Canberra and the Prime Minister, sir how are you?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -153,6 +143,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

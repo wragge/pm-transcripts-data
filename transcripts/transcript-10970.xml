@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10970</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT OPENING OF RAAF BASE SCHERGER</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/08/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10970</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT OPENING OF RAAF BASE SCHERGER</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/08/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE............................................................................................</p>
 <p>Well thank you very much Air Marshal Titheridge, to Air Marshal McCormack,</p>
 <p> to Mrs Bronwyn Bishop the Minister for Defence Industry, Science and</p>
 <p> Personnel, to Warren Entsch the Federal Member for Leichhardt, other</p>
@@ -160,6 +150,4 @@
 <p> of his country.</p>
 <p>Thank you.</p>
 <p> [ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

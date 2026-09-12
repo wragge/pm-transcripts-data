@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41740</transcript-id>
-    <title>Speech at the opening of the Australian Cyber Security Centre</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/08/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41740</transcript-id><title>Speech at the opening of the Australian Cyber Security Centre</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/08/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Welcome everybody. It's great to see so many industry leaders here alongside the Government's cyber security advisers. It’s good to be here with my parliamentary colleagues, Gai Brodtmann was acknowledged but of course the Minister for Home Affairs, the Minister for Defence, the Minister for Law Enforcement and Cyber Security.</p>
 <p>The number one priority for my government and indeed for every government is the safety and security of the nation. In 2016, I committed to improve Australia's cyber resilience and make all Australians safer online. And we're doing that through our landmark Cyber Security Strategy.</p>
 <p>Today's opening of the Australian Cyber Security Centre in this custom-built, custom-designed building, with a classified and unclassified section, is designed to enable the Cyber Security Centre to reach out to and engage with the private sector, with industry. Critically important, it’s a milestone in the implementation of our strategy.</p>
@@ -40,7 +30,7 @@
 <p>We passed legislation to make the Australian Signals Directorate an independent agency.</p>
 <p>We've launched the joint Cyber Security Centres in Sydney, Melbourne, Brisbane and Perth to protect critical infrastructure against malicious cyber activity.</p>
 <p>And this dedicated Cyber Security Centre will lead and coordinate responses to serious cyber incidents.</p>
-<p>Just two nights ago at 3:00am, we saw a great example of the centre's ability to deliver early warning at speed. The team received information about a risk to computer chips manufactured by Intel, the world’s largest chip manufacturer. A new rapid response capability swung into action, providing organisations with the information they needed to prevent their systems being compromised. Within ten minutes the Australian Cyber Security Centre had notified government agencies and critical infrastructure providers around the country. Indeed, this type of rapid response is a regular occurrence for this ACSC. </p>
+<p>Just two nights ago at 3:00am, we saw a great example of the centre's ability to deliver early warning at speed. The team received information about a risk to computer chips manufactured by Intel, the world’s largest chip manufacturer. A new rapid response capability swung into action, providing organisations with the information they needed to prevent their systems being compromised. Within ten minutes the Australian Cyber Security Centre had notified government agencies and critical infrastructure providers around the country. Indeed, this type of rapid response is a regular occurrence for this ACSC.&nbsp;</p>
 <p>Since I put in place the National Cyber Security Strategy the ACSC has responded to over 14,000 incidents at a rate of more than 16 a day. So the new centre here brings together our Government’s operational cyber security capabilities in one location, to share threat information and expertise to combat expanding cyber security threats.</p>
 <p>The ACSC will also develop a new digital platform - cyber.gov.au - giving Australians a coordinated end-to-end advice reporting and response capability. This trusted source of cyber security will be more interactive than current sites, particularly when lodging reports of an incident or a scam.</p>
 <p>Cyber.gov.au will consolidate existing incident reporting mechanisms for businesses and individuals and provide actionable intelligence for responders. The Centre will be constantly alert, monitoring the online environment as we were just shown, 24 hours a day. Critically for the first time, our intelligence and law enforcement agencies will be co-located with industry partners in this shared state of the art facility.</p>
@@ -51,6 +41,4 @@
 <p>Trust in the systems that underpin our digital economy are the key to future innovation. So this new facility will drive cyber resilience - absolutely critical - so that we can realise all of the promise of prosperity and opportunity in the digital age.</p>
 <p>The cyber sphere cannot be a lawless zone. The rule of law must apply there, as it does offline. We must ensure that we use all of our ingenuity, all of our innovation, all of our ability to collaborate with others to ensure that we keep Australians safe online and this Centre is a very bold step towards achieving that goal.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19242</transcript-id>
-    <title>Boston Marathon</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/04/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19242</transcript-id><title>Boston Marathon</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/04/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Australians have awoken this morning to shocking and tragic scenes at the Boston Marathon.</p>
 <p>Our condolences go to the families of those killed and our thoughts are with those who have been injured.</p>
 <p>It will be some time before we know the full extent of what has occurred but these explosions have cast a long shadow over one of the world's great sporting events.</p>
@@ -18,6 +8,4 @@
 <p>Australian runners were scheduled to compete. DFAT is currently contacting these athletes to confirm their safety.</p>
 <p>Anyone who has concerns for the welfare of family and friends in the region and has been unable to contact them should call the Department of Foreign Affairs and Trade's 24-hour Consular Emergency Centre of 1 300 555 135</p>
 <p>For their own safety, Australians in Boston need to follow instructions of civil authorities as events unfold. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

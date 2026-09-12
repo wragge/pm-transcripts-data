@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12679</transcript-id>
-    <title>Doorstop Interview, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/11/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12679</transcript-id><title>Doorstop Interview, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/11/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, is the message of religious tolerance more important now than ever before?</p>
 <p>PRIME MINISTER:</p>
@@ -17,7 +7,7 @@
 <p>JOURNALIST:</p>
 <p>What is ASIO doing about claims Abu Bakar Bashir entered Australia under a Malaysian passport and a false name?</p>
 <p>PRIME MINISTER:</p>
-<p>Well they’re only claims and I’m not going to give a running commentary on operational matters of ASIO. I want to make that very clear, that we’re in a situation here where Ministers are not going to give running commentaries on what ASIO is doing. It will act within the law but every Australian requires at this time that the interests of Australia be put above all other interests, and that is what will happen.<br /><br />JOURNALIST:</p>
+<p>Well they’re only claims and I’m not going to give a running commentary on operational matters of ASIO. I want to make that very clear, that we’re in a situation here where Ministers are not going to give running commentaries on what ASIO is doing. It will act within the law but every Australian requires at this time that the interests of Australia be put above all other interests, and that is what will happen.<br><br>JOURNALIST:</p>
 <p>Generally, how are relations with Indonesia given Mr Downer spoke with his counterpart yesterday morning over claims they were angered by the ASIO raids this week?</p>
 <p>PRIME MINISTER:</p>
 <p>I think Mr Downer has been able to explain the basis of them. Those raids were carried out in accordance with Australian law and fully consistent with international law. They were not targeting Indonesians. We are not targeting Muslims. We are dealing here with a small number of raids, fewer than 10, and we have an Islamic population in Australia of several hundred thousand. How anybody could construe from that with any credibility that we are targeting Muslims is beyond my understanding. We are not.</p>
@@ -29,7 +19,5 @@
 <p>Would you support a Royal Commission into Telstra?</p>
 <p>PRIME MINISTER:</p>
 <p>No, look I didn’t see the programme so I’m not going to comment on it. Thank you.</p>
-<p><br />[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><br>[Ends]</p>
+]]></content></item></response>

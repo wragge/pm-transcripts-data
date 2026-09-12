@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11769</transcript-id>
-    <title>Interview with Jim Lehrer, News Hour, PBS Washington D.C, USA </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Illegal immigrants; US-Australian relations; Free trade; China; Taiwan</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11769</transcript-id><title>Interview with Jim Lehrer, News Hour, PBS Washington D.C, USA </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Illegal immigrants; US-Australian relations; Free trade; China; Taiwan</p>
 <p>E&amp;OE................................</p>
 <p>LEHRER:</p>
 <p>Mr Prime Minister welcome.</p>
@@ -52,7 +42,7 @@
 <p>PRIME MINISTER:</p>
 <p>Well obviously we would like some progress on agriculture.</p>
 <p>LEHRER:</p>
-<p>Like what, what products?<br />
+<p>Like what, what products?<br>
 PRIME MINISTER:</p>
 <p>Well a whole range, right across the board. When you have a level of sophistication and technological skill which is very similar I think the potential is enormous. We get a lot of investment from the United States, the US is our largest foreign investor. We invest quite a bit back so I think it is a natural fit for the future. And when you have a close relationship as we do with the Americans it is always a mistake to sort of just sit on it and assume that it will look after itself. Like friendships, you've got to keep good relationships in good repair.</p>
 <p>LEHRER:</p>
@@ -110,6 +100,4 @@ PRIME MINISTER:</p>
 <p>LEHRER:</p>
 <p>Well Mr Prime Minister thank you very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

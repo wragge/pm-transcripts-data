@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11808</transcript-id>
-    <title>Interview with Alexandra Kirk, AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Economic figures; tax cuts; budget; Ryan by-election</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11808</transcript-id><title>Interview with Alexandra Kirk, AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Economic figures; tax cuts; budget; Ryan by-election</p>
 <p>E&amp;OE................................ </p>
 <p>KIRK:</p>
 <p>Mr Howard, in hindsight, the Dunn &amp; Bradstreet were spot on last survey. The economy went backwards in the December quarter. Are you now more willing to accept the prospect of another quarter of negative growth and then a return to positive growth?</p>
@@ -54,7 +44,7 @@
 <p>KIRK:</p>
 <p>Now, the next test for the Government comes as early as Saturday with the Ryan by-election. You say that the outcome doesn't necessarily point to a Federal Election result later in the year. But if the Coalition loses in Ryan will you take responsibility for that?</p>
 <p>PRIME MINISTER:</p>
-<p>Well, Alexandra, I'm not going to hypothesise about the outcome of Ryan. It is very tough. And I know that there are Liberal voters in Ryan who want to give us a kick on the basis that it sends a message. Now, can I just say to those people that I understand how they might feel on certain issues. We've tried to respond to those issues. But if Ryan is delivered to Labor off the back of an anti-Liberal protest vote that will only encourage the Labor Party to believe that it can play a completely negative game and get great political rewards. I mean, everything that we have done over the last five years to strengthen the economy, which is so important to people who normally support the Coalition, the Labor Party has opposed. They opposed cutting the debt by $50 billion. They opposed all the things that have made lower interest rates and lower inflation possible. They opposed Work for the Dole. They opposed<br />
+<p>Well, Alexandra, I'm not going to hypothesise about the outcome of Ryan. It is very tough. And I know that there are Liberal voters in Ryan who want to give us a kick on the basis that it sends a message. Now, can I just say to those people that I understand how they might feel on certain issues. We've tried to respond to those issues. But if Ryan is delivered to Labor off the back of an anti-Liberal protest vote that will only encourage the Labor Party to believe that it can play a completely negative game and get great political rewards. I mean, everything that we have done over the last five years to strengthen the economy, which is so important to people who normally support the Coalition, the Labor Party has opposed. They opposed cutting the debt by $50 billion. They opposed all the things that have made lower interest rates and lower inflation possible. They opposed Work for the Dole. They opposed<br>
 things like the abolition of compulsory unionism. So, a Labor victory in Ryan off the back of an anti-Liberal protest vote will only be a vote of confidence in that negative approach by the Labor Party.</p>
 <p>KIRK:</p>
 <p>Well, we've seen three bad polls now for the Government in a week. Do you accept just how angry voters continue to be with the Government?</p>
@@ -77,6 +67,4 @@ things like the abolition of compulsory unionism. So, a Labor victory in Ryan of
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

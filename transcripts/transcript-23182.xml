@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23182</transcript-id>
-    <title>Prime Minister welcomes Royal Visit</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I welcome the announcement from Kensington Palace that Their Royal Highnesses, The Duke and Duchess of Cambridge, will visit Australia in April 2014.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23182</transcript-id><title>Prime Minister welcomes Royal Visit</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I welcome the announcement from Kensington Palace that Their Royal Highnesses, The Duke and Duchess of Cambridge, will visit Australia in April 2014.</p>
 <p>Australians have great warmth towards members of the royal family and have watched with admiration and enthusiasm as The Duke and Duchess married and welcomed their first child, Prince George, earlier this year.</p>
 <p>Members of the royal family have enjoyed being in Australia and that pleasure is amply reciprocated by the Australian people.</p>
 <p>We look forward to welcoming The Duke and Duchess of Cambridge.</p>
 <p>Further details regarding next year’s visit, including dates and itineraries, will be released next year.</p>
 <p>20 December 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

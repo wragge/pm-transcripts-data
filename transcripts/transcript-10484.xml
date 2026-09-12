@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10484</transcript-id>
-    <title>Timetable for the Constitutional Convention </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/09/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010484.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the dates for the Constitutional Convention and the election of delegates.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10484</transcript-id><title>Timetable for the Constitutional Convention </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/09/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010484.pdf</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the dates for the Constitutional Convention and the election of delegates.</p>
 <p>The delay caused by the Senate's initial refusal to pass the Constitutional Convention (Election) Bill 1997 means that it is no longer possible for the Convention to be held in December this year, as originally planned.</p>
 <p>The Government's preference is for the Convention to be held before the Parliament resumes in 1998, given the fact that a number of parliamentarians will be involved in the proceedings. As a result, the Convention will be held in Old Parliament House, Canberra, on 2-6 February and 9-13 February 1998. The schedule of Parliamentary sittings will be adjusted accordingly, with the 1998 sittings commencing on 2 March. Consideration is being given to the House of Representatives sitting during the period 23-26 March, as the Senate sittings are scheduled for that period. Additional sitting time will be scheduled, if required, later in the year after appropriate Parliamentary consultation.</p>
 <p>In accordance with the terms of the Bill, 76 of the delegates to the Convention will be elected in a voluntary postal ballot to be conducted by the Australian Electoral Commission.</p>
 <p>The key dates for the election process are as follows:</p>
-<p>Issue of formal notice of election 29 September 1997<br />
+<p>Issue of formal notice of election 29 September 1997<br>
 Close of Rolls 7 October 1997</p>
 <p>Close of nominations 8 October 1997</p>
 <p>Mailout of voter material 3 November to 14 November 1997</p>
@@ -25,6 +15,4 @@ Close of Rolls 7 October 1997</p>
 <p>The Australian Electoral Commission has established a national enquiry line in relation to the election. The number is 13 23 26 in all States and Territories.</p>
 <p>Prior to voting, balanced and easily understood information on the issues in the republic debate will be prepared and distributed widely. This material will explain in plain English, how the existing constitutional system operates; identify the arguments for and against change, and present the key options (including the option of no change).</p>
 <p>12 September 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

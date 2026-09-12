@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21464</transcript-id>
-    <title>Interview with Marius Benson ABC News Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  BENSON:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21464</transcript-id><title>Interview with Marius Benson ABC News Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  BENSON:</p>
 <p>Mr Howard thanks very much for coming in and welcome to News Radio at this auspicious, for us, occasion of 10 years of service.</p>
 <p>PRIME MINISTER:</p>
 <p>Well thank you. I'm sorry I'm a bit late but it's for the best of all reasons, it's been pouring rain.</p>
@@ -260,6 +250,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

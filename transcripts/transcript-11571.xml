@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11571</transcript-id>
-    <title>ROYAL VISIT 2000</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/03/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that The Queen and The Duke of Edinburgh will</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11571</transcript-id><title>ROYAL VISIT 2000</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/03/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that The Queen and The Duke of Edinburgh will</p>
 <p> visit a number of rural and regional centres as well as Sydney, Canberra,</p>
 <p> Melbourne, Hobart and Perth during their forthcoming visit to Australia.</p>
 <p>The Royal couple will arrive in Australia on Friday 17 March 2000. Their</p>
@@ -30,6 +20,4 @@
 <p> governments of the States and Territories to be visited as they have overall</p>
 <p> responsibility for the activities occurring within their States.</p>
 <p>23 February, 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

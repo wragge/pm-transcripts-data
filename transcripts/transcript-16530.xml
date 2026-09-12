@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16530</transcript-id>
-    <title>Speech at the offical launch of the John Button Prize Parliament of Victoria   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/04/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose lands we meet, and whose cultures we celebrate as the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16530</transcript-id><title>Speech at the offical launch of the John Button Prize Parliament of Victoria   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/04/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose lands we meet, and whose cultures we celebrate as the oldest continuing cultures in human history.</p>
 <p>It is an honour to launch officially the John Button Prize tonight.</p>
 <p>It is equally an honour to serve as a patron of the John Button Foundation.</p>
 <p>This will be the most lucrative prize in the nation for political writing.</p>
@@ -100,6 +90,4 @@
 <p>If it succeeds in so doing, it will help build a richer political culture, a stronger democracy and therefore a more humane future.</p>
 <p>And it comes at a time when there is a whole new public debate opening up around the world on the future of social democracy after the collapse of the prevailing neoliberal orthodoxy  -  a debate about the future that is more open now than at any time in the last quarter of a century.</p>
 <p>So with great optimism in the future of our democracy at large, and great enthusiasm for the great debate now launched on the future of our social democratic project both here and abroad, I'm delighted to launch the John Button Prize, and to pay tribute to John himself, a pioneer in this great enterprise.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

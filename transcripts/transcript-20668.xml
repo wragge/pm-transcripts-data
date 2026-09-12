@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20668</transcript-id>
-    <title>Press Conference, Parliament House, Canberra   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thank you very much ladies and gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20668</transcript-id><title>Press Conference, Parliament House, Canberra   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thank you very much ladies and gentlemen.</p>
 <p> I've called this news conference to announce that as from today Australia has adopted a new counter terrorism alert code, with the introduction of four alert levels to replace the existing three level system.</p>
 <p> The introduction of this new system is part of a counter terrorism plan that has been agreed between the Commonwealth and the States. It follows the inter-governmental agreement signed by myself with the Premiers and Chief Ministers at the Bali memorial service here in Canberra in October of last year. And I've written to each of the Premiers and Chief Ministers today, indicating final Commonwealth approval of that plan and that it will be in effect as from now. And I understand it will be available on the relevant website later this afternoon or tomorrow morning.</p>
 <p> The four levels of national counter terrorism alert will be as follows:</p>
@@ -164,6 +154,4 @@
 <p>No. No, I'm an Australian, never support New South Wales, or Queensland for that matter. You're allowed to support a club, but never a state.</p>
 <p>Okay. Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

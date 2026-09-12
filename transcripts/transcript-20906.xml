@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20906</transcript-id>
-    <title>Doorstop Interview, Parliament House  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/09/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20906</transcript-id><title>Doorstop Interview, Parliament House  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/09/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
    9 September 2003</p>
 <p>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  DOORSTOP INTERVIEW, PARLIAMENT HOUSE</p>
 <p>Subjects: international visits; proliferation security initiative; Mr John Anderson;   Indonesian President.</p>
@@ -51,6 +41,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think all of those exercises are important and they';re useful.  As for the details of it you better talk to the ministerial expert Senator Hill.  Thank you.</p>
 <p>[Ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

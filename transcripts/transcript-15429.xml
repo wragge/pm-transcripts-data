@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15429</transcript-id>
-    <title>Message: Fifth Anniversary of the 12 October 2002 Bali Bombing</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/10/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Five years ago, 88 Australians, 38 Indonesians and 76 people from other countries were killed in a tragedy that horrified Australia and the world.  </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15429</transcript-id><title>Message: Fifth Anniversary of the 12 October 2002 Bali Bombing</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/10/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Five years ago, 88 Australians, 38 Indonesians and 76 people from other countries were killed in a tragedy that horrified Australia and the world.  </p>
 <p>The immediate shock may have passed, but the pain and sense of loss remain. </p>
 <p>The fifth anniversary of the attack is an important time for the Australian community to reflect on these events, to commemorate the scores of people who were killed and injured, and to show our support for their families and friends.</p>
 <p>This atrocity is now forever a tragic chapter in our nation's story.  Yet Australians demonstrated great courage, compassion and charity in the face of horror and adversity immediately after the bombings.  Once again we were reminded that these traits are central to our national identity.  That same quiet fortitude and resilience has given us the resolve to confront terrorism without changing our country's fundamental character.</p>
@@ -17,6 +7,4 @@
 <p>In restoring sight to the people of the Bali region through the work of the Australia-Bali Memorial Eye Centre, the Australian people are realising a practical living memorial to the victims.  Every patient who receives the gift of sight forms part of an ongoing legacy that provides tribute to the Australians who lost their lives that day and hope for the future.</p>
 <p>Australians have commemorated this event in their own way each year since 2003.  Overwhelmingly, however, the anniversary of the bombings has been about friendship and the strength people draw from each other in the face of adversity.</p>
 <p>The thoughts and prayers of the Australian community are with all those affected by the tragic events of 12 October 2002.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

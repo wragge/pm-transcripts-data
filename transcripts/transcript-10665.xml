@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10665</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER             THE HON JOHN HOWARD MP                ADDRESS TO THE SOUTH AUSTRALIAN LIBERAL PARTY STATE                 CONVENTION, ADELAIDE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10665</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER             THE HON JOHN HOWARD MP                ADDRESS TO THE SOUTH AUSTRALIAN LIBERAL PARTY STATE                 CONVENTION, ADELAIDE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.............................................................................................</p>
 <p> Well, thank you very much Martin, to John Olsen, the Premier</p>
 <p>   of South Australia, to Cory Bernardi, recently elected as the new</p>
 <p>   President of the South Australian Division, and I extend my warm</p>
@@ -365,6 +355,4 @@
 <p>[ENDS]</p>
 <p>Questions</p>
 <p>   and Answers Session</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

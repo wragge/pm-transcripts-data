@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24689</transcript-id>
-    <title>A Message from the Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/08/2015</release-date>
-    <release-type></release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As you might be aware, Australia is on track to meet and beat our Kyoto targets.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24689</transcript-id><title>A Message from the Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/08/2015</field_date><release-type></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As you might be aware, Australia is on track to meet and beat our Kyoto targets.</p>
 <p>By 2020, we will have cut greenhouse gas emissions by five per cent on 2000 levels. That’s equivalent to a reduction of 13 per cent on 2005 levels.</p>
 <p>On a per capita basis, this is a better performance than the United States, Canada, Japan and Europe.</p>
 <p>Through the Government’s Direct Action policy, we’re taking sensible action here at home to improve the local environment and reduce emissions.</p>
@@ -21,6 +11,4 @@
 <p>A carbon tax, or an ETS, is really just a tax on everyone’s electricity bill.</p>
 <p>The Labor Party wants to bring the carbon tax back and force everyone to pay more.</p>
 <p>This Government will not.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22234</transcript-id>
-    <title>Address to the Menzies Research Centre Theatrette, Parliament House </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/04/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>**CHECK AGAINST DELIVERY**</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22234</transcript-id><title>Address to the Menzies Research Centre Theatrette, Parliament House </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/04/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>**CHECK AGAINST DELIVERY**</p>
 <p>Taxation: Keeping faith with Australian families</p>
 <p>I am delighted to be back at the Menzies Research Centre, an organisation with a unique place in the Liberal family.</p>
 <p>  It was at the Menzies Research Centre, prior to the 1996 election, where I began a series of speeches setting out the principles, values and policy direction which the Liberal and National Parties would follow in government.</p>
@@ -118,6 +108,4 @@
 <p> A country, as Edmund Burke observed, 'is not a thing of mere physical locality'.  Nor is it just individuals in a market place.  A country is also connected by a hidden chain of social obligations.</p>
 <p> By keeping faith with Australian families - their interests, aspirations, hopes and values - we have kept faith with Australia at its best.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

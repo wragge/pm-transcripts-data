@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18466</transcript-id>
-    <title>&#039;Australia and Korea: Partners and Friends&#039;, Speech to Yonsei University, Seoul</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/03/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18466</transcript-id><title><![CDATA[&#039;Australia and Korea: Partners and Friends&#039;, Speech to Yonsei University, Seoul]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/03/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prof Jeong Kap-young,President of Yonsei University.</p>
 <p>Mr Kim Woo-sang, President of the Korea Foundation.</p>
 <p>Distinguished guests and friends.</p>
@@ -149,6 +139,4 @@ Prof Jeong Kap-young,President of Yonsei University.</p>
 <p>We welcomed some of Korea's biggest reality television programs to our country last year  -  and tens of thousands of young Koreans and Australians watched your best known singing stars perform at a K-Pop concert in Sydney last year.</p>
 <p>Our friendship is strong and growing and when I return to Australia, I will do so enlivened and inspired by your Korean example.</p>
 <p>Because in education, in high speed broadband, in economic growth, in securing jobs, my country, like yours, sees great opportunities for each of us and both of us in the Asian Century that lies ahead. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

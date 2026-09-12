@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17935</transcript-id>
-    <title>Transcript of interview with David Koch, Sunrise</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/06/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17935</transcript-id><title>Transcript of interview with David Koch, Sunrise</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/06/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard joins me now. Prime Minister thanks for joining us. We had one of our big guns of politics Tony Burke on the show two weeks ago saying the deal is imminent. Now Bob Brown is saying it's a long way away. Are you frustrated by this? </p>
 <p>PM: We are working as hard as we can, Kochie, so no I'm not frustrated. I'm determined to get every detail of this package right. And yes, it's taking some time but pricing carbon is the right thing to do to tackle climate change. And Kochie, I'm well aware that these things can cause anxiety and I'm well aware there is a lot of concern out there and people want the details, but we are working hard and we will get there, Kochie, to price carbon. </p>
 <p>HOST: When will we get the details? Can you tell us or do we have to wait for Bob Brown to tell us? </p>
@@ -31,6 +21,4 @@ HOST: Prime Minister Julia Gillard joins me now. Prime Minister thanks for joini
 <p>People believe climate change is real. They want us to do something effective. The most effective thing we can do is put a price on the big polluters, get them to pay and they will work out how to reduce their carbon pollution. I want to look after families on the way through; that's why 9 out of 10 Australian households are going to get a tax or some other form of assistance.</p>
 <p>HOST: Alright Julia Gillard, thank you very much for joining us. We will be following it, as usual. Thank you.</p>
 <p>PM: Thanks, Kochie.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

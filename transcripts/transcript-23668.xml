@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23668</transcript-id>
-    <title>UN Security Council resolution on the downing of flight MH17</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>22/07/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The United Nations Security Council has unanimously adopted a resolution calling on the armed separatist groups controlling the MH17 crash site to allow unfettered access to international investigators.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23668</transcript-id><title>UN Security Council resolution on the downing of flight MH17</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>22/07/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The United Nations Security Council has unanimously adopted a resolution calling on the armed separatist groups controlling the MH17 crash site to allow unfettered access to international investigators.</p>
 <p>Australia played a lead role, authoring the resolution which was adopted in New York on July 21 (July 22 Australian time).</p>
 <p>It calls on the separatists to ensure the bodies of the 298 victims – including 28 Australians and nine Australian permanent residents – are treated with the utmost dignity and respect and returned to their grieving families.</p>
 <p>The resolution underlined the need for a full, thorough and independent international investigation into the crash and demanded all military activities in the area cease to allow immediate, safe, secure and unrestricted access to investigating authorities.</p>
@@ -18,6 +8,4 @@
 <p>Australia welcomes the UN Secretary-General’s offer of assistance to the investigation. The United Nations will continue to have a crucial role in the aftermath of the MH17 tragedy.</p>
 <p>Australia will continue to do everything in its power to ensure this barbaric act is thoroughly investigated and the perpetrators brought to justice.</p>
 <p>22 July 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

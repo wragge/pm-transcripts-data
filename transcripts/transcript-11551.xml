@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11551</transcript-id>
-    <title>VISIT TO TURKEY, FRANCE AND ISRAEL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/04/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11551</transcript-id><title>VISIT TO TURKEY, FRANCE AND ISRAEL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/04/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
  I will visit Turkey, France and Israel from 21 April to</p>
 <p> 4 May to attend Anzac Day memorial services at Gallipoli and to further</p>
 <p> strengthen Australia's relations with all three countries.</p>
@@ -39,6 +29,4 @@
 <p> and genuine peace in the Middle East and my discussions with Prime Minister</p>
 <p> Barak and with Chairman Arafat will encourage the efforts of all parties</p>
 <p> toward this objective.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

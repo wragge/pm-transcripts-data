@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22040</transcript-id>
-    <title>Doorstop Interview Grand Hotel, Busan, Korea </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/11/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22040</transcript-id><title>Doorstop Interview Grand Hotel, Busan, Korea </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/11/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well when we had the news conference I said I would check and I have done so and it is the case that Mrs Nguyen has been formally notified and the notification arrived this morning that her son would be executed on the 2nd of December.  It appears that what happened was that when my adviser left the meeting I was having with the Singaporean Prime Minister to ring Mr Lasry to notify Mr Lasry of the Singaporean Government's attitude.  At that point Mr Lasry did not know that the letter had arrived.  When he rang Mrs Nguyen he was informed by her that the letter had arrived and of its contents.  It indicates that the family will be allowed some additional visits to their son in the three days leading up to the execution.  That is the situation.  I was not aware, of course, that the letter was on its way during the discussion and I did not know of that date.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, does it strike you as odd that you're sitting in a room with the leader of Singapore in a bilateral meeting and he doesn't tell you that the Singaporean Government is notifying the family of the date of execution?</p>
@@ -21,6 +11,4 @@
 <p>I think it says something about this particular issue; I don't want to broaden it.  But I was very disappointed I was not told.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

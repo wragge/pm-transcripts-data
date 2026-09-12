@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18607</transcript-id>
-    <title>Transcript of interview with Linda Mottram, ABC Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/06/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, lovely to see you, thanks for your company.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18607</transcript-id><title>Transcript of interview with Linda Mottram, ABC Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/06/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, lovely to see you, thanks for your company.</p>
 <p>PM: Good morning Linda.</p>
 <p>HOST: You've moved quickly after that weekend red flag from the childcare sector about what's happening with costs and people leaving the sector. Now we've heard repeatedly you've put more than $22 billion into the sector. You've increased the childcare tax rebate from 30 to 50 percent. In light of that is there really a problem with fees going up in the childcare sector?</p>
 <p>PM: We have done a lot but I know people are worried about fee increases and long term affordability.</p>
@@ -107,6 +97,4 @@
 <p>They are improvements that will make a difference but it's a building on, not a huge redoing and that's what Nicola Roxon announced yesterday.</p>
 <p>HOST: Prime Minister very good to have you in the studio. Thanks for your time today.</p>
 <p>PM: Terrific to be here, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

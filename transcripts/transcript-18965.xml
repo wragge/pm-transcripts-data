@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18965</transcript-id>
-    <title>Speech to the Gala Dinner - Fortieth Anniversary of Diplomatic Relations Between Australia and The People&#039;s Republic Of China</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/12/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Parliament House, Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18965</transcript-id><title><![CDATA[Speech to the Gala Dinner - Fortieth Anniversary of Diplomatic Relations Between Australia and The People&#039;s Republic Of China]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/12/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Parliament House, Canberra</p>
 <p>ACKNOWLEDGEMENTS OMITTED </p>
 <p>In a formal sense, we gather as friends to acknowledge a single diplomatic event in the life of our two countries.</p>
 <p>On December 21, 1972, in Paris, the Governments of Australia and China signed a joint communiqué.</p>
@@ -71,6 +61,4 @@
 <p>And sharing a bright future together.</p>
 <p>So tonight I pay tribute to a nation esteemed by Australia and honoured in the world.</p>
 <p>Our true and enduring friend: The People's Republic of China.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

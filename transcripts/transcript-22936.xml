@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22936</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/11/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Strike in Victoria; COAG meeting; petrol prices; banks; education funding; Fiji.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22936</transcript-id><title>Interview with Neil Mitchell, Radio 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/11/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Strike in Victoria; COAG meeting; petrol prices; banks; education funding; Fiji.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MITCHELL:</p>
 <p>Mr Howard good morning.</p>
@@ -256,6 +246,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

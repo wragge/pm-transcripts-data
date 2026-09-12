@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21072</transcript-id>
-    <title>Doorstop Interview Darwin </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/01/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21072</transcript-id><title>Doorstop Interview Darwin </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/01/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, a year since the Canberra bushfires, you';ve got a statement…</p>
 <p>PRIME MINISTER:</p>
 <p>Well a very strong recollection of the tremendous courage and community spirit displayed by the people of Canberra, in doing so they rallied wonderfully as a community and won a new respect and new empathy from the rest of Australia for looking after themselves and clubbing together in the face of adversity.  The Commonwealth Government over the last year has provided general assistance of about $15 million for bushfires, we';re helping with the rebuilding of the Mt Stromlo Observatory, a tragic scientific loss, and generally working very closely with the ACT Government to help the Canberra community recover from the terrible bushfires of a year ago.</p>
@@ -27,6 +17,4 @@
 <p>It was a great day, it was an exciting day for the Territory but also a very significant day for Australia, it shows what happens when Australians work together at different levels of government, a great tribute to the engineering skill and a reminder, both of our past, because this has been a long time coming, but also important to our future because it will provide a great bridge into Asia and further consolidate our trade links with the countries of south-east Asia.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

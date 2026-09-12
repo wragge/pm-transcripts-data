@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18342</transcript-id>
-    <title>Transcript of interview with Kieran Gilbert, Sky News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/01/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18342</transcript-id><title>Transcript of interview with Kieran Gilbert, Sky News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/01/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, thank you very much for your time, thanks for joining us on Sky News.</p>
 <p>Will you still honour your deal with Andrew Wilkie to introduce pre-commitment technology for poker machines in Australia?</p>
 <p>PM: Well Kieran, happy new year and I can say I am in discussions with Mr Wilkie about poker machine reform and about problem gambling, and what lies behind all of this is I am very concerned about the damage done by problem gambling and I think my experience is probably the same as many other members of parliament. We see the consequences of problem gambling in our electorate offices, we see the numbers coming in looking for the emergency relief because the dad's got a problem with poker machine addiction and they literally can't feed the kids.</p>
@@ -49,6 +39,4 @@ HOST: Prime Minister, thank you very much for your time, thanks for joining us o
 <p>What also disappoints me is some of the ridiculous claims, dangerous claims, we've seen made by the Opposition about our position as a Government and as a nation. Global markets are skittish. It's the wrong time to be saying silly things. We are a nation that has got the coveted AAA rating from all three ratings agencies for the first time in our history. That's because markets are saying Australia is taking the right approach on fiscal discipline.</p>
 <p>HOST: Prime Minister, thanks for your time.</p>
 <p>PM: Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

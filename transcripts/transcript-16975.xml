@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16975</transcript-id>
-    <title>Australian-built Toyota hybrid Camry    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/12/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Toyota Australia has launched the first ready-for-sale hybrid vehicle to be built in Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16975</transcript-id><title>Australian-built Toyota hybrid Camry    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/12/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Toyota Australia has launched the first ready-for-sale hybrid vehicle to be built in Australia.</p>
 <p>The Hybrid Camry increases consumer choice by giving motorists the option of buying an Australian-made hybrid.</p>
 <p>It expands Australia's manufacturing capacity today, and provides a platform for future growth.</p>
 <p>It gives us a practical way to reduce greenhouse gas emissions - and to do it right now.</p>
@@ -22,6 +12,4 @@
 <p>The Australian Government is supporting the production of the vehicle with $35 million in funding from the $1.3 billion Green Car Innovation Fund, a key element of A New Car Plan for a Greener Future.</p>
 <p>The Victorian Government also made a significant contribution.</p>
 <p>The Government is working with other Australian car and component manufacturers on ways to build cleaner, greener cars that reduce carbon emissions and improve fuel efficiency.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

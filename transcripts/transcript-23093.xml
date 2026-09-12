@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23093</transcript-id>
-    <title>Address to Commonwealth Heads of Government Meeting Opening Ceremony</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/11/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Your Royal Highnesses, Mr President, Excellencies, ladies and gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23093</transcript-id><title>Address to Commonwealth Heads of Government Meeting Opening Ceremony</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/11/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Your Royal Highnesses, Mr President, Excellencies, ladies and gentlemen.</p>
 <p>The Commonwealth spans 53 countries with 30 per cent of the world’s population, 20 per cent of the world's land mass but just 15 per cent of the world's GDP and it's our job to improve that.</p>
 <p>The Commonwealth is not a community of power, wealth, geography, religion or language, so much as a community of values.</p>
 <p>We believe in democracy based on the rule of law.</p>
@@ -35,6 +25,4 @@
 <p>My friends, this Commonwealth can make a difference in many corners of the world, for example encouragement and the instinct to find common ground wherever possible, based on shared values.</p>
 <p>May these days of discussion foster all our best instincts.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

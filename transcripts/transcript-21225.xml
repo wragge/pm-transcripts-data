@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21225</transcript-id>
-    <title>Anzac Day  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/04/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our veteran ranks are diminishing with every passing year but the spirit of Anzac continues to strengthen its hold on the affections of the Australian people.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21225</transcript-id><title>Anzac Day  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/04/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our veteran ranks are diminishing with every passing year but the spirit of Anzac continues to strengthen its hold on the affections of the Australian people.</p>
 <p> With courage and tenacity, the young Australians who landed on the shores of Gallipoli eighty-nine years ago came to symbolise the struggle of a hopeful nation starting to make its way in the world.</p>
 <p>  The honour of their deeds and those who fought in later conflicts helped to shape the destiny of a people who value decency and mateship, who strive for fairness and stand up for what is right, whatever the cost.</p>
 <p>  We remember the fallen and express our enduring gratitude to those fortunate enough to return home.  Their bravery has helped to enshrine Anzac Day as an occasion of remembrance and a time of reflection for all Australians.</p>
@@ -17,6 +7,4 @@
 <p>Australia';s military personnel are now assisting the cause of peace and freedom in Iraq, the Solomon Islands, East Timor, just as they have played their part in the War against Terrorism in Afghanistan.</p>
 <p>Special honour is reserved for our soldiers, sailors and air force men and women in the Gulf who, in the best traditions of the Australian military, continue to bring credit to our country by helping liberate the oppressed people of Iraq.</p>
 <p>Theirs is a proud record of service to our nation that derives its strength from the devotion of loved ones at home and we thank them especially, for the special sacrifice they continue to make for us all.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

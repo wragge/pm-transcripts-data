@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40125</transcript-id>
-    <title>John Bannon AO</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>13/12/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was very sad to learn tonight of the death of John Bannon.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40125</transcript-id><title>John Bannon AO</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>13/12/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was very sad to learn tonight of the death of John Bannon.</p>
 
 <p>He was chairman of the expert advisory panel on reform of the federation and it was only on Thursday that we met to discuss those issues. He spoke with the wisdom of experience and the clarity and enthusiasm of someone totally committed to the issues of today and the challenges of tomorrow.</p>
 
@@ -20,6 +10,4 @@
 <p>John was the Labor Party’s longest serving State Premier in South Australia. He was loved, admired and well-respected by all who worked with him.</p>
 
 <p>Our thoughts and prayers are with his wife, Angela, his family and many friends.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

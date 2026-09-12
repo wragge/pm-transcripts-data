@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40285</transcript-id>
-    <title>Gateway WA now complete</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Gateway WA project has been completed almost a year ahead of schedule and under budget.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40285</transcript-id><title>Gateway WA now complete</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Gateway WA project has been completed almost a year ahead of schedule and under budget.</p>
 <p>This project has delivered a safer and more efficient transport network around Perth Airport and the freight and industrial areas of Kewdale and Forrestfield.</p>
 <p>The Gateway WA project is the largest road project undertaken in Perth to date which was jointly funded through a $676 million investment from the Federal Government and $310 million from the Western Australian Government.</p>
 <p>The project, which at its peak employed over 1,000 construction workers, delivers a fully upgraded road network around Perth Airport and nearby Forrestfield and Kewdale industrial estates.</p>
@@ -20,6 +10,4 @@
 <p>The Gateway WA project will ease congestion, improve safety and reduce delays for the thousands of road users who access the airport and surrounding areas every day.</p>
 <p>The road network now has the capacity to cater for increasing demand. The number of passengers travelling to and from Perth Airport is expected to double in the next decade and freight transport movements within the Kewdale Industrial Precinct are also expected to double by 2030.</p>
 <p>The Gateway WA project was delivered by an alliance consisting of CPB Contractors (formerly Leighton Contractors), Georgiou, GHD, AECOM and BG&amp;E, together with Main Roads Western Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

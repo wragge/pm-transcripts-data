@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41050</transcript-id>
-    <title>Doorstop - Paris, France</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/07/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>France, Future Submarine Program, G20, President Trump, Same-sex marriage, President Macron</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41050</transcript-id><title>Doorstop - Paris, France</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/07/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>France, Future Submarine Program, G20, President Trump, Same-sex marriage, President Macron</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>I want to thank again on behalf of myself and Lucy, President Macron and his wife Brigitte for their extraordinary warmth and hospitality and friendship they showed us yesterday and last night at the Élysée Palace.</p>
 <p>It really was a great opportunity to spend a lot of time with the President and his wife and to discuss his agenda. He is of course the youngest President of the French Republic. He’s come through the centre of politics. You could say he stands in the sensible centre of French politics and has won a remarkable victory, both in the Presidential election and of course in the parliamentary elections just concluded.</p>
 <p>It was great to have a very extended opportunity to talk with him on the plane. He gave us a lift as you know from Hamburg to Paris and then last night at the Élysée Palace.</p>
@@ -50,7 +40,7 @@
 <p>Just on a domestic issue, a renewed push at home on same-sex marriage led by Dean Smith. Are you disappointed that this is happening despite your words only a couple of weeks ago on this to try and calm this down?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>On that matter all I can say is that the Government’s policy is very clear. We support a plebiscite where all Australians will be given a vote on the matter and that remains our policy. So, that’s really all I can say about it.</p>
-<p>It is critical that all Australians be given a say and the only reason they haven’t been given that say is because of Bill Shorten playing politics with the issue. </p>
+<p>It is critical that all Australians be given a say and the only reason they haven’t been given that say is because of Bill Shorten playing politics with the issue.&nbsp;</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>But are you urging Dean Smith to do this? Are you urging him to not do this or are you staying out of it?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -92,6 +82,4 @@
 <p>I’ll be talking about freedom in the context of national security. That will be main theme of the speech.</p>
 <p>Okay thank you all very much. See you in Cherbourg.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

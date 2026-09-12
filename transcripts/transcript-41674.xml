@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41674</transcript-id>
-    <title>Press Conference with the Minister for Finance and the Treasurer</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>21/06/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Personal income tax relief; National Energy Guarantee</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41674</transcript-id><title>Press Conference with the Minister for Finance and the Treasurer</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>21/06/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Personal income tax relief; National Energy Guarantee</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Today is a great day for hard-working Australian families. Because of our comprehensive personal income tax reform, they will be able to keep more of the money they earn.</p>
 <p>This is the most comprehensive reform of personal income tax in a generation.</p>
 <p>It means that from next year, middle income Australian families with two parents, each working in middle income jobs, will have over $1,000 returned in a tax offset. As the whole plan rolls out to 2024/25, we will get to the point where 94 per cent of Australians will not have to pay more than 32.5 cents on every extra dollar they earn.</p>
@@ -75,6 +65,4 @@
 <p>And that is why they have voted against our personal income tax reform. And on that note, Question Time calls. You are not the only interrogators we face in this building.</p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

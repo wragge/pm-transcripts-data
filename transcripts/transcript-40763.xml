@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40763</transcript-id>
-    <title>75th anniversary of the Bombing of Darwin</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/02/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, we mark an important date in our history: the 75th anniversary of the Bombing of Darwin.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40763</transcript-id><title>75th anniversary of the Bombing of Darwin</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/02/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, we mark an important date in our history: the 75th anniversary of the Bombing of Darwin.</p>
 <p>At 9.58am on 19 February, 1942, Japanese aircraft began bombing the city of Darwin.</p>
 <p>We remember that more than 240 people were killed during two attacks on that day. The bombing was indiscriminate, killing military and civilian, men and women, young and old.</p>
 <p>It remains the single largest and most devastating attack by a foreign power on our nation and it brought war to Australian shores for the first time.</p>
@@ -23,6 +13,4 @@
 <p>Among the dignitaries to attend today’s commemoration were the Governor-General, His Excellency General the Honourable Sir Peter Cosgrove AK MC (Retd), His Excellency Mr Sumio Kusaka, Ambassador of Japan and USA Embassy Charge d’Affaires James Carouso.</p>
 <p>The attendance of the senior representatives of Japan and the USA is a strong sign of the friendship our countries share and the respect we have for each other.</p>
 <p>The Bombing of Darwin Day has been a national day of observance since 2011.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

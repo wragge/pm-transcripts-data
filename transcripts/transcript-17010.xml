@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17010</transcript-id>
-    <title>Prime Minister Minister for Health Minister for Indigenous Health, Rural and Regional Health and Regional Services Delivery Member for Solomon</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/01/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today officially opened the $27.8 million Darwin Radiation Oncology facility.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17010</transcript-id><title>Prime Minister Minister for Health Minister for Indigenous Health, Rural and Regional Health and Regional Services Delivery Member for Solomon</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/01/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today officially opened the $27.8 million Darwin Radiation Oncology facility.</p>
 <p>To be known as the Alan Walker Cancer Care Centre, the facility means cancer patients in the Northern Territory will no longer have to travel to Adelaide to undertake their radiation treatment.</p>
 <p>Minister for Health Aging, Nicola Roxon said $19 million was provided by the Rudd Government for construction of the Radiation Oncology facility, with a further $8.8 million being provided for fit out and equipment.</p>
 <p>The first of the two state of the art "linear accelerator" machines for the unit has been installed and is currently undergoing preparations for precision use. The facility is expected to start taking appointments in March, with the first patient to use the facility due in April.</p>
@@ -29,6 +19,4 @@
 <p>Almost 100 consultations have now been held around the nation to discuss the ideas in the National Health and Hospitals Reform Commission's final report.</p>
 <p>Today's meeting gave local health professionals an opportunity to give their perspective on the Commission's 123 recommendations, which would change health care at all levels.</p>
 <p>All Australians are also able to contribute to the national debate on our health system via the yourHealth.gov.au website, which also has copies of the reform reports.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

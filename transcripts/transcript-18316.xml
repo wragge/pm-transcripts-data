@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18316</transcript-id>
-    <title>$30 million to boost Adelaide Oval redevelopment</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/12/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18316</transcript-id><title>$30 million to boost Adelaide Oval redevelopment</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/12/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard, Minister for Sport Mark Arbib and Member for Adelaide Kate Ellis today announced the Australian Government would provide $30 million towards the redevelopment of Adelaide Oval.</p>
 <p>With support from the Federal and South Australian Governments, Adelaide Oval will be redeveloped into a 50,000 seat world-class multi-sport venue.</p>
 <p>The Gillard Government funding will go towards the construction of two new underground car parks, creating more parking solutions in the precinct and freeing up space on residential streets.</p>
@@ -19,6 +9,4 @@ Prime Minister Julia Gillard, Minister for Sport Mark Arbib and Member for Adela
 <p>As one of the most recognisable cricket grounds in the world, the Adelaide Oval has been the stage for some of the world's best cricket since 1871.</p>
 <p>Following the redevelopment, AFL games will also be played at the oval for the first time in 40 years.</p>
 <p>The South Australian Government committed $535 million to the Oval's upgrade. Construction is scheduled to begin in March 2012 after the current cricket season.  The redevelopment is scheduled to be completed in time for the AFL season in 2014.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15606</transcript-id>
-    <title>Doorstop Interview, Imperial Hotel, Tokyo</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/03/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15606</transcript-id><title>Doorstop Interview, Imperial Hotel, Tokyo</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/03/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Visit to Japan; Free Trade Agreement; Labor MPs.</p>
 <p>E&amp;OE...</p>
 <p>   PRIME MINISTER:</p>
@@ -80,6 +70,4 @@ Visit to Japan; Free Trade Agreement; Labor MPs.</p>
 <p>PRIME MINISTER:</p>
 <p>Too early to say Jim. Let the negotiations begin. It's going to be very hard because it's a sensitive issue here, but from our point of view, we want to make some progress. We don't do too badly in relation to things like beef at the moment into Japan, we do very well. But we'd like to do even better because it's a high quality product.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

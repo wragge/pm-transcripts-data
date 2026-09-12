@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17211</transcript-id>
-    <title>Prime Minister Premier of New South Wales $38.6 million for new and enhanced cancer services for the central coast 14 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government and NSW Government will invest $38.6 million to enhance cancer services at Gosford and Wyong Hospitals as part of the Central Coast Regional Cancer Service.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17211</transcript-id><title>Prime Minister Premier of New South Wales $38.6 million for new and enhanced cancer services for the central coast 14 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government and NSW Government will invest $38.6 million to enhance cancer services at Gosford and Wyong Hospitals as part of the Central Coast Regional Cancer Service.</p>
 <p>The Rudd Government will provide $28.6 million and the NSW Government will provide a further $10 million, to provide the full spectrum of cancer services, including prevention and screening, treatment, palliative and supportive care.</p>
 <p>With some cancers, patients from rural areas are up to three times more likely to die within five years of diagnosis than their counterparts in urban areas. The $38.6 million investment in Gosford and Wyong will work towards improving the services and care for the more than 32,000 NSW residents diagnosed with cancer each year.</p>
 <p>The new facility at Gosford will include the construction of three radiotherapy bunkers, installation of two linear accelerators, a CT scanner and an additional five chemotherapy treatment chairs.</p>
@@ -22,6 +12,4 @@
 <p>Today's announcement also shows the benefit of the Federal Government stepping up to the plate and providing funding for health services across Australia.</p>
 <p>Under the National Health and Hospitals Network, the Rudd Government would provide 60 per cent of the funding for capital upgrades for public hospitals.</p>
 <p>The Rudd Government's plan will see health services funded nationally and run locally through local hospital networks to deliver better outcomes for local communities. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

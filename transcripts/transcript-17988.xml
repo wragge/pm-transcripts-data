@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17988</transcript-id>
-    <title>Transcript of interview with Fran Kelly, Radio National</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17988</transcript-id><title>Transcript of interview with Fran Kelly, Radio National</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard is in our Sydney studio. Welcome to the program.</p>
 <p>PM: Good morning Fran.</p>
 <p>HOST: Prime Minister what will the price of carbon be in 2020, because in the documents you released yesterday, and there were many of them, Treasury's default escalator estimates $48 a tonne by 2020. Is Tony Abbott right when he says this carbon price is just going to keep going up and up and up?</p>
@@ -49,6 +39,4 @@ HOST: Prime Minister Julia Gillard is in our Sydney studio. Welcome to the progr
 <p>That means our economy has got a big journey of transition, it's not going to be achieved over night, but it's never going to be achieved unless we start and that's why we've got to get on with pricing carbon from 1 July next year.</p>
 <p>HOST: Prime Minister thank you very much for joining us.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

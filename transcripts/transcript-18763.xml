@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18763</transcript-id>
-    <title>New world-class prostate research centre for Sydney </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/08/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18763</transcript-id><title>New world-class prostate research centre for Sydney </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/08/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>Prime Minister Julia Gillard, Deputy Prime Minister Wayne Swan and Minister for Health Tanya Plibersek today announced Sydney would have a new centre of excellence to research and treat prostate cancer.</p>
 <p>The centre will be Australia's third Prostate Cancer Research Centre, located in the Kinghorn Cancer Centre at the St Vincent's Research Precinct in Darlinghurst, Sydney.</p>
 <p>Speaking at the opening of the Kinghorn Cancer Centre, the Prime Minister said the new prostate cancer research facility would bring together both clinical and research expertise in a joint initiative between the prestigious Garvan Institute, St Vincent's &amp; Mater Hospitals, and the St Vincent's Prostate Cancer Centre.</p>
@@ -22,6 +12,4 @@
 <p>Together, these three centres will save lives.</p>
 <p>Minister for Health Tanya Plibersek said the new centre builds on the Gillard Government's unprecedented investment to reduce the burden of cancer in Australia.</p>
 <p>The Gillard Government's has committed $2.5 billion to build a world-class cancer care system to improve the detection and treatment of cancer, and, through the nation-building Health and Hospitals Fund, establish a network of regional cancer centres and accommodation facilities.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

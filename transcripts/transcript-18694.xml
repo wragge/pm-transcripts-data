@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18694</transcript-id>
-    <title>Transcript of interview with Paula Tapiolas, ABC Northern Queensland</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: The Prime Minister is due in Townsville around lunchtime. Julia Gillard spent the night in Rockhampton and joins us from our Rockhampton ABC studios, Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18694</transcript-id><title>Transcript of interview with Paula Tapiolas, ABC Northern Queensland</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: The Prime Minister is due in Townsville around lunchtime. Julia Gillard spent the night in Rockhampton and joins us from our Rockhampton ABC studios, Prime Minister, good morning.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Regional Queensland is very interested in the prospect of attracting a G20 Financial Ministers' meeting, now when are you going to announce the region that will host that meeting?</p>
 <p>PM: Look, we'll be working on that in the next couple of months so it won't be too long before people know. Obviously some work's got to be done and some assessments about where is the best place and has the necessary capacity to do it. But I do think it's very exciting news that the G20 is coming to Brisbane, and that the Finance Ministers' meeting will be in regional Queensland.</p>
@@ -54,6 +44,4 @@
 <p>PM: Look, we do have something to say, which we'll do when we get there. I'm being mysterious, I know.</p>
 <p>HOST: Well it will all be revealed no doubt later this morning. Now Prime Minister, thank you very much.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

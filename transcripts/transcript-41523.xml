@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41523</transcript-id>
-    <title>Doorstop, Unanderra, NSW</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/03/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41523</transcript-id><title>Doorstop, Unanderra, NSW</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/03/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Fantastic jobs numbers everyone. This has been a day of setting records.</p>
 <p>I’m here with the Member for Gilmore Ann Sudmalis and Gary Stewart, the Chief Executive of Rheinmetall Australia and Greg Alton, our host, the Chief Executive of Bisalloy.</p>
 <p>Now today we have seen that over the last 12 months, the largest number of jobs created in Australia ever, 420,700.</p>
@@ -135,6 +125,4 @@
 <p>What have you got planned?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>We'll just catch up and have a chat. Okay thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

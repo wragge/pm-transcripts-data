@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17085</transcript-id>
-    <title>Transcript of interview with Barrie Cassidy Insiders   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CASSIDY: The Prime Minister joins us from our Adelaide studios. Good morning, and welcome.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17085</transcript-id><title>Transcript of interview with Barrie Cassidy Insiders   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CASSIDY: The Prime Minister joins us from our Adelaide studios. Good morning, and welcome.</p>
 <p>PM: Good morning Barrie.</p>
 <p>CASSIDY: Now that you have stripped Peter Garrett of his responsibilities for energy efficiency, does that make him a second class Minister?</p>
 <p>PM: What it means is that when it comes to the key task of environment protection, which is the core responsibility of the Department of the Environment, that's where he now focuses his energies. I think it's quite plain as day that the way in which functions have been added on to the Environment Department over quite a number of years, that it's actually taken it away from its core responsibilities- the implementation of the Environment Protection and Biodiversity Act, key decisions like Traveston Dam in Queensland, key decisions like what's necessary for the pulp mill in Tasmania, and other major projects like that.</p>
@@ -67,6 +57,4 @@
 <p>The language may not be pretty from time to time. I may not be the King of the sound bite, accept that. I may be misunderstood. We all need to improve on that score. I intend to get on with the job.</p>
 <p>CASSIDY: Well, we appreciate you communicating with us this morning.</p>
 <p>PM: Appreciate it Barrie.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

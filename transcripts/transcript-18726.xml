@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18726</transcript-id>
-    <title>Australia farewells art critic and author Robert Hughes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/08/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18726</transcript-id><title>Australia farewells art critic and author Robert Hughes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/08/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>One of Australia and the world's most respected art critics, Australian Robert Hughes, has died in New York at the age of 74.</p>
 <p>With his death, Australia has not only lost a frank critic and writer, but also an esteemed historian who made significant contributions to tracing and telling Australia's colonial history.</p>
 <p>Few people who ever lived can have been so completely cosmopolitan, and completely Australian as Robert Hughes.  His was, in every sense, a great Australian voice.</p>
@@ -22,6 +12,4 @@
 <p>Among his many honours were a NSW Premier's Literary Award for his memoir Things I Didn't Know, and London's Sunday Times 2000 Writer of the Year.</p>
 <p>He received honorary degrees from the universities of Melbourne and New York, was elected to the American Academy of Arts and Sciences, declared an Australian National Living Treasure and made an Officer of the Order of Australia in 1991.</p>
 <p>Our thoughts today are with his wife Doris Downes Hughes and his family.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

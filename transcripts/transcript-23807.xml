@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23807</transcript-id>
-    <title>Duke and Duchess of Cambridge</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/09/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I congratulate the Duke and Duchess of Cambridge on the impending birth of their second child.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23807</transcript-id><title>Duke and Duchess of Cambridge</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/09/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I congratulate the Duke and Duchess of Cambridge on the impending birth of their second child.</p>
 <p>It is an exciting time in any young family’s life.</p>
 <p>People across the country were delighted to welcome the Duke and Duchess and young Prince George to our shores earlier this year.</p>
 <p>The young Royals’ deep and growing affection for Australia was evident and people delighted in meeting the young Prince.</p>
 <p>This is an exciting time for the Cambridges and I look forward to welcoming their growing family back to Australia.</p>
 <p>8 September 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

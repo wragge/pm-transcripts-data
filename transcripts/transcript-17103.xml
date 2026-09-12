@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17103</transcript-id>
-    <title>Better Health, Better Hospitals    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/03/2010</release-date>
-    <release-type>Website Updates</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announced the biggest changes to our health and hospital system since the introduction of Medicare.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17103</transcript-id><title>Better Health, Better Hospitals    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/03/2010</field_date><release-type>Website Updates</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announced the biggest changes to our health and hospital system since the introduction of Medicare.</p>
 <p>These reforms will deliver better hospitals and better health across the nation. They will create a single national hospital and health care system which is more responsive to local health care needs.</p>
 <p>Funded nationally, and run locally, the National Health and Hospitals Network will:</p>
 <p>     * Create a single national network of hospitals, instead of eight separate systems</p>
@@ -19,6 +9,4 @@
 <p>Yours sincerely</p>
 <p>Kevin Rudd</p>
 <p>Prime Minister</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

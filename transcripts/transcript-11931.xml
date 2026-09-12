@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11931</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: US terrorist attacks, Ansett collapse; economic conditions</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11931</transcript-id><title>Interview with Neil Mitchell, Radio 3AW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: US terrorist attacks, Ansett collapse; economic conditions</p>
 <p>E&amp;OE................................</p>
 <p>MITCHELL:</p>
 <p>First today a message direct from the Australian Prime Minister Mr John Howard in our Sydney studio. Mr Howard, good morning.</p>
@@ -135,6 +125,4 @@
 <p>Thank you very much for your time.</p>
 <p>PRIME MINISTER:</p>
 <p>A pleasure.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

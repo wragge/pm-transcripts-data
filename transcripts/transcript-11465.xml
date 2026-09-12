@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11465</transcript-id>
-    <title>Doorstop, Moree </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E &amp; OE.....</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11465</transcript-id><title>Doorstop, Moree </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E &amp; OE.....</p>
 <p>Subjects: reconciliation; cotton industry</p>
 <p>JOURNALIST:</p>
 <p>Is this an example of practical reconciliation?</p>
@@ -40,6 +30,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I can assure the industry generally that the decisions we take on that will be fair and reasonable and will not damage them. More importantly though I can also assure them that under this government there will continue to be very good economic conditions which have bought about the growth of the industry or helped to bring about the growth of the industry and that's very important also. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

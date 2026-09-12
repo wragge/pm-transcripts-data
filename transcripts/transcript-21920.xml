@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21920</transcript-id>
-    <title>Press Conference United Nations </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/09/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21920</transcript-id><title>Press Conference United Nations </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/09/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well thank you very much Mr Ambassador. I've called this news conference to announce that Australia will embrace a goal of increasing its overall aid allocation to around $A4 billion by the year 2010. This goal if achieved will represent a doubling of Australia's overseas aid from current levels. The aid programme will continue to be subject to annual reviews in the decision making processes of the Australian Budget, and additional aid will be subject to the Government being satisfied that progress has been made in relation to improving standards of governance and reducing corruption in recipient countries.</p>
 <p>This decision reflects the overall, very strong commitment that Australia has always made to overseas development assistance. Our priority will remain as it should, the Asia Pacific region, an area which is not only geographically adjacent to our country but also an area where we have invested quite properly the great bulk of our overseas aid over the years.</p>
 <p>The generosity of the Australian people in recent months towards others needing assistance was dramatically illustrated in the response of the Australian public to the tsunami disaster, and given the size of our country, the overall of performance, at both a government level and an individual level in response to that disaster was arguably greater than that of any country in the world.</p>
@@ -84,6 +74,4 @@
 <p>Well you'd have to be, you must always remain hopeful, I think it's difficult but I think it's a big mistake to say, to embrace words like failure, at this stage.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

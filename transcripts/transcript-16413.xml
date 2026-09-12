@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16413</transcript-id>
-    <title>Anniversary of Apology to the Stolen Generations    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A year ago today, the Australian Parliament formally apologised to members of the Stolen Generations for the policies of past governments.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16413</transcript-id><title>Anniversary of Apology to the Stolen Generations    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A year ago today, the Australian Parliament formally apologised to members of the Stolen Generations for the policies of past governments.</p>
 <p>The Apology was a starting point for reconciliation, and the beginning of building a bridge of respect between Indigenous and non-Indigenous Australians.</p>
 <p>The hardest work is ahead of us.</p>
 <p>Our challenge, as the Government outlined one year ago, is to close the gap between Indigenous and non-Indigenous Australians  -  so that Indigenous Australians can share fully in the life of our nation.</p>
@@ -18,6 +8,4 @@
 <p>And there has never been such agreement as there now is between all levels of government to work together and make a difference.</p>
 <p>Later this month, when Parliament next sits, I will deliver a report card on progress in the first 12 months since the apology.</p>
 <p>This is the next step towards one of the greatest and most important challenges facing our nation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12029</transcript-id>
-    <title>Press Conference, Tamworth </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/11/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><i>Subjects: family benefits; illegal immigration; Telstra; superannuation; Labor – Greens preference deal; suicide prevention; </i></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12029</transcript-id><title>Press Conference, Tamworth </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/11/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><i>Subjects: family benefits; illegal immigration; Telstra; superannuation; Labor – Greens preference deal; suicide prevention; </i></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Kim Beazley has called the Centrelink letters the scandal of the campaign, what is your response to that?</p>
@@ -24,7 +14,7 @@
 <p>PRIME MINISTER:</p>
 <p>No, no, Mr Beazley is grabbing hold of anything. He’s reached the stage of the campaign, we’re into the cobble together time in the campaign and we’ve had another example today with these family accounts.</p>
 <p>JOURNALIST:</p>
-<p>Prime Minister do you promise that Telstra won’t be sold until services in the bush are up to scratch?   What does up to scratch mean, and does it mean that people in the bush can expect the same service as people in the city?</p>
+<p>Prime Minister do you promise that Telstra won’t be sold until services in the bush are up to scratch?&nbsp;&nbsp;&nbsp;What does up to scratch mean, and does it mean that people in the bush can expect the same service as people in the city?</p>
 <p>PRIME MINISTER:</p>
 <p>Well the goal is to have an equality of services, that’s the ideal, of course it is. How will it be measured, it will be measured like all things are measured, the Government will decide but we won’t do it in isolation from talking to people like these two men beside me and other representatives of rural seats, we’ll talk to the NFF, we’ll talk to all sorts of people who represent rural Australians.</p>
 <p>JOURNALIST:</p>
@@ -90,7 +80,7 @@
 <p>JOURNALIST:</p>
 <p>So how can you measure it?</p>
 <p>PRIME MINISTER:</p>
-<p>Well people make judgements on a whole variety of things.   Look can we just say it again that we are not going to sell any further shares in Telstra until services in the bush have been brought up to scratch. And you know we don’t believe in digital divide. We believe that people in the bush are entitled to the sort of services that are available to people in the cities and the very nature of telecommunications makes the delivery of that sort of commitment quite feasible.</p>
+<p>Well people make judgements on a whole variety of things.&nbsp;&nbsp;&nbsp;Look can we just say it again that we are not going to sell any further shares in Telstra until services in the bush have been brought up to scratch. And you know we don’t believe in digital divide. We believe that people in the bush are entitled to the sort of services that are available to people in the cities and the very nature of telecommunications makes the delivery of that sort of commitment quite feasible.</p>
 <p>JOURNALIST:</p>
 <p>On Greens preferences, where is that going to hurt?</p>
 <p>PRIME MINISTER:</p>
@@ -145,6 +135,4 @@
 <p>Well you have a look at the totality of the policy and you will see that there are pieces in it for every income range and that is important.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

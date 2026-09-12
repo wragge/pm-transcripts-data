@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17973</transcript-id>
-    <title>Support for local communities to move to a clean energy economy</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17973</transcript-id><title>Support for local communities to move to a clean energy economy</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Regional Australia, Regional Development and Local Government Simon Crean today outlined support to assist Australian communities and regions to move to a clean energy future. </p>
 <p>The Government is committed to supporting local communities to make the adjustment to a clean energy future. </p>
 <p>New funding to assist communities and regions includes: </p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard and Minister for Regional Australia, Regional Devel
 <p>It will also transform the heaviest polluting developed economy on a per person basis into a clean energy economy where the link between carbon pollution and economic growth has been broken. </p>
 <p>This fundamental reform will bring challenges and opportunities around the nation's communities and regions. With the Government's help, our regions, as well as the rest of the community, will prosper in our new clean energy future. </p>
 <p>Further information in relation to the Government's clean energy future and carbon price announcement is available at <a href="http://www.cleanenergyfuture.gov.au">www.cleanenergyfuture.gov.au</a>  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

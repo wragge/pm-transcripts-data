@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40688</transcript-id>
-    <title>Radio interview with Steve Austin ABC Radio Brisbane</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/01/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40688</transcript-id><title>Radio interview with Steve Austin ABC Radio Brisbane</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/01/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
 <p>The Prime Minister is in Queensland, in fact in Brisbane today. Prime Minister, good morning to you.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning Steve, great to be with you.</p>
@@ -36,7 +26,7 @@
 <p><strong>STEVE AUSTIN:</strong></p>
 <p>So you don’t know who’ll be representing Australia at the inauguration of our most important ally?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>It is very much -  the inauguration is very much a domestic event. I am not aware of foreign leaders being invited to the inauguration because the significance is of course the Americans as they say, ‘There is one President at a time’, so until that moment that President Trump is inaugurated, President Obama is the President. But my recollection is that amid a large audience, the diplomatic corp are present. That’s my recollection.</p>
+<p>It is very much -&nbsp; the inauguration is very much a domestic event. I am not aware of foreign leaders being invited to the inauguration because the significance is of course the Americans as they say, ‘There is one President at a time’, so until that moment that President Trump is inaugurated, President Obama is the President. But my recollection is that amid a large audience, the diplomatic corp are present. That’s my recollection.</p>
 <p><strong>STEVE AUSTIN:</strong></p>
 <p>Okay.</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -63,7 +53,7 @@
 <p><strong>STEVE AUSTIN:</strong></p>
 <p>Why do we need another one then?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Let me explain. What I am doing is the biggest reform of transparency and accountability of parliamentary expenses in a generation. What we will have is we will take the administrative part of the Department of Finance, it will be the same people, they will be under independent management. They will have an independent board that will be able to be an independent watchdog to make sure that there is monthly reporting, full accountability and that politicians -  Members and Senators and Ministers - spend taxpayers’ money on expenses accountably and appropriately.</p>
+<p>Let me explain. What I am doing is the biggest reform of transparency and accountability of parliamentary expenses in a generation. What we will have is we will take the administrative part of the Department of Finance, it will be the same people, they will be under independent management. They will have an independent board that will be able to be an independent watchdog to make sure that there is monthly reporting, full accountability and that politicians -&nbsp; Members and Senators and Ministers - spend taxpayers’ money on expenses accountably and appropriately.</p>
 <p>I am determined to ensure that every Australian will be satisfied that their dollars, their hard-earned dollars they’ve paid in tax, when they are being spent by politicians are being spent appropriately and they are not spending any more than they need to, to do their job.</p>
 <p><strong>STEVE AUSTIN:</strong></p>
 <p>After Bronwyn Bishop was caught for her $5,000 helicopter flights there was an inquiry. It came up with 36 recommendations. Will you implement all of those 36 recommendations?</p>
@@ -76,7 +66,7 @@
 <p><strong>STEVE AUSTIN:</strong></p>
 <p>How many Cabinet Ministers have been compromised by this Yahoo hack? Do you know?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Well I’ve seen the names in the paper. I’ll obviously get a report from my Cyber Security Adviser. The leak or the account details related to accounts in 2013 – so that may well have been before the Coalition was elected in 2013  - and of course it begs the question as to whether those accounts, what was in those accounts and clearly in terms of classified government information can only be transmitted or used on approved government communication systems. Based on what I have seen it would be very unlikely that – referring to the politicians involved that I’ve seen – that there would be security issues but we don’t take any of this stuff lightly or complacently and I’ll be getting a report on this from my Cyber Adviser Alastair MacGibbon.</p>
+<p>Well I’ve seen the names in the paper. I’ll obviously get a report from my Cyber Security Adviser. The leak or the account details related to accounts in 2013 – so that may well have been before the Coalition was elected in 2013&nbsp; - and of course it begs the question as to whether those accounts, what was in those accounts and clearly in terms of classified government information can only be transmitted or used on approved government communication systems. Based on what I have seen it would be very unlikely that – referring to the politicians involved that I’ve seen – that there would be security issues but we don’t take any of this stuff lightly or complacently and I’ll be getting a report on this from my Cyber Adviser Alastair MacGibbon.</p>
 <p><strong>STEVE AUSTIN:</strong></p>
 <p>Prime Minister Malcolm Turnbull is my guest. Does Andrew Laming have your full support Prime Minister?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -105,6 +95,4 @@
 <p>Thanks so much Steve.</p>
 <p><strong>[ENDS]</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

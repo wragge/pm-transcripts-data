@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18735</transcript-id>
-    <title>Transcript of interview with Brig and Lehmo, Gold FM Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/08/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18735</transcript-id><title>Transcript of interview with Brig and Lehmo, Gold FM Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/08/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 E &amp; O E  -  PROOF ONLY</p>
 <p>HOST: Well Brig there's a lot of talk about rising electricity prices so we have decided to go straight to the top and speak to the Prime Minister Julia Gillard. Good morning.</p>
 <p>PM: Good morning.</p>
@@ -43,6 +33,4 @@ E &amp; O E  -  PROOF ONLY</p>
 <p>HOST: Oh very nice, we don't have to wait until 2371. Any spare cash floating round for the Western Bulldogs, Prime Minister? They're struggling a bit at the moment.</p>
 <p>PM: I'm not surprised you got that plug in. There's some cheering going around, I will be there at the game on the weekend, and doing my best to urge the team on, particularly given Tim barracks for Richmond so I couldn't bear it.</p>
 <p>HOST: He's a man of taste, Prime Minister. We'll get on board this weekend. Alright, Prime Minister Julia Gillard, thank you for your time this morning. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

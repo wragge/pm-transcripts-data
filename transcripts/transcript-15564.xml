@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15564</transcript-id>
-    <title>Doorstop Announcement Bruce Highway, Cairns</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/10/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15564</transcript-id><title>Doorstop Announcement Bruce Highway, Cairns</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/10/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Bruce Highway upgrade; pulp mill; federal election.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -84,6 +74,4 @@ Bruce Highway upgrade; pulp mill; federal election.</p>
 <p>PRIME MINISTER: </p>
 <p>Absolutely not, that's a contemptible suggestion.  Thank you. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

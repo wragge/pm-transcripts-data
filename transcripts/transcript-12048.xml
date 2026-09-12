@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12048</transcript-id>
-    <title>Radio Interview with Jeremy Cordeaux, 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Competition policy; tax reform; budget measures; superannuation</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12048</transcript-id><title>Radio Interview with Jeremy Cordeaux, 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Competition policy; tax reform; budget measures; superannuation</p>
 <p>E&amp;OE................................</p>
 <p>CORDEAUX:</p>
 <p>Let us go to the Prime Minister of Australia John Howard. Sir, How are you?</p>
@@ -92,7 +82,7 @@
 <p>PRIME MINISTER:</p>
 <p>Well, Henry, good question. Could I just correct you on one thing. The State Bank in South Australia was not a private enterprise disaster, it was a public enterprise disaster.</p>
 <p>CALLER:</p>
-<p>No, Prime Minister.<br />
+<p>No, Prime Minister.<br>
 PRIME MINISTER:</p>
 <p>No, I'm sorry, the take out of the State Bank is.</p>
 <p>CORDEAUX:</p>
@@ -147,6 +137,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

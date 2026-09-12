@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12271</transcript-id>
-    <title>First Home Owners Grant Doubled for New Homes </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/03/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am announcing a measure that will provide practical assistance to Australia's housing sector.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12271</transcript-id><title>First Home Owners Grant Doubled for New Homes </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/03/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am announcing a measure that will provide practical assistance to Australia's housing sector.</p>
 <p>The Government will increase the grant available under the First Home Owners Scheme from $7,000 to $14,000 for those first home buyers who sign a contract to build a new home or to buy a previously unoccupied new home on or after 9 March 2001.</p>
 <p>The measure is a short-term one, and it is proposed that the grant will revert back to $7,000 for new home contracts entered into after 31 December 2001. The grant will remain at $7,000 for first home buyers who purchase existing homes.</p>
 <p>This stimulus is intended to nurture the early signs of recovery that appear to be taking hold in the housing sector. It will also build on the positive confidence effects arising from recent reductions in official interest rates.</p>
@@ -19,6 +9,4 @@
 <p>I would also encourage the major banks and lending institutions to take the additional support associated with the higher grant into consideration when assessing the borrowing applications from prospective first home buyers.</p>
 <p>In introducing this scheme, the Government recognises the significant contribution the housing industry makes to the Australian economy, and in particular, its importance for thousands of small businesses. </p>
 <p>9 March 2001 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

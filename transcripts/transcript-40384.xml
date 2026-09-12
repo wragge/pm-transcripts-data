@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40384</transcript-id>
-    <title>Netherlands state visit to Australia</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/08/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Their Majesties King Willem-Alexander and Queen Máxima of the Netherlands will visit Australia from October 31 – 4 November 2016.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40384</transcript-id><title>Netherlands state visit to Australia</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/08/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Their Majesties King Willem-Alexander and Queen Máxima of the Netherlands will visit Australia from October 31 – 4 November 2016.</p>
 <p>The state visit, at the invitation of the Governor-General, will highlight the close relationship between Australia and the Netherlands and the strength of our cultural and historical ties. The visit will coincide with commemorative activities marking the occasion of the 400th anniversary of the landing in Western Australia of Dutch explorer Dirk Hartog.</p>
 <p>King Willem-Alexander and Queen Máxima will be accompanied by Minister of Foreign Affairs Bert Koenders. The visit will also include a trade mission led by Minister for Foreign Trade and Development Cooperation Liliane Ploumen.</p>
 <p>This will be the first official visit to Australia by Their Majesties since taking the throne. I look forward to welcoming the King and Queen to Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

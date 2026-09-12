@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21407</transcript-id>
-    <title>Interview with Kerry O&#039;Brien 7.30 Report, ABC TV </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>O'BRIEN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21407</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien 7.30 Report, ABC TV ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>O'BRIEN:</p>
 <p>So if Australian intelligence was "thin, ambiguous and incomplete" on Iraq, can the Government that relied on that material to justify our part in the war on Iraq still argue that it was right to do so? The Prime Minister joins me now in our Brisbane studio.  Mr Howard, do you now accept that you committed Australia to war in Iraq substantially on, quote, "thin, ambiguous and incomplete" intelligence?</p>
 <p>PRIME MINISTER:</p>
 <p> We also took a decision on intelligence which, according to Mr Flood, and it wasn't acknowledged in that introduction, which on the balance of probabilities supported the argument that Saddam did have weapons of mass destruction. In one of the most interesting paragraphs in Flood's report is that having looked at the material, he came to the conclusion that asserting the opposite of the judgment that we accepted was more difficult than asserting the proposition that Saddam had weapons of mass destruction. Intelligence is always an imprecise science. There was an honest assessment made by ONA, which was an assessment we accepted. Now, that was a bona fide assessment and Flood and before that the Jull committee, and in other countries other committees have found there was not political manipulation or interference. I mean, the great claim being made against us was that we heavied the intelligence agencies and basically went to war based on a lie. Well that was never true and Flood has supported that.</p>
@@ -84,6 +74,4 @@
 <p>O'BRIEN:</p>
 <p> Indeed what a pity, but that's the way it is.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

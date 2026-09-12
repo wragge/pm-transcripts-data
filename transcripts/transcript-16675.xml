@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16675</transcript-id>
-    <title>Global Carbon Capture and Storage Institute launched    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Global Carbon Capture and Storage (CCS) Institute was launched internationally today by Prime Minister Kevin Rudd at an event jointly hosted by the President of the United States, Barack Obama and Italy's Prime Minister, Silvio Berlusconi in L'Aquila, Italy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16675</transcript-id><title>Global Carbon Capture and Storage Institute launched    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Global Carbon Capture and Storage (CCS) Institute was launched internationally today by Prime Minister Kevin Rudd at an event jointly hosted by the President of the United States, Barack Obama and Italy's Prime Minister, Silvio Berlusconi in L'Aquila, Italy.</p>
 <p>The launch followed a meeting of the Major Economies Forum on Energy and Climate.</p>
 <p>The Global CCS Institute is an international initiative, led by Australia, to speed up the development of carbon capture and storage technology, and reduce the amount of CO2 released into the atmosphere.</p>
 <p>Carbon capture and storage is a process that captures carbon dioxide (C02) and transports it to a site where it is injected deep underground for long-term safe and secure storage.</p>
@@ -24,6 +14,4 @@
 <p>The Australian-led initiative will drive the deployment of CCS projects and is a practical demonstration of what can be achieved when global objectives are aligned.</p>
 <p>The Australian Government has committed A$100 million a year to support this work and a further A$2 billion to support the construction of CCS demonstration projects in Australia.</p>
 <p>Further information is available at <a href="http://www.globalccsinstitute.com">www.globalccsinstitute.com</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

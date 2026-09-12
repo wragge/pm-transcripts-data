@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11400</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          ADDRESS TO AUSTRALIAN TROOPS          MALIANA, EAST TIMOR</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/11/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11400</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          ADDRESS TO AUSTRALIAN TROOPS          MALIANA, EAST TIMOR</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/11/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.................</p>
 <p>  Major General Peter Cosgrove, Brigadier Evans, ladies and gentlemen, this</p>
 <p>   is one of the real privileges that I've had as Prime Minister of Australia</p>
 <p>   to say a few words of thanks on behalf of all of the Australian people for</p>
@@ -60,6 +50,4 @@
 <p>   Prime Minister of Australia, and all of your fellow Australians are both</p>
 <p>   grateful and immensely proud at what you've achieved. Thank you.</p>
 <p>  [Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

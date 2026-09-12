@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41292</transcript-id>
-    <title>Television interview with Karl Stefanovic – The Today Show</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Citizenship; Government achievements; APEC trip</subjects>
-    <content><![CDATA[<p><strong>KARL STEFANOVIC: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41292</transcript-id><title>Television interview with Karl Stefanovic – The Today Show</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Citizenship; Government achievements; APEC trip</subjects><content><![CDATA[<p><strong>KARL STEFANOVIC: </strong></p>
 <p>The Prime Minister joins us now. PM, good morning to you.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning Karl. Good to be with you.</p>
@@ -140,12 +130,10 @@
 <p><strong>KARL STEFANOVIC: </strong></p>
 <p>Yes.</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Those are the big questions and that's what I'm providing the answers to. </p>
+<p>Those are the big questions and that's what I'm providing the answers to.&nbsp;</p>
 <p><strong>KARL STEFANOVIC: </strong></p>
 <p>Okay, let's hope that you can go and do that, PM. I think Australia just wants to be led and more importantly, they want to be led well. Thanks for your time today. Appreciate it.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks a lot Karl.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

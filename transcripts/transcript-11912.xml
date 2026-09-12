@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11912</transcript-id>
-    <title>Doorstop Interview, Adelaide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Telstra; Alice-Darwin Rail Link; CASA; school funding; electricity; Kyoto agreement.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11912</transcript-id><title>Doorstop Interview, Adelaide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Telstra; Alice-Darwin Rail Link; CASA; school funding; electricity; Kyoto agreement.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard is the sale of Telstra still on your agenda? The full sale of Telstra?</p>
@@ -64,6 +54,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I haven't been briefed on that. I'm not going to give a running commentary on something I haven't been briefed about.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

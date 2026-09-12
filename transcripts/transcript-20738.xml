@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20738</transcript-id>
-    <title>Interview with Kerry O&#039;Brien 7.30 Report, ABC TV   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/03/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>O'BRIEN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20738</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien 7.30 Report, ABC TV   ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/03/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>O'BRIEN:</p>
 <p>Prime Minister the allied coalition against Iraq in '91, the '91 Gulf War numbered 34 countries. The coalition of the willing this time has shrunk to three, where's the moral authority of credibility for the coalition this time?</p>
 <p>PRIME MINISTER:</p>
 <p>Well Kerry, two points on that, firstly more than [audio break] contributing in different ways and, look I'm sorry are you hearing me?</p>
@@ -92,6 +82,4 @@
 <p>O'BRIEN:</p>
 <p>John Howard, thanks for talking with us.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

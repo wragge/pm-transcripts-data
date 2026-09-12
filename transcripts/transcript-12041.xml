@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12041</transcript-id>
-    <title>Doorstop on Flight between Brisbane and Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Telstra.</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12041</transcript-id><title>Doorstop on Flight between Brisbane and Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Telstra.</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Prime Minister what’s your response to Kim Beazley’s admission that in fact he did attend that meeting with John Prescott at BHP?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -24,6 +14,4 @@
 <p>Our policy is that we won’t sell another share in the carrier until such time as we are completely satisfied that everything in the bush is up to scratch. His position is well who can believe him.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

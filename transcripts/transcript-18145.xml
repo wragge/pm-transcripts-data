@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18145</transcript-id>
-    <title>Speech to the National Police Service Medal Presentation Ceremony, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/09/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18145</transcript-id><title>Speech to the National Police Service Medal Presentation Ceremony, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/09/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Hon. Tony Abbott, Leader of the Opposition.</p>
 <p>Ministerial colleagues Robert McClelland, Joe Ludwig and Brendan O'Connor, my Parliamentary Secretary, Kate Lundy.</p>
 <p>Representatives of the Australian Parliamentary Friends of Police Group, Chris Hayes MP and Senator Stephen Parry.</p>
@@ -64,6 +54,4 @@ Hon. Tony Abbott, Leader of the Opposition.</p>
 <p>Today we award the first, honouring 16 outstanding Australia police officers  and beginning a tradition that will last for decades and perhaps even centuries to come.</p>
 <p>I know our nation will never be short of worthy recipients.</p>
 <p>And our police will always have our gratitude and our respect. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

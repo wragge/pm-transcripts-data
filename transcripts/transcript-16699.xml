@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16699</transcript-id>
-    <title>Barrier Reef Better off as Recycling Plant opens    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Measures to protect the Great Barrier Reef from nutrient discharges were further enhanced today with the opening of the Mackay Wastewater Recycling Project.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16699</transcript-id><title>Barrier Reef Better off as Recycling Plant opens    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Measures to protect the Great Barrier Reef from nutrient discharges were further enhanced today with the opening of the Mackay Wastewater Recycling Project.</p>
 <p>This project will recycle the majority of Mackay's wastewater and prevent 250 tonnes of nutrients from entering the ocean every year to better protect the World Heritage listed Great Barrier Reef.</p>
 <p>As the largest regional wastewater reuse scheme of its type in Australia, this project will also provide benefits to local farmers and the environment by reducing demand on groundwater by up to 8,500 megalitres per year.</p>
 <p>In addition, the groundwater system will be protected from seawater intrusion by substituting the groundwater used to irrigate sugar cane with recycled water.</p>
@@ -18,6 +8,4 @@
 <p>Total project costs of more than $150 million were shared between the Australian Government, Queensland Government and Mackay Regional Council.</p>
 <p>This project demonstrates how different levels of government can work together to achieve efficient water management and involve both urban and rural communities in the process.</p>
 <p>The project involves the decommissioning of an existing wastewater treatment plant, redirection of wastewater to an upgraded plant and distribution of the treated effluent for irrigation on sugar cane farms.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15899</transcript-id>
-    <title>Joint Media Release with the Premier of Queensland $100 Million Extra Health Funding for Queensland  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/05/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A meeting between Prime Minister Kevin Rudd and Premier Anna Bligh at Kirribilli has delivered a $100 million health cash injection, which the Queensland Government will use to train doctors in Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15899</transcript-id><title>Joint Media Release with the Premier of Queensland $100 Million Extra Health Funding for Queensland  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/05/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A meeting between Prime Minister Kevin Rudd and Premier Anna Bligh at Kirribilli has delivered a $100 million health cash injection, which the Queensland Government will use to train doctors in Queensland.</p>
 <p>The Premier flew to Sydney to seal the landmark deal with the Prime Minister.</p>
 <p>The money will be used to reimburse the state for the cost of training 235 medical students at Griffith University on the Gold Coast at a cost of approximately $60M up to 2010.</p>
 <p>The Commonwealth has also agreed to pick up the cost of these medical places from the 2010 intake onwards.</p>
@@ -31,6 +21,4 @@
 <p>“We will direct every dollar saved towards Emergency Departments in our major hospitals.</p>
 <p>“This where our hospital system is really feeling the pressure.”</p>
 <p>“We are half way through a $10 billion health action plan and every dollar counts. This money will be invested to areas of need right across our health system.”</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

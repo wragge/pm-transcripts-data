@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17986</transcript-id>
-    <title>Transcript of interview with Chris Uhlmann, 7.30</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17986</transcript-id><title>Transcript of interview with Chris Uhlmann, 7.30</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard, welcome.</p>
 <p>PM: Thank you, Chris</p>
 <p>HOST: Now, is the aim of this plan to cut taxes or to cut carbon?</p>
@@ -47,6 +37,4 @@ HOST: Julia Gillard, welcome.</p>
 <p>What my eyes are on is that clean energy future for this country. We've had a long and difficult debate. Now is the time to get this done. I announced the package today. I will bring it to the Parliament, we'll legislate it and it will start on 1 July next year.</p>
 <p>HOST: Julia Gillard, thank you.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

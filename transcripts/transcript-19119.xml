@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19119</transcript-id>
-    <title>Transcript of Interview with Michael Rowland, ABC Breakfast</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/03/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19119</transcript-id><title>Transcript of Interview with Michael Rowland, ABC Breakfast</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/03/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard, good morning.</p>
 <p>PM: Good morning.</p>
 <p>HOST: The Opposition Leader Tony Abbott has stepped up his criticism overnight of the Government's crackdown on that 457 foreign skilled worker visa scheme.</p>
@@ -75,6 +65,4 @@ HOST: Julia Gillard, good morning.</p>
 <p>I'm not in a position where I can prejudge the outcome of the inquiry. That wouldn't be proper for me to do, but I can certainly say I've got no tolerance for conduct within my political party, or any political party, which is about profiting for individuals rather than pursuing the public good.</p>
 <p>HOST: Julia Gillard, thank you very much for your time this morning.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

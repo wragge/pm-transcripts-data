@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40260</transcript-id>
-    <title>Sharman Stone</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>26/03/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sharman Stone has been a tireless, enthusiastic representative of her people of northern Victoria through 20 years - the good times and the tough times of fire, flood and drought.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40260</transcript-id><title>Sharman Stone</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>26/03/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sharman Stone has been a tireless, enthusiastic representative of her people of northern Victoria through 20 years - the good times and the tough times of fire, flood and drought.</p>
 <p>She is among the fifth generation of her family to be born in the electorate of Murray.</p>
 <p>And this great family heritage always showed in the way she went about her work.</p>
 <p>Sharman has been a stalwart defender of local industry - most recently in the crucial role she played in keeping alive the hopes of the workers and suppliers of the SPC Ardmona factory in Shepparton.</p>
@@ -23,6 +13,4 @@
 <p>But her first passion has always been reserved for the communities of the magnificent country which stretches from the Mallee across the great northern plains and into the Goulburn and Murray River valleys.</p>
 <p>And I know that this won't change as she spends more time with her family in Shepparton and writes the next chapter of her professional life.</p>
 <p>On behalf of the Government and the Liberal Party I thank Sharman for her service to her community, her Party and her nation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

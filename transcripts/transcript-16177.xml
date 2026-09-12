@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16177</transcript-id>
-    <title>Global Financial Crisis    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/10/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Global financial markets are experiencing some of the most challenging conditions ever witnessed.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16177</transcript-id><title>Global Financial Crisis    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/10/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Global financial markets are experiencing some of the most challenging conditions ever witnessed.</p>
 <p>In recent days, as global financial conditions have deteriorated markedly, governments around the world have taken unprecedented steps to guarantee the liabilities of their financial systems.</p>
 <p>The Australian financial system is demonstrating its resilience to the international financial market turbulence. Australia's banking institutions remain sound, well-capitalised and profitable with high asset quality.</p>
 <p>The Australian financial system is however being affected by global events. Recent developments in the international wholesale funding markets have created acute funding pressures that now pose potential risks to the total supply of finance to the Australian economy.</p>
@@ -61,6 +51,4 @@
 <p>On 26 September, the Treasurer announced the direction to the Australian Office of Financial Management (AOFM) to purchase residential mortgage-backed securities (RMBS) from a wide range of Australian lenders in initial tranches totalling $4 billion.</p>
 <p>The Government has been monitoring the market closely and has determined that an additional $4 billion in funding is required for the purchase of RMBS from Australian non-ADI lenders (those being lenders who are not banks, building societies or credit unions) by the AOFM. This will benefit Australia's mortgage market and ensure that this sector of the lending market has access to funding for its operations.</p>
 <p>This initiative will also provide a level playing field for the non-ADI lenders who will not have the benefit of the guarantee of the term funding facility.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,22 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40215</transcript-id>
-    <title>Turnbull Government backing FinTech</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/02/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Malcolm Turnbull and Treasurer Scott Morrison today announced the establishment of an expert advisory group to help make Australia the leading market for financial technology – or FinTech – in the Asia Pacific region.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40215</transcript-id><title>Turnbull Government backing FinTech</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/02/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Malcolm Turnbull and Treasurer Scott Morrison today announced the establishment of an expert advisory group to help make Australia the leading market for financial technology – or FinTech – in the Asia Pacific region.</p>
 <p>Financial services is the largest sector of our economy, employing around 450,000 people and contributing over $140 billion to the economy last financial year.</p>
 <p>Although Australia is a leading financial services market in the region, the sector is becoming increasingly globalised and exposed to technological disruption. Many traditional financial products are being disrupted by the FinTech sector, which is well positioned to become a leading player in the Asia-Pacific.</p>
 <p>FinTech is at the cutting edge of innovation and will help to deliver more efficient financial markets and more customer focussed outcomes for consumers.</p>
 <p>New approaches like crowdfunding, peer-to-peer lending, mobile payments, digital currencies, and robo-advisers benefit consumers by increasing choice and stimulating more competition.</p>
 <p>This builds on the Turnbull Government’s commitment to innovation and entrepreneurship through the $1.1 billion National Innovation and Science Agenda, which is already improving data accessibility and use and will make it easier for startups to access early stage capital through a new tax incentive for angel investors.</p>
 <p>The FinTech advisory group will be chaired by Craig Dunn, Chairman of Stone &amp; Chalk and Director of Westpac Bank. The group will also include:</p>
-<ul><li>Simon Cant, Co-Founder and Managing Director, Reinventure</li>
+<ul>
+<li>Simon Cant, Co-Founder and Managing Director, Reinventure</li>
 <li>Matt Symons, Co-Founder and CEO, Society One</li>
 <li>Jason Yetton, former Group Executive, Retail and Business Banking, Westpac</li>
 <li>Nerida Caesar, CEO and Managing Director, Veda</li>
@@ -28,7 +19,6 @@
 <li>Jost Stollman, Executive Director and CEO, Tyro Payments</li>
 <li>Jonny Wilkinson, Co-Founder and Managing Director, Equitise</li>
 <li>Scott Farrell, Partner, King &amp; Wood Mallesons.</li>
-</ul><p>The FinTech advisory group will complement the Innovation Collaboration Committee being established under the Financial System Program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+</ul>
+<p>The FinTech advisory group will complement the Innovation Collaboration Committee being established under the Financial System Program.</p>
+]]></content></item></response>

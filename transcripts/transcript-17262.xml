@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17262</transcript-id>
-    <title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 3 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, good morning</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17262</transcript-id><title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 3 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, good morning</p>
 <p>PM: Morning, Sandy. Thanks for having me on the program</p>
 <p>HOST: A pleasure. 138 recommendations, you've adopted just a handful. Why have you been so cautious?</p>
 <p>PM: Well, let's actually go to the reforms that we've embraced. This package of reforms we've embraced means that every worker, small business and company will be able to pay less tax and contribute more to national savings. This is a major, far-reaching and significant reform that prepares Australia for a more secure and stable economic future.</p>
@@ -42,6 +32,4 @@
 <p>PM: Can I say in terms of the Government's overall policy on budget surplus and the Government's policy when it comes to Government debt, let's just bear very clearly in mind this Government has, through its actions, has not only kept the Australian economy out of the global recession, but we've done so with the second-lowest unemployment, the lowest debt and the lowest deficit of all the major advanced economies. Therefore, for scare campaigns to be run around that, frankly, is just politics from our political opponents. Any international commentator looking at our relative performance on budget deficit and debt coming out of the global recession would simply say Australia, compared with the rest of the world, frankly, is in a very, very strong position. As I said - the lowest debt, the lowest deficit of all the major advanced economies.</p>
 <p>HOST: Prime Minister, we'll leave it there, thank you.</p>
 <p>PM: Thanks for having me on your program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

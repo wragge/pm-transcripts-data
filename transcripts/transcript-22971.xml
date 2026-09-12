@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22971</transcript-id>
-    <title>Interview with Jay Bacik, Radio 2GB, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  Christmas Day; Exodus Foundation; Drugs.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22971</transcript-id><title>Interview with Jay Bacik, Radio 2GB, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  Christmas Day; Exodus Foundation; Drugs.</p>
 <p>E&amp;EO ……………………………………………………………………………………</p>
 <p>BACIK:</p>
 <p>Mr Howard, good to talk to you again and happy Christmas to you and your family.</p>
@@ -80,6 +70,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I thank Bill and, no pun intended, his crew for the tremendous work they do.  It truly is great.  Merry Christmas to all of you and I hope the day you spend together brings some cheer and happiness to you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

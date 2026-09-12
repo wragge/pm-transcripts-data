@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15520</transcript-id>
-    <title>World Heritage Listing: Sydney Opera House</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/06/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted that the Sydney Opera House has been inscribed on the World Heritage List.<br />
- The Opera House, and its setting at Bennelong Point on Sydney Harbour, is an iconic and treasured place, not just for Australians but also internationally.<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15520</transcript-id><title>World Heritage Listing: Sydney Opera House</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/06/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted that the Sydney Opera House has been inscribed on the World Heritage List.<br>
+ The Opera House, and its setting at Bennelong Point on Sydney Harbour, is an iconic and treasured place, not just for Australians but also internationally.<br>
  The Sydney Opera House, as an outstanding example of 20th Century architecture, is a testament to the daring of architect J</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

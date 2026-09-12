@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17040</transcript-id>
-    <title>Prime Minister Transcript of interview with Neil Mitchell 3AW 5 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: First, in the studio with me today, the Prime Minister. Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17040</transcript-id><title>Prime Minister Transcript of interview with Neil Mitchell 3AW 5 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: First, in the studio with me today, the Prime Minister. Mr Rudd, good morning.</p>
 <p>PM: Good morning, Neil. Thanks for having me on the program.</p>
 <p>MITCHELL: Well, thank you for coming in. I wouldn't normally ask you about family matters, but this is getting into different territory. Your nephew, Van Thanh Rudd, seems to be using his relationship with you to promote ideas which seems to me to be damaging to Australia. He told the Indian news magazine that Australia's racist, he's insulted dead Australian soldiers with a photo of coffins and then superimposing a picture of Shane Warne on it, turned up as Klu Klux Klan at the tennis. Now, I know it's not your fault or responsibility, but have you had a word with him to settle him down?</p>
 <p>PM: First thing, as you know, there's free speech in this country, and everyone's entitled to it. Secondly, do I agree in any way with what he's done? No, I don't. Absolutely.</p>
@@ -139,6 +129,4 @@
 <p>PM: Look, everyone will make their judgements about this, but I've been back to the communities there in the course of the last 12 months half a dozen or so times. I've spoken to a lot of people, including fairly recently. This is a very deep, bruising and hard time for people, and there's something about anniversaries which are very hard to get through.</p>
 <p>MITCHELL: Thank you very much for your time.</p>
 <p>PM: Good to be on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

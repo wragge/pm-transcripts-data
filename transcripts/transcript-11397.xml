@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11397</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT RECEPTION HONOURING THE                 AUSTRALIAN CRICKET TEAM FOR THEIR VICTORY                 AT THE 1999 CRICKET WORLD CUP                 THE MEMBERS&#039; HALL, PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/06/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11397</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT RECEPTION HONOURING THE                 AUSTRALIAN CRICKET TEAM FOR THEIR VICTORY                 AT THE 1999 CRICKET WORLD CUP                 THE MEMBERS&#039; HALL, PARLIAMENT HOUSE]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/06/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>Well, thank you very much. To Kim Beazley the Leader of the Opposition,</p>
 <p> to Steve Waugh and the victorious Australian Cricket Team, to many</p>
 <p> others - first time I've had all of you cheering for me - but ladies</p>
@@ -74,6 +64,4 @@
 <p> of sportsmen and you have brought a great deal of joy and a great</p>
 <p> deal of pleasure to all Australians. Thank you very much.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

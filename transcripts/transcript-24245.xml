@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24245</transcript-id>
-    <title>Support for Culturally and Linguistically Diverse Women</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>03/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth will allocate $120,000 over two years to support women from culturally and linguistically diverse (CALD) backgrounds through our court system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24245</transcript-id><title>Support for Culturally and Linguistically Diverse Women</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>03/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth will allocate $120,000 over two years to support women from culturally and linguistically diverse (CALD) backgrounds through our court system.</p>
 <p>As a result of uncertainties regarding the law in Australia or of their rights to assistance, CALD women can find their interactions with the legal system daunting and difficult to navigate.</p>
 <p>This initiative will work to effect cultural change across the Australian court system, making every point of engagement more accessible for vulnerable CALD women – from dealings with court officials and administrators, to the sensitivity of the judge during proceedings.</p>
 <p>Under the auspices of the Judicial Council on Cultural Diversity (JCCD), the Migration Council of Australia (MCA) will develop a national framework for use across the courts and consult closely with communities as this framework is developed.</p>
@@ -21,6 +11,4 @@
 <p>The Commonwealth has allocated more than $100 million over the next four years to support the Second Action Plan. Its proposals have the support of all States and Territories across Australia.</p>
 <p>Whilst the Government cannot unilaterally prevent these abuses from occurring, we must do our best to provide an effective justice system that not only endeavours to stamp out such abuse but provides a culturally appropriate justice system in which victims feel secure and protected.</p>
 <p>3 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

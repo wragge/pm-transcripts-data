@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24305</transcript-id>
-    <title>Afghanistan Veterans&#039; National Commemoration</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>21/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, around the nation, we mark the completion of Australia’s longest war and honour the men and women who served in Afghanistan on Operation Slipper.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24305</transcript-id><title><![CDATA[Afghanistan Veterans&#039; National Commemoration]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>21/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, around the nation, we mark the completion of Australia’s longest war and honour the men and women who served in Afghanistan on Operation Slipper.</p>
 <p>Operation Slipper saw the deployment of more than 34,500 Australian men and women from the Australian Defence Force personnel, the Australian Federal Police, and other agencies.</p>
 <p>In the course of the Afghanistan campaign, 41 Australians were killed and 263 wounded. Hundreds more have unseen wounds.</p>
 <p>Their mission is over, but our mission to stand with the veterans continues.</p>
@@ -20,6 +10,4 @@
 <p>As we gather, members of the Australian Defence Force continue to work in the Middle East fighting the death cult in Iraq and training the Afghan army.</p>
 <p>We remember them today as they continue to serve in our name.</p>
 <p>21 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

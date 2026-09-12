@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17169</transcript-id>
-    <title>Boost for Allied Health in Rural and Remote Australia Prime Minister Minister for Health 6 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will double scholarships for allied health clinical placements in rural areas and establish a locum scheme to support 1,000 allied health workers over the next decade.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17169</transcript-id><title>Boost for Allied Health in Rural and Remote Australia Prime Minister Minister for Health 6 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will double scholarships for allied health clinical placements in rural areas and establish a locum scheme to support 1,000 allied health workers over the next decade.</p>
 <p>These investments are part of the Rudd Government's plans to reform our health system to deliver better health and better hospitals for all Australians.</p>
 <p>Currently, there aren't enough allied health professionals in rural and remote areas. Allied health practitioners include physiotherapists, dieticians, occupational therapists and optometrists.</p>
 <p>In major cities there are 354 allied health professionals per 100,000 people but only 64 workers per 100,000 people in very remote areas of Australia.</p>
@@ -27,6 +17,4 @@
 <p>This investment will build on the Government's:</p>
 <p>     * $632 million announcement to train more doctors - of which 50 per cent of new GP training places will be provided in the bush.</p>
 <p>     * $134 million Rural Health Workforce Strategy, that will deliver 500 communities and 2,400 doctors with more financial support to move and stay in rural and remote areas.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

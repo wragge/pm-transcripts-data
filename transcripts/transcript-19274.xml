@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19274</transcript-id>
-    <title>Speech at Opening of the Australian Centre for Indigenous Knowledges and Education</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/04/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Charles Darwin University, Darwin</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19274</transcript-id><title>Speech at Opening of the Australian Centre for Indigenous Knowledges and Education</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/04/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Charles Darwin University, Darwin</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>It's a great pleasure to be here today for the opening of this magnificent new centre.  </p>
 <p>Today we celebrate the hard work that has transformed a bold idea into reality. </p>
@@ -47,6 +37,4 @@
 <p>This Centre is a symbol of all that Indigenous leadership can offer.</p>
 <p>It is proof of how far Australia has come, and a marker for the road ahead.</p>
 <p>With great pride  -  and in a spirit of Reconciliation and friendship  -  I declare the Australian Centre for Indigenous Knowledges and Education officially open and wish it every success.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

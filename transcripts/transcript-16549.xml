@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16549</transcript-id>
-    <title>Rudd Government to introduce paid parental leave    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/05/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will deliver an historic Paid Parental Leave (PPL) scheme to support Australian families and prepare Australia for the economic and social challenges of the future.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16549</transcript-id><title>Rudd Government to introduce paid parental leave    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/05/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will deliver an historic Paid Parental Leave (PPL) scheme to support Australian families and prepare Australia for the economic and social challenges of the future.</p>
 <p>This government-funded scheme will provide the primary carer with 18 weeks post-natal leave, paid at the adult federal minimum wage (currently $543.78 per week).</p>
 <p>The cost of the scheme - approximately $260 million per annum - is a vital investment in improved productivity and workforce participation.</p>
 <p>The scheme will not commence until 1 January 2011, giving the community and businesses time to prepare.</p>
@@ -28,6 +18,4 @@
 <p>The Baby Bonus and Family Tax Benefits will continue to be available for mums who choose to stay at home. A stay at home mum with a partner on average earnings will continue to receive around $12,000 in government assistance in the year after the birth of their baby.</p>
 <p>However recipients of the Government's Paid Parental Leave scheme will not be eligible to also receive either the Baby Bonus or Family Tax Benefit Part B.</p>
 <p>The Rudd Government is proud to work with Australian mothers, families and businesses to meet the challenges of the 21st century.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

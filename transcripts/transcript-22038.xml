@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22038</transcript-id>
-    <title>Doorstop Interview Grand Hotel, Busan, Korea </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/11/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22038</transcript-id><title>Doorstop Interview Grand Hotel, Busan, Korea </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/11/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, a nerve-racking last few minutes?</p>
 <p>PRIME MINISTER:</p>
 <p>Fantastic.  As I said my faith in penalty shoot outs is restored.  But congratulations to the team, to Mark Viduka, to Frank Lowy, John O'Neill, everybody associated with this tremendous resurgence of soccer in Australia and I wish them well for the World Cup.  But it's a great achievement, particularly being only one-nil ahead at the end of the ordinary time and at the end of the extended time, extra time, and penalty shoot outs always seem a very cruel way of deciding a match but on this occasion I've changed my mind.</p>
@@ -51,6 +41,4 @@
 <p>Well except to again compliment the work of the Indonesian authorities.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21001</transcript-id>
-    <title>Interview with Alan Jones, Radio 2GB  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/11/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JONES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21001</transcript-id><title>Interview with Alan Jones, Radio 2GB  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/11/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JONES:</p>
 <p>PM, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Alan.  Well filled.</p>
@@ -106,6 +96,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay.  Bye.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

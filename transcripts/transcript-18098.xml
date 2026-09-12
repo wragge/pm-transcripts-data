@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18098</transcript-id>
-    <title>Transcript of interview with Leon Compton, ABC Statewide Tasmania </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/08/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18098</transcript-id><title>Transcript of interview with Leon Compton, ABC Statewide Tasmania </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/08/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard, good morning to you.</p>
 <p>PM: Good morning.</p>
 <p>HOST: And thank you for coming in this morning. Significant amounts of health union money spent on funding prostitutes, many of the low wage workers that fund those health union dues live here in Tasmania. I'd like to know how you feel looking at this issue this morning and knowing that you're going to meet some of those Tasmanians over the next couple of days.</p>
@@ -66,6 +56,4 @@ HOST: Prime Minister Julia Gillard, good morning to you.</p>
 <p>HOST: -We've only got seconds left.</p>
 <p>PM: Sure, and I'll use those seconds if I can, so my Lower House Members are working with me on the delivery of this new economic future, it's all about jobs.</p>
 <p>On President Obama, of course he is welcome in Australia whenever he wants to come but making announcements about the President's travel plans are a matter for the White House.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

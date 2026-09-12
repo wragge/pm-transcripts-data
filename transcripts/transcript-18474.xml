@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18474</transcript-id>
-    <title>Transcript of joint press conference, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/03/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18474</transcript-id><title>Transcript of joint press conference, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/03/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm obviously joined by Minister Conroy, Minister Albanese and Mike Quigley the CEO of NBN Co. We're in Tanya Plibersek's electorate and she is here with us as well.</p>
 <p>As we have just announced, today we are making available the three year rollout plan for the National Broadband Network which means that the National Broadband Network will go to more than 3.5 million homes and other premises; businesses, schools, hospitals.</p>
 <p>In three years time, over 3.5 million premises will be connected to or in the process of being connected to the National Broadband Network. This is part of our plan to take make sure that there is broadband around the nation and we need to do that because whilst our copper telephone network has served us well, if we don't embrace the future, our old network will choke off economic possibilities for the future and it will choke off the future for education and health services.</p>
@@ -275,6 +265,4 @@ PM: I'm obviously joined by Minister Conroy, Minister Albanese and Mike Quigley 
 <p>JOURNALIST: Sorry, is it really a coincidence that all six crossbenchers get NBN in the next three years?</p>
 <p>PM:Well that question should have been put when Mike was here, but Mike has described to you the way in which the decisions for this roll-out have been made.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

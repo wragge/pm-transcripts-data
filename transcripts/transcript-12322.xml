@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12322</transcript-id>
-    <title>Address at Official Government Luncheon Commemorating the 59th Anniversary of the Bombing of Darwin</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/02/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Commemoration of bombing of Darwin.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12322</transcript-id><title>Address at Official Government Luncheon Commemorating the 59th Anniversary of the Bombing of Darwin</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/02/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Commemoration of bombing of Darwin.</p>
 <p>E&amp;OE................................</p>
 <p>Well thank you Administrator. Chief Minister, Admiral Fellin, and our other American guests, Defence Minister, Leader of the Opposition, ladies and gentlemen.</p>
 <p>This has really been quite a remarkable day or so in commemorating a very important event in Australia's history. And I want to congratulate the Northern Territory government, the Chief Minister, and the committee for the Centenary of Federation from the Northern Territory for a marvelous commemoration. Absolutely marvelous.</p>
@@ -21,6 +11,4 @@
 <p>So can I simply say to you Dennis and to your colleagues who've organised this it really has been a marvelous occasion in a marvelous year. To our American friends, I was saying to the Admiral we fought together for the first time at the battle of Hamel on the Western Front. I couldn't help saying of course the commanding officer on that occasion was Sir John Monash, probably the greatest field commander that Australia has produced and in the eyes of many people the greatest field commander of World War I.   But it was the beginning of a long partnership.</p>
 <p>There's never been a significant military conflict since in which we haven't fought side by side. And again can I say that this is an occasion not only to honour our own history but particularly to include in that honouring a very special and treasured place for the contribution of the people of the United States have made. Well done and nice to have you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

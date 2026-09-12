@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24419</transcript-id>
-    <title>Budget dividend from stopping the boats</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>04/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The ongoing success of Operation Sovereign Borders (OSB) and its flow-on effects will deliver savings measures of more than $500 million in the 2015-16 Budget.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24419</transcript-id><title>Budget dividend from stopping the boats</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>04/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The ongoing success of Operation Sovereign Borders (OSB) and its flow-on effects will deliver savings measures of more than $500 million in the 2015-16 Budget.</p>
 <p>OSB has halted the flood of Illegal Maritime Arrivals (IMAs) that were continually filling detention centres across Australia under Labor.</p>
 <p>It has allowed the Coalition Government to empty and close many of the 17 additional detention centres opened by the Rudd and Gillard Governments at great cost to the nation between 2008 and 2012.</p>
 <p>Closures now of Phosphate Hill and Construction Camp on Christmas Island, Bladin detention centre in Darwin and fewer numbers at remaining centres will realise savings of $326 million over the coming years.</p>
@@ -23,6 +13,4 @@
 <p>The Coalition has ended Labor’s costly and failed border policies and is working to clean up the people smuggling mess Labor left behind with a legacy caseload of 30,000 IMAs to process.</p>
 <p>
 4 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16200</transcript-id>
-    <title>Joint Media Release with the Minister For Small Business, Dr Craig Emerson, Small Business Summit On Global Financial Crisis  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/10/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will host a Small Business Summit on the global financial crisis in Brisbane this Friday.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16200</transcript-id><title>Joint Media Release with the Minister For Small Business, Dr Craig Emerson, Small Business Summit On Global Financial Crisis  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/10/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will host a Small Business Summit on the global financial crisis in Brisbane this Friday.</p>
 <p>The forum will allow small business operators and their representatives to discuss with the Prime Minister and Ministers how the global financial crisis is affecting the small business community.</p>
 <p>The Government does not hold all knowledge when it comes to dealing with economic turbulence and input from the small business community is essential.</p>
 <p>Friday's meeting is being organised in collaboration with the Council of Small Business of Australia and Commerce Queensland.</p>
@@ -21,6 +11,4 @@
 <p>The Rudd Government has also moved to guarantee all deposits of Australian banks, building societies and credit unions and Australian subsidiaries of foreign-owned banks.</p>
 <p>This guarantee will operate for a period of three years and there is no cap on the deposit amount.</p>
 <p>The Government will continue to liaise with both big and small business as we work on a co-operative and sustained strategy to see this crisis through.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

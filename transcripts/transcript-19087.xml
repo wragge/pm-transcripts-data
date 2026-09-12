@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19087</transcript-id>
-    <title>The Hon. Joan Child AO</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19087</transcript-id><title>The Hon. Joan Child AO</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>I am deeply saddened to learn of the passing of the Hon. Joan Child AO who died over the weekend aged 91.</p>
 <p>With Joan Child's passing, Australia has lost one of its pioneering female political leaders, and I have lost a role model.</p>
 <p>Joan was the first female ALP Member of the House of Representatives and our nation's first female Speaker.</p>
@@ -20,6 +10,4 @@
 <p>Joan Child will remain for me an abiding source of inspiration.</p>
 <p>On behalf of all Australians, I honour her memory and offer my deep condolences to Joan's family, her friends and her many Labor colleagues.</p>
 <p>Ms Child's family has graciously accepted the offer of a State Funeral, which I have extended as a mark of respect by our nation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

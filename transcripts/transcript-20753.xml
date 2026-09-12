@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20753</transcript-id>
-    <title>Joint Press Conference with Senator Kay Patterson  Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/04/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20753</transcript-id><title>Joint Press Conference with Senator Kay Patterson  Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/04/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well, good morning ladies and gentlemen. Senator Patterson and I are with you on this beautiful Canberra morning to announce a series of measures which we believe very strongly will produce a fairer Medicare. These measures will make Medicare both more accessible and also more affordable.</p>
 <p>The Government remains strongly committed to the principles of Medicare. We also remain strongly committed to the private health structures of this country and we believe that together they give this country the best health system in the world. That's not to say that it's without flaws and it can't be improved and today's package is in fact about further improving what we believe is the best health system in the world. Last week we announced a 17 per cent real funding boost to public hospitals and what that was designed to do was to reinforce one of the pillars of Medicare and that is the guarantee of free treatment in a public hospital ward. Today a series of measures to make Medicare fairer.</p>
 <p>Firstly, through incentives to doctors to strengthen the availability of bulk-billing, especially in rural and outer metropolitan areas.</p>
@@ -238,6 +228,4 @@
 <p>PRIME MINISTER:</p>
 <p>Look, I don't have anything to add to what I've previously said on that subject. Thank you very much. Bye bye.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

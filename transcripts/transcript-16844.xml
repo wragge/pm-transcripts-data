@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16844</transcript-id>
-    <title>Assistance for Australians affected by Samoan tsunami and Sumatra earthquakes   Prime Minister Minister for Families, Housing, Community Services and Indigenous Affairs Sydney</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/10/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced financial assistance to help Australians affected by the Samoan tsunami on 30 September 2009 and Sumatra earthquakes on 30 September and 1 October 2009.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16844</transcript-id><title>Assistance for Australians affected by Samoan tsunami and Sumatra earthquakes   Prime Minister Minister for Families, Housing, Community Services and Indigenous Affairs Sydney</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/10/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced financial assistance to help Australians affected by the Samoan tsunami on 30 September 2009 and Sumatra earthquakes on 30 September and 1 October 2009.</p>
 <p>The assistance, through the Australian Government Disaster Recovery Payment and Funeral Assistance Payment, will support the Australian victims of these devastating events, and their families.</p>
 <p>This assistance will provide $1,000 per adult and $400 per child to Australians who, as a result of the Samoan tsunami and Sumatra earthquakes:</p>
 <p>     * were seriously injured; or</p>
@@ -20,6 +10,4 @@
 <p>Centrelink social workers are also available to help Australians affected by these devastating events when they arrive back home.</p>
 <p>Those affected will have access to crisis intervention, personal support, referral and practical assistance through Centrelink.</p>
 <p>For information and support, please contact Centrelink on 1800 040 226 or visit your local Centrelink office.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

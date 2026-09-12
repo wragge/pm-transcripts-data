@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18306</transcript-id>
-    <title>$249 million for University-Business R&amp;D partnerships</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/12/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18306</transcript-id><title><![CDATA[$249 million for University-Business R&amp;D partnerships]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/12/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Innovation Minister Senator Kim Carr today announced a new $249 million package designed to help Australian industries become more competitive and create new job opportunities.</p>
 <p>The Industry Transformation Research program and cadetshippackage includes:</p>
-<p> * 	More than 1,000 engineering cadetships over the next four years so students can get the work experience they need to kick-start their careers in manufacturing and other Australian industries.<br />
- * 	Newresearch training centres that will provide quality industrial doctoral and postdoctoral training for up to 600 PhD students each year.<br />
+<p> * 	More than 1,000 engineering cadetships over the next four years so students can get the work experience they need to kick-start their careers in manufacturing and other Australian industries.<br>
+ * 	Newresearch training centres that will provide quality industrial doctoral and postdoctoral training for up to 600 PhD students each year.<br>
  * 	Newresearchhubs bringing researchers and industry representatives together to design and engineer commercially and technically viable solutions to some of our most pressing industrial problems.</p>
 <p>These new measures are part of the Labor Government's commitment to a more competitive and research focused manufacturing sector creating quality jobs and building the industries of the future.</p>
 <p>Australiais endowed with top quality researchers and top quality industry  -  this new alliance bringing the two together just makes good sense.</p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard and Innovation Minister Senator Kim Carr today anno
 <p>Manufacturers will have the benefit of additional research expertise and knowledge to tackle difficult problems in key sectors such as metals, food, energy, textiles, building and automotive.</p>
 <p>For more information on the Industrial Transformation Research Program, please see the attached summary, or visit <a href="http://www.arc.gov.au">www.arc.gov.au</a>.</p>
 <p>For more information on the engineering cadetships, visit <a href="http://www.innovation.gov.au">www.innovation.gov.au</a>. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

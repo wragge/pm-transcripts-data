@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18935</transcript-id>
-    <title>Retirement of Ricky Ponting</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18935</transcript-id><title>Retirement of Ricky Ponting</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard and the Minister for Sport Kate Lundy today paid tribute to Australian cricket legend Ricky Ponting after he announced he will be retiring from Test cricket following the upcoming Test against South Africa in Perth.</p>
 <p>Ricky Ponting is one of Australia's most successful sportsmen and one of the world's leading batsmen. </p>
 <p>Ponting is Australia's leading Test run scorer and one of only three players in history to score over 13,000 Test runs.</p>
@@ -18,6 +8,4 @@
 <p>His last Test for Australia will be his 168th, equalling Steve Waugh for the most Tests played by an Australian.</p>
 <p>Ponting's stellar cricket career has spanned nearly two decades and over this period he has inspired many Australians who look to him as a role model.</p>
 <p>We thank Ponting for his tremendous contribution to Australian sport and wish him all the best for his future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

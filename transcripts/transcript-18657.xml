@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18657</transcript-id>
-    <title>Australia&#039;s clean energy future</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/07/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Gillard Government has achieved a major milestone in its plan for Australia's clean energy future with today being the first day major greenhouse gas emitters will be required to pay for their pollution.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18657</transcript-id><title><![CDATA[Australia&#039;s clean energy future]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/07/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Gillard Government has achieved a major milestone in its plan for Australia's clean energy future with today being the first day major greenhouse gas emitters will be required to pay for their pollution.</p>
 <p>The carbon price which starts today means that in the year 2020, Australia's carbon pollution will be at least 159 million tonnes less per annum than it would be without this policy  - the equivalent of taking 45 million cars off the road.</p>
 <p>To help families with the costs that some businesses will pass on to them, a new round of tax cuts are also starting today, including trebling the tax-free threshold from $6000 to $18,200.</p>
 <p>Today we take the next steps the country needs to make to keep our economy competitive, to protect our environment and to provide a cleaner Australia for future generations.</p>
@@ -30,6 +20,4 @@
 <p>The Australian Renewable Energy Agency (ARENA) will provide grants and financial assistance for projects with a focus on renewable energy and energy efficiency technologies to make them more cost competitive.</p>
 <p>ARENA will administer $3.2 billion in existing Government support for research and development, demonstration and commercialisation of renewable energy technologies.</p>
 <p>Further information about the Gillard Government's Clean Energy Future plan is available at <a href="http://www.cleanenergyfuture.gov.au">www.cleanenergyfuture.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

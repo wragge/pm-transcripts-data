@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18341</transcript-id>
-    <title>Revitalised Prime Minister&#039;s Science Council</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18341</transcript-id><title><![CDATA[Revitalised Prime Minister&#039;s Science Council]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced reforms to Australia's peak science advisory body to make it more relevant and responsive to the immediate challenges and opportunities facing the nation.</p>
 <p>The new Prime Minister's Science, Engineering and Innovation Council (PMSEIC) will have a more dynamic and contemporary focus following a recent review of its operations and membership.</p>
 <p>The new smaller Council will meet three times a year to provide more timely independent scientific policy advice to Government on existing and emerging issues that a nation like Australia must confront.</p>
@@ -24,21 +14,19 @@ Prime Minister Julia Gillard today announced reforms to Australia's peak science
 <p>More regular meetings will also help the Council provide more timely scientific policy advice to meet the needs of the economy as well as responses to regional developments and international relations.</p>
 <p>High on the agenda of the new Council will also be the Chief Scientist's report on the Health of Australian Science - looking at strategies to ensure its sustainability.</p>
 <p>The PMSEIC's revised membership will include:</p>
-<p> * 	Prime Minister (chair);<br />
- * 	Minister for Tertiary Education, Skills, Science and Research (alternate chair);<br />
- * 	Minister for Industry and Innovation<br />
- * 	Other Ministers relevant to the meeting, at the invitation of the Prime Minister;<br />
- * 	Australia's Chief Scientist;<br />
- * 	CEO of the Australian Research Council;<br />
- * 	CEO of the National Health and Medical Research Council and;<br />
- * 	Six individual standing members, chosen for their contributions to science and research:<br />
- * 	Dr Megan Clark;<br />
- * 	Dr Cathy Foley;<br />
- * 	Dr Ben Greene;<br />
- * 	Professor Robert Saint;<br />
- * 	Professor Fiona Stanley; and<br />
+<p> * 	Prime Minister (chair);<br>
+ * 	Minister for Tertiary Education, Skills, Science and Research (alternate chair);<br>
+ * 	Minister for Industry and Innovation<br>
+ * 	Other Ministers relevant to the meeting, at the invitation of the Prime Minister;<br>
+ * 	Australia's Chief Scientist;<br>
+ * 	CEO of the Australian Research Council;<br>
+ * 	CEO of the National Health and Medical Research Council and;<br>
+ * 	Six individual standing members, chosen for their contributions to science and research:<br>
+ * 	Dr Megan Clark;<br>
+ * 	Dr Cathy Foley;<br>
+ * 	Dr Ben Greene;<br>
+ * 	Professor Robert Saint;<br>
+ * 	Professor Fiona Stanley; and<br>
  * 	Professor Graeme Turner.</p>
 <p>The PMSEIC will convene early this year. For more information, visit <a href="http://www.innovation.gov.au/Science/PMSEIC/Pages/default.aspx">http://www.innovation.gov.au/Science/PMSEIC/Pages/default.aspx</a>  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

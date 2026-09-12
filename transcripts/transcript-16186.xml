@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16186</transcript-id>
-    <title>Joint Media Release with  Deputy Prime Minister, Julia Gillard  and the Treasurer, Wayne Swan,  $187 Million to Double Job Training </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/10/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $187 million to create an additional 56,000 new training places this financial year to help keep the economy strong during the global financial crisis.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16186</transcript-id><title>Joint Media Release with  Deputy Prime Minister, Julia Gillard  and the Treasurer, Wayne Swan,  $187 Million to Double Job Training </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/10/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $187 million to create an additional 56,000 new training places this financial year to help keep the economy strong during the global financial crisis.</p>
 <p>This decisive action is part of the Government's $10.4 billion Economic Security Strategy to strengthen productivity and protect the Australian economy from the global financial crisis.</p>
 <p>This funding injection will:</p>
 <p>     *  effectively double the Productivity Places Program from 57,000 to 113,000 in 2008-09; and</p>
@@ -22,6 +12,4 @@
 <p>Almost 1,000 jobseekers who have been referred for training by employment service providers have already obtained jobs. This is an excellent outcome for such a new program.</p>
 <p>The new places will be available at Certificate II, III and IV levels, with 10,000 places to be allocated as ‘Structural Adjustment Places' to provide specific retraining opportunities and targeted support to displaced workers.</p>
 <p>These new places will take the Rudd Government's total commitment to the Productivity Places Program to more than $2 billion with more than 700,000 new training places to be created over five years. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

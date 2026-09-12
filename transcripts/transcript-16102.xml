@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16102</transcript-id>
-    <title>Interview with Chris Uhlmann AM Program, ABC Radio  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16102</transcript-id><title>Interview with Chris Uhlmann AM Program, ABC Radio  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Prime Minister good morning.</p>
 <p>PM: Morning Chris</p>
 <p>UHLMANN: Is inflation still the biggest economic challenge facing Australia today?</p>
 <p>PM: Well we have got to deal with two challenges; one is inflation, as I indicated in my speech on this subject in January this year just after having become Prime Minster. And the second is the contractionary challenges across the global economy.</p>
@@ -42,6 +32,4 @@
 <p>We need to adhere to the principals of international law, but I am confident that our American ally has acted appropriately in its dealings with the Government of Pakistan. It's difficult, it's hard, but my responsibility together with other heads of Government of those participating in the war against the Taliban is to be effective. And to be effective means dealing with the challenge that a number of Taliban continue to find safe haven across the border in Pakistan.</p>
 <p>UHLMANN:   Prime Minister we will have to leave it there thank you.</p>
 <p>PM: Thank you</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

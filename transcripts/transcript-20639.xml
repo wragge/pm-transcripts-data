@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20639</transcript-id>
-    <title>Interview with Steve Liebmann, The Today Show  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LIEBMANN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20639</transcript-id><title>Interview with Steve Liebmann, The Today Show  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LIEBMANN:</p>
 <p>Joining us in the studio now is the Prime Minister, John Howard. Prime Minister, good morning to you.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning, Steve.</p>
@@ -43,6 +33,4 @@
 <p>Steve, I've made my mind up very strongly that it's in Australia's interest to see the spread of these weapons stopped. I believe that very strongly. I don't think it is in Australia's interest to have a situation where these weapons spread. I certainly don't want a situation where controlling North Korea, which is in our region, is made more difficult because the world caves into Iraq.</p>
 <p>LIEBMANN:</p>
 <p>But just... let me quote you three headlines in the papers this morning that suggest it's time you fessed up - </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

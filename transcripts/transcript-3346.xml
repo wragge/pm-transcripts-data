@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>3346</transcript-id>
-    <title>MESSAGE TO PRESIDENT GERALD FORD</title>
-    <prime-minister>Whitlam, Gough</prime-minister>
-    <period-of-service>19721205 - 19751111</period-of-service>
-    <release-date>09/08/1974</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003346.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-PRIME MINISTER 9.8.74<br />
-MESSAGE TO PRESIDENT GERALD FORD<br />
-The Prime Minister, Mr. Whitlam, today sent<br />
-the following message to President Gerald Ford:<br />
-" I wish you every success as you assume<br />
-the great responsibilities of the<br />
-Presidency. You can be assured that my<br />
-Government, and Australians at large,<br />
-are confident of a continuation of the<br />
-good relations that exist between our two<br />
-countries. E. G. WHITLAM."<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>3346</transcript-id><title>MESSAGE TO PRESIDENT GERALD FORD</title><prime-minister>Whitlam, Gough</prime-minister><period-of-service>19721205 - 19751111</period-of-service><field_date>09/08/1974</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003346.pdf</document><subjects></subjects><content><![CDATA[<p>
+PRIME MINISTER 9.8.74<br>
+MESSAGE TO PRESIDENT GERALD FORD<br>
+The Prime Minister, Mr. Whitlam, today sent<br>
+the following message to President Gerald Ford:<br>
+" I wish you every success as you assume<br>
+the great responsibilities of the<br>
+Presidency. You can be assured that my<br>
+Government, and Australians at large,<br>
+are confident of a continuation of the<br>
+good relations that exist between our two<br>
+countries. E. G. WHITLAM."<br>
 CANBERRA, A. C. T. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

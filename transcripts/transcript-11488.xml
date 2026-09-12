@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11488</transcript-id>
-    <title>Interview with Tim Cox, ABC Radio Tasmania</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: GST; Centenary of Federation trip; pharmaceutical benefits.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11488</transcript-id><title>Interview with Tim Cox, ABC Radio Tasmania</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: GST; Centenary of Federation trip; pharmaceutical benefits.</p>
 <p>E&amp;OE....</p>
 <p>COX:</p>
 <p>Mr Howard, good morning to you.</p>
@@ -144,6 +134,4 @@
 <p>PRIME MINISTER:</p>
 <p>Ok. Bye, bye.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22411</transcript-id>
-    <title>Doorstop Interview National Portrait Gallery Site, Parkes </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22411</transcript-id><title>Doorstop Interview National Portrait Gallery Site, Parkes </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>  Good morning, nice and brisk, everybody ready?  Any questions?</p>
 <p> JOURNALIST:</p>
 <p> Do you support the hostile remarks that backbenchers are making about one another embroiled in this asylum seeker debate?</p>
@@ -57,6 +47,4 @@
 <p>  Afghanistan has got more dangers.  I will be making a statement to the Parliament after question time about our future deployments.  We are proposing an increase to provide protection for the group going as part of the Provincial Reconstruction Team.  It is more dangerous, there is no point in denying that, that's why we are taking every measure needed to protect our people, because the safety of the men and women of the Australian Defence Force, when they go overseas in our name, is my biggest concern, and I am not going to leave a stone unturned to make sure they are given the maximum protection.</p>
 <p> Thank you</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

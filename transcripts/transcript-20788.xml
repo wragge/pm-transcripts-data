@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20788</transcript-id>
-    <title>Doorstop Interview, Melbourne  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/07/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20788</transcript-id><title>Doorstop Interview, Melbourne  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/07/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  PRIME MINISTER:</p>
 <p>You right?  Everybody ready?</p>
 <p>PRIME MINISTER:</p>
 <p>Good.</p>
@@ -78,6 +68,4 @@
 <p>PRIME MINISTER:</p>
 <p>I have heard no suggestion to that effect and I have every confidence that our trading relationship with Japan will remain strong.  I'll be promoting it as hard I can when I see my good friend Mr Koizumi in Tokyo next week.  Japan is our best customer.  Japan buys more from us than any other country and I intend to do everything I can to make sure that it remains that way.  Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

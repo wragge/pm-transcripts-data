@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18356</transcript-id>
-    <title>Transcript of doorstop interview, Flowerdale</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/01/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18356</transcript-id><title>Transcript of doorstop interview, Flowerdale</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/01/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: It's a great privilege to be here today in Flowerdale, I'm joined by Rob Mitchell the local Member, the Member for McEwen, and we've had the opportunity today to present some of our National Emergency Medals to some people who did incredible things during the Victorian bushfires.</p>
 <p>Yesterday I had the opportunity in Canberra to present these medals, yesterday and today is the first time in our nation's history they've ever been presented. This is a newly struck honour that I asked Her Majesty the Queen to include because I wanted there to be a medal that could recognise the extraordinary things that Australians do for each other during natural disasters.</p>
 <p>This medal is there for those people who are fire-fighters and police and ambulance and emergency services workers who go that extra yard, but it's also there for all of the volunteers who do such tremendous work giving a helping hand during times of emergency.</p>
@@ -83,6 +73,4 @@ PM: It's a great privilege to be here today in Flowerdale, I'm joined by Rob Mit
 <p>JOURNALIST: Do you think there's a need for you and Mr Abbott to sit down with the protesters (inaudible) sensitive issue?</p>
 <p>PM: Look, I just don't think that there's any place for violence in protests and I don't think that that should get you anywhere.</p>
 <p>OK, thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

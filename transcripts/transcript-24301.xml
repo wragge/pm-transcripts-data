@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24301</transcript-id>
-    <title>The Right Honourable Malcolm Fraser AC CH</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our country has lost its 22nd Prime Minister, the Right Honourable Malcolm Fraser.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24301</transcript-id><title>The Right Honourable Malcolm Fraser AC CH</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our country has lost its 22nd Prime Minister, the Right Honourable Malcolm Fraser.</p>
 <p>As our nation’s leader between 1975 and 1983, he restored economically responsible government while recognising social change.</p>
 <p>In a long and active retirement, he maintained a keen interest in our country’s direction.</p>
 <p>The constitutional crisis of 1975 was one of the defining political events of our nation.</p>
@@ -28,6 +18,4 @@
 <p>Throughout his life, Malcolm Fraser was supported by his wife Tamie. All Australian prime ministers and governors-general have benefited from her continued work with the Australiana Fund.</p>
 <p>The sympathies of all Australians are extended to Tamie and their children and grandchildren.</p>
 <p>20 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12138</transcript-id>
-    <title>Increased Defence Surveillance </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/09/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Defence Force will immediately commence an enhanced surveillance patrol and response operation in international waters between the Indonesian archipelago and Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12138</transcript-id><title>Increased Defence Surveillance </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/09/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Defence Force will immediately commence an enhanced surveillance patrol and response operation in international waters between the Indonesian archipelago and Australia.</p>
 <p>The operation will involve five navy vessels and four P3 Orion aircraft.</p>
 <p>The enhanced operation will be reviewed after three weeks.</p>
 <p>An Australian Defence Force mission travelled to Jakarta yesterday to fully brief Indonesian authorities.</p>
 <p>The Indonesians have welcomed the advance notice of the operation and have offered port visits and refuelling facilities for the Australian vessels.</p>
 <p>1 September 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

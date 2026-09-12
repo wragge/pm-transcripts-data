@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19126</transcript-id>
-    <title>Transcript of Interview with Leon Compton, ABC Statewide Mornings</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/03/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Hobart</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19126</transcript-id><title>Transcript of Interview with Leon Compton, ABC Statewide Mornings</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/03/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Hobart</p>
 <p>HOST: Prime Minister, good morning to you.</p>
 <p>PM: Good morning Leon.</p>
 <p>HOST: And thank you for talking with us this morning. Prime Minister, you know the figures that surround Tasmania well  -  a small population, a large land mass, economic indicators on health, on education, on unemployment.</p>
@@ -70,6 +60,4 @@
 <p>So we will present at the forthcoming election as the only political party with a clear plan  -  not only to support families today  -  but to make sure our nation seizes all of the opportunities coming through the economic change in our region, and then shares that wealth fairly.</p>
 <p>HOST: Appreciate you talking with us this morning.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

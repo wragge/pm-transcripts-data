@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40352</transcript-id>
-    <title>Statement on the attempted coup in Turkey</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/07/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The attempted coup in Turkey this morning is of great concern.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40352</transcript-id><title>Statement on the attempted coup in Turkey</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/07/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The attempted coup in Turkey this morning is of great concern.</p>
 <p>Australia supports the democratically elected civilian Government of Turkey and calls on all parties to show respect for Turkey’s democratic institutions.</p>
 <p>We urge all parties to show calm and restraint.</p>
 <p>Australia has strong ties with Turkey and values our partnership in many areas, including the fight against ISIL. Turkey plays a crucial role in sheltering refugees displaced by the Syrian conflict.</p>
@@ -20,6 +10,4 @@
 <p>If you have any concerns for the welfare of family and friends in the region, try to contact them directly.</p>
 <p>If you are unable to contact them directly, you can call the Department of Foreign Affairs and Trade’s 24 hour Consular Emergency Centre on 1300 555 135, or +61 2 6261 3305 (if calling from overseas).</p>
 <p>Those planning to attend the Battle of Lone Pine commemorative service at Gallipoli on 6 August 2016 should monitor the Department of Foreign Affairs and Trade's Smartraveller website for updates on security arrangements.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

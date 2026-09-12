@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11599</transcript-id>
-    <title>PRACTICAL STEPS TO IMPROVE INDIGENOUS EDUCATION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/03/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The launch of the first National Indigenous English Literacy and Numeracy</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11599</transcript-id><title>PRACTICAL STEPS TO IMPROVE INDIGENOUS EDUCATION</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/03/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The launch of the first National Indigenous English Literacy and Numeracy</p>
 <p> Strategy today is an important step towards addressing educational disadvantage</p>
 <p> among Aboriginal and Torres Strait Islander peoples.</p>
 <p>The government will provide $27 million over the next four years to back</p>
@@ -36,6 +26,4 @@
 <p>This is another expression of the social coalition at work to address</p>
 <p> difficult problems within our society by drawing on the skills and resources</p>
 <p> of individuals, local communities, government and business.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

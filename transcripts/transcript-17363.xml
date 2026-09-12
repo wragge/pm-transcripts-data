@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17363</transcript-id>
-    <title>Breakthrough agreement with industry on improvements to resources taxation</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17363</transcript-id><title>Breakthrough agreement with industry on improvements to resources taxation</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The new tax arrangements will underpin major economic reforms that will strengthen our economy so we can move forward together with confidence.</p>
 <p>These arrangements will fund an historic boost to superannuation, new and better infrastructure, and business tax cuts including an up-front tax break and less red tape for small businesses to help them grow and thrive.</p>
 <p>This agreement provides certainty to the resources industry, to mining communities right around the country, and to the broader Australian economy.</p>
@@ -17,7 +7,7 @@
 <p>The breakthrough agreement keeps faith with our central goal from day one: to deliver a better return for the Australian people for the resources they own and which can only be dug up once. It is the result of intense consultation and negotiation with the resources industry.</p>
 <p>The improved resource taxation reforms focus on the most profitable resources, raise the uplift factor for tax losses, remove refundability and offer generous depreciation arrangements to promote new investment. They are more generous to industry in some respects, while industry has given ground in other areas. The improved profits-based taxation reforms will apply from 1 July 2012.</p>
 <p>The improved resource tax reforms involve:</p>
-<p> * 	a new Minerals Resource Rent Tax (MRRT) regime applying to iron ore and coal in Australia; and<br />
+<p> * 	a new Minerals Resource Rent Tax (MRRT) regime applying to iron ore and coal in Australia; and<br>
  * 	extending the current Petroleum Resource Rent Tax (PRRT) regime to all Australian onshore and offshore oil and gas projects, including the North West Shelf. This will provide certainty for oil and gas projects and ensure all oil and gas projects are treated equitably.</p>
 <p>The Government will focus the resource tax reforms on our biggest and most profitable commodities: iron ore, coal, oil and gas. These represent three-quarters of the value of our exports and resource operating profits and account for an even greater share of resource rents in the mining industry. They also represent the vast bulk of growth in the sector over the coming decades.</p>
 <p>Since the beginning of the mining boom, prices for iron ore have increased by over 400 per cent and prices for black coal have increased over 200 per cent.</p>
@@ -27,7 +17,7 @@
 <p>Further detail on the improved resource tax reforms is contained in the Attachment.</p>
 <p>The improved resource tax reforms are estimated to reduce revenue by $1.5 billion over the forward estimates. As the Government has always said, all elements of the tax reform package are dependent on the package being balanced by the revenues from resource taxation.</p>
 <p>The reduced revenue makes necessary the following revisions to the associated reforms:</p>
-<p> * 	The company tax rate will continue to be cut to 29 per cent from 2013-14 but will not be further reduced under current fiscal conditions. Small companies will benefit from an early cut to the company tax rate to 29 per cent from 2012-13.<br />
+<p> * 	The company tax rate will continue to be cut to 29 per cent from 2013-14 but will not be further reduced under current fiscal conditions. Small companies will benefit from an early cut to the company tax rate to 29 per cent from 2012-13.<br>
  * 	The resource exploration rebate will not be pursued. Resource exploration costs will continue to be deductible in the normal way and the PTG will consider the best way to promote future exploration and ensure a pipeline of resource projects for future generations.</p>
 <p>We believe these improved reforms offer the best chance of delivering for hard-working families and small businesses around Australia while protecting and growing our great mining industry.</p>
 <p>All along, our objective has been to deliver Australians a better return for the resources they own, which can only be extracted once, and this plan will deliver on that commitment.</p>
@@ -39,24 +29,22 @@
 <p>The MRRT will apply an internationally competitive rate of 30 per cent.</p>
 <p>The new arrangements also recognise the preference of industry for more generous recognition of past investment, through a credit that recognises the market value of that investment written down over a period of up to 25 years. For companies that prefer to use their current written down book values a generous accelerated depreciation over 5 years will be available.</p>
 <p>MRRT - Bulk commodity resource tax arrangements</p>
-<p> * 	Iron ore and coal will be subject to a new profits-based Minerals Resource Rent Tax (MRRT) at a rate of 30 per cent.<br />
-		 * 			MRRT assessable profits are calculated on the value of the commodity, determined at its first saleable form (at mine gate), less all costs to that point.<br />
-		 * 			Projects will be entitled to a 25 per cent extraction allowance that reduces taxable profits subject to the MRRT. This allowance recognises the contribution of the miner's expertise to profits at the mine gate.<br />
-		 * 			Small miners with resource profits below $50 million per annum will not have an MRRT liability.<br />
-		 * 			Miners may elect to use the book or market value as the starting base for project assets, with depreciation accelerated over 5 years when book value, excluding mining rights, is used; or effective life (up to 25 years) when market value at 1 May 2010, including mining rights, is used. All post 1 May 2010 capital expenditure will be added to the starting base.<br />
-		 * 			A book value starting base will be uplifted with the long term bond rate plus 7 per cent. However, a market value starting base will not be uplifted.<br />
-		 * 			Investment post 1 July 2012 will be able to be written off immediately, rather than depreciated over a number of years. This allows mining projects to access the deductions immediately, and means a project will not pay any MRRT until it has made enough profit to pay off its up front investment.<br />
-		 * 			The deductibility of expenditure under MRRT will be broadly based on the categories used in the PRRT regime.<br />
-		 * 			MRRT losses will be transferable to other iron ore and coal projects in Australia. This supports mine development because it means a company can use the deductions that flow from investments in the construction phase of a project to offset the MRRT liability from another of its projects that is in the production phase.<br />
-		 * 			Unutilised MRRT losses will be carried forward at the government long term bond rate plus 7 per cent.<br />
+<p> * 	Iron ore and coal will be subject to a new profits-based Minerals Resource Rent Tax (MRRT) at a rate of 30 per cent.<br>
+		 * 			MRRT assessable profits are calculated on the value of the commodity, determined at its first saleable form (at mine gate), less all costs to that point.<br>
+		 * 			Projects will be entitled to a 25 per cent extraction allowance that reduces taxable profits subject to the MRRT. This allowance recognises the contribution of the miner's expertise to profits at the mine gate.<br>
+		 * 			Small miners with resource profits below $50 million per annum will not have an MRRT liability.<br>
+		 * 			Miners may elect to use the book or market value as the starting base for project assets, with depreciation accelerated over 5 years when book value, excluding mining rights, is used; or effective life (up to 25 years) when market value at 1 May 2010, including mining rights, is used. All post 1 May 2010 capital expenditure will be added to the starting base.<br>
+		 * 			A book value starting base will be uplifted with the long term bond rate plus 7 per cent. However, a market value starting base will not be uplifted.<br>
+		 * 			Investment post 1 July 2012 will be able to be written off immediately, rather than depreciated over a number of years. This allows mining projects to access the deductions immediately, and means a project will not pay any MRRT until it has made enough profit to pay off its up front investment.<br>
+		 * 			The deductibility of expenditure under MRRT will be broadly based on the categories used in the PRRT regime.<br>
+		 * 			MRRT losses will be transferable to other iron ore and coal projects in Australia. This supports mine development because it means a company can use the deductions that flow from investments in the construction phase of a project to offset the MRRT liability from another of its projects that is in the production phase.<br>
+		 * 			Unutilised MRRT losses will be carried forward at the government long term bond rate plus 7 per cent.<br>
 		 * 			Unused credits for royalties paid will be uplifted at the government long term bond rate plus 7 per cent, as per other expenses. Unutilised royalty credits will not be transferrable or refundable.</p>
 <p>PRRT - A national taxation system for all oil and gas, onshore and offshore Australia</p>
-<p> * 	The Petroleum Resource Rent Tax (PRRT) regime, which currently only applies to offshore petroleum projects will be extended to cover all oil, gas and coal seam methane projects, onshore and offshore Australia. The PRRT will apply at a rate of 40 per cent.<br />
-		 * 			Companies may elect to use market value as the starting base for project assets, including oil and gas rights.<br />
-		 * 			All state and federal resource taxes will be creditable against current and future PRRT liabilities from a project.<br />
+<p> * 	The Petroleum Resource Rent Tax (PRRT) regime, which currently only applies to offshore petroleum projects will be extended to cover all oil, gas and coal seam methane projects, onshore and offshore Australia. The PRRT will apply at a rate of 40 per cent.<br>
+		 * 			Companies may elect to use market value as the starting base for project assets, including oil and gas rights.<br>
+		 * 			All state and federal resource taxes will be creditable against current and future PRRT liabilities from a project.<br>
 		 * 			The standard features of the current PRRT will otherwise apply, including the range of uplift allowances for unutilised losses and capital write-offs; immediate expensing for expenditure and limited transfer of the tax value of losses.</p>
 <p>Policy Transition Group</p>
 <p> * 	A Policy Transition Group, led by Resources Minister Martin Ferguson AM and Mr Don Argus AC and comprising credible, respected industry leaders will oversee the development of more detailed technical design to ensure the agreed design principles become effective legislation. This will have the objective of ensuring the agreed principles are effected in line with their intent in a commercial, practical manner.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

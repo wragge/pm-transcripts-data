@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18905</transcript-id>
-    <title>Establishment of Royal Commission into Child Sexual Abuse</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18905</transcript-id><title>Establishment of Royal Commission into Child Sexual Abuse</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Today I have announced that I will be recommending to the Governor-General the establishment of a Royal Commission into institutional responses to instances and allegations of child sexual abuse in Australia.</p>
 <p>The allegations that have come to light recently about child sexual abuse have been heartbreaking.</p>
 <p>These are insidious, evil acts to which no child should be subject.</p>
@@ -22,6 +12,4 @@
 <p>Further announcements, including the proposed Commissioner and detailed terms of reference, will be made in coming weeks.</p>
 <p>I commend the victims involved for having the courage to speak out.</p>
 <p>I believe we must do everything we can to make sure that what has happened in the past is never allowed to happen again.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

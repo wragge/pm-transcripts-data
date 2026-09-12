@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17135</transcript-id>
-    <title>Transcript of interview ABC North Queensland   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Earlier this morning I spoke to the Prime Minister, and asked him what those places will mean for regional Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17135</transcript-id><title>Transcript of interview ABC North Queensland   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Earlier this morning I spoke to the Prime Minister, and asked him what those places will mean for regional Queensland.</p>
 <p>PM: Well altogether what we are doing through our national health and hospitals network is funding an extra 6000 doctors over the coming decade. That'll mean 5,500 new or training general practitioners, 680 new medical specialists, as well as about 5,500 junior doctor places as they train within our hospitals.</p>
 <p>The second point is this: for regional Australia- and that means places like Far North Queensland, we are for the first time tackling the central problem of not enough doctors nationwide, and a large number of these GP training places and specialist training places will be going to regional areas. That's our best way of tackling the doctor shortage. It's simply been left too long with no concrete action.</p>
 <p>HOST: So those training places - assigned to regional hospitals?</p>
@@ -36,6 +26,4 @@
 <p>On the question of the upcoming election, as I've said for a long, long time, when an election is held it's going to be very tightly-fought. It'll be a hard-fought election. And I expect that. But I will simply continue in the business of ensuring that we are keeping the economy strong, protecting jobs, protecting the jobs of working families in North Queensland. But you know something, it'll be a tough fight, and that's what I fully expect come election time.</p>
 <p>HOST: Kevin Rudd, thank you.</p>
 <p>PM: Thanks for having me on the program. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18957</transcript-id>
-    <title>COAG Progresses The National Disability Insurance Scheme</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18957</transcript-id><title>COAG Progresses The National Disability Insurance Scheme</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>At the Council of Australian Governments (COAG) meeting in Canberra today, all governments took a major step towards giving people with disability the care and support they need over their lifetimes by signing an Intergovernmental Agreement for the first stage of the National Disability Insurance Scheme (NDIS).</p>
 <p>The Agreement provides the foundation for all governments to work together to develop and implement the first stage of these important reforms.</p>
 <p>The Agreement also sets out shared roles and responsibilities for working collaboratively on the policy for a full scheme and establishing arrangements for the review and evaluation of the first stage.</p>
@@ -17,10 +7,10 @@
 <p>More than 20,000 Australians are expected to benefit from the first stage of the NDIS, which will commence in launch locations around the country from the middle of next year.</p>
 <p>The first stage of the NDIS will provide valuable information and experience to inform the transition to full scheme.</p>
 <p>New South Wales, Victoria, South Australia, Tasmania and the Australian Capital Territory today signed bilateral agreements with the Commonwealth which confirm the operational and funding details for the roll-out of the NDIS in each launch site.</p>
-<p> * 	Around 10,000 people will benefit from the launch in the Hunter region of NSW,<br />
- * 	Around 5,000 people will benefit from the launch in the Barwon region of Victoria,<br />
- * 	Children aged 0-14 in South Australia (around 5,000 people with disability) will benefit from the first stage.<br />
- * 	Young people aged 15-24 years (around 1,000 people with disability) will benefit from the launch in Tasmania.<br />
+<p> * 	Around 10,000 people will benefit from the launch in the Hunter region of NSW,<br>
+ * 	Around 5,000 people will benefit from the launch in the Barwon region of Victoria,<br>
+ * 	Children aged 0-14 in South Australia (around 5,000 people with disability) will benefit from the first stage.<br>
+ * 	Young people aged 15-24 years (around 1,000 people with disability) will benefit from the launch in Tasmania.<br>
  * 	The whole of the ACT, around 5,000 people with disability, will benefit from the launch in the ACT.</p>
 <p>.</p>
 <p>The Commonwealth will be investing $1 billion over four years in the first stage of the NDIS.</p>
@@ -30,6 +20,4 @@
 <p>An NDIS will ensure people with disability, wherever they live, receive care and support based on their needs, and have choice and control over this support over their lifetimes.</p>
 <p>It will provide peace of mind to people with a disability, their families and carers, and to Australians who unexpectedly face misfortune in the future.</p>
 <p>For more information contact 1800 800 110 or visit <a href="http://www.ndis.gov.au">www.ndis.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

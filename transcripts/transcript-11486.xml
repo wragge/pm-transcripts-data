@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11486</transcript-id>
-    <title>Radio Interview with Neil Mitchell, Radio 3AW        </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/04/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Heroin injecting rooms; Internet gambling; petrol prices;</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11486</transcript-id><title>Radio Interview with Neil Mitchell, Radio 3AW        </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/04/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Heroin injecting rooms; Internet gambling; petrol prices;</p>
 <p> cricket; Gallipoli; tax; Jeff Kennett</p>
 <p>E&amp;OE................................................................................................</p>
 <p>  MITCHELL:</p>
@@ -368,6 +358,4 @@
 <p> not be surprised particularly as we've seen over recent months a</p>
 <p> flood of money into tech stocks and some that looked very speculative.</p>
 <p> The fundamentals of the Australian economy Ne</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

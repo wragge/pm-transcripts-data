@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18146</transcript-id>
-    <title>First National Police Service Medals awarded</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/09/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18146</transcript-id><title>First National Police Service Medals awarded</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/09/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today marks an important day in the recognition of long-serving police officers with the awarding of the first National Police Service Medals (NPSM).</p>
 <p>Sixteen serving officers  -  two from each State and Territory  -  have become the first to be honoured with the newest medal in the Australian honours system.</p>
 <p>The NPSM recognises police officers who have provided the highest standards of ethical and diligent service over a period of 15 years or more.</p>
@@ -19,6 +9,4 @@ Today marks an important day in the recognition of long-serving police officers 
 <p>This morning's presentation of the NPSM at Parliament House was the realisation of a 2007 election commitment to honour police officers who serve their community with dedication and integrity, and is the culmination of the hard work of the Police Federation of Australia and Australia's police commissioners to bring the NPSM to fruition.</p>
 <p>The medal and its ribbon were designed by serving officers from the NSW and Australian Federal Police forces.</p>
 <p>For more information on the NPSM, go to the Department of the Prime Minister and Cabinet website <a href="http://www.itsanhonour.gov.au">www.itsanhonour.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

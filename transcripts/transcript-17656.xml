@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17656</transcript-id>
-    <title>Australian Government Reconstruction Inspectorate</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17656</transcript-id><title>Australian Government Reconstruction Inspectorate</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced strict new oversight and accountability measures to ensure value for money is delivered in the massive task of rebuilding flood-ravaged regions.</p>
 <p>To make sure every cent of our Flood Rebuilding Package goes where it is needed the Government will implement the following: </p>
-<p> * 	A new Reconstruction Inspectorate to increase scrutiny and accountability of rebuilding projects.<br />
- * 	Require the states to provideindependently audited financial statements to support any claim for infrastructure rebuilding, including verification of spending against any advance payments made.<br />
+<p> * 	A new Reconstruction Inspectorate to increase scrutiny and accountability of rebuilding projects.<br>
+ * 	Require the states to provideindependently audited financial statements to support any claim for infrastructure rebuilding, including verification of spending against any advance payments made.<br>
  * 	Nominate two federal appointees to the board of the Queensland Reconstruction Authority. These will be Mr Brad Orgill former Chairman and CEO of UBS Australia and head of the BER Implementation Taskforce, and Mrs Glenys Beauchamp, Secretary to the Department of Regional Australia, Regional Development and Local Government.</p>
 <p>We need to help flood affected communities rebuild their roads, their bridges, their rail lines and public facilities so they can get their lives back to normal.</p>
 <p>Australians will all be pitching in to help through budget savings and the flood levy.</p>
@@ -23,11 +13,11 @@ Prime Minister Julia Gillard today announced strict new oversight and accountabi
 <p>Former Federal Finance Minister John Fahey has been appointed as Chair of the Reconstruction Inspectorate.  He will report directly to the Natural Disaster Recovery Cabinet sub-committee.</p>
 <p>Other members will include Martin Albrecht, former Managing Director of Thiess and Matt Sheerin from Deloitte.</p>
 <p>The Inspectorate will: </p>
-<p> * 	Scrutinise rebuilding contracts<br />
- * 	Directly inspect projects to ensure they are meeting progress milestones<br />
- * 	Investigate complaints or issues raised by the public<br />
- * 	Work directly with state reconstruction agencies to develop contractual frameworks, tendering processes and project management systems<br />
- * 	Scrutinise requests for reimbursement by local government for projects completed for the purposes of reconstruction<br />
+<p> * 	Scrutinise rebuilding contracts<br>
+ * 	Directly inspect projects to ensure they are meeting progress milestones<br>
+ * 	Investigate complaints or issues raised by the public<br>
+ * 	Work directly with state reconstruction agencies to develop contractual frameworks, tendering processes and project management systems<br>
+ * 	Scrutinise requests for reimbursement by local government for projects completed for the purposes of reconstruction<br>
  * 	Examine high value or complex projects prior to execution</p>
 <p>While the Inspectorate will be able to review any relevant project, it will have a particular focus on high value, complex contracts.</p>
 <p>The Inspectorate will not replicate the function or responsibilities of decision-making bodies such as the Queensland Reconstruction Authority. </p>
@@ -44,6 +34,4 @@ Prime Minister Julia Gillard today announced strict new oversight and accountabi
 <p>The Federal Government will create a dedicated task force to provide support for reconstruction work following the recent floods and cyclone.</p>
 <p>It will provide specialist assistance and advice to Federal Ministers involved in the flood recovery efforts and other relevant Commonwealth bodies including the Reconstruction Inspectorate.</p>
 <p>It is expected that the Taskforce will be a standing body for the next two years </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

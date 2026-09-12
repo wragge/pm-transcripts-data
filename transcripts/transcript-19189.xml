@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19189</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/03/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19189</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/03/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Perth</p>
 <p>PM: I'm delighted to be here with Minister Stephen Smith and with Senator Glenn Sterle for what is a very important occasion, and that is the opening of the Great Eastern Highway upgrade.</p>
 <p>I was just talking to Glenn and local community members about this upgrade. People have been talking about it for more than 20 years, and I'm very proud to be here today to say we have got it done.</p>
 <p>And what it means for the people who travel this road is a quicker commute and, most importantly, a safer commute.</p>
@@ -83,6 +73,4 @@
 <p>JOURNALIST: Why have you chosen not to meet with him?</p>
 <p>PM: I see Premier Barnett frequently. Just on this trip there wasn't the opportunity. I'll see him in a few short weeks' time at COAG.</p>
 <p>Okay, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

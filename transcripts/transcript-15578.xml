@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15578</transcript-id>
-    <title>Joint Press Conference with Attorney General the Hon Philip Ruddock Phillip Street, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/07/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15578</transcript-id><title>Joint Press Conference with Attorney General the Hon Philip Ruddock Phillip Street, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/07/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Border security</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER: </p>
@@ -94,6 +84,4 @@ Border security</p>
 <p>MINISTER RUDDOCK: </p>
 <p>Thank you very much. </p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

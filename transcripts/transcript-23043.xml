@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23043</transcript-id>
-    <title>Address to the University of Western Australia New Century Campaign Gala Dinner, Perth</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/10/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It’s hard to make a great deal of money. It is even harder to spend it very wisely.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23043</transcript-id><title>Address to the University of Western Australia New Century Campaign Gala Dinner, Perth</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/10/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It’s hard to make a great deal of money. It is even harder to spend it very wisely.</p>
 <p>Some time ago Andrew Forrest became one of our most significant entrepreneurs, now he is becoming one of our greatest philanthropists and I salute him on both counts.</p>
 <p>You only make a fortune by providing a service to people.</p>
 <p>Andrew Forrest is serving our country twice.</p>
@@ -33,6 +23,4 @@
 <p>So, may there be many more nights like this to celebrate generosity on an epic scale and hearts as big as our country.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

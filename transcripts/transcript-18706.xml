@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18706</transcript-id>
-    <title>Transcript of interview with Robert Mailer, ABC Kimberley</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18706</transcript-id><title>Transcript of interview with Robert Mailer, ABC Kimberley</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Good morning to you Prime Minister Julia Gillard.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Thanks for your time. You had a chance to speak to some locals last night. What were they telling you?</p>
@@ -48,6 +38,4 @@ HOST: Good morning to you Prime Minister Julia Gillard.</p>
 <p>PM: Well you know they're supposed to have some connection, so I think from the scarlet you can see what the connection really is.</p>
 <p>HOST: I wasn't going to go there, but I appreciate you letting us know that Prime Minister and I really do appreciate you spending some time on the Breakfast Program this morning. Please enjoy yourself in Kununurra and certainly in Wyndham as you enjoy that wonderful town there and continue your visit here in the Kimberley.</p>
 <p>PM: Thank you very much, I'm looking forward to the day. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

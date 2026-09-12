@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41557</transcript-id>
-    <title>Visit to Australia by the President of France</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>11/04/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that His Excellency Emmanuel Macron, President of the French Republic, will visit Australia from 1 - 3 May.  </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41557</transcript-id><title>Visit to Australia by the President of France</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>11/04/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that His Excellency Emmanuel Macron, President of the French Republic, will visit Australia from 1 - 3 May. &nbsp;</p>
 <p>France is one of our oldest and closest friends. This year especially we remember our nations’ shared sacrifice in the trenches of the Western Front a century ago.</p>
 <p>Our Enhanced Strategic Partnership embodies the new era of cooperation between Australia and France which extends across business, trade, military investment, and family ties.</p>
 <p>In a time of uncertainty and persistent challenges to the international rules based order to which both our countries are firmly committed, we must continue to work together to address global challenges and create opportunity for the prosperity of our people.</p>
@@ -17,6 +7,4 @@
 <p>We will also discuss the next steps toward launching negotiations of an Australia-EU Free Trade Agreement, which will embody our commitment to open markets and a liberal rules-based trading system, while significantly strengthening our trade and investment ties.</p>
 <p>Last year President Macron warmly welcomed me to the Élysée Palace in Paris, where we both reaffirmed our deep commitment to the partnership between our two countries. I look forward to announcing, with President Macron, a range of collaborative projects that will further strengthen our partnership.</p>
 <p>This visit will be President Macron’s first to Australia where I know that he will be very warmly welcomed.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

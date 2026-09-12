@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18199</transcript-id>
-    <title>Release of Gilad Shalit</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18199</transcript-id><title>Release of Gilad Shalit</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government warmly welcomed Gilad Shalit's release from captivity today.</p>
 <p>Mr Shalit was captured in a raid by the armed wing of Hamas in June 2006.</p>
 <p>He has been held in the Gaza strip by Hamas since that time.</p>
@@ -17,6 +7,4 @@ The Australian Government warmly welcomed Gilad Shalit's release from captivity 
 <p>In addition to his detention, he was deprived of the right to be in contact with his family.</p>
 <p>Through five long years, Gilad Shalit was in the thoughts of Australians, many of whom campaigned for his release.</p>
 <p>We wish Gilad and his family well for their reunion and for their future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

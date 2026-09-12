@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18049</transcript-id>
-    <title>Address to Per Capita: The Reform Series, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/08/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18049</transcript-id><title>Address to Per Capita: The Reform Series, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/08/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Thank you Josh. Can I acknowledge also Per Capita's Board, Fellows and friends, as well as Corrs, our hosts.</p>
 <p>It's good to be with the Per Capita circle again this morning.</p>
 <p>And here with all of you, I do want to pay particular tribute to David Hetherington's thoughtful, progressive leadership, which has driven Per Capita's growing success for four years now. </p>
@@ -156,6 +146,4 @@ Thank you Josh. Can I acknowledge also Per Capita's Board, Fellows and friends, 
 <p>Choice for each older Australian.</p>
 <p>Security for all older Australians. </p>
 <p>And leaving no one behind. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

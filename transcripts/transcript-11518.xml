@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11518</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW &amp;#150; MACLEAN, NSW                     SUBJECTS: Interest rates, insensitivity of people in dealing room cheering             interest rate rise; tax cuts and interest rates; Murdoch press; CDMA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/02/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11518</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW &amp;#150; MACLEAN, NSW                     SUBJECTS: Interest rates, insensitivity of people in dealing room cheering             interest rate rise; tax cuts and interest rates; Murdoch press; CDMA]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/02/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, is it becoming Government policy to criticise the Reserve</p>
 <p> Bank for its decisions on interest rates given the comments by Mr Reith,</p>
@@ -168,6 +158,4 @@
 <p> are adequate services provided in the bush. I think that is a demonstration</p>
 <p> of our concern. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

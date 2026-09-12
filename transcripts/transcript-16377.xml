@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16377</transcript-id>
-    <title>$950 One-off Cash Bonus to Support Jobs    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced five key $950 one-off payments for low and middle income households and individuals.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16377</transcript-id><title>$950 One-off Cash Bonus to Support Jobs    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced five key $950 one-off payments for low and middle income households and individuals.</p>
 <p>The Government is providing these cash payments to immediately support jobs and strengthen the Australian economy during a severe global recession.</p>
 <p>These targeted cash bonuses are a key element of the Government's $42 billion Nation Building and Jobs Plan to support up to 90,000 Australian jobs.</p>
 <p>To immediately stimulate the economy in the shortest possible time, five groups of one-off cash bonuses will be paid in March and April 2009.</p>
@@ -64,6 +54,4 @@
 <p>     * A temporary extension (from 1 January 2009 to 30 June 2010) of the EdEP to Youth allowance (other); and </p>
 <p>     * A temporary relaxation (from 1 January 2009 to 30 June 2010) of the requirement that recipients must have been receiving social security payments from 12 months to 1 month.</p>
 <p>Around 440,000 students and people returning to study will be paid this one off cash bonus. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

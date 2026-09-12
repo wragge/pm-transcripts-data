@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41241</transcript-id>
-    <title>Press Conference with the Minister for Health</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>11/10/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Health and medical research; citizenship; reliable and affordable energy; penalty rates</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong>I’m here with Greg Hunt, surrounded by so much medical talent, we’re going to hear from in a moment. But I just want to say how inspired we’ve been by the courage of the young people here who are battling with and beating cancer, with the love and support of the doctors and the nurses in this great hospital.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41241</transcript-id><title>Press Conference with the Minister for Health</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>11/10/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Health and medical research; citizenship; reliable and affordable energy; penalty rates</subjects><content><![CDATA[<p><strong>PRIME MINISTER:&nbsp;</strong>I’m here with Greg Hunt, surrounded by so much medical talent, we’re going to hear from in a moment. But I just want to say how inspired we’ve been by the courage of the young people here who are battling with and beating cancer, with the love and support of the doctors and the nurses in this great hospital.</p>
 <p>Boronia sang so well for us, Nick on the drums, Zoie on the reverie harp, is that right? And Katerina it was great to talk to you too and just to see the love of your family, all of you supported with strong families, great love and bringing that together with the remarkable sights and professionalism of all the team here.</p>
 <p>You're the heroes of today, so thank you.</p>
 <p>[Applause]</p>
@@ -95,7 +85,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>The matter is before the High Court. This is the citizenship matter, as you know. The government, based on the advice we've received from the Solicitor-General, we are confident that the Deputy Prime Minister will be found not to be disqualified from sitting in the Parliament, hence there would be no need for a by-election.</p>
 <p><strong>JOURNALIST: </strong></p>
-<p> So you have no plans at all, you are unprepared if things don’t go your way?</p>
+<p>&nbsp;So you have no plans at all, you are unprepared if things don’t go your way?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, look, I’d say this - we're always prepared, but we are confident in the advice we've received.</p>
 <p><strong>JOURNALIST:</strong></p>
@@ -164,6 +154,4 @@
 <p>I'm focused on delivering – I’ll tell you what I'm focused on, you can write whatever you like - I'm focused on affordable and reliable power and meeting our emissions reductions obligations. That’s our commitment. That is our commitment. It is a technology-agnostic approach. It is all of the above. Engineering and economics are the guides.</p>
 <p>That's what will deliver the right outcomes for Australians - affordable and reliable power and meet those international commitments.</p>
 <p>Thanks so much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

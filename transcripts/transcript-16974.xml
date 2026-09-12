@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16974</transcript-id>
-    <title>Transcript of interview with Steve Price 2UE   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/12/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRICE: Prime Minister Kevin Rudd's on the line, PM, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16974</transcript-id><title>Transcript of interview with Steve Price 2UE   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/12/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRICE: Prime Minister Kevin Rudd's on the line, PM, good morning.</p>
 <p>PM: How'd you go on that one Steve?</p>
 <p>PRICE: Ah, you lost I think.</p>
 <p>PM: Hey mate, how come you're hanging up the spurs? I mean, you're an institution in Sydney.</p>
@@ -45,6 +35,4 @@
 <p>PRICE: Thanks for helping us over the last couple of years, appreciate it.</p>
 <p>PM: And seriously, all the best mate, and have a really good Christmas yourself. And to all the listeners, can I also say a happy Christmas, and have a great break with your families as well.</p>
 <p>PRICE: Thanks Prime Minister.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

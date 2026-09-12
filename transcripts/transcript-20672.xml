@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20672</transcript-id>
-    <title>Interview with John Laws, Radio 2UE  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/02/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LAWS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20672</transcript-id><title>Interview with John Laws, Radio 2UE  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/02/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LAWS:</p>
 <p>Prime Minister, good morning and thank you so much for your time.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning John.</p>
@@ -55,6 +45,4 @@
 <p>I like him and he is a very genuine person.</p>
 <p>LAWS:</p>
 <p>I have no doubts about that. But I thought he rather put you on the spot with the </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

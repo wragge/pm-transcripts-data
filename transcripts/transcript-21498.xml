@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21498</transcript-id>
-    <title>Interview with Charles Wooley 60 Minutes, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>WOOLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21498</transcript-id><title>Interview with Charles Wooley 60 Minutes, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>WOOLEY:</p>
 <p>Prime Minister, I don't know if there is ever a perfect time to call an election, but why now?</p>
 <p>PRIME MINISTER:</p>
 <p>Well it's almost three years up.  I think the issues are crystallizing.  This election will be about trust.  Who do you trust to protect the economy and family living standards? Who do you trust to keep interest rates low?  Who do you trust to lead the fight against terrorism?  Who do you trust to keep the budget in surplus so we have more money to spend on health and education?</p>
@@ -114,6 +104,4 @@
 <p>  PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

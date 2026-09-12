@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21201</transcript-id>
-    <title>Doorstop Interview Ballina, New South Wales </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21201</transcript-id><title>Doorstop Interview Ballina, New South Wales </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, are you concerned about Lieutenant Colonel Collins claims overnight?</p>
 <p>PRIME MINISTER:</p>
 <p>Well as I said last night I've received his letter, it was only a short while ago, and the letter raises a number of very detailed matters and I'm getting information and when I have all of that information I'm going to reply to him fully and courteously and in detail, it's an important issue and he's entitled given the service that he has dedicated his life to, he's entitled to a proper reply and I will certainly give him one.</p>
@@ -58,6 +48,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think it's time to end this, terminate the press conference after that.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

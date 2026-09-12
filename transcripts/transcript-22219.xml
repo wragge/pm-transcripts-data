@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22219</transcript-id>
-    <title>Government response to the report of the Taskforce on Reducing the Regulatory Burdens on Business  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/04/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government is announcing immediate actions to address a number of the recommendations of the Report of the Taskforce on Reducing the Regulatory Burdens on Business - Rethinking Regulation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22219</transcript-id><title>Government response to the report of the Taskforce on Reducing the Regulatory Burdens on Business  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/04/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government is announcing immediate actions to address a number of the recommendations of the Report of the Taskforce on Reducing the Regulatory Burdens on Business - Rethinking Regulation.</p>
 <p>  Over-regulation is a major concern to all businesses and especially small businesses.  Effective regulation is also an important tool for delivering Australia's social and economic goals.  We are committed to getting the balance right.</p>
 <p>  The comprehensive report, guided by the views of stakeholders representing industry, small business, consumers and government, makes 178 recommendations on actions to reduce red tape.</p>
 <p>  While the report focuses on areas that are predominantly the responsibility of the Australian Government, it recognises that all three levels of government contribute to the regulatory burdens on business, and seeks to identify areas where there is overlap.  The state and territory governments, along with local government, need to follow the lead of the Australian Government and tackle the issue of reducing the regulatory burden on business.  A failure to do so will have a negative impact on the Australian economy through its impact on large and small business.</p>
@@ -38,6 +28,4 @@
 <p> RTF: <a href="http://www.pm.gov.au/docs/rethinkingregulation.rtf">http://www.pm.gov.au/docs/rethinkingregulation.rtf</a> (495KB)</p>
 <p>PDF: <a href="http://www.pm.gov.au/docs/rethinkingregulation.pdf">http://www.pm.gov.au/docs/rethinkingregulation.pdf</a> (323KB)</p>
 <p>The Report of the Taskforce can be found at <a href="http://www.regulationtaskforce.gov.au">www.regulationtaskforce.gov.au</a>.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

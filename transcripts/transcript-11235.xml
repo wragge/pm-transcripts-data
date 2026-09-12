@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11235</transcript-id>
-    <title>BEAZLEY FAILS LEADERSHIP TEST</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/02/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> The failure of the Leader of the Opposition, Mr Beazley, at</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11235</transcript-id><title>BEAZLEY FAILS LEADERSHIP TEST</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/02/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> The failure of the Leader of the Opposition, Mr Beazley, at</p>
 <p> the end of Question Time today to either rebuke or support the inflammatory</p>
 <p> and irresponsible remarks of Senator Nick Bolkus is a dismal failure</p>
 <p> of his leadership.</p>
@@ -23,6 +13,4 @@
 <p>The remarks of Senator Bolkus were calculated to inflame division</p>
 <p> within the community, not promote the cause of reconciliation.</p>
 <p> 11 February 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

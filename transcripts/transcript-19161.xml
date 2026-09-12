@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19161</transcript-id>
-    <title>Funding Boost for the Centre for Innovative Justice</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19161</transcript-id><title>Funding Boost for the Centre for Innovative Justice</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>The Centre for Innovative Justice at RMIT University in Melbourne will receive $300,000 to investigate ways to improve access to justice for Australians.</p>
 <p>The Centre, which forms part of the Graduate School of Business &amp; Law, was officially opened today by Prime Minister Julia Gillard and Attorney-General Mark Dreyfus.</p>
 <p>The Commonwealth funding will support research into ways to make private legal assistance affordable for more Australians.</p>
@@ -18,6 +8,4 @@
 <p>Led by former Victorian Attorney-General Rob Hulls, the Centre for Innovative Justice is the first of its kind in Australia with the goal of increasing the capacity of the justice system.</p>
 <p>RMIT is Australia's largest tertiary institution and has three campuses in Melbourne and two in Vietnam.</p>
 <p>The Gillard Government has committed more than $1.35 billion in legal assistance funding nationally  -  the biggest boost to legal aid in more than a decade.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

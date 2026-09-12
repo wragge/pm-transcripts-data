@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16672</transcript-id>
-    <title>Joint Press Statement on the occasion of the visit of the Prime Minister of Australia, The Hon. Kevin Rudd to Germany and his meeting with the Chancellor of the Federal Republic of Germany, Dr. Angela Merkel</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today Prime Minister Rudd of Australia and Chancellor Merkel of Germany reaffirmed the strength of relations between Australia and Germany and committed to continued close cooperation for global action in response to the economic crisis and to working together on other international challenges.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16672</transcript-id><title>Joint Press Statement on the occasion of the visit of the Prime Minister of Australia, The Hon. Kevin Rudd to Germany and his meeting with the Chancellor of the Federal Republic of Germany, Dr. Angela Merkel</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today Prime Minister Rudd of Australia and Chancellor Merkel of Germany reaffirmed the strength of relations between Australia and Germany and committed to continued close cooperation for global action in response to the economic crisis and to working together on other international challenges.</p>
 <p>The leaders agreed that the meetings of G20 Leaders in Washington last November and in London this April demonstrated what could be achieved when the world's major developed and emerging markets work together.</p>
 <p>They underlined the important role these summits had played in bolstering confidence, helping to arrest the decline in the global economy and laying the foundations for the restoration of growth through a new financial markets' architecture, better regulation, immediate measures to stabilise financial systems and restore credit flows, fiscal stimulus measures, a strong commitment to anti-protectionism, the strengthening of International Financial Institutions which includes significant new support to emerging markets and developing countries.</p>
 <p>The leaders agreed that continued global leadership by the G20 was required for a clear and coordinated strategy for sustainable economic growth as the world emerges from the crisis - including discussions of an exit-strategy, i.e. unwinding temporary stimulus and other measures, and addressing global imbalances.</p>
@@ -28,6 +18,4 @@
 <p>They discussed the threat to international security posed by the proliferation of weapons of mass destruction. Prime Minister Rudd thanked Chancellor Merkel for Germany's support of, and participation in, the International Commission for Nuclear Non-proliferation and Disarmament which is being co-chaired by Australia and Japan. They expressed deep concern about North Korea's recent provocative and destabilising behaviour and called for full implementation of UN Security Council Resolution 1874.</p>
 <p>They welcomed the signature by Presidents Obama and Medvedev of the Joint Understanding for a START follow-on Treaty which commits the United States and Russia to reduce their nuclear arsenals and delivery systems.</p>
 <p>The two leaders called on Iran to comply with the demands of the international community as expressed in UN Security Council resolutions. They urged the Iranian government to halt the violence and repressions used against Iranian citizens who are exercising their universal rights to free expression, opinion and peaceful assembly.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

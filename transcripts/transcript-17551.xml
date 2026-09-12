@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17551</transcript-id>
-    <title>Transcript of press conference, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/12/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17551</transcript-id><title>Transcript of press conference, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/12/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Can I start by advising people that today as I speak an extensive search and rescue mission is continuing to occur at Christmas Island. They're searching along the shore line and we have rescue divers in the water.</p>
 <p>The HMAS 'Pirie' and the Customs vessel 'Triton' are engaged including in areas where ocean currents may have taken survivors or victims. Three aircraft, including two P3 Orions are involved in the search. The operation will continue until nightfall and an assessment will be made then about whether or not it continues tomorrow.</p>
 <p>I do want to be clear though, that given the passage of time I believe we do need to face the grim reality that it is becoming increasingly unlikely, an increasingly remote possibility, that survivors will be found at this stage.</p>
@@ -108,6 +98,4 @@ PM: Can I start by advising people that today as I speak an extensive search and
 <p>JOURNALIST: Prime Minister, the New South Wales Court of Appeal ruled today, overturned bans on seven former directors of James Hardie. Is this a blow to the role ASIC is meant to be playing as a watchdog for this big business?</p>
 <p>PM: Look, I'll have to get back to you on that matter. I'm not briefed on that currently. Obviously, my time this morning has been spent in briefings related to the Christmas Island incident.</p>
 <p>OK, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

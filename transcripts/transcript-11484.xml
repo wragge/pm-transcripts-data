@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11484</transcript-id>
-    <title>Television Interview, Meet the Press, Channel 10</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Discussion on the GST, politician's pay rise, federation celebration in London, private health insurance and liberal party leadership.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11484</transcript-id><title>Television Interview, Meet the Press, Channel 10</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Discussion on the GST, politician's pay rise, federation celebration in London, private health insurance and liberal party leadership.</p>
 <p>E&amp;OE.....................................</p>
 <p>PRESENTER:</p>
 <p>Good morning and welcome to Meet the Press. There are two certainties in life, so the saying goes, death and taxes - and perhaps from this weekend there's another. If it took one hundred years for the Australian Federation to get an all pervasive consumption tax, it'll be another hundred years at least before it's abolished. The papers this morning are reporting a slump in retail sales and commuter confusion over fares and tolls. The government says, not unreasonably, bedding in such a mammoth change will take four to six months. Today, the driving force behind the GST revolution, the Prime Minister, John Howard, meets the press.</p>
@@ -297,6 +287,4 @@
 <p>PRESENTER:</p>
 <p>Prime Minister, we're right out of time. We'd like to pursue this further and perhaps on another time. Thank you very much for joining us today and thanks to our panel.</p>
 <p>Ends</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

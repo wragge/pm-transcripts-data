@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10782</transcript-id>
-    <title>31 July 1998                                 TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH NEIL MITCHELL                RADIO 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/07/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10782</transcript-id><title>31 July 1998                                 TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH NEIL MITCHELL                RADIO 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/07/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.................................................................................................</p>
 <p>MITCHELL:</p>
 <p>I appreciate you taking the time. I hope you didn't have a</p>
 <p>   glass of water with it in it.</p>
@@ -397,6 +387,4 @@
 <p>   of all, of 49 per cent and then the sale of the subsequent government</p>
 <p>   interest in the company.</p>
 <p>MITCHELL:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

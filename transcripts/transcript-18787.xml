@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18787</transcript-id>
-    <title>More Support for WA Apprentices to Complete Training</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/09/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18787</transcript-id><title>More Support for WA Apprentices to Complete Training</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/09/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Perth</p>
 <p>Around 580 West Australian apprentices in key trades stand to benefit from a mentoring program aimed at improving apprenticeship retention rates.</p>
 <p>Prime Minister Julia Gillard, Minister for Skills Senator Chris Evans and Member for Brand Gary Gray today announced the $1.1 million joint mentoring initiative that will target apprentices who need additional assistance to complete their apprenticeship.</p>
 <p>Right now, only approximately half of all apprentices currently complete their trades training.  </p>
@@ -24,6 +14,4 @@
 <p>Member for Brand Gary Gray said that mentoring is a proven way to increase these retention rates within the Australian Apprenticeship system.</p>
 <p>The mentoring project will focus on small and medium enterprises with a strong focus on school-based, mature-aged and first year apprentices, including fly-in fly-out apprentices.</p>
 <p>It will also target people from Indigenous backgrounds, from rural and remote regions and people with a disability.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

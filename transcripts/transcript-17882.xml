@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17882</transcript-id>
-    <title>Gillard Government&#039;s Youth Allowance reforms deliver record results</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17882</transcript-id><title><![CDATA[Gillard Government&#039;s Youth Allowance reforms deliver record results]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 More people are receiving Youth Allowance support than ever before according to new figures released today. </p>
 <p>Prime Minister Julia Gillard today said there had been an increase of 21,000 university students receiving Youth Allowance in just one year as a result of the reforms to the system made by the Government last year.</p>
 <p>These changes mean more students from lower socio-economic backgrounds and rural and regional areas can afford to attend university and get a degree.</p>
@@ -17,8 +7,8 @@ More people are receiving Youth Allowance support than ever before according to 
 <p>The Prime Minister and Minister for Tertiary Education, Senator Chris Evans today met students from the University of Canberra who have benefited from Youth Allowance support.</p>
 <p>In April last year, the Gillard Government implemented reforms to Youth Allowance payments to give more students the opportunity to go to university by targeting financial assistance to those with the greatest need.</p>
 <p>In just 12 months the reforms to Youth Allowance have seen a:</p>
-<p> * 	15 per cent increase in the total number of university students receiving Youth Allowance  -  135,000 students in March 2010 compared to 156,000 this year<br />
- * 	108 per cent increase in the number of dependent university students from disadvantaged backgrounds receiving the maximum Youth Allowance rate<br />
+<p> * 	15 per cent increase in the total number of university students receiving Youth Allowance  -  135,000 students in March 2010 compared to 156,000 this year<br>
+ * 	108 per cent increase in the number of dependent university students from disadvantaged backgrounds receiving the maximum Youth Allowance rate<br>
  * 	22 per cent increase in the number of rural and regional university students receiving Youth Allowance.</p>
 <p>The reforms are driven by strong values of the Gillard Labor Government  -  to ensure that the opportunity of a high quality university education is available to all Australians, regardless of their background or where they live.</p>
 <p>A key element of the reform package was to significantly increase the Parental Income Test threshold from $33,300 to $45,114 (indexed annually) to better target the assistance to those who need it most.</p>
@@ -32,6 +22,4 @@ More people are receiving Youth Allowance support than ever before according to 
 <p>That's a profound investment in Australia's future and our young people.</p>
 <p>These reforms mean that many more Australians will have the opportunities to access the high-paid jobs of the future.</p>
 <p>Helping young people achieve a university qualification is also vital to ensuring Australia meets the employment needs of a productive economy. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

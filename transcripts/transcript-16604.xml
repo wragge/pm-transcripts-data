@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16604</transcript-id>
-    <title>Professor Chris O&#039;Brien    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/06/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Chris O'Brien was a man of leadership, vision and courage.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16604</transcript-id><title><![CDATA[Professor Chris O&#039;Brien    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/06/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Chris O'Brien was a man of leadership, vision and courage.</p>
 <p>He inspired people, both through his work as a cancer specialist and through his own three-year battle with an aggressive, highly malignant brain tumour.</p>
 <p>Chris transformed his personal adversity into a national opportunity, using his experience to fight so much harder for cancer patients and their families.</p>
 <p>Chris's vision was for an integrated cancer treatment centre so that patients would no longer have to navigate their way through all the different elements of dealing with their illness alone.</p>
@@ -20,6 +10,4 @@
 <p>The Australian Government has offered the O'Brien family a state funeral in honour of Chris O'Brien's contribution to the nation. The O'Brien family advised me this morning that they would be pleased to accept this offer.</p>
 <p>It is only in exceptional circumstances that Governments offer state funerals.</p>
 <p>I believe Chris O'Brien has been a truly exceptional Australian</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

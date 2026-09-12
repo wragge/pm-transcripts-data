@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18679</transcript-id>
-    <title>Transcript of doorstop interview, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18679</transcript-id><title>Transcript of doorstop interview, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I've just received an update brief on this. As I'm advised, South Korea at the International Whaling Commission has announced that it's going to commence scientific whaling.</p>
 <p>I am very disappointed by this announcement by South Korea. We are completely opposed to whaling, there's no excuse for scientific whaling, and I have instructed our Ambassador in Korea to raise this matter today at the highest levels of the Korean Government.</p>
 <p>JOURNALIST: And what does the Government intend to do about it?</p>
@@ -18,6 +8,4 @@ PM: I've just received an update brief on this. As I'm advised, South Korea at t
 <p>JOURNALIST: Just quickly on the carbon floor price, why are you looking to change it from $15?</p>
 <p>PM: Minister Combet dealt with that in the paper today. We're consulting on the floor price and there's nothing new in that.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

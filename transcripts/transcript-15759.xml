@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15759</transcript-id>
-    <title>Visit to East Timor    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I will tomorrow take up Prime Minister Gusmao's invitation to visit East Timor.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15759</transcript-id><title>Visit to East Timor    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I will tomorrow take up Prime Minister Gusmao's invitation to visit East Timor.</p>
 <p>In East Timor I will meet Prime Minister Gusmao, Acting President Fernando Lasama de Araujo, the Parliament and the Opposition.</p>
 <p>I will also meet Brigadier Baker and others from the Australian-led International Stabilisation Force.  </p>
 <p>I will also meet with senior officers from the Australian Federal Police.</p>
@@ -19,6 +9,4 @@
 <p>At this difficult time, it is important that Australia sends a clear message that we are absolutely determined to respond effectively to the request from the East Timorese Government for assistance.</p>
 <p>We want to play our part in ensuring security and stability, and restate our support for long term economic growth and development in East Timor.</p>
 <p>CANBERRA</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

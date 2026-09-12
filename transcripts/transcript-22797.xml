@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22797</transcript-id>
-    <title>Interview with Philip Williams, ‘AM’, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/05/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22797</transcript-id><title>Interview with Philip Williams, ‘AM’, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/05/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Subject: The Budget; taxation reform</p>
 <p>E&amp;OE…………………………………………………………………………………</p>
 <p>PRESENTER:</p>
@@ -115,6 +105,4 @@ Subject: The Budget; taxation reform</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

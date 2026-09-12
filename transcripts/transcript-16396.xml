@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16396</transcript-id>
-    <title>Australian Government Assistance for Victorian Bush Fires    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Victorian fires have been extremely devastating and this is an extraordinary natural disaster with high loss of life and property.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16396</transcript-id><title>Australian Government Assistance for Victorian Bush Fires    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Victorian fires have been extremely devastating and this is an extraordinary natural disaster with high loss of life and property.</p>
 <p>Our thoughts and prayers are with those families who are suffering from these cruel and horrific events. </p>
 <p>Our gratitude goes out to the fire-fighters and other emergency services workers, many of them volunteers, who have endured the unbearable heat to help defend life and property.</p>
 <p>Centrelink family liaison officers will be made available in relief centres in Victoria to provide counselling services.</p>
@@ -30,6 +20,4 @@
 <p>The Australian Government is currently continuing to monitor the impacts and will be considering what further assistance can be provided to individuals, families and communities, especially through community organisations that are responding so well to this devastating event.</p>
 <p>The Australian Government is working with the Victorian Government to establish a Victorian Bushfire Appeal for people to make donation to assist those affected by the fires. More information on how to donate will be made available as soon as possible.</p>
 <p>More information on Australian Government assistance will be available at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

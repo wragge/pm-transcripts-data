@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17332</transcript-id>
-    <title>Transcript of interview with Steve Price MTR 1377   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRICE: Morning Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17332</transcript-id><title>Transcript of interview with Steve Price MTR 1377   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRICE: Morning Prime Minister.</p>
 <p>PM: Good morning Steve, thanks for having me on the program.</p>
 <p>PRICE: I couldn't escape the ad break there. We were either going to finish it with a Minerals Council ad or one from your own Government, they're everywhere.</p>
 <p>PM: There's a debate on at the moment, I take it?</p>
@@ -53,6 +43,4 @@
 <p>PRICE: Okay, appreciate your time as usual, thanks.</p>
 <p>PM: Thanks Steve.</p>
 <p>PRICE: Good on you, Prime Minister Kevin Rudd. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

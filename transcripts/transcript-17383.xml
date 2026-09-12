@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17383</transcript-id>
-    <title>Prime Minister announces new Ministry </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/09/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17383</transcript-id><title>Prime Minister announces new Ministry </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/09/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced the new Ministry of the Gillard Government.</p>
 <p>The Ministry will work together to deliver a stronger, sustainable economy and better services for all Australians.</p>
 <p>The Prime Minister said the Ministry includes experienced members of her Labor team remaining in Cabinet positions to continue their outstanding work in the most senior portfolios.</p>
@@ -31,6 +21,4 @@ Prime Minister Julia Gillard today announced the new Ministry of the Gillard Gov
 <p>									Tanya Plibersek					Minister for Human Services			Minister for Social Inclusion							Brendan O'Connor					Minister for Home Affairs and Justice Minister for Privacy and FOI							Kate Ellis					Minister for Employment Participation and Childcare							Mark Arbib					Minister for Indigenous Employment and Economic Development			Minister for Sport Minister for Social Housing and Homelessness							Nick Sherry					Minister for Small Business			Minister Assisting the Minister for Tourism							Warren Snowdon					Minister for Veterans' Affairs and Defence Science and Personnel							Bill Shorten					Assistant Treasurer Minister for Financial Services and Superannuation							Mark Butler					Minister for Mental Health and Ageing							Gary Gray					Special Minister of State							Jason Clare					Minister for Defence Materiel	</p>
 <p>						Parliamentary Secretaries					</p>
 <p>									David Bradbury					Treasury							Jacinta Collins					Education, Employment and Workplace Relations							Julie Collins					Families, Housing, Community Services and Indigenous Affairs							Mark Dreyfus					Climate Change and Energy Efficiency			Cabinet Secretary							Justine Elliot					Foreign Affairs and Trade							Don Farrell					Sustainable Population, Communities, Environment and Water							David Feeney					Defence							Mike Kelly					Agriculture, Fisheries and Forestry							Catherine King					Health and Ageing Infrastructure and Transport							Kate Lundy					Immigration and Citizenship			Prime Minister and Cabinet							Richard Marles					Foreign Affairs and Trade							Jan McLucas					Families, Housing, Community Services and Indigenous Affairs	</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

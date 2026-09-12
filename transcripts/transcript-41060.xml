@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41060</transcript-id>
-    <title>Press Conference with the Attorney-General, Senator the Hon. George Brandis QC and the  Acting Commissioner of the Australian Federal Police, Mr Michael Phelan APM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/07/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>National security, Encryption</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41060</transcript-id><title>Press Conference with the Attorney-General, Senator the Hon. George Brandis QC and the  Acting Commissioner of the Australian Federal Police, Mr Michael Phelan APM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/07/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>National security, Encryption</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Well good morning. It’s great to be here at the AFP Digital Forensics Lab here in Sydney with the Attorney-General and the acting AFP commissioner Michael Phelan.</p>
 <p>We have been talking today about the challenges that we face in ensuring that the rule of law applies online as well as offline. We’ve been talking about the challenges that some of the great specialists here at the AFP face when they seek to get over the barriers that encryption places in the way of them finding out what terrorists are plotting, what drug traffickers are up to, what people who are exploiting children online are planning.</p>
 <p>We need to ensure that the internet is not used as a dark place for bad people to hide their criminal activities from the law.</p>
 <p>The Australian Federal Police must have the powers - as do all our other intelligence and law enforcement agencies - to enforce the law online as well as offline.</p>
 <p>Now, in Hamburg at the G20, this issue was brought to the forefront by Australia with the world's 20 leading economies and you saw a unanimous statement from the G20 reiterating that we expect the rule of law to apply online as well as offline.</p>
-<p>Now one of the big challenges we face is that of encryption. Increasingly communications across the internet, whether it's messaging applications or voice applications, are encrypted end-to-end.  That means that while they can be intercepted, they can't be read, they can't be interpreted other than with considerable difficulty.</p>
+<p>Now one of the big challenges we face is that of encryption. Increasingly communications across the internet, whether it's messaging applications or voice applications, are encrypted end-to-end.&nbsp; That means that while they can be intercepted, they can't be read, they can't be interpreted other than with considerable difficulty.</p>
 <p>So what we’re seeking to do, working with the other leading economies in the world, is to ensure that the brilliant tech companies in Silicon Valley and their emulators, bring their brilliance to bear to assist the rule of law. To enable us to be able - not through back doors or any sort of untoward means - but legitimately, appropriately, with the force of law, in the usual way that applies in the offline world, enable our law enforcement agencies to have access to these communications so that they can keep us safe.</p>
 <p>As the Attorney-General will describe in a moment, we are already leading the way here in Australia with new legislative priorities that will ensure that internet companies, like the telcos at the moment, will have the obligation to assist the police with getting access to communications and information data that they are lawfully entitled to, in accordance with an appropriate warrant or court order. And also, to give the Australian Federal Police the ability that ASIO currently has to remotely, again in accordance with a lawful order, to remotely monitor computer networks and devices.</p>
 <p>These are vitally important reforms to keep Australians safe.</p>
@@ -104,7 +94,7 @@
 <p>Prime Minister, it's not a hypothetical. Apple has in the past flagged it does uphold the privacy above almost everything else, we saw with the San Bernardino case. So why do you think they are suddenly going to change now because you’ve asked them?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Again, this is a major challenge to our law enforcement ability, our law enforcement agencies’ ability to keep our citizens safe.</p>
-<p>What we are doing is everything we can within the parameters of our domestic Australian legal ability and internationally, working with other nations to ensure that we leave no stone unturned in our efforts to keep Australians safe. That's my job. That's the Attorney-General's job. That's the Commissioner's job.  To keep Australians safe.</p>
+<p>What we are doing is everything we can within the parameters of our domestic Australian legal ability and internationally, working with other nations to ensure that we leave no stone unturned in our efforts to keep Australians safe. That's my job. That's the Attorney-General's job. That's the Commissioner's job.&nbsp; To keep Australians safe.</p>
 <p>We will do everything we can online, as we do offline to keep Australians safe from those who seek to do us harm. Whether they are terrorists or drug traffickers or paedophile rings or criminals of any kind, we are a society governed by the rule of law and it must prevail. The rule of law must prevail online as it does offline.</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Isn't it the case without the cooperation of these tech companies, these legal changes will essentially be ineffective? They won't mean anything?</p>
@@ -113,6 +103,4 @@
 <p>So this is a question of whether you want the rule of law to prevail or whether you want the internet to be used as a place, because of encryption technologies, criminals can hide from justice, criminals can hide from those whose job it is, like the men and women of the AFP we’ve seen today, who's job it is to keep us safe.</p>
 <p>Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

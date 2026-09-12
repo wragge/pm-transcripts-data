@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21641</transcript-id>
-    <title>Visit to Australia by the President of Singapore  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/03/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Singapore President, HE Mr Sellapan Rama Nathan, will visit Australia from 13-18 March 2005.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21641</transcript-id><title>Visit to Australia by the President of Singapore  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/03/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Singapore President, HE Mr Sellapan Rama Nathan, will visit Australia from 13-18 March 2005.</p>
 <p> President Nathan will be the first Singapore Head of State to visit Australia. His visit, which follows my official visit to Singapore last month, will contribute to a further strengthening of bilateral ties between Australia and Singapore.</p>
 <p>President Nathan's visit will reciprocate that of the Governor-General, HE Major General Michael Jeffery, in March 2004, which was his first state visit overseas.</p>
 <p>  Australia's bilateral relationship with Singapore is one of our closest and most comprehensive in South-east Asia.  This is based on long-standing political, defence, educational, trade, tourism, aviation and Commonwealth links as well as a shared strategic outlook.</p>
@@ -18,6 +8,4 @@
 <p>  While in Australia, President Nathan will visit Canberra, Hobart and Perth.</p>
 <p>In addition to our meeting, President Nathan will meet several Cabinet colleagues. He will also attend a state banquet hosted by the Governor-General and a wreath-laying ceremony at the Australian War Memorial.</p>
 <p> In Hobart and Perth, he will meet the Governor of Tasmania, HE the Hon William Cox AC, and the Governor of Western Australia, HE Lieutenant-General John Sanderson AC.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

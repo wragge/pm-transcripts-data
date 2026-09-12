@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16609</transcript-id>
-    <title>Interview with Greg Cary - Radio 4BC    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CARY: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16609</transcript-id><title>Interview with Greg Cary - Radio 4BC    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CARY: Prime Minister, good morning.</p>
 <p>PM: Good morning Greg, Kevin will do fine.</p>
 <p>CARY: Kevin, Leigh Matthews (inaudible)</p>
 <p>MATTHEWS: (inaudible) Prime Minister.</p>
@@ -79,6 +69,4 @@
 <p>CARY: Alright, you take care enjoy the day, talk soon.</p>
 <p>PM: Thanks Greg.</p>
 <p>CARY: Our Prime Minister, Kevin Rudd.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17901</transcript-id>
-    <title>Transcript of joint press conference, Alice Springs</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/06/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17901</transcript-id><title>Transcript of joint press conference, Alice Springs</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/06/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: The last fortnight has been one of tremendous sorrow for our nation. Last Friday we mourned and we all, I think, followed the funeral of Brett Wood. I attended that funeral, a family grieving a lost man, and yesterday we brought home to Australia both Andrew Jones and Marcus Case, two soldiers who'd lost their lives in Afghanistan.</p>
 <p>Now we have more bad news to deal with so it's with a great sense of sadness that I offer my condolences to the family of a young man whose life has been lost in Afghanistan. Our loving thoughts are with them. They would be going through a tremendously difficult time today having heard this news.</p>
 <p>The young man we lost was a 23-year-old soldier. He was participating in a partnered Afghan National Police and Special Operations Task Group mission when he was shot by insurgents.</p>
@@ -47,6 +37,4 @@ PM: The last fortnight has been one of tremendous sorrow for our nation. Last Fr
 <p>JOURNALIST: What have you been told about the progress towards the handover to the Afghan security forces and where that's at at the moment?</p>
 <p>PM: What I've been able to speak to the Australian people about before is still the case. We are on a strategy of transition. Transition is not going to be a moment in time, there's not going to be transition day for Afghanistan. What there is going to be is place by place a transition to Afghan-led security. We are working to a timetable of transition in Oruzgan Province, where we work, by 2014. Of course some parts of Afghanistan will be able to transition during the course of this year.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

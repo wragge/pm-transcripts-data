@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22573</transcript-id>
-    <title>Doorstop Interview Australian War Memorial Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/11/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22573</transcript-id><title>Doorstop Interview Australian War Memorial Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/11/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, Tony Blair said the war on terror will last a generation, was that a topic of discussion in your conversation with him last night?</p>
 <p>PRIME MINISTER:</p>
 <p>The views that he expressed echo views I have expressed on a number of occasions. You can't put a date on it but it will go on for a long time and his sentiments and those of the head of MI5 are very similar to my own.  We talked about Iraq and that obviously has a context in the war against terrorism because if there is a western defeat in Iraq that will be a huge boost to the terrorists.  We also talked about climate change issues and we agreed that the different interests of different parts of the world had to be accommodated and I've frequently said, and I say it again, that we have to bring the perspective of our own region to this issue and not just the perspective of Europe.</p>
@@ -30,6 +20,4 @@
 <p>PRIME MINISTER:</p>
 <p>I have made my position clear on that before. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

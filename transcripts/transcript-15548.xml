@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15548</transcript-id>
-    <title>Press Conference, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/09/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15548</transcript-id><title>Press Conference, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/09/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 APEC Meeting; proposed pulp mill;  drugs in sport.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -23,6 +13,4 @@ APEC Meeting; proposed pulp mill;  drugs in sport.</p>
 <p>Secondly I commit a further contribution from Australia of $50 million to the Asia Pacific Partnership on Clean Development and Climate to fund large scale clean technology projects in addition to the 63 projects already supported through our initial contribution of $100 million. This initiative, the APP is important because it includes major developed and developing regional economies accounting for half of global greenhouse gas emissions, energy use GDP and world population. </p>
 <p>Thirdly, we will provide $15.7 million over four years for an Asia Pacific Forestry Skills and Capacity Building Program to assist countries to increase forest management expertise and improve the carbon sequestration performance of their forests. This reflects the importance we attach to forestry practices and management in providing for carbon sinks. </p>
 <p>Finally, I am pleased to launch today a report from the Australian Bureau of Agricultural and Research Economics entitled </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

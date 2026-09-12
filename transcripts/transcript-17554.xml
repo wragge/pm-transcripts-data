@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17554</transcript-id>
-    <title>Commonwealth assistance for flood-affected Queensland communities </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/12/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17554</transcript-id><title>Commonwealth assistance for flood-affected Queensland communities </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/12/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Acting Attorney-General Brendan O'Connor today said the Commonwealth Government would continue to provide assistance to Queensland communities affected by flooding over Christmas.</p>
 <p>Following a request from Queensland, the Government is providing two Blackhawk helicopters to assist in the evacuation of Theodore.</p>
 <p>Australian Defence Force personnel are on stand-by to offer further support if required.</p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard and Acting Attorney-General Brendan O'Connor today 
 <p>Acting Attorney General Brendan O'Connor said the Commonwealth Government would continue to monitor the situation in disaster declared areas across Australia and work with State Governments to provide assistance to communities affected by extreme weather conditions over the past few weeks.</p>
 <p>More than 120 LGAs in five states - Queensland, New South Wales, Victoria, South Australia and Western Australia - are receiving Commonwealth assistance through the NDRRA.</p>
 <p>We will also continue to monitor the situation in other flood affected areas, particularly in NSW where a number of communities remain isolated across the state.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

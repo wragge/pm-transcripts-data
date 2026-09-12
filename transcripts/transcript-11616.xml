@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11616</transcript-id>
-    <title>Arrival of the Olympic Torch at Uluru</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/06/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The arrival of the Olympic torch at Uluru today will bring great pride to all Australians as we look forward with growing anticipation towards the Opening Ceremony of the Olympic Games in Sydney.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11616</transcript-id><title>Arrival of the Olympic Torch at Uluru</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/06/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The arrival of the Olympic torch at Uluru today will bring great pride to all Australians as we look forward with growing anticipation towards the Opening Ceremony of the Olympic Games in Sydney.</p>
 <p>The journey of the Olympic torch through Australia is an important part of bringing the Games to the entire nation. All Australians should share in its spirit.</p>
 <p>The eyes of the world will follow the progress of the torch, beaming images of our nation around the globe.</p>
 <p>Uluru will be a marvellous introduction to many foreigners unfamiliar with Australia. It is a site that holds deep significance to its traditional owners, as well as being one of the great symbols of Australia and one of our most famous and cherished tourist attractions.</p>
@@ -18,6 +8,4 @@
 <p>Every state and territory will host the torch and up to 11,000 Australians will be part of the Olympics by carrying the flame. The route of the torch will be within one hour's drive from the majority of Australians.</p>
 <p>All Australians are looking forward to a safe and successful Olympic Games, which will showcase our country to the world.</p>
 <p>8 June 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

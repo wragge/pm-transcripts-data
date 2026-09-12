@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18134</transcript-id>
-    <title>Australia appoints Global Ambassador for Women and Girls</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/09/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18134</transcript-id><title>Australia appoints Global Ambassador for Women and Girls</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/09/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia will be at the forefront of global efforts to promote the role of women and girls with the creation of an Ambassador to advocate on their behalf.</p>
 <p>The Gillard Government today announced career diplomat Penny Williams will be Australia's first Global Ambassador for Women and Girls. </p>
 <p>The Prime Minister said that in the role, Ms Williams will ensure the needs of women and girls are properly represented in Australia's overseas development program and in foreign policy more broadly. </p>
@@ -22,6 +12,4 @@ Australia will be at the forefront of global efforts to promote the role of wome
 <p>Ms Williams will focus particularly on the Asia Pacific region which was ranked lowest in the world by the United Nations Development Programme on a range of gender indicators including access to education, employment and political participation.</p>
 <p>At home, Ms Williams will champion the needs of women and girls in Australia's foreign policy thinking.  On the world stage, she will be an international advocate for the Australian Government's work.</p>
 <p>On 16 September, Mr Rudd and Ms Williams will attend the APEC High Level Policy Dialogue on Women and the Economy in San Francisco at the invitation of the United States Secretary of State, Hillary Clinton. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

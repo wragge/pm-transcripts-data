@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17082</transcript-id>
-    <title>$18 million for new McLaren Vale Intersection    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/02/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the South Australian Premier today announced $18 million for a new intersection to be built at Victor Harbor Road and Main Road in McLaren Vale.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17082</transcript-id><title>$18 million for new McLaren Vale Intersection    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/02/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the South Australian Premier today announced $18 million for a new intersection to be built at Victor Harbor Road and Main Road in McLaren Vale.</p>
 <p>This is the next priority project on the Victor Harbor Road to improve safety and reduce congestion. This funding will see the T-junction become an overpass allowing traffic from McLaren Vale to merge safely with high speed traffic on the Victor Harbor Road.</p>
 <p>Up until now, this intersection has seen 35 serious crashes in just the last seven years, of which one resulted in a fatality.</p>
 <p>The work will improve safety and reduce travel times for the 18 000 cars that use the Victor Harbor Road every day.</p>
@@ -20,6 +10,4 @@
 <p>The new intersection at McLaren Vale is a jointly funded project, with the Australian Government contributing $14.4 million and the South Australian Government $3.6 million.</p>
 <p>Construction is expected to commence in 2011 and take 18 months to complete.</p>
 <p>The project is part of the Australian Government's $36 billion investment in transport infrastructure and part of the Strategic Infrastructure Plan for South Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

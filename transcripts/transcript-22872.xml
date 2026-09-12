@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22872</transcript-id>
-    <title>Interview with Jeremy Cordeaux, Radio 5DN, Adelaide</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Prime Minister’s plans for the future; private and public education; East Timor, Sex Discrimination Act; foreign aid; Papua New Guinea; veterans affairs</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22872</transcript-id><title>Interview with Jeremy Cordeaux, Radio 5DN, Adelaide</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Prime Minister’s plans for the future; private and public education; East Timor, Sex Discrimination Act; foreign aid; Papua New Guinea; veterans affairs</p>
 <p>E&amp;OE…………………………………………………………………………………...</p>
 <p>CORDEAUX:</p>
 <p>It’s with a great deal of pleasure that I welcome the Prime Minister of Australia.  Good morning Sir.</p>
@@ -149,6 +139,4 @@
 <p>CORDEAUX:</p>
 <p>Prime Minister, good to talk to you, thank you for your time once again.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

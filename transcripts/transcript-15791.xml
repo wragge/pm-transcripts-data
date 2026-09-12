@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15791</transcript-id>
-    <title>Joint Media Release with Anthony Albanese, Minister for Infrastructure, Construction Starts on Ipswich Motorway  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/03/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian and Queensland Governments today started work on the most important roads project in south-east Queensland  -  the Ipswich Motorway upgrade.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15791</transcript-id><title>Joint Media Release with Anthony Albanese, Minister for Infrastructure, Construction Starts on Ipswich Motorway  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/03/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian and Queensland Governments today started work on the most important roads project in south-east Queensland  -  the Ipswich Motorway upgrade.</p>
 <p>At the sod-turning ceremony in Darra today, the Australian Government announced $700 million for the Stage 1 of the Wacol to Darra project, which will initially upgrade three kilometres of the Motorway, starting with the interchange at Centenary Highway.</p>
 <p>The population of south-east Queensland is booming, with an estimated 80,000 cars and trucks using the Ipswich Motorway alone every day.</p>
 <p>Without action urban congestion in Australia is set to cost nearly $20 billion in lost productivity by 2020, Bureau of Infrastructure, Transport and Regional Economics estimates show.</p>
@@ -28,6 +18,4 @@
 <p>Australia's freight task is set to double in 20 years and our over-stretched road networks require significant investment and national leadership.</p>
 <p>We have established Infrastructure Australia, an independent statutory body which will develop an Infrastructure Priority List to guide billions of dollars of public and private investment into clearing bottlenecks and urban congestion around Australia.</p>
 <p>For the first time in more than a decade, the Australia and Queensland Governments will work in partnership to boost Queensland productive economic capacity.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

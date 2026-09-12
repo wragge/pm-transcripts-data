@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17207</transcript-id>
-    <title>Prime Minister Minister for Health Minister for Rural and Regional Health Member for Page $9.1 million for new and enhanced cancer services in Lismore</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $9.1 million to enhance cancer services at Lismore Base Hospital as part of a North Coast Cancer Institute Regional Cancer Service.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17207</transcript-id><title>Prime Minister Minister for Health Minister for Rural and Regional Health Member for Page $9.1 million for new and enhanced cancer services in Lismore</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $9.1 million to enhance cancer services at Lismore Base Hospital as part of a North Coast Cancer Institute Regional Cancer Service.</p>
 <p>With some cancers, patients from rural areas are up to three times more likely to die within five years of diagnosis than their counterparts in urban areas. The $9.1 million investment in Lismore will work towards improving the services and care for the more than 32,000 NSW residents diagnosed with cancer each year.</p>
 <p>The Government will provide $6.5 million to commission a second linear accelerator and a Positron Emissions Tomography/Computed Tomography (PET/CT) scanner at Lismore Base Hospital.</p>
 <p>A further $2.6 million will be invested in a 20-unit cancer patient and carer accommodation facility, 'Our House', to be built adjacent to the new cancer care centre at the Lismore Base Hospital.</p>
@@ -26,6 +16,4 @@
 <p>Today's announcement also shows the benefit of the Federal Government stepping up to the plate and providing funding for health services across Australia.</p>
 <p>Under the National Health and Hospitals Network, the Rudd Government would provide 60 per cent of the funding for capital upgrades for public hospitals.</p>
 <p>The Rudd Government's plan will see health services funded nationally and run locally through local hospital networks to deliver better outcomes for local communities. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

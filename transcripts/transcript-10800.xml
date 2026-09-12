@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10800</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO 2UE WITH MIKE CARLTON</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/05/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10800</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO 2UE WITH MIKE CARLTON</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/05/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>New unemployment figures. 7.9% for April, the best since 1990.</p>
 <p>   What did you do? Dance on the desk, kiss David Kemp? You must be</p>
 <p>   ecstatic.</p>
@@ -476,6 +466,4 @@
 <p> CARLTON:</p>
 <p>Prime Minister, John Howard, with I think an appropriate choice.</p>
 <p>ENDS</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

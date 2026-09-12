@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10700</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH CAROLYN TUCKER                ABC RADIO - 4QR, QUEENSLAND</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/06/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10700</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH CAROLYN TUCKER                ABC RADIO - 4QR, QUEENSLAND</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/06/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................</p>
 <p>JOURNALIST:</p>
 <p>This morning it's my pleasure to welcome the Prime Minister</p>
 <p>   who joins us from the ABC's Melbourne studios and he has agreed</p>
@@ -391,6 +381,4 @@
 <p>   people would be justified in saying no. But what I will be doing</p>
 <p>   is saying to the public that the next step that's needed to</p>
 <p>   strengt</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

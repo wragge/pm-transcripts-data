@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41246</transcript-id>
-    <title>National Energy Guarantee to deliver affordable, reliable electricity</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/10/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will accept the recommendation of the Energy Security Board (ESB) for a new National Energy Guarantee to deliver more affordable and reliable electricity while meeting our international commitments.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41246</transcript-id><title>National Energy Guarantee to deliver affordable, reliable electricity</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/10/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will accept the recommendation of the Energy Security Board (ESB) for a new National Energy Guarantee to deliver more affordable and reliable electricity while meeting our international commitments.</p>
 <p>As our energy system transitions, we must ensure households and businesses have access to affordable and reliable power.</p>
 <p>The independent Energy Security Board advises the Guarantee will give certainty to investors and therefore encourage investment in all forms of power. This means electricity bills will be lower than currently forecast and lower than they would have been under a Clean Energy Target.</p>
 <p>The Energy Security Board estimates typical household bills will fall by an average of $110-$115 per year over the 2020-2030 period.</p>
 <p>The Guarantee is made up of two parts that will require energy retailers across the National Electricity Market to deliver reliable and lower emissions generation each year.</p>
-<ul><li><strong>A reliability guarantee</strong> will be set to deliver the right level of dispatchable energy (from ready-to-use sources such as coal, gas, pumped hydro and batteries) needed in each state. It will be set by the Australian Energy Market Commission (AEMC) and Australian Energy Market Operator (AEMO).</li>
+<ul>
+<li><strong>A reliability guarantee</strong> will be set to deliver the right level of dispatchable energy (from ready-to-use sources such as coal, gas, pumped hydro and batteries) needed in each state. It will be set by the Australian Energy Market Commission (AEMC) and Australian Energy Market Operator (AEMO).</li>
 <li><strong>An emissions guarantee</strong> will be set to contribute to Australia’s international commitments. The level of the guarantee will be determined by the Commonwealth and enforced by the Australian Energy Regulator (AER).</li>
-</ul><p>Past energy plans have subsidised some industries, punished others and slugged consumers. The Turnbull Government will take a different approach.</p>
+</ul>
+<p>Past energy plans have subsidised some industries, punished others and slugged consumers. The Turnbull Government will take a different approach.</p>
 <p>The National Energy Guarantee will lower electricity prices, make the system more reliable, encourage the right investment and reduce emissions without subsidies, taxes or trading schemes. It is truly technology-neutral, offering a future for investment in whatever technology the market needs - solar, wind, coal, gas, batteries or pumped storage.</p>
 <p>Unlike previous approaches, we are not picking winners, we are levelling the playing field. Coal, gas, hydro and biomass will be rewarded for their dispatchability while wind, solar and hydro will be recognised as lower emissions technologies but will no longer be subsidised.</p>
 <p>Importantly, this plan builds on the Finkel Review, which recommended the creation of the ESB that has now recommended the National Energy Guarantee.</p>
@@ -24,6 +16,4 @@
 <p>As well as delivering a better deal for households, the plan will support business, particularly emissions intensive, trade exposed firms.</p>
 <p>The Guarantee builds on our existing energy policy which involves the retailers offering consumers a better deal, stopping the networks gaming the system, delivering more gas for Australians before it's shipped offshore and the commencement of Snowy Hydro 2.0 to stabilise the system.</p>
 <p>We now have an opportunity to break from the climate wars of the past and forge a sensible, sustainable path forward.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

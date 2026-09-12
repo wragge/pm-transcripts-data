@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18984</transcript-id>
-    <title>Transcript of Interview with Ben Knight</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC 7.30</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18984</transcript-id><title>Transcript of Interview with Ben Knight</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC 7.30</p>
 <p>HOST: Prime Minister welcome to 7.30. You've just been for a tour of the affected areas. How bad is it?</p>
 <p>PM: It's pretty bad. I've seen fire-affected areas before, so I kind of knew what to expect.</p>
 <p>But what always strikes you is the real destructive force of fire, the power of it, to even twist and bend metal, to make properties look like they've exploded rather than been burned.</p>
@@ -45,6 +35,4 @@
 <p>HOST: Prime Minister we'll leave it there. Thanks for your time.</p>
 <p>PM: Thanks very much.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

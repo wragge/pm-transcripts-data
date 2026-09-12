@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11111</transcript-id>
-    <title>Interview with Howard Sattler, Radio 6PR </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Deployment of troops into East Timor, Indonesian Government, demonstrations, Peter Costello, republic referendum, AFL and NRL grand finals</subjects>
-    <content><![CDATA[<p>23 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11111</transcript-id><title>Interview with Howard Sattler, Radio 6PR </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Deployment of troops into East Timor, Indonesian Government, demonstrations, Peter Costello, republic referendum, AFL and NRL grand finals</subjects><content><![CDATA[<p>23 September 1999</p>
 <p><i>Subjects: Deployment of troops into East Timor, Indonesian Government, demonstrations, Peter Costello, republic referendum, AFL and NRL grand finals</i></p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>SATTLER:</b></p>
@@ -195,7 +185,7 @@
 <p>Well, I am sorry, I don’t agree with that. I have just spent several, you know, days talking to just about every world leader and I have never felt more independent in my life.</p>
 <p><b>CALLER:</b></p>
 <p>Yeah, but you know, despite that we…</p>
-<p><b> PRIME MINISTER:</b></p>
+<p><b>&nbsp;PRIME MINISTER:</b></p>
 <p>You are talking about the republic aren’t you?</p>
 <p><b>CALLER:</b></p>
 <p>Yeah. Well, you know, just the difference. You know, we may be independent but a few years ago the Queen of England sacked an elected government by the Australian people. They had the power to do that then.</p>
@@ -229,6 +219,5 @@
 <p><b>SATTLER:</b></p>
 <p>Thanks for joining us on the programme today and I’ll maybe see you in Melbourne.</p>
 <p>[ends]</p>
-<hr />]]></content>
-  </transcript>
-</transcripts>
+<hr>
+]]></content></item></response>

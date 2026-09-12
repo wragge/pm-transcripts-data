@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12739</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP    DOORSTOP INTERVIEW, JOGYAKARTA     </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/02/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: visit to Indonesia; Peter Reith.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12739</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP    DOORSTOP INTERVIEW, JOGYAKARTA     </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/02/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: visit to Indonesia; Peter Reith.</p>
 <p>E&amp;OE...........</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, can you say why you came to this part of Indonesia, why you put it on your itinerary?</p>
@@ -52,6 +42,4 @@
 <p>PRIME MINISTER:</p>
 <p>Not now, maybe at some time in the future.  But I really must get back to Australia tonight because our Parliament is sitting next week and I have a lot of work to do at home.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

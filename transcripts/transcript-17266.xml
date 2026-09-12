@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17266</transcript-id>
-    <title>Prime Minister Minister for Housing Member for Longman New affordable homes in Morayfield 3 May 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/05/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Morayfield will soon have 1,300 new homes, years sooner, thanks to a $10.5 million investment from the Rudd Government's Housing Affordability Fund.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17266</transcript-id><title>Prime Minister Minister for Housing Member for Longman New affordable homes in Morayfield 3 May 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/05/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Morayfield will soon have 1,300 new homes, years sooner, thanks to a $10.5 million investment from the Rudd Government's Housing Affordability Fund.</p>
 <p>The $10.5 million will be used by the Moreton Bay Regional Council to:</p>
 <p>     * Construct critical infrastructure in the form of a vehicle, bicycle and pedestrian bridge; and</p>
 <p>     * Implement the RiskSMART planning reform tool - to speed up developments assessments, reducing the costs to builders on holding land that are usually passed on to homebuyers.</p>
@@ -23,6 +13,4 @@
 <p>It is also increasing the number of new homes on the market in rapidly growing areas like Moreton Bay.</p>
 <p>Moreton Bay Regional Council area is the third largest municipality in Australia with population growth occurring at double the national average.</p>
 <p>In total the Rudd Government is investing $512 million in the Housing Affordability Fund to reduce planning and infrastructure costs in new housing developments.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

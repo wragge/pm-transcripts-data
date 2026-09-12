@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41377</transcript-id>
-    <title>Radio interview - Triple M Hot Breakfast</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>HOST: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41377</transcript-id><title>Radio interview - Triple M Hot Breakfast</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage</subjects><content><![CDATA[<p><strong>HOST: </strong></p>
 <p>From Canberra, good morning Prime Minister, thank you for joining us this morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Great to be with you Eddie, what a great day.</p>
@@ -51,6 +41,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks a lot Eddie, thanks guys.</p>
 <p><strong>[ENDS] </strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

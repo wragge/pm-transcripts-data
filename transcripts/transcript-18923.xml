@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18923</transcript-id>
-    <title>Parliament Stands Behind White Ribbon Day</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/11/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18923</transcript-id><title>Parliament Stands Behind White Ribbon Day</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/11/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>A little over 20 years ago, three men in Toronto, Canada, decided to act.</p>
 <p>Responding to the senseless massacre of 14 female university students, Jack Layton, Ron Sluser and Michael Kaufman established a campaign that has gone on to become an international force for good.</p>
 <p>A campaign; led by men, to end violence against women.</p>
@@ -43,6 +33,4 @@
 <p>I hope that the lessons from this conference will be shared widely and help inform future White Ribbon initiatives.</p>
 <p>Once again, congratulations and thanks to all of the White Ribbon Ambassadors here today, including the Ambassadors here in the nation's Parliament.</p>
 <p>Your leadership is important, your example essential, if, as a community, we are to really bring about the changes that will ensure the greater safety of Australian women and girls, tomorrow and in the future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10666</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  UP CLOSE AND PERSONAL WITH RAY MARTIN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10666</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  UP CLOSE AND PERSONAL WITH RAY MARTIN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>Long ago, my next guest decided that he wanted to be a writer.</p>
 <p>   Somehow he ended up a lawyer, he hasn't practiced for many</p>
 <p>   years. At High School, he failed maths and yet somehow became the</p>
@@ -409,6 +399,4 @@
 <p>   been punching you up for 20 years. Do you listen to them, do you</p>
 <p>   take any note, does it hurt?</p>
 <p>PRIME MINISTER:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40847</transcript-id>
-    <title>Joint Press Conference with His Excellency Li Keqiang, Premier of the State Council of the People’s Republic of China</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40847</transcript-id><title>Joint Press Conference with His Excellency Li Keqiang, Premier of the State Council of the People’s Republic of China</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning. Well we’ve had very, very constructive discussions, the Premier and I and our Ministers and we are delighted to host the Premier and his wife Professor Cheng Hong here in Australia.</p>
 <p>This is the Premier’s first visit as Premier coinciding with the 45th Anniversary of Australia-China diplomatic relations. Premier Li is an old friend to Australia. He has visited every decade since the 1990s.</p>
 <p>In addition to being a lawyer, he is of course an accomplished economist and he is now overseeing the entire Chinese Economy. He has made an enourmous contribution to China's extraordinary rise.</p>
@@ -101,6 +91,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Very good. Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

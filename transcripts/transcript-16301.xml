@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16301</transcript-id>
-    <title>Australian Support for Regional Democracy    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today announced a $3 million assistance package to support the new Bali Democracy Forum (BDF) and the Institute for Peace and Democracy in Indonesia. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16301</transcript-id><title>Australian Support for Regional Democracy    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today announced a $3 million assistance package to support the new Bali Democracy Forum (BDF) and the Institute for Peace and Democracy in Indonesia. </p>
 <p>The Prime Minister made the announcement in Bali where he is co-chairing the BDF with the President of Indonesia, HE Dr Susilo Bambang Yudhoyono.</p>
 <p>The BDF and the new Institute at the University of Udayana in Bali are aimed at fostering democracy in the Asia Pacific and are timely regional initiatives by President Yudhoyono.</p>
 <p>Australia strongly congratulates President Yudhoyono for his vision and his regional leadership in convening the Bali Democracy Forum.</p>
@@ -20,6 +10,4 @@
 <p>     * Support for a partnership between the Institute and Australia's Centre for Democratic Institutions at the Australian National University;</p>
 <p>     * Start-up financing for the Institute;</p>
 <p>     * A mixture of short- and long-term “democracy scholarships”, established in partnership with the Institute which will bring students from the region to study in Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

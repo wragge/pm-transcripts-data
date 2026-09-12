@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40205</transcript-id>
-    <title>First meeting of the FinTech Advisory Group</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/02/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40205</transcript-id><title>First meeting of the FinTech Advisory Group</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/02/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Well, Scott and Wyatt, Kelly, it’s great to be here, to have here our FinTech Advisory Group.</p>
 <p>Financial Services is one of the, and Christopher, the Minister, the Minister himself.</p>
 <p>It’s good that we are all here; we’re here to listen to you because we’ve put together an Innovation and Science Agenda which is all about growing the economy of the 21st-century and that is based clearly on innovation. Financial services is an enormous industry, it’s an enormous sector in which Australia has many competitive advantages, a large superannuation fund base, we’re in the same time zone as the big markets of East Asia and we’ve already seen great examples of innovation in the sector.</p>
@@ -32,6 +22,4 @@
 <p>Thanks media, we’ll now confer with these luminaries around the table and listen.</p>
 <p><strong>Ends</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

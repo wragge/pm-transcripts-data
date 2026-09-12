@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10578</transcript-id>
-    <title>Radio Interview with Matt Peacock, AM Programme, ABC Radio</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/11/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><b>E&amp;OE........................................................................................................................</b></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10578</transcript-id><title>Radio Interview with Matt Peacock, AM Programme, ABC Radio</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/11/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><b>E&amp;OE........................................................................................................................</b></p>
 <p><b>PEACOCK:</b></p>
 <p>Prime Minister, it has been generally well received the drug package, but what is actually new about it, aren’t these old, recycled policies?</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -79,6 +69,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Cabinet will consider this at the appropriate time and we will make an announcement.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

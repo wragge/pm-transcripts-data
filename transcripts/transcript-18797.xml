@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18797</transcript-id>
-    <title>Government Welcomes Manufacturing Taskforce Report</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/08/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18797</transcript-id><title>Government Welcomes Manufacturing Taskforce Report</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/08/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Manufacturing can prosper and grow in Australia if the sector takes advantage of emerging opportunities in the Asian region, a national report into manufacturing has found.</p>
 <p>Members of the Prime Minister's Manufacturing Taskforce - representing business, unions and the research sector - presented their report Smarter Manufacturing for a Smarter Australia today.</p>
 <p>The Gillard Government is committed to ensuring that Australia retains a strong manufacturing industry and will respond to the report's recommendations with an Industry and Innovation Statement in the last quarter of the year.</p>
@@ -28,7 +18,5 @@ Manufacturing can prosper and grow in Australia if the sector takes advantage of
 <p>The Government also accepts the Taskforce's recommendation to establish a Manufacturing Leaders Group. We see an important role for this group in assisting the Government to implement its response to the Taskforce's recommendations.</p>
 <p>One of the policy agendas identified by the non-government members of the Taskforce is to address Australia's competitiveness through the generation, dissemination and application of knowledge. This calls for researchers, research agencies and business to rethink how they can best work together to encourage innovation.Such collaboration will be facilitated through the Industrial Research Transformation Program (ITRP), which supports strong partnerships between research and industry and encourages PhD students and postdoctoral researchers to gain industry experience.The ITRP funding rules will be finalised in the context of the Industry and Innovation statement. The Australian Research Council will consult with Industry and the Research Sector in order to release the rules in coming weeks.</p>
 <p>The full Manufacturing Taskforce report can be accessed online at the below website.</p>
-<p><a href="http://www.innovation.gov.au/Industry/Manufacturing/Taskforce/Pages/default.aspx">http://www.innovation.gov.au/Industry/Manufacturing/Taskforce/Pages/defa...</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><a href="http://www.innovation.gov.au/Industry/Manufacturing/Taskforce/Pages/default.aspx">http://www.innovation.gov.au/Industry/Manufacturing/Taskforce/Pages/def…</a></p>
+]]></content></item></response>

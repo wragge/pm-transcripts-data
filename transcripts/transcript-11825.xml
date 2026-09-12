@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11825</transcript-id>
-    <title>Interview with Howard Sattler, Radio 2SM, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: : Australian dollar, economy, unemployment figures, Ryan by-election, petrol prices, beer prices, foreign debt</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11825</transcript-id><title>Interview with Howard Sattler, Radio 2SM, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: : Australian dollar, economy, unemployment figures, Ryan by-election, petrol prices, beer prices, foreign debt</p>
 <p>E&amp;OE................................ </p>
 <p>SATTLER:</p>
 <p>Good morning, Mr Howard, welcome to the programme.</p>
@@ -226,6 +216,4 @@
 <p>SATTLER:</p>
 <p>Right, I do appreciate your time. Talk again soon. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

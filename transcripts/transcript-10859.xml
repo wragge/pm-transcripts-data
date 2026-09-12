@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10859</transcript-id>
-    <title>THE FIRST ANNUAL FEDERATION ADDRESS:             &amp;quot;THE GOVERNMENT&amp;#146;S GOALS FOR 1998&amp;quot;             BY             THE PRIME MINISTER             THE HON JOHN HOWARD MP             TO THE AUSTRALIAN INSTITUTE OF COMPANY DIRECTORS             (SO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/01/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10859</transcript-id><title><![CDATA[THE FIRST ANNUAL FEDERATION ADDRESS:             &amp;quot;THE GOVERNMENT&amp;#146;S GOALS FOR 1998&amp;quot;             BY             THE PRIME MINISTER             THE HON JOHN HOWARD MP             TO THE AUSTRALIAN INSTITUTE OF COMPANY DIRECTORS             (SO]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/01/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Wednesday, 28 January 1998</p>
 <p>I want today to mark the beginning of a new year by not only taking</p>
 <p> stock of our progress toward the goals we set for ourselves and the</p>
@@ -414,6 +404,4 @@ Wednesday, 28 January 1998</p>
 <p> we are introducing a major new literacy and numeracy programme specifically</p>
 <p> designed to assist those young people who have been unemployed for</p>
 <p> six months or more and whose </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

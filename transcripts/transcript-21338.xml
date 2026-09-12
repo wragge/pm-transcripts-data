@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21338</transcript-id>
-    <title>Interview with David Speers, Sky News  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21338</transcript-id><title>Interview with David Speers, Sky News  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  SPEERS:</p>
 <p>Prime Minister, thank you for your time.  Firstly, on Iraq - a series of rebel attacks has left about 85 dead, 350 wounded, is this the sort of violence that you had expected in the lead up to the handover of power?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, firstly, I call them terrorist attacks, that's what they are.  Let's not use any of these namby-pamby words like insurgents or rebels.  You're dealing here with terrorists, you're dealing here with somebody who has claimed responsibility for beheading people.  It is exactly what I expected and it could get even worse over the next few days because there is a determined attempt by Al Qaeda, by the terrorists to stop democracy emerging in Iraq and that is why they are doing this.  And it is a huge test of will for the Iraqi people.  I feel for them.  I admire the courage and the resolution of Dr Allawi, the provisional prime minister.  I wish them well.  It reinforces the need for everybody to stand shoulder to shoulder with the Iraqi people at the present time.</p>
@@ -114,6 +104,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

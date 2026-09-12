@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12626</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  RADIO INTERVIEW WITH ALAN JONES, 2GB   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/04/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Insurance; Telstra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12626</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  RADIO INTERVIEW WITH ALAN JONES, 2GB   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/04/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Insurance; Telstra</p>
 <p>E&amp;OE...........  </p>
 <p>JONES:</p>
 <p>Good morning, Prime Minister.</p>
@@ -96,6 +86,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

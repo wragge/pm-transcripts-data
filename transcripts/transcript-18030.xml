@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18030</transcript-id>
-    <title>Transcript of press conference, Hobart</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18030</transcript-id><title>Transcript of press conference, Hobart</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Good afternoon. First I'd like to make a few comments about the events in Norway. Australia condemns the brutal and shocking acts of evil we've seen in Norway overnight. People have been killed, many more have been injured and from the tales that are now being told by survivors, it's clear that many have lived through absolute nightmares.</p>
 <p>Australia and Norway are countries which are good friends. I've taken steps to convey to the Prime Minister of Norway the sadness and concern of Australians as we watch these events unfold. The family and friends of those who have been killed and injured have our most sincere sympathies. And of course Australia stands by prepared to help in any way that it can.</p>
 <p>We are not advised that any Australians were involved in these incidents. Clearly anyone who is concerned about a family member who may be travelling in Norway should contact the Department of Foreign Affairs and Trade, but at this time we've got no advice suggesting any Australians were caught up in these brutal acts of evil.</p>
@@ -58,6 +48,4 @@ PM: Good afternoon. First I'd like to make a few comments about the events in No
 <p>PM: Mr Abbott believes his job is to talk our nation down and to talk our economy down. He does it day after day. He's made some very specific comments about the economy of Tasmania, and I think Tasmanians would be pretty upset to see Mr Abbott talking down their state the way he's talked it down this week.</p>
 <p>As Prime Minister, I believe my job is to be working with people, so we can secure a good future for them and a good future for jobs. Mr Abbott thinks his job is to simply talk everything down, including this very great state of Tasmania.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

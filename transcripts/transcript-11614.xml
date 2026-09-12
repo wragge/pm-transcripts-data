@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11614</transcript-id>
-    <title>MEDALS FOR SERVICE IN EAST TIMOR</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/03/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Her Majesty The Queen has approved the</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11614</transcript-id><title>MEDALS FOR SERVICE IN EAST TIMOR</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/03/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Her Majesty The Queen has approved the</p>
 <p> establishment of a specific campaign medal for members of the Australian</p>
 <p> Defence Force in East Timor. This will be known as the International</p>
 <p> Force East Timor Medal.</p>
@@ -31,6 +21,4 @@
 <p>On behalf of the nation I thank all those members of the Australian Defence</p>
 <p> Force and all associated personnel who have served with such distinction</p>
 <p> in East Timor.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

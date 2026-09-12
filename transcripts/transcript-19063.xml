@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19063</transcript-id>
-    <title>Landing Helicopter Dock Ship Officially Named</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19063</transcript-id><title>Landing Helicopter Dock Ship Officially Named</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>The first of two new Landing Helicopter Dock (LHD) ships was officially named Canberra in a traditional Navy ceremony at Williamstown, Victoria today.</p>
 <p>Prime Minister Julia Gillard and Minister for Defence Stephen Smith attended the naming ceremony. </p>
 <p>They were joined by the Chief of the Defence Force, General David Hurley, and the Chief of Navy, Rear Admiral Ray Griggs, for this special occasion.</p>
@@ -28,6 +18,4 @@
 <p>The Canberra class LHDs are bigger than Australia's last aircraft carrier HMAS Melbourne and will be more than 230 metres long, 27.5 metres high and weigh around 27,500 tonnes.</p>
 <p>The hull of the new Canberra Class LHDs was designed by Spanish company Navantia. BAE Systems is completing the build with the superstructure, combat and communications systems currently being consolidated.</p>
 <p>Nu Ship Canberra is due to be accepted into Navy service in the first quarter of 2014. The second LHD is due to be named this time next year for accepting into Navy service in 2016.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

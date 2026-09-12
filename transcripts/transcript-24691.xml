@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24691</transcript-id>
-    <title>Australia’s 2030 emissions reduction target </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>11/08/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia will reduce greenhouse gas emissions so they are 26-28 per cent below 2005 levels by 2030.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24691</transcript-id><title>Australia’s 2030 emissions reduction target </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>11/08/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia will reduce greenhouse gas emissions so they are 26-28 per cent below 2005 levels by 2030.</p>
 <p>This is a responsible and achievable target. It is comparable to the targets of other developed countries and allows our economy and jobs to grow strongly.</p>
 <p>The target builds on Australia’s excellent record. We met and beat our first Kyoto target and expect to do the same in 2020 through the Government’s Direct Action plan.</p>
 <p>Australia is making a strong and credible contribution to the international effort to tackle climate change.</p>
@@ -27,6 +17,4 @@
 <p>We have a strong and credible target to take to Paris and Australia will work with our international partners to achieve a strong agreement at the United Nations Climate Change Conference in December.</p>
 <p>
 11 August 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

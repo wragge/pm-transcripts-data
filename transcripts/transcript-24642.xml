@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24642</transcript-id>
-    <title>Mr Don Randall MP</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>21/07/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It was with shock and sadness that I learnt of the sudden passing of Don Randall, the Federal Member for Canning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24642</transcript-id><title>Mr Don Randall MP</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>21/07/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It was with shock and sadness that I learnt of the sudden passing of Don Randall, the Federal Member for Canning.</p>
 <p>On behalf of the Government and the Liberal Party, I convey my condolences and deepest sympathies to Don’s wife Julie and their two children.</p>
 <p>Don was an outstanding local member. He was a passionate and persuasive advocate in Canberra and a hardworking community leader in Western Australia.</p>
 <p>He was first elected to the House of Representatives as the local member for Swan in 1996. He was elected as the local member for Canning in 2001 and re-elected in 2004, 2007, 2010 and 2013.</p>
@@ -19,6 +9,4 @@
 <p>It’s hard to credit that this strong voice for Western Australia and servant of our Party has left us so soon.</p>
 <p>All his colleagues will mourn his passing and honour the contribution that he has made.</p>
 <p>21 July 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

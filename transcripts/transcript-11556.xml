@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11556</transcript-id>
-    <title>SENATOR WARWICK PARER</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/02/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Warwick Parer's decision to retire from Parliament is understandable</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11556</transcript-id><title>SENATOR WARWICK PARER</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/02/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Warwick Parer's decision to retire from Parliament is understandable</p>
 <p> given more than 15 years of service as a Senator for Queensland.</p>
 <p>He was an extremely competent Minister for Resources between March 1996</p>
 <p> and October 1998.</p>
@@ -25,6 +15,4 @@
 <p>I thank him for his services to the Government, the people of Queensland</p>
 <p> and to the Liberal Party.</p>
 <p>I wish him and his family every good fortune in the future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19076</transcript-id>
-    <title>Transcript of interview with Fifi and Jules, Fox FM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/02/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19076</transcript-id><title>Transcript of interview with Fifi and Jules, Fox FM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/02/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 E &amp; O E  -  PROOF ONLY</p>
 <p>JULES: Well Fifi, as you know, on the Fifi and Jules show we don't muck about. So on the line right now is the Prime Minister of Australia.</p>
 <p>FIFI: I won!</p>
@@ -45,6 +35,4 @@ E &amp; O E  -  PROOF ONLY</p>
 <p>PM: I'll do my best.</p>
 <p>PRESENTER: Thank you Prime Minister.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

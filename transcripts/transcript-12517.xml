@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12517</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH ALAN JONES,   RADIO 2GB   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/05/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Federal Budget 2002</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12517</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH ALAN JONES,   RADIO 2GB   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/05/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Federal Budget 2002</p>
 <p>E&amp;OE...........  </p>
 <p>JONES:</p>
 <p>The Prime Minister is on the line.  Prime Minister in the macro sense these are remarkable figures.</p>
@@ -102,10 +92,8 @@
 <p>JONES:</p>
 <p>Thank you, and I appreciate your time.</p>
 <p>PRIME MINISTER:</p>
-<p>Thank you Alan.<br />
+<p>Thank you Alan.<br>
 JONES:</p>
 <p>Thank you Prime Minister.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

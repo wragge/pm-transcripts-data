@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16290</transcript-id>
-    <title>Inaugural National Security Statement    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today presented Australia's inaugural National Security Statement (NSS) to Federal Parliament, outlining initiatives to improve national security policy advice, coordination and governance.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16290</transcript-id><title>Inaugural National Security Statement    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today presented Australia's inaugural National Security Statement (NSS) to Federal Parliament, outlining initiatives to improve national security policy advice, coordination and governance.</p>
 <p>The NSS is a key part of the Government's reform agenda to build a more secure Australia, and addresses some of the emerging challenges Australia may face in the 21st Century.</p>
 <p>The NSS will become a regular statement to the parliament on the state of Australia's national security and the new and emerging challenges we face.</p>
 <p>Today's NSS includes the announcement that the Government will appoint a National Security Adviser, Mr Duncan Lewis AO, to provide a new level of leadership, direction and coordination to our national security agencies.</p>
@@ -27,6 +17,4 @@
 <p>In addition to the appointment of a National Security Adviser, our national security structure will be improved by the creation of a strategic policy framework, a National Intelligence and Coordination Committee and enhancing our national crisis management arrangements.</p>
 <p>The National Intelligence Coordination Committee will have responsibility for foreign, defence, security and law enforcement intelligence.</p>
 <p>Our national crisis management arrangements will be improved through the establishment of a Crisis Coordination Centre, following consideration in the Budget context.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

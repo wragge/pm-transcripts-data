@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18704</transcript-id>
-    <title>$14 million upgrade to the Great Northern Highway</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/07/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18704</transcript-id><title>$14 million upgrade to the Great Northern Highway</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/07/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced the Federal Government would provide $14 million for the $25 million replacement of Big McPhee Bridge on the Great Northern Highway in partnership with the Western Australian Government.</p>
 <p>Speaking to the Kununurra Chamber of Commerce and Industry today, the Prime Minister said the new bridge would make road freight transport more reliable for local mining and agricultural industries.</p>
 <p>Big McPhee Bridge is located on the only sealed road between Kununurra and Broome, making it a critical and economically significant piece of infrastructure.</p>
@@ -20,6 +10,4 @@ Prime Minister Julia Gillard today announced the Federal Government would provid
 <p>As part of the Government's Nation Building Program, $3.7 billion has been provided to upgrade and modernise Western Australia's road, rail and public transport infrastructure.</p>
 <p>This financial year alone we're providing $1 billion.</p>
 <p>Today's announcement takes the Government's total investment in upgrading and maintaining the Great Northern Highway to $239 million. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

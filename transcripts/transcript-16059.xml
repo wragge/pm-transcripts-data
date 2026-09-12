@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16059</transcript-id>
-    <title>Speech to a Dinner Hosted by Business Groups Seoul, Republic of Korea   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/08/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is a great pleasure to be in Korea and to be here among friends.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16059</transcript-id><title>Speech to a Dinner Hosted by Business Groups Seoul, Republic of Korea   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/08/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is a great pleasure to be in Korea and to be here among friends.</p>
 <p>Our two countries might be separated by separated by geography, but we have a lot in common.</p>
 <p>We are both outward looking countries.</p>
 <p>We rely for our prosperity on a stable and fair global trading order.</p>
@@ -212,6 +202,4 @@
 <p>And I would like to ask for your assistance as we seek to take this relationship to a higher level.</p>
 <p>A level that more properly reflect the interests we share and the ties we have between us.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22577</transcript-id>
-    <title>Interview with Virginia Trioli Radio 702, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/11/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>TRIOLI:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22577</transcript-id><title>Interview with Virginia Trioli Radio 702, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/11/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>TRIOLI:</p>
 <p>Mr John Howard joins us in the studio, good morning Prime Minister.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Virginia.</p>
@@ -198,6 +188,4 @@
 <p>TRIOLI:</p>
 <p>John Howard, Prime Minister of Australia.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

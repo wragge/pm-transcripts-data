@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15752</transcript-id>
-    <title>Interview with Laurie Oakes Sunday Program Channel 9    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LAURIE OAKES: Prime Minister, welcome to Sunday.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15752</transcript-id><title>Interview with Laurie Oakes Sunday Program Channel 9    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LAURIE OAKES: Prime Minister, welcome to Sunday.</p>
 <p>PM: Pleasure to be on the program Laurie.</p>
 <p>LAURIE OAKES: How long did it take you to settle in to the job, I mean, have you got used to being called Prime Minister yet? </p>
 <p>PM: Not entirely, it is the honest answer to it. People say that I usually look around my left shoulder and wonder where the other bloke is, and but we've spent the last couple of months knuckling down to the job, there is a lot to do.</p>
@@ -89,6 +79,4 @@
 <p>LAURIE OAKES: Prime Minister, we're out of time but we thank you. </p>
 <p>PM: Thanks very much, Laurie.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

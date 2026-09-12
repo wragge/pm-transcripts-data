@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15877</transcript-id>
-    <title>Interview on the Today Show with Lisa Wilkinson, Nine Network  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>WILKINSON:  Good morning to you, Prime Minister, thank you very much for your time this morning.  </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15877</transcript-id><title>Interview on the Today Show with Lisa Wilkinson, Nine Network  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>WILKINSON:  Good morning to you, Prime Minister, thank you very much for your time this morning.  </p>
 <p>PM: Good morning. Thanks for having us on the program. </p>
 <p>WILKINSON: Well, if we can start with those record petrol prices. $1.58.9 a litre in Sydney yesterday. You would have to say that working families are doing it tougher than ever before. Is your election promise of cheaper petrol prices, in hindsight, one that you never should have made?</p>
 <p>PM: I think if you looked carefully at the record, and we were very careful about what we said, we said that we would do whatever was possible through the ACCC  -  the Australian Consumer and Competition Commission  -  to make sure that motorists did not pay one cent a litre more than they needed to when they went to fill up at the bowser. And since then, we've done three sets of things. We've given the ACCC more powers. Secondly, we've appointed a petrol price commissioner. And thirdly, only a few days ago in Sydney, we announced that we are going to establish a National FuelWatch Scheme.</p>
@@ -45,6 +35,4 @@
 <p>PM: Oh, look, I open myself up to whatever the media want to write, that's just part of being in this business. Sometimes you like it, sometimes you may not. But, if I've learned anything over the years, you take the good with the bad and hopefully it all evens out. And, with Therese, we've been married a long time and it gets tougher when the people closest to you, your wife and your kids, become part of the scrutiny, really tough for them, and you feel for them, because they didn't put their hand up, I did. But that's life, that's life in politics.  </p>
 <p>WILKINSON:  Looks like it goes with the job, Prime Minister. Thank you very much for your time this morning. We hope it goes well over the weekend.  </p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

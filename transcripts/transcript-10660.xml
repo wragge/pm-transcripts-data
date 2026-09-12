@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10660</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER             THE HON JOHN HOWARD MP                DOORSTOP INTERVIEW                PARLIAMENT HOUSE, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/07/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10660</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER             THE HON JOHN HOWARD MP                DOORSTOP INTERVIEW                PARLIAMENT HOUSE, CANBERRA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/07/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>PRIME MINISTER:</p>
 <p>I shall certainly miss Mr Hashimoto. We got on very well. We worked</p>
 <p> very hard to make the relationship between our two countries even</p>
@@ -52,6 +42,4 @@
 <p> Labor Party is opposing the removal of debt and therefore is looking</p>
 <p> backwards.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

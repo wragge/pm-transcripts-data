@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15720</transcript-id>
-    <title>Joint Media Release with Health Minister The Hon Nicola Roxon, MP Rudd Government to bring Nurses back into the Workforce </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/01/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today took the first steps towards fulfilling its commitment to bring 7,750 extra nurses into Australia's hospitals within five years.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15720</transcript-id><title>Joint Media Release with Health Minister The Hon Nicola Roxon, MP Rudd Government to bring Nurses back into the Workforce </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/01/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today took the first steps towards fulfilling its commitment to bring 7,750 extra nurses into Australia's hospitals within five years.</p>
 <p>This ambitious recruitment plan includes a target of bringing 1,000 nurses back into the hospital workforce by the end of this year.</p>
 <p>The Rudd Government will today write to state and territory governments and private hospital sector representatives to outline administrative arrangements for this plan.</p>
 <p>The Rudd Government will provide financial incentives to nurses who are out of the workforce to return to work.</p>
@@ -26,6 +16,4 @@
 <p>The Rudd Government is committed to working with State and Territory Governments to find solutions to the problems facing Australia's hospitals.</p>
 <p>Sydney </p>
 <p>Media contact: 02 6277 7744</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

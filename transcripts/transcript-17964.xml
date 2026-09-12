@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17964</transcript-id>
-    <title>Putting a price on carbon pollution</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17964</transcript-id><title>Putting a price on carbon pollution</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard, Deputy Prime Minister and Treasurer Wayne Swan and Minister for Climate Change and Energy Efficiency Greg Combet today announced the Australian Government's carbon price. </p>
 <p>The carbon price will be $23 for each tonne of pollution beginning on 1 July 2012. </p>
 <p>The price will rise by 2.5 per cent a year in real terms during a three-year fixed price period until 1 July 2015. The carbon price mechanism will then transition to an emissions trading scheme where the price will be determined by the market. </p>
@@ -29,6 +19,4 @@ Prime Minister Julia Gillard, Deputy Prime Minister and Treasurer Wayne Swan and
 <p>"Putting a price on pollution will encourage companies to innovate and invest in new technologies to use energy more efficiently." </p>
 <p>This is a significant reform that will tackle climate change and keep Australia's economy prosperous and competitive as the world moves to a clean energy future. </p>
 <p>Further information about the Government's announcement of a carbon price and mechanism is available at <a href="http://www.cleanenergyfuture.gov.au">www.cleanenergyfuture.gov.au</a>  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

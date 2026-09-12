@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11369</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT LUNCHEON HOSTED BY                 THE PRIME MINISTER OF NEW ZEALAND,                 THE RT HON JENNY SHIPLEY                 PARLIAMENT HOUSE, WELLINGTON, NEW ZEALAND</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/02/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11369</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT LUNCHEON HOSTED BY                 THE PRIME MINISTER OF NEW ZEALAND,                 THE RT HON JENNY SHIPLEY                 PARLIAMENT HOUSE, WELLINGTON, NEW ZEALAND</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/02/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.............................................................................................</p>
 <p>Prime Minister and Mr Burton Shipley; Helen Clark, the Leader of the</p>
 <p> Opposition; to the members of the New Zealand Cabinet, other distinguished</p>
 <p> guests, ladies and gentlemen.</p>
@@ -110,6 +100,4 @@
 <p> Zealand people. And long may that friendship which we so warmly toasted</p>
 <p> a few moments ago, endure.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

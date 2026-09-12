@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18825</transcript-id>
-    <title>Prime Minister of Singapore to visit Australia</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/10/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18825</transcript-id><title>Prime Minister of Singapore to visit Australia</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/10/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard today announced that Prime Minister Lee Hsien Loong of Singapore will visit Australia from 9 to 13 October as a Guest of Government.</p>
 <p>Singapore is one of Australia's closest regional partners, our largest trade and investment partner in ASEAN and our fifth largest trading partner overall.  </p>
 <p>We share a long-standing friendship, built on our shared strategic outlook, successful cooperation in regional fora including the East Asia Summit, APEC and the ASEAN Regional Forum, and close Commonwealth, defence and people to people ties.</p>
 <p>Prime Minister Lee's visit follows the Prime Minister's visit to Singapore in April.</p>
 <p>Prime Minister Lee's visit is an opportunity to strengthen the relationship across the full range of our bilateral and regional engagement.</p>
 <p>His program includes meetings in Canberra, Melbourne and Sydney, and attendance at a Singaporean defence exercise in Rockhampton.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

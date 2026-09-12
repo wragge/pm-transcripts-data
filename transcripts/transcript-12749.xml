@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12749</transcript-id>
-    <title>Doorstop Interview, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>MUA; Simon Crean; AB&#039;s Trek for Kids; public liability</subjects>
-    <content><![CDATA[<p><strong>8 October 2002</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12749</transcript-id><title>Doorstop Interview, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects><![CDATA[MUA; Simon Crean; AB&#039;s Trek for Kids; public liability]]></subjects><content><![CDATA[<p><strong>8 October 2002</strong></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, what's your view on the MUA dispute in America?</p>
@@ -36,6 +26,4 @@
 <p>PRIME MINISTER:</p>
 <p>I'll be having something to say on that issue very shortly. We have worked very hard to produce a package that is fair to the doctors, also fair to patients, and fair to the community. We have not only provided guarantees, but we've been prepared to put money in and to work with the profession. I understand the concern of doctors, particularly the obstetricians and the neurologists and those with the very high risk profile, and we do have to do something about that, and we are doing something about it, and we want to work with everybody in trying to achieve a sensible outcome. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

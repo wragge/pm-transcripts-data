@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17838</transcript-id>
-    <title>Government delivers on support for apprentices</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17838</transcript-id><title>Government delivers on support for apprentices</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister today confirmed that the 2011 Budget would include $281 million for additional tax free payments to encourage apprentices in critical trades to complete their qualifications.</p>
 <p>The $1,700 Trades Apprentice Income Bonus is expected to support 200,000 trade apprentices over four years in skills shortage occupations to stay in their training and get a skilled job.</p>
 <p>An additional 50,000 Australian Apprentices are expected to start and remain in their Australian Apprenticeship by 2014 as a result of the payments, increasing the number of skilled workers ready to meet the demand for high skilled labour.</p>
@@ -21,6 +11,4 @@ The Prime Minister today confirmed that the 2011 Budget would include $281 milli
 <p>The incentive payments were announced in the 2010 Election as part of a package to support Australian Apprentices and as at May 2011, more than 34,000 Australian Apprentices have already benefited from this new payment.</p>
 <p>The Gillard Government is committed to ensuring the Australian Apprenticeship system is simplified, streamlined and better targeted to meet the critical skills needs of the Australian economy.</p>
 <p>That is why we will continue to work in partnership with industry, training providers and the states and territories toward a more simplified and nationally consistent system which provides relevant, quality training on and off the job. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

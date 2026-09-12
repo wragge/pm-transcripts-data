@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21411</transcript-id>
-    <title>Doorstop Interview, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21411</transcript-id><title>Doorstop Interview, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JOURNALIST:</p>
 <p>Mr Howard, what's your reaction to Kate Lundy's comments about the FTA and the...?</p>
 <p>PRIME MINISTER:</p>
@@ -38,6 +28,4 @@ JOURNALIST:</p>
 <p>Do you think it was appropriate that the Spanish Government asked...</p>
 <p>PRIME MINISTER:</p>
 <p>Well, that's a diplomatic thing, I don't want to get into that.  All I'm saying is that Mr Downer was right and I support this remarks.  Thank you.   [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

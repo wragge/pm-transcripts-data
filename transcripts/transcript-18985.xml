@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18985</transcript-id>
-    <title>Transcript of Interview with David Koch</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sunrise</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18985</transcript-id><title>Transcript of Interview with David Koch</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sunrise</p>
 <p>Let's go straight to Prime Minister, welcome. First up I want to get your reaction to these catastrophic conditions in New South Wales. Have you been briefed on the situation and what's your view?</p>
 <p>PM: Yes I have been briefed, Kochie and I will be continuously briefed during the course of the day. I have also touched base with Premier O'Farrell.</p>
 <p>We, of course, are very concerned about these extreme weather conditions in New South Wales.</p>
@@ -44,6 +34,4 @@
 <p>HOST: Yep absolutely. Prime Minister, thanks for joining us.</p>
 <p>PM: Thanks, Kochie.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

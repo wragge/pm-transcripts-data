@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24701</transcript-id>
-    <title>Address to the 70th Anniversary of Victory in the Pacific Commemorative Service, Adelaide </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/08/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On this day 70 years ago, our nation and much of the world celebrated the greatest victory ever known.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24701</transcript-id><title>Address to the 70th Anniversary of Victory in the Pacific Commemorative Service, Adelaide </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/08/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On this day 70 years ago, our nation and much of the world celebrated the greatest victory ever known.</p>
 <p>We celebrated with unrestrained joy.</p>
 <p>On VP Day, as soon as victory was announced, Australians quite literally dropped everything and spontaneously flocked into the streets.</p>
 <p>Church Bells peeled, flags waved, bonfires blazed and a party began.</p>
@@ -36,6 +26,4 @@
 <p>Lest we forget.</p>
 <p>
 [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

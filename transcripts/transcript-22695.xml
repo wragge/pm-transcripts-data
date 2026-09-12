@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22695</transcript-id>
-    <title>Radio Interview with Alan Jones, 2UE Radio</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/04/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Trade and the WTO; interest rates; stock market volatility; ANZAC Day; war widows; Israel bridge diaster</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22695</transcript-id><title>Radio Interview with Alan Jones, 2UE Radio</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/04/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Trade and the WTO; interest rates; stock market volatility; ANZAC Day; war widows; Israel bridge diaster</p>
 <p>E&amp;OE…………………………………………………………………………………</p>
-<p>JONES:<br />
+<p>JONES:<br>
 The Prime Minister’s on the line.  Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Alan.</p>
@@ -112,6 +102,4 @@ The Prime Minister’s on the line.  Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>OK.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

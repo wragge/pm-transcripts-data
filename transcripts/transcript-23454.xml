@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23454</transcript-id>
-    <title>Melbourne’s East West Link to become reality</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>29/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will contribute $1.5 billion towards the completion of the western section (stage two) of Melbourne’s East West Link.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23454</transcript-id><title>Melbourne’s East West Link to become reality</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>29/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will contribute $1.5 billion towards the completion of the western section (stage two) of Melbourne’s East West Link.</p>
 <p>This commitment – along with the funding for the western section to be detailed in the 2014-15 Victorian state budget – will enable completion of the full East West Link project.</p>
 <p>This landmark road project is an 18 kilometre cross-city road connection extending across Melbourne from the Eastern Freeway to the Western Ring Road.</p>
 <p>It will improve connectivity across Melbourne, provide more direct routes to key destinations, including the airport, the port and the city, alleviate pressure on the Monash-West Gate corridor, take car and truck traffic off local streets in the inner north and west and improve Melbourne’s traffic flow.</p>
@@ -22,6 +12,4 @@
 <p>The East West Link is a vital and necessary component of Melbourne’s future road network and it will be built under a Coalition Government.</p>
 <p>Today’s announcement is good news for Melbourne and good news for Victoria.</p>
 <p>29 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17340</transcript-id>
-    <title>Prime Minister Transcript of interview with Geoff Hutchison ABC Perth  10 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HUTCHISON: Mr Rudd, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17340</transcript-id><title>Prime Minister Transcript of interview with Geoff Hutchison ABC Perth  10 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HUTCHISON: Mr Rudd, good morning to you.</p>
 <p>PM: Good morning Geoff, thanks for having me on your program.</p>
 <p>HUTCHISON: On Lateline last night, Andrew Forrest said the consultation process over the super profits tax is a charade. And you talk of useful discussions behind closed doors, but where is the evidence of something really constructive here?</p>
 <p>PM: Well, discussions are occurring with the mining industry, Geoff, at several levels. One is of course through the panel run by the Treasury in Canberra where we have I think probably around 100 mining companies, we speak directly with them about their individual circumstances. And on top of that, with some of the major mining companies who have also had very direct and fruitful consultations as well. That's ongoing, and as you mentioned before, Twiggy Forrest's comments, I'll be catching up with Twiggy again this morning, as I've spoken to him in the past as well.</p>
@@ -48,6 +38,4 @@
 <p>The key question is to make sure we're getting the right outcome for WA, better super for WA families, better infrastructure for WA for the future, and to make sure that the mining companies are paying their fair share of the resources owned by the people of WA.</p>
 <p>HUTCHISON: Prime Minister, thank you for talking with me.</p>
 <p>PM: Thanks, Geoff. Bye.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

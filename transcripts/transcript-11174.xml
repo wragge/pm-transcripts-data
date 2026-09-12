@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11174</transcript-id>
-    <title>Interview with John Miller, Radio 4BC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Agricultural exports, Canadian salmon, pork industry, sale of Telstra, republic referendum</subjects>
-    <content><![CDATA[<p>4 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11174</transcript-id><title>Interview with John Miller, Radio 4BC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Agricultural exports, Canadian salmon, pork industry, sale of Telstra, republic referendum</subjects><content><![CDATA[<p>4 August 1999</p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>MILLER:</b></p>
 <p>Prime Minister, good morning.</p>
@@ -71,6 +61,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

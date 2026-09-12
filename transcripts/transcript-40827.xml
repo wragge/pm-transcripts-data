@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40827</transcript-id>
-    <title>Radio interview with Charlie McKillop, ABC Queensland Country Hour</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Snowy Mountains Scheme 2.0; energy security; protecting the Great Barrier Reef; biosecurity</subjects>
-    <content><![CDATA[<p><strong>CHARLIE MCKILLOP:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40827</transcript-id><title>Radio interview with Charlie McKillop, ABC Queensland Country Hour</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Snowy Mountains Scheme 2.0; energy security; protecting the Great Barrier Reef; biosecurity</subjects><content><![CDATA[<p><strong>CHARLIE MCKILLOP:</strong></p>
 <p>Prime Minister – thanks for being with us. And shoring up Australia’s future energy security will be complex and difficult won’t it?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Charlie, the object is to ensure that all Australians have access to affordable and reliable electricity, and of course gas, and delivering that is complex as you say.</p>
@@ -91,6 +81,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>No worries. Thanks.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

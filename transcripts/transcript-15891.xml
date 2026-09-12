@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15891</transcript-id>
-    <title>Australian Troops in Timor-Leste Return to Pre-11 February 2008 Levels    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia will withdraw the additional 200 troops deployed to Timor Leste following the attacks on 11 February on President Ramos-Horta and Prime Minister Gusmao.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15891</transcript-id><title>Australian Troops in Timor-Leste Return to Pre-11 February 2008 Levels    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia will withdraw the additional 200 troops deployed to Timor Leste following the attacks on 11 February on President Ramos-Horta and Prime Minister Gusmao.</p>
 <p>This means a rifle company group from the Third Battalion of the Royal Australian Regiment will not be replaced when it completes its tour of duty on 27 April.</p>
 <p>This drawdown in Australian forces reflects the improved security situation in Timor Leste.</p>
 <p>The return home of President Ramos-Horta and the lifting from 23 April of the state of emergency across most of the country have been important developments in Timor Leste's recovery following the attacks. The security situation is now assessed by both ourselves and the Government of Timor Leste as stable.</p>
@@ -19,6 +9,4 @@
 <p>After the drawdown, the Australian commitment to the ISF will return to the pre-February level of approximately 750 personnel out of a 900-strong force.</p>
 <p>Australia remains strongly committed to supporting the Government of Timor Leste and the ISF will continue to provide security assistance</p>
 <p>We will also continue to work closely with the authorities in Timor Leste and with the United Nations to help develop Timor Leste's own capacities to handle security and other challenges.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

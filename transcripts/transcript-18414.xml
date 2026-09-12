@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18414</transcript-id>
-    <title>Transcript of interview with Sabra Lane, ABC AM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18414</transcript-id><title>Transcript of interview with Sabra Lane, ABC AM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, good morning and welcome to AM.</p>
 <p>PM: Good morning Sabra.</p>
 <p>HOST: A lot of Australians would be scratching their heads this morning and thinking what was that all about yesterday.</p>
@@ -69,6 +59,4 @@ HOST: Prime Minister, good morning and welcome to AM.</p>
 <p>It was never going to be easy. It's not easy to get your way on to the Security Council but we will be pushing full forward with that bid.</p>
 <p>HOST: Prime Minister, thanks for your time this morning.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

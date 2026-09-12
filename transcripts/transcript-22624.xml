@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22624</transcript-id>
-    <title>Prime Ministerial Task Group on Emissions Trading  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/12/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announce the establishment of a joint government business Prime Ministerial Task Group on emissions trading.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22624</transcript-id><title>Prime Ministerial Task Group on Emissions Trading  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/12/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announce the establishment of a joint government business Prime Ministerial Task Group on emissions trading.</p>
 <p>  As a world community we need to find new practical global solutions to climate change that include all major economies and emitters and that take account of national goals for economic prosperity, energy security and environmental sustainability.</p>
 <p>Australia is blessed with abundant coal, gas and uranium reserves and significant renewable assets.  In assessing Australia's further contribution to reducing greenhouse gas emissions these advantages must be preserved.</p>
 <p>While there is no one single solution to the global climate change challenge we need to maintain the prosperity that our abundant fossil fuels have given us while at the same time exploring options for global climate change solutions and accelerating the development and deployment of low emissions and clean coal technologies.</p>
@@ -25,6 +15,4 @@
 <p>  TERMS OF REFERENCE</p>
 <p>  Australia enjoys major competitive advantages through the possession of large reserves of fossil fuels and uranium.  In assessing Australia's further contribution to reducing greenhouse gas emissions, these advantages must be preserved.</p>
 <p>Against this background the Task Group will be asked to advise on the nature and design of a workable global emissions trading system in which Australia would be able to participate.  The Task Group will advise and report on additional steps that might be taken, in Australia, consistent with the goal of establishing such a system.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

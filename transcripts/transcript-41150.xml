@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41150</transcript-id>
-    <title>Radio interview with John Laws, 2SM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>31/08/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Cheaper power prices; North Korea; Immigration</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41150</transcript-id><title>Radio interview with John Laws, 2SM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>31/08/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Cheaper power prices; North Korea; Immigration</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning John, great to be with you.</p>
 <p><strong>JOHN LAWS:</strong></p>
 <p>It’s good to see you, looking well and happy.</p>
@@ -182,6 +172,4 @@
 <p><strong>JOHN LAWS:</strong></p>
 <p>Okay goodbye.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

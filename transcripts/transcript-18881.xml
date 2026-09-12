@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18881</transcript-id>
-    <title>Remarks at the presentation of the Victoria Cross to Corporal Daniel Keighran VC</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/11/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Government House, Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18881</transcript-id><title>Remarks at the presentation of the Victoria Cross to Corporal Daniel Keighran VC</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/11/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Government House, Canberra</p>
 <p>It's with a tremendous sense of pride that I am here today to honour Corporal Daniel Keighran.</p>
 <p>I join with Her Excellency and with every distinguished guest here in paying tribute to you and to your courage.</p>
 <p>Daniel, Kathryn, if I can say something personally to you.</p>
@@ -34,6 +24,4 @@
 <p>That was something that you had kept to yourself and to your mates.</p>
 <p>All of that speaks of a tremendously Australian character.</p>
 <p>That's who you are and we honour you today.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

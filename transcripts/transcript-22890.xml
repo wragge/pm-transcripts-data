@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22890</transcript-id>
-    <title>Interview with Stan Zemanek, Radio 2GB</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/09/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Attendence at Olympic Games; Petrol prices; blockade</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22890</transcript-id><title>Interview with Stan Zemanek, Radio 2GB</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/09/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Attendence at Olympic Games; Petrol prices; blockade</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>ZEMANEK:</p>
 <p>On the line from somewhere here in Australia the Prime Minister of Australia Mr John Howard. Good morning Mr Prime Minister.</p>
@@ -76,6 +66,4 @@
 <p>ZEMANEK:</p>
 <p>Mr Howard unfortunately we are going to have to leave it there. I do thank you for being on the programme and we will talk again.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

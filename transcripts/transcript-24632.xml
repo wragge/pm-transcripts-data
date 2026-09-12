@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24632</transcript-id>
-    <title> Australia remembers MH17 </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/07/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, Australia remembers all those who lost their lives on Flight MH17. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24632</transcript-id><title> Australia remembers MH17 </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/07/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, Australia remembers all those who lost their lives on Flight MH17.&nbsp;</p>
 <p>There were 298 innocent people on this aircraft and their deaths offend our sense of justice.</p>
 <p>We grieve for all, but particularly for the 40 victims who called Australia home, including 38 Australian citizens and residents.</p>
 <p>A National Memorial Service was held in the Great Hall at Parliament House to honour those who lost their lives and support those who have been bereaved.</p>
@@ -17,7 +7,7 @@
 <p>The plaque is inscribed with the names of the Australian victims.</p>
 <p>The plaque sits on top of soil taken from the Ukrainian town of Rozsypne.</p>
 <p>The soil was collected by an Australian Federal Police officer from the area where Flight MH17 came down.</p>
-<p>I thank the men and women who contributed to the response to MH17 for their professionalism and commitment. </p>
+<p>I thank the men and women who contributed to the response to MH17 for their professionalism and commitment.&nbsp;</p>
 <p>They ensured the victims of this tragedy were treated with dignity and respect, and that their families were provided with the best support we could give.</p>
 <p>The Governor-General has announced awards for a number of Australian service men and women and government officials who made key contributions to Operation Bring Them Home.</p>
 <p>The awards include Public Service Medals, Australian Police Medals and Humanitarian Overseas Service Medals for those who went above and beyond the call of duty. The Governor-General has also announced an honorary award in the Order of Australia.</p>
@@ -25,6 +15,4 @@
 <p>On this first anniversary, we restate our support for the families and honour the lives of their loved ones.</p>
 <p>They will always be remembered.</p>
 <p>17 July 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

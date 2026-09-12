@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18627</transcript-id>
-    <title>Transcript of press conference, Los Cabos</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/06/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18627</transcript-id><title>Transcript of press conference, Los Cabos</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/06/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I have just finished the G20 opening session and of course the leaders' working dinner as well.</p>
 <p>These discussions at the G20 have already afforded leaders an opportunity for a comprehensive and frank exchange of views on circumstances in the global economy.</p>
 <p>It would be no surprise to anyone that there was a particular focus on circumstances in the eurozone and recognition that the European Union is meeting in 10 days time.</p>
@@ -115,6 +105,4 @@ PM: I have just finished the G20 opening session and of course the leaders' work
 <p>You do that to make your views known. You come here to make your views known. And what's my job here, it's to make my views known because the views I'm putting here are in Australia's national interest.</p>
 <p>The letter was referred to in the meeting by, I think, Colombia, and you know obviously as I've talked to leaders and it's been referred to by others.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

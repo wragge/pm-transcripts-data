@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20743</transcript-id>
-    <title>Joint Press Conference with President George W. Bush Crawford, Texas  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/05/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRESIDENT:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20743</transcript-id><title>Joint Press Conference with President George W. Bush Crawford, Texas  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/05/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRESIDENT:</p>
 <p>It's an honour for Laura and me to welcome Prime Minister Howard and Mrs Howard to our ranch. We love coming here. It's a place for Laura and me to really spend some private time, and to spend time with a friend makes it even more special. And John Howard has been a great friend. The Australian Government has been a great friend to the American people. The Australian people are great friends with the American people as well.</p>
 <p>The Prime Minister is a man of courage. He is a clear thinker. He understands the responsibilities of freedom. America is really grateful for the sacrifices of the Australian people and for the leadership of Prime Minister John Howard. On September the 10th 2001, Prime Minister Howard and I stood together at the Washington naval yard to commemorate the 50th anniversary of the ANZUS treaty. The next day, Australia and America began writing a new chapter in the history of our alliance. On September the 14th, just three days after the terrorist attacks, Australia invoked the ANZUS treaty's mutual defence provisions. Australia came to America's aid in our time of need and we won't forget that.</p>
 <p>In nearly 20 months since September the 11th, Australian and American intelligence and law enforcement officials have worked very closely together. Our relationship has never been stronger, and that's good because together we've broken up terrorist cells, we've disrupted terrorist plots, we've cut off terrorist financing, we've brought a lot of terrorists to justice. And in Iraq, Australian and American forces have stood together once again. We ended the rule of one of history's worst tyrants and in so doing we not only freed the American people, we made our own people more secure. By getting rid of Saddam Hussein we ended the suffering of a lot of people in Iraq, and at the same time we make peace more possible in the world.</p>
@@ -51,6 +41,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

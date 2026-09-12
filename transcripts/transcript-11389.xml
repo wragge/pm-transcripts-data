@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11389</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          ADDRESS TO HAY CITIZENS          HAY, NEW SOUTH WALES</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/08/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11389</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          ADDRESS TO HAY CITIZENS          HAY, NEW SOUTH WALES</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/08/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................</p>
 <p>  SUBJECTS: Australia's economy, rural Australia, health services in rural</p>
 <p>   Australia, education, tourism, taxation reform, Centenary of Federation.</p>
 <p>  Well thank you very much Kay. To my colleague, Senator Bill Heffernan, to</p>
@@ -168,6 +158,4 @@
 <p>   a visitor. It's a great experience for me and I enjoy immensely being amongst</p>
 <p>   you. Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

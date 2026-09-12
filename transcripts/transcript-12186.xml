@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12186</transcript-id>
-    <title>Caretaker period releases 2001</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/03/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>From Monday, 8th October 2001, the Prime Minister's transcripts will be available from the Liberal Party Website.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12186</transcript-id><title>Caretaker period releases 2001</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/03/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>From Monday, 8th October 2001, the Prime Minister's transcripts will be available from the Liberal Party Website.</p>
 <p>(see archive at <a href="http://pandora.nla.gov.au/tep/22107">http://pandora.nla.gov.au/tep/22107</a>)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

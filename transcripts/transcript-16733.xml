@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16733</transcript-id>
-    <title>Interview on ABC Radio&#039;s AM program    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/08/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>EASTLEY: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16733</transcript-id><title><![CDATA[Interview on ABC Radio&#039;s AM program    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/08/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>EASTLEY: Prime Minister, good morning.</p>
 <p>PM: Good morning.</p>
 <p>EASTLEY: Is the security of our military bases at a level that you're comfortable with?</p>
 <p>PM: Yesterday afternoon I convened a meeting of the National Security Committee of the Cabinet, and went to a number of these matters, one of which was the adequacy of current security arrangements at our military installations, and the advice I received was that, from the Chief of Defence Force, was that, based on our current knowledge that the security arrangements are adequate.</p>
@@ -49,6 +39,4 @@
 <p>EASTLEY: Prime Minister Kevin Rudd, thanks for joining us this morning on AM.</p>
 <p>PM: Thanks for having us on the program</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21763</transcript-id>
-    <title>Interview with Louise Yaxley AM Programme, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/05/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>YAXLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21763</transcript-id><title>Interview with Louise Yaxley AM Programme, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/05/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>YAXLEY:</p>
 <p>Prime Minister, you're visiting some drought stricken areas today.  What can you offer the farmers that you're going to visit?</p>
 <p>PRIME MINISTER:</p>
 <p>I can offer them a very sympathetic ear and a very sympathetic Prime Minister. I have come here to listen and to learn. I will talk to people, I'll hear their concerns, I'll ask them how they believe the Federal Government can further assist because we are already helping a great deal through Exceptional Circumstances Assistance, which has run into hundreds of millions of dollars over recent years, and also other assistance. Having gathered all of that information, I'll then discuss the issue with my colleagues in Cabinet next Monday.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well have a $2 billion National Water Trust. And I announced three programmes in Queensland yesterday to help recycling in Mackay, ground water proposals in Bundaberg and pressure management for the water supply for the Gold Coast city area. Those sorts of programmes in partnership with local communities and State Governments all around Australia are what that $2 billion National Water Trust I announced in the last election is all about. It is up and running, it's fully funded and it's working already overtime to deal with applications from different parts of the country.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

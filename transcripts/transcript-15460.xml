@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15460</transcript-id>
-    <title>Townsville International Sports Centre</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/05/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce Australian Government funding for the Townsville International Sports Centre, clearing the way for work to begin in July.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15460</transcript-id><title>Townsville International Sports Centre</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/05/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce Australian Government funding for the Townsville International Sports Centre, clearing the way for work to begin in July.</p>
 <p>My Government will contribute $6,355,000 to the project at the Murray's Sports Complex in Annandale, delivered in two stages under the Regional Partnerships Program.</p>
 <p>The money will assist Townsville City Council design and construct the new Centre.  When complete, the Centre will boast a spectator capacity of 1,400 and will be capable of hosting both national and international events.  It will raise the region's sporting profile and create employment opportunities for Townsville and surrounds. </p>
 <p>The Centre will be home to a number of sporting teams, including the Townsville's Women's National Basketball League and the North Queensland Steel Cats. It will also be able to be used as a disaster recovery centre for the Townsville region if required.  </p>
@@ -17,6 +7,4 @@
 <p>I congratulate the local community for working together to access Regional Partnerships Program funding and particularly thank the North Queensland Area Consultative Committee for helping to bring this project to fruition.</p>
 <p>The Regional Partnerships Program continues the Australian Government's approach of working with local communities to support their ideas, to generate economic activity and improved social amenity.</p>
 <p>The initial contribution of $3.355 million from the Regional Partnerships Program will allow work to begin on the design and construction in July. Today I also commit a further $3 million for the subsequent phases of the project, in consultation with the Townsville City Council.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

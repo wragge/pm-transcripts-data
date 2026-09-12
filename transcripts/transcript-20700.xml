@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20700</transcript-id>
-    <title>Press Conference, Parliament House, Canberra  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/02/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20700</transcript-id><title>Press Conference, Parliament House, Canberra  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/02/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, I want to welcome the presentation to the Security Council of the resolution from the United States, the United Kingdom and Spain. I welcome it because this issue is now fairly and squarely back where it ought to be, and that is before the Security Council of the United Nations. I had always taken the view that it is only through a united expression of opinion by the Security Council of the United Nations that a real prospect, faint though it may seem, of a peaceful resolution of this issue can be achieved.</p>
 <p> Having read the resolution, I find it hard to believe that logically any party or nation that voted for Resolution 1441 fifteen weeks ago, would not now vote for this resolution. Fifteen weeks have now passed since Resolution 1441 was adopted and in that period of time it has been made clear on a number of occasions that Iraq is unwilling, stubbornly unwilling, to cooperate and stubbornly unwilling to take advantage of the final opportunity that that resolution presented to Iraq. I think the resolution has had the effect of once again putting the issue back fairly and squarely where it must always be, because this is an acid test for the Security Council of the United Nations. The Security Council must understand that if it does not give genuine effect to what it said so solemnly through Resolution 1441, then it does risk doing long-term damage to its own credibility.</p>
 <p>JOURNALIST:</p>
@@ -104,6 +94,4 @@
 <p>Is the exchange rate no longer as highly competitive as it once was?</p>
 <p>PRIME MINISTER:</p>
 <p>No, I think I actually said... I used the expression </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

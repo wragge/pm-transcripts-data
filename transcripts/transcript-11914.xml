@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11914</transcript-id>
-    <title>Radio Interview with Mark Thompson and Caren Shaw, Mix 104.9, Darwin </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/02/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Drug diversion project; Alice Springs to Darwin rail link; petrol prices; election; journalism.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11914</transcript-id><title>Radio Interview with Mark Thompson and Caren Shaw, Mix 104.9, Darwin </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/02/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Drug diversion project; Alice Springs to Darwin rail link; petrol prices; election; journalism.</p>
 <p>E&amp;OE................................ </p>
 <p>THOMPSON:</p>
 <p>It's a very good morning to Prime Minister John Howard, good morning Prime Minister.</p>
@@ -128,6 +118,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks. Bye.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17959</transcript-id>
-    <title>Transcript of interview with David Speers, Sky News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17959</transcript-id><title>Transcript of interview with David Speers, Sky News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister welcome, I want to start with the live cattle trade, it's now been reopened to Indonesia, are you able to say now that no Australian cattle will be subject to the sort of brutal slaughter that we saw in the Four Corners program?</p>
 <p>PM: Well we're certainly able to say that we've worked hard on animal welfare standards and there will be auditing and tracing of where animals go and the abattoirs they go to will be independently audited, so people should expect to see full information about where cattle are being handled from when they leave the farm, through transport to the ship, on the ship, into the feedlot, into the abattoir  -  all traced, all tracked, all transparent and with welfare standards at every point.</p>
 <p>HOST: It doesn't guarantee that we won't see a repeat of these shocking conditions though does it?</p>
@@ -88,6 +78,4 @@ HOST: Prime Minister welcome, I want to start with the live cattle trade, it's n
 <p>I know we've had a big political debate to get here and there have been some harsh words spoken on all sides, now is the time to get on with this job. We are a confident, creative nation, we're a people that's been up to big change and big challenges in the past, we can get this done and I'll be out there explaining to people what it means and leading the nation through this change.</p>
 <p>HOST: Prime Minister, thank you.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

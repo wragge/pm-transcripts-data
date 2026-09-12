@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10709</transcript-id>
-    <title>Radio Interview with Jeremy Cordeaux, Radio 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/10/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10709</transcript-id><title>Radio Interview with Jeremy Cordeaux, Radio 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/10/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>CORDEAUX:</b></p>
 <p>Good morning, sir, how are you?</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -106,7 +96,5 @@
 <p>Prime Minister, great to talk to you and I thank you very much for your time.</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Thank you.</p>
-<p><font size="2"> </font>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><font size="2">&nbsp;</font>[ends]</p>
+]]></content></item></response>

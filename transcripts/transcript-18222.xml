@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18222</transcript-id>
-    <title>Transcript of press conference, Perth</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18222</transcript-id><title>Transcript of press conference, Perth</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here with the Minister for Defence, Stephen Smith, but I'm actually here with him in his capacity as local Member for the electorate that we are in, and he is doubling up as a media assistant at this stage, so well done to the Minister for Defence.</p>
 <p>We're here with the Hofmann family in their family business. I first heard the story of this business at the Future Jobs Forum. This is an Australian manufacturing success story. This is a business involving 8 Hofmann family members across three generations, and they have built a manufacturing business that today employs 600 Australians, that is exporting to around 20 countries overseas, that is working for our mining industry, our defence industries and our clean energy future.</p>
 <p>The story of success here is about a family focused on building a business, focused on innovation and the best possible package of service to their clients. What they've been able to do is build a reputation with mining companies for solving problems, for making the equipment that the mining company needs, for ensuring that the equipment works, and if the equipment is having some problems, for fixing those problems and coming up with a better solution. They've taken that know-how around the world, to other nations that are involved in mining, and with that kind of precision and expertise they've been able to make their way, working for Defence and working for our clean energy future.</p>
@@ -72,6 +62,4 @@ PM: I'm here with the Minister for Defence, Stephen Smith, but I'm actually here
 <p>JOURNALIST: Is this one of the 500 biggest polluters? </p>
 <p>PM: Well, as you know the assessment of those paying the price will be finalised as we move to carbon pricing on 1 July next year. It is about who is generating carbon pollution when the carbon price comes into effect.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

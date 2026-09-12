@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21564</transcript-id>
-    <title>Interview with Helen Dalley A Current Affair, Channel 9 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/12/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DALLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21564</transcript-id><title>Interview with Helen Dalley A Current Affair, Channel 9 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/12/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DALLEY:</p>
 <p> Mr Howard, thanks very much for joining us. Now the scale of this disaster seems to grow hourly and particularly our near neighbour Indonesia where there are now estimates that 25,000 people might have died in Indonesia alone.</p>
 <p>PRIME MINISTER:</p>
 <p> Yes, tragically this is one of the great human disasters of modern times. What is particularly tragic and difficult about it is that it is so widespread. In the 1970s, for example, about a quarter of a million people died in China. We all hope that the death toll from this tragedy won't reach that level but because it's so widespread and because so many countries have been affected the international aid effort is that much more difficult. But we are particularly concerned about our near neighbour Indonesia - we're concerned about all countries.  But I'm not surprised that the death toll is likely to be so high in Indonesia because the epicentre of the earthquake was off the Sumatran coast, and I spoke last night to President Yudhoyono from Indonesia and we will have by tomorrow, including a C130 from the Royal New Zealand Air Force, which their government has made available, we will have 5 C130s , which apart from carrying medical and other supplies and water purification equipment into Sumatra...</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

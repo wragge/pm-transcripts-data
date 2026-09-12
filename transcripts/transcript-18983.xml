@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18983</transcript-id>
-    <title>Interview with Wendy Kingston - Channel Nine</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18983</transcript-id><title>Interview with Wendy Kingston - Channel Nine</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, thanks so much for your time and for speaking to us. I understand you've got an announcement to make.</p>
 <p>PM: That's right I do. I'm here in Tasmania today and I've been visiting with the Tasmanian Premier.</p>
 <p>We've had the opportunity to be briefed by the local fire and police and I've seen some remarkable scenes of destruction and met some amazing community members as well.</p>
@@ -42,6 +32,4 @@ HOST: Prime Minister, thanks so much for your time and for speaking to us. I und
 <p>The Red Cross is running one of these appeals, so get on the Red Cross website or give the Red Cross a call and they'll be able to tell you how to go about donating.</p>
 <p>HOST: Alright Prime Minister Julia Gillard, thank you very much for joining us on Nine News now. I appreciate your time this afternoon.</p>
 <p>PM: Thanks for the opportunity.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

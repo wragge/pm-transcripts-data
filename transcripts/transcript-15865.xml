@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15865</transcript-id>
-    <title>Press Conference, Prime Ministers Courtyard, Parliament House, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: I'm pleased to announce that Her Majesty the Queen has, on my recommendation as Prime Minister of Australia, accepted and approved the appointment of Her Excellency Ms Quentin Bryce as the next Governor-General of the Commonwealth of Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15865</transcript-id><title>Press Conference, Prime Ministers Courtyard, Parliament House, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: I'm pleased to announce that Her Majesty the Queen has, on my recommendation as Prime Minister of Australia, accepted and approved the appointment of Her Excellency Ms Quentin Bryce as the next Governor-General of the Commonwealth of Australia.</p>
 <p>This transition will occur on the 5th of September this year and today we see the passing of the baton from one first class Governor-General of Australia to another first class Governor-General of Australia.</p>
 <p>It is, therefore, a great day for Australia and says everything about the smoothness of the constitutional arrangements.</p>
 <p>Ms Bryce has a rich and dynamic career as a lawyer, as an academic, and as a senior public office holder. Her Excellency has demonstrated a strong commitment to the bush, she grew up in Ilfracombe, somewhere on the road between Barcaldine and Longreach, I think closer to Longreach than Barcaldine. She has demonstrated a strong commitment to the rights of women, particularly through her former role as Federal Sex Discrimination Commissioner, and a strong commitment to Indigenous Australia as well.</p>
@@ -52,6 +42,4 @@
 <p>The IMF meeting in Washington, which the Treasurer is attending, is very important. It's important because we are currently considering a range of options on how to best deal with the global financial crisis. Some of those have been canvassed already publicly and they go, of course, to the questions of proper evaluation, proper transparency when it comes to the assets held by various financial institutions as well as ensuring that we have liquidity arrangements for the entire financial system.</p>
 <p>These are very important matters, and this upcoming meeting of the IMF is a very important meeting.</p>
 <p>In terms of Budget, well, we, like other Governments, will face the usual challenges in terms of demands for necessary services against the overall challenges of making sure we keep a proper lid on public outlays given the parallel challenge we face with inflation. Thank you very much for your time.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

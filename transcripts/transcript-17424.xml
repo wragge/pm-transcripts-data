@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17424</transcript-id>
-    <title>Transcript of joint press conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/10/2010</release-date>
-    <release-type>Economy &amp; Finance</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17424</transcript-id><title>Transcript of joint press conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/10/2010</field_date><release-type><![CDATA[Economy &amp; Finance]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm joined by the Treasurer Wayne Swan and by the Minister for Health and Ageing Nicola Roxon, and first and foremost can I just start by marking that it is Pink Ribbon Day for breast cancer. As people are probably aware, around one in nine Australian women will get breast cancer some time during the course of her life, so today is the day we wear the Pink Ribbon to remind Australian women to have the health checks that they need and of course to remind all of us to look after those in our community who are suffering with breast cancer and the family and friends that love and care for them to make sure we're providing our support to those family and friends.</p>
 <p>And today we are actually talking about health and I'm here to announce that this week the Government will introduce landmark legislation to reform the structure of the nation's health system.</p>
 <p>Now, this is going to be the first time that a level of Government, the Commonwealth Government, will take majority funding responsibility for public hospitals and full responsibility for the funding of primary care.</p>
@@ -137,6 +127,4 @@ PM: I'm joined by the Treasurer Wayne Swan and by the Minister for Health and Ag
 <p>PM: Or speculating on them.</p>
 <p>I think someone needs to buy Malcolm a cup of coffee, and perhaps Phil Coorey as well.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21443</transcript-id>
-    <title>Niue Trust Fund  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/08/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  I am pleased, together with Premier Vivian, to announce that Australia is providing $4 million towards the establishment of the Niue Trust Fund.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21443</transcript-id><title>Niue Trust Fund  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/08/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  I am pleased, together with Premier Vivian, to announce that Australia is providing $4 million towards the establishment of the Niue Trust Fund.</p>
 <p>  This contribution recognises the Government of Niue's commitment to long-term development objectives and economic viability.</p>
 <p>  Niue is a small country with minimal revenue?generating capacity.  The Trust Fund will provide the Government of Niue with a reliable source of revenue to help support the long-term financial stability and viability of Niue.</p>
 <p>The Trust Fund will also assist Niue to achieve greater financial authority in the management of its recurrent budget and maintain and improve existing levels of social and economic infrastructure and services.</p>
@@ -18,6 +8,4 @@
 <p>Australia's annual contributions to the Fund will be derived from within Australia's aid budget allocation to Niue.</p>
 <p> Management of the Trust Fund will be subject to agreement between Niue and major donors including New Zealand and Australia.</p>
 <p>Support for the Trust Fund builds on Australia's assistance to Niue immediately following the devastating effects of Cyclone Het, which struck the island in January 2004.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

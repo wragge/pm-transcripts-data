@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11613</transcript-id>
-    <title>DEFENCE SPENDING</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/03/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>During his interview with Senator Meg Lees on the "Sunday"</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11613</transcript-id><title>DEFENCE SPENDING</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/03/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>During his interview with Senator Meg Lees on the "Sunday"</p>
 <p> programme earlier today, Nine Network political editor, Laurie Oakes,</p>
 <p> said that extra Defence spending would be paid for out of the sale of</p>
 <p> the rest of Telstra.</p>
@@ -24,6 +14,4 @@
 <p> years would help to achieve this.</p>
 <p>My remarks were not intended to give the impression that increased Defence</p>
 <p> spending was contingent on the sale of Telstra.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22896</transcript-id>
-    <title>Television Interview with Katie Couric, NBC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/09/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Olympic Games</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22896</transcript-id><title>Television Interview with Katie Couric, NBC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/09/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Olympic Games</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>COURIC:</p>
 <p>Among those most excited about Australia’s opportunity to host the games of the 27th Olympiad is the country’s Prime Minister, a life long resident of Sydney, John Howard. Mr Prime Minister, good morning, welcome.</p>
@@ -54,6 +44,4 @@
 <p>COURIC:</p>
 <p>Well we’re really looking forward to the games. We so appreciate your coming to talk with us this morning. Prime Minister Howard thank you so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

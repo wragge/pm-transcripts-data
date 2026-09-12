@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15620</transcript-id>
-    <title>Doorstop Interview Questacon, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15620</transcript-id><title>Doorstop Interview Questacon, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Treasurer and economic management.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -55,6 +45,4 @@ Treasurer and economic management.</p>
 <p>PRIME MINISTER:</p>
 <p>Clinton, the public sees through all of that and they say can these two men continue to deliver for us and we have for 11-and-a half years and we certainly will continue to do so in the future. Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

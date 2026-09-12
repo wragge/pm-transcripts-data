@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16473</transcript-id>
-    <title>Interview with Jim Lehrer Newshour, PBS Network Washington DC United States of America </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/03/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LEHRER: Mr Prime Minister, welcome. On this comment that President Obama quoted you on, he said you spoke very forcefully about the need for nations to essentially step up to the plate and do what needs to be done to abate this terrible financial economic situation in the world. What nations were you referring to?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16473</transcript-id><title>Interview with Jim Lehrer Newshour, PBS Network Washington DC United States of America </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/03/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LEHRER: Mr Prime Minister, welcome. On this comment that President Obama quoted you on, he said you spoke very forcefully about the need for nations to essentially step up to the plate and do what needs to be done to abate this terrible financial economic situation in the world. What nations were you referring to?</p>
 <p>PRIME MINISTER: Well nations with capacity, and if you look across the world today, the capacities vary. But, Jim, this gap which has been caused by the retreat of the private sector because of the problem in private credit markets  -  governments have got two options, either stand back and just let people around the world take the full brunt of the storm, or governments temporarily step into the breach and provide temporary support through their budgets.</p>
 <p>I think that's the right strategy. And remember, the International Monetary Fund  -  that's a pretty conservative body  -  out there saying that developed economies, G20 economies should be out there providing two per cent of gross domestic product in stimulus through their own actions in '09. It's what we're doing, it's what President Obama's doing. I think it's the right course of action.</p>
 <p>LEHRER: But some of these countries are not doing it, right?</p>
@@ -62,6 +52,4 @@
 <p>LEHRER: Mr Prime Minister, thank you very much.</p>
 <p>PRIME MINISTER: I appreciate the opportunity.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

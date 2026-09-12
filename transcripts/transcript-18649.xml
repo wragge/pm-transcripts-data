@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18649</transcript-id>
-    <title>Transcript of joint press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/06/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18649</transcript-id><title>Transcript of joint press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/06/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here this evening with the Minister for Immigration Chris Bowen and the Minister for Home Affairs Jason Clare.</p>
 <p>As Australians know we have seen another day where there has been a tragedy at sea. I will ask the Minister for Home Affairs to update the Australian people on what is happening with that search and rescue at the conclusion of my remarks and the Minister for Immigration's remarks.</p>
 <p>We have just come from a parliamentary vote on asylum seeker legislation. A significant vote has just been taken in the House of Representatives and what that vote means is we are on the verge of ending the impasse which has prevented our country processing asylum seekers offshore.</p>
@@ -100,6 +90,4 @@ PM: I'm here this evening with the Minister for Immigration Chris Bowen and the 
 <p>JOURNALIST: Eight votes are needed in the Senate, is that correct, and if that's the case  -  I think it is about eight  -  do you believe that enough impassioned speeches have been made today from your side of politics that you will get those eight extra votes?</p>
 <p>PM: Well, I think that all of those questions now need be directed to Senators who have got a tremendously important decision to make tomorrow.</p>
 <p>Thank you very much.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

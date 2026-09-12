@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22984</transcript-id>
-    <title>Remarks at Joint Coalition Party Room Meeting</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/09/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>My friends, it is my honour to welcome you back to Canberra as the Prime Minister-elect of Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22984</transcript-id><title>Remarks at Joint Coalition Party Room Meeting</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/09/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>My friends, it is my honour to welcome you back to Canberra as the Prime Minister-elect of Australia.</p>
 <p>Governments change but rarely in this country.</p>
 <p>Inevitably, all changes of government are historic and all of you can be proud of the part that you have played in this historic change.</p>
 <p>Our task is but briefly to savour this moment. Our task is to give a great country and a great people the better government that the people of Australia deserve – that is our task.</p>
@@ -20,6 +10,4 @@
 <p>We will do these things because that is what the Australian people have elected us to do. That is what the Australian people have a right to expect.</p>
 <p>My friends, we have won the trust of the Australian people. Our challenge now is to earn it and to keep it.</p>
 <p>Thank you so much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

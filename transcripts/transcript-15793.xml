@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15793</transcript-id>
-    <title>Interview with Madonna King, ABC Local Radio, Brisbane   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/03/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KING: Prime Minister Kevin Rudd, good morning and welcome to 612 ABC Brisbane. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15793</transcript-id><title>Interview with Madonna King, ABC Local Radio, Brisbane   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/03/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KING: Prime Minister Kevin Rudd, good morning and welcome to 612 ABC Brisbane. </p>
 <p>PM: Good morning Madonna, thanks for having me on the program. </p>
 <p>KING: Can you fix home loan affordability?</p>
 <p>PM: No we can't fix it. What we can do is do whatever we can within the powers of Government to improve it. </p>
@@ -76,6 +66,4 @@
 <p>PM: I'm sorry on those two, no and no. If you were to impose the moral test further I'd probably fail. </p>
 <p>KING: Kevin Rudd, appreciate your time. Thank you. </p>
 <p>PM: Thanks a lot, Madonna.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41441</transcript-id>
-    <title>Statement on the Royal Commission into Institutional Responses to Child Sexual Abuse</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/02/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41441</transcript-id><title>Statement on the Royal Commission into Institutional Responses to Child Sexual Abuse</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/02/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>I’m making a short statement today to the House, on the Royal Commission into the Institutional Responses to Child Sexual Abuse.</p>
 <p>The Royal Commission delivered its final report to the Governor-General on the 15th of December 2017.</p>
 <p>The report is the product of five years of hard and harrowing work for all those involved.</p>
@@ -48,6 +38,4 @@
 <p>I acknowledge the individuals, the expert witnesses, the researchers and government and non-government representatives who came forward to give evidence over the course of the Commission.</p>
 <p>I look forward, as I’m sure do all honourable members, to doing justice to their hard work and to the survivors by ensuring that, together, we take the steps needed to keep our children safe.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

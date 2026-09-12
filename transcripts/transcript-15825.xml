@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15825</transcript-id>
-    <title>Acting Prime Minister, Radio Interview, 3AW, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/03/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>NEIL MITCHELL: While Kevin Rudd is touring the world, in the studio is the acting Prime Minister Julia Gillard, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15825</transcript-id><title>Acting Prime Minister, Radio Interview, 3AW, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/03/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>NEIL MITCHELL: While Kevin Rudd is touring the world, in the studio is the acting Prime Minister Julia Gillard, good morning.</p>
 <p>JULIA GILLARD: Good morning Neil</p>
 <p>NEIL MITCHELL: If you'd like to speak to the acting Prime Minister 9690 0693 or outside Melbourne 13 13 32. Is there any hope that this Government turning the banks into good Australians and getting them to stop this habit of increasing interest rates ahead of the Reserve Bank?</p>
 <p>JULIA GILLARD: Well my colleague Wayne Swan is working hard on making sure that there is competitive pressures on the banks, we know that there's a problem and people get locked into their mortgage and then they face these increases. We want them to be able to shop around, we want them to be able to change banks, we want them to be able to say to their current bank: “unless I am being treated properly, I am off to another bank”.</p>
@@ -123,6 +113,4 @@
 <p>NEIL MITCHELL: So that's sort of a pre-summit summit?</p>
 <p>JULIA GILLARD: Well look, we are in trying to include as many voices as we can. I am certainly looking forward to attending the Youth Summit. I'm going to get to do that even when I'm nowhere near young.  So that's good.</p>
 <p>NEIL MITCHELL: Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

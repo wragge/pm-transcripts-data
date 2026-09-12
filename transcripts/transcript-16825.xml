@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16825</transcript-id>
-    <title>Transcript of interview on 2GB with Ben Fordham    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/09/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FORDHAM: Kevin Rudd, good afternoon.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16825</transcript-id><title>Transcript of interview on 2GB with Ben Fordham    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/09/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FORDHAM: Kevin Rudd, good afternoon.</p>
 <p>PM: Good afternoon, Ben. Thanks for having me on your program.</p>
 <p>FORDHAM: My pleasure. When do you take off?</p>
 <p>PM: Heading off first thing tomorrow morning, and it's to New York, special session on climate change leading up to the big conference in Copenhagen and then straight away to Pittsburgh for the G20 on the future of the global economy. So it's going to be a fairly four or five days.</p>
@@ -76,6 +66,4 @@
 <p>PM: My intention is to serve the term for which I've been elected. And that's why want to be able to do. We've got a stack of stuff still to get through.</p>
 <p>FORDHAM: I know you've got to get to a meeting, so I'm going to say goodbye. Prime Minister, thank you very much for joining us.</p>
 <p>PM: Thanks for having us on the program, Ben.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

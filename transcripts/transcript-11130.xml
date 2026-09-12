@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11130</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH NEIL MITCHELL, 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/02/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11130</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH NEIL MITCHELL, 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/02/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p> MITCHELL: </p>
 <p> Mr Howard, good morning. </p>
 <p> PRIME MINISTER: </p>
@@ -395,6 +385,4 @@
 <p>   And they were flooded, as we have been, in 1991 and it might be</p>
 <p>   an idea to have a look at how they've coped with things. We've</p>
 <p>   had it</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

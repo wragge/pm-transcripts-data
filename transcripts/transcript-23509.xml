@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23509</transcript-id>
-    <title>Interview with John Stanley and Garry Linnell, Radio 2UE</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/05/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Budget 2014,  G20.</subjects>
-    <content><![CDATA[<p><strong>PRESENTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23509</transcript-id><title>Interview with John Stanley and Garry Linnell, Radio 2UE</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/05/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Budget 2014, G20.</subjects><content><![CDATA[<p><strong>PRESENTER:</strong></p>
 <p>We’ve got the Prime Minister in our studio in Canberra now. Mr Abbott, good morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning.</p>
@@ -20,7 +10,7 @@
 <p><strong>PRESENTER:</strong></p>
 <p>We don’t have to go into a long running diatribe about how people are unhappy out there – you know that. Why do you think there’s been such a harsh reaction to the Budget?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Well, no-one said it was going to be easy to fix Labor’s debt and deficit disaster. Obviously, some very tough measures had to be put in place, but I believe in the marrow of my bones that these measures are fair.  Everyone is making a contribution; people earning over $180,000 a year are paying the deficit levy, Members of Parliament are having their pay frozen, motorists will pay the fuel excise indexation, so everyone is making a contribution. We need to make a contribution, because we just can’t go on borrowing $1 billion every single month to pay the interest on Labor’s borrowings. We just can’t go on. What we saw on the front page of <em>The Financial Review </em>this morning is that if these measures are blocked by the Labor Party in the Senate, our AAA credit rating is at risk and if that goes, well that does all sorts of damage to our country’s fundamental economic standing.</p>
+<p>Well, no-one said it was going to be easy to fix Labor’s debt and deficit disaster. Obviously, some very tough measures had to be put in place, but I believe in the marrow of my bones that these measures are fair.&nbsp; Everyone is making a contribution; people earning over $180,000 a year are paying the deficit levy, Members of Parliament are having their pay frozen, motorists will pay the fuel excise indexation, so everyone is making a contribution. We need to make a contribution, because we just can’t go on borrowing $1 billion every single month to pay the interest on Labor’s borrowings. We just can’t go on. What we saw on the front page of <em>The Financial Review </em>this morning is that if these measures are blocked by the Labor Party in the Senate, our AAA credit rating is at risk and if that goes, well that does all sorts of damage to our country’s fundamental economic standing.</p>
 <p><strong>PRESENTER:</strong></p>
 <p>Did you ever think though that you would ever be less popular than Julia Gillard?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -100,6 +90,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>John and Garry, thanks for having me.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

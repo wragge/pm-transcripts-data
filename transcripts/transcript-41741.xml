@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41741</transcript-id>
-    <title>New armoured vehicles contract signed</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/08/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government has signed the contract with Rheinmetall for the delivery of 211 armoured combat reconnaissance vehicles which will provide vital mobility, lethality and protection capability for the Australian Army.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41741</transcript-id><title>New armoured vehicles contract signed</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/08/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government has signed the contract with Rheinmetall for the delivery of 211 armoured combat reconnaissance vehicles which will provide vital mobility, lethality and protection capability for the Australian Army.</p>
 <p>These world class vehicles will be built by Australian workers, using Australian steel, creating up to 1450 high-tech, highly skilled jobs across Australia.</p>
 <p>The Rheinmetall Boxer vehicles replace the ASLAVs (Australian Light Armoured Vehicle), which are more than 20 years old, and will ensure Australian soldiers have the best possible chance of completing their missions successfully and returning home safe to their families.</p>
 <p>Fitted with modern sensors and communications equipment, their role is to locate, monitor and engage with enemy forces and provide security to our forces.</p>
@@ -18,6 +8,4 @@
 <p>This nation building project highlights the benefits to our servicemen and women, Australian industry and workers stemming from the Turnbull Government’s commitment to developing and supporting Australia’s defence industry while investing in our military capability.</p>
 <p>The workforce that will deliver the Boxer vehicles will continue to be used to support sustainment, progressive development and upgrades as well as potential export opportunities.</p>
 <p>With the contract now signed, the largest acquisition project in the history of the Australian Army can progress with the first vehicles expected to be available for training in 2020.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

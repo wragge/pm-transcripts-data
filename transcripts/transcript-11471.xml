@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11471</transcript-id>
-    <title>Interview with Ken Birch, Radio 2VM, Moree</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E &amp; OE ....</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11471</transcript-id><title>Interview with Ken Birch, Radio 2VM, Moree</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E &amp; OE ....</p>
 <p>Subjects: reconciliation; water; Solomon Islands; defence policy; GST; ATSIC elections</p>
 <p>PRIME MINISTER:</p>
 <p>Well it's great to be with you. This is my first time in Moree as Prime Minister and it's great to be amongst you and last night the Eisteddfod was a great experience and I am looking forward to hearing more about the employment strategies of the cotton industry.</p>
@@ -137,6 +127,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

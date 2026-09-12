@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40888</transcript-id>
-    <title>Indian Giant to Expand in Australia</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/04/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>One of the world’s largest conglomerates has agreed to expand its operations in Australia, after a visit by the Prime Minister, The Hon. Malcolm Turnbull MP.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40888</transcript-id><title>Indian Giant to Expand in Australia</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/04/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>One of the world’s largest conglomerates has agreed to expand its operations in Australia, after a visit by the Prime Minister, The Hon. Malcolm Turnbull MP.</p>
 <p>Tata Consultancy Services (TCS) announced today it will open a new TCS Innovation Lab in Australia, after a one-on-one meeting between Prime Minister Turnbull and the CEO and Managing Director of TCS, Rajesh Gopinathan.</p>
 <p>The Prime Minister Malcolm Turnbull toured the TCS headquarters in Mumbai yesterday as part of his three day visit to India.</p>
 <p>The new facility in Australia will operate as a collaborative space for TCS and its industry partners, employing the best Australian talent, and utilising the company’s vast network of expertise in innovation.</p>
@@ -22,6 +12,4 @@
 <p>CEO and Managing Director of Tata Consultancy Services, Rajesh Gopinathan said “TCS has a long history of innovation working with our clients across Australia. I am delighted to take this partnership to a new level in pursuit of Prime Minister Turnbull’s Science &amp; Innovation Agenda.”</p>
 <p>The Tata Group is India’s largest conglomerate, and operates across a range of industries including automotive, steel, energy and consumer goods. Some of its brands include Jaguar, Land Rover and Tetley Tea.</p>
 <p>Tata Consultancy Services (TCS) employs 378 000 people worldwide, including 3000 in Australia. It provides IT services, consulting and business solutions. Its clients include Qantas, Westpac and AGL.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

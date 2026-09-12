@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18758</transcript-id>
-    <title>Northern Territory election result</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/08/2012</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18758</transcript-id><title>Northern Territory election result</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/08/2012</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard today congratulated Terry Mills and the Country Liberal Party on their win in the Northern Territory election.</p>
 <p>The Prime Minister also congratulated Paul Henderson, who has been an outstanding Chief Minister for the people of the Northern Territory since 2007.</p>
 <p>Paul has been a dynamic and courageous leader at a time of enormous expansion and change.</p>
@@ -19,6 +9,4 @@
 <p>This project will deliver jobs and prosperity for Territorians for years and decades to come, and that's a fitting legacy for Paul Henderson to be remembered by.</p>
 <p>It's been an honour to work with Paul during my time as Deputy Prime Minister and Prime Minister. He has been a complete professional who always put the needs of Northern Territory families first.</p>
 <p>The Gillard Government has a big reform agenda in areas such as health, education, infrastructure and stronger futures for Indigenous Australians and we will continue to build on these reforms with the new Mills Government.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

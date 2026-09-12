@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20909</transcript-id>
-    <title>Interview with David Speers, Sky News  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/09/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20909</transcript-id><title>Interview with David Speers, Sky News  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/09/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p>Prime Minister, thanks for your time.  You were in Washington two years ago today.  What is your lasting memory of that day?</p>
 <p>PRIME MINISTER:</p>
 <p>The shock, the disbelief and the realisation that came slowly at first but then with a rush, that this was an event that was going to change the way we lived, and that it wasn';t just another attack.  It was a monstrous, audacious attack which claimed the lives of so many people and had such a blatant, cruel, ideological message.  It was an attack on the symbols of the free world.</p>
@@ -88,6 +78,4 @@
 <p>SPEERS:</p>
 <p>Prime Minister, thank you very much for joining us on this important day.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

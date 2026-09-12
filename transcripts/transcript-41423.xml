@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41423</transcript-id>
-    <title>Australian of the Year Awards Ceremony 2018</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/01/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Yoonggu gulanyin ngalawiri, dhunayi, Ngoonawal dhowrrra. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41423</transcript-id><title>Australian of the Year Awards Ceremony 2018</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/01/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Yoonggu gulanyin ngalawiri, dhunayi, Ngoonawal dhowrrra. </p>
 <p>Wanggarra lin jin yin marunn bulaan boogarabung.</p>
 <p>We’re gathered here tonight in the Great Hall of the Australian Parliament on the land of the Ngunnawal people and we pay our respects to their elders past, present and emerging.</p>
 <p>It’s wonderful to be here on the eve of Australia Day, when we celebrate all that is great about our nation and its people.</p>
@@ -29,6 +19,4 @@
 <p>All our finalists tonight have that spirit in abundance too. But above all, you remind us that we are at our best when we work to help others.</p>
 <p>On behalf of our nation, I congratulate you all and I wish everyone a very, very happy Australia Day for tomorrow.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

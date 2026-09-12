@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41379</transcript-id>
-    <title>Radio interview with Stav, Abby and Matt - HIT 105</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same Sex marriage</subjects>
-    <content><![CDATA[<p><strong>HOST: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41379</transcript-id><title>Radio interview with Stav, Abby and Matt - HIT 105</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same Sex marriage</subjects><content><![CDATA[<p><strong>HOST: </strong></p>
 <p>Prime Minister of Australia, Malcolm Turnbull, good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, good morning.</p>
@@ -132,6 +122,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Merry Christmas to you and all your listeners, talk soon.</p>
 <p><strong>[END]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

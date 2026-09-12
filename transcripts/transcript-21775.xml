@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21775</transcript-id>
-    <title>Release of Taskforce Report on Export Infrastructure  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/06/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am releasing today the Taskforce Report into Australia's export infrastructure.  The Taskforce was established to identify any bottlenecks of a physical or regulatory kind in the operation of Australia's infrastructure which may impede the full realisation of our export opportunities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21775</transcript-id><title>Release of Taskforce Report on Export Infrastructure  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/06/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am releasing today the Taskforce Report into Australia's export infrastructure.  The Taskforce was established to identify any bottlenecks of a physical or regulatory kind in the operation of Australia's infrastructure which may impede the full realisation of our export opportunities.</p>
 <p>The Taskforce has concluded that there is no major crisis in infrastructure used for exports.  The Report has concluded that while some parts of the nation's infrastructure face immediate capacity constraints, actions already in train should help resolve these.  However, it does suggest that there are some underlying weaknesses that must be addressed if the problems are not to become widespread, and to prevent future bottlenecks developing.</p>
 <p>The Report notes that the greatest impediment to the development of necessary infrastructure is the way in which the current economic regulatory framework is structured and administered.  The fragmented nature of regulation, the extent of powers vested in regulators and the scope for inconsistency create uncertainty and increase the level of risk for infrastructure investment.  The Taskforce has recommended changes to improve the level of regulation required, the clarity of regulatory objectives and the consistency and timeliness of regulatory decisions.</p>
 <p>  In particular, it has recommended that in the first instance, issues to do with export oriented infrastructure be resolved by commercial negotiation between the infrastructure provider and users.  Where regulation is warranted, light-handed regulation (for example, price monitoring) should be applied by the relevant regulator.  Where this demonstrably fails and stronger regulation is needed, the test applied by regulators should be simplified to allow for faster processes and time limits should be imposed.  In circumstances where a six month period has passed and the relevant regulatory process is at an impasse, the Taskforce has recommended a Federal Minister be given the power to declare the service.  The matter would then be referred to the ACCC for arbitration (again with a six month time limit and with the right of appeal to the Australian Competition Tribunal).</p>
@@ -17,6 +7,4 @@
 <p>I would like to thank the Taskforce members Dr Brian Fisher, Mr Max Moore Wilton AC and Mr Henry Ergas for their report.</p>
 <p>I am providing the report to Premiers and Chief Ministers today and will be raising the issues contained in the Taskforce report at the COAG meeting this Friday.</p>
 <p>A copy of the report can be downloaded from <a href="http://www.infrastructure.gov.au">www.infrastructure.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

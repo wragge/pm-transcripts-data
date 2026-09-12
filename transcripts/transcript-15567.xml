@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15567</transcript-id>
-    <title>Interview with Chris Uhlmann AM Program, ABC Radio</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/03/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15567</transcript-id><title>Interview with Chris Uhlmann AM Program, ABC Radio</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/03/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Senator Ian Campbell, Kevin Rudd, Brian Burke</p>
 <p>E&amp;OE...</p>
 <p>UHLMANN: </p>
@@ -49,6 +39,4 @@ Senator Ian Campbell, Kevin Rudd, Brian Burke</p>
 <p>PRIME MINISTER: </p>
 <p>I think he should come clean and I think the Australian public believes he should come clean. I don't think it is just enough I think he should reflect on what he said at that news conference, he should acknowledge that the real purpose of the gathering was not as he has described it and that he should acknowledge the conflict between what he said last Thursday and has continued to say and the reality of that gathering because you are not dealing here with somebody who's in business, you are not dealing here with somebody who is a lobbyist, you are dealing here with somebody who wants to be Prime Minister of Australia. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

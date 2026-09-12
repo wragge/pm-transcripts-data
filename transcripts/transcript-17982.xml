@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17982</transcript-id>
-    <title>Theme for CHOGM 2011 unveiled</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17982</transcript-id><title>Theme for CHOGM 2011 unveiled</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister announced today that the official theme for the 2011 Commonwealth Heads of Government Meeting (CHOGM) will be “Building National Resilience, Building Global Resilience”.</p>
 <p>The Commonwealth is unique as an international organisation. Its membership is diverse, spanning all six continents of the world, encompassing all major faiths, and including both developed and developing countries. The Commonwealth represents one-third of the world's population and more than one-quarter of the world's countries.</p>
 <p>Most importantly, however, the Commonwealth is an organisation built on shared values and principles. The countries of the Commonwealth share a commitment to democracy, freedom, peace, the rule of law and opportunity for all.</p>
@@ -19,6 +9,4 @@ The Prime Minister announced today that the official theme for the 2011 Commonwe
 <p>Australia's chairing and leadership of the Commonwealth over the next two years will provide a significant leadership role for us on the world stage.</p>
 <p>CHOGM 2011 will be held in Perth from 28 to 30 October 2011. It will bring together leaders from up to 53 Commonwealth nations and up to 3,000 delegates. Around 1,000 representatives from the media are expected to also attend. The event will provide an unparalleled opportunity to showcase Western Australia to the world. </p>
 <p>For more information visit <a href="http://www.pm.gov.au">www.pm.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

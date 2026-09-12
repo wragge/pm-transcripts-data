@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7182</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>12/06/1987</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007182.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA12 JUNE 1987<br />
-I have sent the following message to Prime Minister Thatcher:<br />
-" Your electoral victory today is indeed historic. May I<br />
-congratulate you on behalf of the Australian Government and<br />
-people, and offer every good wish for your next term. I look<br />
-forward to working with you again on issues of concern to<br />
-both our countries, linked as we are by the two centuries of<br />
-our history you are joining us in celebrating in 1988."<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7182</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>12/06/1987</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007182.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA12 JUNE 1987<br>
+I have sent the following message to Prime Minister Thatcher:<br>
+" Your electoral victory today is indeed historic. May I<br>
+congratulate you on behalf of the Australian Government and<br>
+people, and offer every good wish for your next term. I look<br>
+forward to working with you again on issues of concern to<br>
+both our countries, linked as we are by the two centuries of<br>
+our history you are joining us in celebrating in 1988."<br>
 JjAUSTRAL </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

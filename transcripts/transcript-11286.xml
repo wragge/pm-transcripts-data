@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11286</transcript-id>
-    <title>VISIT BY THE VIETNAMESE PRIME MINISTER</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/03/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Prime Minister of Vietnam, Mr Phan Van</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11286</transcript-id><title>VISIT BY THE VIETNAMESE PRIME MINISTER</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/03/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Prime Minister of Vietnam, Mr Phan Van</p>
 <p> Khai, will visit Australia from 31 March to 3 April. It will be his</p>
 <p> first visit to Australia as Prime Minister.</p>
 <p>Mr Khai's visit is an opportunity to discuss issues of common</p>
@@ -32,6 +22,4 @@
 <p>I look forward to Mr Khai's visit as an opportunity for Australia</p>
 <p> and Vietnam to explore new areas for growth and cooperation between</p>
 <p> us.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

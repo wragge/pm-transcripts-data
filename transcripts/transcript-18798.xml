@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18798</transcript-id>
-    <title>Bali Memorial Services</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/08/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18798</transcript-id><title>Bali Memorial Services</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/08/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard will travel to Bali to commemorate the 10th anniversary of the Bali bombings in 2002.</p>
 <p>The Australian Government will be holding services both in Bali and Canberra on 12 October, with Their Excellencies the Governor-General Ms Quentin Bryce AC CVO and Mr Michael Bryce AM AE to lead the Canberra service.</p>
 <p>Two hundred and two people died in the first Bali bombings, among them 88 Australians. Many more were severely injured.</p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard will travel to Bali to commemorate the 10th anniver
 <p>The services will be open to all Australians and other nationalities who want to come together on this day.</p>
 <p>Further details about both memorial services can be found at <a href="http://www.dfat.gov.au/bali-anniversary">www.dfat.gov.au/bali-anniversary</a>. Members of the general public and media wishing to attend either event are asked to register their details via this website.</p>
 <p>Further details on the program for both commemorations will be released shortly. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16431</transcript-id>
-    <title>Parliamentary Secretaries    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Her Excellency the Governor-General has agreed to the following changes to the Ministry.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16431</transcript-id><title>Parliamentary Secretaries    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Her Excellency the Governor-General has agreed to the following changes to the Ministry.</p>
 <p>Senator the Hon Mark Arbib has been appointed as Parliamentary Secretary for Government Service Delivery within the Prime Minister's portfolio.</p>
 <p>The Hon Greg Combet AM MP has been appointed as Parliamentary Secretary for Climate Change. Mr Combet's previous responsibility for defence procurement will be assumed by the Minister for Defence.</p>
 <p>Mr Combet is a former coal mining engineer and has an economics degree. In his time as ACTU secretary, Mr Combet was involved in complex industrial negotiations, including fighting for justice for the James Hardie asbestos victims, and developed good links with business which will serve him well in the Climate Change portfolio.</p>
@@ -22,6 +12,4 @@
 <p>As foreshadowed last week, the Hon John Murphy MP has stepped down as Parliamentary Secretary to the Trade Minister. I thank him again for his service.</p>
 <p>Other Ministerial arrangements remain unchanged.</p>
 <p>A  printable version of the Ministry List is available on the Department of the Prime Minister and Cabinet website.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11062</transcript-id>
-    <title>Joint Press Conference with President Kim Dae-Jung of the Republic of Korea </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Bilateral relationship; commitment to UN resolution on East Timor; trade</subjects>
-    <content><![CDATA[<p>17 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11062</transcript-id><title>Joint Press Conference with President Kim Dae-Jung of the Republic of Korea </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bilateral relationship; commitment to UN resolution on East Timor; trade</subjects><content><![CDATA[<p>17 September 1999</p>
 <p align="left"><i>Subjects: Bilateral relationship; commitment to UN resolution on East Timor; trade</i></p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -52,6 +42,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>I think we must terminate now because the President has another engagement. Thank you very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

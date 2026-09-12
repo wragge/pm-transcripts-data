@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18602</transcript-id>
-    <title>Australia&#039;s oldest public building to house the Whitlam Institute</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/06/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18602</transcript-id><title><![CDATA[Australia&#039;s oldest public building to house the Whitlam Institute]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/06/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia's oldest public building will be restored with a $7 million grant from the Gillard Government to permanently house the Whitlam Institute and Margaret Whitlam art galleries.</p>
 <p>The restoration of the historic Female Orphan School building at the University of Western Sydney's Parramatta campus announced today means the resources of the Whitlam Institute can be used to their full potential.</p>
 <p>The Whitlam Institute was established by the University of Western Sydney in 2000 to honour Gough Whitlam's vision for a democratic and progressive Australia and to foster cutting-edge research and public debate.</p>
@@ -21,6 +11,4 @@ Australia's oldest public building will be restored with a $7 million grant from
 <p>It will also house a rich collection of art displayed in galleries named in honour of the late Margaret Whitlam.</p>
 <p>The new facility will feature a dedicated space for use by schools and community groups and capacity for the institute to host important public cultural, educational and policy events.</p>
 <p>This funding will ensure that the Female Orphan School building remains a public place for educational, cultural and public policy pursuits and becomes a pre-eminent resource for western Sydney. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

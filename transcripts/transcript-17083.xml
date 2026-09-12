@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17083</transcript-id>
-    <title>New $200 million research building for City West    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/02/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The concept designs for the South Australian Health and Medical Research Institute's home on North Terrace (SAHMRI) have been released by the Prime Minister, Premier Mike Rann and Health Minister John Hill.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17083</transcript-id><title>New $200 million research building for City West    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/02/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The concept designs for the South Australian Health and Medical Research Institute's home on North Terrace (SAHMRI) have been released by the Prime Minister, Premier Mike Rann and Health Minister John Hill.</p>
 <p>The building will sit alongside the new $1.7 billion home for the Royal Adelaide Hospital, and will be the first completed building within the new City West health precinct.</p>
 <p>Viewing the start of site preparation works for the new $200 million SAHMRI, Premier Rann said "This will be a modern and proud icon of South Australian science, promoting international research and providing 21st century facilities for the next generation of health and medical researchers.</p>
 <p>"The Research Institute will attract highly skilled scientists from across Australia and around the world, offering them the chance to participate in major research using the latest technologies and with the brand new Royal Adelaide Hospital close by."</p>
@@ -31,6 +21,4 @@
 <p>"Work here to prepare the site is starting on schedule and the building will be completed by end of 2012." Minister Hill said.</p>
 <p>"We'll continue to consult with the research community and we also want to hear the views of the wider South Australian community."</p>
 <p>To view the concept design and to provide your comments, visit the web site <a href="http://www.health.sa.gov.au/SAHMRI">www.health.sa.gov.au/SAHMRI</a> or call 1800 643 854.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

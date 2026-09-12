@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12073</transcript-id>
-    <title>Doorstop Interview, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/06/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: National Accounts Figures.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12073</transcript-id><title>Doorstop Interview, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/06/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: National Accounts Figures.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>.to the Minerals Council tonight?</p>
@@ -21,6 +11,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well in think the Australian public know that this economy has been run very well. They have a lot of confidence. The consumers are out there spending. I mean if the GST had mugged them they wouldn't be spending so much. If the services sector of the economy, which copped an indirect tax for the first time with the introduction of the GST had been mugged by the GST it wouldn't be growing at its fastest rate for 25 years. I mean all of the evidence today refutes line by line the negative talking down of the Australian economy by the Labor Party. They should apologise to the Australian people for talking down the national economic interest.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

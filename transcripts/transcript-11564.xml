@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11564</transcript-id>
-    <title>NEW PARLIAMENTARY SECRETARY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/02/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I propose recommending to His Excellency the Governor-General that he</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11564</transcript-id><title>NEW PARLIAMENTARY SECRETARY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/02/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I propose recommending to His Excellency the Governor-General that he</p>
 <p> appoints Mr Mal Brough, MP, the Member for Longman, as Parliamentary Secretary</p>
 <p> to the Minister for Employment, Workplace Relations and Small Business.</p>
 <p>Mr Brough will have particular responsibility for small business issues.</p>
@@ -22,6 +12,4 @@
 <p> by Senator the Hon. Kay Patterson, currently Parliamentary Secretary to</p>
 <p> the Minister for Immigration and Multicultural Affairs. She will also</p>
 <p> retain that position.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18812</transcript-id>
-    <title>Prime Minister appointed as Global Education Champion</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/09/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New York City, USA</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18812</transcript-id><title>Prime Minister appointed as Global Education Champion</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/09/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New York City, USA</p>
 <p>Prime Minister Julia Gillard has today been appointed by UN Secretary-General Ban Ki-moon as one of 10 member-state champions of his Global Education Initiative Education First.</p>
 <p>Education Firstcalls for strong political leadership, sound policies and increased financing to help all children and young people benefit from a quality education.</p>
 <p>At the launch of the initiative in New York today, Prime Minister Gillard outlined how the Australian Government will help more children attend school for a longer and better education.</p>
@@ -29,6 +19,4 @@
 <p>Improving the future life prospects for all children requires global action to target the children who are hardest to reach or excluded from a quality education by factors such as ethnicity, gender,disability, geography or conflict.</p>
 <p>The Prime Minister urged all governments  -  donors and developing countries alike  -  to put education first to benefit the future of our nations and the prosperity of our people.</p>
 <p>Prime Minister Gillard joins Heads of State from Denmark, Bangladesh, Guyana, Croatia, Russia, South Africa, Tunisia, Timor Leste and Liberia as Champions for Education First.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

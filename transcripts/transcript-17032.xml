@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17032</transcript-id>
-    <title>Transcript of interview Today show   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEFANOVIC: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17032</transcript-id><title>Transcript of interview Today show   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEFANOVIC: Prime Minister, good morning.</p>
 <p>PM: Good morning Karl.</p>
 <p>STEFANOVIC: Well, we wake to the news this morning that Tony Abbott has closed the gap as Parliament begins. Did you tell your colleagues yesterday you could lose the next election?</p>
 <p>PM: What I said to the colleagues yesterday is that no first term Government is ever guaranteed of re-election. This'll be a very tight and hard-fought election. I think the Australian people expect that'll be the case. And it's just a reality that we're going to be into a tough struggle for an election year, because there are many tough decisions to be made by the Government, and not all of them will be popular- but our intention is to govern in the national interest.</p>
@@ -43,6 +33,4 @@
 <p>As far as President Obama's visit, he and if Michelle and the kids come as well, are all welcome guests in Australia, as would be any President of the United States. This is really important for our bilateral relationship, 70 years this year since we established diplomatic relations with the United States. And what we'll be spending our time doing is looking at the future of our security relationship, the challenges of terrorism but also, this is the biggest economy of the world, and the recovery of this US economy affects every working family who's watching your program this morning. They are the two things we'll be talking about.</p>
 <p>STEFANOVIC: Alright Prime Minister, always good to talk to you. Thanks for your time, today shapes as a very interesting year. Appreciate it.</p>
 <p>PM: Thanks Karl.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

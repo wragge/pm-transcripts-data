@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17258</transcript-id>
-    <title>Prime Minister Transcript of interview with David Koch Sunrise 30 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister Kevin Rudd joins us this morning from Hervey Bay in Queensland. Prime Minister, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17258</transcript-id><title>Prime Minister Transcript of interview with David Koch Sunrise 30 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister Kevin Rudd joins us this morning from Hervey Bay in Queensland. Prime Minister, good morning to you.</p>
 <p>Look, 65 per cent of respondents say they won't be swayed, so why put up the price by 25 per cent? Is it just a tax grab?</p>
 <p>PM: First of all, Kochie, what we've done is respond to the recommendations from our National Preventative Healthcare Taskforce, because if we want better health and better hospitals for all Australians, we've got to make sure we're dealing with one of the big causes of disease in Australia, and that's tobacco.</p>
 <p>Secondly, we were very clear yesterday - this won't stop everyone from smoking, but it will reduce the number of Australians smoking, and as a result, because we are currently, as a nation, losing about $30 billion a year through the impacts of tobacco, any reduction in the number of smokers is going to help.</p>
@@ -55,6 +45,4 @@
 <p>There's a buffer on top of what you currently get that you can earn by way of additional income before your pension's affected. I think that should cover off what would be earned by selling electricity back into the grid. But let's have a look at the detail, and particularly the case which has just been raised by Daniel, even though he's not aged pensioner himself.</p>
 <p>HOST: Okay, alright, Prime Minister, thank you for that. Big weekend, Henry Review on Sunday. Looking forward to that. We'll catch up next week.</p>
 <p>PM: We've got a few things on, Kochie. All the best from Hervey Bay - wonderful part of Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

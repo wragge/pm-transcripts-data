@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41589</transcript-id>
-    <title>Federal GST Top Up for WA Hospital Infrastructure</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>26/04/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will top up Western Australia’s share of the GST by investing an additional $188.9 million in the state’s hospital infrastructure in the 2018-19 Budget.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41589</transcript-id><title>Federal GST Top Up for WA Hospital Infrastructure</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>26/04/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will top up Western Australia’s share of the GST by investing an additional $188.9 million in the state’s hospital infrastructure in the 2018-19 Budget.</p>
 <p>This funding injection will expand and improve hospital facilities, help save lives and improve patient care.</p>
 <p>Significantly, it also ensures that Western Australia’s share of the GST is effectively lifted to 0.5 for next year.</p>
 <p>We are committed to helping Western Australia deal with some of the health challenges identified by the WA State Government.</p>
@@ -22,6 +12,4 @@
 <p>$10.6 million towards the Osborne Park Hospital Expansion which will include a neo-natal facility upgrade and additional rehabilitation beds.</p>
 <p>$20.3 million towards the refurbishment of the Royal Perth Hospital, including the mental health observation unit and Medihotel.</p>
 <p>The Government looks forward to receiving the Productivity Commission’s final report of its review into GST distribution, established to examine the impact of the current distribution method on our national economy including in Western Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

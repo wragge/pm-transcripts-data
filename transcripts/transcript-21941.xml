@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21941</transcript-id>
-    <title>Doorstop Interview Mission Australia Centre, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/09/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21941</transcript-id><title>Doorstop Interview Mission Australia Centre, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/09/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>On the terror laws Mr Howard, can you give the community assurances of judicial review?</p>
 <p>PRIME MINISTER:</p>
 <p>Well yes I can, of individual cases, yes. The laws themselves will be laws in the ordinary sense. They'll be passed by the Parliament. In relation to the control order, you won't be able to get a control order without going to a judge and there will be judicial review available in relation to preventative detention. Now these safeguards have always been there. They're not new safeguards I'm adding on the eve of the meeting, they were always there, it was always the case that we were matching the expansion of the powers with appropriate safeguards.</p>
@@ -50,6 +40,4 @@
 <p>   PRIME MINISTER:</p>
 <p>Well I think there is a difference and I think obviously the facilities are better. The fundamental mission is the same. Charles Chambers who was there in 1974, 31 years ago, is still there. The facilities are more modern. Some of the challenges of inner-city life in Sydney are different from what they were in 1974. We have lower unemployment now than perhaps we had during the 70s. Certainly the economy is stronger than what it was then. I think the opportunities for people are great now, but they still need help. And I think Mission Australia's done a wonderful job and I congratulate them for it.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

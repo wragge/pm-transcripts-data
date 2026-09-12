@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10983</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH HOWARD SATTLER (6PR)                                                   SUBJECTS: Mr Tim Fischer, the National Party, taxation reform, the                 Senate, lamb exports, PM&#039;s official visit to Japan/USA, Indonesia.</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10983</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH HOWARD SATTLER (6PR)                                                   SUBJECTS: Mr Tim Fischer, the National Party, taxation reform, the                 Senate, lamb exports, PM&#039;s official visit to Japan/USA, Indonesia.]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................................................................................................</p>
 <p>SATTLER:</p>
 <p>The Prime Minister joins me now for his regular segment and he is</p>
 <p> in our sister station 2UE studio in Canberra. Good morning Prime Minister.</p>
@@ -329,6 +319,4 @@
 <p>SATTLER:</p>
 <p>Or the tennis.</p>
 <p>PRI</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

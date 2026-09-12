@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21768</transcript-id>
-    <title>Doorstop Interview Wharf 8, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/05/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21768</transcript-id><title>Doorstop Interview Wharf 8, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/05/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Prime Minister, on industrial relations - there's been a survey done by the ACTU which has revealed that 60 per cent of respondents are not in favour of the changes, and 72 per cent are opposed particularly to removing the protection in relation to unfair dismissals. Has that got you worried about a further backlash?</p>
 <p>PRIME MINISTER:</p>
 <p> No. I understand that survey was commenced before the policy was announced.</p>
@@ -59,6 +49,4 @@
 <p> Well I don't think it's helpful for me to give a running commentary. This is a very delicate situation. I appreciate the goodwill and the positive efforts of anybody who is trying to help this poor man, and the best way that I can help is to be careful in what I say.</p>
 <p> Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

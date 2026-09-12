@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11533</transcript-id>
-    <title>Doorstop Interview, 10 Downing Street, London</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Discussions with Prime Minister Blair; Childers memorial; return of aboriginal remains; tax reform; trade</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11533</transcript-id><title>Doorstop Interview, 10 Downing Street, London</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Discussions with Prime Minister Blair; Childers memorial; return of aboriginal remains; tax reform; trade</p>
 <p>E&amp;OE ......</p>
 <p>JOURNALIST:</p>
 <p>Well Mr Howard, how did it go in there?</p>
@@ -72,6 +62,4 @@
 <p>PRIME MINISTER:</p>
 <p>No I didn't. No, the baby's away Alison. But I inquired about the baby and the reports were all good. Anyway, we'd better go.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

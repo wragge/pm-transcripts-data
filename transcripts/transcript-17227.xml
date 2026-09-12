@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17227</transcript-id>
-    <title>Prime Minister Minister for Health Historic health reform 20 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>An historic agreement was reached today to deliver better health and better hospitals for Australian working families. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17227</transcript-id><title>Prime Minister Minister for Health Historic health reform 20 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>An historic agreement was reached today to deliver better health and better hospitals for Australian working families. </p>
 <p>This will deliver the most significant reforms to our health and hospitals system since the introduction of Medicare. </p>
 <p>From July 1 this year the Australian Government will start delivering $5.3 billion in additional funding over the next four years to provide:</p>
 <p>     * 1,300 new sub-acute hospital beds;</p>
@@ -39,6 +29,4 @@
 <p>Fundamental reform is needed to ensure our health system can cope with the pressures of a growing and ageing population. </p>
 <p>Without essential reform spiralling health costs would have consumed entire revenue raised by states and territories. </p>
 <p>Today's agreement delivers that reform, putting health funding onto a sustainable footing, and delivering better health and better hospitals for working families across Australia. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19255</transcript-id>
-    <title>Transcript of Interview with Tom Elliott, 3AW</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/04/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19255</transcript-id><title>Transcript of Interview with Tom Elliott, 3AW</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/04/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: We're now joined as I promised before the news by the Prime Minister of Australia, Julia Gillard. Ms Gillard, good afternoon.</p>
 <p>PM: Good afternoon.</p>
 <p>HOST: A very sad day for Boston, which is of course the sister city to Melbourne.</p>
@@ -50,6 +40,4 @@ HOST: We're now joined as I promised before the news by the Prime Minister of Au
 <p>I didn't see the piece and I don't think you can make sweeping generalisations. I think people will judge media pieces as they read them.</p>
 <p>HOST: Indeed. We'll leave it there Julia Gillard, Prime Minister, thank you so much for joining us.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

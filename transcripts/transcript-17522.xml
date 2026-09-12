@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17522</transcript-id>
-    <title>Transcript of joint press conference, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/10/2010</release-date>
-    <release-type>Defence</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17522</transcript-id><title>Transcript of joint press conference, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/10/2010</field_date><release-type>Defence</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: It's great to be back home in Melbourne and to be here at Austin Hospital. I'm joined by the Minister for Health, Nicola Roxon, and by Jenny Macklin, obviously one of our of ministers that's here today in her capacity as the local member for this area.</p>
 <p>Yesterday I was in Brisbane, speaking about the importance of economic reform to our nation, and particularly the importance of making we continue to invest in skills and training. Now, many Australians, when they think about skills shortages, would think 'well, we're short in mining, we're short in construction, we're short in some traditional trades.' Now, that's true, but we are also short of the health professionals we need, and that's because when we came to government we inherited a health system from Mr Abbott that was both underfunded and understaffed.</p>
 <p>Now, Nicola Roxon as the Minister for Health, and the Government, have been investing in the training necessary to have new health professionals. We've been particularly increasing the number of doctors we are training; the number of nurses we are training; and making investments so we will have the health workforce we need in the future.</p>
@@ -82,6 +72,4 @@ PM: It's great to be back home in Melbourne and to be here at Austin Hospital. I
 <p>PM: I think the three of us are very glad that it was a dummy arm and I think, yes, everybody was much better of that it was not a real person on the other end of the exercise.</p>
 <p>I think we'll probably stick to our current jobs rather than be here with our friends who are in clinical training. I'm not sure we'd keep pace.</p>
 <p>OK, thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

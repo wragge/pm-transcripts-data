@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11079</transcript-id>
-    <title>Doorstop Interview, Hamilton Showgrounds, Hamilton, Victoria</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Ralph Report, Republic referendum, forestry issues, driving under the influence,</subjects>
-    <content><![CDATA[<p>2 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11079</transcript-id><title>Doorstop Interview, Hamilton Showgrounds, Hamilton, Victoria</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Ralph Report, Republic referendum, forestry issues, driving under the influence,</subjects><content><![CDATA[<p>2 August 1999</p>
 <p>E&amp;OE………………………………………………………………………………………</p>
 <p><b>JOURNALIST:</b></p>
 <p>Mr Reith’s announcement yesterday that he is going to support the ‘no’ case because…[inaudible] …a popularly elected President. Do you think that it is dangerous thinking or supporting the idea of a popularly elected President?</p>
@@ -60,6 +50,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>We will respond with appropriate speed having regard to all of the circumstances including the reactions of the public. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

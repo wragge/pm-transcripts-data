@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24563</transcript-id>
-    <title>Legislation to strip terrorists of citizenship</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/06/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government will strip Australian citizenship from dual nationals who engage in terrorism. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24563</transcript-id><title>Legislation to strip terrorists of citizenship</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/06/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government will strip Australian citizenship from dual nationals who engage in terrorism.&nbsp;</p>
 <p>Legislation will be introduced into Parliament tomorrow.</p>
 <p>We want to ensure terrorists who are dual nationals are prevented from returning to Australia and dual nationals who engage in terrorism within Australia can be removed, where possible.</p>
 <p>This Government’s highest priority is to keep the community safe.</p>
@@ -23,6 +13,4 @@
 <p>The Government will ask the Parliamentary Joint Committee on Intelligence and Security (PJCIS) to inquire into the Bill and report back to Parliament in early August.</p>
 <p>The views of the PJCIS together with feedback from the public consultation process about citizenship more generally will give the Government a sound basis for deciding on further legislation.</p>
 <p>23 June 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

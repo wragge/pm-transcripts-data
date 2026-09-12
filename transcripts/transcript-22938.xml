@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22938</transcript-id>
-    <title>Interview with Philip Williams, AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Fuel prices, interest rates, Minister Reith, Governor-General appointment, cricket allegations, Australian dollar</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22938</transcript-id><title>Interview with Philip Williams, AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Fuel prices, interest rates, Minister Reith, Governor-General appointment, cricket allegations, Australian dollar</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>WILLIAMS:</p>
 <p>Good morning Prime Minister.</p>
@@ -108,6 +98,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

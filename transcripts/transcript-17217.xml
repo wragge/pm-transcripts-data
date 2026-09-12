@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17217</transcript-id>
-    <title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 15 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STANLEY: Good morning to you, Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17217</transcript-id><title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 15 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STANLEY: Good morning to you, Prime Minister.</p>
 <p>PM: Good morning. Thanks for having me on the program.</p>
 <p>ALOISI: Prime Minister, is there a possibility that John Brumby could put a kybosh on your plan?</p>
 <p>PM: Well, Premier Brumby has expressed his views about the Victorian health system. I think at various stages he's said that they have the best health system in the country. I'm not sure that's entirely true - if you look at the figures contained in the Australian hospitals report, for example.</p>
@@ -57,6 +47,4 @@
 <p>PM: Well, I think it'd be a good question to ask your average, for example, News Limited bureau chief in Canberra what the turnover is in your average news bureau in Canberra. It's a tough life. People often have to relocate, there are crazy hours, it's very intense, people on the phone wanting x, y and z done within a short period of time, but I go back to the simple fact - we were elected by the Australian people to do a job. One of them, right now, is very big, on health and hospitals. That means burning the midnight oil, getting it done and sell it as hard as you can and that's the approach we take as a Government.</p>
 <p>ALOISI: Alright, Prime Minister. Thanks for coming in this morning.</p>
 <p>PM: Thanks for having me on your program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

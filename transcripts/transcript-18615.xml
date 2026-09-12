@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18615</transcript-id>
-    <title>Transcript of interview on Sunrise, Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/06/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, good to see you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18615</transcript-id><title>Transcript of interview on Sunrise, Brisbane</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/06/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, good to see you.</p>
 <p>Look the meeting was snubbed by the tourism and transport forum claiming you bail out car makers rather than help them.</p>
 <p>They've taken out big ads in the newspaper this morning. What's your response to those claims?</p>
 <p>PM: Kochie, right across the economy we're working to protect jobs.</p>
@@ -55,6 +45,4 @@
 <p>And given the strength of our economy we can conquer challenges like putting a price on carbon.</p>
 <p>And Kochie, we've got to remember there's a bipartisan commitment to cutting carbon pollution in our nation by 5 percent by 2020.</p>
 <p>So we've got to get started otherwise it's going to be a really dramatic adjustment for our economy if we don't get started now.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

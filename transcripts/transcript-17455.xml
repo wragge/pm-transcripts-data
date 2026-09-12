@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17455</transcript-id>
-    <title>Lifeline Special Event, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/09/2010</release-date>
-    <release-type>Health</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17455</transcript-id><title>Lifeline Special Event, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/09/2010</field_date><release-type>Health</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney </p>
 <p>A big thank you to John Brogden, the team at Lifeline and Macquarie Bank for organising and supporting this special event today.</p>
 <p>And before I begin, I want to pay tribute to Lifeline's CEO, Dawn O'Neill, whose decade of service to this great organisation comes to an end next month.</p>
 <p>Dawn has made an extraordinary contribution, fostering a period of major governance and service reform for Lifeline, and her work was fittingly honoured by an award in the Order of Australia last year.</p>
@@ -85,6 +75,4 @@
 <p>I know everyone here today will respond generously to the needs of Lifeline as it so clearly warrants and deserves, sustaining this great organisation to its 50th birthday and well beyond.</p>
 <p>It is an honour to share this event and to lend the support of my prime ministership to the cause of mental health.</p>
 <p>Confident in the future, let us move forward and achieve great things together.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10574</transcript-id>
-    <title>Radio Interview with Clive Roberston, Radio 2GB </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/12/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>3 December 1997</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10574</transcript-id><title>Radio Interview with Clive Roberston, Radio 2GB </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/12/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>3 December 1997</p>
 <p>E&amp;OE..........................................................................................................................</p>
 <p><b>ROBERTSON:</b></p>
 <p>The Prime Minister, Mr Howard, is on the line. Good morning, sir.</p>
@@ -39,6 +29,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>It is indeed.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

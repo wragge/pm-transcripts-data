@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10686</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                PRESS CONFERENCE                PRIME MINISTER&amp;#146;S COURTYARD, PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/12/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10686</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                PRESS CONFERENCE                PRIME MINISTER&amp;#146;S COURTYARD, PARLIAMENT HOUSE]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/12/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p> Ladies and gentlemen, I've called this news conference</p>
 <p> to make a short statement about the military action taken by the United</p>
 <p> States and the United Kingdom against Iraq. This military action has,</p>
@@ -276,6 +266,4 @@
 <p>Well, I read it this morning and my advisers had access to it earlier,</p>
 <p> precisely when I can't tell you, but earlier. Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

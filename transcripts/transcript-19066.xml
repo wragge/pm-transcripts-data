@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19066</transcript-id>
-    <title>$70 Million Boost for World Class Research</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19066</transcript-id><title>$70 Million Boost for World Class Research</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>The Gillard Government will invest over $70 million to help Cooperative Research Centres (CRCs) improve the lives of Australians by driving world class research in areas including cell therapy, autism, eye care in remote communities and workplace safety.</p>
 <p>The Government will fund three new CRCs – focused on Alertness, Safety and Productivity; Cell Therapy Manufacturing; and Living with Autism Spectrum Disorders – and provide additional funding to the existing Vision CRC to expand its research programs.</p>
 <p>These CRCs will bring together researchers, industry, communities and government to produce world leading research that addresses major challenges in the public and private sectors.</p>
@@ -21,6 +11,4 @@
 <p>These projects have been chosen following a competitive, merit based process as part of the 15th selection round of the CRC program. There is $240 million in available funding for Round 16, which closes in June 2013.</p>
 <p>The Government is committed to maintaining the CRC program, with a total of $619 million in funding for 2012-13 to 2015-16.</p>
 <p>More information on the CRC program and the successful CRCs is available at <a href="http://www.crc.gov.au">www.crc.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

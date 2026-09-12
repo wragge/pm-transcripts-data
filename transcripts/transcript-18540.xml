@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18540</transcript-id>
-    <title>Transcript of joint doorstop interview, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/04/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18540</transcript-id><title>Transcript of joint doorstop interview, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/04/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm joined today by Jenny Macklin, the Minister for Disability Reform and I thank Danni very much for joining us too, who is going to sign our press conference.</p>
 <p>We've just had the opportunity to participate in the most wonderful event here in Sydney and it is joined by events right around the country, where people with disabilities, their families, their friends, their carers, are all coming together to make the point that every Australian counts and that we can do better by Australians with disabilities.</p>
 <p>The current system we know is underfunded and it's fragmented. Too many people don't get the care they need and whether or not you get care depends on this really cruel lottery about how you acquired your disability.</p>
@@ -66,6 +56,4 @@ PM: I'm joined today by Jenny Macklin, the Minister for Disability Reform and I 
 <p>PM: I will be leading the Labor Party to the next election and I can tell you very clearly now what that election will be about. It will be about who you stand for; whether you stand for the privileged few, or whether you stand for working Australians and their families.</p>
 <p>Thank you very much.</p>
 <p>MINISTER MACKLIN: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

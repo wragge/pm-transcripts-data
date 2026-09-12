@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10818</transcript-id>
-    <title>NEW FUNDING FOR YOUTH HOMELESS PILOT PROGRAMME</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/06/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce an additional $2.3 million for a six-month</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10818</transcript-id><title>NEW FUNDING FOR YOUTH HOMELESS PILOT PROGRAMME</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/06/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce an additional $2.3 million for a six-month</p>
 <p> extension of the Youth Homeless Pilot Programme and to launch the</p>
 <p> interim report of the Youth Homeless Taskforce.</p>
 <p>The funding boost will allow the Youth Homeless Pilot Programme to</p>
@@ -38,6 +28,4 @@
 <p>I am looking forward to receiving the final report of the taskforce</p>
 <p> later this year. I am sure it will build on the strengths of the interim</p>
 <p> report and the success of the work of the pilots.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

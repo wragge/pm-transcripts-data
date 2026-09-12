@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18224</transcript-id>
-    <title>Welcome steps by European leaders but still more to be done</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18224</transcript-id><title>Welcome steps by European leaders but still more to be done</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 We welcome the important steps taken by European leaders to put in place the key elements of a plan to resolve their sovereign debt and banking crisis, however more needs to be done to quickly finalise and implement this plan in full.</p>
 <p>At recent meetings of G20 Finance Ministers, the Australian Government made it very clear that our European colleagues needed to take swift, decisive and credible action to prevent the crisis spreading further in their region and throughout the global economy.</p>
 <p>We called for a comprehensive plan to deliver a durable solution to address Greece's excessive levels of sovereign debt, recapitalise European banks and build a war chest large enough to end fears of the sovereign debt contagion spreading to other European countries. </p>
@@ -25,6 +15,4 @@ We welcome the important steps taken by European leaders to put in place the key
 <p>The global community must support Europe as it moves forward from here.</p>
 <p>That's why we have been advocating through the G20 a plan to ensure the adequacy of IMF resources to support adjustment in Europe and stability in the global economy.</p>
 <p>This is the message we will again take to the G20 Leaders' Summit in Cannes next week.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

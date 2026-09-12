@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22823</transcript-id>
-    <title>Prime Minister&#039;s Address to the Nation</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/06/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>My fellow Australians,</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22823</transcript-id><title><![CDATA[Prime Minister&#039;s Address to the Nation]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/06/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>My fellow Australians,</p>
 <p>May I have a few moments of your time to say why the new tax system which starts on Saturday is good for Australia.</p>
 <p>This is something the country has needed for more than twenty years and we're doing it because it is the right thing for the nation.</p>
 <p>It will give us a fairer taxation system.</p>
@@ -64,6 +54,4 @@
 <p>Now is the time for all Australians to get behind the new tax system to ensure its success.</p>
 <p>Together we can move Australia forward.</p>
 <p>Good night.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

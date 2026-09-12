@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41093</transcript-id>
-    <title>Traffic moves freely on the new Mitchell Freeway extension</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>03/08/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Mitchell Freeway extension through Perth’s fast growing outer northern suburbs is now complete and will open to traffic on Friday morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41093</transcript-id><title>Traffic moves freely on the new Mitchell Freeway extension</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>03/08/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Mitchell Freeway extension through Perth’s fast growing outer northern suburbs is now complete and will open to traffic on Friday morning.</p>
 <p>The $236 million project is 80% funded by the Turnbull Government and 20% funded by the McGowan Government and extends the Freeway from Burns Beach Road to Hester Avenue.</p>
 <p>This vital improvement – along with the future METRONET rail line to Yanchep - will ease congestion for the residents of Perth’s northern suburbs and accommodate housing and commercial opportunities in the high-growth northern corridor.</p>
 <p>The newly constructed section of this major arterial road will make the freeway much more efficient, particularly during afternoon peak periods.</p>
@@ -22,13 +12,13 @@
 <p>WA Minister for Transport Rita Saffioti thanked the community for their ongoing patience and understanding during construction and said the improvements to the Mitchell Freeway are part of a comprehensive plan to address congestion and create jobs.</p>
 <p>“Access to the growing outer northern suburbs will be further bolstered by the future METRONET rail line to Yanchep,” Ms Saffioti said.</p>
 <p>Some of the key features of the project include:</p>
-<ul><li>A six kilometre, four lane extension of the Mitchell Freeway from Burns Beach Road in Joondalup to Hester Avenue in Clarkson;</li>
+<ul>
+<li>A six kilometre, four lane extension of the Mitchell Freeway from Burns Beach Road in Joondalup to Hester Avenue in Clarkson;</li>
 <li>Interchanges at Burns Beach Road, Neerabup Road and Hester Avenue; and</li>
 <li>An extension of Neerabup Road (east from Connolly Drive to Wanneroo Road) and duplication of Hester Avenue from Hidden Valley Retreat to Wanneroo Road, to provide a connection to the new freeway extension.</li>
-</ul><p>Main Roads WA, the department responsible for managing the project, and CPB Contractors (formerly Leighton Contractors PTY LTD), introduced a number of sustainable and innovative elements to the Mitchell Freeway extension.</p>
+</ul>
+<p>Main Roads WA, the department responsible for managing the project, and CPB Contractors (formerly Leighton Contractors PTY LTD), introduced a number of sustainable and innovative elements to the Mitchell Freeway extension.</p>
 <p>The use of roundabouts instead of traffic signals at the new Neerabup Road and Hester Avenue freeway interchanges will reduce maintenance and operating costs, while also improving traffic flow, safety and reducing vehicle emissions.</p>
 <p>Sustainability features included the installation of LED lighting, wildlife underpasses at strategic locations and the use of recycled glass in the road base.</p>
 <p>The project has been delivered on time and under budget, with savings reallocated to other infrastructure priorities including the Wanneroo Road and Joondalup Drive grade separation and the Murdoch Activity Centre access roads. These projects form part of the Australian Government’s recently announced $1.6 billion commitment towards the $2.3 billion Western Australia Infrastructure Package.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

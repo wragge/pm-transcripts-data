@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17448</transcript-id>
-    <title>Australia bolsters relationship with Vietnam </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/10/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17448</transcript-id><title>Australia bolsters relationship with Vietnam </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/10/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today met President Nguyen Minh Triet, Prime Minister Nguyen Tan Dung, and General Secretary of the Communist Party of Vietnam, Nong Duc Manh in her first bilateral visit to Vietnam.</p>
 <p>The meeting followed on from the successful fifth East Asia Summit which concluded in Hanoi yesterday.</p>
 <p>Vietnam is becoming one of Australia's most important and valued partners in the Asia Pacific region. Our trade relations are significant and growing, our defence and security links are improving and our educational partnership continues to strengthen.</p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard today met President Nguyen Minh Triet, Prime Minist
 <p>The Prime Minister also announced 30 new scholarships for Vietnamese to study a Masters of Engineering at the Hanoi campus and awarded the Prime Minister's Australia Asia Awards to three Vietnamese scholars.</p>
 <p>The Prime Minister thanked Vietnamese leaders for their successful hosting of the East Asia Summit and the bilateral ASEAN-Australia Summit.</p>
 <p>She commended their ambitious and active leadership during Vietnam's year as ASEAN chair and welcomed outcomes including the expansion of the EAS with the inclusion of the United States and Russia, plus a strengthening of the EAS agenda and the inaugural ASEAN Defence Ministers' Meeting. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

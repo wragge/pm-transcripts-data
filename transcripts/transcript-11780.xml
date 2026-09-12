@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11780</transcript-id>
-    <title>Doorstop Interview, Kirribilli House, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/11/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects> election victory, economic management, illegal entries, Cabinet, parliament, retirement, media policy, trade practices act</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11780</transcript-id><title>Doorstop Interview, Kirribilli House, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/11/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>election victory, economic management, illegal entries, Cabinet, parliament, retirement, media policy, trade practices act</subjects><content><![CDATA[<p>E&amp;OE……………………………</p>
 <p>PRIME MINISTER:</p>
 <p>Well, have you got any questions?</p>
 <p>JOURNALIST:</p>
@@ -197,6 +187,4 @@
 <p>PRIME MINISTER:</p>
 <p>They haven’t told me.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

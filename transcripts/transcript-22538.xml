@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22538</transcript-id>
-    <title>INTERVIEW WITH KARL STEFANOVIC TODAY SHOW, CHANNEL NINE </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/10/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEFANOVIC:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22538</transcript-id><title>INTERVIEW WITH KARL STEFANOVIC TODAY SHOW, CHANNEL NINE </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/10/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEFANOVIC:</p>
 <p>Prime Minister, first to the Solomon Islands regional assistance package, RAMSI will be reviewed, but will continue, although Mr Sogavare is believed to have said if Australian soldiers and police are removed from the Solomon Islands, nothing will happen to his country, he clearly doesn't care?</p>
 <p> PRIME MINISTER:</p>
 <p>Well the people of the Solomon Islands very strongly support RAMSI. That's our main concern. RAMSI has restored stability and order and it's laying the foundation for greater economic progress. The one hope the people of the Pacific have is rising living standards and that can only happen if there's reduced corruption and better governance.</p>
@@ -46,6 +36,4 @@
 <p> PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

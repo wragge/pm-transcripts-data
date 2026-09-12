@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17496</transcript-id>
-    <title>Transcript of interview with Kerry O&#039;Brien, The 7.30 Report</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/12/2010</release-date>
-    <release-type>Foreign Affairs</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17496</transcript-id><title><![CDATA[Transcript of interview with Kerry O&#039;Brien, The 7.30 Report]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/12/2010</field_date><release-type>Foreign Affairs</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: I'm joined now by the Prime Minister from Canberra.</p>
 <p>Julia Gillard, starting with the WikiLeaks exposure of Kevin Rudd's comments on China to Hillary Clinton when he was Prime Minister, in particular his advice that the US should be prepared to use force against China if all else failed, what is the risk that those comments will harm Australia's relationship with China?</p>
 <p>PM: Kerry, I don't want to disappoint you in what will be my last interview on your show, but I am not going to comment on the details of leaked cables that are making an appearance on WikiLeaks.</p>
@@ -68,6 +58,4 @@ HOST: I'm joined now by the Prime Minister from Canberra.</p>
 <p>PM: And if I'm allowed a moment of nostalgia, Kerry - fantastic to be able to be here for your last week and I'm sad to see you go. I'm sure there will be moments that I won't miss a tough Kerry O'Brien interview, but you've made a fantastic contribution to the Australian national debate and our sense of ourselves.</p>
 <p>HOST: Thank you for that. Goodnight.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

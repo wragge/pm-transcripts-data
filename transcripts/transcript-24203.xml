@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24203</transcript-id>
-    <title>Interview with Andrew Bolt, The Bolt Report, Network Ten</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/02/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Leadership,  changes to Government Whips,  Budget,  Knights of the Order of Australia,  a strong and secure Medicare,  retirement age,  Copenhagen attack,  nuclear power,  Australians facing execution in Indonesia.</subjects>
-    <content><![CDATA[<p><strong>ANDREW BOLT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24203</transcript-id><title>Interview with Andrew Bolt, The Bolt Report, Network Ten</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/02/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Leadership, changes to Government Whips, Budget, Knights of the Order of Australia, a strong and secure Medicare, retirement age, Copenhagen attack, nuclear power, Australians facing execution in Indonesia.</subjects><content><![CDATA[<p><strong>ANDREW BOLT:</strong></p>
 <p>So thank you, Tony, thank you Prime Minister for still joining me this morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Andrew, it's a pleasure to be with you.</p>
@@ -124,6 +114,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>It's been a pleasure. Thank you, Andrew.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18600</transcript-id>
-    <title>Indigenous students to study at Cambridge and Oxford</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/05/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18600</transcript-id><title>Indigenous students to study at Cambridge and Oxford</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/05/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Three young Indigenous Australians have been given the opportunity to study at Oxford and Cambridge, after being named as recipients of Charlie Perkins Scholarships.</p>
 <p>As of two years ago, there had never been an Indigenous Australian studying for an undergraduate or postgraduate degree at either of these British universities.</p>
 <p>In 2010, Paul Gray and Christian Thompson were the inaugural scholarship recipients and the first Indigenous students to study at Oxford.</p>
@@ -23,6 +13,4 @@ Three young Indigenous Australians have been given the opportunity to study at O
 <p>The scholarships were launched in 2009 in memory of Aboriginal leader and activist Dr Charlie Perkins - the first Indigenous Australian man to graduate from university.</p>
 <p>The Gillard Government today announced $200,000 for the Charlie Perkins Scholarships, to support this year's scholars overseas and to provide funding for three Roberta Sykes scholarships which will be announced later this year.</p>
 <p>The British Government, Rio Tinto, the Pratt Foundation, the Cambridge Commonwealth Trust, the Cambridge Australia Trust and The McCusker Foundation are also generous supporters of the Charlie Perkins Scholarships. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

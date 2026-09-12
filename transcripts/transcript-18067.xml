@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18067</transcript-id>
-    <title>Prime Minister opens new BER facilities at Bertram Primary School</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/08/2011</release-date>
-    <release-type>Education</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18067</transcript-id><title>Prime Minister opens new BER facilities at Bertram Primary School</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/08/2011</field_date><release-type>Education</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Member for Brand Gary Gray today officially opened new facilities worth more than $2.5 million at Perth's Bertram Primary School, funded through the Commonwealth Government's Building the Education Revolution.</p>
 <p>The five-classroom early childhood block and enclosed covered assembly area were funded under the Primary Schools for the 21st Century and National School Pride elements of BER.</p>
 <p>These are essential facilities for a fast growing suburban school whose enrolments have more than doubled since it opened in 2007.</p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard and Member for Brand Gary Gray today officially ope
 <p>Facilities like these at Bertram not only benefit the school  -  they support stronger social networks and community cohesion.</p>
 <p>This project has also supported the employment of local workers, the essence of the Economic Stimulus Plan.</p>
 <p>Further information about this project and all schools funded under the BER is available at <a href="http://www.buildingtheeducationrevolution.gov.auor">www.buildingtheeducationrevolution.gov.auor</a> at: <a href="http://www.economicstimulusplan.gov.au">www.economicstimulusplan.gov.au</a>. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

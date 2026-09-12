@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40947</transcript-id>
-    <title>Radio interview with Eddie McGuire and Luke Darcy, Triple M Melbourne</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The Federal Budget; US visit</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40947</transcript-id><title>Radio interview with Eddie McGuire and Luke Darcy, Triple M Melbourne</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The Federal Budget; US visit</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning.</p>
 <p><strong>EDDIE MCGUIRE: </strong></p>
 <p>Prime Minister - a couple of things - we want to get through the budget and also might want at the end to ask you a little question about how you went last week in the United States.</p>
@@ -24,7 +14,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>You’ve already got a second airport of course.</p>
 <p><strong>LUKE DARCY: </strong></p>
-<p>But we’ve also got a lot of projects here Prime Minister that are underfunded compared to the deal on asset recycling. There’s $1.46 billion that is underfunded that hasn’t been addressed in this budget. We’ve taken a lot of calls this morning saying where’s Victoria’s share? Why does Victoria get dudded compared to Sydney? </p>
+<p>But we’ve also got a lot of projects here Prime Minister that are underfunded compared to the deal on asset recycling. There’s $1.46 billion that is underfunded that hasn’t been addressed in this budget. We’ve taken a lot of calls this morning saying where’s Victoria’s share? Why does Victoria get dudded compared to Sydney?&nbsp;</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>No, Victoria - we’re delivering into Victoria an additional $1 billion, additional $1 billion in infrastructure funding including the $500 million Regional Rail Package, $30 million to plan for the Melbourne Airport Rail Link, and the Regional Rail Package includes $100 million to upgrade the rail line out to Warn Ponds on the Geelong line which I’ve often caught and a $100 million to upgrade the North East rail line and we are also tipping in another $20 million for the upgrade of the Murray Basin Rail which we funded last year.</p>
 <p>So there’s a lot underway in Victoria.</p>
@@ -59,6 +49,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

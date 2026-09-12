@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18170</transcript-id>
-    <title>NBN Stage Two rollout commences at Kingston Beach</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18170</transcript-id><title>NBN Stage Two rollout commences at Kingston Beach</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today launched the Stage Two roll out of the NBN at Kingston Beach in Tasmania.</p>
 <p>The NBN will deliver speeds of up to 100 Megabits per second to the 950 houses at Kingston Beach within 12 months.</p>
 <p>The Stage Two roll out in Tasmania will employ 146 workers to take the NBN past 11,150 homes and businesses, including in Sorell, Deloraine, Triabunna, as well as Kingston Beach.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard today launched the Stage Two roll out of the NBN at
 <p>Construction will begin at sites in Hobart, Launceston and Somerset over the next 12 months and further work will take place at Kingston over this period.</p>
 <p>Almost 4,000 homes in Tasmania are able to get access to the NBN fibre network and almost 800 services are in operation, delivering high-speed broadband to more than 660 premises.</p>
 <p>The NBN is available to nearly 14,000 premises on the mainland and more than 650 trial users are already connected.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

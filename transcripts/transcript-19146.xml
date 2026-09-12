@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19146</transcript-id>
-    <title>Support for Innovation in Western Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19146</transcript-id><title>Support for Innovation in Western Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>Western Sydney will be designated as an Innovative Region that will help the region bid for a new innovation precinct as part of the Gillard Government's $1 billionPlan for Australian Jobs.</p>
 <p>The Government's Plan for Australian Jobs will create ten new Industry Innovation Precincts across Australia.</p>
 <p>As an Innovative Region, the Gillard Government will provide $1.5 million for dedicated staff and other resources to work with regional industry organisations, local governments, businesses, local universities, and communities to develop an innovation plan for the region.  This will support a local drive for an Innovation Precinct in Western Sydney.</p>
@@ -25,6 +15,4 @@
 <p>In addition, it will also help Western Sydney firms to participate in other innovation precincts around the nation.  </p>
 <p>Total funding of $1.5 million over four years will commence this financial year.</p>
 <p>Further details on precincts can be found at <a href="http://www.aussiejobs.innovation.gov.au">http://www.aussiejobs.innovation.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

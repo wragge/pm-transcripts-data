@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10638</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH NEIL MITCHELL                RADIO 3AW, MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/06/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10638</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH NEIL MITCHELL                RADIO 3AW, MELBOURNE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/06/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................</p>
 <p>MITCHELL:</p>
 <p>Mr Howard, good morning.</p>
 <p>PRIME MINISTER:</p>
@@ -401,6 +391,4 @@
 <p>MITCHELL:</p>
 <p>I understand that entirely. Have you advised Mr Costello that he</p>
 <p>   shouldn't because he did it on this programme, and the dollar</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

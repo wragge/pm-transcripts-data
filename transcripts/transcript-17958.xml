@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17958</transcript-id>
-    <title>$30 million assistance package fo live export industry</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17958</transcript-id><title>$30 million assistance package fo live export industry</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced a $30 million Live Exports Assistance Package to provide short-term help to individual primary producers and related businesses affected by the temporary suspension of live cattle exports to Indonesia.</p>
 <p>This assistance is in addition to the support already provided directly to industry workers, and complements the $5 million animal welfare support package announced by the Cattle Council yesterday.</p>
 <p>The Prime Minister announced the assistance, to be delivered directly to businesses to assist with the management of the suspension, following discussions with live export industry representatives.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard today announced a $30 million Live Exports Assistan
 <p>Minister for Agriculture, Fisheries and Forestry, Senator Joe Ludwig said that the Government remains committed to the live export trade.</p>
 <p>No-one wants the suspension to last a day longer than it needs too. It is clear individual producers are under pressure. These grants represent an immediate response to some of those pressures. </p>
 <p>The Government remains committed to supporting this industry through the suspension. These grants provide some immediate short-term relief to producers and business doing it tough. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

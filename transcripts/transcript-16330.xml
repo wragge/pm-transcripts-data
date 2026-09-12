@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16330</transcript-id>
-    <title>Appointment of Departmental Secretaries    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today the appointment of two Departmental Secretaries.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16330</transcript-id><title>Appointment of Departmental Secretaries    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today the appointment of two Departmental Secretaries.</p>
 <p>The position of Secretary of the Department of the Environment, Water Heritage and the Arts will shortly become vacant following the announcement by Mr David Borthwick PSM of his retirement in early January 2009. The position of Secretary of the Department of Resources, Energy and Tourism will also become vacant in January, following the appointment of Dr Peter Boxall AO as a Commissioner of the Australian Securities and Investment Commission.</p>
 <p>I pay tribute to the dedicated services of both Mr Borthwick and Dr Boxall and wish them well.</p>
 <p>The position of Secretary of the Department of the Environment, Water, Heritage and the Arts will be filled by Ms Robyn Kruk from 2 March 2009. Ms Kruk has extensive experience in public policy, having been Director General of the Department of Premier and Cabinet in NSW, Director General of NSW Health and from 1994-1998, Director General of the NSW National Parks and Wildlife Services.</p>
@@ -18,6 +8,4 @@
 <p>Mr Pierce drove the largest reforms to the NSW electricity industry in 43 years and led NSW's participation in the development of the national electricity market. In recent times he has been responsible for assessment of the economic and financial impacts of carbon emissions trading schemes and the development of strategies to facilitate private sector investment in the NSW electricity, retail and generation sectors. He will be a major asset in the portfolio of resources, energy and tourism.</p>
 <p>Both appointees will bring to their positions not only extensive experience in the public sector but also specific expertise and experience relevant to their respective Secretary roles. The appointments are for terms of five years.</p>
 <p>From 3 January, until Ms Kruk takes up her appointment, Mr Gerard Early will act as Secretary of the Department of the Environment, Water, Heritage and the Arts. Mr Drew Clarke will act as Secretary of the Department of Resources, Energy and Tourism until Mr Pierce takes up his appointment.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

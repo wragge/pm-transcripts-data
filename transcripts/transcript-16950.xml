@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16950</transcript-id>
-    <title>Prime Minister welcomes President Obama&#039;s announcement of a new strategy  for Afghanistan   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/12/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government welcomes President Obama's announcement of a new strategy for Afghanistan as the best way forward to provide security for the Afghan people and to train sufficient Afghan security forces over time to transfer responsibility to the Afghans themselves.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16950</transcript-id><title><![CDATA[Prime Minister welcomes President Obama&#039;s announcement of a new strategy  for Afghanistan   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/12/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government welcomes President Obama's announcement of a new strategy for Afghanistan as the best way forward to provide security for the Afghan people and to train sufficient Afghan security forces over time to transfer responsibility to the Afghans themselves.</p>
 <p>The President has consulted closely with Australia and other allies on the review into Afghanistan strategy conducted by the Commander of the International Security Assistance Force, General Stanley McChrystal.</p>
 <p>In responding to the review, the President has developed a credible strategy designed to achieve success, a key element of which will be an integrated civilian-military approach designed to deliver security to the population and better governance to the people of Afghanistan.</p>
 <p>The strategy includes an emphasis on training and transferring responsibility to Afghan security forces and civilian authorities.</p>
@@ -17,6 +7,4 @@
 <p>At the same time we will increase our Police training and civilian development assistance. Australia, like the United States, is committed to a transition to Afghan responsibility as soon as conditions allow.</p>
 <p>Australia expects the Government of Afghanistan to play its part in doing what is necessary to improve security and the delivery of Government services to its people.</p>
 <p>The Australian Government announced in April that we would increase our military commitment to Afghanistan by around 40 per cent to around 1550 troops. This increase is now almost complete.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20623</transcript-id>
-    <title>Interview with Paul Bongiorno, Channel Ten News   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BONGIORNO:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20623</transcript-id><title>Interview with Paul Bongiorno, Channel Ten News   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BONGIORNO:</p>
 <p>Well there's an eerie pool of smoke over Canberra at the moment, it's reminiscent over the early darkness that preceded the firestorm on Saturday.   I'm joined now by the Prime Minister. Mr Howard, you've described it has the worst bushfire disaster you've seen but perhaps the worst isn't over.</p>
 <p>PRIME MINISTER:</p>
 <p>No that is the figure, it's certainly the worst I've seen, the suburban devastation of this is far greater than any that I've experienced or seen. I worry that the worst may not be over, that's what the experts are saying, everybody has to remain vigilant and ready.</p>
@@ -24,6 +14,4 @@
 <p>BONGIORNO:</p>
 <p>Thank you very much for joining us today Prime Minister Howard.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22899</transcript-id>
-    <title>Doorstop Interview at the Hotel Pierre, New York</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/09/2000</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: East Timor</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22899</transcript-id><title>Doorstop Interview at the Hotel Pierre, New York</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/09/2000</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: East Timor</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, you spoke to Xanana Gusmao after the lunch or during the lunch. What did you say to him?</p>
@@ -26,6 +16,4 @@
 <p>Well I haven’t had any proposals put before me in relation to that and I’m not going to make therefore a hypothetical comment.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22620</transcript-id>
-    <title>White Powder Incident  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/12/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>An article by Matthew Moore in The Sydney Morning Herald and The Age newspapers today accuses the Foreign Minister and me of  "distorting test results" during a white powder incident last year at the Indonesian Embassy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22620</transcript-id><title>White Powder Incident  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/12/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>An article by Matthew Moore in The Sydney Morning Herald and The Age newspapers today accuses the Foreign Minister and me of  "distorting test results" during a white powder incident last year at the Indonesian Embassy.</p>
 <p>The article suggests that the Foreign Minister and I added the term "biological agent" to the description of the substance received at the Indonesian Embassy in Canberra on 1 June 2005.  The article also alleges that the public was never informed of the true nature of the substance.</p>
 <p>  Mr Moore ignored additional information provided by the office of the Justice Minister to justify his erroneous claims. The article is wrong in a number of ways.</p>
 <p>Firstly, advice that the white powder posted to the Indonesian Embassy was a "biological agent" was included in an incident report prepared by the Australian Government's Protective Security Coordination Centre at 2.13pm on 1 June.</p>
@@ -20,6 +10,4 @@
 <p>Advice at 6.24am the following day said testing by health authorities in the ACT revealed that the substance was gram positive Bacillus bacteria, which has a number of different forms. While one form, anthrax, can be lethal, others are naturally present and harmless.</p>
 <p>  The article alleges that this advice was not provided to the public.  This is quite simply wrong.  In Question Time that day (2 June), I advised that analysis of the substance indicated that in "all probability it was not toxic".  The Chief Police Officer of the ACT and the Chief Minister of the ACT also made this clear in a press conference on 2 June. The AFP statement advised that testing "has shown that the substance is not anthrax...However it must be stressed these finding are interim and analysis is continuing."</p>
 <p>Prior to publication of his erroneous article, Mr Moore was advised there were other documents that did indicate the material was biological" but he chose not to pursue them or include any reference to them in his article.  His conclusion that the government exaggerated the threat is outrageous and factually incorrect.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

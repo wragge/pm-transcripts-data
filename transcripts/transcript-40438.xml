@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40438</transcript-id>
-    <title>Transcript : Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/09/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40438</transcript-id><title>Transcript : Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/09/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>As you know, last night we had the Australia-ASEAN Summit. It was a very, very good, warm and constructive meeting. The main themes were security, counter-terrorism, education and trade. We received very warm, positive feedback from our ASEAN neighbours, real appreciation of Australia’s role in the region and a great credit to our continuing diplomacy and engagement with our neighbours. Very strong commitment to continuing our work to open up markets, promote free trade. Strong recognition of similar themes that we saw at the G20 in Hangzhou.</p>
 <p>We obviously entered into an updated declaration on combatting terrorism - very important to update that in recognition of new technologies and new developments.</p>
 <p>So it was a very good meeting. Also it took great appreciation of the way in which so many young people from ASEAN countries go to university and college in Australia and, of course, real delight at Julie Bishop’s New Colombo Plan, seeing thousands of young Australians coming to go to universities in the region. Of course, the largest country in ASEAN receiving those students is Indonesia.</p>
@@ -68,6 +58,4 @@
 <p>I’m actually going right now to a meeting with the Chinese Premier so no doubt all of these issues will be on the agenda.</p>
 <p>Thank you very much.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

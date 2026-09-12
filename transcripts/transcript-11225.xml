@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11225</transcript-id>
-    <title>JOINT PRESS RELEASE             PRIME MINISTER, THE HON. JOHN HOWARD MP             THE TREASURER, THE HON. PETER COSTELLO MP             AND THE MINISTER FOR FAMILY AND COMMUNITY SERVICES             THE HON. SENATOR JOCELYN NEWMAN             FEDERAL GO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11225</transcript-id><title>JOINT PRESS RELEASE             PRIME MINISTER, THE HON. JOHN HOWARD MP             THE TREASURER, THE HON. PETER COSTELLO MP             AND THE MINISTER FOR FAMILY AND COMMUNITY SERVICES             THE HON. SENATOR JOCELYN NEWMAN             FEDERAL GO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
    The Government is pleased to announce a $51 million package of taxation</p>
 <p> measures to encourage greater corporate and personal philanthropy</p>
 <p> in Australia. This initial annual revenue cost will rise over time</p>
@@ -76,6 +66,4 @@
 <p> and demonstrate the further investment the Government is willing to</p>
 <p> make to meet its social obligations.</p>
 <p> 26 March 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

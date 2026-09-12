@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12122</transcript-id>
-    <title>Doorstop Interview, Australia Centre, London</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/04/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>23 June 1997</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12122</transcript-id><title>Doorstop Interview, Australia Centre, London</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/04/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>23 June 1997</p>
 <p>E&amp;OE..........................................................................................................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard are you willing to accept a sunset clause in the Work for the Dole scheme?</p>
@@ -39,6 +29,4 @@
 <p>Mr Howard, Mr Prosser has misled the House over his business dealings...</p>
 <p>PRIME MINISTER:</p>
 <p>This is my last answer but I don't know what exactly, exactly what he said in the House today. And I really think the last sort of figleaf of a London convention should be preserved in relation to not sort of talking about..... don't ask me to interpret what was said in the House a few hours ago. I mean, I have a lot of confidence in him. Full confidence in him. But as to the nuances as to what was said in the House today, leave that to the boys and girls back home.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

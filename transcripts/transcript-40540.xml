@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40540</transcript-id>
-    <title>Radio Interview with Aaron Stevens</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/10/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>AARON STEVENS: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40540</transcript-id><title>Radio Interview with Aaron Stevens</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/10/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>AARON STEVENS: </strong></p>
 <p>It’s a pleasure this morning to say hello to the Prime Minister. Malcolm Turnbull joins us, good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning it’s great to be here.</p>
@@ -29,7 +19,7 @@
 <p><strong>AARON STEVENS: </strong></p>
 <p>Yeah as you said, the most important part of all that is the 2,000 jobs in the future that it will provide for the region. No doubt you realise how important it is to get jobs going in CQ.</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Absolutely and you’ve got this phenomenal agricultural resource. You’ve got great soil, great weather, enterprising Australians here ready to work and you’ve got this enormous water resource. The only problem is we don’t capture enough of it. We don’t use enough of it. And it’s there – the opportunity is there, I mean the Rookwood Weir is not a great big dam; it’s not going to flood a valley or anything like that. It is a very, very well designed, well-conceived proposal that will add, as I said, $1 billion of additional agricultural output. </p>
+<p>Absolutely and you’ve got this phenomenal agricultural resource. You’ve got great soil, great weather, enterprising Australians here ready to work and you’ve got this enormous water resource. The only problem is we don’t capture enough of it. We don’t use enough of it. And it’s there – the opportunity is there, I mean the Rookwood Weir is not a great big dam; it’s not going to flood a valley or anything like that. It is a very, very well designed, well-conceived proposal that will add, as I said, $1 billion of additional agricultural output.&nbsp;</p>
 <p><strong>AARON STEVENS: </strong></p>
 <p>So what are the steps that need to be taken to fast track these projects?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -61,6 +51,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

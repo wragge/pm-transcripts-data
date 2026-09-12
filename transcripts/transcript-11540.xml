@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11540</transcript-id>
-    <title>Radio Interview with Jeremy Cordeaux, Radio 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/04/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Mandatory sentencing; United Nations' Committees; states' rights; business in Australia; capital gains tax, illegal immigration; Olympic torch.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11540</transcript-id><title>Radio Interview with Jeremy Cordeaux, Radio 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/04/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Mandatory sentencing; United Nations' Committees; states' rights; business in Australia; capital gains tax, illegal immigration; Olympic torch.</p>
 <p>E&amp;OE.................................</p>
 <p>CORDEAUX:</p>
 <p>It is with a great deal of pleasure that I introduce the Prime Minister of Australia John Howard. Good morning.</p>
@@ -130,6 +120,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

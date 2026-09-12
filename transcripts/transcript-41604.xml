@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41604</transcript-id>
-    <title>Opening Remarks at the Joint Press Conference with  His Excellency Mr Emmanuel Macron, President of the French Republic</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>02/05/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41604</transcript-id><title>Opening Remarks at the Joint Press Conference with  His Excellency Mr Emmanuel Macron, President of the French Republic</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>02/05/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Well, Mr President, Emmanuel, welcome again. You have enjoyed a very warm and very rapturous welcome here in Sydney, I think Australia appeals to you and you appeal to Australia and Australians. So thank you so much.</p>
 <p>We’ve had a very good discussion here today at Admiralty House with our colleagues, our Ministers and we’ve recognised, as we have in our previous events and speeches, how our two nations have so much in common.</p>
 <p>We’ve talked about and honoured the joint sacrifices on the battlefield. And reflected on the sacrifices in France in the First World War, indeed in the Somme region where you were born and grew up.</p>
@@ -46,6 +36,4 @@
 <p>We thank you for your friendship, for your partnership and we look forward to the partnership between Australia and France going to even greater heights under your leadership.</p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

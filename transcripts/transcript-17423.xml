@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17423</transcript-id>
-    <title>Transcript of interview with Chris Uhlmann ABC24</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/10/2010</release-date>
-    <release-type>Economy &amp; Finance</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17423</transcript-id><title>Transcript of interview with Chris Uhlmann ABC24</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/10/2010</field_date><release-type><![CDATA[Economy &amp; Finance]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 UHLMANN: Julia Gillard, welcome to ABC News 24.</p>
 <p>PM: Thank you very much.</p>
 <p>UHLMANN: What do you hope to achieve at the East Asia Summit in Hanoi?</p>
@@ -66,6 +56,4 @@ UHLMANN: Julia Gillard, welcome to ABC News 24.</p>
 <p>PM: I'm determined to work in good faith at the Multi-Party Climate Change Committee and to explore whether this new Parliament has given us an opportunity to deal with the complex issue of pricing carbon in a new environment. That's what we're doing.</p>
 <p>UHLMANN: Prime Minister, thank you.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

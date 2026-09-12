@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16236</transcript-id>
-    <title>Interview with Jim Middleton, Australia Network  Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/11/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MIDDLETON: Prime Minister, thanks for joining us again.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16236</transcript-id><title>Interview with Jim Middleton, Australia Network  Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/11/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MIDDLETON: Prime Minister, thanks for joining us again.</p>
 <p>PM: Good to be with you.</p>
 <p>MIDDLETON: You're off to the G20. What is the minimum required to fix this thing?</p>
 <p>PM: Well as you know, the global financial crisis affects not just financial markets but the real economy and that means jobs. Around the world and in the future in Australia. What do we need to do with an international community? Work together on three things. The first is an agreement of principles on how we deal with liquidity or stability in the financial system now. Secondly, agreement on courses of action for governments through budget policy and interest rate policy to boost growth now. And thirdly, agree also on principles for changes to the financial system rules for the future, including on transparency, including on capital adequacies of financial institutions and proper risk management systems, as well as remuneration arrangements for executives. These three sets of changes are needed because they're important for the future.</p>
@@ -63,6 +53,4 @@
 <p>MIDDLETON: Prime Minister thank you very much for your time, happy trails for this official visit.</p>
 <p>PM: Thank you very much.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

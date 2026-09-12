@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11196</transcript-id>
-    <title>Interview with Alan Jones – Radio 2UE </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>6 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11196</transcript-id><title>Interview with Alan Jones – Radio 2UE </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>6 September 1999</p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>JONES:</b></p>
 <p>Prime Minister, good morning.</p>
@@ -19,7 +9,7 @@
 <p>Your position, I presume, is that this massacre has got to stop?</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Well, absolutely, the situation is now much worse than what it was on Saturday morning. There was hope on Saturday morning when the overwhelming vote for independence was announced that everybody, including the Indonesian Army, would get behind the result. But since then the situation has deteriorated very badly indeed. At the moment there’s an informal session of the Security Council of the United Nations taking place in New York. And we are hopeful that there will be a United Nations initiative arising out of that or some subsequent meeting of the UN. It remains the case that unless the Indonesian authorities agree for the deployment of some peacekeeping force then it’s just not legally possible for…</p>
-<p><b> JONES:</b></p>
+<p><b>&nbsp;JONES:</b></p>
 <p>This is – just to explain to our listeners – this is because of the May 5 agreement, is it, between Portugal, Indonesia and the United Nations?</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Well, East Timor is still, until the beginning of November, legally part of Indonesia. And if we try to send troops or any country tries to send troops or any group of countries without the permission of the Indonesian Government we’re, in effect, invading Indonesia. Now, nobody’s advocating that and people ought to remember that there are 15,000 Indonesian troops in East Timor - 15,000.</p>
@@ -98,6 +88,4 @@
 <p><b>JONES:</b></p>
 <p>Okay, good to talk to you, thank you for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

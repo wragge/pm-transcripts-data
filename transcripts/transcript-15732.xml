@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15732</transcript-id>
-    <title> Interview with Karl Stefanovic and Lisa Wilkinson Nine Network, Today Show   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/01/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEFANOVIC: The Prime Minister, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15732</transcript-id><title> Interview with Karl Stefanovic and Lisa Wilkinson Nine Network, Today Show   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/01/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEFANOVIC: The Prime Minister, good morning to you.</p>
 <p>PM: Good morning, I'll just do a great Australian fly swat. Here we go (swats fly) I'm fine.</p>
 <p>STEFANOVIC: Alright, good, good, good. Well there is some deep concern  -  before we get onto Australia Day  -  there is some deep concern about another interest rate rise here. Now, before the election you promised to do everything possible to ease some of those inflammatory economic pressures. What are you doing?</p>
 <p>PM: Well Karl, you're right. We've got an inflation problem which has been emerging since the early parts of 2006. And, it's got bigger and we need to take action against it now that we've formed Government over the last six weeks.</p>
@@ -50,6 +40,4 @@
 <p>PM: Tomorrow, by the way, one final thing. Tomorrow morning, as in Australia Day itself, we have a flag raising in the national capital. And importantly, what will go on right across the country which is welcoming a whole bunch of people into the Australian family as they take up Australian citizenship and I think that is one of the great things about our national day. Looking forward to that enormously.</p>
 <p>STEFANOVIC: It is. Thank you Prime Minister, appreciate your time.</p>
 <p>PM: Thanks guys.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

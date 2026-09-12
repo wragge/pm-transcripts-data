@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15749</transcript-id>
-    <title>Joint Media Release with  Minister for Broadband, Communications and the Digital Economy 900 Exchanges serving 2.4 million households receive ADSL2+ broadband  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Fast broadband technology using ADSL2+ is to be rolled out by Telstra to an additional 900 local exchanges serving 2.4 million households, the Prime Minister Kevin Rudd and the Minister for Broadband, Communications and the Digital Economy, Senator Stephen Conroy, announced today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15749</transcript-id><title>Joint Media Release with  Minister for Broadband, Communications and the Digital Economy 900 Exchanges serving 2.4 million households receive ADSL2+ broadband  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Fast broadband technology using ADSL2+ is to be rolled out by Telstra to an additional 900 local exchanges serving 2.4 million households, the Prime Minister Kevin Rudd and the Minister for Broadband, Communications and the Digital Economy, Senator Stephen Conroy, announced today.</p>
 <p>The Australian Government congratulates Telstra on its decision to provide higher broadband speeds to its customers. Fast broadband with download speeds of up to 20 megabits per second (Mbps) will now be available in more cities and towns throughout Australia.</p>
 <p>Ensuring Australian homes and businesses have access to high-speed broadband services is a high priority of the Australian Government.</p>
 <p>Telstra's decision to enable new exchanges with ADSL2+ broadband services follows an assurance that it had an appropriate level of regulatory certainty. This advice was provided to the Minister for Broadband, Communications and the Digital Economy by the Australian Competition and Consumer Commission (ACCC).</p>
@@ -22,6 +12,4 @@
 <p>“I look forward to working with the telecommunications industry to achieve this outcome” said Senator Conroy.</p>
 <p>Contact: </p>
 <p>Kate Cornick 0401 794 710</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19153</transcript-id>
-    <title>Address To The ACTU Community Summit On Creating Secure Jobs And A Better Society</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/03/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Old Parliament House, Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19153</transcript-id><title>Address To The ACTU Community Summit On Creating Secure Jobs And A Better Society</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/03/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Old Parliament House, Canberra</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>The topic you are here to discuss, creating secure jobs, has moved to the centre of national debate this week.</p>
 <p>For Labor people, that's a development we welcome.</p>
@@ -138,6 +128,4 @@
 <p>We can only do that if we stick to a plan for jobs.</p>
 <p>We can only do that if we stay strong, fair and smart.</p>
 <p>We can only do that if all our people, especially our young people, get to be among the winners too.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

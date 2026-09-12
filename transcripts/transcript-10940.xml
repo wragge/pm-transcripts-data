@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10940</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS TO THAI-AUSTRALIAN ALUMNI RECEPTION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/04/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...........................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10940</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS TO THAI-AUSTRALIAN ALUMNI RECEPTION</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/04/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...........................................................................................................</p>
 <p>Thank you very much Mr Ambassador and I first of all particularly</p>
 <p>   acknowledge the presence of a number of very senior Ministers in</p>
 <p>   the Government of Thailand. </p>
@@ -183,6 +173,4 @@
 <p>   and great happiness and great prosperity into the future. </p>
 <p>Thank you.</p>
 <p>ENDS</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

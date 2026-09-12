@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18152</transcript-id>
-    <title>Transcript of interview with Jon Faine, ABC Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/09/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18152</transcript-id><title>Transcript of interview with Jon Faine, ABC Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/09/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: The Prime Minister Julia Gillard joins me in our Canberra studios at Parliament House. Prime Minister good morning to you.</p>
 <p>PM: Good morning Jon.</p>
 <p>HOST: The deadlock on asylum seeker policy seems to means that we're going to end up with a policy that neither major party wants and that you, in fact, say also won't work. Why won't you compromise?</p>
@@ -52,6 +42,4 @@ HOST: The Prime Minister Julia Gillard joins me in our Canberra studios at Parli
 <p>HOST: I can't even draw out of you whether you thought that was a funny moment?</p>
 <p>PM: Jon  -  end of commentary. Full stop.</p>
 <p>HOST: We'll be doing our TV analysis later on and maybe we'll get more from David Knox than we have with the Prime Minister this morning. I'm grateful to you for your time this morning in our Canberra studios Julia Gillard. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

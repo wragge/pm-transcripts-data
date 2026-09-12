@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11955</transcript-id>
-    <title>Interview with Tim Cox on ABC Radio, Tasmania </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Tasmanian Branch of Liberal Party; assistance to Tasmania; tax cuts; allegations against ministers; Singtel; visit to USA</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11955</transcript-id><title>Interview with Tim Cox on ABC Radio, Tasmania </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Tasmanian Branch of Liberal Party; assistance to Tasmania; tax cuts; allegations against ministers; Singtel; visit to USA</p>
 <p>E&amp;OE................................</p>
 <p>COX:</p>
 <p>Prime Minister, good morning.</p>
@@ -144,6 +134,4 @@
 <p>PRIME MINISTER:</p>
 <p>I will, nice to be here.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

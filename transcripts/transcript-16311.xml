@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16311</transcript-id>
-    <title>Interview with Neill Mitchell Radio 3AW   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/12/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16311</transcript-id><title>Interview with Neill Mitchell Radio 3AW   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/12/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Mr Rudd, good morning.</p>
 <p>PM: Good morning Neil.</p>
 <p>MITCHELL: Prime Minister, small business first. We've got a large small business audience and you've got a Christmas present for them, a tax break. What is it?</p>
 <p>PM: Well, there are a lot of small businesses out there in the country and what we are trying to do for 1.3 million small businesses with a turnover of less than $2 million a year is to help with their cash flow for the period ahead.</p>
@@ -143,6 +133,4 @@
 <p>PM: Read trashy novels, watch trashy television, and spend a lot of time with Therese, the kids, our friends and the cat and the dog.</p>
 <p>MICTHELL: Yeah, you need a dose of trash every now and again don't you, I agree with that. Thank you very much for your time and all the best for Christmas.</p>
 <p>PM: And to you Neil and to all of your listeners, I wish them a very happy Christmas.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

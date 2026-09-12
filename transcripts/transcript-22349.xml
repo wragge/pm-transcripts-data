@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22349</transcript-id>
-    <title>Interview with John Taylor AM Programme, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/06/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>TAYLOR:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22349</transcript-id><title>Interview with John Taylor AM Programme, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/06/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>TAYLOR:</p>
 <p>Prime Minister Howard, thank you very much for joining AM. You've said that the Labor Party's and the trade union movement's IR changes are a dagger at the throat of Australia's most successful industry. If a business though like Spotlight were to put employees on AWAs, would they be doing as well as miners are?</p>
 <p>PRIME MINISTER:</p>
 <p>Forty-three per cent of everybody employed in the resources sector in Western Australia, which is the principal source of our exports to China, and the principal source of our resource exports, are on AWAs. And let's not deal in hypothetical examples, let's deal in reality. And the reality is that the resource sector needs the flexibility of AWAs. If you get rid of AWAs you will seriously damage the resource sector, you will cut the wages of thousands of people employed in the resource sector and you will interrupt this wonderful expansion that's gone on. I mean why we would want to cut into something that has been so incredibly successful is quite beyond me, and I think it will be beyond the reasoning of most Australians.</p>
@@ -50,6 +40,4 @@
 <p>PRIME MINISTER:</p>
 <p>While ever people don't behave in a provocative fashion and while ever we maintain the status quo, we should continue to be patient.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

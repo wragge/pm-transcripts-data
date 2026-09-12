@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40234</transcript-id>
-    <title>Australian Rail Track Corporation to deliver significant rail upgrade</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/03/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and John Fullerton, CEO of the Australian Rail Track Corporation (ARTC), today announced that the ARTC will fast track a major upgrade to the east-west national rail network.</p>
-<p>The upgrade will involve 1200 kilometres of rail replacement between Adelaide and Tarcoola, and will deliver a substantial boost to freight productivity in South Australia and the national freight network. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40234</transcript-id><title>Australian Rail Track Corporation to deliver significant rail upgrade</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/03/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and John Fullerton, CEO of the Australian Rail Track Corporation (ARTC), today announced that the ARTC will fast track a major upgrade to the east-west national rail network.</p>
+<p>The upgrade will involve 1200 kilometres of rail replacement between Adelaide and Tarcoola, and will deliver a substantial boost to freight productivity in South Australia and the national freight network.&nbsp;</p>
 <p>The ARTC will partner with Arrium Steel to deliver the upgrade, substantially boosting demand for steel production at the Whyalla facility.</p>
 <p>The upgrade will replace decades old rail with stronger steel, weighing 60kg per metre compared to the current 47kg per metre.</p>
 <p>The stronger tracks will enable axle weight to increase from 23 tonne to 25 tonne at 80 kms per hour.</p>
 <p>This means that a heavier freight load will be able to be carried and faster track speed, delivering a significant boost in productivity to the network.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

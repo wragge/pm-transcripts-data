@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23064</transcript-id>
-    <title>Prime Minister&#039;s prizes for science announced</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>30/10/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our lives today are testimony to the links between scientific research and the industrial applications that have shaped the modern world.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23064</transcript-id><title><![CDATA[Prime Minister&#039;s prizes for science announced]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>30/10/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our lives today are testimony to the links between scientific research and the industrial applications that have shaped the modern world.</p>
 <p>It will be the research of our scientists today that will change the lives of millions of people around the world tomorrow.</p>
 <p>The humidicrib; the black box recorder; the bionic ear; multi-focal glasses and WiFi are just some of the many Australian innovations that are used all around the world. They are testimony to the role scientific research plays in improving living standards and strengthen our economy.</p>
 <p>The Prime Minister’s Prizes recognise and celebrate the accomplishments of Australian science and Australian scientists.</p>
@@ -19,17 +9,17 @@
 <p>Australia has a wealth of scientific talent. Our people are full of great ideas. The Federal Government will continue to provide the strong support our scientific community needs so it can get on with finding the next innovation or treatment for disease.</p>
 <p>The Federal Government congratulates this year’s recipients of the Prime Minister’s Prizes for Science.</p>
 <p><strong>Recipients of the 2013 Prime Minister’s Prizes for Science are:</strong></p>
-<ul><li><strong>Professor Terry Speed</strong> – Prime Minister’s Prize for Science</li>
+<ul>
+<li><strong>Professor Terry Speed</strong> – Prime Minister’s Prize for Science</li>
 <li><strong>Associate Professor Angela Moles</strong> – Frank Fenner Prize, Life Scientist of the Year</li>
 <li><strong>Associate Professor Andrea Morello</strong> – McIntosh Prize, Physical Scientist of the Year</li>
 <li><strong>Richard Johnson</strong> – Prime Minister’s Prize for Excellence in Science Teaching (Primary Schools)</li>
 <li><strong>Sarah Chapman</strong> – Prime Minister’s Prize for Excellence in Science Teaching (Secondary Schools)</li>
-</ul><p>Professor <strong>Terry Speed</strong> receives the Prime Minister’s Prize for Science. Professor Speed’s work with statistics and mathematics has helped farmers, miners and criminologists.  Today, Professor Speed is using statistics to determine which cancers can be terminal and which may not need surgery. Professor Speed is based at the Walter and Eliza Hall Institute in Melbourne and the University of California, Berkeley.</p>
+</ul>
+<p>Professor <strong>Terry Speed</strong> receives the Prime Minister’s Prize for Science. Professor Speed’s work with statistics and mathematics has helped farmers, miners and criminologists.&nbsp; Today, Professor Speed is using statistics to determine which cancers can be terminal and which may not need surgery. Professor Speed is based at the Walter and Eliza Hall Institute in Melbourne and the University of California, Berkeley.</p>
 <p>Associate Professor<strong> Angela Moles</strong> from UNSW receives the $50,000 Frank Fenner Prize for Life Scientist of the Year. Associate Professor Moles is transforming our understanding of the plant world including where plant defence will be most aggressive, why plant seeds range from a speck of dust to a coconut and how ecosystems will adapt to a changing climate.</p>
 <p>Associate Professor <strong>Andrea Morello</strong> from UNSW receives the $50,000 Malcolm McIntosh (McIntosh) Prize for Physical Scientist of the Year. Associate Professor Morello’s work to make quantum computing a reality could transform searching, modelling and cryptography.</p>
 <p>Mr <strong>Richard Johnson</strong> from Rostrata Primary School in Perth receives the Prime Minister’s Prize for Excellence in Science Teaching in Primary Schools. Mr Johnson has been a teacher for thirty years. His work to create a model science laboratory that makes science fun for students and for teachers has been adopted by more than 40 schools.</p>
-<p>Ms <strong>Sarah Chapman</strong> from Townsville State High School receives the Prime Minister’s Prize for Excellence in Science Teaching in Secondary Schools.  Ms Chapman’s work to provide a learning experience where students can see and touch the science they are studying has led to big improvements in year 12 science results.</p>
+<p>Ms <strong>Sarah Chapman</strong> from Townsville State High School receives the Prime Minister’s Prize for Excellence in Science Teaching in Secondary Schools.&nbsp; Ms Chapman’s work to provide a learning experience where students can see and touch the science they are studying has led to big improvements in year 12 science results.</p>
 <p>30 October 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23589</transcript-id>
-    <title>G20 Leaders encouraged to drive economic growth</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>22/06/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As we mark the halfway point in Australia’s presidency of the G20, I met with representatives of G20 Leaders and Finance and Central Bank Deputies in Melbourne today to further our shared commitment to drive economic growth.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23589</transcript-id><title>G20 Leaders encouraged to drive economic growth</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>22/06/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As we mark the halfway point in Australia’s presidency of the G20, I met with representatives of G20 Leaders and Finance and Central Bank Deputies in Melbourne today to further our shared commitment to drive economic growth.</p>
 <p>In Sydney earlier this year, G20 member nations committed to an ambitious target to boost our collective GDP by more than two per cent above current projections over the next five years.</p>
 <p>In November, leaders of the G20 nations will gather in Brisbane to ensure concrete outcomes are delivered for the betterment of member countries and the world: economic growth, jobs and a global economy that can weather future shocks.</p>
 <p>The G20 is about people, not governments.</p>
@@ -25,6 +15,4 @@
 <p>I also met today with representatives from the Civil Society 20 Chaired by Tim Costello.</p>
 <p>The C20 is an important partner for the G20 in securing outcomes that deliver economic growth which will drive prosperity and strong communities across G20 countries and beyond.</p>
 <p>22 June 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16929</transcript-id>
-    <title>Prime Minister Media Release Prime Minister&#039;s Australian Exporter of the Year 20 November 2009 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The 2009 Prime Minister's Australian Exporter of the Year has been awarded to NOJA Power Switchgear.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16929</transcript-id><title><![CDATA[Prime Minister Media Release Prime Minister&#039;s Australian Exporter of the Year 20 November 2009 ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The 2009 Prime Minister's Australian Exporter of the Year has been awarded to NOJA Power Switchgear.</p>
 <p>This Award recognises and honours outstanding achievement by an Australian enterprise in international business. The winner is selected from the 12 Australian Export Awards winners. NOJA Power also won the Large Advanced Manufacturer Award.</p>
 <p>NOJA Power designs and manufactures leading-edge switchgear products that help increase the reliability of electricity supply. The company's commitment to research and development has resulted in outstanding environmental benefits: its products eliminate the need for harmful electrical insulants such as oil or greenhouse gases.</p>
 <p>In just seven years, NOJA Power has grown its export market to 70 countries and is rightly proud of the high level of repeat business that it generates - a testimony to the quality and reliability of its products.</p>
@@ -17,6 +7,4 @@
 <p>The Australian Export Awards recognises and honours Australian companies who have achieved sustainable export growth through innovation and commitment. The Awards are co-hosted by Austrade and the Australian Chamber of Commerce and Industry.</p>
 <p>Congratulations to all the National Finalists and Winners in the 47th Australian Export Awards.</p>
 <p>More details are available at <a href="http://www.exportawards.gov.au">www.exportawards.gov.au</a> </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

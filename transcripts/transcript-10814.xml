@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10814</transcript-id>
-    <title>STAYING AT HOME - CARE AND SUPPORT FOR OLDER AUSTRALIANS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today a comprehensive $270 million package</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10814</transcript-id><title>STAYING AT HOME - CARE AND SUPPORT FOR OLDER AUSTRALIANS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today a comprehensive $270 million package</p>
 <p> of measures to enhance the care of older people in the community,</p>
 <p> and provide greater recognition and support for carers within Australian</p>
 <p> society.</p>
@@ -45,6 +35,4 @@
 <p>* Funding for aged care assessment will be indexed to growth in the</p>
 <p> older population to enable people to access care appropriate to their</p>
 <p> needs at a cost of $13.7 million.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11240</transcript-id>
-    <title>INTERGOVERNMENTAL AGREEMENT ON THE REFORM OF COMMONWEALTH-STATE         FINANCIAL RELATIONS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/11/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11240</transcript-id><title>INTERGOVERNMENTAL AGREEMENT ON THE REFORM OF COMMONWEALTH-STATE         FINANCIAL RELATIONS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/11/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 THE COMMONWEALTH OF AUSTRALIA</p>
 <p>THE STATE OF NEW SOUTH WALESTHE STATE OF VICTORIA</p>
 <p>THE STATE OF QUEENSLAND</p>
@@ -400,6 +390,4 @@ THE COMMONWEALTH OF AUSTRALIA</p>
 <p>  )</p>
 <p>  )</p>
 <p>)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10455</transcript-id>
-    <title>Alice Springs to Darwin Rail Link </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/08/1997</release-date>
-    <release-type>Speech</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010455.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to announce that the Commonwealth has agreed to provide $100 million to assist in the construction of the Alice Springs to Darwin rail link as part of our plan to ensure Australia realises its potential for the 21st century.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10455</transcript-id><title>Alice Springs to Darwin Rail Link </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/08/1997</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010455.pdf</document><subjects></subjects><content><![CDATA[<p>I am delighted to announce that the Commonwealth has agreed to provide $100 million to assist in the construction of the Alice Springs to Darwin rail link as part of our plan to ensure Australia realises its potential for the 21st century.</p>
 <p>This represents the second project to be funded by the Commonwealth's Federation Fund as announced in the 1997/98 budget.</p>
 <p>Expressions of private sector interest will now be sought to build, own and operate the line, on the basis there will be no ongoing Commonwealth government support.</p>
 <p>The project will be of enormous significance not only to the South Australian and Northern Territory economies, but to the nation as a whole.</p>
@@ -21,6 +11,4 @@
 <p>As part of this package, other rail operators must have access to the line. The Alice Springs to Darwin link therefore also provides support to the proposed Melbourne to Darwin line which is expected to follow a similar route in Northern Australia.</p>
 <p>This new rail project provides tangible evidence of our desire to enhance the building of trade bridges between Australia and Asia. This is an important new phase in our moves to position Australia as the Supermarket to Asia, while at the same time creating jobs in regional Australia. It is something of which my government is justifiably proud.</p>
 <p>23 August, 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

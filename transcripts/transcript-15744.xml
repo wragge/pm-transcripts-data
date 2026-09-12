@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15744</transcript-id>
-    <title>Transcript of Interview with Kerry O&#039;Brien, 7.30 Report ABC TV   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KERRY O'BRIEN: The Prime Minister Kevin Rudd joins me now from our Canberra studio.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15744</transcript-id><title><![CDATA[Transcript of Interview with Kerry O&#039;Brien, 7.30 Report ABC TV   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KERRY O'BRIEN: The Prime Minister Kevin Rudd joins me now from our Canberra studio.</p>
 <p>Kevin Rudd, you're clearly bracing yourself for your first interest rate increase on your watch this week.</p>
 <p>How long do you think you will be able to get away politically with blaming the Howard Government for inflation?</p>
 <p>PM:   Well, Kerry, the statistical facts speak for themselves. The last couple of years we've had 20 successive warnings by the Reserve Bank, in fact, over the last two years plus, to the previous government about inflationary pressures in the economy arising from infrastructure bottlenecks and skills shortages. None of these were acted upon.</p>
@@ -68,6 +58,4 @@
 <p>PM: Thank you very much.</p>
 <p>KERRY O'BRIEN:  Might be a little bit of conflict of interest - covering and contributing.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

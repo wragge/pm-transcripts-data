@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41353</transcript-id>
-    <title>North Korean ballistic missile test</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/11/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia condemns North Korea’s latest intercontinental ballistic missile launch in the strongest possible terms.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41353</transcript-id><title>North Korean ballistic missile test</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/11/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia condemns North Korea’s latest intercontinental ballistic missile launch in the strongest possible terms.</p>
 <p>This morning’s launch highlights the unacceptable threat North Korea poses to global peace and stability. Its actions are illegal and dangerous.</p>
 <p>Australia is playing an active role in the international campaign to exert maximum economic and diplomatic pressure on North Korea.</p>
 <p>As part of international efforts, the Foreign Minister has today announced that another eleven individuals and nine entities will be listed under Australia’s autonomous sanctions, for their association with North Korea’s illegal weapons programs or flouting of UN Security Council resolutions.</p>
@@ -17,6 +7,4 @@
 <p>During the recent East Asia Summit, the region’s leaders were unanimous in urging North Korea to immediately comply with its obligations under all UN Security Council resolutions.</p>
 <p>Today’s missile launch emphasises the urgency for all countries, especially the Permanent Five members of the Security Council, to fully implement UNSC sanctions as soon as possible in order to maximise pressure on Pyongyang and compel it to return to negotiations.</p>
 <p>We will continue to work closely with the United States, the Republic of Korea, Japan, China and our partners to show this rogue regime that it is utterly isolated and its current path is unacceptable.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

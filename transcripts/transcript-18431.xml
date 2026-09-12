@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18431</transcript-id>
-    <title>Government appoints Small Business Commissioner</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18431</transcript-id><title>Government appoints Small Business Commissioner</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia's 2.7 million small businesses will be given a direct voice to the Gillard Government, through the appointment today of the nation's first Small Business Commissioner.</p>
 <p>Labor understands how vital the small business sector is to the Australian economy, employing almost 5 million Australians and making up over a third of the economy.</p>
 <p>The small business sector has been calling for better advocacy, advice and information at the federal level and the Government has listened.</p>
 <p>This new Commissioner will:</p>
-<p> * 	Provide small businesses with a new voice to highlight their issues to the Australian Government;<br />
- * 	Provide a one stop shop for small business services and information;<br />
+<p> * 	Provide small businesses with a new voice to highlight their issues to the Australian Government;<br>
+ * 	Provide a one stop shop for small business services and information;<br>
  * 	And ensure the interests of small business remain at the forefront of Government policy making.</p>
 <p>Australia's more than two million small businesses are made up of hard-working men and women who are putting in long hours to build better futures for their families.</p>
 <p>The Commissioner will also act as a one stop shop for small business people, representing their concerns and interests directly to the Government.</p>
@@ -29,6 +19,4 @@ Australia's 2.7 million small businesses will be given a direct voice to the Gil
 <p>This announcement responds to the Australian Government's review of small business dispute resolution programs and options which reported in 2011.</p>
 <p>Labor understands and supports the aspirations of working people who want to run a decent small business. That is why we are also cutting the company tax rate for small business from 30 per cent to 29 per cent, increasing the small business instant tax write-off from $1,000 to $6,500 and introducing a $5,000 tax break for motor vehicles  -  all of which are opposed by the Liberals.</p>
 <p>The Commissioner will be appointed in the second half of this year. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22787</transcript-id>
-    <title>Doorstop at Old Parliament House</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/05/2000</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Fiji; ACCC</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22787</transcript-id><title>Doorstop at Old Parliament House</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/05/2000</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Fiji; ACCC</p>
 <p>JOURNALIST:</p>
 <p>The National Security Committee of Cabinet decided on any further action in regards to the Fiji situation tonight?</p>
 <p>PRIME MINISTER:</p>
@@ -26,6 +16,4 @@
 <p>Are you confident that the ACCC will be able to pass on five hundred million dollars in petrol rebates to regional Australia?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I am quite confident that the Government’s policy will pass it on and it’s a very good policy and I want to say to people in country Australia, we’re keeping our promises in relation to the GST. Not of itself causing any increase in the price of petrol thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

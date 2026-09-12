@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40804</transcript-id>
-    <title>Remarks - The Smith Family’s Learning for Life Graduation Ceremony</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>06/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40804</transcript-id><title>Remarks - The Smith Family’s Learning for Life Graduation Ceremony</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>06/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you Lisa and Anton and John Ballard our host at the ACU. And Emma, what a great speech thank you so much.</p>
 <p>You really should be careful going from journalism into law. It can lead you anywhere…</p>
 <p>[Laughter]</p>
@@ -29,6 +19,4 @@
 <p>Well done.</p>
 <p><strong>[ENDS]</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

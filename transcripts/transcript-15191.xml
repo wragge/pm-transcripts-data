@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15191</transcript-id>
-    <title>Doorstop Interview Kirribilli House, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/02/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15191</transcript-id><title>Doorstop Interview Kirribilli House, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/02/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 national water plan meeting; David Hicks; workplace relations; Qantas</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER: </p>
@@ -47,6 +37,4 @@ national water plan meeting; David Hicks; workplace relations; Qantas</p>
 <p>Mr Howard the Greens have said how they don't trust Labor on WorkChoices, do you believe Labor has softened their stance on WorkChoices? </p>
 <p>PRIME MINISTER: </p>
 <p>No I don't believe Labor is softening on WorkChoices, I think Labor is opposed to it but what Mr Rudd was trying to do last Thursday was to kid the business community into believing that in some way he wouldn't rip up WorkChoices because the business community supports WorkChoices and he was caught out the very next morning by his own deputy who said </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

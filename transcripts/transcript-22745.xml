@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22745</transcript-id>
-    <title>Speech at 50th anniversary of Yirrkala bark petitions - Yirrkala </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>10/07/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22745</transcript-id><title>Speech at 50th anniversary of Yirrkala bark petitions - Yirrkala </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>10/07/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 CHECK AGAINST DELIVERY</p>
 <p>ACKNOWLEDGEMENTS OMITTED </p>
 <p>I would like to acknowledge the traditional owners of the land on which we meet, the Gumatj and Rirratjingu clans of the Yolngu people, and pay my respects to their elders, past and present.</p>
@@ -81,6 +71,4 @@ CHECK AGAINST DELIVERY</p>
 <p>Documents that proved to us all that no bridge between traditions is too hard to build.</p>
 <p>No translation is too difficult to attempt.</p>
 <p>And that courage and conviction can prevail.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

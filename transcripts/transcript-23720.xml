@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23720</transcript-id>
-    <title>Press Conference, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/08/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>Travel to the Netherlands and the United Kingdom,  Malaysia Airlines Flight MH17,  Iraq,  sanctions.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23720</transcript-id><title>Press Conference, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/08/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Travel to the Netherlands and the United Kingdom, Malaysia Airlines Flight MH17, Iraq, sanctions.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Overnight, I’ll leave Australia to travel to the Netherlands. I will spend Monday in the Netherlands. I’ll be meeting with Prime Minister Rutte, amongst others, in connection with the work that Australia and Holland have done together to help bring home and bring justice for the victims of Flight MH17.</p>
 <p>In the course of my day in the Netherlands, I will also have the opportunity to thank the more than 500 Australian police and military and consular personnel who have been involved in <em>Operation Bring Them Home</em>. I will also have the chance to talk with disaster victim identification experts about the whole process of identifying remains and repatriating them appropriately to Australia.</p>
 <p>Then, I’ll travel to London to talk to security and intelligence officials, to talk to senior members of the British Government about counter-terrorism operations, and about the deteriorating strategic situation in Iraq and elsewhere and I expect to be back home early on Thursday morning.</p>
@@ -60,6 +50,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well the Foreign Minister has spoken about this today. Everything's on the table. Our message to President Putin is: hold your forces back. Any move by Russian forces across the border would be an invasion, pure and simple. There will be nothing humanitarian about it. It would be an invasion, pure and simple, and the business of Ukraine should be left to Ukrainians to sort out.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

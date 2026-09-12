@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24304</transcript-id>
-    <title>Doorstop Interview, Martin Place, Sydney </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/03/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Official reopening of the Lindt Café in Martin Place. </subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24304</transcript-id><title>Doorstop Interview, Martin Place, Sydney </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/03/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Official reopening of the Lindt Café in Martin Place.</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>It is a real honour to be here today. It was particularly good to say hello to Joel Herat again. What an incredible thing to come back to work after the ordeal that he and his workmates went through.</p>
 <p>I am full of admiration for people who – despite going through something horrific that no one should have to experience – are able to front up and get on with life.</p>
 <p>So, good on him, and good on everyone associated with this Lindt Cafe and it is a tribute to the spirit of Sydney and Australia that after one of the most gruesome days in our national life, this cafe has now reopened and is full of the usual spirit of Australian people.</p>
@@ -28,6 +18,4 @@
 <p>You will never change the values that are ours.</p>
 <p>Thanks so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

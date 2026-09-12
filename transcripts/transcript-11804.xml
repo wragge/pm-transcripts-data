@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11804</transcript-id>
-    <title>Press Conference - Ambassador&#039;s Residence, Washington DC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Terrorist attack on USA; travel plans; visit to Washington</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11804</transcript-id><title><![CDATA[Press Conference - Ambassador&#039;s Residence, Washington DC]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Terrorist attack on USA; travel plans; visit to Washington</p>
 <p>E&amp;OE................................</p>
 <p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, thank you for coming along. I can only say again, on behalf of the Australian people how incredibly distressed I am, and I know all of our fellow countrymen and women are, about the terrible events in the United States, particularly in New York and Washington over the past 36 hours. I've had the opportunity of conveying, as you know, on behalf of the Australian nation to the President, our feelings. This morning I had the opportunity of attending a special sitting of the House of Representatives and the Senate and I did have the opportunity of going onto the floor of the Senate chamber and in particular, expressing my condolences to the two Senators from New York, including Senator Hillary Clinton. And it was an opportunity also in discussion with the Speaker of the House of Representatives and the Majority Leader in the Senate, Senator Lott, and the Minority Leader in the House of Representatives, Congressman Richard Gephardt, and many other members of Congress to express our very deep sense of condolence, our empathy, our compassion for the American people in this very, very difficult set of circumstances.</p>
@@ -217,6 +207,4 @@
 <p>I don't want to go any further than to state the general principle. I think you are all aware of where some of the suggestions lie.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

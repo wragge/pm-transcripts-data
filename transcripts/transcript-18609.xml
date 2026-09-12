@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18609</transcript-id>
-    <title>Qubayr massacre</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/06/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia has joined international condemnation of the massacre on June 6 of more than 70 people in Qubayr in Syria and of the Assad regime's refusal to permit UN observers into the area.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18609</transcript-id><title>Qubayr massacre</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/06/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia has joined international condemnation of the massacre on June 6 of more than 70 people in Qubayr in Syria and of the Assad regime's refusal to permit UN observers into the area.</p>
 <p>The killing of more than 70 people in Qubayr was a barbaric act that targeted civilians in a village reportedly surrounded by Syrian Government forces.</p>
 <p>Secretary-General Ban Ki-moon has also indicated that UN observers came under fire from pro-regime forces when seeking to reach the village.</p>
 <p>The Syrian Government has denied responsibility for the massacre. But we know this is a regime that has no credibility, having shown blatant disregard for the safety of its people and for the will of the international community.</p>
@@ -19,6 +9,4 @@
 <p>Saudi Arabia is a key member of the Arab League which has been a leader in the international community's response to the crisis in Syria.</p>
 <p>The Australian Government is also working on plans to expand Australia's humanitarian contribution in the region, with an estimated 80,000 Syrian refugees now in camps and other locations in neighbouring states.</p>
 <p>Australia implements robust autonomous Syria sanctions and is considering further measures against the Assad regime.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16093</transcript-id>
-    <title>Interview With Mike Carlton and Sandy Aloisi, Radio 2UE, Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ALOISI: The Prime Minister is on the line. Good morning Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16093</transcript-id><title>Interview With Mike Carlton and Sandy Aloisi, Radio 2UE, Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ALOISI: The Prime Minister is on the line. Good morning Prime Minister.</p>
 <p>PM: Good morning. Thanks for having me on the program.</p>
 <p>CARLTON: Thank You. Who's your toughest opponent, the entrenched teaching unions or the State Governments that are supported by them?</p>
 <p>PM: Well look, I hope good sense prevails with all of this because what's the starting point: How do you provide the best quality education in schools for Australia's kids? That's what got to be the starting point and what we are saying is, as the Australian Government, we are prepared to significantly increase our funding to the States and Territories for quality education, quality teaching and for funding for our most disadvantaged schools. But we are not going to do so as a blank cheque, we are going to do so on the basis of conditions attached.</p>
@@ -58,6 +48,4 @@
 <p>ALOISI: Okay Prime Minister. Thank you for your time this morning.</p>
 <p>PM: Thanks for having us on the program.</p>
 <p>CARLTON: Thanks very much indeed.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

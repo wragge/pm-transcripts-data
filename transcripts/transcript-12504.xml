@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12504</transcript-id>
-    <title>Interview with Ron Wilson, Channel Ten News   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Bali tragedy.</subjects>
-    <content><![CDATA[<p>E&amp;OE...........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12504</transcript-id><title>Interview with Ron Wilson, Channel Ten News   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bali tragedy.</subjects><content><![CDATA[<p>E&amp;OE...........</p>
 <p><strong>WILSON:</strong></p>
 <p>And joining us now live from Parliament House in Canberra is Prime Minister Howard. Prime Minister, apart from reviewing our anti-terrorist laws, what more can be done to prevent this sort of terrorism actually reaching into Australia?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -35,6 +25,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

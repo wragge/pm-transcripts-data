@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40364</transcript-id>
-    <title>Interview with Michael Brissenden ABC AM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>26/07/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>MICHAEL BRISSENDEN: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40364</transcript-id><title>Interview with Michael Brissenden ABC AM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>26/07/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>MICHAEL BRISSENDEN: </strong></p>
 <p>Well for his response to that story, the Prime Minister, Malcolm Turnbull joins me on the line now. Prime Minister, good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning.</p>
@@ -38,7 +28,7 @@
 <p><strong>MICHAEL BRISSENDEN: </strong></p>
 <p>Who would be an appropriate person to lead the Royal Commission?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>I’ve talked about that with the Attorney General, it is obviously a lawyer. Typically it would be a senior lawyer, often a retired judge – that’s a question that the Attorney will be looking into now to identify the right person to undertake it. You need to get to the bottom of this, to find out exactly what happened and of course a Royal Commission has the ability to compel people to give evidence and compel the production of physical evidence. The Northern Territory, while it does have, as I understand, the ability to set up inquiries, does not have a Royal Commissions Act, so by doing this jointly we will have all of the power, the very considerable power under the Commonwealth Royal Commissions Act. </p>
+<p>I’ve talked about that with the Attorney General, it is obviously a lawyer. Typically it would be a senior lawyer, often a retired judge – that’s a question that the Attorney will be looking into now to identify the right person to undertake it. You need to get to the bottom of this, to find out exactly what happened and of course a Royal Commission has the ability to compel people to give evidence and compel the production of physical evidence. The Northern Territory, while it does have, as I understand, the ability to set up inquiries, does not have a Royal Commissions Act, so by doing this jointly we will have all of the power, the very considerable power under the Commonwealth Royal Commissions Act.&nbsp;</p>
 <p><strong>MICHAEL BRISSENDEN: </strong></p>
 <p>Should the Royal Commission also investigate the Northern Territory Government’s handling of this?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -53,7 +43,5 @@
 <p>Indeed and we’ll be dealing with those matters in the course of the day.</p>
 <p>Okay, thank you very much.</p>
 <p><strong>MICHAEL BRISSENDEN: </strong></p>
-<p>Prime Minister, thanks very much for joining us. </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>Prime Minister, thanks very much for joining us.&nbsp;</p>
+]]></content></item></response>

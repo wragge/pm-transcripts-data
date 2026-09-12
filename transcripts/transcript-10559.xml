@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10559</transcript-id>
-    <title>Radio Interview with Neil Mitchell, Radio 3AW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/11/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>12 November 1997</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10559</transcript-id><title>Radio Interview with Neil Mitchell, Radio 3AW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/11/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>12 November 1997</p>
 <p align="left">E&amp;OE.........................................................................................................................</p>
 <p><b>MITCHELL:</b></p>
 <p>Good morning, in the studio with me the Prime Minister, Mr John Howard.</p>
@@ -86,7 +76,7 @@
 <p><b>MITCHELL:</b></p>
 <p>But, does the Wik legislation threaten reconciliation? It would seem to with the rhetoric that is being used.</p>
 <p><b>PRIME MINISTER:</b></p>
-<p>Well, what you are seeing happening now is that my critics are trying to create the impression that this is racist in order to defeat the amendments to the legislation. I mean you have, it’s a political stunt to call this racist. Under this legislation it will still be possible for Aborigines to lay Native Title claims on 79 percent of the land mass of Australia. Seventy-nine percent. The only areas that they cannot make Native Title claims are on freehold and other exclusive tenures. Now how in the name of reason you can call a piece of legislation that guarantees that you can make native title claims on 79 percent of the land mass of Australia, how you can call that racist is beyond all comprehensive reason.</p>
+<p>Well, what you are seeing happening now is that my critics are trying to create the impression that this is racist in order to defeat the amendments to the legislation. I mean you have, it’s a political stunt to call this racist. Under this legislation it will still be possible for Aborigines to lay Native Title claims on 79 percent of the land mass of Australia. Seventy-nine percent. The only areas that they cannot make Native Title claims are on freehold and other exclusive tenures. Now how in the name of reason you can call a piece of legislation that guarantees that you can make native title claims on 79&nbsp;percent of the land mass of Australia, how you can call that racist is beyond all comprehensive reason.</p>
 <p><b>MITCHELL:</b></p>
 <p>But does it threaten the process of reconciliation in the angst it seems to be causing?</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -318,6 +308,4 @@
 <p><b>MITCHELL:</b></p>
 <p>Thank you very much for your time.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

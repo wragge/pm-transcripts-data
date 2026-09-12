@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18095</transcript-id>
-    <title>$475 million more for regional health facilities</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18095</transcript-id><title>$475 million more for regional health facilities</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Patients and families in regional communities across Australia are set to benefit from the next round of the Gillard Government's $5 billion Health and Hospitals Fund, with applications now open.</p>
 <p>The Prime Minister said this new round of the HHF would see $475 million invested in regional hospitals around Australia.</p>
 <p>These funds will go towards projects such as new equipment or better buildings for local hospitals, new chronic disease management services and new or expanded mental and dental health services.</p>
@@ -22,6 +12,4 @@ Patients and families in regional communities across Australia are set to benefi
 <p>All projects funded under the regional priority round will be fully offset by savings measures to meet the Government's fiscal rules. </p>
 <p>Applications close on 19 October 2011 and will then be assessed by the independent, expert HHF advisory board. Successful projects will be announced as part of the 2012 Budget.</p>
 <p>Further information about the HHF is available from: <a href="http://www.health.gov.au/hhf">www.health.gov.au/hhf</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

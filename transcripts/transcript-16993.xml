@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16993</transcript-id>
-    <title>Prime Minister Kevin Rudd&#039;s New Year Message    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/01/2010</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>2009 has been an extraordinary year for the world.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16993</transcript-id><title><![CDATA[Prime Minister Kevin Rudd&#039;s New Year Message    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/01/2010</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>2009 has been an extraordinary year for the world.</p>
 <p>2009 has also been an extraordinary year for Australia.</p>
 <p>We saw the inauguration of the first African-American President of the United States, an historic moment that was unimaginable just a generation ago.</p>
 <p>We saw the world grapple with its most serious financial and economic crisis since the Great Depression, three quarters of a century ago.</p>
@@ -58,6 +48,4 @@
 <p>And we come together to meet a common challenge.</p>
 <p>And there'll be plenty of those in 2010.</p>
 <p>So to all Australians, whether you're at the beach or in the bush, in our great cities, or in our country towns, in the suburbs or in the outback, I'd like to wish each and every one of you a safe, healthy, happy and prosperous new year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

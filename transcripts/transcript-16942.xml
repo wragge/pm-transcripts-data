@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16942</transcript-id>
-    <title>Prime Minister Press release Prime Minister calls on all men to swear to end violence against women Canberra 25 December</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister, Kevin Rudd, today called on all of the 10 million men in Australia to swear never to commit, excuse, or stay silent about violence against women.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16942</transcript-id><title>Prime Minister Press release Prime Minister calls on all men to swear to end violence against women Canberra 25 December</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister, Kevin Rudd, today called on all of the 10 million men in Australia to swear never to commit, excuse, or stay silent about violence against women.</p>
 <p>With nearly one in three Australian women experiencing physical violence, the Prime Minister said White Ribbon Day remained an important part of educating the community on violence against women.</p>
 <p>Mr Rudd congratulated White Ribbon and other community campaigns for the important role they play in changing community attitudes.</p>
 <p>The National Community Attitudes Towards Violence against Women Survey 2009 - released today - found that despite a significant shift in Australians' attitudes and beliefs towards violence against women, there is still more work to be done.</p>
@@ -25,6 +15,4 @@
 <p>The Government is already investing $26 million for primary prevention and respectful relationships programs for young people, while the $17 million social marketing campaign will focus on changing the social norms, attitudes and behaviours that contribute to violence.</p>
 <p>In addition, the Government has lifted funding for homelessness by 55 per cent and is building 19,200 new social housing homes under the Nation Building Economic Stimulus Plan - measures which will help women escaping violence.</p>
 <p>For a copy of the report, please visit: <a href="http://www.fahcsia.gov.au/sa/women/news">http://www.fahcsia.gov.au/sa/women/news</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

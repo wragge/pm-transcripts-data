@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22286</transcript-id>
-    <title>Doorstop Interview with Secretary Donald H. Rumsfeld The Pentagon, Washington</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/05/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22286</transcript-id><title>Doorstop Interview with Secretary Donald H. Rumsfeld The Pentagon, Washington</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/05/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> How are you all?</p>
 <p>  SECRETARY RUMSFELD:</p>
 <p>  What are you doing, just hanging around getting a suntan?</p>
@@ -50,6 +40,4 @@
 <p>PRIME MINISTER HOWARD:</p>
 <p>  We have a... I mean as far as we're... I mean we're not seeking at this stage anything other than to respond to a request.  If there is a request, we'll be able to respond to it.  I would imagine that that as far as troops and military capacity, apart from perhaps lift capacity, can be well and truly covered by Australia and perhaps others in the region.  If...I've always taken the view, and the Government's always taken the view, that this is primarily an Australian responsibility.  The Pacific is our backyard and we are the country that has the prime responsibility for looking after the security exigencies as they arise. I think I better let the Secretary go and do some more work.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

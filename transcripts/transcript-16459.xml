@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16459</transcript-id>
-    <title>Declaration by the Prime Minister of Australia  and the Prime Minister of the Republic of Iraq   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/03/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Prime Minister of Iraq Nouri al-Maliki met on 12 March 2009.  They agreed that the first visit to Australia by a Prime Minister of the Republic of Iraq symbolised the strength of the bilateral relationship and opened a new era of cooperation.  Both underlined the genuine friendship between the two countries.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16459</transcript-id><title>Declaration by the Prime Minister of Australia  and the Prime Minister of the Republic of Iraq   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/03/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Prime Minister of Iraq Nouri al-Maliki met on 12 March 2009.  They agreed that the first visit to Australia by a Prime Minister of the Republic of Iraq symbolised the strength of the bilateral relationship and opened a new era of cooperation.  Both underlined the genuine friendship between the two countries.</p>
 <p>The Prime Ministers committed to further strengthening the bilateral relationship, including by broadening cooperation across a wide spectrum of shared interests and through intensifying trade and investment links.</p>
 <p>They agreed an integrated framework to deliver a new era of bilateral cooperation focused on key areas of complementarity between the two countries.  This will be based on six pillars: agriculture; resources and energy; trade cooperation; education, training and research; public health; security and border control.</p>
 <p>To take forward this framework, the Prime Ministers agreed to the conclusion of six Memoranda of Understanding to be completed by no later than June 2009:</p>
@@ -32,6 +22,4 @@
 <p>         * Strengthening border surveillance and monitoring capabilities</p>
 <p>         * Support for Iraq's Ministry of Interior; for example, capacity building in forensics and DNA technology and strengthening police capabilities.</p>
 <p>The Prime Ministers agreed to a mechanism for overseeing the implementation of these agreements.  This will involve establishment annual talks by senior officials who will report to respective Ministers, with respective Foreign Ministers to review progress annually.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

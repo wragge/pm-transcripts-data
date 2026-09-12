@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18092</transcript-id>
-    <title>Transcript of interview with Nick Rheinberger, ABC Illawarra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/08/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18092</transcript-id><title>Transcript of interview with Nick Rheinberger, ABC Illawarra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/08/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard stood up for quite a long time yesterday with Industry Minister Kim Carr as well as Treasurer Wayne Swan to talk about what they're going to do to support workers and steel communities and the Prime Minister joins us now, you're at 97.3 ABC Illawarra, Julia Gillard good morning.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Wayne Swan yesterday talked about our patchwork economy and if I can extend the metaphor a little further, it looks like the seams are starting to come apart in some places such as the Illawarra. Is the pain of job losses in manufacturing worth the economic value of the resources boom to Australia?</p>
@@ -49,6 +39,4 @@ HOST: Prime Minister Julia Gillard stood up for quite a long time yesterday with
 <p>PM: Look, I'm making it my business to travel widely. Of course I travel widely for a whole variety of purposes, including talking to people about carbon pricing. We will stay very strongly engaged with the people of the Illawarra during this period. You've got great local members in Stephen and Sharon, who every day will be advocating the case for the people of the Illawarra, so I'll look forward to a future visit, but the work of designing that economy of the future is starting right now, arising from the decisions that we announced yesterday.</p>
 <p>HOST: Julia Gillard, thank you for your talking to us this morning.</p>
 <p>PM: Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15878</transcript-id>
-    <title>Radio Interview with Steve Cannane, ABC Radio National, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CANNANE:    The Prime Minister joins us from our Canberra studio, Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15878</transcript-id><title>Radio Interview with Steve Cannane, ABC Radio National, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CANNANE:    The Prime Minister joins us from our Canberra studio, Prime Minister good morning.</p>
 <p>PM: Good morning Steve.</p>
 <p>CANNANE:    What will determine whether this 2020 Summit is a success or not?</p>
 <p>PM: Well in putting this Summit together, the idea was pretty simple, which is, we are a new Government, we have set out some strategic directions for the nation, how to boost productivity, the need to lift our national infrastructure, prepare for climate change and the problems for Australian water, what should be Australia's future role in the region and the world. There are others as well.</p>
@@ -59,6 +49,4 @@
 <p>Because if we want a strong Australia for the 21st Century, a competitive Australia and Australia still where everyone has a fair go, I think have got to take a new approach to the way in which we govern the country as well.</p>
 <p>CANNANE:Prime Minister thanks for dropping in this morning on breakfast.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

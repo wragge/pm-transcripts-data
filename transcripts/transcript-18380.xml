@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18380</transcript-id>
-    <title>Transcript of interview of Chris Uhlmann, 7:30</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18380</transcript-id><title>Transcript of interview of Chris Uhlmann, 7:30</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard welcome.</p>
 <p>PM: Thank you Chris.</p>
 <p>HOST: Prime Minister, if you're such a good economic manager, why don't you get more credit for it?</p>
@@ -99,6 +89,4 @@ HOST: Julia Gillard welcome.</p>
 <p>PM: Well Chris, why don't you watch the surplus come down and then you can ask me that question afterwards. Actually there'll be no need to.</p>
 <p>HOST: OK, I'm sure we will. Prime Minister, thank you.</p>
 <p>PM: Thanks Chris. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

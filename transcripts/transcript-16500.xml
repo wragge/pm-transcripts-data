@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16500</transcript-id>
-    <title>Launch of Global Carbon Capture and Storage Institute    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd formally launched the Global Carbon Capture and Storage Institute at the inaugural meeting of Institute foundation members in Canberra today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16500</transcript-id><title>Launch of Global Carbon Capture and Storage Institute    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd formally launched the Global Carbon Capture and Storage Institute at the inaugural meeting of Institute foundation members in Canberra today.</p>
 <p>The Institute is being established by the Government to accelerate the deployment of carbon capture and storage (CCS) technology globally and the sharing of information.</p>
 <p>It has already received strong and widespread international support with 85 bodies, including 16 national Governments and more than 40 major companies, signing on as foundation members and collaborating participants (see list below).  More members are expected to join by 1 July 2009 when the Institute will become a separate legal entity.</p>
 <p>The GCCSI is an important part of the Australian Government's response to the environmental and economic challenge of climate change.</p>
@@ -109,6 +99,4 @@
 <p>The World Bank</p>
 <p>The Government of the Peoples Republic of China</p>
 <p>China Huaneng Group</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

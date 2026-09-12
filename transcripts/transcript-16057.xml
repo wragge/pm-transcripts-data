@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16057</transcript-id>
-    <title>Interview with the Acting Prime Minister,  the Hon Julia Gillard, ABC Radio National Breakfast  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FRAN KELLY: Well, up to 20 per cent of Australians aged between 15 and 24, that's about half a million people, are apparently neither in full-time work nor full-time education. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16057</transcript-id><title>Interview with the Acting Prime Minister,  the Hon Julia Gillard, ABC Radio National Breakfast  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FRAN KELLY: Well, up to 20 per cent of Australians aged between 15 and 24, that's about half a million people, are apparently neither in full-time work nor full-time education. </p>
 <p>And in a speech later today to the annual conference of the Australian Council for Educational Research, Education Minister Julia Gillard will promise to do more to help these young Australians who aren't making this transition from school to work.</p>
 <p>But with the PM, Kevin Rudd, out of the country, there's also a lot of issues to talk to the Acting Prime Minister, Julia Gillard, about.</p>
 <p>Julia Gillard, welcome.</p>
@@ -58,6 +48,4 @@
 <p>FRAN KELLY: Alright, Julia Gillard, thank you very much for joining us on Breakfast.</p>
 <p>JULIA GILLARD: Thanks Fran.</p>
 <p>FRAN KELLY: Julia Gillard is Acting Prime Minister, while Kevin Rudd is out of the country in Korea - on his way to Singapore on the way home from the Games.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

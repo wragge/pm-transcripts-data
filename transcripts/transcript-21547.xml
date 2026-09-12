@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21547</transcript-id>
-    <title>Mr Yasser Arafat  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/11/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government extends its condolences to the Palestinian people on the death of the Chairman of the Palestinian Authority, Mr Yasser Arafat.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21547</transcript-id><title>Mr Yasser Arafat  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/11/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government extends its condolences to the Palestinian people on the death of the Chairman of the Palestinian Authority, Mr Yasser Arafat.</p>
 <p>The Government will be represented at the obsequies for Mr Arafat in Cairo by our Ambassador to Egypt, Mr Robert Newton, and at the burial service by Mr Glenn Miles, the head of the Australian Representative Office in Ramallah.</p>
 <p>The Australian Government shares the hope of all people of goodwill that momentum towards a peace settlement in the Middle East can be regained.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

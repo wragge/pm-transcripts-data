@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21983</transcript-id>
-    <title>Doorstop Interview Parliament House, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/10/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21983</transcript-id><title>Doorstop Interview Parliament House, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/10/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, should the top tax rate be cut to 30 per cent?</p>
 <p>PRIME MINISTER:</p>
 <p>You're obviously talking about the stuff in 'The Oz' this morning. It's part of the Treasurer's job from time to time and at all times to keep getting information about what would be involved in doing this, that or the other with the tax system and that work and that information should be seen in that context.  What matters are Government decisions, and a result of Government decisions only three per cent of the Australian population will be on the top tax rate and that's pretty impressive by world standards.</p>
@@ -39,6 +29,4 @@
 <p>For a number of reasons I hope you understand I can't make any specific comment on that particular case.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

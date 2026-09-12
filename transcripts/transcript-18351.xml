@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18351</transcript-id>
-    <title>Australian of the Year announcement, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/01/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18351</transcript-id><title>Australian of the Year announcement, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/01/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Tonight we celebrate Australia Day by celebrating those who reflect the very best of our great nation.</p>
 <p>Because we are a great nation.</p>
 <p>And we are a great nation because of our people.</p>
@@ -33,6 +23,4 @@ Tonight we celebrate Australia Day by celebrating those who reflect the very bes
 <p>Because it's not in our nature to be afraid  -  it never has been and I know it never will be.</p>
 <p>So let's celebrate the great nation we are, and the even greater nation we can become together.</p>
 <p>Happy Australia Day! </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

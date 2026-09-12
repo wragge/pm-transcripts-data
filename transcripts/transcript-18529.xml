@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18529</transcript-id>
-    <title>Anzac Centenary program to commemorate Australia&#039;s military history</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18529</transcript-id><title><![CDATA[Anzac Centenary program to commemorate Australia&#039;s military history]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister Assisting the Prime Minister on the Centenary of Anzac Warren Snowdon today announced a package of commemorative events and initiatives to mark the Centenary of Anzac.</p>
 <p>The Anzac Centenary is one of the most significant commemorations in our nation's history.</p>
 <p>We want to make sure every Australian can take part in events right across our country and at historic battlegrounds around the world.</p>
@@ -17,15 +7,15 @@ Prime Minister Julia Gillard and Minister Assisting the Prime Minister on the Ce
 <p>It will mark 100 years since the Gallipoli landings and major Western Front battles.  It will also recognise other significant military anniversaries throughout the last century.</p>
 <p>Just as the first Anzacs helped define our national character, the Anzac Centenary will be an important time to honour and reflect upon the service and sacrifice made by members of our Defence Force, past and present.</p>
 <p>The Gillard Government will provide $83.5 million over seven years to implement the program. Key elements of the program include:</p>
-<p> * 	the refurbishment of the First World War galleries at the Australian War Memorial;<br />
- * 	the refurbishment of war graves to ensure individual and collective memorials to our war dead, in Australia and overseas, are properly maintained;<br />
- * 	funding for the running of commemorative services overseas during the Centenary;<br />
- * 	a local grants program to help communities carry out their own Anzac Centenary commemoration projects, with funding available from January 2013;<br />
- * 	an Arts and Culture Fund to support individuals, artists and cultural institutions to develop commemorative displays and artistic creations that showcase our military history;<br />
- * 	a multimedia education program that has broad community reach to help Australians learn more about our military history;<br />
- * 	a scoping study for a travelling exhibition or similar, that will take important memorabilia from the First World War and subsequent conflicts out to communities across Australia.<br />
- * 	funding for the establishment of the Anzac Interpretive Centre at Albany;<br />
- * 	a scoping study for a restaging of the first convoys that left from Albany in November 1914 and carried Australian and New Zealand soldiers to Egypt and Gallipoli; and<br />
+<p> * 	the refurbishment of the First World War galleries at the Australian War Memorial;<br>
+ * 	the refurbishment of war graves to ensure individual and collective memorials to our war dead, in Australia and overseas, are properly maintained;<br>
+ * 	funding for the running of commemorative services overseas during the Centenary;<br>
+ * 	a local grants program to help communities carry out their own Anzac Centenary commemoration projects, with funding available from January 2013;<br>
+ * 	an Arts and Culture Fund to support individuals, artists and cultural institutions to develop commemorative displays and artistic creations that showcase our military history;<br>
+ * 	a multimedia education program that has broad community reach to help Australians learn more about our military history;<br>
+ * 	a scoping study for a travelling exhibition or similar, that will take important memorabilia from the First World War and subsequent conflicts out to communities across Australia.<br>
+ * 	funding for the establishment of the Anzac Interpretive Centre at Albany;<br>
+ * 	a scoping study for a restaging of the first convoys that left from Albany in November 1914 and carried Australian and New Zealand soldiers to Egypt and Gallipoli; and<br>
  * 	support to continue the work of the Anzac Centenary Advisory Board, which will play a key role in shaping planning for the Anzac Centenary commemorations.</p>
 <p>This suite of initiatives is based on the recommendations of the National Commission on the Commemoration of the Anzac Centenary and have been developed in consultation with the Anzac Centenary Advisory Board.</p>
 <p>Speaking from Villers-Bretonneux in France, Minister Snowdon thanked both the National Commission and the Advisory Board for their contribution.</p>
@@ -34,6 +24,4 @@ Prime Minister Julia Gillard and Minister Assisting the Prime Minister on the Ce
 <p>The Chair of the Anzac Centenary Advisory Board, Air Chief Marshal Angus Houston, AC, AFC (Ret'd), welcomed the funding package.</p>
 <p>“The Board will play an important role in advising the Government on the detailed planning, development, prioritisation and scheduling of the Centenary Program and liaising with the community,” Air Chief Marshal Houston said.</p>
 <p>“The Board and its Business Group will also have an essential role in encouraging appropriate private sector sponsorship in relevant Centenary activities and projects," he said. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

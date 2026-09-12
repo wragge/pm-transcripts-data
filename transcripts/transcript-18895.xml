@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18895</transcript-id>
-    <title>Transcript of Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/11/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Vientiane, Laos</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18895</transcript-id><title>Transcript of Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/11/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Vientiane, Laos</p>
 <p>PM: It's been a very great delight to visit this school today. I'd like to say a very big thank you to the principal and the kids, to the teachers here at Hom Neua School. We're here today to mark the friendship between our two countries.</p>
 <p>And as I frequently say in Australia, there's nothing more important happening in any nation on any given day than what is happening in the schools of that country.</p>
 <p>So if you want to see the future defined, go to a school. That's true of our country, it's true here in Laos and it's been great to be able to visit this school today.</p>
@@ -60,6 +50,4 @@
 <p>But I'll let the election callers in the US and their friends in Australia actually present the details of the result to people.</p>
 <p>Thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22758</transcript-id>
-    <title>Opening of the ASIO National Headquarters</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>23/07/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22758</transcript-id><title>Opening of the ASIO National Headquarters</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>23/07/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>In my first National Security Statement to the Parliament five years ago, I said that the first priority of government was the nation’s security.</p>
 <p>Much has changed since then in the national security landscape.</p>
@@ -23,7 +13,7 @@
 <p>We must always be vigilant on national security.</p>
 <p>And the Australian Security Intelligence Organisation has for two thirds of a century been a cornerstone of our national security.</p>
 <p>I was struck by a remark your Director-General made in a speech not so long ago: ASIO’s successes are mostly unheralded or, if they have been made public, soon forgotten. We remember the bomb that went off, not that one that was defused.</p>
-<p>This was a simple acknowledgement of the great paradox that all intelligence agencies face.<br />
+<p>This was a simple acknowledgement of the great paradox that all intelligence agencies face.<br>
  You deal in counterfactuals.</p>
 <p>You succeed by making sure that things don’t happen.</p>
 <p>The better you are at your work, the less we hear of you. The less we know about you.</p>
@@ -50,17 +40,17 @@
 <p>And to combat espionage. </p>
 <p>This is the hard work of national security.</p>
 <p>On a day such as today, we should pause for a moment to reflect on the work others are doing in this the hard work of national security in Australia’s name.</p>
-<p>• Think of the diggers at Tarin Kot, backed by intelligence agencies that work to define the threats they encounter.<br />
-• Think of the pilots of the Hercules touching down in Kabul as they provide support to the International Security Assistance Force.<br />
-• Think of our police and military serving as members in the Solomon Islands mission as their mission draws to a close.<br />
-• Think of the more than 3000 Australian Defence personnel deployed on operations around the world as we meet here in Canberra today.<br />
-• Think for a moment of our Australian Defence personnel currently serving in UN and multilateral peace and security operations in such countries as Afghanistan, Egypt, Iraq, Israel, Lebanon, South Sudan and Syria.<br />
-• Think of our cyber specialists.<br />
-• Of our intelligence analysts.<br />
-• Think of the Australian Federal Police and our customs and border protection personnel.<br />
+<p>• Think of the diggers at Tarin Kot, backed by intelligence agencies that work to define the threats they encounter.<br>
+• Think of the pilots of the Hercules touching down in Kabul as they provide support to the International Security Assistance Force.<br>
+• Think of our police and military serving as members in the Solomon Islands mission as their mission draws to a close.<br>
+• Think of the more than 3000 Australian Defence personnel deployed on operations around the world as we meet here in Canberra today.<br>
+• Think for a moment of our Australian Defence personnel currently serving in UN and multilateral peace and security operations in such countries as Afghanistan, Egypt, Iraq, Israel, Lebanon, South Sudan and Syria.<br>
+• Think of our cyber specialists.<br>
+• Of our intelligence analysts.<br>
+• Think of the Australian Federal Police and our customs and border protection personnel.<br>
 • Think also of our diplomats and our aid workers often working in dangerous environments around the world.</p>
 <p> In a world of change, new threats are constantly emerging or evolving – cyber threats, terrorism at home and abroad and people smuggling.</p>
-<p>The technology-dependent world we now live in also presents more challenges and threats.<br />
+<p>The technology-dependent world we now live in also presents more challenges and threats.<br>
  Australia now operates in a world of complex systems, all vulnerable to malicious cyber activity, whether originating from states, criminal organisations or misguided individuals.</p>
 <p> For this reason, the Australian Government’s determination is to continue to lift our cyber capabilities including our network defences.</p>
 <p> In opening today’s building, we are also opening the new Australian Cyber Security Centre – dedicated to analysing cyber threats, coordinating the government response and developing preventative strategies.</p>
@@ -83,6 +73,4 @@
 <p> It is only fitting that your new headquarters should take this the name of the Prime Minister who brought this institution into being.</p>
 <p> It is now my great pleasure to declare the Ben Chifley Building officially open.</p>
 <p> [ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

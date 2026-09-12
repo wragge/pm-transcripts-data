@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12499</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH PAUL MURRAY, RADIO 6PR   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/03/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Senator Heffernan; health insurance; MRI machine</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12499</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH PAUL MURRAY, RADIO 6PR   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/03/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Senator Heffernan; health insurance; MRI machine</p>
 <p>E&amp;OE...........  </p>
 <p>MURRAY:</p>
 <p>Good morning, Prime Minister.</p>
@@ -142,6 +132,4 @@
 <p>PRIME MINISTER:</p>
 <p>Yeah well I mean, they';re 6.6% which is a remarkable unemployment figure and a lot more important may I say than some other issues that are being run.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

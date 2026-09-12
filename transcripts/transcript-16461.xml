@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16461</transcript-id>
-    <title>Address at the  Queensland Labor Campaign Launch Qld Conservatorium, Brisbane  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/03/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It's so good to be back home.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16461</transcript-id><title>Address at the  Queensland Labor Campaign Launch Qld Conservatorium, Brisbane  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/03/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It's so good to be back home.</p>
 <p>It's good to be back home in Queensland.</p>
 <p>And it's good to be back amongst many old friends.</p>
 <p>And one of those friends I've known for 20 years.</p>
@@ -61,6 +51,4 @@
 <p>Now is not the time to risk an unstable minority government led by a man whose explicit policy is to make another 12 thousand people unemployed.</p>
 <p>Now is the time for a Premier capable of strong leadership and a practical plan to boost jobs, and build the infrastructure we need for our future.</p>
 <p>Friends, please welcome one such leader, Anna Bligh, Premier of Queensland.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23099</transcript-id>
-    <title>Helping to reduce violence against women</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/11/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government will provide $1 million to the White Ribbon campaign to help reduce violence against women, particularly in culturally and linguistically diverse communities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23099</transcript-id><title>Helping to reduce violence against women</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/11/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government will provide $1 million to the White Ribbon campaign to help reduce violence against women, particularly in culturally and linguistically diverse communities.</p>
 <p>For the past decade White Ribbon Day has been working to stop violence against women through education, preventative programs, partnerships and creative campaigns.</p>
 <p>The Government is committed to doing all it can to stop any form of violence against women.</p>
 <p>One in three Australian women over the age of 15 has reported experiencing physical or sexual violence at some point in their lives.</p>
@@ -17,6 +7,4 @@
 <p>This commitment builds on our plans to ensure the <em>National Plan to Reduce Violence against Women and Children 2010-2022 </em>is implemented.</p>
 <p>I am proud to be one of nearly 2,200 White Ribbon Ambassadors across Australia working to create a cultural shift that leads to the end of violence against women.</p>
 <p>19 November 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

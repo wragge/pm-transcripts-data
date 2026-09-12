@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19140</transcript-id>
-    <title>Australia Welcomes UN Security Council Resolution On DPRK Nuclear Test</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19140</transcript-id><title>Australia Welcomes UN Security Council Resolution On DPRK Nuclear Test</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>The Australian Government welcomes UN Security Council Resolution 2094 which responds to North Korea's nuclear test on 12 February 2013. </p>
 <p>As a Security Council member, Australia worked closely with fellow Council members and international partners to pursue a strong response to North Korea's provocative and dangerous actions.</p>
 <p>This resolution sends a clear message to North Korea that the international community will respond robustly to such actions. </p>
@@ -19,6 +9,4 @@
 <p>It builds on and expands Security Council Resolutions 1718 (2006), 1874 (2009) and 2087 (2013), with new sanctions to further constrain North Korea's nuclear and ballistic missile programs, and significant new financial and travel sanctions.</p>
 <p>We call on North Korea to abide by this resolution and its international obligations, and engage with the international community through negotiation, not provocation.</p>
 <p>We also urge North Korea to respond constructively to South Korean President Park Geun-hye's call for it to cease its nuclear program and provocations, so that trust can be developed on the Korean Peninsula.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

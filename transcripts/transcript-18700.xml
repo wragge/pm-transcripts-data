@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18700</transcript-id>
-    <title>Transcript of interview with John Burgess, 6iX</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18700</transcript-id><title>Transcript of interview with John Burgess, 6iX</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: The Prime Minister of Australia, and I'm delighted to have her on the program this morning, Julia Gillard. Good morning Prime Minister.</p>
 <p>PM: Good morning John.</p>
 <p>HOST: How are you today?</p>
@@ -51,6 +41,4 @@ HOST: The Prime Minister of Australia, and I'm delighted to have her on the prog
 <p>But we will receive a report from Angus and his team before the Parliament resumes in August. And I certainly believe that what comes from that expert panel should be used to guide our nation to action and to addressing this issue, which I know is on the minds of so many Australians, and they're very frustrated that they haven't been able to see the Parliament get new legislation through.</p>
 <p>HOST: Prime Minister, I've got to go to the news unfortunately, but it's great to talk to you and as I said, if we could arrange another time, I'd really appreciate it.</p>
 <p>PM: Sure John, I'll look to do that and thank you for talking this morning. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

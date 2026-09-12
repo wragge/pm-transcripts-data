@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41208</transcript-id>
-    <title>Promising results from Saltwater Pumped Hydro Energy Storage Study</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/09/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A seawater pumped hydro project in South Australia’s Spencer Gulf could generate 225 megawatt (MW) of electricity, an initial feasibility study released by the Australian Renewable Energy Agency (ARENA) has found.</p>
-<p>The study represents an important milestone in the project. It will allow Energy Australia to proceed  to the next stage of planning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41208</transcript-id><title>Promising results from Saltwater Pumped Hydro Energy Storage Study</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/09/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A seawater pumped hydro project in South Australia’s Spencer Gulf could generate 225 megawatt (MW) of electricity, an initial feasibility study released by the Australian Renewable Energy Agency (ARENA) has found.</p>
+<p>The study represents an important milestone in the project. It will allow Energy Australia to proceed&nbsp; to the next stage of planning.</p>
 <p>In February, the Turnbull Government, through ARENA, provided $453,000 in funding to conduct an initial feasibility study into the proposed pumped hydro facility in Cultana which would be the first of its kind in Australia to use seawater. The study was completed by EnergyAustralia with support from Arup and the Melbourne Energy Institute.</p>
 <p>The knowledge sharing report, released today, concluded that the technical challenges of using seawater in pumped hydro energy storage (PHES) projects can be overcome, subject to further engineering design.</p>
 <p>The study found the plant would be capable of generating 225 MW of electricity and 1770 MWh of power with eight hours of storage – the equivalent of more than 126,000 home batteries, but at a third of the cost.</p>
@@ -22,6 +12,4 @@
 <p>This is one of several projects supported by the Turnbull Government that explore the potential of PHES and hydroelectricity in Australia’s future energy system.</p>
 <p>Last week, the Australian National University also released its nationwide atlas – funded by ARENA – which identified more than 22,000 PHES sites, mostly off river and away from developed areas or national parks.</p>
 <p>Along with the recently announced funding for Snowy Hydro 2.0, Hydro Tasmania last week announced it was proceeding with feasibility studies, jointly funded through ARENA, to upgrade and expand two existing hydro power stations and identify up to 30 high potential PHES sites across Tasmania.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

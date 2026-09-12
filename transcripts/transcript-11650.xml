@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11650</transcript-id>
-    <title>Radio Interview with Mike Cooper, Radio 3BA </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Export Awards; Olympic hospitality; fuel prices; interest rates; sport.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11650</transcript-id><title>Radio Interview with Mike Cooper, Radio 3BA </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Export Awards; Olympic hospitality; fuel prices; interest rates; sport.</p>
 <p>E&amp;OE................................ </p>
 <p>[tape starts]</p>
 <p>PRIME MINISTER:</p>
@@ -111,6 +101,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

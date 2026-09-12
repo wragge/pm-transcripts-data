@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15420</transcript-id>
-    <title>National School Chaplaincy Program</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/10/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It gives me great pleasure to announce the outcome of Round 2 of funding under the National School Chaplaincy Program and additional funding of $50 million for the program. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15420</transcript-id><title>National School Chaplaincy Program</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/10/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It gives me great pleasure to announce the outcome of Round 2 of funding under the National School Chaplaincy Program and additional funding of $50 million for the program. </p>
 <p>Due to the further overwhelming response of schools to Round 2 of the program I have decided to allocate extra funding, bringing the total funding under the program to $165 million over three years. </p>
 <p>This funding enables the Australian Government to provide chaplaincy grants worth $69.2 million to a further 1,238 schools in Round Two. Of the schools that were successful in obtaining funding under this round, 829 are government schools and 409 are non-government schools.  A summary of the successful applications by state and sector under both funding rounds is attached. </p>
 <p>The additional funding announced today will also provide funds to some chaplaincy providers to ensure that are able to respond to this unprecedented demand from schools.</p>
@@ -47,6 +37,4 @@
 <p>35</p>
 <p>23</p>
 <p>33%</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

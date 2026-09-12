@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12661</transcript-id>
-    <title>Press Conference, Mexico </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Mark Waugh; trade links</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12661</transcript-id><title>Press Conference, Mexico </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Mark Waugh; trade links</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, has Mark Waugh called it quits too early?</p>
 <p>PRIME MINISTER:</p>
@@ -18,7 +8,5 @@
 <p>What’s your message to business leaders here today and also to the ministers you’ll be meeting later to try and enhance some trade links?</p>
 <p>PRIME MINISTER:</p>
 <p>Well at a bilateral basis I think the relationship has got a lot better, internationally the message is one of practising what we all preach in relation to freer and more open trade. And I’ll talk to you later.</p>
-<p><br />[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><br>[ends]</p>
+]]></content></item></response>

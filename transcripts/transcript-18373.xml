@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18373</transcript-id>
-    <title>Australian Government provides additional disaster assistance for Queensland and Northern New South Wales</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18373</transcript-id><title>Australian Government provides additional disaster assistance for Queensland and Northern New South Wales</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government today activated direct payments of additional disaster assistance for communities in Queensland and Northern NSW hit by flooding as a result of recent heavy rainfall.</p>
 <p>The Australian Government Disaster Recovery Payment (AGDRP) of $1000 per adult and $400 per child will be made available through Centrelink to people who have been impacted by flooding in disaster declared areas.</p>
 <p>In Queensland, these areas include the shires of Balonne, Barcaldine, Blackall Tambo, Maranoa, Murweh and Paroo. This payment is also available to people in Moree, Narrabri and Gwydir in New South Wales.</p>
@@ -17,8 +7,8 @@ The Australian Government today activated direct payments of additional disaster
 <p>The AGDRP is a one-off payment designed as a quick cash injection to help people with their immediate recovery needs.</p>
 <p>Ex-gratia payments of the same amount will also be available to New Zealand Special Category Visa Holders residing in these areas.</p>
 <p>The AGDRP will provide financial assistance to eligible people:</p>
-<p> * 	whose residence has been significantly damaged;<br />
- * 	who were stranded within their home or unable to gain access to their residence for at least 24 hours; or<br />
+<p> * 	whose residence has been significantly damaged;<br>
+ * 	who were stranded within their home or unable to gain access to their residence for at least 24 hours; or<br>
  * 	whose principal place of residence was without electricity, water, gas, sewerage or another essential service for at least 48 hours.</p>
 <p>The assistance will be delivered by Centrelink.</p>
 <p>Many people in affected areas have spent considerable time away from their homes. This payment will go some way to helping them get back on their feet in the immediate aftermath of these floods.</p>
@@ -26,21 +16,19 @@ The Australian Government today activated direct payments of additional disaster
 <p>The Government is already providing significant assistance to flood-affected areas of Queensland and Northern NSW and will respond with further assistance as required.</p>
 <p>Today's announcement is over and above the support already being provided by the Australian Government in areas affected by flooding throughout Queensland and northern NSW. This includes the joint Commonwealth and State Government assistance being provided under the Natural Disaster Relief and Recovery Arrangements (NDRRA).</p>
 <p>In Queensland this includes:</p>
-<p> * 	Counter Disaster Operations for the local government areas of Balonne, Burke, Carpentaria, Central Highlands, Cloncurry, Doomadgee, Flinders, Longreach, Maranoa, McKinlay, Murweh and Richmond.<br />
- * 	Restoration or Replacement of Essential Public Assets for the local government areas of Barcaldine, Barcoo, Blackall-Tambo, Burke, Carpentaria, Cloncurry, Isaac, Longreach, Maranoa, McKinlay, Mount Isa, Murweh, Quilpie and Winton.<br />
+<p> * 	Counter Disaster Operations for the local government areas of Balonne, Burke, Carpentaria, Central Highlands, Cloncurry, Doomadgee, Flinders, Longreach, Maranoa, McKinlay, Murweh and Richmond.<br>
+ * 	Restoration or Replacement of Essential Public Assets for the local government areas of Barcaldine, Barcoo, Blackall-Tambo, Burke, Carpentaria, Cloncurry, Isaac, Longreach, Maranoa, McKinlay, Mount Isa, Murweh, Quilpie and Winton.<br>
  * 	Personal Hardship and Distress Assistance (PHD) for the local government areas of Balonne, Central Highlands, Maranoa and Murweh.</p>
 <p>In NSW the assistance for all declared local government areas includes:</p>
-<p> * 	Personal Hardship and Distress Assistance<br />
- * 	Primary Producers Loans<br />
- * 	Primary Producers Transport Subsidies<br />
- * 	Small Businesses loans<br />
- * 	Assistance for Councils and Trustees of Parks and Reserves<br />
+<p> * 	Personal Hardship and Distress Assistance<br>
+ * 	Primary Producers Loans<br>
+ * 	Primary Producers Transport Subsidies<br>
+ * 	Small Businesses loans<br>
+ * 	Assistance for Councils and Trustees of Parks and Reserves<br>
  * 	Loans and grants to Churches, Voluntary Non-profit Organisations and Sporting Clubs.</p>
 <p>The AGDRP and the NZ ex-gratia payment can be claimed:</p>
-<p> * 	on line at <a href="http://www.humanservices.gov.au;">www.humanservices.gov.au;</a><br />
- * 	by calling the Department of Humans Services on 180 22 66; or<br />
+<p> * 	on line at <a href="http://www.humanservices.gov.au">www.humanservices.gov.au</a>;<br>
+ * 	by calling the Department of Humans Services on 180 22 66; or<br>
  * 	complete, sign and take your claim form to your nearest Department of Human Services (Centrelink or Medicare) Service Centre or Agent; or post to:	Queensland / NSW Floods  -  January 2012 Processing Centre,	Reply Paid 7815, Canberra BC, ACT 2610.</p>
 <p>For more information on disaster assistance see <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

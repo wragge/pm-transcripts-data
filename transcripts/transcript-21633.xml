@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21633</transcript-id>
-    <title>Interview with Ray Hadley Radio 2GB, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/03/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HADLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21633</transcript-id><title>Interview with Ray Hadley Radio 2GB, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/03/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HADLEY:</p>
 <p>We'll get on to much more serious things in a moment, but one man that would remember ... and Menthoids is our Prime Minister. John Howard, G'day.</p>
 <p>PRIME MINISTER:</p>
 <p>How are you?</p>
@@ -102,6 +92,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

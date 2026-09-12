@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21367</transcript-id>
-    <title>Interview with Tony Pilkington and Keith Conlon Radio 5AA, Adelaide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21367</transcript-id><title>Interview with Tony Pilkington and Keith Conlon Radio 5AA, Adelaide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JOURNALIST:</p>
 <p> Prime Minister John Howard's on his way to Adelaide, just before he hops on the plane he joins us.  Good morning Prime Minister.</p>
 <p> PRIME MINISTER:</p>
@@ -55,6 +45,4 @@ JOURNALIST:</p>
 <p> PRIME MINISTER:</p>
 <p> Okay, thank you.  Bye bye.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

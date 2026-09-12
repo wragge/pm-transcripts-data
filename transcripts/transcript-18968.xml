@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18968</transcript-id>
-    <title>School Shooting in Connecticut</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18968</transcript-id><title>School Shooting in Connecticut</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Australia grieves with America today following the mass shooting of primary school children and teachers in Connecticut.</p>
 <p>Like President Obama and his fellow Americans, our hearts too are broken.</p>
 <p>We share America's shock at this senseless and incomprehensible act of evil.</p>
@@ -18,6 +8,4 @@
 <p>Our thoughts today are with the people of America.</p>
 <p>We hold in our hearts the families who have lost loved children and who face grief beyond measure. We think of the families of the teachers.</p>
 <p>And we hope for the recovery of those injured in body and spirit.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

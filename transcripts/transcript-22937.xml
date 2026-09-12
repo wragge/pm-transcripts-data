@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22937</transcript-id>
-    <title>Doorstop Interview at Regatta Point, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Petrol prices; COAG meeting</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22937</transcript-id><title>Doorstop Interview at Regatta Point, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Petrol prices; COAG meeting</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Why is it not necessary to discuss petrol at COAG when it is probably the number one issue that voters are concerned about?</p>
@@ -20,6 +10,4 @@
 <p>Now if we can do that we can come out of tomorrow having reached agreement to spend between us $1.4 billion over the next few years to tackle the salinity problem and improve water quality, we will have done something that’s of lasting benefit to the Australian people.</p>
 <p>I think that is far more important than having essentially a political debate about a problem that we can’t fix. That’s why I’ve got salinity on the agenda and I haven’t got fuel pricing on the agenda. Thank you.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

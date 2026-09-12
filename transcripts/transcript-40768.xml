@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40768</transcript-id>
-    <title>Government invests heavily in Western Australia’s future</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>20/02/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will invest $100 million in Navy related industrial infrastructure and sustainment in Western Australia between 2017 and 2020.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40768</transcript-id><title>Government invests heavily in Western Australia’s future</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>20/02/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will invest $100 million in Navy related industrial infrastructure and sustainment in Western Australia between 2017 and 2020.</p>
 <p>The investment in shipbuilding production lines and facilities, including wharves, jetties and cranes, will occur on both Defence Estate, particularly HMAS Stirling (Fleet Base West), and at the Henderson industrial precinct.</p>
 <p>This will position the Henderson Shipyard to remain a world class and internationally competitive facility for many decades to come.</p>
 <p>The new infrastructure will allow more ships to be built and sustained at the precinct creating and maintaining jobs for the region.</p>
@@ -25,6 +15,4 @@
 <p>This is part of the Turnbull Government’s $89 billion investment in naval ships and submarines over the next 20 years to develop a strong and sustainable naval shipbuilding industry.</p>
 <p>Over the next decade, Defence will spend around $2.4 billion upgrading Defence facilities in WA, and a further $1.9 billion over the following decade.</p>
 <p>This includes upgrades to HMAS Stirling, Campbell Barracks, RAAF Bases Pearce, Curtin and Learmonth, the Harold E Holt Communications Facility, and Yampi Sound Training Area; and enhancing Special Forces capabilities to support the Special Air Services Regiment.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10798</transcript-id>
-    <title>Radio Interview with Alan Jones Radio 4BC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/11/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………….</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10798</transcript-id><title>Radio Interview with Alan Jones Radio 4BC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/11/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………….</p>
 <p><b>JONES:</b></p>
 <p>Well, the Prime Minister is with me in the studio. Prime Minister, good morning.</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -39,7 +29,7 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>….And there are two Independents. One of them is Senator Colston, the other is Senator Harradine and there are now two Greens and, what, seven Democrats. We need two more.</p>
 <p><b>JONES:</b></p>
-<p><br />We have developed this rather strange notion that someone democratically elected to the Senate is either not entitled to a vote or his vote is somehow inferior to that of others. Is that argument used in relation to Carmen Lawrence?</p>
+<p><br>We have developed this rather strange notion that someone democratically elected to the Senate is either not entitled to a vote or his vote is somehow inferior to that of others. Is that argument used in relation to Carmen Lawrence?</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Oh no, no, no. The argument about presumption of innocence has always been that if somebody, being a Member of Parliament is charged with an offence, until that person is convicted that person is entitled to exercise the full rights of a Member of Parliament. Now, I acknowledge that we adopted a harsher stance in the last Parliament in relation to Senator Colston than that conventional approach. Now, I acknowledge that and in going back to the conventional approach we are not adopting as harsh an approach as we did in the last Parliament but we are adopting the same approach as the Labor Party has always taken.</p>
 <p><b>JONES:</b></p>
@@ -130,6 +120,4 @@
 <p><b>JONES:</b></p>
 <p>Good to talk to you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

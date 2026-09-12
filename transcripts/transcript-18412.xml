@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18412</transcript-id>
-    <title>Resignation of Mark Arbib</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18412</transcript-id><title>Resignation of Mark Arbib</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister today thanked Mark Arbib for his contribution to the Australian Labor Party and to the nation over the last 16 years, following news of his resignation as a Minister in the Gillard Government and Labor Senator for New South Wales.</p>
 <p>During his time in the Federal Parliament, Mark has served in a number of key roles including Minister for Employment Participation, Minister for Social Housing and Homelessness, Minister for Indigenous Employment and Economic Development, Minister for Sport and most recently Assistant Treasurer, Minister for Small Business and Manager of Government Business in the Senate.</p>
 <p>Mark worked with me during the days of the global financial crisis and was passionate about making sure young people didn't bear the brunt of this economic turbulence.  In response to this he created Apprenticeship Kickstart, which has seen over 46,000 Australians get an apprenticeship.</p>
@@ -20,6 +10,4 @@ The Prime Minister today thanked Mark Arbib for his contribution to the Australi
 <p>Mark has also served the party tirelessly as NSW Labor Assistant General Secretary and General Secretary for eight years.  His resignation today will be received with a heavy heart by the members of our party.</p>
 <p>I wish him and his family all the very best in the future.</p>
 <p>I will make an announcement about future Ministerial arrangements in due course. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

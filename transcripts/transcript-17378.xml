@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17378</transcript-id>
-    <title>Prime Ministerial Statement</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/12/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17378</transcript-id><title>Prime Ministerial Statement</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/12/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister today announced that the Minister for Resources, Energy and Tourism, Martin Ferguson, will represent Australia at the Memorial Service for the Greymouth miners who tragically lost their lives.</p>
 <p>The service will be held tomorrow, 2 December, in Greymouth.</p>
 <p>Minister Ferguson will offer the nation's condolences on this sad day for New Zealand and Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

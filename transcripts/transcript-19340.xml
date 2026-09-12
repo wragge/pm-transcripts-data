@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19340</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19340</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
 <p>PRIME MINISTER O'NEILL: Prime Minister Julia Gillard, distinguished guests, ladies and gentlemen.</p>
 <p>Firstly thank you very much for you joining us today on this occasion of the signing of the new partnership between the Papua New Guinea and Australian governments.</p>
 <p>We today discussed a wide range of issues covering many aspects of our bilateral relationship.</p>
@@ -90,6 +80,4 @@
 <p>GILLARD: Thank you for your question. Unfortunately, I am not in a position to discuss specifics about an individual case that are the subject of legal proceedings. I am not in a position to do that.</p>
 <p>I can certainly say more broadly from any individual case, that we do work strongly with Papua New Guinea, and we will continue to do so, on addressing any matters about criminal conduct associated with the movement of money or any such matters.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

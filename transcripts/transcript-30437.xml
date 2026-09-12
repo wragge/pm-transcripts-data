@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>30437</transcript-id>
-    <title>Television Interview with Steve Liebmann, The Today Show</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>East Timor</subjects>
-    <content><![CDATA[<p>8 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>30437</transcript-id><title>Television Interview with Steve Liebmann, The Today Show</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>East Timor</subjects><content><![CDATA[<p>8 September 1999</p>
 <p><i>Subject: East Timor</i></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p><b>LIEBMANN:</b></p>
@@ -23,7 +13,7 @@
 <p><b>LIEBMANN:</b></p>
 <p>And yet you still require the endorsements for that peacekeeping force to go into East Timor of the United Nations and Jakarta, and we aren’t getting it are we?</p>
 <p><b>PRIME MINISTER:</b></p>
-<p>Well I’m not saying for a moment you’re not getting it from the United Nations. The United Nations is playing a very active role in putting the force together. They want an international peacekeeping force if the Indonesians don’t do their job and assert authority. Our total focus now is to put maximum pressure on Jakarta to either clean up its own act and get its own house in order and stop the violence. Or if they can’t or won’t, let somebody else in who will. Now that is our single-minded objective. It is not easy. It requires the constant building of pressure. The United Nations is playing quite a significant role in that and I would expect today to talk again to the<br />Secretary-General to get an assessment from him. But I can assure you that he has communicated in the strongest possible way to the government in Jakarta the concern of the international community, and that is in addition of course to my own conversations, those of the Foreign Minister with the Indonesian Foreign Minister, and countless other foreign leaders who I guess have done the same thing or should have done the same thing.</p>
+<p>Well I’m not saying for a moment you’re not getting it from the United Nations. The United Nations is playing a very active role in putting the force together. They want an international peacekeeping force if the Indonesians don’t do their job and assert authority. Our total focus now is to put maximum pressure on Jakarta to either clean up its own act and get its own house in order and stop the violence. Or if they can’t or won’t, let somebody else in who will. Now that is our single-minded objective. It is not easy. It requires the constant building of pressure. The United Nations is playing quite a significant role in that and I would expect today to talk again to the<br>Secretary-General to get an assessment from him. But I can assure you that he has communicated in the strongest possible way to the government in Jakarta the concern of the international community, and that is in addition of course to my own conversations, those of the Foreign Minister with the Indonesian Foreign Minister, and countless other foreign leaders who I guess have done the same thing or should have done the same thing.</p>
 <p><b>LIEBMANN:</b></p>
 <p>But Prime Minister, maximum pressure on Jakarta is maximum pressure on President Habibe and all the reports would indicate that he is powerless. He is not calling the shots.</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -45,6 +35,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

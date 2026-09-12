@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11319</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS TO 500 CLUB LUNCHEON, PERTH</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/06/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11319</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS TO 500 CLUB LUNCHEON, PERTH</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/06/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
 <p>To my friend and colleague Richard Court, to Mr Peter Middleton, my</p>
 <p> other state and federal parliamentary colleagues, ladies and gentlemen.</p>
 <p>As always it's a huge delight to be in Western Australia. And as always</p>
@@ -374,6 +364,4 @@
 <p> that you have made to building a better Australia. I am an optimist</p>
 <p> about our country's future. I think we have the prospect before us</p>
 <p> of entering the next century</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10835</transcript-id>
-    <title>LAUNCH OF THE AUSTRALIAN NATIONAL COUNCIL ON DRUGS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10835</transcript-id><title>LAUNCH OF THE AUSTRALIAN NATIONAL COUNCIL ON DRUGS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
    Today, in Brisbane, I attended a special service of support for individuals</p>
 <p> and families suffering through illicit drug use. I was fortified in</p>
 <p> my determination to stem the flow of drugs into the country, educate</p>
@@ -125,6 +115,4 @@
 <p> the Ministerial Council on Drug Strategy; and two nominees from the</p>
 <p> National Expert Advisory Committees to the Ministerial Council on</p>
 <p> Drug Strategy.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40071</transcript-id>
-    <title>Interview with Barrie Cassidy, Insiders</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/11/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>BARRIE CASSIDY:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40071</transcript-id><title>Interview with Barrie Cassidy, Insiders</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/11/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>BARRIE CASSIDY:</strong></p>
 <p>A short time ago, I recorded this interview from Turkey with the Prime Minister Malcolm Turnbull. Prime Minister, good morning. Thanks for joining us.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Yes, good evening.</p>
@@ -48,7 +38,7 @@
 <p><strong>BARRIE CASSIDY:</strong></p>
 <p>And based on what we and the rest of the world learns from what happened in Paris, what about response mechanisms in Australia? Because as a federal system, it still seems as if the states take the lead and then there can be a call-out for federal authorities. That situation hasn't been reviewed in a very long time. Is it time to look at that?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>The interaction and cooperation between the state and federal security forces, police and both state and federal and territory of course and ASIO is very good. The level of cooperation is very high. I've found just in the relatively short time I've been Prime Minister that State Police Commissioners are very accessible to me and of course they are working very closely with Duncan Lewis at ASIO, Andrew Colvin at the Federal Police, Greg Moriarty, the Director of Counter Terrorism, who I was also speaking with this morning.  And you know, you saw just a few weeks ago, we had a conference in Canberra that I convened to discuss the way in which we can further cooperate and enhance the collaboration in terms of countering violent extremism.<br />
+<p>The interaction and cooperation between the state and federal security forces, police and both state and federal and territory of course and ASIO is very good. The level of cooperation is very high. I've found just in the relatively short time I've been Prime Minister that State Police Commissioners are very accessible to me and of course they are working very closely with Duncan Lewis at ASIO, Andrew Colvin at the Federal Police, Greg Moriarty, the Director of Counter Terrorism, who I was also speaking with this morning.&nbsp; And you know, you saw just a few weeks ago, we had a conference in Canberra that I convened to discuss the way in which we can further cooperate and enhance the collaboration in terms of countering violent extremism.<br>
 So I think while we do have - we don't have one police force in Australia, we have state, federal, territory police forces. They work together very, very well.</p>
 <p><strong>BARRIE CASSIDY:</strong></p>
 <p>Do we need, though, a more rapid response?</p>
@@ -68,8 +58,6 @@ So I think while we do have - we don't have one police force in Australia, we ha
 <p><strong>BARRIE CASSIDY:</strong></p>
 <p>Prime Minister, thanks for your time. We really do appreciate it. Thank you.</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Thank you very much, Barrie.<br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>Thank you very much, Barrie.<br>
+&nbsp;</p>
+]]></content></item></response>

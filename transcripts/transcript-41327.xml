@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41327</transcript-id>
-    <title>Radio interview with Fitzy and Wippa, Nova 969 Sydney</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>FITZY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41327</transcript-id><title>Radio interview with Fitzy and Wippa, Nova 969 Sydney</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage</subjects><content><![CDATA[<p><strong>FITZY: </strong></p>
 <p>Prime Minister Malcolm Turnbull, welcome to the show.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah, great to be with you.</p>
@@ -135,7 +125,7 @@
 <p>Get on to that.</p>
 <p>[Laughter]</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>But I don’t spend a lot of time, I’ve got to tell you I don’t spend a lot of time …  Most of my time at the Lodge, I leave early and get back late.</p>
+<p>But I don’t spend a lot of time, I’ve got to tell you I don’t spend a lot of time …&nbsp; Most of my time at the Lodge, I leave early and get back late.</p>
 <p><strong>FITZY:</strong></p>
 <p>Yeah.</p>
 <p><strong>WIPPA:</strong></p>
@@ -178,6 +168,4 @@
 <p><strong>WIPPA:</strong></p>
 <p>Thanks so much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

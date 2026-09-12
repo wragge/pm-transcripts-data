@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17942</transcript-id>
-    <title>Prime Minister opens Katherine School of the Air facilities</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17942</transcript-id><title>Prime Minister opens Katherine School of the Air facilities</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today went online to officially open new facilities at the Katherine School of the Air in the Northern Territory.</p>
 <p>The Prime Minister spoke with parents and students and witnessed some of the new facilities in Katherine via the internet from the NT Open Education Centre in Darwin.</p>
 <p>The new facilities include the school's very first classroom which boasts electronic whiteboards, the latest wireless technology and 16 new computers.</p>
@@ -28,6 +18,4 @@ Prime Minister Julia Gillard today went online to officially open new facilities
 <p>The Government's $1.28 billion National School Pride program is funding more than 9400 eligible schools in every state and territory for minor infrastructure and refurbishment.</p>
 <p>The $14.1 billion Primary Schools for the 21st Century program funding more than 7900 eligible primary schools in every state and territory for major new infrastructure.</p>
 <p>The Australian Government's $2.2 billion National Secondary School Computer Fund is on track to deliver more than 788,000 computers by the end of this year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

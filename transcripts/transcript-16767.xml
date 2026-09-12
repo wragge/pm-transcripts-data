@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16767</transcript-id>
-    <title>Living Greener    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/08/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GARRETT: Here we are in the Prime Minister's office, and as you can imagine it's a pretty intense working environment, and I think we'll go and see where the Prime Minister is and perhaps go and visit one or two of these rooms.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16767</transcript-id><title>Living Greener    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/08/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GARRETT: Here we are in the Prime Minister's office, and as you can imagine it's a pretty intense working environment, and I think we'll go and see where the Prime Minister is and perhaps go and visit one or two of these rooms.</p>
 <p>PM: Here are some of my advisers in their office. So, I'll take the baton, you tell me what they're doing right and wrong.</p>
 <p>GARRETT: The big question in here, Prime Minister, is whether or not people are recycling their paper. I think that they are, because I can see recycled paper down there.</p>
 <p>But more importantly, television screens, computer screens - these are things that chew energy. Do we turn them off when we leave at night?</p>
@@ -56,6 +46,4 @@
 <p>And I'm getting ready for the Ashes Test.</p>
 <p>GARRETT: Good luck.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17108</transcript-id>
-    <title>Prime Minister Transcript of interview with Madonna King ABC 612 4 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: How are the kids?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17108</transcript-id><title>Prime Minister Transcript of interview with Madonna King ABC 612 4 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: How are the kids?</p>
 <p>KING: The kids are great, Prime Minister, how are you? This is what you call fill in time when we try to get organised. You were running a little bit late. Was that traffic on Coronation Drive?</p>
 <p>PM: There was a few problems on Coro this morning, but we actually had to do the block, so my apologies.</p>
 <p>KING: No, that's OK. Let's start with the health system. This is the biggest health overhaul since the introduction of Medicare, but you would have seen the headlines this morning. This health plan will see the Commonwealth money sent directly to regional areas and it might be heading for referendum already, with at least one state and the Opposition strongly opposed to it.</p>
@@ -116,6 +106,4 @@
 <p>The second thing is, with the classroom teacher, the third with the principle, if it doesn't work there, then parents have to, you know, exercise their responsibilities as the carer of their kids, and therefore, that means if things are going wrong, things are going bad and your kid is terrified about going to school, that is unacceptable and you've got to do something about it. And therefore, if it comes to it and you've got to actually pick up the phone and talk to the parent of another kid, I would say there's nothing wrong with that at all.</p>
 <p>KING: Kevin Rudd, I appreciate your time this morning. Thank you.</p>
 <p>PM: Good to be back in Queensland Madonna.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

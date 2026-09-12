@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18106</transcript-id>
-    <title>Speech to the Financial Services Council Breakfast, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/08/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18106</transcript-id><title>Speech to the Financial Services Council Breakfast, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/08/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Peter Maher, Chairman of the Financial Services Council.</p>
 <p>John Brogden, Chief Executive Officer of the Financial Services Council</p>
 <p>I thank Craig for that warm welcome.</p>
@@ -44,9 +34,9 @@ Peter Maher, Chairman of the Financial Services Council.</p>
 <p>To help Australians to get ahead, by making sure that Australia gets ahead.</p>
 <p>With this approach, we are building a dynamic, high-income modern economy.</p>
 <p>An economy driven by:</p>
-<p> * 	Investments in skills - to make sure we have the smartest workforce, providing the services most in demand in the world.<br />
- * 	Clean energy - to attract international capital, and lure direct investment from businesses which want to set up long lived assets in economies like ours which will be managing the carbon challenge in the cheapest way possible.<br />
- * 	Technology, especially high speed broadband - to support advanced manufacturing, and allow our services industry to access clients anywhere, anytime.<br />
+<p> * 	Investments in skills - to make sure we have the smartest workforce, providing the services most in demand in the world.<br>
+ * 	Clean energy - to attract international capital, and lure direct investment from businesses which want to set up long lived assets in economies like ours which will be managing the carbon challenge in the cheapest way possible.<br>
+ * 	Technology, especially high speed broadband - to support advanced manufacturing, and allow our services industry to access clients anywhere, anytime.<br>
  * 	Tax reform  -  to drive growth in the non-resource sectors of the economy by using our resource wealth to fund company tax cuts across the board; and lifting workforce participation by tripling the tax free threshold.</p>
 <p>And of course super reform.</p>
 <p>Friends, superannuation used to be the preserve of the wealthy or of tenured public servants and academics.</p>
@@ -71,7 +61,7 @@ Peter Maher, Chairman of the Financial Services Council.</p>
 <p>15% of capital raisings in 2008/09 globally were here in Australia.</p>
 <p>And the companies that recapitalised employed 1.6m Australians.</p>
 <p>Since then:</p>
-<p> * 	Super fund investments accounted for nearly 30 per cent of total market capitalisation of the ASX in the 2009-10 financial year.<br />
+<p> * 	Super fund investments accounted for nearly 30 per cent of total market capitalisation of the ASX in the 2009-10 financial year.<br>
  * 	Super funds are the largest contributor to managed funds. As at the June quarter 2011, super funds accounted for around 70 per cent of all consolidated assets in managed funds.</p>
 <p>The global economic uncertainty we face now should be a reminder to us of the importance of super.</p>
 <p>In rocky international seas, super is an anchor.</p>
@@ -153,6 +143,4 @@ Peter Maher, Chairman of the Financial Services Council.</p>
 <p>We did big things before in tougher times than this.</p>
 <p>Achievements like Medicare, tariff reform and universal super.</p>
 <p>Walking the reform road together, there is nothing but fear preventing us from doing great things once again. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

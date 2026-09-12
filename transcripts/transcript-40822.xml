@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40822</transcript-id>
-    <title>Radio interview with Raf Epstein, ABC Radio Melbourne</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Snowy Mountains Scheme 2.0; energy security; housing affordability</subjects>
-    <content><![CDATA[<p><strong>RAF EPSTEIN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40822</transcript-id><title>Radio interview with Raf Epstein, ABC Radio Melbourne</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Snowy Mountains Scheme 2.0; energy security; housing affordability</subjects><content><![CDATA[<p><strong>RAF EPSTEIN:</strong></p>
 <p>Prime Minister, good afternoon.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>How are you Rafael?</p>
@@ -17,7 +7,7 @@
 <p>I’m okay. The feasibility study to turn the Snowy essentially I guess or parts of into a battery – is that definitely going to happen or do you wait for the study?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, the project is fully designed. What we are talking about is a project, a pumped hydro project which will add 50 per cent to the capacity of the Snowy Hydro scheme.</p>
-<p>Work, or the engineering design work was done many, many years ago. And the study is designed to, the study which can be completed before the end of the year according to the company is designed to update some of the geological information because obviously you’d be using big tunnel boring machines nowadays to build the tunnel, and also to update it for, you know, 21st century technology.</p>
+<p>Work, or the engineering design work was done many, many years ago. And the study is designed to, the study which can be completed before the end of the year according to the company is designed to update&nbsp;some of the geological information because obviously you’d be using big tunnel boring machines nowadays to build the tunnel, and also to update it for, you know, 21st century technology.</p>
 <p>But it is a very viable, very real project that has been fully scoped out and designed, as have a number of others.</p>
 <p><strong>RAF EPSTEIN:</strong></p>
 <p>Will it happen? Do you wait for the study or not?</p>
@@ -58,6 +48,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks a lot Rafael. Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

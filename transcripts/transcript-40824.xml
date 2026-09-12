@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40824</transcript-id>
-    <title>Television interview with David Lipson</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Snowy Mountains Hydro Scheme 2.0; energy security; penalty rates; WA election; preferences</subjects>
-    <content><![CDATA[<p><strong>DAVID LIPSON:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40824</transcript-id><title>Television interview with David Lipson</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Snowy Mountains Hydro Scheme 2.0; energy security; penalty rates; WA election; preferences</subjects><content><![CDATA[<p><strong>DAVID LIPSON:</strong></p>
 <p>Prime Minister, thanks for joining us on Lateline.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Great to be with you.</p>
@@ -47,7 +37,7 @@
 <p><strong>DAVID LIPSON:</strong></p>
 <p>This will primarily feed energy into the grid along the east coast. You’ve pointed out many times, and so have others in your Government, that the centre of the storm of the moment is South Australia -</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Well South Australia is part of the - </p>
+<p>Well South Australia is part of the -&nbsp;</p>
 <p><strong>DAVID LIPSON:</strong></p>
 <p>They’ve had four power outages in the last few months. Yes, they are part of the grid, but this won’t primarily go to South Australia will it?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -117,6 +107,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

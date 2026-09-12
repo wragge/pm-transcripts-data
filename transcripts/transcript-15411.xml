@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15411</transcript-id>
-    <title>Theradio.com.au Weekly Message - NetAlert</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/08/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> Listen to this Release (MP3 -   0.95Mb - 90secs)</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15411</transcript-id><title>Theradio.com.au Weekly Message - NetAlert</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/08/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> Listen to this Release (MP3 -   0.95Mb - 90secs)</p>
 <p>Good morning,</p>
 <p>The internet has transformed the way we communicate and gather information. It's helping us to educate our children and engage with the world.</p>
 <p>Like the real world  however there are many things on the internet that our children should not see. Offensive and inappropriate material is often just a few mouse clicks away and not everyone children meet online can be trusted.</p>
@@ -19,6 +9,4 @@
 <p>We'll also be expanding the Federal Police's online child exploitation team and launching a public education campaign to raise awareness of the risks facing children.</p>
 <p>While no single measure alone can protect children from online harm, the Australian Government is committed to doing all it can to limit the risks the internet poses to children and vulnerable young people.</p>
 <p>  Listen to this Release (MP3 -   0.95Mb - 90secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

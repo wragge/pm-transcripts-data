@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16184</transcript-id>
-    <title>Joint Media Release with the Treasurer Minister for Families Australian Families to receive $3.9 Billion in Rudd Government Support  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/10/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $3.9 billion to provide immediate financial support to help around two million Australian families.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16184</transcript-id><title>Joint Media Release with the Treasurer Minister for Families Australian Families to receive $3.9 Billion in Rudd Government Support  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/10/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $3.9 billion to provide immediate financial support to help around two million Australian families.</p>
 <p>This decisive action is part of the Rudd Government's $10.4 billion Economic Security Strategy to strengthen the Australian economy and support families during the global financial crisis.</p>
 <p>The support will be delivered to families through a one-off payment of $1,000 for each eligible child in their care.</p>
 <p>Those who will receive the support include:</p>
@@ -23,6 +13,4 @@
 <p>Most families will receive their full payment automatically in the fortnight beginning 8 December 2008 on each family's regular family tax benefit payment day. These payments will be completed by 19 December.</p>
 <p>Families who receive their family payments as a lump sum at the end of the financial year will receive their additional payment when they make their claim.</p>
 <p>Payments will be tax exempt and not included for income-testing purposes.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

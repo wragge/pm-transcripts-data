@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22982</transcript-id>
-    <title>Interview with David Koch and Samantha Armytage, Sunrise, Seven Network</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>10/09/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>SAMANTHA ARMYTAGE: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22982</transcript-id><title>Interview with David Koch and Samantha Armytage, Sunrise, Seven Network</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>10/09/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>SAMANTHA ARMYTAGE: </strong></p>
 <p>Mr Abbott, good morning. Welcome to Sunrise and congratulations.</p>
 <p><strong>TONY ABBOTT: </strong></p>
 <p>Thanks, Sam.</p>
@@ -74,6 +64,4 @@
 <p><strong>TONY ABBOTT: </strong></p>
 <p>Thanks so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

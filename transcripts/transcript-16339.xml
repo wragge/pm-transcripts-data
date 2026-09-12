@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16339</transcript-id>
-    <title>Transcript of Press Conference Commonwealth Parliamentary Offices Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/01/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER: I am deeply saddened to learn of the death of an Australian soldier in Afghanistan. This brave soldier, wearing the uniform of Australia died the field of duty wearing his nation's uniform and wearing it with pride.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16339</transcript-id><title>Transcript of Press Conference Commonwealth Parliamentary Offices Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/01/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER: I am deeply saddened to learn of the death of an Australian soldier in Afghanistan. This brave soldier, wearing the uniform of Australia died the field of duty wearing his nation's uniform and wearing it with pride.</p>
 <p>On behalf of the Government, I extend my condolences to his family and to his friends and to his loved ones. Our prayers and those of the entire nation are with his family and his friends and his loved ones on this most tragic of days.</p>
 <p>In accordance with the wishes of the family, the soldier's name will not be released at this stage.</p>
 <p>This soldier was killed when Taliban insurgence engaged an Afghan forward operating base. And Australians were present and they came under rocket attack. Sadly, as a result of this incident today eight brave Australian soldiers have lost their lives in Afghanistan, fighting Taliban insurgents.</p>
@@ -38,6 +28,4 @@
 <p>The Australian Government has already in the last 12 months have doubled our level of assistance to the Palestinian people to nearly $50 million. And on 1 January, the Government announced a further allocation of $5 million for additional assistance to the people on the Gaza Strip. This is designed specifically to be delivered through UN agencies and international non-government organisations to provide food and much needed medical supplies to the people of Gaza.</p>
 <p>The Australian Government also stands ready to deliver further assistance as is necessary.</p>
 <p>Okay. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

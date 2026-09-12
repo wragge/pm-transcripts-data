@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10669</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON. JOHN HOWARD MP                  DOORSTOP INTERVIEW - MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/06/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.............................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10669</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON. JOHN HOWARD MP                  DOORSTOP INTERVIEW - MELBOURNE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/06/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.............................</p>
 <p>  JOURNALIST:</p>
 <p>  ...(inaudible) after One Nation's success on the weekend?</p>
 <p>  PRIME MINISTER:</p>
@@ -30,6 +20,4 @@
 <p>   why we intend to maintain our reform agenda, and now I'm going</p>
 <p>   off to the ABC, so if you'd excuse me please.</p>
 <p>  ENDS</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

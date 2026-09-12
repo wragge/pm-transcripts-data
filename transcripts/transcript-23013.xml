@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23013</transcript-id>
-    <title>Address to Official Dinner, Istana Negara, Jakarta</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>30/09/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>President and Ibu Yudhoyono, ministers, ambassadors, business leaders, distinguished guests, ladies and gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23013</transcript-id><title>Address to Official Dinner, Istana Negara, Jakarta</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>30/09/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>President and Ibu Yudhoyono, ministers, ambassadors, business leaders, distinguished guests, ladies and gentlemen.</p>
 <p>It is an honour to be in this grand setting, that’s witnessed so much history, to pay tribute to Indonesia, our largest and most important neighbour; and to honour you, Bapak President, a patriot who has led by example, a moderniser of your country and a strong voice for decency in the wider world.</p>
 <p>Long ago I promised a foreign policy focussed on Jakarta rather than Geneva and that a visit to Jakarta would be the very first trip I made as prime minister – and here I am, within two weeks of being sworn in.</p>
 <p>Indeed, I hope a convention has now been established: that Jakarta should always be an incoming Australian prime minister’s first overseas visit.</p>
@@ -45,6 +35,4 @@
 <p>Our relationship has so much promise – and everything will be easier once the people smuggling complication is gone.</p>
 <p>There will be no more vital task for the new Australian government than to build on the mutual respect and affection between our two countries and I am confident that this visit has been a strong start.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

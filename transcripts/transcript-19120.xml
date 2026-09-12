@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19120</transcript-id>
-    <title>Transcript of Interview with Mark Simkin, ABC News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/03/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19120</transcript-id><title>Transcript of Interview with Mark Simkin, ABC News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/03/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: When I've come in the past it might have been for one hour, one meeting, one engagement, a half day, a full day.</p>
 <p>I've got the opportunity to spend a few days here, and so I'm doing that.</p>
 <p>I've had some great experiences today.</p>
@@ -27,6 +17,4 @@ PM: When I've come in the past it might have been for one hour, one meeting, one
 <p>PM: I have done things today which really have given me a great sense of what's going on.</p>
 <p>I met with representatives of all the local councils, for example, and they have got their shopping list of things that their communities are talking about and we had a good discussion.</p>
 <p>And you always learn something, you always pick something up, and more than anything else, you always find something to admire.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

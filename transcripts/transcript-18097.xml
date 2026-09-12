@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18097</transcript-id>
-    <title>Robert Garran Memorial Oration to the Institute of Public Administration Australian National Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/08/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18097</transcript-id><title>Robert Garran Memorial Oration to the Institute of Public Administration Australian National Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/08/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today we gather to honour the central role of good public administration and sound public policy in shaping our nation's future.</p>
 <p>Nobody represents those things more completely than our first great public servant, Robert Garran.</p>
 <p>Garran was the “trusted confidant and counsellor of eleven Attorneys-General and sixteen governments”.</p>
@@ -182,6 +172,4 @@ Today we gather to honour the central role of good public administration and sou
 <p>With a balanced budget, high speed broadband, clean energy.</p>
 <p>Skilled workers, productive workplaces, competitive firms.</p>
 <p>Always directed toward the great purpose of a great nation's economy: jobs for all who seek them. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

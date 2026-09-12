@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22965</transcript-id>
-    <title>Interview with Bloomberg Television </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Budget surplus; Government spending; economic forecast.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22965</transcript-id><title>Interview with Bloomberg Television </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Budget surplus; Government spending; economic forecast.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>GAGAN:</p>
 <p>Prime Minister thanks for your time.</p>
@@ -38,6 +28,4 @@
 <p>GAGAN:</p>
 <p>Prime Minister I am sorry I have to interrupt you, we’ve run out of time. Thank you very much for your time.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

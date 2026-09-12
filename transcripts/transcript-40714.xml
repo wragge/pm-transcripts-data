@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40714</transcript-id>
-    <title>Interview with Kieran Gilbert, SKY News AM Agenda</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>31/01/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>KIERAN GILBERT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40714</transcript-id><title>Interview with Kieran Gilbert, SKY News AM Agenda</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>31/01/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>KIERAN GILBERT:</strong></p>
 <p>This is AM Agenda, thanks very much for your company. With me now this morning for the first time in 2017, the Prime Minister Malcolm Turnbull.</p>
 <p>Mr Turnbull thanks for your time. A big question - Labor is asking it, many others as well – the dual nationals that might be affected by the President’s Executive Order on refugees. Have you got any news on that front?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -55,6 +45,4 @@
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18802</transcript-id>
-    <title>Transcript of Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/09/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18802</transcript-id><title>Transcript of Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/09/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PROOF ONLY</p>
 <p>PM: It's great to be here today at Our Lady of Mercy College in Parramatta. I'm joined by Peter Garrett, the Minister for School Education. And also Julie Owens, the local member. And Michelle Rowland, the member for Greenway went to this school, she was head girl here, so we're thinking of Michelle as well.</p>
 <p>Can I say a big thank you to Kitty and all of the staff who have helped us round on this visit. And a big thankyou too to all of the girls who have shown a lot of spirit and lot of welcome as we've gone round.</p>
@@ -61,6 +51,4 @@ PROOF ONLY</p>
 <p>JOURNALIST: Prime Minister just back on the public service question, should Mr Swan cooperate with any investigation? </p>
 <p>PM: Look, Mr Hockey obviously involved in a little bit of negative political carry-on. That's the Opposition, it's not really for me to have deal with it.</p>
 <p>Okay, we're right, thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

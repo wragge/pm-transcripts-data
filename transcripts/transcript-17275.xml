@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17275</transcript-id>
-    <title>Prime Minister Transcript of interview ABC Perth 5 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: That was Elvis Presley, this is Kevin Rudd, the Prime Minister of Australia. Mr Rudd, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17275</transcript-id><title>Prime Minister Transcript of interview ABC Perth 5 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: That was Elvis Presley, this is Kevin Rudd, the Prime Minister of Australia. Mr Rudd, good morning to you.</p>
 <p>PM: G'day, I'm glad Elvis is alive and well on Perth radio.</p>
 <p>HOST: Yes indeed, and in the building, and one day we'll get you in the building.</p>
 <p>PM: I look forward to it, I've been in your building many times.</p>
@@ -79,6 +69,4 @@
 <p>PM: Well I just want to answer one point you raised there about health and hospitals. If you describe that as rhetoric, we've had two years of debate, we've had an agreement involving every Government in the country except WA's, on the biggest reform to the health and hospitals system since Medicare. This is pretty basic for things like accident and emergency and available hospital beds. I regard that as bread and butter, not something which you would describe in other terms.</p>
 <p>HOST: Thank you for talking to me this morning.</p>
 <p>PM: Thanks for having me on your program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

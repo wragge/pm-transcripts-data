@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12226</transcript-id>
-    <title></title>
-    <prime-minister></prime-minister>
-    <period-of-service></period-of-service>
-    <release-date>27/03/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[]]></content>
-  </transcript>
-</transcripts>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12226</transcript-id><title></title><prime-minister></prime-minister><period-of-service></period-of-service><field_date>27/03/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content></content></item></response>

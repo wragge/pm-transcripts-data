@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22610</transcript-id>
-    <title>Press Conference Shangri-La Hotel, Kuala Lumpur </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/11/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22610</transcript-id><title>Press Conference Shangri-La Hotel, Kuala Lumpur </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/11/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well ladies and gentlemen, I would like to say how very saddened I am about the helicopter crash. I extend my deepest sympathy to the family of the man who has lost his life. Like all Australians I hope and pray that the missing Army person is found and that the injuries of those who were rescued are not serious and that they make a full recovery. This is just another reminder that we are dealing with a special group of people who take risks on our behalf. I am told that this was a training flight, but any kind of activity of this character carries with it risks and it's particularly sad when that risk turns into tragedy. And we're all very, very sorry and we feel a particular sense of grief because these men and women take risks in our name and on our behalf and that gives them a very special character. And we have a special responsibility and therefore a special feeling of concern for their loved ones when a tragedy occurs.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, do you know much about the details of the crash at all?</p>
@@ -24,6 +14,4 @@
 <p>PRIME MINISTER:</p>
 <p>We have behaved appropriately given our responsibilities in relation to Australians in Fiji.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

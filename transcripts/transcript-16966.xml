@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16966</transcript-id>
-    <title>Prime Minister Minister for Defence Personnel, Science and Training Joint Media Release Townsville to recieve a Caribou Townsville</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/12/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A retired Caribou aircraft will become a permanent static display at RAAF Base Townsville in recognition of the Caribou's 45 years of service to Australia and its long association with North Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16966</transcript-id><title>Prime Minister Minister for Defence Personnel, Science and Training Joint Media Release Townsville to recieve a Caribou Townsville</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/12/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A retired Caribou aircraft will become a permanent static display at RAAF Base Townsville in recognition of the Caribou's 45 years of service to Australia and its long association with North Queensland.</p>
 <p>Air Force Caribou were based at RAAF Townsville from 1976. During more than three decades, Townsville-based Caribou operated by Number 35 Squadron, and later, No. 38 Squadron, provided vital support to a range of military and humanitarian operations and exercises across northern Australia, Papua New Guinea and the South Pacific.</p>
 <p>The establishment of a static display is a fitting tribute to the thousands of people who proudly flew and maintained the Caribou in North Queensland.</p>
 <p>Australia received a total of 29 Caribou between 1964 and 1971. The light tactical transport aircraft were well known for their ability to operate from short and unprepared airstrips. Caribou conducted tasks across Australia, and in Vietnam, South East Asia, Kashmir and the South Pacific.</p>
@@ -17,6 +7,4 @@
 <p>In the interim, the Caribou will be replaced by the King Air, which will provide a modern and efficient transport capability for the Australian Defence Force. A long term replacement for the Caribou will be selected in consultation with Defence.</p>
 <p>The Caribou's lengthy and illustrious Air Force career has also been recognised with one aircraft being provided to the Australian War Memorial and another to the RAAF Museum at Point Cook, Victoria.</p>
 <p>Disposal of the remaining Caribou aircraft is being managed by the Defence Materiel Organisation. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

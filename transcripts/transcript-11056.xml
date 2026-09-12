@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11056</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   DOORSTOP INTERVIEW                 ROYAL NORTH SHORE PRIVATE HOSPITAL, SYDNEY                                                   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/06/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Telstra, APS security guards</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11056</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   DOORSTOP INTERVIEW                 ROYAL NORTH SHORE PRIVATE HOSPITAL, SYDNEY                                                   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/06/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Telstra, APS security guards</p>
 <p>E&amp;OE....................................................................................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, with the capping of Telstra is there any real need</p>
@@ -25,6 +15,4 @@
 <p>PRIME MINISTER:</p>
 <p>I don't talk about those matters.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

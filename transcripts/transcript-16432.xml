@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16432</transcript-id>
-    <title>Rudd Government fast-tracks free ceiling insulation    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today announced a new fast track process so that homeowners can start applying for free ceiling insulation immediately.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16432</transcript-id><title>Rudd Government fast-tracks free ceiling insulation    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today announced a new fast track process so that homeowners can start applying for free ceiling insulation immediately.</p>
 <p>Through the Government's $3.9 billion Energy Efficient Homes Package, households can now apply for one of the following upgrades from today:</p>
 <p>     * The Homeowner Insulation Program. This installs free ceiling insulation (capped at $1,600) in the homes of eligible owner-occupiers.</p>
 <p>     * The Low Emission Assistance Plan for Renters. This provides assistance of up to $1,000 for installing insulation in private rental properties.</p>
@@ -20,6 +10,4 @@
 <p>The Rudd Government announced the $3.9 billion Energy Efficient Homes package on 3 February 2009 as part of the $42 billion Nation Building and Jobs Plan.</p>
 <p>Energy Efficient Homes has been welcomed by industry. It will create thousands of jobs in the manufacturing, distribution and installation of ceiling insulation and solar hot water systems during the global financial crisis.</p>
 <p>For more information on the fast track application process please visit <a href="http://www.environment.gov.au/energyefficiency/">http://www.environment.gov.au/energyefficiency/</a> or call the hotline on 1800 808 571.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

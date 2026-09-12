@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22776</transcript-id>
-    <title>Prime Minister Rudd visits troops in Afghanistan</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>27/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Afghanistan</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22776</transcript-id><title>Prime Minister Rudd visits troops in Afghanistan</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>27/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Afghanistan</p>
 <p>Prime Minister Kevin Rudd has visited Australian military and civilian personnel in Afghanistan.   </p>
 <p>The Minister for Defence Materiel Mike Kelly, the Chief of the Defence Force General David Hurley and Australia’s Ambassador to Afghanistan Jon Philp accompanied the Prime Minister. Mr Rudd was also joined by his wife Therese Rein.</p>
 <p>Mr Rudd met members of the Australian Defence Force and the Australian-led Provincial Reconstruction Team (PRT) at Multi National Base-Tarin Kowt (MNB-TK).  He was briefed by Australian and coalition commanders on progress in the military campaign and met the Governor of Uruzgan Province, Amir Mohammed Akhundzada.</p>
@@ -24,6 +14,4 @@
 <p>The Prime Minister reiterated Australia’s commitment to supporting Afghanistan’s future beyond nationwide transition at the end of 2014, including through ongoing training and financial support for Afghan security forces and an aid program.</p>
 <p>“The end of our mission in Uruzgan marks a change but not an end to Australia’s engagement with Afghanistan,” Mr Rudd said.  “It is time for the Afghan people to build on the progress they have achieved with the international community’s help and take control of their future”. </p>
 <p>Mr Rudd and Ms Rein laid wreaths at a memorial for fallen servicemen at Tarin Kowt.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

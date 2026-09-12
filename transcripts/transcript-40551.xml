@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40551</transcript-id>
-    <title>Joint Press Conference with the Minister for Immigration and Border Protection</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>30/10/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>[Broadcast begins]</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40551</transcript-id><title>Joint Press Conference with the Minister for Immigration and Border Protection</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>30/10/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>[Broadcast begins]</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>..The failure of his Government and Julia Gillard's Government on border protection and he announced the regional resettlement arrangement with Papua New Guinea. At that time, Australia's border was in chaos. There had been 50,000 irregular maritime arrivals aboard 800 boats. There were almost 2,000 children in immigration detention in Australia and most tragically of all, there were 1200 deaths at sea - of which we know.</p>
 <p>The Labor Government had to reopen, or open, seventeen detention centres onshore. It blew out the immigration and border protection budget by $11 billion. 50,000 unauthorised arrivals; 1200 deaths at sea, of which we know; a humanitarian program that was swamped by these unauthorised arrivals, and where the Labor Government had outsourced the selection of Australia's humanitarian program to people smugglers. They opened, reopened the facility in Nauru and established the facility in Manus.</p>
@@ -79,6 +69,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>We absolutely do, yes we are satisfied. OK, thank you very much.</p>
 <p><strong>-ENDS-</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

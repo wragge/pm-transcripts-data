@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17123</transcript-id>
-    <title>Prime Minister Australian Medical Association Parliamentary Dinner Parliament House, Canberra 10 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/03/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17123</transcript-id><title>Prime Minister Australian Medical Association Parliamentary Dinner Parliament House, Canberra 10 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/03/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>The Australian Government values the role of the Australian Medical Association in representing the interests of Australian doctors - in general practice and other specialties, medical students and doctors in training. We especially value the AMA's constructive engagement in the national debate on the future of our health and hospitals system.</p>
 <p>In particular, tonight I want to acknowledge the hard work of Andrew Pesce as President of the AMA. I've appreciated Andrew's input and his engagement with the health reform agenda in the meetings that we have had together in recent weeks.</p>
@@ -98,6 +88,4 @@
 <p>Reforming the Australian health system will be tough, but if we get the structural reforms in place now, we can build a health network that is sustainable, and fair and efficient; one able to navigate the challenges that lie ahead; and one that reflects the excellence of the medical professionals who serve the needs of patients in Australia every day.</p>
 <p>We value the AMA's partnership and valuable contribution to building better health and better hospitals for all Australians.</p>
 <p>I thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

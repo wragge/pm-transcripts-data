@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24210</transcript-id>
-    <title>Interview with Steve Austin, 612 ABC </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>18/02/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Food labelling laws,  Queensland state election,  the Government’s record of achievement. </subjects>
-    <content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24210</transcript-id><title>Interview with Steve Austin, 612 ABC </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>18/02/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Food labelling laws, Queensland state election, the Government’s record of achievement.</subjects><content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
 <p>Prime Minister Tony Abbott is in Queensland at the moment. I saw him on ABC TV News 24 with the representative of Bravehearts down on the Gold Coast. Prime Minister, good morning to you.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Steve, it’s lovely to be with you and your listeners.</p>
@@ -49,6 +39,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

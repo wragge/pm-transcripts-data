@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12107</transcript-id>
-    <title>Interview with Phillip Clarke, Radio 2GB </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>US attacks on Afghanistan; illegal immigration; 2001 election</subjects>
-    <content><![CDATA[<p>8 October 2001</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12107</transcript-id><title>Interview with Phillip Clarke, Radio 2GB </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>US attacks on Afghanistan; illegal immigration; 2001 election</subjects><content><![CDATA[<p>8 October 2001</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>CLARK:</p>
 <p>Mr Howard, good morning.</p>
@@ -78,7 +68,7 @@
 <p>CLARK:</p>
 <p>At the time I must say it did seem like a normal, like a perfectly normal (inaudible) thing to do as well.</p>
 <p>PRIME MINISTER:</p>
-<p>Well that’s all I did, I just reflected on that and that’s, there’s no more to it than that but nobody should doubt that I couldn’t be more committed to serving the Australian people and I really am resolutely committed, in an unconditional way to seeing them through, if that’s what they want and I am elected…<br />CLARK:</p>
+<p>Well that’s all I did, I just reflected on that and that’s, there’s no more to it than that but nobody should doubt that I couldn’t be more committed to serving the Australian people and I really am resolutely committed, in an unconditional way to seeing them through, if that’s what they want and I am elected…<br>CLARK:</p>
 <p>…. said there’d be no by-election?</p>
 <p>PRIME MINISTER:</p>
 <p>I did and I will see them through this current, these current challenges and the last thing I want to do is leave Government.</p>
@@ -132,6 +122,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you Philip.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

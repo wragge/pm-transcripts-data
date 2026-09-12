@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16508</transcript-id>
-    <title>Extradition of Hadi Ahmadi    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government welcomes the action by President Yudhoyono yesterday formally approving the extradition of an alleged people smuggler to Australia for prosecution.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16508</transcript-id><title>Extradition of Hadi Ahmadi    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government welcomes the action by President Yudhoyono yesterday formally approving the extradition of an alleged people smuggler to Australia for prosecution.</p>
 <p>The action by the Indonesian President opens the way for Hadi Ahmadi to face prosecution in Australia for a range of serious people smuggling offences relating to his alleged involvement in four boat arrivals in 2001 carrying more than 900 unlawful non-citizens.</p>
 <p>Ahmadi is wanted by the Commonwealth for prosecution for 21 offences contrary to the Migration Act. It is alleged that Ahmadi was responsible for the accommodation and living arrangements in Indonesia of a number of passengers waiting to board the vessels.</p>
 <p>This is a very welcome development in the fight against people smuggling.</p>
@@ -17,6 +7,4 @@
 <p>The final decision by the President follows high level discussions between the Prime Minister and President Yudhoyono last year.</p>
 <p>We understand that the signing of the papers yesterday is the formal approval required from the Government of Indonesia before extradition can take place. Administrative arrangements will now be made to hand over Ahmadi to Australian authorities.</p>
 <p>Australia is very grateful to Indonesia for its assistance with this matter and thanks President Yudhoyono for approving the extradition.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

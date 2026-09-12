@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22406</transcript-id>
-    <title>Doorstop Interview Glass House Mountains </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22406</transcript-id><title>Doorstop Interview Glass House Mountains </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well we have made the announcement, I guess the only other thing I would like to say, because although this is, this is a different part of Queensland, as you know I visited Innisfail last Monday and as a result of some views that were put to me by a variety of people, including Senator Boswell, the Leader of the National Party in the Senate and Mr Katter, General Cosgrove, I have decided that the duration of the wage subsidy in relation to Innisfail and Cyclone Larry will be extended from 13 to 26 weeks. That was a particular request of a number of groups including the cane growers and the banana people. Also the cut off date for applications will be extended to the 31st of August.</p>
 <p> It is fair to say that the Commonwealth has now contributed $237 million* to help the community of Far North Queensland and particularly the community of Innisfail, to recover from Cyclone Larry. Every dollar has been well spent. As a nation, we can afford that kind of assistance to our fellow Australians who suffer adversity through no fault of their own, but it is a very significant amount. I don't say this in any churlish sense, but it far exceeds the investment that has been made by the Queensland Government.</p>
 <p>JOURNALIST:</p>
@@ -103,6 +93,4 @@
 <p>Thank you.</p>
 <p>[ends]</p>
 <p>*$239 million</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

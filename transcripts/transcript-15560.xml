@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15560</transcript-id>
-    <title>Doorstop Interview Bega RSL Club, Bega</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/07/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15560</transcript-id><title>Doorstop Interview Bega RSL Club, Bega</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/07/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 overseas trained doctors; 457 visas; mortgage repayments; security; welfare.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -59,6 +49,4 @@ overseas trained doctors; 457 visas; mortgage repayments; security; welfare.</p>
 <p>PRIME MINISTER:</p>
 <p>Well something you could loosely call that. I think there are more sophisticated techniques and different descriptions now with EFTPOS, but the principle is the same; that the money is dedicated towards something which is guaranteed to help the child that is meant to be cared for. Now this is justified because parents receive this money on trust in a way for their children and if they're not doing their job, the community is entitled to say well we're going to stand in your place and see that the money is directed to the children. Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

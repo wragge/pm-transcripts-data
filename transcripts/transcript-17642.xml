@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17642</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17642</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much for coming to a press conference at what I understand is an unusual time of day to have one. I've just got a brief statement to make about circumstances in Egypt, and then I'll be very happy to take a few questions.</p>
 <p>As Australians know, the Government has been monitoring the situation in Egypt very closely. Yesterday, I advised Australians that we had moved our travel warning to do not travel. We had advised Australians and we continue to advise Australians in Egypt to travel out of Egypt if it is safe for them to do so.</p>
 <p>This afternoon, I have been briefed by relevant officials and talked to relevant ministers. Following those discussions, I have determined that we will make available an evacuation flight for Australians from Egypt.</p>
@@ -70,6 +60,4 @@ PM: Thank you very much for coming to a press conference at what I understand is
 <p>JOURNALIST: Prime Minister, have you received a briefing today on the threat to the Queensland coast of Cyclone Yasi?</p>
 <p>PM: I'm continuously receiving updates, and I've also been contacted by Premier Anna Bligh, so amongst other things we are very closely watching that weather formation and staying in very close touch with the Queensland Government about what it could mean for the people of Queensland.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

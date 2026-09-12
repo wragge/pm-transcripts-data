@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18017</transcript-id>
-    <title>Visit to Centennial Coal&#039;s Mandalong Mine</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18017</transcript-id><title><![CDATA[Visit to Centennial Coal&#039;s Mandalong Mine]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Climate Change and Energy Efficiency Greg Combet visited Centennial Coal's Mandalong mine today to meet with management and shift workers and discuss the recently announced carbon price package.</p>
 <p>The Mandalong mine, located in the Newcastle coalfields on the south-western side of Lake Macquarie, employs around 320 local workers to run its longwall mining operation.</p>
 <p>Treasury modelling shows Australia's coal industry has a strong future, with its output to more than double between 2010 and 2050 with a carbon price in place.</p>
@@ -19,6 +9,4 @@ Prime Minister Julia Gillard and Minister for Climate Change and Energy Efficien
 <p>The Government has also committed $70 million for grants to the coal mining industry to help with development and introduction of technologies to lower pollution from gassy mines.</p>
 <p>These developments show that far from causing the economic ruin that Opposition Leader Tony Abbott has been carrying on about, a carbon price creates the incentives for investment and innovation.</p>
 <p>It is this innovation that will ensure the coal industry prospers in the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

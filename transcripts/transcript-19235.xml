@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19235</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/04/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19235</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/04/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: Congratulations to Adam Scott. By any measure this is an historic day for Australian sport. All Australians will be marvelling in his achievement and thinking of him.</p>
 <p>Adam, Australia is incredibly proud of you.</p>
 <p>JOURNALIST: Prime Minister, just going to ask on Gonski  -  Queensland and WA are proving to be a bit of a problem. Are you determined to take these reforms through to the election?</p>
@@ -32,6 +22,4 @@
 <p>This is the biggest change in school funding in 40 years. And if you want to know what kind of nation we're going to be tomorrow, have a look in our schools.</p>
 <p>If we want to be a stronger nation tomorrow, we've got to have better funded schools today.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

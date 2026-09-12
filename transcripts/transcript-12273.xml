@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12273</transcript-id>
-    <title> National Press Club Address</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/08/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12273</transcript-id><title> National Press Club Address</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/08/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................</p>
 <p>Later this year, the Australian electorate will face a stark and important choice. </p>
 <p>It will be a choice in three key areas - that of competence, philosophy and the capacity to respond to future challenges and I want to discuss each with you today.</p>
 <p>A CHOICE OF COMPETENCE</p>
@@ -73,7 +63,7 @@
 <p>Pursuit of this goal must be balanced against the need to avoid endless changes which have been an often unwelcome feature of the operation of the system over the last 20 years.</p>
 <p>The impact of our changing demographics will accelerate in the next few years.</p>
 <p>A continuation of the more balanced immigration programme, fostered by this government, with its much greater emphasis on skills, will be part of our response to the challenge of an ageing population. </p>
-<p>The proposition, however, that the impact of an ageing population on our economy can be reversed by a sharply increased migrant intake over the next few years is not supported by critical analysis.<br />
+<p>The proposition, however, that the impact of an ageing population on our economy can be reversed by a sharply increased migrant intake over the next few years is not supported by critical analysis.<br>
 For social as well as economic reasons, our response must include greater use of the skills and experience of the increasing number of Australians over 55 - Australia's 'gold collar' workers.  Expert opinion agrees that even if only 10 per cent of people aged between 55 and 70 choose to remain in the workforce, on either a full-time or part-time basis, it would have a significant effect upon our national per capita productivity.</p>
 <p>For this to happen labour markets will need to be sufficiently flexible to suit their needs and respond to the choices they wish to make. </p>
 <p>In recent years, we have driven industrial relations reforms to promote this kind of flexibility and choice in the labour market.  In coming years, I intend to explore every opportunity to bring about even greater cultural change within the Australian workplace.</p>
@@ -115,6 +105,4 @@ For social as well as economic reasons, our response must include greater use of
 <p>Australia is widely admired for its openness, its cohesion, its sense of fairness, its competitive spirit and its economic strength.</p>
 <p>Much has changed for the better over the last five years.  We are a stronger, more respected nation.  We will work hard to keep it that way.</p>
 <p>As in the past, the key to Australia's future is the spirit and attitude of its people.  With choice, incentive, opportunity and a fair go,  there is nothing they cannot aspire to achieve. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

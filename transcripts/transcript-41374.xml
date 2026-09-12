@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41374</transcript-id>
-    <title>Radio interview with Fitzy and Wippa, NOVA 969 Sydney</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same sex marriage</subjects>
-    <content><![CDATA[<p><strong>FITZY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41374</transcript-id><title>Radio interview with Fitzy and Wippa, NOVA 969 Sydney</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same sex marriage</subjects><content><![CDATA[<p><strong>FITZY: </strong></p>
 <p>We’ve had a phone call from the Prime Minister, he joins us now – Malcolm Turnbull, welcome.</p>
 <p><strong>WIPPA: </strong></p>
 <p>Welcome, Prime Minister.</p>
@@ -70,6 +60,4 @@
 <p>And with a very, very Merry Christmas on this very happy day.</p>
 <p>Thanks a lot!</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

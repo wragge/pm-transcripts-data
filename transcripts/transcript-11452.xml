@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11452</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW, DUBBO                     SUBJECTS: East Timor, General Wiranto, services in the bush, Employment             National, BHP, David Irving, Badgery&amp;#146;s Creek, Telstra.</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/02/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11452</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW, DUBBO                     SUBJECTS: East Timor, General Wiranto, services in the bush, Employment             National, BHP, David Irving, Badgery&amp;#146;s Creek, Telstra.]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/02/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>JOURNALIST:</p>
 <p>What's your reaction to the events in Indonesia, Mr Howard?</p>
 <p>PRIME MINISTER:</p>
@@ -220,6 +210,4 @@
 <p> be presumably during this term, exactly when I don't know. It depends</p>
 <p> on how long the benchmarking study takes. Thanks.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

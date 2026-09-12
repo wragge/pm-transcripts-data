@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18457</transcript-id>
-    <title>Investing in automotive jobs and skills</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18457</transcript-id><title>Investing in automotive jobs and skills</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard, Weatherill and Baillieu Governments today announced a $275 million co-investment in the future of GM Holden's car making operations in Australia.</p>
 <p>In return for this investment, Holden has agreed to inject over $1 billion into car manufacturing in Australia, and to make two next generation vehicles here that will be cheaper to run and better for the environment.</p>
 <p>This partnership will see GM Holden continue making cars in Australia until at least 2022.</p>
@@ -25,6 +15,4 @@ The Gillard, Weatherill and Baillieu Governments today announced a $275 million 
 <p>As part of the agreement, Holden will create a new Suppliers' Working Group to help Australian suppliers sell into its world-wide supply chains.</p>
 <p>Additionally, the Gillard and Baillieu Governments will provide an extra $35 million for the Automotive New Markets Initiative, a new program to help firms in the automotive supply chain move into export markets and supply their products to other industries, with a Federal contribution of $25 million.</p>
 <p>The pressures on the automotive sector are likely to see restructuring in the coming period which is why the Government will also provide $15.6 million to extend the labour market element of the Automotive Industry Structural Adjustment Program to provide training and employment services for workers leaving the auto sector. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

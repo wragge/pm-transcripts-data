@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18560</transcript-id>
-    <title>Transcript of interview with Paul Murray, 6PR</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18560</transcript-id><title>Transcript of interview with Paul Murray, 6PR</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard joins me now. Good morning Prime Minister.</p>
 <p>PM: Good morning Paul.</p>
 <p>HOST: Prime Minister, you've been selling the budget on the east coast for a few hours now, what's been the reaction?</p>
@@ -45,6 +35,4 @@ HOST: Prime Minister Julia Gillard joins me now. Good morning Prime Minister.</p
 <p>Now I know Premier Barnett likes to play the politics of it and he thinks, you know, it's kind of smart to do the Canberra bad  -  Perth good. Well you know, so the world goes and Premier Barnett can play that politics, but I think he at least owes the people of Western Australia the facts about how much, as a Federal Government, we are investing in the infrastructure of Western Australia and proud and pleased to do so because it's a growing state undergoing a huge resources boom and that means it's hungry for infrastructure.</p>
 <p>HOST: Appreciate your time this morning Prime Minister. Thanks a lot.</p>
 <p>PM: Thanks very much Paul. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

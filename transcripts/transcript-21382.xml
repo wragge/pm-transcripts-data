@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21382</transcript-id>
-    <title>Radioactive Waste Management  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/07/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government has decided to abandon the establishment of a national low level waste repository at site 40a near Woomera in South Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21382</transcript-id><title>Radioactive Waste Management  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/07/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government has decided to abandon the establishment of a national low level waste repository at site 40a near Woomera in South Australia.</p>
 <p>This decision has been taken in light of the recent Federal Court decision and the effective failure of the states and territories to cooperate with the Australian Government in finding a national solution for the safe and secure disposal of low level radioactive waste.</p>
 <p>All states and territories accepted the need for the safe and secure disposal, in one place, of low level waste.  But no-one wants it in their back yard.</p>
 <p>The Australian Government is committed to taking responsibility for the safe and secure disposal of its low level waste.</p>
@@ -23,6 +13,4 @@
 <p>The Australian Government fully accepts responsibility for its own low level waste.  The Australian Government will be examining sites on Commonwealth land, both onshore and off shore, for the establishment of a suitable facility.</p>
 <p>  In examining possible sites, it is the intention of the Australian Government to co-locate the low level waste facility with the national store for intermediate waste.  Last year the Australian Government ruled out a national store for intermediate level waste in South Australia on advice from a group of scientific experts.  Given the Australian Government's commitment not to locate the national store for intermediate waste in South Australia, co-location will mean that neither a low level waste repository nor a national store for intermediate waste would be located in South Australia.</p>
 <p>  The examination of possible sites will commence immediately and will be completed as a matter of priority.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

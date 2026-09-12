@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12548</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP    INTERVIEW WITH TRACY GRIMSHAW     THE TODAY SHOW, CHANNEL 9     </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/02/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Defence photographs; Governor-General</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12548</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP    INTERVIEW WITH TRACY GRIMSHAW     THE TODAY SHOW, CHANNEL 9     </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/02/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Defence photographs; Governor-General</p>
 <p>E&amp;OE...........</p>
 <p>GRIMSHAW:</p>
 <p>Prime Minister, good morning.</p>
@@ -64,6 +54,4 @@
 <p>PRIME MINISTER:</p>
 <p>You';re always welcome.</p>
 <p>[Ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

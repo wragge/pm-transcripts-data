@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40825</transcript-id>
-    <title>Interview with David Koch</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Gas roundtable, Snowy Mountains Scheme 2.0, interest rates</subjects>
-    <content><![CDATA[<p><strong>DAVID KOCH:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40825</transcript-id><title>Interview with David Koch</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Gas roundtable, Snowy Mountains Scheme 2.0, interest rates</subjects><content><![CDATA[<p><strong>DAVID KOCH:</strong></p>
 <p>Prime Minister, Malcolm Turnbull. Just got off the number 11 tram at Melbourne to visit our studios, he joins me now. Trust it was a good trip Prime Minister?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>It was, it was great.</p>
@@ -50,7 +40,7 @@
 <p><strong>DAVID KOCH:</strong></p>
 <p>Yeah, those Victorians take all the water out of the Murray before it gets to South Australia, now they’re taking the electricity. He’s cranky with you. He took it out on your Energy Minister Josh Frydenberg. Let’s take a look, it was a classic.</p>
 <p><strong>JAY WEATHERILL [Excerpt]:</strong></p>
-<p>Him suggesting we want to work together is a disgrace. The way in which your Government has treated our state, it is the most anti South Australian Government we have seen from a Commonwealth Government in living memory. What we have is a national energy market that is broken. </p>
+<p>Him suggesting we want to work together is a disgrace. The way in which your Government has treated our state, it is the most anti South Australian Government we have seen from a Commonwealth Government in living memory. What we have is a national energy market that is broken.&nbsp;</p>
 <p><strong>DAVID KOCH:</strong></p>
 <p>Okay, so is the national energy market running well? You’re saying it is.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -67,7 +57,5 @@
 <p>Not a banking inquiry though. Alright Prime Minister, I’ll let you get on the tram back again. Appreciate your time.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much.</p>
-<p><strong> [ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><strong>&nbsp;[ENDS]</strong></p>
+]]></content></item></response>

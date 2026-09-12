@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41039</transcript-id>
-    <title>Offensive Cyber Capability To Fight Cyber Criminals</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>30/06/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government is committed to protecting Australians online and stopping cyber criminals.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41039</transcript-id><title>Offensive Cyber Capability To Fight Cyber Criminals</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>30/06/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government is committed to protecting Australians online and stopping cyber criminals.</p>
 <p>Cybercrime is conservatively estimated to cost the Australian economy $1 billion a year.</p>
 <p>Since its inception at the end of 2014, there have been over 114,000 reports of cybercrime registered with the Australian Cybercrime Online Reporting Network (ACORN).</p>
 <p>Notably 23,700 of these have been reported over the last 6 months, highlighting a growing occurrence of cyber criminal activity.</p>
@@ -25,6 +15,4 @@
 <p>The Government will target criminals wherever they seek to hurt Australian citizens but every Australian has a role to play in ensuring our cyber security.</p>
 <p>Governments, business and individuals must be proactive about protecting themselves online by following best practice when it comes to cyber security.</p>
 <p>We must work together to share threat information and learn from each other about the online threats that seek to do us harm.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

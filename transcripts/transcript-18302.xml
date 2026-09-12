@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18302</transcript-id>
-    <title>Speech to the Opening of the Robert Marsden Hope Building, Canberra.</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/12/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18302</transcript-id><title>Speech to the Opening of the Robert Marsden Hope Building, Canberra.</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/12/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia came into the 1970s with a new vision for our nation and its place in the world beyond the sterile polarities of the Cold War.</p>
 <p>It was a vision that brought us closer to our own region.</p>
 <p>Closer to an awareness of what we could achieve through active middle-power diplomacy.</p>
@@ -61,6 +51,4 @@ Australia came into the 1970s with a new vision for our nation and its place in 
 <p>So I wish you every happiness in this building, if not every happiness in everything else that you do.</p>
 <p>I thank you for the very great work you do on behalf of our nation.</p>
 <p>And I have the very great pleasure in being here to declare this building, the Robert Marsden Hope Building officially open. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

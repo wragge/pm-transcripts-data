@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16127</transcript-id>
-    <title>Interview with Kerry O&#039;Brien, 7.30 Report, ABC TV   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>O'BRIEN: Kevin Rudd, if there is a recurring phrase on the global financial crisis in the commentary from some of the world's top financial minds, it's ‘uncharted waters'. If there is another, it's that this is the worst situation financially since the Depression. Do you agree that the world financial system is in uncharted waters and facing its biggest challenge since the Depression?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16127</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien, 7.30 Report, ABC TV   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>O'BRIEN: Kevin Rudd, if there is a recurring phrase on the global financial crisis in the commentary from some of the world's top financial minds, it's ‘uncharted waters'. If there is another, it's that this is the worst situation financially since the Depression. Do you agree that the world financial system is in uncharted waters and facing its biggest challenge since the Depression?</p>
 <p>PM: I won't put a time measure on this Kerry but certainly in our discussions with the Treasury and the Reserve Bank and APRA the Australian financial regulator, it's quite clear that we are dealing with something here which we as Australian national economic regulators haven't had to deal with for decades and the core of it of course goes back to bad loans in the United States.</p>
 <p>But of course that's been made worse by the fact that those loans have been securitised by a lot of non-transparent financial instruments spread right across the world. And that's now gone on for 12 months and as you have seen it's sort of affected one institution in the United States after another and some in the United Kingdom.</p>
 <p>That's why it's going to be tough but our regulators are up to the task and they are performing very well.</p>
@@ -59,6 +49,4 @@
 <p>And relationships in all that as I have discovered in recent days on this global financial crisis has really been very important.</p>
 <p>O'BRIEN: Kevin Rudd we are out of time, thanks for talking with us.</p>
 <p>PM:   Good to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16491</transcript-id>
-    <title>New National Broadband Network    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced the establishment of a new company to build and operate a new super fast National Broadband Network.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16491</transcript-id><title>New National Broadband Network    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced the establishment of a new company to build and operate a new super fast National Broadband Network.</p>
 <p>This new super fast National Broadband Network, built in partnership with private sector, will be the single largest nation building infrastructure project in Australian history.</p>
 <p>This new National Broadband Network will:</p>
 <p>     * Connect 90 percent of all Australian homes, schools and workplaces with broadband services with speeds up to 100 megabits per second - 100 times faster than those currently used by many households and businesses</p>
@@ -50,6 +40,4 @@
 <p>     * Make an initial investment in the network of $4.7 billion.</p>
 <p>     * Commence a consultative process on necessary changes to the existing telecommunications regulatory regime.</p>
 <p>The initiative announced today is a historic nation-building investment focused on Australia's long-term national interest. It will fundamentally transform the competitive dynamics of the telecommunications sector, underpin future productivity growth and our international competitiveness. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

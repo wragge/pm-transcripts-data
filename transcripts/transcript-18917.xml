@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18917</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/11/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Phnom Penh</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18917</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/11/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Phnom Penh</p>
 <p>PM: I'm joined by the Minister for Trade and Competitiveness, by Dr Emerson. We've just come from a meeting convened by President Obama on the Trans Pacific Partnership.</p>
 <p>This is an important economic arrangement for our nation. It is a trade deal that would cover 30 per cent of the world's GDP. We have a high level of ambition for the Trans Pacific Partnership. We do want to see freer trade in goods and services in our region. As I've said consistently, Australia is a great trading nation and freer trade arrangements mean more jobs for Australians.</p>
 <p>At the discussion this morning, it was agreed between the countries participating that we would aim for October next year as the deadline for negotiating the Trans Pacific Partnership; that is, by the time of the next APEC meeting.</p>
@@ -87,6 +77,4 @@
 <p>Question: When you ask Premier Wen, will you urge him to have formal talks on a code of conduct?</p>
 <p>PM: I will say to Premier Wen in the course of our discussions about the agenda for the East Asia Summit the same things that I have said to you here, and I'm getting a signal that I need to go and commence that discussion right now.</p>
 <p>So thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

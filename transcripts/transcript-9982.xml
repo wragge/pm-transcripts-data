@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>9982</transcript-id>
-    <title>Lebanon</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/04/1996</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00009982.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>All Australians have been appalled by the tragic events in northern Israel and Lebanon in the past two weeks. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>9982</transcript-id><title>Lebanon</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/04/1996</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00009982.pdf</document><subjects></subjects><content><![CDATA[<p>All Australians have been appalled by the tragic events in northern Israel and Lebanon in the past two weeks. </p>
 <p>The Australian Government strongly supports the call for a ceasefire by President Clinton, which has come in the wake of the displacement of many thousands of families in both countries, and immense human suffering including the terrible loss of life at Qaana. </p>
 <p>In the past two weeks we have seen attempts to destroy the progress that has been made towards peace between Israel and its neighbours in the Middle East. Hezbollah attacks on northern Israel have aimed at wrecking the mutual confidence and trust which is necessary for a lasting settlement. </p>
 <p>Those attempts must not be allowed to succeed. The violence must end. </p>
@@ -17,6 +7,4 @@
 <p>A ceasefire is the essential first step towards the resumption of negotiations for a comprehensive and enduring peace settlement in the Middle East. </p>
 <p>A durable settlement would need to reflect some key elements. Israel's security must be ensured. The sovereignty of both Israel and Lebanon must be respected. A settlement must engage Syria which bears some responsibility to help end Hezbollah attacks against Israel. A settlement must provide the Lebanese Government the opportunity to negotiate for all of Lebanon. It would need to include implementation of United Nations Security Council Resolution 425, and credible guarantees for the security of Israel's northern border. </p>
 <p>21 April 1996 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

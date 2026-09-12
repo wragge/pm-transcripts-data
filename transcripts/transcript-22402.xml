@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22402</transcript-id>
-    <title>Doorstop Interview Brisbane </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22402</transcript-id><title>Doorstop Interview Brisbane </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Are there any questions you want to ask me? I think, perhaps I should start, I know the media are interested in the interest rate decision. As I indicated in my remarks, nobody likes interest rates to go up, but there was really no alternative for the Reserve Bank to make this adjustment given the inflationary pressures coming off such things as high fuel prices and the general strength of the economy. And I believe that by acting now in this relatively small amount, the Bank has done the right thing and it has forestalled the need for perhaps even steeper increases in the future.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister what do you say to those voters who you promised at the last election to keep interest rates at record lows?</p>
@@ -92,6 +82,4 @@
 <p>PRIME MINISTER:</p>
 <p> Well I think the people who run the Melbourne Cricket Ground should make those decisions. I don't presume to tell people who they should let it out to, I think that is entirely a matter for the management of the Melbourne Cricket Ground, it is not for me to say you should not give it to unionists, but you should give it to others. I only hope though that when the unions have this rally, they tell the full story, they tell those who attend that real wages have gone up 16.8 per cent under my government, whereas they went up by a miserable 1.3 per cent under Labor; that unemployment has hit a 30 year low and on top of that, average wage and salary earners are infinitely better off now than they were under a Labor union accord. Now if they tell the full story I think you will get a good rally.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

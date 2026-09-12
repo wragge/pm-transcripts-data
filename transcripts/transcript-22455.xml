@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22455</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/09/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22455</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/09/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well I am quite shocked and distressed at Steve Irwin's, sudden, untimely and freakish death. It's a huge loss to Australia. He was a wonderful character. He was a passionate environmentalist. He brought joy and entertainment and excitement to millions of people. He was a one-off character and he wasn't just a character for Australians, he was a character for lots of people around the world and this is a huge loss. And to his wife Terri, and his two children, I extend the profound sympathy of myself, my wife and my Government. I knew the family very well. I visited Australia Zoo on a number of occasions and I really do feel Australia has lost a wonderful and colourful son.</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, as you say you knew him quite well, was his private persona the same as his public?</p>
@@ -24,6 +14,4 @@
 <p>PRIME MINISTER:</p>
 <p>Oh look, I will talk to his family, I mean I don't wish to get into that at this stage.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

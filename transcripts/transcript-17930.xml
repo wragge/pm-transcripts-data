@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17930</transcript-id>
-    <title>Government and Telstra agree on package of consumer measures</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17930</transcript-id><title>Government and Telstra agree on package of consumer measures</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Government and Telstra today reached an agreement that will ensure basic universal telecommunication service standards during and after the roll out of the National Broadband Network  -  a critical assurance for consumers in the rollout of the NBN.</p>
 <p>The important public safeguard is part of a package of measures agreed between the Government and Telstra that included an agreement to provide assistance to retrain Telstra's workforce to deploy the NBN.</p>
 <p>The package also included the creation of a new government entity, the Telecommunications Universal Service Management Agency (TUSMA) that will administer the universal service obligation (USO) and other public interest services.</p>
 <p>These measures were announced in conjunction with Definitive Agreements between Telstra and NBN Co that will see super fast broadband delivered sooner to Australians with less disruption and less cost.</p>
 <p>The universal service arrangements will commence on 1 July, 2012.The TUSMA will ensure:</p>
-<p> * 	all Australians have reasonable access to a standard telephone service (the Universal Service Obligation for voice telephony services);<br />
- * 	payphones are reasonably accessible to all Australians (the Universal Service Obligation for payphones);<br />
- * 	the ongoing delivery of the Emergency Call Service by Telstra (calls to Triple Zero '000' and '112');<br />
- * 	the ongoing delivery of the National Relay Service;<br />
- * 	that appropriate safety net arrangements are in place that will assist the migration of voice-only customers to an NBN fibre service as Telstra's copper customer access network is decommissioned; and<br />
+<p> * 	all Australians have reasonable access to a standard telephone service (the Universal Service Obligation for voice telephony services);<br>
+ * 	payphones are reasonably accessible to all Australians (the Universal Service Obligation for payphones);<br>
+ * 	the ongoing delivery of the Emergency Call Service by Telstra (calls to Triple Zero '000' and '112');<br>
+ * 	the ongoing delivery of the National Relay Service;<br>
+ * 	that appropriate safety net arrangements are in place that will assist the migration of voice-only customers to an NBN fibre service as Telstra's copper customer access network is decommissioned; and<br>
  * 	technological solutions will be developed as necessary to support continuity of public interest services (i.e. public alarm systems and traffic lights).</p>
 <p>These measures are vital to ensure continuity of basic services to consumers throughout Australia given the significant changes that will occur to the structure of the telecommunications industry from the rollout of the NBN, including the progressive decommissioning of Telstra's copper customer access network.</p>
 <p>Telstra will submit a Migration Plan to the ACCC for public consultation and approval which will set out the process by which its existing copper customers, including customers of other companies using Telstra's wholesale services, will migrate onto the NBN.</p>
@@ -28,7 +18,5 @@ The Gillard Government and Telstra today reached an agreement that will ensure b
 <p>The commitment to provide additional Government funding towards this important reform is an important measure that will provide industry with greater certainty to facilitate the transition to the new regime.</p>
 <p>Senator Conroy also announced today that the government has entered into a further agreement with Telstra to provide funding to assist in the retraining and redeployment of Telstra staff affected by this very significant reform.</p>
 <p>NBN Co, in conjunction with the industry and in consultation with the Commonwealth Government, will fund and undertake a public education campaign to inform consumers about the imminent migration of services from the copper-based infrastructure to the fibre optic infrastructure.</p>
-<p>More information on the new arrangements for the delivery of the Universal Service Obligation and other public telecommunications outcomes is available at <a href="http://www.dbcde.gov.au/broadband/national_broadband_network/universal_service_policy">http://www.dbcde.gov.au/broadband/national_broadband_network/universal_s...</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>More information on the new arrangements for the delivery of the Universal Service Obligation and other public telecommunications outcomes is available at <a href="http://www.dbcde.gov.au/broadband/national_broadband_network/universal_service_policy">http://www.dbcde.gov.au/broadband/national_broadband_network/universal_…</a></p>
+]]></content></item></response>

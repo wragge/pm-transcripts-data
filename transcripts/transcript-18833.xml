@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18833</transcript-id>
-    <title>Transcript of Doorstop Interview - Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/10/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18833</transcript-id><title>Transcript of Doorstop Interview - Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/10/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>JOURNALIST: What's the terror threat in Bali and are you worried going over there?</p>
 <p>PM: Look, people should always check the Department of Foreign Affairs and Trade travel advice warnings but I do want to be in Bali for the 10 year commemorations.</p>
 <p>Families will be travelling there. It will be a day in which we pay our respects and remember what that moment was like for Australians.</p>
@@ -26,6 +16,4 @@
 <p>PM: Well that's a matter for Mr Abbott to explain what he meant by those comments.</p>
 <p>JOURNALIST: What do you make of the worldwide reaction to your speech in Parliament yesterday? It got a bit of press overseas.</p>
 <p>PM: I made my speech in Parliament yesterday because I formed the view, enough is enough. I've had enough. Australian women have had enough. When I see sexism and misogyny I'm going to call them for what they are.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19025</transcript-id>
-    <title>Transcript of Interview with Karl Stefanovic, Today</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/01/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Good morning, PM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19025</transcript-id><title>Transcript of Interview with Karl Stefanovic, Today</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/01/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Good morning, PM.</p>
 <p>PM: Good morning, Karl.</p>
 <p>HOST: Nice of you to be with us this morning. An eight-month campaign, are you trying to kill us?</p>
 <p>PM: Karl, relax, relax, relax. This is not day one of the election campaign.</p>
@@ -60,6 +50,4 @@
 <p>HOST: I think the response so far from what I saw on the ground in Bundaberg has been exceptional from State and Federal Governments thus far.</p>
 <p>Appreciate your time PM on another busy day.</p>
 <p>PM: Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

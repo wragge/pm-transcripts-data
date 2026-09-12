@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41049</transcript-id>
-    <title>Press Statement - Élysée Palace, Paris</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/07/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41049</transcript-id><title>Press Statement - Élysée Palace, Paris</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/07/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>The Australian diggers fought 100 years ago, near the place of your birth and Brigitte’s, Amiens, to defend France’s liberty. My Grandfather was among them and I remember as a little boy his stories of the trenches, those grim times when he and thousands of other Australians fought and so many died to keep France free. 100 years ago.</p>
 <p>That sacrifice is remembered and it’s honoured by the people of France as it is by the people of Australia. It is a great piece of our history.</p>
 <p>Our destinies are interlinked and now a century on the brave men and women of our defence forces are serving together again in freedom’s cause to defend our nations from the threat of terrorism both in the Middle East and at home.</p>
@@ -28,6 +18,4 @@
 <p>We have shared values, shared challenges and we’ll tackle them together with the same commitment, the same courage that our grandparents and great-grandparents did all those years ago when France’s liberty was at stake and Australians and Frenchmen and women stood side-by-side to keep this Republic free.</p>
 <p>Thank you Mr President for your generous hospitality.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

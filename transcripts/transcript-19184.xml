@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19184</transcript-id>
-    <title>Transcript of Interview with Geoff Hutchison</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/03/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19184</transcript-id><title>Transcript of Interview with Geoff Hutchison</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/03/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC Perth</p>
 <p>HOST: Prime Minister Julia Gillard, welcome to the program.</p>
 <p>PM: Thank you very much, good to be here.</p>
 <p>HOST: Nice to have you here. Before we get started today, I wonder if you might be able to put to bed some rumours about superannuation.</p>
@@ -135,6 +125,4 @@
 <p>HOST: Adam, look we've passed on your details to Annie and the Prime Minister's folks will be having a yarn with you.</p>
 <p>Prime Minister, I know you have to go. Thank you very much for coming in this morning.</p>
 <p>PM: Thank you very much. Good to be here. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

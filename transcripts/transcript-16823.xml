@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16823</transcript-id>
-    <title>Transcript of interview on ABC AM with Lyndal Curtis 18 September 2009   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/09/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS: Prime Minister, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16823</transcript-id><title>Transcript of interview on ABC AM with Lyndal Curtis 18 September 2009   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/09/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS: Prime Minister, welcome to AM.</p>
 <p>PM: Good morning.</p>
 <p>CURTIS: Your reaction, first, to the death of the terrorist Noordin Mohammad Top. How much does this dent the capability and leadership of terrorism in Australia's region?</p>
 <p>PM: Our advice is that it does so significantly. This is welcome news and I congratulate the Indonesian security authorities for their success. This has been a very difficult operation over a long period of time and the credit goes to the Indonesians, through their security agencies, for doing this.</p>
@@ -52,6 +42,4 @@
 <p>Because as temperatures rise, droughts become more intense, water problems in countries like Australia get worse, the impact in tropical Australia through tropical storms gets worse, the economic cost for Australia gets much greater. It's time to act.</p>
 <p>CURTIS: Prime Minister thank you very much for your time.</p>
 <p>PM: Thank you for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

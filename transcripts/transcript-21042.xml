@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21042</transcript-id>
-    <title>Interview with David Haradaker AM Programme, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HARDACRE:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21042</transcript-id><title>Interview with David Haradaker AM Programme, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HARDACRE:</p>
 <p>And we're joined in the studio now by the Prime Minister, Mr Howard. Mr Howard, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning.</p>
@@ -50,6 +40,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I'm more interested in the benefits of it for the Iraqi people.  I feel for them.  They've had a wretched life.  This bloke murdered hundreds of thousands of them  and made their life a misery for more than a generation.  It's a fantastic thing for them that this has happened.</p>
 <p>HARDACRE:  Prime Minister, thanks very much for that.  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

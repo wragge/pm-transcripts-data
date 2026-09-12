@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17952</transcript-id>
-    <title>Government to announce price on pollution</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17952</transcript-id><title>Government to announce price on pollution</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 This weekend the Gillard Government plans to announce a price on pollution as the central element of a comprehensive policy to tackle climate change, cut pollution and drive the transformation of the Australian economy to a clean energy future.</p>
 <p>After hearing a report on the discussions of the Multi-Party Climate Change Committee, Cabinet agreed tonight that sufficient progress had been made to allow an announcement date to be set for Sunday 10 July 2011.</p>
 <p>Considerable common ground has been achieved in the MPCCC talks in recent weeks.</p>
@@ -22,6 +12,4 @@ This weekend the Gillard Government plans to announce a price on pollution as th
 <p>After announcing the policy the Government intends to introduce legislation to Parliament later this year.</p>
 <p>This will be an opportunity for all MPs to decide whether they accept the scientific advice that climate change is real and whether they accept the economic advice that a market mechanism is the cheapest and most effective way of reducing pollution.</p>
 <p>Arrangements for media will be released this evening. Arrangements for stakeholders will be announced in the coming days.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

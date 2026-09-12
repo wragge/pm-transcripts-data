@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23916</transcript-id>
-    <title>Remarks at the Official Opening of the National ANZAC Centre, Albany</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>01/11/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Your Excellency, Prime Minister, Premier, parliamentary and ministerial colleagues, particularly our ministerial colleagues from France and from Japan, Opposition Leader Shorten, distinguished guests, ladies and gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23916</transcript-id><title>Remarks at the Official Opening of the National ANZAC Centre, Albany</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>01/11/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Your Excellency, Prime Minister, Premier, parliamentary and ministerial colleagues, particularly our ministerial colleagues from France and from Japan, Opposition Leader Shorten, distinguished guests, ladies and gentlemen.</p>
 <p>Each nation is formed by its stories and each generation has to tell the stories again and make sense of them anew and to recommit ourselves to our best values.</p>
 <p>It's great that we are now helped to do that through this new interpretive centre here at Albany. It is fitting that this centre should be placed at Albany given that Albany was the jumping off point for the original ANZACS.</p>
 <p>I want to congratulate the city of Albany and everyone connected with this centre for what has been produced.</p>
@@ -25,6 +15,4 @@
 <p>In no way should the centenary of ANZAC glorify war but it should commemorate what is best in our human character and acknowledge that the worst of times can bring out the best in us.</p>
 <p>It is an honour for me to be in such company today – the living and the glorious dead – as we commemorate this marvellous centre.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

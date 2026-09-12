@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15743</transcript-id>
-    <title>Australia 2020 Summit    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will convene an Australia 2020 Summit at Parliament House on 19 and 20 April to help shape a long term strategy for the nation's future.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15743</transcript-id><title>Australia 2020 Summit    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will convene an Australia 2020 Summit at Parliament House on 19 and 20 April to help shape a long term strategy for the nation's future.</p>
 <p>The Summit will bring together some of the best and brightest brains from across the country to tackle the long term challenges confronting Australia's future  - challenges which require long-term responses from the nation beyond the usual three year electoral cycle.</p>
 <p>To do this, the Government will bring together 1000 leading Australians to the national Parliament to debate and develop long-term options for the nation across 10 critical areas:</p>
 <p>     * Future directions for the Australian economy  -  including education, skills, training, science and innovation as part of the nation's productivity agenda</p>
@@ -120,6 +110,4 @@
 <p>     * How Australia can make the greatest contribution both within and outside the framework of the United Nations in addressing the challenge of extreme poverty</p>
 <p>     * The long-term adequacy of Australia's existing foreign language capabilities to meet increasingly complex challenges presented by the globalisation.</p>
 <p>The Government may add to or amend the questions in each of these 10 challenge areas following the settlement of conference participants. Full agenda papers will be circulated to conference participants approximately one month prior to the Summit.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

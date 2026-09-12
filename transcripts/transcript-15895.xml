@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15895</transcript-id>
-    <title>Interview with Mike Carlton and Sandy Aloisi, Radio 2UE   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/05/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM:Like many Australian's, I've woken up this morning to this appalling news about what happened in Sydney overnight. This is every parents' nightmare, I just am stunned by this. It's just terrible news and for parents, this is, for the parents of those who have lost their lives, this is just a terrible, terrible day, just terrible.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15895</transcript-id><title>Interview with Mike Carlton and Sandy Aloisi, Radio 2UE   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/05/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM:Like many Australian's, I've woken up this morning to this appalling news about what happened in Sydney overnight. This is every parents' nightmare, I just am stunned by this. It's just terrible news and for parents, this is, for the parents of those who have lost their lives, this is just a terrible, terrible day, just terrible.</p>
 <p>CARLTON:They all appear to be very young too, in their 20's and 30's. We don't know how they are on the harbour, but a harbour tragedy always affects us here in Sydney.</p>
 <p>PM:Well, I can understand, because when I'm in Sydney, and I am in Sydney a lot and so much of Sydney's life and activity happens in and around the harbour, or the harbour foreshores or on the harbour itself.</p>
 <p>And so many young people go out on the harbour on cruises and the like. And people go out to celebrate and have a good time and for this to be the end of it, it's just breathtaking really. I had to be told twice this morning, this is what had happened, because I thought I had misheard.</p>
@@ -61,6 +51,4 @@
 <p>PM:Absolutely. I have said that before and I will say it again. And this is a very difficult set of decisions, that he and the Government confront in terms of the future of electricity generation in NSW. These are very tough decisions, they are very hard decisions. But at the same time I would be encouraging everyone to take a deep breath and try and find a way up the middle of this.</p>
 <p>ALOISI: Alright Prime Minister, thanks for your time this morning</p>
 <p>PM:Appreciate it Sandy, thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23688</transcript-id>
-    <title>National Day of Mourning and National Memorial Service for the victims of Flight MH17</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>31/07/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government has declared Thursday 7 August 2014 to be a National Day of Mourning to honour the victims of Malaysia Airlines Flight MH17.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23688</transcript-id><title>National Day of Mourning and National Memorial Service for the victims of Flight MH17</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>31/07/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government has declared Thursday 7 August 2014 to be a National Day of Mourning to honour the victims of Malaysia Airlines Flight MH17.</p>
 <p>On this day, flags on all Government buildings, here and overseas, will be flown at half-mast.</p>
 <p>The Government has arranged for a National Memorial Service to take place at St Patrick’s Cathedral, Melbourne, at 10.30am on Thursday 7 August 2014.</p>
 <p>The Service will honour those who have lost their lives and seek to support those who have been bereaved.</p>
@@ -23,6 +13,4 @@
 <p>Arrangements have also been made for the outside broadcast of the National Memorial Service in anticipation of large crowds wanting to support the families of those lost on Flight MH17.</p>
 <p>Those wishing to attend the National Memorial Service should contact a Ceremonial and Protocol Officer on (02) 6271 5991 or (02) 6271 5209 or via email at <a href="mailto:MemorialService@pmc.gov.au">MemorialService@pmc.gov.au</a> up until 12 noon on Wednesday 6 August 2014.</p>
 <p>31 July 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

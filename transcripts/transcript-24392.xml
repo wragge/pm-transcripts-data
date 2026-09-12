@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24392</transcript-id>
-    <title>Interview with Scott Bevan, ABC News</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/04/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Anzac Day commemorations.</subjects>
-    <content><![CDATA[<p>SCOTT BEVAN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24392</transcript-id><title>Interview with Scott Bevan, ABC News</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/04/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Anzac Day commemorations.</subjects><content><![CDATA[<p>SCOTT BEVAN:</p>
 <p>The Prime Minister Tony Abbott has just arrived here on the Anzac Peninsula, on the Gallipoli Peninsula on Anzac Cove following security talks in Ankara and Istanbul. Tony Abbott joins me now. Prime Minister, thank you so much for your time.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
@@ -44,6 +34,4 @@
 <p>SCOTT BEVAN:</p>
 <p>Thank you. The Prime Minister, Tony Abbott, joining us here in Shrapnel Valley.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

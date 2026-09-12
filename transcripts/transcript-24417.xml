@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24417</transcript-id>
-    <title>Funding certainty for preschools</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>03/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will provide $840 million over two years for preschool programmes across Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24417</transcript-id><title>Funding certainty for preschools</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>03/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will provide $840 million over two years for preschool programmes across Australia.</p>
 <p>The Government will do this by extending funding to the states and territories under the National Partnership Agreement on Universal Access to Early Childhood Education.</p>
 <p>This will ensure Australian families can continue to access up to 600 hours of preschool education a year in 2016 and 2017.</p>
 <p>For the first time, the new funding will be indexed against the CPI to make sure families do not lose out in real terms. Linking funding to the CPI will mean an extra $30 million over the 2016 and 2017 calendar years.</p>
@@ -21,6 +11,4 @@
 <p>Universal Access has been raised with the government as part of the consultations for our families package focused on providing more support for families to access child care and early childhood learning. The government will have more to say on this in coming weeks.</p>
 <p>
 3 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

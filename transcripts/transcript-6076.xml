@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6076</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>05/04/1983</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006076.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 5 Ppril 1983<br />
-His Royal Highness The Prince Edward is to make a Private<br />
-Visit to Australia, arriving on Friday 15 April.<br />
-He will visit friends in Armidale and will leave from<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6076</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>05/04/1983</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006076.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 5 Ppril 1983<br>
+His Royal Highness The Prince Edward is to make a Private<br>
+Visit to Australia, arriving on Friday 15 April.<br>
+He will visit friends in Armidale and will leave from<br>
 Sydney on Tuesday 19 April to return to New Zealand. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

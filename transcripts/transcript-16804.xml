@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16804</transcript-id>
-    <title>Interview with Eddie McGuire Triple M Radio   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/09/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>McGUIRE: Thank you Prime Minister for joining us this morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16804</transcript-id><title>Interview with Eddie McGuire Triple M Radio   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/09/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>McGUIRE: Thank you Prime Minister for joining us this morning.</p>
 <p>PM: Good morning Eddie, thanks for having us on the program. It's grey and raining in Canberra. There you go, Melbourne outdoes us with the weather, for once.</p>
 <p>McGUIRE: Melbourne's doing very well. Luke Darcy with a question for you, Prime Minister.</p>
 <p>DARCY: Prime Minister, saw you at the footy on Saturday night, a very happy Brisbane Lions supporter, you had the scarf around, you were up and about out of your chair-</p>
@@ -35,6 +25,4 @@
 <p>DARCY: I certainly will, and commiserations to your Brisbane Lions ahead of Friday night. No chance for them.</p>
 <p>PM: Well, it's going to be an interesting evening. I'm looking forward to it.</p>
 <p>McGUIRE: Good on you Prime Minister. Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

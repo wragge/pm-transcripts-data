@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40661</transcript-id>
-    <title>Joint Press Conference with the Minister for Urban Infrastructure, the Hon. Paul Fletcher MP</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/12/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40661</transcript-id><title>Joint Press Conference with the Minister for Urban Infrastructure, the Hon. Paul Fletcher MP</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/12/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>The Western Sydney Airport is now approved for take-off. This is a gigantic infrastructure investment in Western Sydney. It is the first time that all of the approvals have been given and we can now look forward to the first flights, Minister –</p>
 <p><strong>MINISTER FOR URBAN INFRASTRUCTURE:</strong></p>
 <p>In the mid-2020s.</p>
@@ -87,6 +77,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

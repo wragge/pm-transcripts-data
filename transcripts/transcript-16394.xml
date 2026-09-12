@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16394</transcript-id>
-    <title>Assistance for North Queensland Floods    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced additional assistance to residents in Far North and Northern Queensland seriously affected by the floods.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16394</transcript-id><title>Assistance for North Queensland Floods    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced additional assistance to residents in Far North and Northern Queensland seriously affected by the floods.</p>
 <p>Those eligible will be able to receive a one-off lump sum payment of $1000 for adults and $400 for each child to help support their recovery. </p>
 <p>This will be available through Centrelink.</p>
 <p>The Australian Government Disaster Recovery Payment will be made available to those people adversely affected by the flooding that commenced in the Far North/Northern Queensland regions on 31 January 2009.</p>
@@ -20,6 +10,4 @@
 <p>This assistance is over and above the support being provided by the Commonwealth Government under the long standing Natural Disaster Relief and Recovery Arrangements.</p>
 <p>Through these arrangements, partial reimbursement is provided to the Queensland Government to provide assistance such as grants for food, clothing, accommodation, emergency housing repairs and for expenditure on public infrastructure restoration.</p>
 <p>More information on Australian Government assistance will be available at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21118</transcript-id>
-    <title>Interview with Ron Lock, Radio 3GG  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/02/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LOCK:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21118</transcript-id><title>Interview with Ron Lock, Radio 3GG  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/02/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LOCK:</p>
 <p>Prime Minister, a very good morning and welcome to not only 3GG but to Gippsland Sir.</p>
 <p>PRIME MINISTER:</p>
 <p>Well, thank you very much. I am very much looking forward to the area today.</p>
@@ -46,6 +36,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you very much Ron.  Bye, bye.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

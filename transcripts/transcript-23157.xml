@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23157</transcript-id>
-    <title>Interview with Louise Yaxley, ABC AM Radio </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>12/12/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Holden,  Toyota.</subjects>
-    <content><![CDATA[<p><strong>LOUISE YAXLEY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23157</transcript-id><title>Interview with Louise Yaxley, ABC AM Radio </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>12/12/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Holden, Toyota.</subjects><content><![CDATA[<p><strong>LOUISE YAXLEY: </strong></p>
 <p>Good morning, Mr Abbott. Could you have saved thousands of Holden workers’ jobs by reversing your decision to cut $500 million from car industry assistance?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>We were more than happy to offer continuing generous assistance to Holden as part of the package of assistance which goes to the motor industry, but Holden were hit by a ‘perfect storm’, as they themselves have said – high costs, high dollar and small markets – and that, tragically, is why Holden won’t be manufacturing in this country after 2017.</p>
@@ -67,6 +57,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you, Louise.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

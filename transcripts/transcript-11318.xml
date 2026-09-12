@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11318</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT THE NATIONAL YOUTH ROUNDTABLE LUNCH                 THE GREAT HALL, PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/03/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11318</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT THE NATIONAL YOUTH ROUNDTABLE LUNCH                 THE GREAT HALL, PARLIAMENT HOUSE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/03/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>Well, I'd like to thank my colleague David Kemp for that introduction.</p>
 <p> To my other ministerial and parliamentary colleagues, and to the members</p>
 <p> of the Youth Roundtable.</p>
@@ -109,6 +99,4 @@
 <p>ent, than any nation on Earth, and a nation which I know we are all</p>
 <p> very proud to call our own. Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

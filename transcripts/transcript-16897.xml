@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16897</transcript-id>
-    <title>Transcript of interview on 4BC with Greg Cary  Brisbane  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CARY: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16897</transcript-id><title>Transcript of interview on 4BC with Greg Cary  Brisbane  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CARY: Prime Minister, good morning.</p>
 <p>PM: Good morning, Greg. Thanks for having me on the program. How did you go in the Cup?</p>
 <p>CARY: Not nearly as well as you. I could say shocking, but so could you.</p>
 <p>PM: Exactly. All I can say is the moral of that story is that the less you know about horse racing, the better.</p>
@@ -97,6 +87,4 @@
 <p>CARY: Well, Prime Minister Kevin Rudd, with whom we will speak the day before the Melbourne Cup next year.</p>
 <p>PM: Thanks very much Greg, and it has been a 'Shocking' day.</p>
 <p>(ENDS)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

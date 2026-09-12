@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16460</transcript-id>
-    <title>Interview with Simon Beaumont Radio 6PR, Perth   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/03/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BEAUMONT: The Prime Minister of Australia is in Perth and he joins me on the program now. Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16460</transcript-id><title>Interview with Simon Beaumont Radio 6PR, Perth   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/03/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BEAUMONT: The Prime Minister of Australia is in Perth and he joins me on the program now. Mr Rudd, good morning.</p>
 <p>PM: Good morning Simon. Thanks for having me on your program.</p>
 <p>BEAUMONT: Kevin, can I ask have you looked at the paper this morning? Have you seen the community reaction to these acquittals?</p>
 <p>PM: I must admit, I got into Perth at one o'clock this morning local time, coming from Canberra, and the first thing I read this morning was the front page of The West Australian. I had to read this article twice. I mean, I'm stunned by it all. I'm reluctant to comment on the individual details of the case because I'm simply not familiar with them because I've been in Canberra.</p>
@@ -51,6 +41,4 @@
 <p>BEAUMONT: Alright. Mr Rudd thanks for your time this morning.</p>
 <p>PM: Thanks Simon.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

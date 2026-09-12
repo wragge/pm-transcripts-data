@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7501</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>21/02/1989</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007501.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 21 FEBRUARY 1989<br />
-Their Excellencies the Governor-General and Mrs Hayden will<br />
-represent Australia at the funeral of the late Emperor<br />
-Hirohito of Japan on Friday 24 February. Their<br />
-Excellencies will be out of Australia from 23 to 27<br />
-February. They will be accompanied at the funeral by the<br />
-Minister for Trade Negotiations, Mr Duffy.<br />
-While the Governor-General is absent from Australia, Sir<br />
-Donald Beaumont Dunstan, Governor of South Australia, will<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7501</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>21/02/1989</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007501.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 21 FEBRUARY 1989<br>
+Their Excellencies the Governor-General and Mrs Hayden will<br>
+represent Australia at the funeral of the late Emperor<br>
+Hirohito of Japan on Friday 24 February. Their<br>
+Excellencies will be out of Australia from 23 to 27<br>
+February. They will be accompanied at the funeral by the<br>
+Minister for Trade Negotiations, Mr Duffy.<br>
+While the Governor-General is absent from Australia, Sir<br>
+Donald Beaumont Dunstan, Governor of South Australia, will<br>
 act as Administrator of the Commonwealth. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

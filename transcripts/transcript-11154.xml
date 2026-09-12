@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11154</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          RADIO INTERVIEW WITH ALAN JONES (2UE)                                     SUBJECTS: Prime Minister&#039;s visit to East Timor, Richard Branson.</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/11/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.............</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11154</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          RADIO INTERVIEW WITH ALAN JONES (2UE)                                     SUBJECTS: Prime Minister&#039;s visit to East Timor, Richard Branson.]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/11/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.............</p>
 <p>  JONES:</p>
 <p>  Well, the Prime Minister climbed on top of a tankard armoured personnel</p>
 <p>   carrier yesterday and thanked the troops in the border town of Maliana on</p>
@@ -147,6 +137,4 @@
 <p>  PRIME MINISTER:</p>
 <p>  Bye.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

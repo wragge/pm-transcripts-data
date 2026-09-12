@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24303</transcript-id>
-    <title>Press Statement, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/03/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our country has lost its 22nd Prime Minister, the Right Honourable Malcolm Fraser.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24303</transcript-id><title>Press Statement, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/03/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our country has lost its 22nd Prime Minister, the Right Honourable Malcolm Fraser.</p>
 <p>It is a sad moment for all Australians. It's a particularly sad day for all who cheered Malcolm Fraser on in those stirring days when he led the fight against what many of us thought was a bad government – the days of 1975.</p>
 <p>As our nation's leader between 1975 and 1983, Malcolm Fraser restored economically responsible government while recognising social change.</p>
 <p>In a long and active retirement, he maintained a keen interest in our country's direction. Of course, the constitutional crisis of 1975 was one of the defining political events in our country's history.</p>
@@ -31,6 +21,4 @@
 <p>The sympathies of all Australians today go out to Tamie, to their children and grandchildren.</p>
 <p>As I say, this is a sad moment for all of us. But it's a particularly sad moment for all of those whose cause Malcolm Fraser has championed.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

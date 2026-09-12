@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12182</transcript-id>
-    <title>Appointment of Departmental Secretaries Department of the Treasury and Department of Communications, Information Technology and the Arts</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/02/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the appointment of two new Secretaries to head Commonwealth Departments.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12182</transcript-id><title>Appointment of Departmental Secretaries Department of the Treasury and Department of Communications, Information Technology and the Arts</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/02/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the appointment of two new Secretaries to head Commonwealth Departments.</p>
 <p>Following decisions by Mr Ted Evans and Mr Neville Stevens not to seek re?appointment when their current terms of appointment end on 26 April 2001, it has become necessary to appoint new Secretaries to the positions of Secretary of the Department of the Treasury and Secretary of the Department of Communications, Information Technology and the Arts.</p>
 <p>I have appointed Dr Ken Henry to be Secretary of the Department of the Treasury. Dr Henry has had an impressive career of 16 years in that Department and has been Executive Director of the Economic Group since 1998. He has had principal responsibility within Treasury for advice on macroeconomic policy and international economic policy in recent years.</p>
 <p>I have appointed Dr Ian Watt to be the Secretary of the Department of Communications, Information Technology and the Arts. Dr Watt is currently the Executive Co-ordinator of the Economic, Industry and Resources Policy Group in the Department of the Prime Minister and Cabinet, having previously held positions as First Assistant Secretary of the Economic Division in that Department and Minister (Economic) in Washington during his time with the Department of the Treasury.</p>
@@ -17,6 +7,4 @@
 <p>Mr Stevens has expressed a wish to take leave from mid March and it is therefore intended that Dr Watt will act as Secretary of the Department of Communications, Information Technology and the Arts from that time until the commencement of his substantive appointment in April. I extend my appreciation to Mr Stevens for the valuable contributions he has made during his career in the Australian Public Service and particularly in his leadership roles in the Industry and Communications portfolios.</p>
 <p>Although Mr Evans will continue in his current position for some little time yet, I take this opportunity to pay tribute to his distinguished career in Treasury over more than 30 years. At the time of his retirement in April, I propose to express more fully the Government's appreciation of the important contribution he has made to Australian economic policy.</p>
 <p>19 February 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

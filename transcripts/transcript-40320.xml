@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40320</transcript-id>
-    <title>Radio interview with Adelaide ABC 891</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/04/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRESENTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40320</transcript-id><title>Radio interview with Adelaide ABC 891</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/04/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRESENTER:</strong></p>
 <p>Good Morning Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good Morning.</p>
@@ -99,6 +89,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

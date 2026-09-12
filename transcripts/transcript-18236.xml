@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18236</transcript-id>
-    <title>Transcript of doorstop interview, Perth</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18236</transcript-id><title>Transcript of doorstop interview, Perth</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much, I don't have much time available as I am due upstairs for the final session of the Commonwealth Heads of Government Meeting. I just wanted to make a few statements about the Qantas dispute.</p>
 <p>Yesterday the Government stepped in to see this dispute resolved. We made application to Fair Work Australia to have our industrial umpire deal with this dispute. Our industrial umpire commenced to deal with this dispute late last night. Our industrial umpire adjourned proceedings until today and those proceedings are in train as we speak.</p>
 <p>The Government in this matter is seeking to bring industrial action to an end and to have the dispute resolved so that we can proceed with certainty with our iconic airline Qantas proceeding properly and with circumstances where employees and Qantas know what the future holds for them.</p>
@@ -30,6 +20,4 @@ PM: Thank you very much, I don't have much time available as I am due upstairs f
 <p>JOURNALIST: Prime Minister are you angry at Qantas for taking this action in this manner without informing the Government first? </p>
 <p>PM: Well Minister Albanese dealt with the question of notifications in his press conference yesterday.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

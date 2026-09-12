@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12128</transcript-id>
-    <title>Excise on Draught Beer</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government will introduce into the House tariff proposals to change the rates of excise and customs duty on draught beer.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12128</transcript-id><title>Excise on Draught Beer</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government will introduce into the House tariff proposals to change the rates of excise and customs duty on draught beer.</p>
 <p>It has become clear that neither the Australian Labor Party nor the Australian Democrats were prepared to support in the Senate the bills implementing the Government's election commitments.</p>
 <p>The Australian Democrats had indicated that they would vote against these bills insofar as they increase the excise and customs duty on draught beer to an extent that the price increased by more than 1.9% as a result of the tax changes.</p>
 <p>The Government has reached agreement with the Australian Democrats in order to resolve this impasse.</p>
@@ -18,6 +8,4 @@
 <p>In addition, an amount equivalent to the difference between the excise collections on draught beer since 1 July 2000 and the amount that would have been collected using the new rates (with the exception outlined below) will be appropriated and allocated to an independent foundation to be called the 'Alcohol Education and Rehabilitation Foundation'.</p>
 <p>A small amount will be allocated to an initiative for the restoration and preservation of historic hotels in rural and regional Australia.</p>
 <p>3 April 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

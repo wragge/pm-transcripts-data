@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15943</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/05/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL:Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15943</transcript-id><title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/05/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL:Mr Rudd, good morning.</p>
 <p>PM: Good morning, Neil.</p>
 <p>MITCHELL:Is it correct that under your FuelWatch legislation that, in fact, companies that bring down the price of petrol could be fined for doing it?</p>
 <p>PM:   Well, as in Western Australia, there is am enforcement regime which means if the information provided to the FuelWatch scheme is wrong, or if the prices vary during the day, then, of course, that's when the enforcement regime applies. </p>
@@ -154,6 +144,4 @@
 <p>MITCHELL:These things happen. Not one little profanity? </p>
 <p>PM:No it is just one of those things. You know, you get elected to do a job, and our job is to do what you can to help families with their budgets and a few practical things like that. </p>
 <p>MITCHELL:Prime Minister, in Sydney. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

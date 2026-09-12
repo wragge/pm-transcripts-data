@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17680</transcript-id>
-    <title>Transcript of interview with Simon Mercep, Radio New Zealand</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17680</transcript-id><title>Transcript of interview with Simon Mercep, Radio New Zealand</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: The Prime Minister Julia Gillard is with us here in our Wellington studio. Welcome.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Good to see you with us here at Morning Report. First of all Prime Minister, New Zealanders have been voting with their feet and going to Australia for a long time and they continue to do so. If we open up this economic relationship even further, isn't New Zealand going to lose out even more?</p>
@@ -76,6 +66,4 @@ HOST: The Prime Minister Julia Gillard is with us here in our Wellington studio.
 <p>PM: Oh, look, I'm certainly in favour of a republic and Australians around their, you know, coffee tables when they're having a cup of coffee would often muse on it and I think it is important that that debate continues and I'm sure it will.</p>
 <p>HOST: Thank you very, very much indeed for joining us this morning. That's the Australian Prime Minister, Julia Gillard. Thank you for coming into Radio New Zealand this morning.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

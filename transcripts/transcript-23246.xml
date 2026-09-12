@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23246</transcript-id>
-    <title>Australia honours the late Corporal Cameron Stewart Baird MG</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/02/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia’s highest military honour – the Victoria Cross for Australia – will be awarded posthumously to the late Corporal Cameron Stewart Baird MG.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23246</transcript-id><title>Australia honours the late Corporal Cameron Stewart Baird MG</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/02/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia’s highest military honour – the Victoria Cross for Australia – will be awarded posthumously to the late Corporal Cameron Stewart Baird MG.</p>
 <p>On 22 June 2013 Corporal Baird displayed conspicuous valour leading to the ultimate sacrifice in close combat with a determined enemy as a Commando Team Leader in Uruzgan Province, Afghanistan.</p>
 <p>He repeatedly drew enemy fire away from his team members and charged enemy positions under heavy fire.</p>
 <p>His actions enabled the enemy to be neutralised and his team to be kept safe.</p>
@@ -20,6 +10,4 @@
 <p>Corporal Baird’s Victoria Cross for Australia will be presented to his parents – Doug and Kaye Baird – at a ceremony at Government House next Tuesday by the Governor-General, Her Excellency the Hon Quentin Bryce AC CVO.</p>
 <p>Corporal Baird will be Australia’s 100th Victoria Cross holder.</p>
 <p>13 February 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

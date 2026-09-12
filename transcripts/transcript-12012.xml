@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12012</transcript-id>
-    <title>Interview with Kerry O&#039;Brien 7.30 Report, ABC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/01/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: innovation statement; research and development; Labor's policies; election</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12012</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien 7.30 Report, ABC]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/01/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: innovation statement; research and development; Labor's policies; election</p>
 <p>E&amp;OE................................</p>
 <p>KERRY O'BRIEN:</p>
 <p>Matt Brown with that report, and I'm joined now by the Prime Minister from our Parliament House studio. Prime Minister let's start with that very last point that Kim Beazley made, what's your response to that.</p>
@@ -132,6 +122,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

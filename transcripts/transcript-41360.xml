@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41360</transcript-id>
-    <title>Maintaining a Strong and Secure Australia</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/12/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>There is no greater responsibility for any government than to ensure the safety and security of its people.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41360</transcript-id><title>Maintaining a Strong and Secure Australia</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/12/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>There is no greater responsibility for any government than to ensure the safety and security of its people.</p>
 <p>Earlier this year, the Australian Government announced the most significant reform to Australia’s intelligence and security landscape in decades by establishing a new Home Affairs portfolio, creating an Office of National Intelligence (subsuming the existing Office of National Assessments), and transforming the Australian Signals Directorate into a statutory agency.</p>
 <p>The new Office of National Intelligence, to be established in 2018, will play a key role in coordinating strategy and capability development across the national intelligence community.</p>
 <p>Today the Australian Government is pleased to announce Mr Nick Warner AO PSM as the new Director-General of the Office of National Assessments and as the Director-General designate of National Intelligence. In this Secretary-equivalent role, Mr Warner will drive establishment of the Office of National Intelligence and lead Australia’s intelligence community.</p>
@@ -25,6 +15,4 @@
 <p>Finally, I wish to thank Mr Bruce Miller, one of Australia’s most senior diplomats and a former Ambassador to Japan, for leading the Office of National Assessments while Mr Richard Maude led the preparation of the Australian Government’s Foreign Policy White Paper. Mr Miller has previously advised that he was intending to retire in the near term and I wish him all the best.</p>
 <p>Mr Maude has served with diligence and professionalism as Director-General of the Office of National Assessments and has played an outstanding role on the Foreign Policy White Paper.</p>
 <p>He has been appointed to the position of Deputy Secretary in the Department of Foreign Affairs and Trade.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

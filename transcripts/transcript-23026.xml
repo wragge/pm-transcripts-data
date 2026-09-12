@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23026</transcript-id>
-    <title>Attendance at APEC Economic Leaders&#039; Meeting and East Asia Summit</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/10/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, I will travel to the APEC Economic Leaders’ Meeting which will take place in Bali, Indonesia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23026</transcript-id><title><![CDATA[Attendance at APEC Economic Leaders&#039; Meeting and East Asia Summit]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/10/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, I will travel to the APEC Economic Leaders’ Meeting which will take place in Bali, Indonesia.</p>
 <p>From October 6-9, I will have a series of bilateral meetings to discuss our regional priorities including trade and investment.</p>
 <p>Australia has a long record of engagement at APEC, as a founding member in 1989 and APEC host in 2007.</p>
 <p>APEC’s 21 member economies represent 56 per cent of the world’s GDP and $437.8 billion, or over 70 per cent, of Australia’s trade in goods and services.</p>
@@ -22,6 +12,4 @@
 <p>EAS member countries are crucial to Australia’s prosperity: 68 per cent of our total two-way trade is with EAS countries, and nine of Australia’s top ten trading partners are EAS members.</p>
 <p>The EAS provides a platform for the region to discuss important security and economic challenges.</p>
 <p>6 October 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

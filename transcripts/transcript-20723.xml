@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20723</transcript-id>
-    <title>Interview with David Koch and Melissa Doyle Sunrise, Channel Seven   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/03/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20723</transcript-id><title>Interview with David Koch and Melissa Doyle Sunrise, Channel Seven   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/03/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH:</p>
 <p>Prime Minister, good morning and thanks for joining us. Colin Powell has overnight tended to indicate that maybe there is no need to go back to the United Nations for a second resolution. Do you agree with that?</p>
 <p>PRIME MINISTER:</p>
 <p>I think at the moment everything is so fluid, as it often is in these situations, that I'm not going to say one way or the other what might or might not happen. We have supported the desirability of the 18th resolution, not the 2nd, the 18th resolution on Iraq being passed by the Security Council, not because it's needed legally, it's not needed legally, but it would perhaps produce a more united international political commitment. That's the reason why we've supported it. Now the question of what finally emerges, whether an 18th resolution emerges or not, I'm not going to at this stage because of the known fluidity of the situation, I'm not going to predict.</p>
@@ -65,6 +55,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

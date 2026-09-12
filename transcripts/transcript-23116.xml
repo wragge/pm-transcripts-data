@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23116</transcript-id>
-    <title>Prime Minister&#039;s Australian Exporter of the Year Award</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>26/11/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Victorian company RightShip is the winner of the Prime Minister’s Australian Exporter of the Year award.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23116</transcript-id><title><![CDATA[Prime Minister&#039;s Australian Exporter of the Year Award]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>26/11/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Victorian company RightShip is the winner of the Prime Minister’s Australian Exporter of the Year award.</p>
 <p>RightShip provides the world’s most comprehensive online marine and environmental risk management system and exports its ship vetting services to the global maritime industry.</p>
 <p>Vetting identifies and analyses a ship, enabling customers to remove substandard ships from their supply chain, minimising the risk of marine incidents, loss of lives, cargo and environmental damage.</p>
 <p>The company has customers in 40 countries, undertakes ship inspections in 114 countries and generates 84 per cent of its revenue outside Australia.</p>
@@ -22,6 +12,4 @@
 <p>Trade and foreign investment adds to economic growth and the improvement of living standards for all Australians.</p>
 <p>I congratulate all involved in this year’s Australian Export Awards.</p>
 <p>26 November 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

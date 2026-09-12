@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21095</transcript-id>
-    <title>Doorstop Interview, Western Australia  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/02/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21095</transcript-id><title>Doorstop Interview, Western Australia  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/02/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>[inaudible]</p>
 <p>PRIME MINISTER:</p>
 <p>Yes, certainly.  And just for the record this doorstop has been called because you';ve asked for one!  Okay.</p>
@@ -83,6 +73,4 @@
 <p>Well the Reserve Bank has an independent role in the setting of monetary policy and I';m not going to tell the Reserve Bank how to phrase its press releases, you either let it have its role in monetary policy or not.  There';s no doubt that the bank has good reason for the decision that it has taken, I simple not the fact that the average home buyer as a result of the interest rate falls under my government is about $540 a month better off than it would have been if the high interest rates of Labor had continued.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11772</transcript-id>
-    <title>Television Interview wtih Steve Liebmann Today Show, Channel 9</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/07/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Tony Abbott; independent contractors; Beijing Olympic bid.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11772</transcript-id><title>Television Interview wtih Steve Liebmann Today Show, Channel 9</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/07/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Tony Abbott; independent contractors; Beijing Olympic bid.</p>
 <p>E&amp;OE................................</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Steve.</p>
@@ -106,6 +96,4 @@
 <p>PRIME MINISTER:</p>
 <p>You're welcome.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

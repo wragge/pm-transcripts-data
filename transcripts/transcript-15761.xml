@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15761</transcript-id>
-    <title>Joint Press Conference, Prime Minister Rudd and Prime Minister Gusmao, Dili, East Timor  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM GUSMAO:Ladies and Gentlemen, Firstly, it is with great warmth that I welcome the Prime Minister of Australia, the Honourable Kevin Rudd to Timor-Leste </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15761</transcript-id><title>Joint Press Conference, Prime Minister Rudd and Prime Minister Gusmao, Dili, East Timor  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM GUSMAO:Ladies and Gentlemen, Firstly, it is with great warmth that I welcome the Prime Minister of Australia, the Honourable Kevin Rudd to Timor-Leste </p>
 <p>Prime Minister, I welcome you on behalf of the Fourth Constitutional Government of Timor-Leste and behalf of the citizens of our humble nation.</p>
 <p>By travelling to Timor-Leste, Mr Rudd has extended the hand of solidarity between nations and demonstrated that regional peace is a priority.</p>
 <p>The swift and immediate response to Timor-Leste during this time of insecurity is a sign that our neighbours have great faith in our young democracy.</p>
@@ -54,6 +44,4 @@
 <p>JOURNALIST: Mr Rudd will you be meeting Mari Alkatiri today? </p>
 <p>PM RUDD: I will be meeting Mari Alkatiri from Fretilin and I look forward to those discussions as well. This is a democracy and when heads of government from East Timor visited Australia I have met them both as Opposition Leader and Prime Minister. That is the way in which democracies work around the world and I am sure the health of this democracy accommodates that as well in this country. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

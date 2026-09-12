@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18754</transcript-id>
-    <title>“Victoria at the starting line”, Victoria the Crossroads conference, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/08/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne Convention and Exhibition Centre</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18754</transcript-id><title>“Victoria at the starting line”, Victoria the Crossroads conference, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/08/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne Convention and Exhibition Centre</p>
 <p>CHECK AGAINST DELIVERY</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>I'm a proud Australian but I'm a proud Victorian too. In Australia, I adopted a country. In Victoria, I adopted a State. I came here three decades ago and found the place to call home. I'll grow old here waiting for the Dogs to win the flag!</p>
@@ -171,6 +161,4 @@
 <p>And, most importantly, where we win these races together.</p>
 <p>Because in the Australia I lead, no State, no region, no person should be left behind.</p>
 <p>And I'm here to say loud and clear today: Victoria will not be left behind.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16031</transcript-id>
-    <title>Joint Media Release with the Minister for Infrastructure, Anthony Albanese, Australian Government to Support Fast Growing North  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/07/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced it will fund two studies to assist the Northern Territory with the expansion of Darwin's East Arm Port.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16031</transcript-id><title>Joint Media Release with the Minister for Infrastructure, Anthony Albanese, Australian Government to Support Fast Growing North  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/07/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced it will fund two studies to assist the Northern Territory with the expansion of Darwin's East Arm Port.</p>
 <p>This announcement follows Chief Minister Paul Henderson's far-sighted announcement today to fund a significant expansion of Darwin port's facilities</p>
 <p>The Australian Government will fund two separate studies associated with this long term investment in Northern Territory economic infrastructure.</p>
 <p>The ‘All Tide Access' study will assess the needs of Darwin's East Arm Port to ensure ‘all tide' access for LNG, Panamax size and larger vessels.</p>
@@ -22,6 +12,4 @@
 <p>The expanding resource and mining sectors in the Northern Territory are placing increasing pressure on the Port of Darwin.</p>
 <p>This announcement today demonstrates the Northern Territory Government's commitment to building the economic prosperity of northern Australia.</p>
 <p>It is important that we start work now to increase the capacity of the port to enable it to manage the increasing throughput as demand for Territory's mining and energy resources grows.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

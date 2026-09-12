@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15932</transcript-id>
-    <title>Kirribilli House to open for Australian Charities    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/05/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd will open the doors of Kirribilli House in Sydney so that registered Australian Charities can use it for fundraising events.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15932</transcript-id><title>Kirribilli House to open for Australian Charities    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/05/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd will open the doors of Kirribilli House in Sydney so that registered Australian Charities can use it for fundraising events.</p>
 <p>Charities with a national focus, such as St Vincent de Paul and The Salvation Army, will be invited to provide proposals to the Government to use the official residence for a fundraising event.</p>
 <p>Up to ten charities will secure the right to hold a fundraiser at Kirribilli House each year.</p>
 <p>The Prime Minister believes charity organisations may wish to use Kirribilli House for open days, receptions, dinners or garden tours to raise funds for the important work they undertake for disadvantaged Australians.</p>
@@ -18,6 +8,4 @@
 <p>“Therese and I really hope that Australian charities can use this official residence to raise funds to support their critical work.”</p>
 <p>The Department of Prime Minister and Cabinet will initially undertake an expression of interest project to gauge the interest levels of Australian National Charities that wish to use Kirribilli.</p>
 <p>The Department of Prime Minister and Cabinet will then examine the strength of proposals for specific events and work with charities to coordinate their events. Charities will not pay a fee to use Kirribilli for their event, however they will pay for the cost of holding the event  -  i.e. catering and staff.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

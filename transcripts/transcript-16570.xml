@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16570</transcript-id>
-    <title>$4.3 Billion Regional Rail express to create jobs and help suburban and reigonal passengers    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/05/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Premier of Victoria today welcomed the announcement of funding for the new $4.3 billion Regional Rail Express  -  the biggest single investment in the metropolitan rail project since the city loop was built and the first major new rail line for metropolitan Melbourne in 80 years.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16570</transcript-id><title>$4.3 Billion Regional Rail express to create jobs and help suburban and reigonal passengers    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/05/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Premier of Victoria today welcomed the announcement of funding for the new $4.3 billion Regional Rail Express  -  the biggest single investment in the metropolitan rail project since the city loop was built and the first major new rail line for metropolitan Melbourne in 80 years.</p>
 <p>The project involves:</p>
 <p>     * a 40 kilometre dual track link from West Werribee to central Melbourne's Southern Cross Station via Sunshine;</p>
 <p>     * construction of a new rail line from Werribee to Deer Park;</p>
@@ -35,6 +25,4 @@
 <p>It will support an additional 120 trains during peak periods each day, or an additional 84,000 commuters. Construction on the tunnel is expected to commence in 2012 and is scheduled for completion in 2018.</p>
 <p>These investments are part of the Federal Government's $22 billion infrastructure investment in the 2009-10 Budget, which includes rail, roads, ports, energy, broadband, and health and education infrastructure.</p>
 <p>The Australian Government's nation-building initiatives include $7.9 billion in road and rail infrastructure in Victoria.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

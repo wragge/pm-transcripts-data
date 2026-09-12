@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17864</transcript-id>
-    <title>Prime Minister opens Tamworth Sports Dome</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17864</transcript-id><title>Prime Minister opens Tamworth Sports Dome</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today said the new Tamworth Sports Dome will offer unparalleled sporting opportunities for people in the New England region.</p>
 <p>The Prime Minister joined the Member for New England, Tony Windsor for the official opening of the Tamworth Sports Dome in northern New South Wales today.</p>
 <p>The Gillard Labor Government provided $5 million through its $1.1 billion Regional and Local Infrastructure Program to help build the indoor sports centre.</p>
@@ -24,6 +14,4 @@ Prime Minister Julia Gillard today said the new Tamworth Sports Dome will offer 
 <p>This Tamworth Sports Dome project created 12 full-time jobs during the construction phase.</p>
 <p>Many new jobs have also been created with Tamworth Regional Council employing two full-time staff, signing two full-time contracts for cleaners and caterers and bringing on around six casual workers.</p>
 <p>This project will have many benefits for the region. Tamworth is home to more than 50,000 people and nearby population centres include Manilla, Barraba, Nundle and Kootingal and another 17 hamlets and villages. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

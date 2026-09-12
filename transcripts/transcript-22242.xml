@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22242</transcript-id>
-    <title>Interview with John Miller Radio 4BC, Queensland </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MILLER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22242</transcript-id><title>Interview with John Miller Radio 4BC, Queensland </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MILLER:</p>
 <p> Mr Prime Minister good evening.</p>
 <p>PRIME MINISTER:</p>
 <p> Hello John.</p>
@@ -60,6 +50,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thankyou, bye.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

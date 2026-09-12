@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18416</transcript-id>
-    <title>Queensland signs up to coal seam agreement</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18416</transcript-id><title>Queensland signs up to coal seam agreement</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Queensland has become the first state to sign up to strengthened regulation of coal seam gas and large coal mining developments.</p>
 <p>In November, the Prime Minister wrote to the Premiers of NSW, Queensland, Victoria and South Australia and the Chief Minister of the Northern Territory seeking cooperation to strengthen the regulation of CSG and large coal mining developments that may have significant impacts on water resources.</p>
 <p>This was in response to community concerns about the management of the impacts of these activities on important water resources and to fill the critical gaps in scientific understanding about these impacts.</p>
@@ -17,10 +7,8 @@ Queensland has become the first state to sign up to strengthened regulation of c
 <p>A strong coal mining and coal seam gas industry will generate significant economic benefits for Australia, through increased investment and the creation of jobs, and is important to energy supply and security.</p>
 <p>The Agreement, which implements the Prime Minister's announcement on 21 November 2011, will help to build stronger community confidence in this industry, and help to underpin its safe and reliable expansion.</p>
 <p>The NPA will ensure that future decisions are informed by substantially improved science and independent expert advice, by establishing an Independent Expert Scientific Committee (IESC) that will:</p>
-<p> * 	Provide governments with expert scientific advice on CSG and large coal mining development proposals that are likely to have a significant impact on water resources;<br />
- * 	Commission public research and bioregional assessments in areas of high CSG and/or large coal mining developments in order to improve scientific knowledge and understanding of the impacts of these developments, both in specific locations and on water resources more broadly; and<br />
+<p> * 	Provide governments with expert scientific advice on CSG and large coal mining development proposals that are likely to have a significant impact on water resources;<br>
+ * 	Commission public research and bioregional assessments in areas of high CSG and/or large coal mining developments in order to improve scientific knowledge and understanding of the impacts of these developments, both in specific locations and on water resources more broadly; and<br>
  * 	Make public its advice and the findings of all research undertaken.</p>
 <p>The Commonwealth will continue to work cooperatively with other states and territories to progress this reform.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

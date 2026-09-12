@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12264</transcript-id>
-    <title>The Bucketts Way Upgrade</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/11/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Federal Coalition will contribute $20 million toward the cost of upgrading the Bucketts Way, the 158 kilometre road that connects Raymond Terrace, north of Newcastle, with Gloucester, Wingham and Taree.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12264</transcript-id><title>The Bucketts Way Upgrade</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/11/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Federal Coalition will contribute $20 million toward the cost of upgrading the Bucketts Way, the 158 kilometre road that connects Raymond Terrace, north of Newcastle, with Gloucester, Wingham and Taree.</p>
 <p>The upgrade of the Bucketts Way is part of the Coalition’s future action plan for transport in this region. Only the Coalition has an integrated plan to improve our regional roads. Only the Coalition has the plans, the experience and the people to make the hard decisions that Australia needs.</p>
 <p>The Bucketts Way is the principal transport route for Gloucester and its surrounding districts. It provides access to the Barrington Tops National Park, and is used by tourists as an alternative to the Pacific Highway.</p>
 <p>The road’s condition does not match its significance. The road is rough, narrow, and its shoulder width is generally inadequate. It has too many pavement defects, such as potholes, and has half the number of safe overtaking opportunities that are normally required. There have been 790 accidents on the road over five years, including 4 fatal accidents and 154 cases of serious injury.</p>
@@ -18,6 +8,4 @@
 <p>The region will also benefit from the Coalition’s $1.2 billion Roads to Recovery Program, which is helping local authorities upgrade their roads. The region will receive $8.8 million in Roads to Recovery funding over four years.</p>
 <p>The Coalition Government’s contribution to the Bucketts Way will be drawn from the existing roads program.</p>
 <p>6 November 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41159</transcript-id>
-    <title>Interview with Fitzy and Wippa, NOVA 96.9 Sydney</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>05/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>North Korea, basketball, AFL, music</subjects>
-    <content><![CDATA[<p><strong>RYAN FITZGERALD:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41159</transcript-id><title>Interview with Fitzy and Wippa, NOVA 96.9 Sydney</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>05/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>North Korea, basketball, AFL, music</subjects><content><![CDATA[<p><strong>RYAN FITZGERALD:</strong></p>
 <p>You’re in for a special treat, because this is the first time that we’ve had this man on our show.</p>
 <p><strong>MICHAEL WIPFLI:</strong></p>
 <p>Oh yeah.</p>
@@ -89,7 +79,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>I’ve got to say I was so pumped up, excited by the enthusiasm of all those kids at that Willetton Basketball Centre I went to in Perth with Ben Morton. Because you know, you can see it is just so popular. Did you say it’s the most popular participation sport in Australia? Is that right?</p>
 <p><strong>ANDREW GAZE:</strong></p>
-<p>Oh look, I might have been stretching the imagination ever so slightly there. </p>
+<p>Oh look, I might have been stretching the imagination ever so slightly there.&nbsp;</p>
 <p>[Laughter]</p>
 <p>But it is, participation rates are certainly the envy of most other sports.</p>
 <p><strong>MICHAEL WIPFLI:</strong></p>
@@ -147,6 +137,4 @@
 <p><strong>RYAN FITZGERALD:</strong></p>
 <p>No worries, good on you mate.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

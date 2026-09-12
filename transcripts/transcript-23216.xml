@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23216</transcript-id>
-    <title>Appointment of the Governor-General </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>28/01/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Her Majesty Queen Elizabeth II has approved my recommendation to appoint General Peter Cosgrove AC MC as Australia’s next Governor-General.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23216</transcript-id><title>Appointment of the Governor-General </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>28/01/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Her Majesty Queen Elizabeth II has approved my recommendation to appoint General Peter Cosgrove AC MC as Australia’s next Governor-General.</p>
 <p>He will be Australia’s 26th Governor-General.</p>
 <p>General Cosgrove is a remarkable Australian who served with distinction until his retirement as the Chief of the Defence Force in 2005.</p>
 <p>A former Australian of the Year, General Cosgrove has dedicated his life to serving and supporting the Australian community.</p>
@@ -33,6 +23,4 @@
 <p>General Cosgrove held positions on several boards including the boards of Qantas and Cardno which he has relinquished upon accepting the offer to become Governor-General.</p>
 <p>He is married to Lynne and has three sons.</p>
 <p>28 January 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

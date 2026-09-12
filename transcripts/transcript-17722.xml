@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17722</transcript-id>
-    <title>Transcript of doorstop, Washington</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/03/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17722</transcript-id><title>Transcript of doorstop, Washington</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/03/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JOURNALIST: Prime Minster, are you disappointed that the President didn't refer the Trans-Pacific Partnership and the Doha round of trade talks?</p>
 <p>PM: Can I start by saying I'm very thankful for the opportunity I had this morning to meet with President Obama. I was very grateful for the amount of time that I had the opportunity to meet with him in total.</p>
 <p>We had an extensive bilateral discussion, followed by travelling to and from the Wakefield School together, and I did enjoy our discussions with the history students there. They knew a little about Australia, but not a lot, but it was a fantastic opportunity to be in a classroom talking to American students.</p>
@@ -49,6 +39,4 @@ JOURNALIST: Prime Minster, are you disappointed that the President didn't refer 
 <p>JOURNALIST: Will it affect Australia-</p>
 <p>PM: -And it's being dealt with through America's proper processes, but certainly President Obama and Secretary Geithner have been very publically clear about their desire for fiscal consolidation.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

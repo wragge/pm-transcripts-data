@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12632</transcript-id>
-    <title>Doorstop Interview, 10 Downing St, London</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/09/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Meeting with Prime Minister Blair; Iraq; Zimbabwe; Middle East</subjects>
-    <content><![CDATA[<p>E&amp;OE...........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12632</transcript-id><title>Doorstop Interview, 10 Downing St, London</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/09/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Meeting with Prime Minister Blair; Iraq; Zimbabwe; Middle East</subjects><content><![CDATA[<p>E&amp;OE...........</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>A half an hour chat. What was discussed?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -83,6 +73,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Look I haven't ruled out further debate, further involvement of the Australian Parliament. In fact I predict now there will be further debates and further statements to the Australian Parliament on this issue. As to whether we need to provide a dossier as such let me point out that quite a bit of the material that is in the dossier was referred to in Alexander Downer's statement to the Parliament last week and a lot of the material that we see of course is material that is part of a shared intelligence arrangement between Australia, the United States and the United Kingdom and I think people in Australia will read the dossier and gain some insights from it. But I don't rule things of that nature out but equally there's a limit to how many different ways you can present the same material.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

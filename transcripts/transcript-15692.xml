@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15692</transcript-id>
-    <title>Doorstop Interview, Kirribilli House, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/03/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15692</transcript-id><title>Doorstop Interview, Kirribilli House, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/03/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 David Hicks, climate change, Ian Thorpe.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -47,6 +37,4 @@ David Hicks, climate change, Ian Thorpe.</p>
 <p>PRIME MINISTER:</p>
 <p>Well look I don't intend to react to and let alone endorse unsubstantiated allegations in a French newspaper. So as far as I'm concerned, until evidence to the contrary is produced, solid evidence to the contrary is produced, Ian Thorpe remains a great Australian champion. Thank you. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

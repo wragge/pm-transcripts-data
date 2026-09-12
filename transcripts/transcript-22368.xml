@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22368</transcript-id>
-    <title>Interview with Alexandra Kirk AM, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KIRK:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22368</transcript-id><title>Interview with Alexandra Kirk AM, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KIRK:</p>
 <p> Prime Minister, East Timor's new Prime Minister Jose Ramos-Horta's been in the job for a week now. It will be his first meeting with a member of the Australian Government. Are you going to Dili to throw Australia's full support behind the new Government arrangement?</p>
 <p>PRIME MINISTER:</p>
 <p>  Oh very much so. I want to talk to him in his new capacity. I know him well from earlier meetings and earlier responsibilities but I want to talk to him as the newly installed Prime Minister. I also want to personally thank the men and women of the Australian Defence Force and the police from the Federal Police and the State police services all of whom have done an absolutely magnificent job in Australia's name.</p>
@@ -56,6 +46,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

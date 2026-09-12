@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20666</transcript-id>
-    <title>Interview with Tony Jones Lateline, ABC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JONES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20666</transcript-id><title>Interview with Tony Jones Lateline, ABC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JONES:</p>
 <p>Prime Minister, can we start first with the two big international issues and North Korea first, if the US asked you for Naval ships for interdiction force, would you be obliged to supply them?</p>
 <p>PRIME MINISTER:</p>
 <p>Well it's not a question of being obliged, we in fact have had discussions already with the Americans about the possibility of interdicting North Korean vessels, this is a matter I discussed with President Bush in Texas last month and when I got back I commissioned some work on a possible approach and that's been the subject of conceptual discussion with the Americans as to what assets we may or may not make available, we haven't got to that point yet. But certainly the idea of being involved in such an interdiction is something that we've looked at in a very proactive fashion.</p>
@@ -119,6 +109,4 @@
 <p>Well, I don't... the argument now is the evidence of the existence of the capacity. The legal justification for going to war was the non-compliance of Iraq with certain resolutions.</p>
 <p>JONES:</p>
 <p>When you farewelled the troops on the Kanimbla, I mean you told them specifically their mission was to disarm Iraq of weapons of mass destruction, you told the Press Club in March </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

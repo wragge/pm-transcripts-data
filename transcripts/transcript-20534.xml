@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20534</transcript-id>
-    <title>Address to the Nation  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/03/2003</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Good evening.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20534</transcript-id><title>Address to the Nation  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/03/2003</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Good evening.</p>
 <p>The Government has decided to commit Australian forces to action to disarm Iraq because we believe it is right, it is lawful and it's in Australia's national interest.</p>
 <p>We are determined to join other countries to deprive Iraq of its weapons of mass destruction, its chemical and biological weapons, which even in minute quantities are capable of causing death and destruction on a mammoth scale.</p>
 <p> Iraq has been an aggressor in the past against its neighbours and even its own people. If Iraq is allowed to keep these weapons not only might she use them again but moreover other rogue countries will copy Iraq knowing that the world will do nothing to stop them.</p>
@@ -47,6 +37,4 @@
 <p> This has been a very difficult decision for the Government but a decision which is good for Australia's long term security and the cause of a safer world.</p>
 <p>Good night.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

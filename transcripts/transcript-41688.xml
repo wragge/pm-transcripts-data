@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41688</transcript-id>
-    <title>Childcare relief for Australian families</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>02/07/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>More support for more families with the cost of child care starts from today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41688</transcript-id><title>Childcare relief for Australian families</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>02/07/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>More support for more families with the cost of child care starts from today.</p>
 <p>For too long Australian families have struggled with the cost of child care and a broken system that has restricted their ability to work the hours and days that suit them.</p>
 <p>That all changes from today.</p>
 <p>The Government’s new early education and child care system will benefit nearly one million families and analysis shows the changes will deliver more than $1,300 extra per child each year for the average family.</p>
@@ -24,6 +14,4 @@
 <p>The Government’s ongoing support for high quality early learning is also further boosted through our $870 million in support of 15 hours of preschool a week for every child during 2018 and 2019.</p>
 <p>These reforms are key to the Government’s plan for a stronger economy that helps guarantee the essential services that so many Australian families rely on, such as child care and early learning support.</p>
 <p>Our reforms stand in stark contrast to the Labor Party who voted against more child care support for families and who have refused to outline any plans for Australia’s early childhood education and care system.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

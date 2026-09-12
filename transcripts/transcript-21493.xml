@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21493</transcript-id>
-    <title>Doorstop Interview Launceston, Tasmania </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21493</transcript-id><title>Doorstop Interview Launceston, Tasmania </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>So, Prime Minister - are you concerned that General Powell's comment seems to back up the recollection of Mike Scrafton?</p>
 <p>PRIME MINISTER:</p>
 <p>No, I'm not because he reported Mr Scrafton's version of a conversation with somebody else - it doesn't back it up. It merely reports that that's what Mr Scrafton said.</p>
@@ -101,6 +91,4 @@
 <p>PRIME MINISTER:</p>
 <p>Of course it's a contest.</p>
 <p> Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

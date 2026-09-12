@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16129</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: On the line is the Prime Minister, Mr Rudd good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16129</transcript-id><title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: On the line is the Prime Minister, Mr Rudd good morning.</p>
 <p>PM: Good morning Neil.</p>
 <p>MITCHELL: Do you now accept that a world recession is a possibility?</p>
 <p>PM: I think the global economy is in real trouble and that's because of the global financial crisis. A recession is defined as two quarters of consecutive negative growth and if you look across the top seven industrial economies in the world, five of those seven have already generated either zero growth or negative growth in the last quarter. So it's difficult.</p>
@@ -145,6 +135,4 @@
 <p>MITCHELL: No, no  -  I think it does clear the head to get out and do it. But, if anybody ever worries about your nerd image all you need to do is be seen with a horse and a gun.</p>
 <p>PM: Mate, you know something, I grew up on a farm where there were guns around. I like shooting, when I get a chance to go out and doing sporting clays, and I like riding a horse. Do you know something, that's not what I'm paid to do.</p>
 <p>MITCHELL: Thank you very much for your time.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

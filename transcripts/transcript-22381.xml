@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22381</transcript-id>
-    <title>Doorstop Interview Bannockburn </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22381</transcript-id><title>Doorstop Interview Bannockburn </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well I have made a speech, was there any questions you want to ask me?</p>
 <p>JOURNALIST:</p>
 <p>What do you think about the State Government's choice of where the ring road is going to finish in Waurn Ponds?</p>
@@ -56,6 +46,4 @@
 <p>PRIME MINISTER:</p>
 <p>I would not want it to go to an overseas buyer and I am cautiously hopeful that that won't occur. In fact, I believe that it won't occur but let's wait and see how it all works out. I think all Australians would want this Victoria Cross to stay in our country and preferably at the War Memorial. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21628</transcript-id>
-    <title>Interview with Paul Murray Radio 6PR, Perth </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/02/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MURRAY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21628</transcript-id><title>Interview with Paul Murray Radio 6PR, Perth </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/02/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MURRAY:</p>
 <p>  Good morning Prime Minister John Howard is in Perth for the last days of campaigning in the state election.  There are plenty of commentators who say that Colin Barnett is drowning in his Kimberley water canal plan but the Prime Minister is yet to throw him a life raft.  John Howard is in the studio to take your calls 9221 1882 is the number to call.  Good morning Prime Minister.</p>
 <p> PRIME MINISTER:</p>
 <p> Good morning Paul.</p>
@@ -196,6 +186,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

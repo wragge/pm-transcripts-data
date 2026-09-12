@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15624</transcript-id>
-    <title>Doorstop Interview Marco Polo Plaza, Cebu</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/01/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15624</transcript-id><title>Doorstop Interview Marco Polo Plaza, Cebu</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/01/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Australia-China Clean Coal Initiative, Australia-China Free Trade Agreement,   North Korea, East Asia Summit</p>
 <p>E&amp;OE...</p>
 <p>JOURNALIST:</p>
@@ -37,6 +27,4 @@ Australia-China Clean Coal Initiative, Australia-China Free Trade Agreement,   N
 <p>PRIME MINISTER:</p>
 <p>Well there are sensitivities on both sides and the important thing is that there is high level political and professional commitment to bringing about a good outcome. And I'm not going to say more than that at this stage. It's a hard task. There are sensitivities on both sides and we both must work very hard towards achieving an outcome. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

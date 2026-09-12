@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11031</transcript-id>
-    <title>Press Conference, Hyatt Regency Hotel, Auckland, New Zealand</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>13 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11031</transcript-id><title>Press Conference, Hyatt Regency Hotel, Auckland, New Zealand</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>13 September 1999</p>
 <p>E&amp;OE………………………………………………………………………………………</p>
 <p>I have called this special news conference. Ladies and gentlemen, you’d all be aware of the statement that has been made by the Indonesian President tonight. It’s a tremendous step forward. It’s a very important statement and I welcome it.</p>
 <p>Remember only a few hours ago we were saying that the objective was to secure the agreement of the Indonesian Government for the introduction of UN peacekeepers into East Timor and the Indonesian President has announced that the Indonesian Government will do that.</p>
@@ -62,6 +52,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Oh look, no, I need some advice on that.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

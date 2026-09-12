@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16637</transcript-id>
-    <title>Record Nation Building Investment in Local Communities    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/06/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced an additional $220 million nation-building investment in community infrastructure, such as libraries, community centres, and sports grounds and environmental infrastructure.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16637</transcript-id><title>Record Nation Building Investment in Local Communities    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/06/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced an additional $220 million nation-building investment in community infrastructure, such as libraries, community centres, and sports grounds and environmental infrastructure.</p>
 <p>This brings the Government's record investment in community infrastructure to more than $1 billion since last November.</p>
 <p>The Rudd Government is partnering with local government to invest in nation-building infrastructure to support jobs during the global economic recession.</p>
 <p>The Government will also establish a $25 million Local Government Reform Fund to </p>
@@ -28,6 +18,4 @@
 <p>     * Fund the collection and analysis of robust data about councils' infrastructure assets; and</p>
 <p>     * Support collaboration between councils on a regional basis for service delivery and planning.</p>
 <p>The Rudd Government is investing in world class national infrastructure and local infrastructure to drive sustainable economic development and growth, lift levels of productivity and boost jobs.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

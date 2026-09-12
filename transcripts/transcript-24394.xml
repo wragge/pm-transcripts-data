@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24394</transcript-id>
-    <title>Remarks to crew aboard HMAS Anzac, Anzac Cove</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/04/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Commander, it is a real honour for me to stand on this ship and stand before your crew to pay tribute to the crew of the HMAS Anzac and to pay tribute to all those who have worn our country's uniform over the last 114 years.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24394</transcript-id><title>Remarks to crew aboard HMAS Anzac, Anzac Cove</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/04/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Commander, it is a real honour for me to stand on this ship and stand before your crew to pay tribute to the crew of the HMAS Anzac and to pay tribute to all those who have worn our country's uniform over the last 114 years.</p>
 <p>I have not taken time out of my busy schedule to visit you – you are my schedule. I am here to pay tribute to you. You are not some kind of a side visit or an accident to this trip to Gallipoli – you are the heart and soul of this trip to Gallipoli.</p>
 <p>While we rightly honour those who fell here, while we rightly honour those who served here, this is not about the past – it is about the present and the future. It is about our ongoing fidelity to the traditions which were established back on 25 April 1915. It’s about the duty that all of us owe to our country; most particularly and most heavily, the duty that those who wear our nation’s uniform owe to the nation itself.</p>
 <p>I am very proud of you.</p>
@@ -22,8 +12,6 @@
 <p>It is what we do with the past which has shaped us which is important and I know that all of you will make the most of this.</p>
 <p>I know that all of you will be even more encouraged to be your best selves in the days and weeks and months and years ahead.</p>
 <p>Thank you.</p>
-<p>[ends]<br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>[ends]<br>
+&nbsp;</p>
+]]></content></item></response>

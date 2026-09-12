@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19361</transcript-id>
-    <title>Transcript of Joint Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Hobart</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19361</transcript-id><title>Transcript of Joint Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Hobart</p>
 <p>PM: I am absolutely delighted to be in Tasmania with my ministerial colleague Julie Collins and we are here in her electorate of Franklin.</p>
 <p>We have had the opportunity today to meet some of the staff and some of the patients at this GP Super Clinic which we delivered here with a $5.5 million Labor Government investment.</p>
 <p>It has been the perfect place for us to launch with Medibank anytime Anywhere HealthCare.</p>
@@ -129,6 +119,4 @@
 <p>JOURNALIST: [inaudible] with her view who say Governments are using the mining industry as an ATM?</p>
 <p>PM: What we are doing is taxing super profits in the mining industry because at the end of the day it is Australians that own the mineral wealth in our grounds, no-one individual.</p>
 <p>OK, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

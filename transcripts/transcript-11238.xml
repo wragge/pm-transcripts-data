@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11238</transcript-id>
-    <title>Santos School of Petroleum Engineering at the University of Adelaide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to announce the Government’s support for the Santos School of Petroleum Engineering at the University of Adelaide.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11238</transcript-id><title>Santos School of Petroleum Engineering at the University of Adelaide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to announce the Government’s support for the Santos School of Petroleum Engineering at the University of Adelaide.</p>
 <p>The establishment of the School has been made possible by an exceptionally generous</p>
 <p>$25 million sponsorship from Santos Ltd, one of Australia’s leading petroleum exploration and production companies. It will also involve a significant partnership with the University of Adelaide, a prominent centre for engineering research and teaching.</p>
 <p>In recognition of this important development, the Government will provide $1 million over five years to fund a new professorial Chair, to be known as the Ross Adler Chair in Petroleum Engineering.</p>
@@ -19,6 +9,4 @@
 <p>The Government is working to encourage greater collaboration between industry and universities. The Government’s Discussion Paper on reform of higher education research, <i>New Knowledge, New Opportunities</i>, which was released in June, proposes to give universities much stronger incentives to develop industry links of this kind.</p>
 <p>I congratulate Santos Ltd and the University of Adelaide on this initiative, and wish the School every success.</p>
 <p>13 August 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

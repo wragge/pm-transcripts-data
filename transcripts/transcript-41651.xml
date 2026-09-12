@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41651</transcript-id>
-    <title>Catholic Church commits to National Redress Scheme</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>30/05/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government welcomes the Catholic Church’s announcement they will join the National Redress Scheme for survivors of institutional child sexual abuse.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41651</transcript-id><title>Catholic Church commits to National Redress Scheme</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>30/05/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government welcomes the Catholic Church’s announcement they will join the National Redress Scheme for survivors of institutional child sexual abuse.</p>
 <p>The National Redress Scheme will provide access to counselling, a direct personal response from the institution and a monetary payment.</p>
 <p>Almost 2,500 survivors gave evidence to the Royal Commission into Institutional Responses to Child Sexual Abuse about sexual abuse in an institution managed by the Catholic Church. According to the Royal Commission’s final report, 61.8 per cent of all survivors of sexual abuse in a religious institution were from a Catholic-managed institution.</p>
 <p>Today’s announcement that the Catholic Church will support the National Redress Scheme is a significant development.</p>
@@ -19,6 +9,4 @@
 <p>Every government and institution must take responsibility for the abuse that occurred on its watch, and pay the cost of providing redress.</p>
 <p>Every state and territory has committed to joining the Scheme except Western Australia. The Government continues to work very constructively with the Western Australia government as well as other non-government institutions to secure their involvement.</p>
 <p>The Commonwealth legislation to establish the National Redress Scheme passed the House of Representatives yesterday.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

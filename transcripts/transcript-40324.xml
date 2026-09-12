@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40324</transcript-id>
-    <title>Supporting women in building and construction</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Minister for Women today launched a pilot mentoring programme to support women in the building and construction industry.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40324</transcript-id><title>Supporting women in building and construction</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Minister for Women today launched a pilot mentoring programme to support women in the building and construction industry.</p>
 <p>Women account for just 11 per cent of the total construction workforce and they leave the industry at a rate almost 40 per cent higher than men.</p>
 <p>Without a commitment to greater gender equality, the building and construction sector is missing out on attracting and retaining the best talent.</p>
 <p>Diverse workplaces have been proven to be more productive and deliver better returns to the bottom line.</p>
@@ -22,6 +12,4 @@
 <p>Master Builders Australia will be provided with $250,000 in grant funding to deliver the pilot as part of the Australian Government’s Women’s Leadership and Development Strategy.</p>
 <p>The programme involves mentoring activities, an ambassador programme to engage young women in schools and local communities, and an annual award recognising excellence and women in leadership.</p>
 <p>Master Builders Australia will partner with Jobactive providers to identify candidates for the programme.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18207</transcript-id>
-    <title>Death of Muammar Qaddafi</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18207</transcript-id><title>Death of Muammar Qaddafi</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The death of Muammar Qaddafi is an historic moment for the people of Libya.</p>
 <p>It brings to a definitive end the repressive and bloody 42-year rule of a cruel dictator who, to the end, refused to acknowledge the legitimate aspirations of the Libyan people. </p>
 <p>The defeat of the regime was achieved by ordinary Libyans who, during the many months of their struggle for freedom and democracy, have demonstrated their immense courage and determination. </p>
@@ -22,6 +12,4 @@ The death of Muammar Qaddafi is an historic moment for the people of Libya.</p>
 <p>Australia is proud to have been a strong and active supporter of the Libyan people's struggle for freedom. </p>
 <p>We were among the first countries to support a no-fly zone in Libya and are the third-largest donor of humanitarian assistance. </p>
 <p>And we will continue to stand by Libya during this next chapter of its transition to a new future.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

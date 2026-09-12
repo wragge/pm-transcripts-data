@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16216</transcript-id>
-    <title>Interview with Steve Price Radio 2UE, Sydney   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>31/10/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRICE: Good morning, how much trouble are we really in?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16216</transcript-id><title>Interview with Steve Price Radio 2UE, Sydney   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>31/10/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRICE: Good morning, how much trouble are we really in?</p>
 <p>PM: Real challenges lie ahead. We intend to deal with each of them as we have so far. That means for example, on basic things like the bank guarantees for all the mums and dads out there, knowing that their deposits in banks, building societies and credit unions are safe and guaranteed.</p>
 <p>And similarly other actions that we have taken to provide stimulus to the economy and to jobs. And that is the $10.4 billion package we announced recently which helps pensioners, which helps families and which supports first home buyers.</p>
 <p>PRICE: I want to talk to you about that in a moment and about whether that funding might have been more closely targeted, but first can I just ask you, the Deputy Governor of the Reserve Bank, have you seen his comments this morning, Ric Battellino, who says we can avoid a recession. Do you agree with him?</p>
@@ -52,6 +42,4 @@
 <p>PM: I don't know the answer to that, Steve, is my honest response. And I haven't seen any communication from the Foreign Minister or others on that. And that'll be a decision I presume will be taken independently by the Indonesians.</p>
 <p>PRICE: Appreciate your time. Thanks very much.</p>
 <p>PM: Thanks, Steve.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15605</transcript-id>
-    <title>Doorstop Interview, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/03/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15605</transcript-id><title>Doorstop Interview, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/03/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Visit to Japan, Indonesian plane crash, cyclone George</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -32,6 +22,4 @@ Visit to Japan, Indonesian plane crash, cyclone George</p>
 <p>PRIME MINISTER:</p>
 <p>Well it will be beneficial if we can get greater access for our exports and of course we have to give something in return.  The free trade agreement will involve quite lengthy negotiations; it's quite a difficult issue.  The point should be made that even without the free trade agreement Japan is our best customer, so we're seeking here to make a very good situation even better.   Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

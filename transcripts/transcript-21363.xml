@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21363</transcript-id>
-    <title>Doorstop Interview Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21363</transcript-id><title>Doorstop Interview Melbourne </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>I've called this news conference to emphasise the significance of the Access Economics report on the Labor Party's industrial relations policy.  This report carried out by a firm that the Labor Party itself has used to cost its tax and economic policies draws attention to the devastating economic consequences to this country if our labour market were re-regulated.  And re-regulation of the labour market is Labor policy, it's there in black and white in their conference platform.  The abolition of workplace agreements, the scrapping of the secondary boycott laws, greater powers of entry for unions, all of those things that would turn back the clock and one of the reasons our economy is strong is that is our productivity is high and that is because we've changed our labour practices and if we change them back again we'll do enormous damage to Australia's economy and it's a very significant document because it comes from a respected economic body, independent of the Government which has actually done work for the Labor Party, so the Labor Party can't say they're government stooges because Access has done work for the Labor Party in the past and for all I know is still doing work for the Labor Party on its long awaited tax policy.</p>
 <p>JOURNALIST:</p>
 <p>Does this report suggest that if the ALP came into power jobs would be lost?</p>
@@ -62,6 +52,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I don't have any comment to make on that programme, I really don't, full stop.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

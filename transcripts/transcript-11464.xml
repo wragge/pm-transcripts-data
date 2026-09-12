@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11464</transcript-id>
-    <title>TV Pooled Interview with Rahni Sadler                  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/04/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Hansie Cronje</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11464</transcript-id><title>TV Pooled Interview with Rahni Sadler                  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/04/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Hansie Cronje</p>
 <p>E&amp;OE...............................</p>
 <p>SADLER:</p>
 <p>Mr Howard what's your reaction to the Hansie Cronje allegations?</p>
@@ -25,6 +15,4 @@
 <p>Well, I'm not going to get into comparisons, that matter was dealt with at the time and I don't think it's fair or appropriate to revisit, that's dealt with and there's nothing to be gained by going back but there's a lot to be gained by putting in place whatever can be put in place to minimise the possibility of this happening again.  Also I think we have to keep a sense of perspective.  It's very bad for cricket and it saddens me and millions of cricket lovers all around the world, but it's still a great game and we have to keep a sense of perspective about it.</p>
 <p>SADLER:</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

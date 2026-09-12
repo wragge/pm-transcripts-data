@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23530</transcript-id>
-    <title>Interview with Marius Benson, ABC News Radio</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>29/05/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>State of Origin,  Budget 2014,  higher education,  obesity.</subjects>
-    <content><![CDATA[<p><strong>MARIUS BENSON:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23530</transcript-id><title>Interview with Marius Benson, ABC News Radio</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>29/05/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>State of Origin, Budget 2014, higher education, obesity.</subjects><content><![CDATA[<p><strong>MARIUS BENSON:</strong></p>
 <p>Prime Minister, good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, Marius.</p>
@@ -22,7 +12,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Look, I am a creature of habit as you know, Marius, and I would be reluctant to break my tradition!</p>
 <p><strong>MARIUS BENSON:</strong></p>
-<p>Ok. I’ll leave the football there and move on to the Budget. Day 16 of the sales pitch – the Budget is now less liked than it was on day one on the evidence of the polls, and the salesmen – yourself and Joe Hockey – are less liked than you were on day one. There has been no warm welcome. The message from you that you have said that the Budget is tough but fair and it is necessary to clean up Labor’s debt and deficit mess – it  has been the same chant for two weeks-plus. Is there anything new in the sales pitch today, Prime Minister?</p>
+<p>Ok. I’ll leave the football there and move on to the Budget. Day 16 of the sales pitch – the Budget is now less liked than it was on day one on the evidence of the polls, and the salesmen – yourself and Joe Hockey – are less liked than you were on day one. There has been no warm welcome. The message from you that you have said that the Budget is tough but fair and it is necessary to clean up Labor’s debt and deficit mess – it&nbsp; has been the same chant for two weeks-plus. Is there anything new in the sales pitch today, Prime Minister?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, it is a good Budget. It is the right Budget for these times, Marius – it really is. It’s a Budget for saving but it is a Budget for building as well: we have got the medical research fund, we have got the Commonwealth’s biggest ever infrastructure spend. So, it is not all tough stuff but nevertheless we do need to tackle the debt and deficit disaster which this country has inherited and the Government won’t shirk from that challenge. I absolutely understand that people have taken some time to acclimatise, if you like, to things like the Medicare co-payment, but if it is right to have a Pharmaceutical Benefits Scheme co-payment, how can it be desperately wrong to have a modest Medicare co-payment?</p>
 <p><strong>MARIUS BENSON:</strong></p>
@@ -86,6 +76,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>It’s a pleasure, Marius.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

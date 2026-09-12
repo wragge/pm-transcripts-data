@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18028</transcript-id>
-    <title>Oslo attacks</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia condemns the brutal and shocking attacks which occurred in Norway overnight.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18028</transcript-id><title>Oslo attacks</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia condemns the brutal and shocking attacks which occurred in Norway overnight.</p>
 <p>A  number of people have been killed and many more injured.  Survivors have lived through a nightmare.</p>
 <p>Norway is a good friend and partner of Australia.  Our sorrow and concern are with people of Norway and in particular with the families of those who have lost loved ones and those who have been injured.</p>
 <p>Norway's Prime Minister has said that Norwegian democracy will not be shaken by these events and has expressed his determination to bring the perpetrators to justice.</p>
 <p>Australia stands ready to assist in any way we can.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

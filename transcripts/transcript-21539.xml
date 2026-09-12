@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21539</transcript-id>
-    <title>Doorstop Interview, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/10/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21539</transcript-id><title>Doorstop Interview, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/10/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Prime Minister, what are your feelings on the outcome of the Senate?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, I'm naturally very pleased that the Coalition will have a majority in its own right in the Senate.  I congratulate Barnaby Joyce, the National Party candidate for the Senate in Queensland, and Russell Trood, the Liberal Party candidate, on filling the 5th and 6th positions respectively.  It's a truly remarkable victory for our two parties in Queensland to win four out of the six Senate seats in that State.  It's a result that few people expected.  It's a great tribute to John Anderson's leadership of the National Party and the work of Ron Boswell as Leader of the National Party in the Senate.  It's a very good outcome.  But I want to assure the Australian people that the Government will use its majority in the new Senate very carefully, very wisely and not provocatively.  We intend to do the things we've promised the Australian people we would do but we don't intend to allow this unexpected but welcome majority in the Senate to go to our heads.</p>
@@ -18,6 +8,4 @@
 <p>PRIME MINISTER:</p>
 <p>We certainly won't be abusing our newfound position, we'll continue to listen to the people and we'll continue to stay in touch with the public that has invested great trust and confidence in us.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

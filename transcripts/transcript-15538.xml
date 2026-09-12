@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15538</transcript-id>
-    <title>Press Conference Murray Mouth, Adelaide</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/02/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15538</transcript-id><title>Press Conference Murray Mouth, Adelaide</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/02/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Water</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -55,6 +45,4 @@ Water</p>
 <p>PRIME MINISTER:</p>
 <p>Well a lot of the fresh water now goes throughs channels into ocean outflows and what we want to do is reverse that, that's what I am talking about.  Thank you. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

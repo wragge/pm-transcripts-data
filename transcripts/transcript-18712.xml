@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18712</transcript-id>
-    <title>Transcript of doorstop interview, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18712</transcript-id><title>Transcript of doorstop interview, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: If I can start by saying what a great pleasure it is to be here in such fine company, to have a look around the set of Wolverine.</p>
 <p>I am very proud to be here because this is a tremendous venture but it also means Australian jobs.</p>
 <p>Last week, I was in WA and there we were talking about the future of the mining industry, the future of the north of our country, all of the jobs in resources, all of the jobs in agriculture and all of the benefits of a diversified economy.</p>
@@ -123,6 +113,4 @@ PM: If I can start by saying what a great pleasure it is to be here in such fine
 <p>Of course we seek to talk to people in media as we work out the Government response.</p>
 <p>But noone should assume that we are not serious about the reform agenda here.</p>
 <p>Okay, thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10825</transcript-id>
-    <title>VISIT BY THE PRESIDENT OF THE ARGENTINE REPUBLIC          H.E. DR CARLOS SAUL MENEM</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the President of the Argentine Republic,</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10825</transcript-id><title>VISIT BY THE PRESIDENT OF THE ARGENTINE REPUBLIC          H.E. DR CARLOS SAUL MENEM</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the President of the Argentine Republic,</p>
 <p> Dr Carlos Saul Menem will visit Sydney and Canberra</p>
 <p> from 29 March to 1 April. Dr Menem will be accompanied by senior</p>
 <p> Argentine ministers and a large business delegation.</p>
@@ -26,6 +16,4 @@
 <p> trade.</p>
 <p>I look forward to my discussions with Dr Menem, with a view to deepening</p>
 <p> the relationship between our countries.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

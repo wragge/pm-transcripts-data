@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22582</transcript-id>
-    <title>Visit to Vietnam  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/11/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I will visit Vietnam from 16 to 21 November to attend the annual Asia-Pacific Economic Cooperation (APEC) leaders' meeting and to promote our bilateral interests in Ho Chi Minh City.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22582</transcript-id><title>Visit to Vietnam  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/11/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I will visit Vietnam from 16 to 21 November to attend the annual Asia-Pacific Economic Cooperation (APEC) leaders' meeting and to promote our bilateral interests in Ho Chi Minh City.</p>
 <p>The APEC leaders' meeting in Hanoi will be an important opportunity for Australia to promote energy security, cleaner energy and measures to address climate change.  APEC is ideally suited to examine climate change as it includes energy-rich countries like Australia and Canada as well as large energy-consuming nations like China and Japan.</p>
 <p> The meeting will provide an opportunity for leaders to respond to the suspension of the World Trade Organisation Doha Round.  I will work with leaders to deliver a strong statement on the Round.</p>
 <p>  It will also be an opportunity for the countries of the region to deliver a strong statement to North Korea on its nuclear test and weapons program.</p>
@@ -18,6 +8,4 @@
 <p> The meeting will be an important opportunity to lay the groundwork and create momentum for our APEC host year in 2007.</p>
 <p>My visit to Ho Chi Minh City on 20 November will focus on advancing our bilateral business, education and people-to-people links.</p>
 <p>  Ho Chi Minh City is Vietnam's commercial centre and a focal point for Australia's business and cultural ties with Vietnam.  I will also visit the Long Tan Cross to honour and remember the sacrifices of all those Australians who fought and lost their lives in the Battle of Long Tan.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

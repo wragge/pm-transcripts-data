@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41116</transcript-id>
-    <title>Remarks at Home Affairs portfolio briefing</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/08/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41116</transcript-id><title>Remarks at Home Affairs portfolio briefing</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/08/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Welcome. I’m joined this morning by the Attorney-General, the Minister for Immigration and Border Protection, the Minister for Justice, Michael Keenan, who is the Minister assisting me for Counter-Terrorism and the Minister for Infrastructure and Transport, Darren Chester.</p>
 <p>Also, the heads of our agencies that we are bringing together into the new Department of Home Affairs. It’s long overdue, this reform, but it will mean that these agencies - critically important to keeping Australians safe – are working together in the same department.</p>
 <p>The agencies whose leaders are with us today were responsible for disrupting and containing the most serious, elaborate terrorist plot within Australia that we’ve confronted. This was a plot to bring down an aeroplane. Hundreds of people would have died had it been carried out.</p>
@@ -24,6 +14,4 @@
 <p>I look forward to having a good discussion here about the implementation of this important reform.</p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

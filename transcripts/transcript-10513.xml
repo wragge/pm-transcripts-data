@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10513</transcript-id>
-    <title>Television Interview with Steve Liebmann, The Today Show, Channel 9</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/10/1997</release-date>
-    <release-type>Interview</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010513.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>6 October 1997</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10513</transcript-id><title>Television Interview with Steve Liebmann, The Today Show, Channel 9</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/10/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010513.pdf</document><subjects></subjects><content><![CDATA[<p><strong>6 October 1997</strong></p>
 <p>E&amp;OE.........................................................................................................................</p>
 <p><b>LIEBMANN:</b></p>
 <p>Good morning to you.</p>
@@ -24,7 +14,7 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Well we might, but it’s a very strong team, it contains more changes than people expected. I’ve promoted some people who have performed exceptionally well and I’ve altered the responsibilities of others and I think, overall, it’s a very strong team.</p>
 <p><b>LIEBMANN:</b></p>
-<p>You’ve had to dig pretty deep though, Mark Vaile last Friday as a humble back bencher, four years experience in the Parliament. He’s gone from being one of the troops sitting around the boardroom table and young Mr Thomson, Andrew Thomson, he’s only been in Parliament...</p>
+<p>You’ve had to dig pretty deep though, Mark Vaile last Friday as a humble back bencher, four years experience in the Parliament. He’s gone from being one of the troops sitting around the boardroom table and young Mr Thomson, Andrew&nbsp;Thomson, he’s only been in Parliament...</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>...Well that doesn’t matter. I remember a bloke who entered Parliament in 1974 who was Treasurer in 1977, so there’s nothing unusual about that. Mark Vaile is a very competent person and most of the people with whom I’ve spoken said that he was a logical appointment to replace John Sharp. Andrew Thomson has particular skills, certainly in the area that I’ve chosen him as Sport and Tourism. And I think overall it is a stronger team.</p>
 <p><b>LIEBMANN:</b></p>
@@ -68,7 +58,7 @@
 <p><b>LIEBMANN:</b></p>
 <p>All right, just go back to the reshuffle. Would you have done it had it not been for the so called rorts affair.</p>
 <p><b>PRIME MINISTER:</b></p>
-<p>I don’t know Steve, probable not to the same extent. Look you never say never in relation to ministerial changes. That is in the nature of politics. Obviously the events of the last couple of weeks resulted in the need for certain changes. I think it is a much better team and I have done what a Prime Minister should always do and that is reward performance and I don’t think anybody doubted that people like David Kemp and Nick Minchin performed outstandingly and they deserved some promotion and some recognition.</p>
+<p>I don’t know Steve, probable not to the same extent. Look you never say never in relation to ministerial changes. That is in the nature of politics. Obviously the events of the last couple of weeks resulted in the need for certain changes. I think it is a much better team and I have done what a Prime Minister should always do and that is reward performance and I don’t think anybody doubted that people like David Kemp and Nick&nbsp;Minchin performed outstandingly and they deserved some promotion and some recognition.</p>
 <p><b>LIEBMANN:</b></p>
 <p>But on the other hand if Ministers Vanstone and Moylan weren’t performing to your expectations, to your satisfaction and weren’t up to it, shouldn’t you have got ridden of them anyhow?</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -126,6 +116,4 @@
 <p><b>LIEBMANN:</b></p>
 <p>Thanks Prime Minister.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

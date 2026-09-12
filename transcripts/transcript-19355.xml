@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19355</transcript-id>
-    <title>Keeping Kids Active After School</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19355</transcript-id><title>Keeping Kids Active After School</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Children will be encouraged to participate in sport from a young age, through $39.4 million in funding to continue the popular Active After-school Communities program.</p>
 <p>While Australians love their sport, we know that some young Australians are missing out on opportunities to get involved.</p>
 <p>The Active After-school Communities program assists by providing access to free, inclusive and positive sporting experiences to children after school.</p>
@@ -21,6 +11,4 @@
 <p>The program is particularly paying dividends in regional and remote Australia by helping to build strong local networks of sport providers.</p>
 <p>The Active After-school Communities program is managed by the Australian Sports Commission through a network of locally-based regional coordinators who assist schools and after-school care centres to deliver the program.</p>
 <p>Visit ausport.gov.au/participating/aasc/  for more information on the AASC program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

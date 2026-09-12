@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16719</transcript-id>
-    <title>Interview on ABC 891, Adelaide   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/07/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Kevin Rudd, Prime Minister, good morning to you, sir.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16719</transcript-id><title>Interview on ABC 891, Adelaide   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/07/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Kevin Rudd, Prime Minister, good morning to you, sir.</p>
 <p>PM: Good morning. Thanks for having me on the program.</p>
 <p>HOST: Thank you for coming on the program. Prime Minister, you are going to Flinders Medical Centre today?</p>
 <p>PM: That's right, and just to add to what you said in your introduction, what we sought to do yesterday at Royal North Shore Hospital in Sydney was actually to listen, and we sat there and listened to the observations of 100 or so medical practitioners about the implications of the report, that is, on the future reform of the health and hospital system and how it would impact the delivery of services of that major hospital in Sydney.</p>
@@ -54,6 +44,4 @@
 <p>HOST: Prime Minister thanks for talking to us here on 891 Mornings.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18172</transcript-id>
-    <title>Australian Nobel Prize winner congratulated</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18172</transcript-id><title>Australian Nobel Prize winner congratulated</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Government is today delighted to congratulate Professor Brian Schmidt of the Australian National University for winning the 2011 Nobel Prize for Physics, shared with his two fellow laureates, Americans Saul Perlmutter and Adam Riess.</p>
 <p>Professor Schmidt led one of two teams to make a remarkable discovery that the universe is actually blowing apart at an ever-increasing rate.</p>
 <p>This discovery turned some of our most stable notions of the universe on its head and challenges our understanding of its very composition.</p>
@@ -22,6 +12,4 @@ The Gillard Government is today delighted to congratulate Professor Brian Schmid
 <p>It is that spirit of discovery that has driven every genuine revolution in understanding in human history.</p>
 <p>And it is the same spirit that drives Australia to seek to host the Square Kilometre Array, to deliver maximum discovery to the world.</p>
 <p>The Square Kilometre Array (SKA) is the largest science experiment our hemisphere has ever seen. It will deliver untold new insights into the universe, and spin off countless new technologies and provide high tech job opportunities along the way. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

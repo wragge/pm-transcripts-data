@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16584</transcript-id>
-    <title>Doorstop Interview  Sydney Cricket Ground   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Thanks very much and good luck, eh. I think, speaking on behalf of all Australians, this is going to be a fantastic series. The Ashes series is what it is all about in cricket and last time they were out here, you narrowly scraped home - </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16584</transcript-id><title>Doorstop Interview  Sydney Cricket Ground   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Thanks very much and good luck, eh. I think, speaking on behalf of all Australians, this is going to be a fantastic series. The Ashes series is what it is all about in cricket and last time they were out here, you narrowly scraped home - </p>
 <p>PONTING: Just got over the line.</p>
 <p>PM: Just got over the line. Five was it?</p>
 <p>PONTING: Five-nil.</p>
@@ -52,6 +42,4 @@
 <p>PM: Look, we will activate all the necessary counter disaster arrangements in response to any request from State Governments. We have always done that. It doesn't matter where natural disasters occur in Australia, rain, hail, flood, drought, we act in response to the advice that we receive and automatic natural disaster relief payments flow.</p>
 <p>So that will be the same in this case, as it would be in the case of any other disaster-affected area.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

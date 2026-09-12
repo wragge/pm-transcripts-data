@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22454</transcript-id>
-    <title>Steve Irwin  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/09/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was shocked and deeply saddened to learn of the sudden death of Steve Irwin today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22454</transcript-id><title>Steve Irwin  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/09/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was shocked and deeply saddened to learn of the sudden death of Steve Irwin today.</p>
 <p>Steve Irwin captured the imagination of Australia and the world through his television appearances as The Crocodile Hunter.</p>
 <p>He entertained millions of people with an unconventional style that helped him become a household name around the world.</p>
 <p> Steve was also a passionate environmentalist who used his television programmes and his award-winning Australia Zoo to promote a serious conservation message.</p>
 <p>He made an extraordinary contribution to creating a widespread appreciation of the value and uniqueness of Australian wildlife.</p>
 <p> Steve was a dynamic personality who will be greatly missed by his legion of fans in Australia and around the world. He will also be missed by the many charities and community groups he supported.</p>
 <p>On behalf of myself and my wife and the Government, I extend to Steve's wife Terri and their two children Bindi and Robert our deepest sympathy.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

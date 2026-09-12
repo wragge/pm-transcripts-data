@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16969</transcript-id>
-    <title>Prime Minister Minister for Broadband Digital projects to improve services in regional communities Sydney 10 December 2009</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/12/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today announced a $26.5 million investment in the first seven Digital Regions projects that will deliver more connected health, education and emergency services in regional, rural and remote communities across Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16969</transcript-id><title>Prime Minister Minister for Broadband Digital projects to improve services in regional communities Sydney 10 December 2009</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/12/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today announced a $26.5 million investment in the first seven Digital Regions projects that will deliver more connected health, education and emergency services in regional, rural and remote communities across Australia.</p>
 <p>The Prime Minister made the announcement at the Realising our Broadband Future Forum held at the University of New South Wales in Sydney.</p>
 <p>The Digital Regions Initiative is about making sure that regional, rural and remote communities benefit from broadband and digital technologies and are not left behind.</p>
 <p>     * Ambulance Mobile Connect in South Australia will provide vehicles with mobile computing terminals connected via a high speed mobile network ($2.3 million).</p>
@@ -21,6 +11,4 @@
 <p>The $60 million Digital Regions Initiative co-funds projects in partnership with state, territory and local governments. It was announced in the 2009-10 Budget as part of the Government's response to the Regional Telecommunications Review (RTR), which was chaired by Dr Bill Glasson AO.</p>
 <p>The two-day, Realising our Broadband Future Forum has been held to plan for Australia's digital future and identify ways to maximise the potential benefits from a high speed National Broadband Network.</p>
 <p>The Forum brings together hundreds of broadband and digital experts, and business and community leaders. Forum participants and the general public can contribute to the discussion via twitter and collaboratively edit the map of our next steps. Plenary sessions of the forum will be webcast live, with audio streaming of other sessions.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

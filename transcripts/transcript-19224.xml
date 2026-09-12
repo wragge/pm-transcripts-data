@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19224</transcript-id>
-    <title>Address to Education Dinner</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/04/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Beijing, People's Republic of China</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19224</transcript-id><title>Address to Education Dinner</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/04/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Beijing, People's Republic of China</p>
 <p>Tonight we celebrate forty years of education and science exchanges between Australia and China.</p>
 <p>In turn, tonight we celebrate the work of all of you.</p>
 <p>You have given our countries a new vision of each other.</p>
@@ -71,6 +61,4 @@
 <p>Your teaching and learning, innovation and research has been at the heart of our two nations' change and growth.</p>
 <p>For your part in all of that, tonight you can raise your glasses with pride.  </p>
 <p>Thank you  -  and enjoy.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

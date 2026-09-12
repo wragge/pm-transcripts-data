@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11308</transcript-id>
-    <title>US RESTRICTIONS ON AUSTRALIAN LAMB EXPORTS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/07/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11308</transcript-id><title>US RESTRICTIONS ON AUSTRALIAN LAMB EXPORTS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/07/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
    The Australian Government is appalled at the decision by the US Administration</p>
 <p> to introduce restrictions on Australian lamb exports to the United</p>
 <p> States.</p>
@@ -55,6 +45,4 @@
 <p> do not produce satisfactory results, Australia will take action under</p>
 <p> WTO disputes settlement procedures.</p>
 <p>Tokyo</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

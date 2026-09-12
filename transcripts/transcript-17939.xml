@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17939</transcript-id>
-    <title>Telehealth transforming health care</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17939</transcript-id><title>Telehealth transforming health care</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australian patients will be able to have Medicare funded consultations with any medical specialist via a video conference for the first time starting this Friday.</p>
 <p>Telehealth will transform the way health care is delivered in Australia by removing distance, time and cost as a barrier to accessing care – delivering better health outcomes for patients.</p>
 <p>Prime Minister Julia Gillard and Health Minister Nicola Roxon previewed Telehealth services today through a joint video conference in Darwin and Adelaide – delivering on one of the Government's key election commitments.</p>
@@ -29,6 +19,4 @@ Australian patients will be able to have Medicare funded consultations with any 
 <p>Improving access to services and health care professionals through initiatives like Medicare funded Telehealth services will help change these outcomes.</p>
 <p>This builds on the Gillard Government's health reforms that include investments in eHealth records and regional cancer centres to reduce the divide between metropolitan and regional Australia.</p>
 <p>Further information is available at <a href="http://www.yourhealth.gov.au">www.yourhealth.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

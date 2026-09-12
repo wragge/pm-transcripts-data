@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11260</transcript-id>
-    <title>KEVIN NEWMAN AO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/07/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was extremely sorry to learn of the death of my former Ministerial</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11260</transcript-id><title>KEVIN NEWMAN AO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/07/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was extremely sorry to learn of the death of my former Ministerial</p>
 <p> colleague and Fraser Government Minister, The Hon Kevin Newman AO.</p>
 <p>Kevin Newman gave years of service to Australia, initially as a soldier,</p>
 <p> rising to the rank of Lieutenant Colonel and serving both in Malaysia</p>
@@ -39,6 +29,4 @@
 <p> and their grandchildren.</p>
 <p>A state funeral for the late Hon Kevin Newman will be held on Thursday,</p>
 <p> 22 July at 11.30 am in the Chapel of the Royal Military College, Duntroon.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

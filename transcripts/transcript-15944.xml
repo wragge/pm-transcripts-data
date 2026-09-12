@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15944</transcript-id>
-    <title>Australia 2020 Final Summit Report    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>31/05/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to launch today the Final Report of the Australia 2020 Summit, a document which captures the debates, deliberations and ideas of those who took part in the summit process.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15944</transcript-id><title>Australia 2020 Final Summit Report    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>31/05/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to launch today the Final Report of the Australia 2020 Summit, a document which captures the debates, deliberations and ideas of those who took part in the summit process.</p>
 <p>Around 1,000 Australians attended the Australia 2020 Summit at Parliament House last month, in addition to those who took part - more than 500 School Summits, 2020 Youth Summit, Jewish Symposium and in a range of local and regional events took place.</p>
 <p>We wanted to shake the tree in free and open forums and see what good ideas fell out, ideas that will make Australia an even better place in the future.</p>
 <p>Some of the good practical ideas to be put forward for national consideration at the 2020 Summit included:</p>
@@ -32,6 +22,4 @@
 <p>The release of the Final Report does not signal the end of discussions and debate.</p>
 <p>I encourage every Australian to continue to contribute their ideas and be part of the conversation by making a submission online.</p>
 <p>The Final Report can be viewed at, and downloaded from, the Australia 2020 website <a href="http://www.australia2020.gov.au">www.australia2020.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

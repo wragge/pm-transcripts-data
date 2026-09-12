@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17033</transcript-id>
-    <title>Prime Minister Transcript of interview with Lyndal Curtis ABC AM 2 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS: Kevin Rudd, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17033</transcript-id><title>Prime Minister Transcript of interview with Lyndal Curtis ABC AM 2 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS: Kevin Rudd, welcome to AM.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>CURTIS: You have announced that President Obama will visit here in March. Does that rule out a March election?</p>
 <p>PM: (Laughs) Well, the White House and my own office have been working on this visit for a while.</p>
@@ -54,6 +44,4 @@
 <p>Let's bear that in mind - and the Reserve Bank has been very blunt about this for a long time - as the global economy recovers, so will there be changes in monetary policy, but sure, households, working families, are doing it tough in many parts of the country. We accept that, we acknowledge that, and the practical means of assistance lie in what we have done, for example, in increasing the childcare tax rebate from 30 per cent to 50 per cent; the education tax refund to help people with school expenses; and other practical measures like that and getting rid of WorkChoices.</p>
 <p>CURTIS: Kevin Rudd, thank you very much for your time.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

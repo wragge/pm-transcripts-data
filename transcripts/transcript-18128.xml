@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18128</transcript-id>
-    <title>Address to the 16th Annual Memorial Wall Commemoration Service, Cessnock</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/09/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18128</transcript-id><title>Address to the 16th Annual Memorial Wall Commemoration Service, Cessnock</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/09/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Thank you very much to my parliamentary colleague Joel Fitzgibbon for that welcome. Can I also acknowledge my Federal parliamentary colleague Sharon Grierson and Jill Hall who are here, as well as state and local members.</p>
 <p>I specifically want to acknowledge our colleagues and friends from the CFMEU, Tony Maher the National President, Grahame Kelly the District Secretary and Peter Jordan the District President of the United Mineworkers' Federation.</p>
 <p>And I want to acknowledge every unionist here today, their family members and friends and those who have come to mourn and reflect .</p>
@@ -69,6 +59,4 @@ Thank you very much to my parliamentary colleague Joel Fitzgibbon for that welco
 <p>Because there must come a day when no more names are added to this wall.</p>
 <p>May that day be soon.</p>
 <p>There has been enough pain and enough loss. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18353</transcript-id>
-    <title>Inaugural National Emergency Medal Presentation, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/01/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18353</transcript-id><title>Inaugural National Emergency Medal Presentation, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/01/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 It gives me immense pride to bring to realisation the commitment I made one year ago to institute a National Emergency Medal.</p>
 <p>And there could be no better occasion to do so than on the day when we pause to reflect on what it means to be Australian  -  January 26; Australia Day.</p>
 <p>In a diverse country, this day necessarily means different things to different people.</p>
@@ -47,6 +37,4 @@ It gives me immense pride to bring to realisation the commitment I made one year
 <p>So please accept the National Emergency Medal as a symbol of our thanks.</p>
 <p>We are a brave and resilient nation.</p>
 <p>But we are grateful nation too. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

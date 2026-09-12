@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22746</transcript-id>
-    <title>Historic agreement reached with independent schools</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>10/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Minister for Education</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22746</transcript-id><title>Historic agreement reached with independent schools</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>10/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Minister for Education</p>
 <p>Today the Australian Government and Independent Schools Council of Australia (ISCA) reached an historic agreement that will deliver real benefits to 562,000 students in independent schools across Australia.</p>
 <p>The agreement will see more than $1 billion additional funding flow to Australian independent schools over the next six years – if every state and territory signs up.</p>
 <p>The Better Schools Plan is a plan to give every student in every Australian school the opportunity to reach their full potential and compete with the rest of the world.</p>
@@ -22,6 +12,4 @@
 <p>The Australian Government and the Independent Schools Council of Australia have worked cooperatively, respectfully and intensively to ensure this is a good deal for independent schools.</p>
 <p>As a result of the agreements reached with New South Wales, South Australia, the Australian Capital Territory and Tasmania, 45 per cent of independent schools will also see additional state government funding.</p>
 <p>It is now time for Victoria, Queensland, Western Australia and the Northern Territory to join with other states, the ACT and the Independent sector in embracing the Better Schools Plan.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

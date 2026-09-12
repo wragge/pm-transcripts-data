@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41514</transcript-id>
-    <title>New Colombo Plan Reception</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/03/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41514</transcript-id><title>New Colombo Plan Reception</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/03/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Your Majesty, Excellencies, students and alumni, welcome to Sydney and the ASEAN-Australia Special Summit.</p>
 <p>It is very fitting that the first event of our Leaders’ Summit is to celebrate Australia’s long-standing cooperation with ASEAN on education.</p>
 <p>Because, when it comes to the ambition of the ASEAN-Australia Special Summit, promoting greater regional security and prosperity, nothing can be more important than education and the deep personal connections that we create when we study and learn in each others countries.</p>
@@ -28,6 +18,4 @@
 <p>The ASEAN-Australia Special Summit has shown just how many opportunities there are for us to work together, for our businesses, our government agencies, our academic institutions and beyond.</p>
 <p>Now I’m delighted that our education cooperation will be strengthened further by the important initiatives that our Foreign Minister is about to announce.</p>
 <p>So, I now invite the Honourable Julie Bishop MP, Minister for Foreign Affairs and the architect of the New Colombo Plan to address us, Foreign Minister.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

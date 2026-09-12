@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18738</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/08/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18738</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/08/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 E &amp; O E  -  PROOF ONLY</p>
 <p>PM: This morning the Minister for Immigration, Minister Bowen, has been in discussions with his counterpart, the Shadow Minister for Immigration, Scott Morrison.</p>
 <p>Those discussions about potential further amendments to the legislation are proceeding in good faith and I'm not going to run a running commentary on them.</p>
@@ -91,6 +81,4 @@ E &amp; O E  -  PROOF ONLY</p>
 <p>JOURNALIST: Just further to that question, the report says that the Malaysian negotiations are to be conducted at the highest levels of government. I know it's only early days but would you be hoping to maybe have some sort of conversation with your counterpart at APEC, on the sidelines for example?</p>
 <p>PM: Well I am the highest level of government, and I'm seeking to speak to the Prime Minister of Malaysia who is the highest level of his government.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

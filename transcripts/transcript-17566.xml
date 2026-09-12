@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17566</transcript-id>
-    <title>Transcript of Press Conference, Adelaide</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/12/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17566</transcript-id><title>Transcript of Press Conference, Adelaide</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/12/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much for coming along and I've taken this opportunity to say a few words about the situation in Queensland and I'll be very happy to take a few questions.</p>
 <p>Of course the Christmas-New Year period is a time of joy and family celebration for literally millions of Australians, but this year we know that there are far too many Australians who are battling floodwaters. The floods in Queensland are particularly devastating, some communities are seeing floodwaters higher than they've seen in decades and for some communities floodwaters have never reached these levels before for the time that we have been recording floods; so unprecedented levels of water.</p>
 <p>In these situations what we see is Australians pulling together, working together to deal with the situation at hand. I'm sure we can all imagine what it must be feel like to face the devastation of your home, to face the damage and the destruction. It's certainly something weighing so heavily on many Australians today. But at the same time, we can all be proud of the efforts of volunteers and emergency services personnel who are assisting flood affected families and flood affected communities.</p>
@@ -42,6 +32,4 @@ PM: Thank you very much for coming along and I've taken this opportunity to say 
 <p>JOURNALIST: (inaudible)</p>
 <p>PM: Well we consistently put our opposition to the Japanese Government about our total opposition to whaling.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40171</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/01/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>NEIL MITCHELL:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40171</transcript-id><title>Interview with Neil Mitchell, Radio 3AW</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/01/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>NEIL MITCHELL:</p>
 <p>In the studio, the Prime Minister – Mr Turnbull, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning.</p>
@@ -139,7 +129,7 @@
 <p>Well, there is certainly a high level of inefficiencies in different parts of the health system, as you would expect. Particularly if you're talking about hospitals, there are too many people – let me start again. Most of our - the bulk of our health spending is on a relatively small percentage of the population. You know, the people who are – these are the people who are most ill. They often tend to be older. They have chronic diseases and so forth.</p>
 <p>And what Sussan Ley is endeavouring to do is to ensure that they get better care, better primary care, that their care is managed better, more efficiently, by their doctors, so that they get a better outcome and also, are spending less time in hospital. And that way you can actually get a win/win. You can get much better health outcomes and you will put less pressure on the hospital system.</p>
 <p>NEIL MITCHELL:</p>
-<p>The AMA has reported this week elective surgery times are blowing out, waiting in emergency departments blowing out, our own Royal Melbourne Hospital is crumbling, it's quite a disgrace, they’ve hardly had an IT system for the past two weeks. The doctors tell me that place barely works efficiently.<br />
+<p>The AMA has reported this week elective surgery times are blowing out, waiting in emergency departments blowing out, our own Royal Melbourne Hospital is crumbling, it's quite a disgrace, they’ve hardly had an IT system for the past two weeks. The doctors tell me that place barely works efficiently.<br>
 Who carries responsibility for that? Kevin Rudd said the buck stopped with him. The buck has been going round in circles ever since. Do you accept the health system is in crisis and can you do anything about it?</p>
 <p>PRIME MINISTER:</p>
 <p>I wouldn't use language like "crisis". The Federal Government spends about $64 billion a year, and it spends, of that, $16 billion goes into public hospitals. Most of the funding for public hospitals comes from the States, who of course administer them. So when a public hospital has got problems, for example, like at Royal Melbourne, if that is the case, then the State Government should be asking what it is doing about managing its own hospital.</p>
@@ -202,8 +192,8 @@ Who carries responsibility for that? Kevin Rudd said the buck stopped with him. 
 <p>Will Australia actively support Kevin Rudd for UN Secretary-General?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, it's a hypothetical question.</p>
-<p>NEIL MITCHELL:<br />
-Not from Kevin Rudd, it's not.<br />
+<p>NEIL MITCHELL:<br>
+Not from Kevin Rudd, it's not.<br>
 PRIME MINISTER:</p>
 <p>Well, it is, actually. I mean, Kevin has not nominated.</p>
 <p>NEIL MITCHELL:</p>
@@ -241,6 +231,4 @@ PRIME MINISTER:</p>
 <p>NEIL MITCHELL:</p>
 <p>Prime Minister Malcolm Turnbull, who incidentally, arrived by tram today.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

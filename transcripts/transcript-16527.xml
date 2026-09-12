@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16527</transcript-id>
-    <title>COAG agrees to establish National Emergency Warning System   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Council of Australian Governments (COAG) today agreed to develop a national telephone emergency warning system. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16527</transcript-id><title>COAG agrees to establish National Emergency Warning System   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Council of Australian Governments (COAG) today agreed to develop a national telephone emergency warning system. </p>
 <p>The Commonwealth will invest up to $15 million to assist the States and Territories to establish the national system.</p>
 <p>It will be operated on an ongoing basis by State and Territory authorities and will be developed following an open tender process. </p>
 <p>The system will help warn the public in the event of a major emergency, and will add to a range of measures including television and radio alerts, public address systems, doorknocking, sirens, signage and the internet.</p>
@@ -19,6 +9,4 @@
 <p>COAG has agreed to undertake collaborative research with industry on ways to deliver warning messages to mobile phones based on the handset's physical location.</p>
 <p>The Australian Government has already committed $11.3 million for this purpose and to provide access to the Integrated Public Number Database (IPND) through a new secure database providing real-time access to up-to-date telephone numbers, while protecting the identity of individuals. The tender process to develop this database closed last week.</p>
 <p>The Government has passed legislation through the Federal Parliament facilitating access to the IPND.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

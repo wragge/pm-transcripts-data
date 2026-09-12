@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21337</transcript-id>
-    <title>Doorstop Interview on Departure for State Funeral of Former Premier of Tasmania, The Hon. Jim Bacon Canberra Airport, Fairbairn</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21337</transcript-id><title>Doorstop Interview on Departure for State Funeral of Former Premier of Tasmania, The Hon. Jim Bacon Canberra Airport, Fairbairn</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Prime Minister, you are heading to the funeral of Jim Bacon - do you have any comments?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, he served as Premier of Tasmania the entire time that I've been Prime Minister and we got on well, although we came from opposite sides of politics. He worked hard. He advocated the interests of his state and like most who knew him I was profoundly sorry of the circumstances of his premature death and I hope that today's gathering will be of some comfort to his family and very close friends, not only in Tasmania but in the broader Labor movement throughout Australia.</p>
@@ -38,6 +28,4 @@
 <p>PRIME MINISTER:</p>
 <p>That's a matter for him. As a follower of both codes, I would like to think that Joey has some playing years ahead of him. Whatever decision he makes, that's a matter for him. But he's a great player and I hope he's got a number of years ahead of him.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

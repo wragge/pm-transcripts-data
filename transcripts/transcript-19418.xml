@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19418</transcript-id>
-    <title>Research Investment Priorities for Australia&#039;s Future</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/06/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19418</transcript-id><title><![CDATA[Research Investment Priorities for Australia&#039;s Future]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/06/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>The Gillard Government today released its 15 priorities for strategic research to drive investment in those areas which can help address Australia's most important economic, environmental and social challenges.</p>
 <p>The Prime Minister joined Minister for Tertiary Education, Skills, Science and Research Dr Craig Emerson, the Minister for Science and Research Senator Don Farrell, and Australia's Chief Scientist Professor Ian Chubb to unveil the Strategic Research Priorities.</p>
 <p>The Priorities are a result of extensive consultation across the Australian research spectrum, from academia to industry.</p>
@@ -23,6 +13,4 @@
 <p>The May Budget included an additional $321.2 million to support Australian researchers and research facilities to drive innovation and support high-quality jobs growth.</p>
 <p>The Strategic Research Priorities replace the 10-year old National Research Priorities.</p>
 <p>Details of the priorities can be found at <a href="http://www.innovation.gov.au/StrategicResearchPriorities">www.innovation.gov.au/StrategicResearchPriorities</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

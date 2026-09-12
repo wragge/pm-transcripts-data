@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17646</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17646</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I want to make some comments about Cyclone Yasi, then about the circumstances in Egypt.</p>
 <p>For many weeks now, as Australians have watched and hoped and sent their best wishes to the people of Queensland, the people of Queensland have had to meet the most destructive forces of nature.</p>
 <p>It's happened over so many weeks, and every day over the dreadful weeks that Queensland has faced, the people of Queensland have met what nature has thrown at them with courage and determination.</p>
@@ -70,6 +60,4 @@ PM: I want to make some comments about Cyclone Yasi, then about the circumstance
 <p>JOURNALIST: (inaudible)</p>
 <p>PM: They too are sheltering, as you would imagine as people have been instructed to do generally and preparations have been made for them and their families to shelter appropriately, but they are there on the ground, 4000 soldiers so that's a considerable complement to bring to the recovery task and any necessary search and rescue tasks.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

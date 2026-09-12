@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17263</transcript-id>
-    <title>Prime Minister Transcript of interview with Steve Price MTR 3 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister Kevin Rudd's been good enough to join us. Thanks for your time, Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17263</transcript-id><title>Prime Minister Transcript of interview with Steve Price MTR 3 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister Kevin Rudd's been good enough to join us. Thanks for your time, Prime Minister.</p>
 <p>PM: G'day, Steve. how are you?</p>
 <p>HOST: I'm well, thanks. This was a tax review, but on my reading of it we have not had one tax abolished.</p>
 <p>PM: Well, I think the key thing here, Steve, is to look at so many of your listeners would be interested in, which is what's happening with superannuation. Many of them are confronted with retirement with not enough super. What we do is therefore close that gap by increasing the superannuation guarantee level from 9 percent to 12 percent, and for all the small business people and tradies listening to your program, this funding an instant write-off for purchase of up to $5,000 in small business, that goes right to the heart of 2.4 million small businesses. We think this is a good step forward but of course there's more to be done.</p>
@@ -39,6 +29,4 @@
 <p>PM: Well, that of course lies very much in Mr Abbott hands. What we saw with him last week on the tobacco tax was day one - total hostility, total opposition. Come day two he seems to have back flipped and said that he would cop it. Let's just what happens when he's actually pushed on this question about whether he would seek to block this as well. He seems to be the master of standing on the fence on these sorts of questions.</p>
 <p>HOST: Appreciate your time, Prime Minister. Thanks a lot.</p>
 <p>PM: Thanks, Steve.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

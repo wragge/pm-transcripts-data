@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12042</transcript-id>
-    <title>Interview with Bert Newton, Good Morning Australia, Network Ten </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Election 2001.</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12042</transcript-id><title>Interview with Bert Newton, Good Morning Australia, Network Ten </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Election 2001.</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><strong>NEWTON:</strong></p>
 <p>We welcome the Prime Minister, Mr John Howard. Good morning PM.</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -70,6 +60,4 @@
 <p><strong>NEWTON:</strong></p>
 <p>You must have a bit of cold there you’d better get down here and have some Melbourne sunshine and see what happens. Thank you for your time this morning and good luck with the work you have to do before Saturday week. John Howard the Prime Minister of Australia.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18484</transcript-id>
-    <title>United States Marine Corps personnel begin first rotational deployment to northern Australia</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18484</transcript-id><title>United States Marine Corps personnel begin first rotational deployment to northern Australia</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The first rotation of around 200 United States Marine Corps personnel arrived in Darwin on Tuesday night.</p>
 <p>This initial rotation is an integral part of the enhanced practical cooperation measures pursuant to the Australia-United States Alliance relationship announced by Prime Minister Julia Gillard and United States President Barack Obama on 16 November 2011. </p>
 <p>It represents an evolution of existing exercises and activities that the United States (US) already conducts with the Australian Defence Force (ADF) in Australia.</p>
@@ -27,6 +17,4 @@ The first rotation of around 200 United States Marine Corps personnel arrived in
 <p>It also supports Australia's long-held strategic interests in supporting US engagement in our region in a manner that promotes peace and stability. The initiative could also provide new opportunities for Australiana and US engagement with our partners in the region.</p>
 <p>The Government welcomes this latest chapter in the more than sixty year Alliance relationship with the United States.</p>
 <p>Australia's own Force Posture Review is currently being considered by Government. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

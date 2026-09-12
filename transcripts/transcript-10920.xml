@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10920</transcript-id>
-    <title>TRANSCRIPT THE PRIME MINISTER                THE HON JOHN HOWARD MP                 ADDRESS TO CARSELDINE RETIREMENT VILLAGE, BRISBANE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/08/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10920</transcript-id><title>TRANSCRIPT THE PRIME MINISTER                THE HON JOHN HOWARD MP                 ADDRESS TO CARSELDINE RETIREMENT VILLAGE, BRISBANE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/08/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p> Well thank you very much Mr McKenzie-Forbes. To my colleague</p>
 <p> Teresa Gambaro, who is the Federal Member for Petrie, to John Hodges</p>
 <p> over there who use to represent this electorate, and to the other</p>
@@ -345,6 +335,4 @@
 <p> and good luck to all of you and it has been a very great privilege</p>
 <p> for me to have an opportunity of talking to you this morning.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12187</transcript-id>
-    <title>Australian Conditions of Service for Coalition Against Terrorism </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/10/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australian Defence Force personnel joining the international fight against terrorism will receive a comprehensive package of allowances and service conditions including tax free salary.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12187</transcript-id><title>Australian Conditions of Service for Coalition Against Terrorism </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/10/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australian Defence Force personnel joining the international fight against terrorism will receive a comprehensive package of allowances and service conditions including tax free salary.</p>
 <p>Australia’s service men and women engaging in this campaign go overseas in the name of Australia and with the full backing of the Australian nation.</p>
 <p>They will be fully supported and properly remunerated for their tasks.</p>
 <p>Following discussions with the Chief of the Defence Force, Admiral Chris Barrie, the Government has decided that Australian forces joining the international coalition will have their service declared as warlike for the purpose of conditions of service entitlements.</p>
@@ -18,11 +8,13 @@
 <p>Those deployed at sea, or at an air base, outside the land area of operations will receive tax free salary, and a tax free deployment allowance of $A125 per day.</p>
 <p>This includes HMAS Anzac currently involved in Gulf operations, and her intended replacement HMAS Sydney.</p>
 <p>Other conditions of service will include:</p>
-<ul><li>Compensation and rehabilitation coverage under the Veterans’ Entitlement Act and the Military Compensation Act</li>
+<ul>
+<li>Compensation and rehabilitation coverage under the Veterans’ Entitlement Act and the Military Compensation Act</li>
 <li>Additional War Service leave of 1.5 days per month of service on deployment</li>
 <li>Additional home loan assistance</li>
 <li>Pre-embarkation leave or reunion with a partner, where practicable, before deployment</li>
-</ul><p>This package of allowances and entitlements is designed to be as comprehensive as possible, and to provide the support our Defence Force personnel require while performing an extremely demanding and significant task.</p>
+</ul>
+<p>This package of allowances and entitlements is designed to be as comprehensive as possible, and to provide the support our Defence Force personnel require while performing an extremely demanding and significant task.</p>
 <p>It is also important that we also remember the families of serving personnel at this time.</p>
 <p>The Defence Community Organisation and the Department of Veterans’ Affairs will work closely to provide the highest level of support to the families of those personnel deployed to support the international coalition against terrorism.</p>
 <p>The Defence National Welfare Coordination Centre at Randwick Barracks, Sydney, on 1800 801 026, will continue to provide 24 hours support to the families of those personnel deployed.</p>
@@ -30,6 +22,4 @@
 <p>It is important that we not only acknowledge the contribution our men and women of the ADF will make towards the fight against terrorism but that we ensure they receive appropriate financial and repatriation benefits for their service.</p>
 <p>This package of conditions of service and the support mechanisms put in place to assist them and their families during their deployment are a clear demonstration of the Government’s commitment to supporting those who serve in the national and international interest in this vital war against terrorism.</p>
 <p><strong>19 October 2001</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

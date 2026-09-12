@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23514</transcript-id>
-    <title>Brooker Highway Upgrade</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>22/05/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will invest nearly $26 million in crucial upgrades to the Brooker Highway near Hobart.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23514</transcript-id><title>Brooker Highway Upgrade</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>22/05/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will invest nearly $26 million in crucial upgrades to the Brooker Highway near Hobart.</p>
 <p>The Brooker Highway is a key part of Tasmania’s north-south road corridor and serves to link the south of the State with the ports at Burnie, Bell Bay and Devonport. The Brooker Highway is a major freight route, carrying over two million tonnes of freight every year.</p>
 <p>The upgrade involves improvements to three intersections across 500 metres of the Brooker Highway some seven kilometres north of Hobart’s central business district. The intersections at Goodwood and Elwick Roads will be realigned into a single intersection and the roundabout at Howard Road will be replaced with a signalled intersection.</p>
 <p>With the Brooker Highway carrying the second highest traffic volumes in Greater Hobart, the upgrade will improve safety, travel times and reliability.</p>
@@ -19,6 +9,4 @@
 <p>Completion of this important road project will mean that people spend less time in traffic and more time with their families, that businesses can get their goods and services to market faster, and that our export industries can be more competitive.</p>
 <p>The Commonwealth Government is delivering on our <em>Economic Growth Plan for Tasmania</em> by investing in the infrastructure that Tasmania needs to grow.</p>
 <p>22 May 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

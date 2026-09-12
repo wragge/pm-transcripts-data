@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23798</transcript-id>
-    <title>Australia-India strategic research fund</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/09/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will provide $20 million over the next four years to support scientific collaboration between Australian and Indian scientists.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23798</transcript-id><title>Australia-India strategic research fund</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/09/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will provide $20 million over the next four years to support scientific collaboration between Australian and Indian scientists.</p>
 <p>The Australia-India Strategic Research Fund (AISRF) has supported more than 220 joint scientific projects in areas of key importance to both countries including agricultural research, biomedical devices and implants, nanotechnology and vaccines.</p>
 <p>AISRF projects have attracted significant contributions from respected research partners in both countries representing 90 top universities and research institutions.</p>
 <p>The Fund’s work has resulted in substantial commercialisation opportunities and a large number of publications, patents and prototypes.</p>
@@ -17,6 +7,4 @@
 <p>I visited the Jai Prakesh Narayan Apex Trauma Centre in Delhi today and saw firsthand the great work facilitated by the AISRF.</p>
 <p>Over the last ten years more than $60 million has been invested in the AISRF and I am pleased this further support will enable the Fund’s work to continue.</p>
 <p>5 September 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

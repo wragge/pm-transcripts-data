@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16896</transcript-id>
-    <title>Transcript of interview on ABC AM with Lyndal Curtis  Brisbane  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS: Mr Rudd, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16896</transcript-id><title>Transcript of interview on ABC AM with Lyndal Curtis  Brisbane  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS: Mr Rudd, welcome to AM.</p>
 <p>PM: Good morning.</p>
 <p>CURTIS: How are you going to respond to Fiji's decision?</p>
 <p>PM: Well, first of all I'll be speaking with the Australian Foreign Minister this morning about an appropriate response to developments by the Fijian regime, but let's put this into its context. The Fijian regime, led by Commodore Bainimarama has conducted the military coup, he has violated the constitution, he has refused to hold elections, and he's suspended the judiciary, and so therefore we have taken a deliberately hardline approach to this regime because we do not want this coup culture to spread elsewhere in the Pacific. That's our position. We will continue to maintain that position, and we'll consider an appropriate response to these actions taken by Bainimarama in the last 24 hours.</p>
@@ -40,6 +30,4 @@
 <p>I think our economic policy settings have been right so far, but managing the recovery will be a challenging task for policy makers in Australia. Managing the crisis has been a challenging task as well.</p>
 <p>CURTIS: Prime Minister, thank you very much.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

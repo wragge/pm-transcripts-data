@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6172</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>05/08/1983</release-date>
-    <release-type>Correspondence</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006172.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-%) ArISlxxAL<br />
-FOR MEDIA 5 August 1983<br />
-The following message has been sent to Mr Kevin<br />
-Bartlett: " Congratulations on your splendid record with<br />
-the Tigers and for the V. F. L. Best wishes for<br />
-your historic 400th senior game next Saturday.<br />
-Whatever the outcome your magnificent achievement<br />
-will cement your place in an Australian sporting<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6172</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>05/08/1983</field_date><release-type>Correspondence</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006172.pdf</document><subjects></subjects><content><![CDATA[<p>
+%) ArISlxxAL<br>
+FOR MEDIA 5 August 1983<br>
+The following message has been sent to Mr Kevin<br>
+Bartlett: " Congratulations on your splendid record with<br>
+the Tigers and for the V. F. L. Best wishes for<br>
+your historic 400th senior game next Saturday.<br>
+Whatever the outcome your magnificent achievement<br>
+will cement your place in an Australian sporting<br>
 legend. Bob Hawke" </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

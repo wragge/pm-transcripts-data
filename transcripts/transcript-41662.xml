@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41662</transcript-id>
-    <title>Australian Government Response to the Royal Commission into Institutional Responses to Child Sexual Abuse</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>13/06/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will establish a National Office for Child Safety and issue a formal apology in response to the Royal Commission into Institutional Responses to Child Sexual Abuse.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41662</transcript-id><title>Australian Government Response to the Royal Commission into Institutional Responses to Child Sexual Abuse</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>13/06/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will establish a National Office for Child Safety and issue a formal apology in response to the Royal Commission into Institutional Responses to Child Sexual Abuse.</p>
 <p>Every state and territory has now committed to sign on to the National Redress Scheme to create a truly national scheme from July 1 - one of the key recommendations of the Royal Commission.</p>
 <p>The response to the Royal Commission is wide-ranging and extensive. It aims to ensure that children are safe when in the care of an institution.</p>
 <p>The survivors have told their stories and we honour their bravery.</p>
@@ -20,17 +10,19 @@
 <p>Of the 409 recommendations, 84 deal with redress matters which the Government is addressing through the establishment of the National Redress Scheme scheduled to commence on 1 July 2018. Of the remaining 325 recommendations, 122 are directed wholly or in part to the Australian Government and 104 of these 122 have been accepted or accepted in principle, with the other 18 noted or requiring further consideration. The Australian Government has not rejected any of the Royal Commission’s recommendations.</p>
 <p>Our expectation is that non-government institutions will respond to each of the Royal Commission’s recommendations, indicating what action they will take in response to them and will report on their implementation of relevant recommendations annually in December, along with all governments. Where institutions decide not to accept the Royal Commission’s recommendations they should state so and why.</p>
 <p>Before the Royal Commission gave its final report, important initiatives were already underway, including:</p>
-<ul><li>The establishment of a National Redress Scheme for survivors of institutional child sexual abuse which is scheduled to commence from 1 July 2018. We are on track to deliver this with all states and territories (except WA) having announced their intent to opt into the scheme and the Western Australian Premier having given a firm commitment to join the national scheme in the next few weeks. Key non-government institutions having also opted in - the Catholic Church, Anglican Church, Uniting Church, Salvation Army, YMCA and Scouts.</li>
+<ul>
+<li>The establishment of a National Redress Scheme for survivors of institutional child sexual abuse which is scheduled to commence from 1 July 2018. We are on track to deliver this with all states and territories (except WA) having announced their intent to opt into the scheme and the Western Australian Premier having given a firm commitment to join the national scheme in the next few weeks. Key non-government institutions having also opted in - the Catholic Church, Anglican Church, Uniting Church, Salvation Army, YMCA and Scouts.</li>
 <li>In December 2017, the Australian Government appointed the Hon Dr David Gillespie MP as Assistant Minister for Children and Families.</li>
 <li>The National Children’s Commissioner and a wide range of advocacy and service groups developed National Principles for Child Safe Organisations to protect children in non-government care and state and territory institutions.</li>
 <li>The development of national standards and work is underway to establish a national database for working with children checks.</li>
 <li>Implementation of a Commonwealth Child Safe Framework in order to protect young people for which the Commonwealth has responsibility.</li>
-</ul><p>As recommended by the Royal Commission, the Government will report on its progress in implementing the recommendations in December each year for the next five years and will also conduct a comprehensive review after 10 years.</p>
+</ul>
+<p>As recommended by the Royal Commission, the Government will report on its progress in implementing the recommendations in December each year for the next five years and will also conduct a comprehensive review after 10 years.</p>
 <p>Further information about the Australian Government’s comprehensive response to the recommendations of the Royal Commission can be found at <a href="http://www.ag.gov.au/carcresponse">www.ag.gov.au/carcresponse</a>.</p>
 <p>Anyone who needs immediate assistance should contact:</p>
-<ul><li>Lifeline, on 13 11 14</li>
+<ul>
+<li>Lifeline, on 13 11 14</li>
 <li>1800Respect, on 1800 737 732, or</li>
 <li>MensLine Australia, on 1300 789 978</li>
-</ul>]]></content>
-  </transcript>
-</transcripts>
+</ul>
+]]></content></item></response>

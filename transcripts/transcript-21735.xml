@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21735</transcript-id>
-    <title>Doorstop Interview Sitting Room, Parliament House </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/05/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21735</transcript-id><title>Doorstop Interview Sitting Room, Parliament House </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/05/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister have you spoken to Tony Blair?</p>
 <p>PRIME MINISTER:</p>
 <p>Yes, I telephoned Mr Blair a short while ago.  I congratulated him on winning his third term. It's the first time a Labour Prime Minister in Great Britain has done that. The relations between Australia and Britain are of course more long-standing and deeper than relationships we have with any other country and I therefore look forward to working with Mr Blair closely over the time ahead.</p>
@@ -23,6 +13,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I'm not here to give an analysis in political science. I congratulate him on his victory and I've spoken to him, I've wished him well and I'm very ready as the elected Prime Minister of Australia to deal in the time ahead with Mr Blair.</p>
 <p> Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

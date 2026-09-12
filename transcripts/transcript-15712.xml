@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15712</transcript-id>
-    <title>Benazir Bhutto    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/12/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I strongly condemn the murder of Benazir Bhutto and of all those killed in this terrible act. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15712</transcript-id><title>Benazir Bhutto    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/12/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I strongly condemn the murder of Benazir Bhutto and of all those killed in this terrible act. </p>
 <p>The thoughts of all Australians are with those affected by this terrible attack. </p>
 <p>I offer my condolences and best wishes to the people of Pakistan, all of whom will be deeply affected by this attack. </p>
 <p>Benazir Bhutto was an historic figure of great influence in modern Pakistan. She had been campaigning resolutely for democracy in that country. </p>
@@ -18,6 +8,4 @@
 <p>The extremists behind this attack cannot be allowed to succeed. I urge all parties in Pakistan to act with restraint and to work for a return to a peaceful democratic process. </p>
 <p>It is my hope that a democratic Pakistan will be Benazir Bhutto's legacy.</p>
 <p>Media contact: 02 6277 7744 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

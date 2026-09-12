@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23012</transcript-id>
-    <title>Joint Press Statement, Jakarta</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>30/09/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>30 September 2013</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23012</transcript-id><title>Joint Press Statement, Jakarta</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>30/09/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>30 September 2013</p>
 <p align="center"><strong>TRANSCRIPT OF THE PRIME MINISTER </strong></p>
 <p align="center"><strong>THE HON. TONY ABBOTT MP</strong></p>
 <p align="center"><strong>JOINT PRESS STATEMENT WITH </strong></p>
-<p align="center"><strong>HIS EXCELLENCY DR SUSILO BAMBANG YUDHOYONO,<br />
+<p align="center"><strong>HIS EXCELLENCY DR SUSILO BAMBANG YUDHOYONO,<br>
 PRESIDENT OF THE REPUBLIC OF INDONESIA,</strong></p>
 <p align="center"><strong>ISTANA NEGARA, JAKARTA </strong></p>
 <p>E&amp;OE……………………….……………………………………………………………</p>
@@ -36,6 +26,4 @@ PRESIDENT OF THE REPUBLIC OF INDONESIA,</strong></p>
 <p>Bapak President, the best days of this relationship are ahead of us and they will be better days, thanks to your friendship for Australia and for your success as an Indonesian statesman on the global stage.</p>
 <p>Thank you so much for today's talks.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

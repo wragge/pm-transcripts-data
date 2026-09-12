@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17127</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Royal North Shore Hospital, Sydney 12 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: It's great to be back at the Royal North Shore, and I'd to thank our colleagues here, including Paul Roach, for taking us around, Maxine McKew, the local member. I've heard a lot about what's been going on here, and I think it's been a good story.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17127</transcript-id><title>Prime Minister Transcript of doorstop interview Royal North Shore Hospital, Sydney 12 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: It's great to be back at the Royal North Shore, and I'd to thank our colleagues here, including Paul Roach, for taking us around, Maxine McKew, the local member. I've heard a lot about what's been going on here, and I think it's been a good story.</p>
 <p>I began my consultations on the future of the national health and hospital system here at Royal North Shore Hospital about eight months ago. Since then, we have been around 103 hospitals around Australia. I've visited 21 of them, including the Royal North Shore. I've listened very carefully to what doctors, nurses, clinicians and others, and patients, have been saying about their expectations for the future of our health and hospital system.</p>
 <p>I'll just talk briefly about what's happened here first. I understand from Paul that they began lobbying for a PET scanner here back in 1997. Is that right? That was 13 years ago. I'm very pleased that this PET scanner is now up and functioning, and I think we saw Gordon this morning and we understand how this piece of new technology will actually make things better for him - in the analysis and the diagnosis and how he is treated.</p>
 <p>This is a good story, but you know something? Thirteen years is too long. And you know something? The undersupply of PET scanners across the country is something we need now to deal with.</p>
@@ -67,6 +57,4 @@
 <p>JOURNALIST: Prime Minister, an Australian has been lost at sea in Chile after the earthquake. What assistance has been given to his family or even efforts to help find him?</p>
 <p>PM: On the details of this, I would prefer that the Foreign Minister answer your question directly. I know that our diplomatic and consular officials in Santiago de Chile have been working closely with Australian families concerned about family members. But on the details of it I would much prefer that the Foreign Minister answers your question direct, and I'm sure that will be forthcoming later today.</p>
 <p>Thanks, folks. Better run.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

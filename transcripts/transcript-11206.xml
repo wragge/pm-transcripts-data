@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11206</transcript-id>
-    <title>Doorstop Interview on Departure for Papua New Guinea, RAAF Base Fairbairn, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/10/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Wounded Australian soldiers, Senator Minchin’s speech</subjects>
-    <content><![CDATA[<p><strong>7 October 1999</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11206</transcript-id><title>Doorstop Interview on Departure for Papua New Guinea, RAAF Base Fairbairn, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/10/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Wounded Australian soldiers, Senator Minchin’s speech</subjects><content><![CDATA[<p><strong>7 October 1999</strong></p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>JOURNALIST:</b></p>
 <p>Mr Howard, how concerned were you when you heard what happened in East Timor with the Australian soldiers involved in a firefight?</p>
@@ -36,6 +26,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>I’m going to go and talk to the Prime Minister of Papua New Guinea.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

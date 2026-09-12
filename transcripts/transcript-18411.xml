@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18411</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18411</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you. I have today received the overwhelming endorsement of my Labor colleagues to continue as Labor Leader and as Prime Minister. I thank them for their support and their faith in my capacity to lead the nation.</p>
 <p>The last week has seen us, the women and men of the Labor Party focused inwards, focused on ourselves. At times it's been ugly. I understand that.</p>
 <p>I also understand that as a result, Australians have had a gutful of seeing us focus on ourselves. I understand the frustration of Australians in seeing us do that.</p>
@@ -82,6 +72,4 @@ PM: Thank you. I have today received the overwhelming endorsement of my Labor co
 <p>JOURNALIST: Your behaviour over the last few days  -  you actually (inaudible) received a lot more direct, a lot more honest and even in some circumstances a little bit angry. Do you think you might change the way you approach political (inaudible) in the future?</p>
 <p>PM: Well I intend to be a very forceful advocate of the government's policies, so settle in.</p>
 <p>Any other questions? </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

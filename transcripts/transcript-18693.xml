@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18693</transcript-id>
-    <title>Better broadband for remote and digital Australia</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/07/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Julia Gillard and Minister for Broadband, Communications and the Digital Economy Senator Stephen Conroy today announced the next round of high-speed satellite and fixed wireless broadband for regional and remote Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18693</transcript-id><title>Better broadband for remote and digital Australia</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/07/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Julia Gillard and Minister for Broadband, Communications and the Digital Economy Senator Stephen Conroy today announced the next round of high-speed satellite and fixed wireless broadband for regional and remote Australia.</p>
 <p>A new contract worth an initial $280 million has been signed between NBN Co and Via Sat Inc for the manufacture of satellite dishes and other equipment to deliver fast and reliable broadband to families and businesses in regional, rural and remote Australia.</p>
 <p>The contract includes the construction of two 13.5 metre-wide satellite antennas for the National Broadband Network's ten satellite ground stations; as well as household satellite dishes and network infrastructure for NBN Co's data centres.</p>
 <p>This investment in the NBN's next generation satellite service will ensure as many as 200,000 homes and businesses in some of the remotest parts of Australia are able to access fast, affordable, and reliable broadband.</p>
@@ -37,6 +27,4 @@
 <p>Rockhampton</p>
 <p>Rockhampton Regional Council</p>
 <p>Central Highlands Regional Council</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

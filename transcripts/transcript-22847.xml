@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22847</transcript-id>
-    <title>Radio Interview with John Miller, Radio 4BC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: new tax system; work for the dole; army reserve; consultancy use; nursing homes; Olympic security; Fiji; Bob Carr; cricket match fixing.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22847</transcript-id><title>Radio Interview with John Miller, Radio 4BC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: new tax system; work for the dole; army reserve; consultancy use; nursing homes; Olympic security; Fiji; Bob Carr; cricket match fixing.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MILLER:</p>
 <p>Let’s hop right into it.  Apart from the problems yesterday revealed with Franklins, it would appear to have all gone very smoothly.</p>
@@ -92,6 +82,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

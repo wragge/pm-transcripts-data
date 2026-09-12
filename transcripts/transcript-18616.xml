@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18616</transcript-id>
-    <title>Transcript of interview with Steve Austin, ABC Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/06/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Julia Gillard, thanks very much for coming back into the studio.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18616</transcript-id><title>Transcript of interview with Steve Austin, ABC Brisbane</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/06/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Julia Gillard, thanks very much for coming back into the studio.</p>
 <p>PM: Good morning Steve, good to be here.</p>
 <p>HOST: Quick question, did you watch State of Origin last night?</p>
 <p>PM: I was able to watch the second half, I had a commitment which prevented me watching the first half, but I got all the action in the second half. Very tense at the end.</p>
@@ -104,6 +94,4 @@
 <p>PM: Oh look, I've had good productive chats with Mr Murdoch, I don't claim to know him well personally, but I have, as Deputy Prime Minister and as Prime Minister met him on more than one occasion.</p>
 <p>HOST: Thanks for coming in.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

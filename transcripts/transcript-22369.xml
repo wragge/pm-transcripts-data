@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22369</transcript-id>
-    <title>Doorstop Interview Crown Plaza, Darwin </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22369</transcript-id><title>Doorstop Interview Crown Plaza, Darwin </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>I'd like to start by saying how pleased I am that some Australians have been evacuated from Lebanon. I want to assure anxious relatives in Australia that the Government is doing everything it can, in a very difficult situation, to help their loved ones in Lebanon who want to get out.</p>
 <p> But it is a difficult situation, the fighting is getting heavier, it's more dangerous, the alternative exit routes, and I ask people to bear with us in a situation that is very traumatic for them, but extremely challenging. We have only a limited number of people of necessity in this area and they're working 24 hours a day to organise different ways of evacuating people and we're working in close cooperation with our friends and diplomatic partners in the region.</p>
 <p> Might I also take this opportunity of extending my sympathy to the government and people of Indonesia for the loss of life as a result of the latest tsunami and to wish the recovery efforts every success.</p>
@@ -35,6 +25,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think that's in the context of the last question.</p>
 <p>[ends]   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19426</transcript-id>
-    <title>Speech for 25th Anniversary of Parliament House</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/06/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19426</transcript-id><title>Speech for 25th Anniversary of Parliament House</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/06/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>This is my 15th year in Parliament, but I am always learning new things about this place.</p>
 <p>For example, I was recently told that it would take one painter 16 and a half years to paint the entire building.</p>
 <p>Which, if nothing else, gives us a new perspective on Michelangelo's achievement in the Sistine Chapel. </p>
@@ -56,6 +46,4 @@
 <p>Through their love of freedom, generations of Australians have built a great democracy.</p>
 <p>You have given that democracy a fine and worthy home.</p>
 <p>On behalf of the nation, I simply say: “thank you”. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

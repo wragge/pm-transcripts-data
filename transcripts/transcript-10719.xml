@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10719</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH NEIL MITCHELL RADIO 3AW, MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/03/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10719</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH NEIL MITCHELL RADIO 3AW, MELBOURNE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/03/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL:</p>
 <p>Mr Howard, thank you for agreeing to this.</p>
 <p>PRIME MINISTER:</p>
 <p>It's a pleasure.</p>
@@ -544,7 +534,5 @@
 <p>   and naturally, how strongly he would feel about this issue.</p>
 <p> MITCHELL:</p>
 <p>Okay, we will take one more call. I think we've got time. Brian,</p>
-<p>   go ahead please.
-</p>]]></content>
-  </transcript>
-</transcripts>
+<p>   go ahead please.</p>
+]]></content></item></response>

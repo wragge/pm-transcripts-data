@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17516</transcript-id>
-    <title>Transcript of interview with Alan Jones, 2GB</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/06/2010</release-date>
-    <release-type>Education</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17516</transcript-id><title>Transcript of interview with Alan Jones, 2GB</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/06/2010</field_date><release-type>Education</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JONES: Prime Minister, good morning.</p>
 <p>PM: Good morning, Alan.</p>
 <p>JONES: Congratulations.</p>
@@ -121,6 +111,4 @@ JONES: Prime Minister, good morning.</p>
 <p>PM: Absolutely not, no.</p>
 <p>JONES: Okay, good to talk to you. Thank you for your time. We'll talk again.</p>
 <p>PM: Thanks Alan.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19178</transcript-id>
-    <title>Interview with Leigh Sales</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/03/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC 7.30</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19178</transcript-id><title>Interview with Leigh Sales</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/03/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC 7.30</p>
 <p>HOST: Prime Minister, thank you for joining us.</p>
 <p>PM: My pleasure.</p>
 <p>HOST: After recent events, aren't Australians well within their rights to conclude that the Gillard Government is a dysfunctional mess that deserves to be consigned to opposition as soon as possible?</p>
@@ -82,6 +72,4 @@
 <p>Australians will make their judgment in September, and I will certainly be there saying we are the only political party with those positive plans for the future and I am the only leader with the capacity to guide our nation through in what can be a very rough and tumble world.</p>
 <p>HOST: Prime Minister, thank you very much for making time to come on the program tonight. Hopefully we'll see you again as the election draws closer.</p>
 <p>PM: Thanks Leigh. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

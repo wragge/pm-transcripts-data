@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22796</transcript-id>
-    <title>Radio Interview with Alan Jones, 2UE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/05/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: The 2000-2001 Budget; G3 spectrum; Labor’s debt; monetary policy; Senate obstruction; personal tax cuts; interest rates; home mortgages; bracket creep; rural programs; $20,000 scholarship scheme; pensions; diesel fuel; higher education</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22796</transcript-id><title>Radio Interview with Alan Jones, 2UE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/05/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: The 2000-2001 Budget; G3 spectrum; Labor’s debt; monetary policy; Senate obstruction; personal tax cuts; interest rates; home mortgages; bracket creep; rural programs; $20,000 scholarship scheme; pensions; diesel fuel; higher education</p>
 <p>E&amp;OE…………………………………………………………………………………</p>
 <p>JONES:</p>
 <p>And the Prime Minister’s on the line. Prime Minister, good morning.</p>
@@ -189,6 +179,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

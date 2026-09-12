@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19173</transcript-id>
-    <title>Changes to the Ministry</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19173</transcript-id><title>Changes to the Ministry</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Today Gary Gray joins the Cabinet as Minister for Resources and Energy, Minister for Tourism and Minister for Small Business.</p>
 <p>He has been a tireless advocate for business in his own community and in Western Australia and will bring that purpose to promoting the interests of the tourism sector and small business.</p>
 <p>His current roles as Special Minister of State and Minister for the Public Service and Integrity will be taken by the Attorney-General Mark Dreyfus.</p>
@@ -30,6 +20,4 @@
 <p>Amanda Rishworth, a great local campaigner, becomes Parliamentary Secretary for Sustainability and Urban Water, retaining that portfolio in South Australia. She will also be Parliamentary Secretary for Disabilities and Carers.</p>
 <p>Shayne Neumann MP, who before his parliamentary career established and ran a successful law firm, will be Parliamentary Secretary to the Attorney-General and Parliamentary Secretary for Health and Ageing</p>
 <p>I will recommend to Her Excellency the Governor-General that new members of the Ministry be sworn in on Monday 25 March 2013.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

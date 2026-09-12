@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16721</transcript-id>
-    <title>Prime Minister&#039;s blog update    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/07/2009</release-date>
-    <release-type>Website Updates</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This week the Prime Minister has started a blog focused on health and he's keen to hear your views and ideas for the future of our health system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16721</transcript-id><title><![CDATA[Prime Minister&#039;s blog update    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/07/2009</field_date><release-type>Website Updates</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This week the Prime Minister has started a blog focused on health and he's keen to hear your views and ideas for the future of our health system.</p>
 <p>The Prime Minister's blog is an opportunity for the community to provide comments and engage with each other in relation to this important topic.</p>
 <p>To participate or read what others have said, simply visit PM Connect.</p>
 <p>Over 900 posts on climate change were published to the Prime Minister's first blog  -  you can read it online.</p>
 <p>For more information visit the PM's Blog page at <a href="http://www.pm.gov.au/PM_Connect/PMs_Blog">www.pm.gov.au/PM_Connect/PMs_Blog</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

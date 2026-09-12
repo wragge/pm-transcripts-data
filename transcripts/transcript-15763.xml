@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15763</transcript-id>
-    <title>Joint Media release with The Minister for Families, Housing, Community Services and Indigenous Affairs, and James Bidgood MP Mackay Floods</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today announced that the Federal Government would provide additional assistance to Mackay residents seriously affected by the floods.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15763</transcript-id><title>Joint Media release with The Minister for Families, Housing, Community Services and Indigenous Affairs, and James Bidgood MP Mackay Floods</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today announced that the Federal Government would provide additional assistance to Mackay residents seriously affected by the floods.</p>
 <p>The Australian Government Disaster Recovery Payment (AGDRP) will be made available to those people adversely affected by the storms and associated flooding that commenced in the Mackay region on 14 February.</p>
 <p>Those eligible will be able to receive a one off payment of $1000 for adults and $400 for each child to help relieve their hardship.</p>
 <p>The Federal Government will continue to work with the Queensland Government and local community organisations to support those families through this difficult time.</p>
@@ -22,6 +12,4 @@
 <p>We really appreciate the magnificent job all those on the frontline are doing.</p>
 <p>For information on the AGDRP call the Australian Government Flood Assistance Hotline on 180 2333 or visit your local Centrelink office.</p>
 <p>More information on Australian Government assistance is available at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a> </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

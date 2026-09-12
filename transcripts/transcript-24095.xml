@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24095</transcript-id>
-    <title>New Year Message</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>01/01/2015</release-date>
-    <release-type></release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[]]></content>
-  </transcript>
-</transcripts>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24095</transcript-id><title>New Year Message</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>01/01/2015</field_date><release-type></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content></content></item></response>

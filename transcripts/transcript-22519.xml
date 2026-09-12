@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22519</transcript-id>
-    <title>Drought Support Extension for Farmers  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/10/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am very pleased to announce that the Australian Government will commit an additional $350 million for Exceptional Circumstances drought assistance to support farmers during these ongoing dry conditions.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22519</transcript-id><title>Drought Support Extension for Farmers  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/10/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am very pleased to announce that the Australian Government will commit an additional $350 million for Exceptional Circumstances drought assistance to support farmers during these ongoing dry conditions.</p>
 <p>  All eligible producers in 18 Exceptional Circumstances declared areas in New South Wales, Victoria, Queensland, South Australia and the Australian Capital Territory will receive an extension to their income support and interest rate subsidies until 31 March 2008.</p>
 <p>The Government's streamlined assessment process allows Exceptional Circumstances declarations to be 'rolled over' meaning that farmers are informed of decisions sooner and are able to manage their farms accordingly.</p>
 <p>This week the Government will be looking at whether there should be any changes to our drought assistance.  If it can be responsibly enhanced, then that will happen.</p>
@@ -18,6 +8,4 @@
 <p>Many Australian farmers are also being assisted through this drought by the operation of the Farm Management Deposits scheme, which allows taxable primary production income to be set aside in profitable years to be drawn down later.</p>
 <p>  I encourage farmers to visit their local Centrelink office, or call Centrelink's National Drought Helpline on 13 23 16 to check their eligibility for assistance.</p>
 <p>For further information on Australian Government drought assistance measures, please visit the Department of Agriculture, Fisheries and Forestry website at <a href="http://www.daff.gov.au">www.daff.gov.au</a>.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

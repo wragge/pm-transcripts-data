@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21458</transcript-id>
-    <title>Doorstop Interview Old Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21458</transcript-id><title>Doorstop Interview Old Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Mr Howard, the Free Trade legislation has gone through parliament - a big achievement?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh, the Free Trade Agreement is an historic achievement. Only this Government could have negotiated it and it will have enormous long term benefits for this country. I hope there are no hitches as a result of the Labor amendment but I think it's a fantastic outcome for this country and it's always mattered to me that the Free Trade Agreement should go through and that is why in the end I accepted an amendment that I didn't think was necessary and was clumsy, but the broader national interest required the Free Trade Agreement go through and I hope it will now be fully put into effect by both countries and over the years the benefits will be enormous for Australia.</p>
@@ -39,6 +29,4 @@
 <p>I have a commitment in Sydney tonight.</p>
 <p>Thank you.</p>
 <p>   [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

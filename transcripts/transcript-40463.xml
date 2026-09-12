@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40463</transcript-id>
-    <title>Interview with Kieran Gilbert, Sky News</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>21/09/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>KEIRAN GILBERT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40463</transcript-id><title>Interview with Kieran Gilbert, Sky News</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>21/09/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>KEIRAN GILBERT:</strong></p>
 <p>Prime Minister thanks for your time, you spoke of the risk of a proxy war when you think about Iran and the Saudis, you think about the US and Russia, are we on the brink of a new Cold War?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>No we’re not, nothing like it. The critical thing in Syria is to find a political settlement - there are warring parties within Syria, and of course they all, or almost all of them, have sponsors, supporters from outside. That’s why the diplomatic challenge is both for the external parties – you mentioned some of them – to reach agreement and then to be able to ensure that they bring the players on the ground to the table as well.</p>
@@ -61,6 +51,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you very much.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10880</transcript-id>
-    <title>MR MAURIE RUDD</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/02/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10880</transcript-id><title>MR MAURIE RUDD</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/02/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I was saddened to learn of the death on Saturday of Maurie Rudd, Secretary</p>
 <p> of the Newcastle and Northern Regions Branch of the Australian Workers'</p>
 <p> Union.</p>
@@ -26,6 +16,4 @@ I was saddened to learn of the death on Saturday of Maurie Rudd, Secretary</p>
 <p> him in the John Hunter Hospital last July.</p>
 <p>To his children, Sharon and Nathan, and to his brothers and sisters,</p>
 <p> I extend my sympathy and that of my government.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

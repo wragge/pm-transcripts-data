@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16522</transcript-id>
-    <title>Interview on ABC Hobart 936    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/04/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Good morning to you</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16522</transcript-id><title>Interview on ABC Hobart 936    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/04/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Good morning to you</p>
 <p>PM: Good, it's a bright and sunny day in Hobart.</p>
 <p>HOST: You're giving me your weather forecast, I'm just thinking as a Queenslander that it might be slightly chilly for you, but enjoy the crisp day anyway.</p>
 <p>PM: I went for a long walk last night, it was crisp, refreshing. It was good to see Hobart. I gather you guys have won an award in the ABC, is that right?</p>
@@ -53,6 +43,4 @@
 <p>This has been an area of massive non-investment by the previous Australian Government under Mr Howard. What we have done again through the national economic stimulus strategy and nation building strategy is commission $6 billion worth of investment in the largest single addition to the social housing program that this country has seen. 20,000 additional units of social housing being built, providing jobs today  -  but critically, providing available and affordable social housing for people in real need.</p>
 <p>At the end of the day there is a limit to what governments can do but we are taking these sorts of practical measures to help people in need now.</p>
 <p>HOST: Mr Rudd we'll have to leave it there and let you get to the meeting of COAG. Thank you very much for your time on mornings.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

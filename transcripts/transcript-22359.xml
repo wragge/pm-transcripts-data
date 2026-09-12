@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22359</transcript-id>
-    <title>Interview with Madonna King ABC Radio, Brisbane </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KING:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22359</transcript-id><title>Interview with Madonna King ABC Radio, Brisbane </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KING:</p>
 <p>The clean-up continues in North Queensland where Cyclone Larry destroyed so many homes and lives but a boost today, Prime Minister John Howard is writing to Premier Peter Beattie with an offer to fund the clean-up of debris from thousands of homes and businesses.</p>
 <p>  John Howard, welcome again to 612ABC Brisbane.</p>
 <p>PRIME MINISTER:</p>
@@ -91,6 +81,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

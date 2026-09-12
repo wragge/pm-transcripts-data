@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20612</transcript-id>
-    <title>National Counter-Terrorism Plan   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/06/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia will adopt a new counter terrorism alert code from today, with the introduction of four alert levels to replace the existing three-level system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20612</transcript-id><title>National Counter-Terrorism Plan   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/06/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia will adopt a new counter terrorism alert code from today, with the introduction of four alert levels to replace the existing three-level system.</p>
 <p>Also the Commonwealth will be empowered to coordinate Australia's response to terrorist incidents under a new provision for a national terrorist situation.</p>
 <p> These initiatives are major planks of the new National Counter-Terrorism Plan - the government's latest measure to protect Australian citizens from terrorist activities.</p>
 <p> The Plan, endorsed by all state and territory governments, will streamline mechanisms to prevent terrorist activity within Australia and guide national planning for handling should an incident occur.</p>
@@ -31,6 +21,4 @@
 <p>It is important that these updated arrangements be available to guide national planning for terrorist acts and handling should there be an incident. The plan will come into effect immediately and will be publicly available on the National Security Website (<a href="http://www.nationalsecurity.gov.au">www.nationalsecurity.gov.au</a>) in due course.</p>
 <p>The Government is committed to protecting its citizens from terrorist activities both here and abroad. The atrocity in Bali, following the horrific events of September 11, has proven that Australians are not immune from the actions of terrorists.</p>
 <p>These measures are aimed at further improving Australia's readiness for terrorist activity.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

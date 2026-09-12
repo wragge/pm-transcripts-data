@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16071</transcript-id>
-    <title>Interview with David Bevan, ABC Radio Adelaide   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16071</transcript-id><title>Interview with David Bevan, ABC Radio Adelaide   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Kevin Rudd, welcome to Adelaide and welcome to the morning program.</p>
 <p>PM: Hi David, good to be on the program.</p>
 <p>HOST: Prime Minister have you come to Adelaide offering anything to help solve the state's water crisis?</p>
@@ -60,6 +50,4 @@ HOST: Prime Minister Kevin Rudd, welcome to Adelaide and welcome to the morning 
 <p>PM: We'll listen very much to what the experts have got to say. We'll be back and back and back again when it comes to the Murray and South Australia's needs. This is a very dry part of Australia and this is the direst and hottest continent on the planet at a period of unprecedented climate change.</p>
 <p>Therefore I'm going to be back and back again in terms of further practical measure that we can do to help but I don't wish to give anybody any suggestion...</p>
 <p>HOST: We must go Prime Minister thank you its 9 o'clock.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

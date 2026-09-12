@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11101</transcript-id>
-    <title>Radio Interview with Howard Sattler – Radio 6PR </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/10/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>University fees, MRI Machines, Indonesian presidential elections, Laurie Brereton’s comments, republic referendum, preamble; GST impact on funerals</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11101</transcript-id><title>Radio Interview with Howard Sattler – Radio 6PR </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/10/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>University fees, MRI Machines, Indonesian presidential elections, Laurie Brereton’s comments, republic referendum, preamble; GST impact on funerals</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>SATTLER: </b></p>
 <p>Prime Minister, good morning, welcome to the programme.</p>
 <p><b>PRIME MINISTER: </b></p>
@@ -32,7 +22,7 @@
 <p>Well, some of them do. I mean, I’ve had demonstrations outside my office on a regular basis since I’ve been Prime Minister. I mean, it’s part and parcel…</p>
 <p><b>SATTLER: </b></p>
 <p>So they’re wasting their time…</p>
-<p><b> PRIME MINISTER: </b></p>
+<p><b>&nbsp;PRIME MINISTER: </b></p>
 <p>Well, they are wasting their time because we’re not going to do the things that our critics are saying that we’re going to do. They really are wasting their time and they should go back to their studies, particularly at this time of the year when most students, both at school and at university, are doing exams.</p>
 <p><b>SATTLER: </b></p>
 <p>All right, well, what about this, what looks like a tax rort involving radiology machines?</p>
@@ -182,12 +172,12 @@
 <p>Look, I’m really upset and really really angry. Yesterday I went to prepay my mum’s funeral and I was told that I had to pay $500 extra for the GST. Now how can you possibly charge people GST on a funeral? It’s terrible.</p>
 <p><b>PRIME MINISTER: </b></p>
 <p>Well it is the case that under the proposal, because there are services involved, there will be a GST. But of course it will not be the 10%. It will be less than that because there are many indirect taxes under the present system that add to the cost of funeral services.</p>
-<p><b>SATTLER:</b><br /><br />Prime Minister, can we just ask this lady, is the $500 next to 10% Shirley?</p>
+<p><b>SATTLER:</b><br><br>Prime Minister, can we just ask this lady, is the $500 next to 10% Shirley?</p>
 <p><b>CALLER: </b></p>
 <p>Well it must be.</p>
 <p><b>PRIME MINISTER: </b></p>
 <p>No no, well hang on you see, Shirley to be fair to the Government, and I know people sometimes don’t ever want to do that no matter what the government is, but to be fair I’d need to know all of the details. I mean it may be that the company is merely anticipating the impact of the GST.</p>
-<p><b>CALLER:</b><br /><br />I have already had notices sent out…</p>
+<p><b>CALLER:</b><br><br>I have already had notices sent out…</p>
 <p><b>PRIME MINISTER: </b></p>
 <p>I understand that. I know that and I’m not disputing it for a moment. But in order to give a completely factual answer I’d need to know the total cost, I’d need to know…..</p>
 <p><b>CALLER: </b></p>
@@ -214,7 +204,7 @@
 <p>We’ll have it sent to you Prime Minister. And thanks very much for joining us on the program today. Sorry I couldn’t get you to vote yes.</p>
 <p><b>PRIME MINISTER: </b></p>
 <p>That’s all right. I tell you what you should vote yes to the preamble.</p>
-<p><b>SATTLER:</b><br /><br />I was going to vote no for that.</p>
+<p><b>SATTLER:</b><br><br>I was going to vote no for that.</p>
 <p><b>PRIME MINISTER: </b></p>
 <p>You mean to say you’re a yes/no voter?</p>
 <p><b>SATTLER: </b></p>
@@ -232,6 +222,4 @@
 <p><b>SATTLER: </b></p>
 <p>Thanks for joining us.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

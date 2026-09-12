@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22126</transcript-id>
-    <title>Doorstop Interview RG Menzies Walk, Regatta Point, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/02/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22126</transcript-id><title>Doorstop Interview RG Menzies Walk, Regatta Point, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/02/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Prime Minister does the prospect of perhaps having the other side of the lake named after you encourage you to stay for a few more terms?</p>
 <p> PRIME MINISTER:</p>
 <p> I am not getting into any of that. It's a beautiful morning and welcome to the beginning of another parliamentary week.</p>
@@ -38,6 +28,4 @@
 <p> PRIME MINISTER:</p>
 <p> Look I don't think it's right of me to express a view on that, these people are facing their sentences and determinations about their future this week. I don't think it is either fair or appropriate of me to start saying this or that level of outrage will be forthcoming. Let's wait and see what the verdicts are and the Australian Government will react appropriately. Thank you.</p>
 <p> [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

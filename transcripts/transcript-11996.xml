@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11996</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: illegal immigrants.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11996</transcript-id><title>Interview with Neil Mitchell, Radio 3AW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: illegal immigrants.</p>
 <p>E&amp;OE................................</p>
 <p>MITCHELL:</p>
 <p>Mr Howard, good morning.</p>
@@ -125,6 +115,4 @@
 <p>Well it's certainly a message to the world that we are not a country of easy destination. We are a country that welcomes people from all around the world. We are a country that has done more than its fair share in relation to refugees. And a country that wants to go on doing it. But it's got to be done in a proper fashion where the most necessitous cases are given the first opportunity to be received into our country.</p>
 <p>MITCHELL:</p>
 <p>Prime Minister thank you very much for your time.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

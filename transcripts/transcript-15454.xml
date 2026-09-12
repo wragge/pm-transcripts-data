@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15454</transcript-id>
-    <title>Prime Minister&#039;s weekly radio message</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/09/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> Listen to this Release (MP3 -   1.66Mb - 108secs)</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15454</transcript-id><title><![CDATA[Prime Minister&#039;s weekly radio message]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/09/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> Listen to this Release (MP3 -   1.66Mb - 108secs)</p>
 <p>The drought is continuing to have a devastating impact on much of rural and regional Australia.</p>
 <p>Without urgent Spring rain, crops are expected to fail in the coming weeks - placing further strain on an already deeply stressed farm sector.</p>
 <p>The Commonwealth stands shoulder to shoulder with the people of rural and regional Australia as the drought continues to bite.</p>
@@ -23,6 +13,4 @@
 <p>The plan outlined almost eight months ago would put more water back into the system by piping and lining leaky irrigation channels.</p>
 <p>With the water shortage at a critical level, it is hard to understand why the state Labor Government in Victoria continues to play politics on such an important national issue.</p>
 <p>  Listen to this Release (MP3 -   1.66Mb - 108secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

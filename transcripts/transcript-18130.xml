@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18130</transcript-id>
-    <title>Sam Stosur</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/09/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18130</transcript-id><title>Sam Stosur</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/09/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Sport Mark Arbib today congratulated US Open winner Samantha Stosur on her outstanding tournament.</p>
 <p>Sam Stosur became the first Australian woman to win a Grand Slam title since Evonne Goolagong-Cawley won Wimbledon in 1980 and the first Australian woman to win the US Open since Margaret Court in 1973.</p>
 <p>Her 6-2 6-3 win over Serena Williams topped off an outstanding tournament, including prevailing in the longest-ever women's match at the US Open.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard and Minister for Sport Mark Arbib today congratulat
 <p>Her win will encourage the next generation of young Australian players to take to the court.</p>
 <p>This is a great achievement and shows the future of Australian tennis is on the rise following other Grand Slam successes earlier this year, with Ashleigh Barty and Luke Saville winning the junior titles at Wimbledon.</p>
 <p>The Gillard Labor Government provides almost $1.5 million annually to support Australian tennis, with $960,000 targeted towards increasing participation in the sport. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

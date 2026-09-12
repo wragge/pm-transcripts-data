@@ -1,41 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>3135</transcript-id>
-    <title>APPOINTMENTS</title>
-    <prime-minister>Whitlam, Gough</prime-minister>
-    <period-of-service>19721205 - 19751111</period-of-service>
-    <release-date>23/01/1974</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003135.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-AL; At<br />
-PRIME MINISTER PRESS STATEMENT NO. 176<br />
-23 January 1973.<br />
-APPOINTMENTS<br />
-The Executive Council has approved the following appointments:<br />
-Appointed to the Remuneration Tribunal:<br />
-Mr Justice Campbell<br />
-Mr Andrew Grimwade<br />
-Mr R. M. Porter ( General Manager, N. S. W. Government Insurance<br />
-Office)<br />
-Appointed to Home Loans Investment Corporation ( part-time):<br />
-Dr Patricia Apps, Phd. ( Cambridge), M. E. D. ( Yale), B. Arch.<br />
-Lecturer in Architecture Sydney University. Age: 32<br />
-Re-appointed to the Australian Film Development Corporation<br />
-Mr T. S. Duckmanton<br />
-Mr D. E. Brown<br />
-Mr Barry Jones<br />
-Appointed to the Australian Broadcasting Control Board<br />
-Mr W. L. C. Davies, manager of Southern T. V. Corp of Adelaide ( NWS9)<br />
-Mr H. Souter ( part-time member)<br />
-Appointed to the Industries Assistance Commission<br />
-Prof. Alan Grahame Lloyd ( as Commissioner)<br />
-Ms Hylda Rolfe ( as Commissioner)<br />
-Appointed as Director of the Australian Institute of Marine Science<br />
-Prof. Malvern Gilmartin<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>3135</transcript-id><title>APPOINTMENTS</title><prime-minister>Whitlam, Gough</prime-minister><period-of-service>19721205 - 19751111</period-of-service><field_date>23/01/1974</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003135.pdf</document><subjects></subjects><content><![CDATA[<p>
+AL; At<br>
+PRIME MINISTER PRESS STATEMENT NO. 176<br>
+23 January 1973.<br>
+APPOINTMENTS<br>
+The Executive Council has approved the following appointments:<br>
+Appointed to the Remuneration Tribunal:<br>
+Mr Justice Campbell<br>
+Mr Andrew Grimwade<br>
+Mr R. M. Porter ( General Manager, N. S. W. Government Insurance<br>
+Office)<br>
+Appointed to Home Loans Investment Corporation ( part-time):<br>
+Dr Patricia Apps, Phd. ( Cambridge), M. E. D. ( Yale), B. Arch.<br>
+Lecturer in Architecture Sydney University. Age: 32<br>
+Re-appointed to the Australian Film Development Corporation<br>
+Mr T. S. Duckmanton<br>
+Mr D. E. Brown<br>
+Mr Barry Jones<br>
+Appointed to the Australian Broadcasting Control Board<br>
+Mr W. L. C. Davies, manager of Southern T. V. Corp of Adelaide ( NWS9)<br>
+Mr H. Souter ( part-time member)<br>
+Appointed to the Industries Assistance Commission<br>
+Prof. Alan Grahame Lloyd ( as Commissioner)<br>
+Ms Hylda Rolfe ( as Commissioner)<br>
+Appointed as Director of the Australian Institute of Marine Science<br>
+Prof. Malvern Gilmartin<br>
 CANBERRA. A. C. T. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

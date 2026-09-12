@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23830</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW, Melbourne</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>16/09/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Australian Defence Force contribution to international coalition against ISIL,  cracking down on terrorism financing,  constitutional recognition for the first Australians,  East West Link.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23830</transcript-id><title>Interview with Neil Mitchell, Radio 3AW, Melbourne</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>16/09/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Australian Defence Force contribution to international coalition against ISIL, cracking down on terrorism financing, constitutional recognition for the first Australians, East West Link.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Neil, it’s a pleasure to be with you.</p>
 <p><strong>NEIL MITCHELL:</strong></p>
 <p>Have Australian personnel now left for the Middle East?</p>
@@ -34,7 +24,7 @@
 <p><strong>NEIL MITCHELL:</strong></p>
 <p>Ok. It’s estimated today this could cost billions of dollars for Australia which is possibly correct, obviously you wouldn’t know. But does this jeopardise the surplus?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>The short answer is it shouldn’t.  At the moment we a have a commitment in Afghanistan and it’s envisaged that the commitment in Iraq will cost about the same as our commitment in Afghanistan costs and that was in the order of a quarter of a billion dollars every six months, but the final costings are obviously yet to be worked out.</p>
+<p>The short answer is it shouldn’t.&nbsp; At the moment we a have a commitment in Afghanistan and it’s envisaged that the commitment in Iraq will cost about the same as our commitment in Afghanistan costs and that was in the order of a quarter of a billion dollars every six months, but the final costings are obviously yet to be worked out.</p>
 <p><strong>NEIL MITCHELL:</strong></p>
 <p>The United States continues to describe this as war. Do you still want to avoid that term?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -92,6 +82,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you so much. Thanks, Neil.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

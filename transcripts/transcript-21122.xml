@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21122</transcript-id>
-    <title>Doorstop Interview, Victoria  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/02/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21122</transcript-id><title>Doorstop Interview, Victoria  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/02/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PRIME MINISTER:</p>
 <p>You have some questions, have you?</p>
 <p>JOURNALIST:</p>
@@ -77,6 +67,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>Well, I think there are a lot of things that will help Mr Barresi.  I think his superb work as a local member, the strong policies of the Government and the fact that we are committed to providing a freeway, a Scoresby Freeway, not a Scoresby tollway.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

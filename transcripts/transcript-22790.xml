@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22790</transcript-id>
-    <title>Interview with Tim Cox, ABC Tasmania</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/05/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: GST and political parties; Prime Minister’s visit to Korea and Korean war veterans; GST price effects; Prime Minister’s office; indigenous issues; states’ rights; Internet gambling</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22790</transcript-id><title>Interview with Tim Cox, ABC Tasmania</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/05/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: GST and political parties; Prime Minister’s visit to Korea and Korean war veterans; GST price effects; Prime Minister’s office; indigenous issues; states’ rights; Internet gambling</p>
 <p>E&amp;OE…………………………………………………………………………………</p>
 <p>COX:</p>
 <p>Prime Minister good morning to you.</p>
@@ -225,6 +215,4 @@
 <p>COX:</p>
 <p>Prime Minister good to talk to you this morning and thanks indeed for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

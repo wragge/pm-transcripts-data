@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20602</transcript-id>
-    <title>Governor General   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/05/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Governor-General and I met at Admiralty House Sydney this morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20602</transcript-id><title>Governor General   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/05/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Governor-General and I met at Admiralty House Sydney this morning.</p>
 <p> We have agreed that Dr Hollingworth should stand aside from the office of Governor-General until the proceedings initiated against him and others by the late "Annie" Jarmyn have been resolved.</p>
 <p> During the period that he stands aside, the senior State Governor Sir Guy   Green of Tasmania will be asked to administer the Commonwealth. A minor amendment to the Letters Patent relating to the office of Governor-General will be required. Formal procedures to bring about this change have already been initiated.</p>
 <p> It is only when the proceedings started by the late Ms Jarmyn have been resolved that proper consideration can be given by the Governor-General to his longer-term tenure of the office.</p>
@@ -23,6 +13,4 @@
 <p> The fitness of Dr Hollingworth to hold the office of Governor-General has been vigorously questioned in the wake of the report of the Board of Inquiry established by the Anglican Diocese of Brisbane.</p>
 <p>It should be pointed out that this inquiry was a purely private one. It was not a judicial inquiry. Dr Hollingworth himself has admitted a serious error of judgement but strongly disputes a major negative finding of the inquiry that related to him. He believes that the conduct and handling of the inquiry involved his being denied natural justice. Dr Hollingworth has obtained Senior Counsel's opinion, which supports this belief.</p>
 <p> It should also be noted that Dr Hollingworth made a statement on 20 February 2002 canvassing in detail his handling of issues, which were the subject of the Board of Inquiry. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

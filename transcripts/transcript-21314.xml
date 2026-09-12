@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21314</transcript-id>
-    <title>Doorstop Interview Kwincina Freeway, Perth </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>10 June 2004</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21314</transcript-id><title>Doorstop Interview Kwincina Freeway, Perth </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>10 June 2004</p>
 <p>  JOURNALIST:</p>
 <p> Mr Howard, the State Government says it's not going to put money into this project until 2008.  Is the Federal Government going to remain true to its commitment if that's the case?</p>
 <p> PRIME MINISTER:</p>
@@ -63,6 +53,4 @@
 <p> PRIME MINISTER:</p>
 <p> Well, that matter is being considered and Amanda Vanstone will speak for the Government on the issue. Okay.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

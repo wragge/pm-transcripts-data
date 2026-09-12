@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17587</transcript-id>
-    <title>Transcript of interview, Channel Seven News </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17587</transcript-id><title>Transcript of interview, Channel Seven News </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, it now seems certain this disaster is going to get much worse before it gets better. How much help can you provide to Queensland? Will the army be sent in large numbers?</p>
 <p>PM: Our Australian Defence Force personnel are already out on the ground. They have been working with Queensland across this emerging flood crisis and we have had helicopters in the air today assisting with search and rescue work.</p>
 <p>I've certainly said to the Premier of Queensland that anything she and the people of Queensland need from our Australian Defence Force will be provided to help Queenslanders as they face this grim and rapidly evolving crisis.</p>
@@ -19,6 +9,4 @@ HOST: Prime Minister, it now seems certain this disaster is going to get much wo
 <p>HOST: Prime Minister, speaking of shoulder to shoulder, are you intending to visit the disaster zone?</p>
 <p>PM: I will be travelling to Brisbane this evening, later tonight, so I will be there on the ground tomorrow.</p>
 <p>HOST: Prime Minister, thanks for your time.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40051</transcript-id>
-    <title>Australia’s new state-of-the-art icebreaker unveiled</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/10/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>New Icebreaker</subjects>
-    <content><![CDATA[<p>The Australian Government has today provided the first look at Australia’s new icebreaker, showcasing a modern, sophisticated ship that will offer scientists unprecedented and extended access to the Southern Ocean and Antarctica.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40051</transcript-id><title>Australia’s new state-of-the-art icebreaker unveiled</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/10/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>New Icebreaker</subjects><content><![CDATA[<p>The Australian Government has today provided the first look at Australia’s new icebreaker, showcasing a modern, sophisticated ship that will offer scientists unprecedented and extended access to the Southern Ocean and Antarctica.</p>
 <p>The once-in-a-generation investment by the Australian Government will form the centrepiece of Australia’s Antarctic presence and influence the shape of Australia’s Antarctic programme for decades to come.</p>
 <p>The new, custom built icebreaker will be uniquely tailored to meet Australia’s needs. It will be faster, larger, stronger and offer increased endurance compared with the ageing Aurora Australis which has been battling the stormy Southern Ocean since 1989.</p>
 <p>The new ship provides a modern platform for marine science research in both sea ice and open water.</p>
@@ -23,6 +13,4 @@
 <p>The Department of the Environment and DMS Maritime Pty Ltd have recently commenced formal contract negotiations.</p>
 <p>Subject to successful contract negotiations, the icebreaker will be built by Damen Shipyards, a highly reputable global shipbuilder that has produced a broad range of bespoke vessels; including scientific, hydrographic, naval and ice class ships.</p>
 <p>The new icebreaker is expected to be commissioned in October 2019.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

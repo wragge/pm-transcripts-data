@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20656</transcript-id>
-    <title>Interview with Naomi Robson, Today Tonight, Channel Seven   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/02/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ROBSON:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20656</transcript-id><title>Interview with Naomi Robson, Today Tonight, Channel Seven   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/02/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ROBSON:</p>
 <p>And joining me now from Canberra is Prime Minister John Howard and Prime Minister given what we've seen and heard from Colin Powell is war inevitable?</p>
 <p>PRIME MINISTER:</p>
 <p>I hope that it is not inevitable. Clearly the Powell presentation is compelling, it's convincing and it quite plainly presents the Security Council of the United Nations with the responsibility of enforcing its own decisions. I agree with what was said a moment ago that if the Security Council of the United Nations walks away from its responsibility on this issue then it will do itself enormous historical damage. See, what the Powell presentation revealed was that Iraq has been cheating on and deceiving not the United States but the Security Council of the United Nations because the weapons inspectors, the deception of which was clearly demonstrated in the Powell presentation, are the weapons inspectors of the United Nations, they're not the weapons inspectors of the United States.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

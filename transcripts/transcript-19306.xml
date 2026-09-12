@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19306</transcript-id>
-    <title>2013 Defence White Paper: Air Combat Capability</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19306</transcript-id><title>2013 Defence White Paper: Air Combat Capability</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard and Minister for Defence Stephen Smith today announced the steps the Government has taken to strengthen Australia's air combat capability.</p>
 <p>The 2013 Defence White Paper highlights the strategic importance of a potent and flexible air combat capability to control Australia's air approaches and support operations in the land, sea and air environments.</p>
 <p>Emerging advanced air combat and air defence capabilities within the region, together with the proliferation of modern electronic warfare systems, will make the air combat tasks of controlling the air, conducting strike and supporting land and naval forces increasingly challenging.</p>
@@ -21,6 +11,4 @@
 <p>Due to challenges and delays within the JSF Program, the United States restructured the JSF Program last year, deferring the acquisition of 179 aircraft and providing US$15 billion less in funding over the next five years.  Australia aligned itself to this schedule in the 2012-13 Budget.  While the US remains committed to the JSF, procurement has been slowed to complete more testing and make developmental changes before the purchase of aircraft in significant quantities.</p>
 <p>The Government remains committed to acquiring the fifth-generation JSF aircraft, with three operational squadrons planned to enter service beginning around 2020 to replace the F/A-18A/B Hornet aircraft.</p>
 <p>Australia's Super Hornet aircraft, the delivery of the Growler electronic attack aircraft and the supporting KC-30A air-to-air refuelling aircraft will ensure the continued potency of Australia's air combat system in projecting decisive air power in the defence of Australia and its interests.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

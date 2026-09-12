@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23677</transcript-id>
-    <title>First meeting of the Prime Minister&#039;s Advisory Council on Veterans&#039; Mental Health</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/07/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The first meeting of the Prime Minister’s Advisory Council on Veterans’ Mental Health was held in Canberra today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23677</transcript-id><title><![CDATA[First meeting of the Prime Minister&#039;s Advisory Council on Veterans&#039; Mental Health]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/07/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The first meeting of the Prime Minister’s Advisory Council on Veterans’ Mental Health was held in Canberra today.</p>
 <p>Chaired by retired Chief of Navy, Vice Admiral Russ Crane AO, CSC, RAN (Ret’d) the 11 Council members bring a broad range of views and experience to the table. Corporal Ben Roberts-Smith VC, MG will serve as Deputy Chair.</p>
 <p>The Council will meet twice a year and will assist the Government in improving understanding of the unique nature of military service and its impact on mental health.</p>
 <p>The challenges facing our returned service personnel and their families are great. The formation of this Council recognises the importance of ensuring the system to support those who have served our nation is modern, responsive and innovative.</p>
@@ -19,53 +9,70 @@
 <p>The Council membership and the Council’s Terms of Reference are attached.</p>
 <p>24 July 2014</p>
 <p><strong>Prime Ministerial Advisory Council on Veterans’ Mental Health</strong></p>
-<table border="0" cellpadding="0" cellspacing="0" width="583"><tbody><tr><td>
+<table border="0" cellpadding="0" cellspacing="0" width="583">
+<tbody>
+<tr>
+<td>
 <p><strong>Position</strong></p>
 </td>
 <td>
 <p><strong>Name</strong></p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Chair</p>
 </td>
 <td>
 <p>Vice Admiral Russ Crane AO, CSM, RAN (Ret’d)</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Deputy Chair</p>
 </td>
 <td>
 <p>Corporal Ben Roberts-Smith VC, MG</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Member</p>
 </td>
 <td>
 <p>Mr Geoffrey Evans</p>
 <p>Younger Veterans Advisor, RSL LifeCare</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Member</p>
 </td>
 <td>
 <p>Mrs Mel Pyrah</p>
 <p>Member, Partners of Veterans Association of Australia</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Member</p>
 </td>
 <td>
 <p>Air Commodore Tracy Smart AM</p>
 <p>Director General Strategic Health Coordination, Joint Health Command</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Member</p>
 </td>
 <td>
 <p>Mr Ryan Stokes</p>
 <p>Chief Executive Officer, Australian Capital Equity</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Member</p>
 </td>
 <td>
@@ -73,7 +80,9 @@
 <p>Chairman, The Royal Australian Regiment Association Corporation</p>
 <p>Member, Veterans Advisory Council of South Australia</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Ex-officio</p>
 </td>
 <td>
@@ -81,7 +90,9 @@
 <p>First Assistant Secretary, Health and Community Services</p>
 <p>Department of Veterans’ Affairs</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Ex-officio</p>
 </td>
 <td>
@@ -89,7 +100,9 @@
 <p>Commissioner, Repatriation Commission</p>
 <p>Department of Veterans’ Affairs</p>
 </td>
-</tr><tr><td>
+</tr>
+<tr>
+<td>
 <p>Ex-officio</p>
 </td>
 <td>
@@ -97,50 +110,57 @@
 <p>Chair, Mental Health Clinical Reference Group</p>
 <p>Department of Veterans’ Affairs</p>
 </td>
-</tr></tbody></table><p><br clear="all" /><br />
- </p>
+</tr>
+</tbody>
+</table>
+<p><br clear="all"><br>
+&nbsp;</p>
 <p align="center"><strong>PRIME MINISTERIAL ADVISORY COUNCIL </strong></p>
 <p align="center"><strong>ON VETERANS’ MENTAL HEALTH</strong></p>
 <p align="center"><strong>TERMS OF REFERENCE</strong></p>
 <p><strong>PREAMBLE</strong></p>
-<p>Mental illness will impact almost half the Australian population over a lifetime.  As noted by the National Mental Health Commission in its <em>National Mental Health Report 2013</em>, mental health reform has been a longstanding priority for all governments over many years, with significant investments in clinical and community support services.  However, much remains to be done to build a modern, responsive mental health system in Australia.</p>
-<p>There are particular risks for our former serving men and women who may have been put in harm’s way in the course of their service.  One of the four pillars of the Government’s plan for veterans’ affairs is tackling mental health challenges for veterans and their families. The Government is therefore establishing a high level Prime Ministerial Advisory Council with a specific focus on mental health issues affecting veterans and their families.</p>
+<p>Mental illness will impact almost half the Australian population over a lifetime.&nbsp; As noted by the National Mental Health Commission in its <em>National Mental Health Report 2013</em>, mental health reform has been a longstanding priority for all governments over many years, with significant investments in clinical and community support services.&nbsp; However, much remains to be done to build a modern, responsive mental health system in Australia.</p>
+<p>There are particular risks for our former serving men and women who may have been put in harm’s way in the course of their service.&nbsp; One of the four pillars of the Government’s plan for veterans’ affairs is tackling mental health challenges for veterans and their families. The Government is therefore establishing a high level Prime Ministerial Advisory Council with a specific focus on mental health issues affecting veterans and their families.</p>
 <p><strong>ROLE</strong></p>
 <p>The role of the Prime Ministerial Advisory Council on Veterans’ Mental Health (the Council) is to advise the Prime Minister, the Minister for Veterans’ Affairs, and the Government on high level strategic and complex matters relating to the mental health of veterans and their families, particularly those relating to former serving personnel with service after 1975.</p>
 <p><strong>AIMS</strong></p>
 <p>The aim of Council is to provide timely and comprehensive advice to Government about mental health issues for veterans and their families, including consideration of:</p>
-<ol><li>The lived experience of ex-serving personnel and their families of the mental health system as health care consumers and carers</li>
+<ol>
+<li>The lived experience of ex-serving personnel and their families of the mental health system as health care consumers and carers</li>
 <li>Emerging research and information on the impact of military service on the mental health of ex-serving personnel and their families</li>
 <li>The means by which any identified gaps in the veteran mental health service system might be addressed, to move towards a modern, responsive system</li>
 <li>Innovative ways to tackle the challenges relating to mental health facing ex-serving personnel and their families</li>
-</ol><p><strong>REFERRAL OF MATTERS</strong></p>
+</ol>
+<p><strong>REFERRAL OF MATTERS</strong></p>
 <p>The Council considers matters on referral from the Prime Minister, and the Minister for Veterans’ Affairs.</p>
 <p>Where the Council is of the view that another forum or committee is best placed to consider a matter raised with it through correspondence, the Council will refer the matter to the Chair of that forum or committee. If the correspondent remains dissatisfied with the advice received and the matter falls within its remit, the Council may seek a written submission from the relevant agency or authority, for its consideration.</p>
 <p>In addition to matters referred formally to the Council, members may propose agenda items relevant to the Council’s remit for discussion at its meetings. Deliberations on those matters will be informed by written and oral submissions on invitation from the Council.</p>
 <p><strong>Relationship with other advisory bodies</strong></p>
 <p>In fulfilling its role, the Council will be cognisant of, refer to, and draw on, other relevant advisory bodies including (but not limited to) the National Mental Health Commission, noting the Commission’s mission is to give mental health and suicide prevention national attention, to influence reform and to help people live contributing lives by reporting, advising and collaborating.</p>
 <p>In order to maximise cross-communication with other relevant bodies, the Chairs (or other appropriate members) will be ex officio members of the Council.</p>
-<p>Other relevant bodies include the Department of Veterans’ Affairs’ advisory bodies,  including the Veteran Mental Health Clinical Reference Group and the National Consultation Framework bodies.</p>
+<p>Other relevant bodies include the Department of Veterans’ Affairs’ advisory bodies,&nbsp; including the Veteran Mental Health Clinical Reference Group and the National Consultation Framework bodies.</p>
 <p><strong>MEMBERSHIP</strong></p>
 <p>Members of the Council are appointed by the Minister for Veterans’ Affairs:</p>
-<ul><li>The Council will comprise up to 12 Members, including the Chair;</li>
+<ul>
+<li>The Council will comprise up to 12 Members, including the Chair;</li>
 <li>The Chair, who will be independent of ex-service organisations and the Departments of Veterans’ Affairs and Defence, will possess a strong background and experience at high levels in matters relevant to the Council’s Role and Aims;</li>
 <li>Council membership will include ex-officio members;</li>
-<li>Members who are not ex-officio will be chosen on the basis of individual merit.  They will possess a strong background interest and experience in, as well as a profound understanding of, veterans’ mental health; and</li>
+<li>Members who are not ex-officio will be chosen on the basis of individual merit.&nbsp; They will possess a strong background interest and experience in, as well as a profound understanding of, veterans’ mental health; and</li>
 <li>Terms of appointment will be for three years and will not exceed two consecutive terms.</li>
 <li>Continuity will be maintained by staging appointments at the Minister’s discretion.</li>
-</ul><p><strong>MEETINGS</strong></p>
+</ul>
+<p><strong>MEETINGS</strong></p>
 <p>The Council will meet twice a year, in person and/or by telephone or video conference if required.</p>
 <p>The Council may also meet with invited presenters for the purpose of presentations and interactive discussions.</p>
 <p><strong>SECRETARIAT SUPPORT</strong></p>
 <p>Secretariat support for open Council sessions will be provided by the Department of Veterans’ Affairs.</p>
 <p>The Secretariat is required to provide the following to the Chair within two weeks of a Council meeting:</p>
-<ul><li>a draft Summary of Proceedings, to be published to the Council’s site on the Minister for Veterans’ Affairs’ website;</li>
+<ul>
+<li>a draft Summary of Proceedings, to be published to the Council’s site on the Minister for Veterans’ Affairs’ website;</li>
 <li>draft Minutes of the meeting, to be circulated only among Members; and</li>
 <li>a list of Action Items arising from the meeting.</li>
-</ul><p>The Secretariat will circulate the final Minutes to members and publish the final Summary of Proceedings on the Minister’s website within five working days of their clearance by the Chair.</p>
+</ul>
+<p>The Secretariat will circulate the final Minutes to members and publish the final Summary of Proceedings on the Minister’s website within five working days of their clearance by the Chair.</p>
 <p><strong>REVIEW</strong></p>
 <p>The Council’s effectiveness will be reviewed periodically, as requested by the Minister.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

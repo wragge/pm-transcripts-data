@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17107</transcript-id>
-    <title>Prime Minister Transcript of interview with 4BC Breakfast 4 March 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Kevin Rudd, welcome to the show.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17107</transcript-id><title>Prime Minister Transcript of interview with 4BC Breakfast 4 March 2010  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Kevin Rudd, welcome to the show.</p>
 <p>PM: Thanks for having me on the program. I think Madonna's right to be upset.</p>
 <p>HOST: Absolutely. I mean, particularly the Queensland health system, but I watched you at the Press Club yesterday Kevin, and I truly believe that you want to fix the health system. But I'm just -</p>
 <p>PM: Well I'm from Queensland mate, I know what's gone right here and what's been going wrong here. And let me tell you, we're not Robinson Crusoe. There are problems right across the country. We need better health, better hospitals for the future. That's what we're on about with this reform.</p>
@@ -39,6 +29,4 @@
 <p>PM: Well it seems that he likes to live on the edge a bit, but, you know, good luck to him.</p>
 <p>HOST: Alright Kevin, thank you very much for your time this morning.</p>
 <p>PM: Thanks a lot, thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

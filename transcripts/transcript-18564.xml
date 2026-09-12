@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18564</transcript-id>
-    <title>Transcript of interview with Jon Faine, ABC Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18564</transcript-id><title>Transcript of interview with Jon Faine, ABC Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Good morning to you.</p>
 <p>PM: Good morning Jon.</p>
 <p>HOST: Yesterday was nearly catastrophic, you don't know day-to-day what's going to happen in the Parliament do you?</p>
@@ -73,6 +63,4 @@ HOST: Good morning to you.</p>
 <p>But we do need to learn some lessons from this, and I think that there are some changes we need to make to the legislation that covers registered organisations.</p>
 <p>HOST: Alright, well there's a lot on your plate, and I'm indebted to you for making some time for us this morning as you're out and about selling the budget, and I look forward to seeing you here taking some talkback in the studio when you get a chance in Melbourne one day soon.</p>
 <p>PM: Thanks Jon, look forward to it.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21272</transcript-id>
-    <title>Interview with Kerry O&#039;Brien The 7.30 Report, ABC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21272</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien The 7.30 Report, ABC ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 O';BRIEN:</p>
 <p>Prime Minister, on Budget day two years ago the Treasurer produced the Intergenerational Report showing that we would all be in trouble as an economy and as individuals in the decades ahead if we didn';t save more and work longer.  Two years later in the shadow of an election you';re, it seems, spending like drunken sailors.  Contradictory signals wouldn';t you said?</p>
 <p>PRIME MINISTER:</p>
@@ -75,6 +65,4 @@ O';BRIEN:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

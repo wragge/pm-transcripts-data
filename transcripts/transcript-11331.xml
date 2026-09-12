@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11331</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON. JOHN HOWARD MP                 ADDRESS AT NSW STATE COUNCIL                 MASONIC CENTRE, SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/05/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11331</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON. JOHN HOWARD MP                 ADDRESS AT NSW STATE COUNCIL                 MASONIC CENTRE, SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/05/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................</p>
 <p> Thank you very much Mr President. To you and to my State and</p>
 <p> Federal Parliamentary colleagues and fellow Liberals. It is always</p>
 <p> a delight to address the State Council of the NSW Division. It always</p>
@@ -369,6 +359,4 @@
 <p> few years here at a State level.</p>
 <p>Well Mr President I think I've said a fair bit this morning,</p>
 <p> and perhaps I've overdone it, </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

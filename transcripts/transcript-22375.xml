@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22375</transcript-id>
-    <title>Interview with Anis Ghanem Radio 2ME, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GHANEM:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22375</transcript-id><title>Interview with Anis Ghanem Radio 2ME, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GHANEM:</p>
 <p> Prime Minister what is the latest you can share with us about the situation in Lebanon, especially from the perspective of the people who have been stranded?</p>
 <p>PRIME MINISTER:</p>
 <p>We are very, very concerned about the situation of Australians who have been caught up in this war, and from Friday when we established a crisis centre in Canberra we have been working overtime to get them out. As I speak a total of 315 Australians have been evacuated and arrangements in a whole lot of other ways are in hand to evacuate more. It is a chaotic situation, there's no doubt about that and it changes from hour to hour. We are hopeful that more people will be evacuated in the next few days, but I hesitate to be any more specific than that because things can go wrong at the last minute.</p>
@@ -86,6 +76,4 @@
 <p> PRIME MINISTER:</p>
 <p> Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

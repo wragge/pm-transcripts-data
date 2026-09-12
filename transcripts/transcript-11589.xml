@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11589</transcript-id>
-    <title>PENINGTON&amp;#146;S CLAIM IS WRONG</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/02/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I reject totally Prof David Penington's claim (today's Age)</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11589</transcript-id><title><![CDATA[PENINGTON&amp;#146;S CLAIM IS WRONG]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/02/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I reject totally Prof David Penington's claim (today's Age)</p>
 <p> that I or my office sought to influence the comments about supervised</p>
 <p> injecting rooms published in the Annual Report of the International Narcotics</p>
 <p> Control Board.</p>
@@ -25,6 +15,4 @@
 <p> my office.</p>
 <p>In those circumstances therefore, Professor Penington should never have</p>
 <p> made the claim.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22169</transcript-id>
-    <title>Interview with Romilly Weeks ITV, United Kingdom </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/03/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22169</transcript-id><title>Interview with Romilly Weeks ITV, United Kingdom </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/03/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, you lead a young, dynamic forward looking country, how does a 79-year-old Queen who lives 12,000 miles away fit into that?</p>
 <p>PRIME MINISTER:</p>
 <p>Well it is an institution as well as a person. The Queen is very well liked in Australia, people respect her. She has been a very dedicated Constitutional Monarch and she has travelled a long journey with Australia since first coming here in 1954 and I think there is a bit of a sense that she has been part of that evolution and that change. But it is also an institution that works well. I am a conservative on these things; I believe that if you've got a system that works well, there's got to be a powerful reason before you agree to change it.</p>
@@ -72,6 +62,4 @@
 <p>JOURNALIST:</p>
 <p>Prime Minister thank you very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21370</transcript-id>
-    <title>Doorstop Interview Adelaide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21370</transcript-id><title>Doorstop Interview Adelaide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, do you feel like you're on the campaign already?</p>
 <p>PRIME MINISTER:</p>
 <p>Well this is not the first time this year I've been to the electorate of Adelaide, but I have to say that that graduation ceremony is one of the nicest graduation ceremonies I've ever attended, the evident enthusiasm and sense of achievement of those young people reaffirms the faith I already had in the Green Corps project and I can assure the Member for Adelaide, who's very strongly in favour of that project, that its funding will not be cut.</p>
@@ -123,6 +113,4 @@
 <p>I'm not a commentator, I'm running for office.</p>
 <p>  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40885</transcript-id>
-    <title>Address to the National Defence College</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>11/04/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40885</transcript-id><title>Address to the National Defence College</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>11/04/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you very much Lieutenant General Mohan for your very warm welcome and for inviting me here today.</p>
 <p>We are honoured to be in your company and I want to acknowledge among my party the High Commissioner, Harinder Sidhu, the Australian High Commissioner and of course many other distinguished members of the government including the Secretary of the Department of Foreign Affairs and Trade, Frances Adamson.</p>
 <p>It is an honour also to be here and to recognise the long history of Australia’s involvement with this great institution.</p>
@@ -19,7 +9,7 @@
 <p>On Anzac Day later this month we will remember the thousands of Indian soldiers who fought alongside Australian troops in every theatre, in Gallipoli, across the Middle East and indeed on the Western Front during the First World War.</p>
 <p>This year sees the anniversaries of some of the major engagements of World War Two, where in Malaya, Singapore, the Middle East and North Africa, Australian and Indian troops fought together side-by-side.</p>
 <p>It also marks 75-years since the war arrived to Australia’s shores, starting with the Japanese bombing of Darwin in February 1942.</p>
-<p>We remember men like Flying Officer Manmohan Singh, one of the first Sikh aviators of the British Indian Air Force, who became the first Indian war casualty in Australia when his Catalina was downed off Broome in 1942. </p>
+<p>We remember men like Flying Officer Manmohan Singh, one of the first Sikh aviators of the British Indian Air Force, who became the first Indian war casualty in Australia when his Catalina was downed off Broome in 1942.&nbsp;</p>
 <p>Threads like these tie our defence histories together, and create long-lasting bonds that draw our nations even closer together today.</p>
 <p>Now Captain Bateman is fortunate to be posted here in India at a time when the strategic interests of our two nations are clearly converging.</p>
 <p>At the Indian Ocean Rim Association in Jakarta last month I discussed why a secure, stable, peaceful and connected Indo-Pacific is vital to the security and prosperity of Australia, as indeed it is for India.</p>
@@ -66,6 +56,4 @@
 <p>We are natural partners—today more than ever—and the Australian Government will continue to do all in its power to ensure that that partnership continues to flourish.</p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

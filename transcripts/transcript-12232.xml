@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12232</transcript-id>
-    <title>Australian Financial Controls on terrorists and their sponsors </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/09/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-Australia will support US initiatives to freeze the financial assets of terrorists and their sponsors.<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12232</transcript-id><title>Australian Financial Controls on terrorists and their sponsors </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/09/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
+Australia will support US initiatives to freeze the financial assets of terrorists and their sponsors.<br>
 The Government will be doing everything in its power to suppress terrorist financing. Australia is well placed to immediately implement measures similar to those being imposed in the US, including using the Banking (Foreign Exchange) Regulations to freeze and block the financial flows of terrorists and their sponsors.</p>
 <p>The Government will direct the Reserve Bank of Australia to use the Banking (Foreign Exchange) Regulations to stop any payments in Australia by or to the 27 terrorists and terrorist organisations identified in the US President's Executive Order. This action builds on Australia's existing sanctions against the Taliban, which have been in place since December 1999.</p>
 <p>Australia will also be taking action to strengthen the Charter of the United Nations (Sanctions - Afghanistan) Regulations 2001 to enable Australia to freeze the funds and other financial assets of Usama bin Laden and his associates.</p>
@@ -23,6 +13,4 @@ The Government will be doing everything in its power to suppress terrorist finan
 <p>This action has been taken to demonstrate our steadfast commitment to work with the United States in combating international terrorism.</p>
 <p>Closing off financial flows to terrorists is a global priority. APEC Leaders should agree in Shanghai next month to expand and accelerate technical and other cooperation on fighting financial crimes and cutting off the flow of funds to terrorists and their sponsors.</p>
 <p>28 September 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

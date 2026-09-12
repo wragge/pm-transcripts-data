@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23932</transcript-id>
-    <title>New measures in the fight against Ebola</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/11/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will increase Australia’s $18 million contribution to the response to Ebola in West Africa and strengthen preparations to detect and respond to a possible Ebola case in Australia.</p>
-<p>A health service provider will be contracted to manage and run a 100-bed Ebola treatment facility in Sierra Leone, as part of the United Kingdom-led international efforts in that country.  Discussions are underway with Aspen Medical, an Australian company, in this regard.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23932</transcript-id><title>New measures in the fight against Ebola</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/11/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will increase Australia’s $18 million contribution to the response to Ebola in West Africa and strengthen preparations to detect and respond to a possible Ebola case in Australia.</p>
+<p>A health service provider will be contracted to manage and run a 100-bed Ebola treatment facility in Sierra Leone, as part of the United Kingdom-led international efforts in that country.&nbsp; Discussions are underway with Aspen Medical, an Australian company, in this regard.</p>
 <p>The Ebola treatment facility will be staffed mainly by local health care workers, supported by a contingent of international staff, including some Australian volunteers.</p>
 <p>The Government will contribute up to $20 million over the next eight months for this treatment facility.</p>
 <p>The Government has said consistently that it would not deploy Australians to Ebola-affected countries without a credible plan for their treatment or medical evacuation.</p>
@@ -22,14 +12,14 @@
 <p>Australia will also contribute to the development of a World Health Organisation regional response plan and a study on the risks and possible impacts of an Ebola outbreak in the region.</p>
 <p>The Government will further enhance our border procedures to ensure the public is protected against the arrival of a possible case of Ebola.</p>
 <p>New measures will include:</p>
-<ul><li>updating inflight public health announcements and providing Ebola-specific advice to all travellers to Australia;</li>
+<ul>
+<li>updating inflight public health announcements and providing Ebola-specific advice to all travellers to Australia;</li>
 <li>requesting all travellers to Australia to provide 21-day traveller history declarations;</li>
 <li>strengthening screening procedures at our borders, including additional questioning and reprogramming of Smartgates;</li>
 <li>requiring passengers of concern to undertake new targeted temperature checking arrangements at the border; and</li>
 <li>ensuring Human Quarantine Officers are on-call at all times to attend airports to assess any travellers who present with a raised temperature.</li>
-</ul><p>The new domestic measures will be in place over the coming fortnight.</p>
+</ul>
+<p>The new domestic measures will be in place over the coming fortnight.</p>
 <p>While Ebola is a serious disease, it is not highly contagious. The risk of an outbreak of Ebola in Australia remains low, including from returning aid workers.</p>
 <p>The Commonwealth Government will continue to monitor the Ebola situation to ensure we are well prepared both overseas and at home.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

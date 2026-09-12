@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17788</transcript-id>
-    <title>First meeting between the Prime Minister and NSW Premier</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/04/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17788</transcript-id><title>First meeting between the Prime Minister and NSW Premier</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/04/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today discussed a range of important state and national issues with the new Premier of NSW, Barry O'Farrell.</p>
 <p>The Prime Minister personally congratulated Premier O'Farrell on his recent election victory during their first official meeting at Kirribilli House this morning.</p>
 <p>The Prime Minister also reaffirmed the Federal Government's commitment to work cooperatively with Premier O'Farrell's Government to achieve the best outcomes for the people of NSW.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard today discussed a range of important state and nati
 <p>The two leaders also discussed their commitment to the COAG process and ensuring the forum discussed key strategic priorities.</p>
 <p>The Prime Minister thanked Premier O'Farrell for his commitment to support the national occupational health and safety laws reforms proposed by the Australian Government.</p>
 <p>Creating uniform occupational health and safety laws is a critical piece of economic and regulatory reform which will boost productivity, reduce business costs and make sure workers are protected by the same high safety standards regardless of the state they live in. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

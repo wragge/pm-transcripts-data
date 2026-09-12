@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22147</transcript-id>
-    <title>Interview with Karl Stefanovic Today Show, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/03/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEFANOVIC:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22147</transcript-id><title>Interview with Karl Stefanovic Today Show, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/03/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEFANOVIC:</p>
 <p>The Prime Minister John Howard will tomorrow celebrate a decade in power, no doubt buoyed by opinion polls suggesting the majority of Australians consider him the country's best leader of the modern era. And many voters want him to stay on in the top job indefinitely. In the first of our two-part special, I asked the PM what's on his agenda for the future.</p>
 <p> PRIME MINISTER:</p>
 <p>I think I've led a good government. I'm very lucky that I've had good people around me, like Peter Costello who's done a fantastic job as Treasurer and Alexander Downer. And also very important the Coalition with the National Party and the strength of that Coalition has been quite fundamental to our success, but there are always more things to be done, and in the end it's the happiness and security of the Australian people that matters most.</p>
@@ -107,6 +97,4 @@
 <p> PRIME MINISTER:</p>
 <p>I still enjoy politics immensely but the greatest love in my life is my family. I've been very lucky, I have a wonderful wife and I've got three great healthy kids and we're all very close and that's the greatest thing I've achieved. I've been very fortunate in that, but I, of course, I am stimulated by politics, by public life. You can't get as far, I guess, as I have without being so and I don't tire of it. I can't think of a day I've woken up in the last 10 years where I think I'd like to be doing something else. Not a day.</p>
 <p>   [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

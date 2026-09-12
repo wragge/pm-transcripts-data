@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24395</transcript-id>
-    <title>Interview with Cam Williams, Today, Nine Network</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/04/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Anzac Day commemorations </subjects>
-    <content><![CDATA[<p>CAM WILLIAMS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24395</transcript-id><title>Interview with Cam Williams, Today, Nine Network</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/04/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Anzac Day commemorations</subjects><content><![CDATA[<p>CAM WILLIAMS:</p>
 <p>Thank you for joining us, Tony. It’s an honour for everyone to be here but Australians feel particularly about Lone Pine.</p>
 <p>PRIME MINISTER:</p>
 <p>This was an absolutely savage battle. It was the fiercest battle of a very fierce campaign and we remember what happened then. We remember the spirit that the Australians took into the battle. We remember the service, the sacrifice. We are the descendants of the Anzacs and we want to be worthy of what they did here.</p>
@@ -33,8 +23,6 @@
 <p>Prime Minister, thanks for your time this morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Thanks Cam.</p>
-<p>[ends]<br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>[ends]<br>
+&nbsp;</p>
+]]></content></item></response>

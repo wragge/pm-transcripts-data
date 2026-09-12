@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24342</transcript-id>
-    <title>Deepening Australia&#039;s relationship with Germany</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/04/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>We are pleased to announce the Australian membership of the Australia-Germany Advisory Group.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24342</transcript-id><title><![CDATA[Deepening Australia&#039;s relationship with Germany]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/04/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>We are pleased to announce the Australian membership of the Australia-Germany Advisory Group.</p>
 <p>The Prime Minister and Chancellor Angela Merkel agreed to establish the Advisory Group to examine ways to build even closer ties between Australia and Germany during Chancellor Merkel's visit to Australia for the G20 Summit and bilateral meetings last November.</p>
 <p>While Australia and Germany have enjoyed a close bilateral relationship for over 60 years, the Prime Minister and Chancellor Merkel agreed that more could be done to build on these foundations for a stronger partnership.</p>
 <p>Senator Mathias Cormann will co-chair the Advisory Group and lead the Australian members, who hold collectively significant experience in business, academia, science, government and the arts.</p>
@@ -18,46 +8,94 @@
 <p>The Group will meet in Germany and in Australia before finalising and providing a report to Chancellor Merkel and the Prime Minister later this year.</p>
 <p>The first joint meeting of the Australian and German members of the Advisory Group will be held in July in Berlin.</p>
 <h2>Australia-Germany Advisory Group Members</h2>
-<table border="0" cellpadding="0" cellspacing="0"><thead><tr><th colspan="2" valign="top" width="581"> Australian members</th>
-</tr><tr><th valign="top" width="235">Name</th>
+<table border="0" cellpadding="0" cellspacing="0">
+<thead>
+<tr>
+<th colspan="2" valign="top" width="581">&nbsp;Australian members</th>
+</tr>
+<tr>
+<th valign="top" width="235">Name</th>
 <th valign="top" width="346">Designation and organisation</th>
-</tr></thead><tbody><tr><td valign="top" width="235">Senator the Hon Mathias Cormann</td>
-<td valign="top" width="346">Minister for Finance<br />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" width="235">Senator the Hon Mathias Cormann</td>
+<td valign="top" width="346">Minister for Finance<br>
 			Co-chair, Australia-Germany Advisory Group</td>
-</tr><tr><td valign="top" width="235">Mr Michael Chaney AO</td>
+</tr>
+<tr>
+<td valign="top" width="235">Mr Michael Chaney AO</td>
 <td valign="top" width="346">Chairman, National Australia Bank</td>
-</tr><tr><td valign="top" width="235">Mr Jeff Connolly</td>
+</tr>
+<tr>
+<td valign="top" width="235">Mr Jeff Connolly</td>
 <td valign="top" width="346">CEO, Siemens Australia</td>
-</tr><tr><td valign="top" width="235">Mr Peter Jennings PSM</td>
+</tr>
+<tr>
+<td valign="top" width="235">Mr Peter Jennings PSM</td>
 <td valign="top" width="346">Executive Director, Australian Strategic Policy Institute</td>
-</tr><tr><td valign="top" width="235">Dr Nicholas Milton</td>
-<td valign="top" width="346">Chief Conductor and Artistic Director, Canberra Symphony Orchestra<br />
+</tr>
+<tr>
+<td valign="top" width="235">Dr Nicholas Milton</td>
+<td valign="top" width="346">Chief Conductor and Artistic Director, Canberra Symphony Orchestra<br>
 			Conductor, General Music Director, Saarländisches Staatstheater</td>
-</tr><tr><td valign="top" width="235">Professor Brian Schmidt AC</td>
+</tr>
+<tr>
+<td valign="top" width="235">Professor Brian Schmidt AC</td>
 <td valign="top" width="346">Research School of Astronomy and Astrophysics, Australian National University</td>
-</tr><tr><td valign="top" width="235">Ms Lucy Turnbull AO</td>
+</tr>
+<tr>
+<td valign="top" width="235">Ms Lucy Turnbull AO</td>
 <td valign="top" width="346">President, German-Australian Chamber of Industry and Commerce</td>
-</tr><tr><td valign="top" width="235">Mr David Ritchie AO</td>
+</tr>
+<tr>
+<td valign="top" width="235">Mr David Ritchie AO</td>
 <td valign="top" width="346">Australian Ambassador to Germany</td>
-</tr></tbody></table><table border="0" cellpadding="0" cellspacing="0"><thead><tr><th colspan="2" valign="top" width="581">  German members</th>
-</tr><tr><th valign="top" width="235">Name</th>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<thead>
+<tr>
+<th colspan="2" valign="top" width="581">&nbsp; German members</th>
+</tr>
+<tr>
+<th valign="top" width="235">Name</th>
 <th valign="top" width="346">Designation and organisation</th>
-</tr></thead><tbody><tr><td valign="top" width="235">Professor Dr. Maria Böhmer</td>
-<td valign="top" width="346">Minister of State, Federal Foreign Office<br />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" width="235">Professor Dr. Maria Böhmer</td>
+<td valign="top" width="346">Minister of State, Federal Foreign Office<br>
 			Co-chair, Australia-Germany Advisory Group</td>
-</tr><tr><td valign="top" width="235">Mr. Volkmar Klein</td>
+</tr>
+<tr>
+<td valign="top" width="235">Mr. Volkmar Klein</td>
 <td valign="top" width="346">Member of the Bundestag and Chair of the Germany-Australian Parliamentary Friendship Group</td>
-</tr><tr><td valign="top" width="235">Mr Barrie Kosky</td>
+</tr>
+<tr>
+<td valign="top" width="235">Mr Barrie Kosky</td>
 <td valign="top" width="346">Intendant (Director) of the Komische Oper Berlin</td>
-</tr><tr><td valign="top" width="235">Mr Bernd Leukert</td>
+</tr>
+<tr>
+<td valign="top" width="235">Mr Bernd Leukert</td>
 <td valign="top" width="346">Member of the Executive Board and the Global Management Board of SAP</td>
-</tr><tr><td valign="top" width="235">Professor Dr. Volker Perthes</td>
+</tr>
+<tr>
+<td valign="top" width="235">Professor Dr. Volker Perthes</td>
 <td valign="top" width="346">Director, Stiftung Wissenschaft und Politik</td>
-</tr><tr><td valign="top" width="235">Professor Anja Schwarz</td>
+</tr>
+<tr>
+<td valign="top" width="235">Professor Anja Schwarz</td>
 <td valign="top" width="346">Junior Professor of Cultural Studies at the University of Potsdam</td>
-</tr><tr><td valign="top" width="235">Dr. Christoph Müller</td>
+</tr>
+<tr>
+<td valign="top" width="235">Dr. Christoph Müller</td>
 <td valign="top" width="346">German Ambassador to Australia</td>
-</tr></tbody></table><p>8 April 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+</tr>
+</tbody>
+</table>
+<p>8 April 2015</p>
+]]></content></item></response>

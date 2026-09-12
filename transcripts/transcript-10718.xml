@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10718</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP DOORSTOP INTERVIEW TREASURY PLACE, MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/07/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10718</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP DOORSTOP INTERVIEW TREASURY PLACE, MELBOURNE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/07/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Now Prime Minister, you have had a chance to talk to your compatriot</p>
 <p>   over in Papua New Guinea, Mr Skate. Can you tell us, having seen</p>
 <p>   the devastation, what his opinion of it is?</p>
@@ -56,6 +46,4 @@
 <p>   I'll be speaking to him again in the next couple of days. We</p>
 <p>   are very keen to help in whatever practical way possible.</p>
 <p>  [ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

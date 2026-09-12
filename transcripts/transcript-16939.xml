@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16939</transcript-id>
-    <title>Delivering for the Environment    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government was elected to tackle climate change.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16939</transcript-id><title>Delivering for the Environment    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government was elected to tackle climate change.</p>
 <p>The Carbon Pollution Reduction Scheme will be the central mechanism by which Australia tackles climate change and is the biggest environmental reform in the nation's history.</p>
 <p>The deal will ensure that Australia can achieve its ambitious unconditional target of 5 per cent; conditional target of up to 15 per cent and top-end target of 25 per cent off 2000 levels by 2020 if a global 450 parts per million outcome is achieved.</p>
 <p>Over time it will ensure the Australian economy makes the transformation to a low pollution future.</p>
@@ -46,6 +36,4 @@
 <p>Electricity generators will be able to retain their payments under the Scheme if they replace their current best practice coal fired capacity with equivalent low emissions electricity generation capacity.</p>
 <p>10. Coal Mine Abatement Fund</p>
 <p>The Government will commit $270m to the Coal Mine Abatement Fund through the Climate Change Action Fund to assist gassy coal mines to invest in emissions reduction activities.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

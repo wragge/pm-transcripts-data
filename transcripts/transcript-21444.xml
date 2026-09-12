@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21444</transcript-id>
-    <title>Australia to Fund Transport Reform in the Pacific  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/08/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21444</transcript-id><title>Australia to Fund Transport Reform in the Pacific  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/08/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I am delighted to announce Australia will establish a $2 million fund to assist transport reform in the Pacific.</p>
 <p>Leaders at this week's Pacific Islands Forum have supported a number of Australian recommendations drawn from the Pacific Regional Transport Study, which I initiated at last year's Forum.  In particular, they have endorsed the Apia Declaration of Principles on Regional Transport Services.</p>
 <p>In their current state, many regional transport services are economically unsustainable and place an excessive burden on the economies of Forum island countries.</p>
@@ -18,6 +8,4 @@ I am delighted to announce Australia will establish a $2 million fund to assist 
 <p>The maintenance of regular, reliable and competitive transport services is crucial to the economies of Forum island countries.  Recent changes in the transport sector, including the entry of low-cost competitors and new international safety and security requirements, will have significant implications for Pacific services.</p>
 <p>Good governance, including sound processes for appointing boards, disclosure of financial statements, awarding of contracts and infrastructure decisions, will be essential to meet these challenges successfully.</p>
 <p>Australia will continue to work closely with Forum island countries and the Forum secretariat on this important issue.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

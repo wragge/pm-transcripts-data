@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16264</transcript-id>
-    <title>Interview with Karl Stefanovic Today Show - Channel Nine   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/11/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEFANOVIC:Prime Minister, Canberra. Prime Minister, good morning to you. Thank you for waiting and listening.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16264</transcript-id><title>Interview with Karl Stefanovic Today Show - Channel Nine   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/11/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEFANOVIC:Prime Minister, Canberra. Prime Minister, good morning to you. Thank you for waiting and listening.</p>
 <p>PM: Good morning, Karl.</p>
 <p>STEFANOVIC: Can you give us the very latest on your understanding of what is happening in Mumbai right now?</p>
 <p>PM: I spoke to the Australian High Commission in Mumbai about 15 minutes ago and the situation is still tense on the ground. You reported earlier on the statistics in relation to numbers of people killed and the number of people who have been injured.</p>
@@ -51,6 +41,4 @@
 <p>STEFANOVIC:You said it right in Parliament yesterday PM, that they are cowards. They are indeed. There is a lot on your plate at the moment. They are troubled times and we do, and our viewers do appreciate your time in talking to them. Thank you.</p>
 <p>PM:Thanks very much Karl.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

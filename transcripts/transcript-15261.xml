@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15261</transcript-id>
-    <title>Australian Defence Force Gap Year</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/08/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15261</transcript-id><title>Australian Defence Force Gap Year</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/08/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>Hello there,</p>
 <p>Every year about 34,000 young Australians take a gap year between finishing Year 12 and embracing a long-term career or starting tertiary education.</p>
 <p>Some head off on a working holiday, take a short term job or volunteer their time to a charity. </p>
@@ -19,6 +9,4 @@
 <p>Later today I'll officially launch the new Defence Gap Year with more detail about the generous conditions and incentives we're offering.</p>
 <p>If you're interested in finding out a little bit more about it visit defencejobs.gov.au or text GAP to 13 19 01.</p>
 <p>Thanks a lot for watching.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

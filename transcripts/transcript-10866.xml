@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10866</transcript-id>
-    <title>$150 MILLION DEBT CUT FOR TASMANIA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/12/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The greatest economic challenge facing Tasmania is its crushing debt</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10866</transcript-id><title>$150 MILLION DEBT CUT FOR TASMANIA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/12/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The greatest economic challenge facing Tasmania is its crushing debt</p>
 <p> burden.</p>
 <p>This was recognised in the Nixon Report which recommended sale of</p>
 <p> the HEC and a contribution from the Commonwealth in support of that</p>
@@ -52,6 +42,4 @@
 <p> plan will greatly benefit Tasmania's growth industries, such</p>
 <p> as tourism.</p>
 <p> 20 August 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23601</transcript-id>
-    <title>Doorstop Interview, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>27/06/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Addressing violence against women and their children,  the Government’s commitment to repeal the carbon tax,  Automotive Transformation Scheme,  Senate inquiry into the Commonwealth Bank.  </subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23601</transcript-id><title>Doorstop Interview, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>27/06/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Addressing violence against women and their children, the Government’s commitment to repeal the carbon tax, Automotive Transformation Scheme, Senate inquiry into the Commonwealth Bank.</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>It’s good to be here in Manly for the launch of this National Action Plan. It’s a $100 million plan to try to ensure that we do make it absolutely crystal clear that violence against women and children is never, never, never acceptable. It’s utterly reprehensible and this curse must be banished from our society.</p>
 <p><strong>QUESTION:</strong></p>
 <p>Prime Minister, last night your <em>Carbon Tax Repeal Bill </em>passed through the House of Reps, it looks like it may well pass through the Senate as well. What’s your response to that?</p>
@@ -28,6 +18,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Obviously some terrible things happened and it’s good that the Parliamentary Committee enquiring into this has been able to expose some of the problems. We will carefully consider the recommendations of the Committee. We do obviously have an inquiry into financial governance going on now. We want to get to the bottom of these things and we want to ensure that investors are as safe as they can be in a market economy.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

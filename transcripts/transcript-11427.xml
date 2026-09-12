@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11427</transcript-id>
-    <title>ADDRESS BY THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 CLOSING ADDRESS AT THE LIBERAL PARTY&amp;#146;S                 47TH FEDERAL COUNCIL                 HYATT HOTEL, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/07/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11427</transcript-id><title><![CDATA[ADDRESS BY THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 CLOSING ADDRESS AT THE LIBERAL PARTY&amp;#146;S                 47TH FEDERAL COUNCIL                 HYATT HOTEL, CANBERRA]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/07/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>Well, thank you very much, Tony; to John Anderson, Peter Costello,</p>
 <p> Shane Stone, my other fellow Liberals, ladies and gentlemen.</p>
 <p>I want, at the beginning of my speech, to again express, as I did</p>
@@ -371,6 +361,4 @@
 <p> a great history. It's important that we remember that most of</p>
 <p> the great social changes and improvements were achieved under Liberal</p>
 <p> administ</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

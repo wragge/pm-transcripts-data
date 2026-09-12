@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17872</transcript-id>
-    <title>Speech at the NBN Co Connections Launch, Armidale</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/05/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17872</transcript-id><title>Speech at the NBN Co Connections Launch, Armidale</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/05/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much</p>
 <p>I'd like to acknowledge my Parliamentary colleague, the Minister who has driven this project, Stephen Conroy. Can I also acknowledge Tony Windsor, we spent yesterday in Tamworth and knew that we were coming to another great day here today in Armidale.</p>
 <p>Can I also say thank you very much to Deborah for having us in her school and thank you to all of the girls, from PLC who have joined us for this event.</p>
@@ -32,6 +22,4 @@ PM: Thank you very much</p>
 <p>I have only one response to the critics of the NBN  -  come here to Armidale. The NBN is real, it's here, and we will not stop until the last cable is laid and the last home connected.</p>
 <p>I very proudly launch the NBN at its first site in mainland Australia. A great day for Armidale, a great day for Australia. The future begins here and it begins today.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16668</transcript-id>
-    <title>NSW Housing Build Ahead of Schedule    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the NSW Minister for Housing today announced that 564 homes have commenced construction since February and a further 2,669 dwellings have been approved  -  placing NSW ahead of schedule in implementing the Nation Building  -  Economic Stimulus Plan.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16668</transcript-id><title>NSW Housing Build Ahead of Schedule    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the NSW Minister for Housing today announced that 564 homes have commenced construction since February and a further 2,669 dwellings have been approved  -  placing NSW ahead of schedule in implementing the Nation Building  -  Economic Stimulus Plan.</p>
 <p>The announcement was made at the Greenacre construction site of 24 new social housing dwellings  -  a project that is supporting 63 direct and indirect jobs, including bricklayers, concreters, carpenters, excavation workers and apprentices who will be the skilled workers of the future.</p>
 <p>Progress in NSW is faster than expected:</p>
 <p>     * Construction has commenced on 564 of the 851 dwellings as part of Stage 1 of the plan, which will be complete by June next year, with the Commonwealth investing $225 million. This is more housing commencements than any other jurisdiction.</p>
@@ -21,6 +11,4 @@
 <p>The project includes 12 affordable housing units for families and 12 seniors' units especially designed with easy access and bathrooms modified for the needs of people who may find it difficult to get around as they grow older.</p>
 <p>The units have environmentally sustainable features such as water tanks, triple A rated water saving devices, and insulation.</p>
 <p>By working together to fast-track housing developments, the Australian and NSW Governments are supporting jobs and businesses, and creating affordable and sustainable housing for Australia's future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

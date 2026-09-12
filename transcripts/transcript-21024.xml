@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21024</transcript-id>
-    <title>Ricky Ponting  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/11/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21024</transcript-id><title>Ricky Ponting  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/11/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I congratulate Ricky Ponting on being chosen to succeed Steve Waugh as the captain of the Australian Test Cricket team.</p>
 <p>Ricky Ponting is a fine player whose great tactical understanding of the game will prove invaluable in his new challenge.  His batting ability has been a strong factor in the success of the Australian side in recent years.</p>
 <p>All Australian cricket lovers will give him their support when he assumes the captaincy.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

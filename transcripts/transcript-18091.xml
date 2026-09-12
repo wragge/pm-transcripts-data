@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18091</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18091</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: (audio break) and was from the 2nd Battalion of the Royal Australian Regiment based in Townsville. He was on his first tour of Afghanistan. He was supporting a mentored patrol in Uruzgan province when he was killed by an improvised explosive device. An International Security Assistance Force soldier, not an Australian, was wounded in the same incident. At the request of the family the soldier's name has not been released at this time but we don't need to know this soldier's name to know that we've lost a brave man and we don't need to know this soldier's name to know that there is a family in the depths of grief tonight.</p>
 <p>As Prime Minister I offer them the nation's condolences, our most loving thoughts are with them as they absorb this, the most dreadful of news.</p>
 <p>I also want to not that this would be a very hard time for this soldier's mates, his comrades in arms and particularly his fellow soldiers at 2RAR in Townsville. We're also thinking of them tonight.</p>
@@ -25,6 +15,4 @@ PM: (audio break) and was from the 2nd Battalion of the Royal Australian Regimen
 <p>JOURNALIST: Prime Minister what have you been told about this man, anything about him that you haven't already said?</p>
 <p>PM: Look I'm not in a position to give personal details, this is at the request of the family that needs some time to absorb this news before personal details are made public.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

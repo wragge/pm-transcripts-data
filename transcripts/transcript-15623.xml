@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15623</transcript-id>
-    <title>Doorstop Interview Marco Polo Plaza, Cebu</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/01/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15623</transcript-id><title>Doorstop Interview Marco Polo Plaza, Cebu</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/01/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 China, East Asia Summit, counter-terrorism, Iraq </p>
 <p>E&amp;OE...</p>
 <p>JOURNALIST:</p>
@@ -102,6 +92,4 @@ China, East Asia Summit, counter-terrorism, Iraq </p>
 <p>Well the whole thing is, how shall you put it, a feast of bilaterals. </p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

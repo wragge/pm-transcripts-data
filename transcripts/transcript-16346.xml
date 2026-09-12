@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16346</transcript-id>
-    <title>Acting Prime Minister Julia Gillard Press Conference    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/01/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JULIA GILLARD: This morning the Australian Bureau of Statistics announced the Labour Force Figures for December. What these figures show is that the unemployment rate in December reached 4.5 per cent, having increased from 4.4 per cent in November.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16346</transcript-id><title>Acting Prime Minister Julia Gillard Press Conference    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/01/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JULIA GILLARD: This morning the Australian Bureau of Statistics announced the Labour Force Figures for December. What these figures show is that the unemployment rate in December reached 4.5 per cent, having increased from 4.4 per cent in November.</p>
 <p>What these figures are telling us is that the Australian economy is not immune from the global financial crisis. What these figures are telling us is that the global financial crisis has resulted in job losses in this country. </p>
 <p>When we look around the world we see that the unemployment rate in the US is 7.2 per cent and in the United Kingdom, it's six per cent.</p>
 <p>Today's figures tell us the unemployment rate in this country is four and a half per cent.</p>
@@ -77,6 +67,4 @@
 <p>JOURNALIST: But it's un-Australian, would you not say, that, you know, we can't properly observe probably our most, you know, traditionally observed public holiday, have, you know, a proper weekday?</p>
 <p>JULIA GILLARD: Well I'd have to say the important thing in my view about Anzac Day is the remembrances that occur on Anzac Day itself. </p>
 <p>Thank you </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

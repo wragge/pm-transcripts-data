@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10659</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW                AM PROGRAMME &amp;#150; MATT PEACOCK</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/08/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10659</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW                AM PROGRAMME &amp;#150; MATT PEACOCK]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/08/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................</p>
 <p>PRIME MINISTER:</p>
 <p>It is not a rich man's package. It is a package that will</p>
 <p>   encourage average Australians to work harder. It will protect low</p>
@@ -114,6 +104,4 @@
 <p>Matt, I said before it was released that I would allow sufficient</p>
 <p>   time to the Australian people to understand it.</p>
 <p>  [ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

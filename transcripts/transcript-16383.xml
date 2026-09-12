@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16383</transcript-id>
-    <title>$42 billion nation building and jobs plan    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced a $42 billion Nation Building and Jobs Plan to support jobs and invest in future long term economic growth.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16383</transcript-id><title>$42 billion nation building and jobs plan    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced a $42 billion Nation Building and Jobs Plan to support jobs and invest in future long term economic growth.</p>
 <p>This historic long term and targeted Nation Building and Jobs Plan is a further decisive step in the Government's response to the severe global recession.</p>
 <p>Treasury estimates that today's Nation Building and Jobs Plan will support up to 90,000 jobs in 2008-09 and 2009-10.</p>
 <p>Key measures funded by today's Nation Building and Jobs Plan include:</p>
@@ -54,6 +44,4 @@
 <p>     * $950 Training and Learning Bonus paid to students and people outside of the workforce returning to study to help with the costs of education and training.</p>
 <p>The $42 billion Nation Building and Jobs Plan builds on the stimulus measures already in place to support economic activity and jobs.</p>
 <p>Stimulus measures already implemented by the Rudd Government include the $10.4 billion Economic Security Strategy, the $300 million program to build local community infrastructure, the $15.2 billion COAG funding package and the Nation Building Package announced in December 2008.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

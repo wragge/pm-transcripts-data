@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16512</transcript-id>
-    <title>$2.4 million for Swan River Regional Park development    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced $2.4 million funding for the 15-hectare Swan River regional park development  -  a project to create a significant regional facility in Perth's east.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16512</transcript-id><title>$2.4 million for Swan River Regional Park development    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced $2.4 million funding for the 15-hectare Swan River regional park development  -  a project to create a significant regional facility in Perth's east.</p>
 <p>The funding is part of the Government's $800 million Community Infrastructure Program  -  the largest one-off investment in local infrastructure in Australia's history.</p>
 <p>Managed by the City of Swan, the Swan Riverside regional park project will create jobs and provide a direct stimulus to the local economy.</p>
 <p>The Rudd Government is supporting jobs and stimulating local economies during the global recession by investing in the construction of important community infrastructure.</p>
@@ -21,6 +11,4 @@
 <p>     * Dual-use paths to connect the park to the Swan Valley tourism precinct;</p>
 <p>     * Creation of the Blackadder Creek Wetland to reduce salt-water incursion into the area, which will help to improve the health of the site.</p>
 <p>Local councils and shires across Australia submitted more than 3,600 community projects for funding under the Community Infrastructure Program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

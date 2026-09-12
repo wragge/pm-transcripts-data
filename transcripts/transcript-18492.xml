@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18492</transcript-id>
-    <title>Transcript of interview with Fran Kelly, ABC Radio National</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/04/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18492</transcript-id><title>Transcript of interview with Fran Kelly, ABC Radio National</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/04/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: The Prime Minister, fresh from an Easter break, is in our Parliament House studios.</p>
 <p>Prime Minister, welcome back to Breakfast.</p>
 <p>PM: Good morning Fran.</p>
@@ -81,6 +71,4 @@ HOST: The Prime Minister, fresh from an Easter break, is in our Parliament House
 <p>PM: My understanding of that matter is that we're not in a position where we could detain these people. They have not asked for asylum in Australia and they are on a seaworthy vessel. So we are not in a position where we could detain them against their will.</p>
 <p>HOST: Prime Minister, thank you very much for joining us on Breakfast.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20691</transcript-id>
-    <title>Interview with Charles Wooley, 60 Minutes, Channel Nine   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/02/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>WOOLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20691</transcript-id><title>Interview with Charles Wooley, 60 Minutes, Channel Nine   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/02/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>WOOLEY:</p>
 <p>Prime Minister, thanks for joining us. Given the polling that we've seen, the numbers of Australians in the street this weekend wouldn't surprise you?</p>
 <p>PRIME MINISTER:</p>
 <p>Charles, this is a very difficult issue and I respect the fact that a lot of Australians don't agree with me on this. I also suspect that there are a lot of Australians who do and they're not as, perhaps as noisy about it and there are a lot of people in between. In the end, my charge as Prime Minister is to take whatever decision I think is in the best interest of the country and I believe the way we are handling this is in the best interest of Australia. I am worried about countries like Iraq possessing chemical and biological weapons, not only because they might use them themselves, but they might... the more that have them might hand them to terrorists and that really is the ultimate nightmare. So, that's the different world in which we now live.</p>
@@ -78,6 +68,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

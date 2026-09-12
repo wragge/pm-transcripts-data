@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41690</transcript-id>
-    <title>Historic snowy deal now complete</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>03/07/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government has now taken full ownership of Snowy Hydro Limited in a deal that paves the way for the Snowy 2.0 project to proceed to a final investment decision by the independent Snowy board.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41690</transcript-id><title>Historic snowy deal now complete</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>03/07/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government has now taken full ownership of Snowy Hydro Limited in a deal that paves the way for the Snowy 2.0 project to proceed to a final investment decision by the independent Snowy board.</p>
 <p>The historic agreement is part of our plan for a stronger economy. It will help generate more affordable, reliable electricity, and create new jobs.</p>
 <p>The deal will also fund congestion-busting infrastructure, with more than $6 billion in Commonwealth funds flowing to New South Wales and Victoria for productive infrastructure investments.</p>
 <p>Snowy Hydro will continue to operate as an independent commercial company and, most importantly, this iconic infrastructure will remain in public ownership.</p>
@@ -17,10 +7,10 @@
 <p>Snowy 2.0 is a proposed expansion of the Snowy Mountains Scheme and will provide an additional generation capacity of 2000 MW, enough to power the equivalent of 500,000 homes at peak demand.</p>
 <p>The project will help make renewables reliable, reduce volatility in energy markets and provide other services critical to the security of the NEM.</p>
 <p>Earlier this year, the Snowy 2.0 feasibility study found that:</p>
-<ul><li>the project is technically feasible – it can be built and Snowy Hydro have a base-case design and detailed construction schedule;</li>
+<ul>
+<li>the project is technically feasible – it can be built and Snowy Hydro have a base-case design and detailed construction schedule;</li>
 <li>the project is financially feasible as it meets Snowy Hydro’s stringent investment hurdles; and</li>
 <li>Snowy Hydro can finance the project itself using retained earnings and borrowing.</li>
-</ul><p>The Snowy Hydro Board is expected to make a final investment decision on the Snowy 2.0 project later this year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+</ul>
+<p>The Snowy Hydro Board is expected to make a final investment decision on the Snowy 2.0 project later this year.</p>
+]]></content></item></response>

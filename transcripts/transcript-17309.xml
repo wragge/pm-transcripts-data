@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17309</transcript-id>
-    <title>Prime Minister Speech to the Asialink Asia Society National Forum Parliament House, Canberra 25 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/05/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17309</transcript-id><title>Prime Minister Speech to the Asialink Asia Society National Forum Parliament House, Canberra 25 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/05/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
 <p>I acknowledge the First Australians on whose land we meet, the first peoples of this land to trade and engage with the region we now call Asia.</p>
 <p>I am honoured to address this gathering of eminent Australians committed to enhancing our country's engagement with Asia.</p>
 <p>A gathering that is sponsored by two great institutions.</p>
@@ -159,6 +149,4 @@
 <p>We have diplomats, health professionals, development experts and artists.</p>
 <p>It reveals the true meaning of Asia Pacific community for Australia as a nation.</p>
 <p>I wish you success for the remainder of your conference and I look forward to reading your conclusions and recommendations. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

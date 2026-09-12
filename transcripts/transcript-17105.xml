@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17105</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Royal Brisbane and Women&#039;s Hospital 4 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: It's great to be back at the Royal Brisbane and Women's Hospital in my hometown of Brisbane, it's good to be here with Arch Bevis, the local Member, as well as Nicola Roxon, the Health Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17105</transcript-id><title><![CDATA[Prime Minister Transcript of doorstop interview Royal Brisbane and Women&#039;s Hospital 4 March 2010 ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: It's great to be back at the Royal Brisbane and Women's Hospital in my hometown of Brisbane, it's good to be here with Arch Bevis, the local Member, as well as Nicola Roxon, the Health Minister.</p>
 <p>This is an important reform for the nation's health and hospital system, and where the rubber hits the road is for hospitals like this one, the Royal Brisbane and Women's Hospital here in Queensland.</p>
 <p>You see, a number of state governments will oppose this plan. A number of state health bureaucracies will oppose this plan. Mr Abbott opposes this plan. But Australia needs the future of our hospital system soundly funded for the future, and I intend to get on with the job.</p>
 <p>Let's go to the example of the Royal Brisbane Hospital.</p>
@@ -62,6 +52,4 @@
 <p>JOURNALIST: When was the last time you had one?</p>
 <p>PM: I think the double dare back in primary school, it might've been way back then.</p>
 <p>Got to go folks. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

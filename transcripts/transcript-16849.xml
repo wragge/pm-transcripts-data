@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16849</transcript-id>
-    <title>Transcript of interview ABC 936   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/10/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Kevin Rudd, are you there?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16849</transcript-id><title>Transcript of interview ABC 936   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/10/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Kevin Rudd, are you there?</p>
 <p>PM: Your optimism was misplaced Tim, I got cut off.</p>
 <p>HOST: I apologise for that and a very good morning to you it's great to have you with us.</p>
 <p>PM: Are you in an echo chamber or something mate?</p>
@@ -32,6 +22,4 @@
 <p>Working with our friends in the region it's important to deal with this because of the huge push factors coming from political disturbances in Sri Lanka and Afghanistan and the wider Middle East. This is a problem for all countries in the region - that's why we work closely with our friends in Jakarta.</p>
 <p>HOST: Sorry Prime Minster we're out of time - I would have like to have pursed that with you a little further. But I thank you indeed for your time this morning. </p>
 <p>PM: Good to be back in Hobart. Thanks.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

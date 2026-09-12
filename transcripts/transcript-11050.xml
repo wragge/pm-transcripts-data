@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11050</transcript-id>
-    <title>Radio Interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/10/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>University fees, politicians’ pay, Victorian Government, Olympic tickets,</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11050</transcript-id><title>Radio Interview with Neil Mitchell, 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/10/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>University fees, politicians’ pay, Victorian Government, Olympic tickets,</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>MITCHELL: </b></p>
 <p>Mr Howard, good morning.</p>
 <p><b>PRIME MINISTER: </b></p>
@@ -131,7 +121,7 @@
 <p><b>MITCHELL: </b></p>
 <p>Sure.</p>
 <p>[Commercial Break]</p>
-<p><b>MITCHELL:</b><br /><br />Mr Howard I raise this, reluctantly but I’ve had a lot of calls from people who are very angry about the attention your son was given when he appeared in court this week. Now it’s not his fault you’re his dad. Did you get a bit angry about the attention of it?</p>
+<p><b>MITCHELL:</b><br><br>Mr Howard I raise this, reluctantly but I’ve had a lot of calls from people who are very angry about the attention your son was given when he appeared in court this week. Now it’s not his fault you’re his dad. Did you get a bit angry about the attention of it?</p>
 <p><b>PRIME MINISTER: </b></p>
 <p>Well I would rather it’d not happened, but the more I say about it I just run the risk of further publicity and I won’t say any more.</p>
 <p><b>MITCHELL: </b></p>
@@ -197,6 +187,4 @@
 <p><b>MITCHELL: </b></p>
 <p>Thank you very much for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

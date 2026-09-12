@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11136</transcript-id>
-    <title>Interview with Matt Peacock, AM Programme, ABC Radio</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Motion of Reconciliation, stolen generation</subjects>
-    <content><![CDATA[<p>27 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11136</transcript-id><title>Interview with Matt Peacock, AM Programme, ABC Radio</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Motion of Reconciliation, stolen generation</subjects><content><![CDATA[<p>27 August 1999</p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>PEACOCK:</b></p>
 <p>Mr Howard, you told the House yesterday that there was nothing wrong with changing your mind unless you were moving to a less worthwhile position. Lowitja O’Donoghue says you may have gone on a spiritual journey. I mean, have you moved and why?</p>
@@ -82,6 +72,4 @@
 <p><b>PEACOCK:</b></p>
 <p>Prime Minister, thanks for joining us.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

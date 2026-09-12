@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11944</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Federal Budget.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11944</transcript-id><title>Interview with Neil Mitchell, Radio 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Federal Budget.</p>
 <p>E&amp;OE................................</p>
 <p>MITCHELL:</p>
 <p>Mr Howard good morning.</p>
@@ -86,7 +76,7 @@
 <p>MITCHELL:</p>
 <p>But that's understanding why, explaining why you're able to do it, it does not explain the philosophy behind doing it. Now what .</p>
 <p>PRIME MINISTER:</p>
-<p>The philosophy behind doing it is we believe they deserve it.<br />
+<p>The philosophy behind doing it is we believe they deserve it.<br>
 MITCHELL:</p>
 <p>Do they deserve it more now than they did before the GST?</p>
 <p>PRIME MINISTER:</p>
@@ -148,7 +138,7 @@ MITCHELL:</p>
 <p>PRIME MINISTER:</p>
 <p>Well I never believed for a moment we were a tricky or mean government. People may have said that. I guess at some stage people say that of all governments. But I never believed for a moment that this was either a tricky or a mean government. In fact if you look at the social welfare provisions of this government we have been more generous to pensioners than was Labor when it was in office. We provided pensioners with a guaranteed link to male average weekly earnings. And can I also say one thing, when Mr Keating was re-elected in 1993 without warning and without a mandate he massively increased indirect taxes and he provided no compensation at all to the pensioners of Australia for that massive increase in indirect taxation. If you look at the record of this government in relation to its treatment of pensioners, you will find it is a more generous record then the record of the former government. So no I have never seen this government as being mean or tricky.</p>
 <p>MITCHELL:</p>
-<p>We will take a break and come back with more, including some calls for the Prime<br />
+<p>We will take a break and come back with more, including some calls for the Prime<br>
 Minister.</p>
 <p>[COMMERCIAL BREAK]</p>
 <p>MITCHELL:</p>
@@ -260,6 +250,4 @@ Minister.</p>
 <p>PRIME MINISTER:</p>
 <p>Okay.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

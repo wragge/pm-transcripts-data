@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>8306</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>05/06/1991</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00008306.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-PRIME MINISTER 5 JUNE 1991<br />
-It is the standard practice of Government to<br />
-nor deny speculation about ASIO operations. neither confirm<br />
-But I will deny categorically that the Government has ever<br />
-used phone tap material improperly and, in particular,<br />
-politically, or has ever sought material for those purposes.<br />
-79 1 8<br />
-FOR MEDIA<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>8306</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>05/06/1991</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00008306.pdf</document><subjects></subjects><content><![CDATA[<p>
+PRIME MINISTER 5 JUNE 1991<br>
+It is the standard practice of Government to<br>
+nor deny speculation about ASIO operations. neither confirm<br>
+But I will deny categorically that the Government has ever<br>
+used phone tap material improperly and, in particular,<br>
+politically, or has ever sought material for those purposes.<br>
+79 1 8<br>
+FOR MEDIA<br>
 1111110111W </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

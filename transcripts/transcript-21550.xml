@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21550</transcript-id>
-    <title>Doorstop Interview Intercontinental Hotel, Santiago, Chile </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/11/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21550</transcript-id><title>Doorstop Interview Intercontinental Hotel, Santiago, Chile </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/11/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>What are you hoping for out of the APEC meeting this weekend Prime Minister?</p>
 <p>PRIME MINISTER:</p>
 <p>Well it';s really at two levels, the bilateral meetings are very important with President Yudhoyono and President Hu Jintao and the Prime Minister of Malaysia and many others.  And of course it';ll be the first time that I';ve seen President Bush since important political events for both of us.  There';ll be an emphasis I believe on security and terrorism issues, but the most important thing is to try and maintain and to the extent possible increase the momentum towards the original Bogor trade goals and it';s very important to keep that in mind.  But it';s an excellent opportunity, a meeting such as this, to interact with the leaders of such a very large part of the world.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think there are some problems about that because of the different characters of the economy, I don';t think that was the original proposition.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17863</transcript-id>
-    <title>150th anniversary of Italy&#039;s unification</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17863</transcript-id><title><![CDATA[150th anniversary of Italy&#039;s unification]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government sends its best wishes to all Italians celebrating the 150th anniversary of Italy's unification this year.</p>
 <p>Italy will officially celebrate 150 years of being a united country next month.</p>
 <p>Prime Minister Julia Gillard said Australians have enjoyed and continue to cherish the wonderful contribution Italians have made to our community over many generations.</p>
@@ -23,6 +13,4 @@ The Australian Government sends its best wishes to all Italians celebrating the 
 <p>The Governor-General will participate at the Australian Pavilion for the Biennale and thank major Italian donors for their contributions to the relief effort for victims of the recent Queensland, New South Wales and Victorian floods.</p>
 <p>Her Excellency has also been invited to visit Spain by King Juan Carlos I and Queen Sophia, who made a State Visit to Australia in 2009.</p>
 <p>The Governor-General will take the opportunity to visit the Navantia dockyards at Ferrol, where HMAS Canberra and HMAS Adelaide are being constructed, and which supports our growing defence procurement program.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

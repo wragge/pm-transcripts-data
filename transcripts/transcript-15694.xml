@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15694</transcript-id>
-    <title>Ratifying the Kyoto Protocol    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/12/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I have signed the instrument of ratification of the Kyoto Protocol.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15694</transcript-id><title>Ratifying the Kyoto Protocol    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/12/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I have signed the instrument of ratification of the Kyoto Protocol.</p>
 <p>This is the first official act of the new Australian Government, demonstrating my Government's commitment to tackling climate change.</p>
 <p>Ratification of the Kyoto Protocol was considered and approved by the first Executive Council meeting of the Government this morning.</p>
 <p>The Governor-General has granted his approval for Australia to ratify the Kyoto Protocol at my request.</p>
@@ -25,6 +15,4 @@
 <p>The conference  -  which starts today  -  will set out the “Bali Roadmap” to begin negotiations for the next round of international action against climate change when the first round of targets under the Kyoto Protocol expire in 2012.</p>
 <p>Canberra</p>
 <p>Press Office (02) 6277 7744</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

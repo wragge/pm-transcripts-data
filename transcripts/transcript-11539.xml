@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11539</transcript-id>
-    <title>Radio Interview with Fran Kelly, Radio National                 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/04/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Indigenous matters; Telstra.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11539</transcript-id><title>Radio Interview with Fran Kelly, Radio National                 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/04/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Indigenous matters; Telstra.</p>
 <p>E&amp;OE ..............................</p>
 <p>FRAN KELLY:</p>
 <p>Prime Minister thanks for joining us.</p>
@@ -67,6 +57,4 @@
 <p>FRAN KELLY:</p>
 <p>Prime Minister thank you very much for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

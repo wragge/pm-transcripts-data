@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40779</transcript-id>
-    <title>Remarks at meeting with Excellency Benjamin Netanyahu, Prime Minister of the State of Israel</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>23/02/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40779</transcript-id><title>Remarks at meeting with Excellency Benjamin Netanyahu, Prime Minister of the State of Israel</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>23/02/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Bibi again, welcome.</p>
 <p>We’re here with our ministers to discuss the wide range of opportunities to cooperate on security, on innovation, cyber-security, defence, transport. We’ve just seen examples of that.</p>
 <p>We’ve signed an agreement on bilateral cooperation in technological innovation and research and development. That’s going to provide a framework for our scientists and engineers and business people to create jobs and industries of the future.</p>
@@ -45,6 +35,4 @@
 <p>I’m going to, and will be reciprocated in your historic visit later on this year in Israel.</p>
 <p>The first thing I’d like to do is ask you to increase our trade, our bilateral trade. Second thing is to see how Australia can be a gateway for Israeli companies and Israeli investments into Asia. And I think that is a very promising possibility.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

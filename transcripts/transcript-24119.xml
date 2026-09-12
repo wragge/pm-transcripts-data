@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24119</transcript-id>
-    <title>Assistance for people affected by Sampson Flat Bushfire</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/01/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today the Commonwealth Government announced that both the Disaster Recovery Payment and the Disaster Recovery Allowance will be provided to eligible residents affected by the Sampson Flat Bushfire in the Mount Lofty Ranges region of South Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24119</transcript-id><title>Assistance for people affected by Sampson Flat Bushfire</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/01/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today the Commonwealth Government announced that both the Disaster Recovery Payment and the Disaster Recovery Allowance will be provided to eligible residents affected by the Sampson Flat Bushfire in the Mount Lofty Ranges region of South Australia.</p>
 <p>This is a difficult time for those affected by the bushfire, which has had a devastating impact on local communities.</p>
 <p>We also thank our remarkable fire fighters and rescue crews who, through their dedication and selflessness, have ensured that there has been no loss of life.</p>
 <p>The Commonwealth Government assistance announced today is over and above the support already being provided under the jointly funded Commonwealth-State Natural Disaster Relief and Recovery Arrangements, which were announced on Sunday.</p>
@@ -21,6 +11,4 @@
 <p>Further information on Commonwealth Government assistance is available online at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a>.</p>
 <p>The thoughts of all Australians are with those who have been affected by the Sampson Flat fire.</p>
 <p>8 January 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

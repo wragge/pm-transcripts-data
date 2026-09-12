@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15188</transcript-id>
-    <title>Interview with Matthew Abraham and David Bevan ABC Radio 891, Adelaide</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/04/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15188</transcript-id><title>Interview with Matthew Abraham and David Bevan ABC Radio 891, Adelaide</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/04/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Polls; workplace reform; uranium mining; Coalition frontbench; climate change;   Collins Class submarines</p>
 <p>E&amp;OE...</p>
 <p>  Listen to this Interview (MP3 -   0.00Mb - secs)</p>
@@ -212,6 +202,4 @@ Polls; workplace reform; uranium mining; Coalition frontbench; climate change;  
 <p>Thank you.</p>
 <p>[ends]</p>
 <p>  Listen to this Interview (MP3 -   0.00Mb - secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

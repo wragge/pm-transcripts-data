@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40643</transcript-id>
-    <title>New funding to improve road safety</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>05/12/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In the lead up to Christmas and the summer holidays, the Turnbull Government is urging people to keep safe on our roads as hospitals and families deal with a climbing number of fatalities and serious injuries.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40643</transcript-id><title>New funding to improve road safety</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>05/12/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In the lead up to Christmas and the summer holidays, the Turnbull Government is urging people to keep safe on our roads as hospitals and families deal with a climbing number of fatalities and serious injuries.</p>
 <p>While the Coalition Government is concerned about the number of Australians killed on our roads, we also need to get a clear picture on a hidden toll - those Australians who are severely injured in road crashes.</p>
 <p>Prime Minister Malcolm Turnbull today announced new funding for the Australian Trauma Registry to allow it to determine this national figure and also to accurately track the national progress of severe injuries on our roads.</p>
 <p>This data will lead to improved medical practice, with better outcomes for patients and to our health system.</p>
@@ -20,6 +10,4 @@
 <p>The Bureau has worked closely with the Royal Australasian College of Surgeons (RACS) to develop arrangements which will detail the number and characteristics of injuries of people severely injured.</p>
 <p>The Australian Government is providing $450,000 over three years. This complements a total in-kind contribution of $1.85 million from participating hospital sites, and a $50,000 contribution from The Alfred Foundation.</p>
 <p>The Registry currently tracks major injuries in Australia – road trauma (including motor vehicles, pedestrian and cyclists), major falls, gunshot wounds, and stabbings. The data is from Australia’s major hospital trauma centres.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

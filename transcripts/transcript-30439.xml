@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>30439</transcript-id>
-    <title>Radio Interview with Matt Peacock, AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Security Council resolution, humanitarian aid, food drops, West Timor, war crimes investigations,</subjects>
-    <content><![CDATA[<p>16 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>30439</transcript-id><title>Radio Interview with Matt Peacock, AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Security Council resolution, humanitarian aid, food drops, West Timor, war crimes investigations,</subjects><content><![CDATA[<p>16 September 1999</p>
 <p><i>Subject: Security Council resolution, humanitarian aid, food drops, West Timor, war crimes investigations,</i></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p align="JUSTIFY"><b>PEACOCK:</b></p>
@@ -56,11 +46,11 @@
 <p align="JUSTIFY">Is that important?</p>
 <p align="JUSTIFY"><b>PRIME MINISTER:</b></p>
 <p align="JUSTIFY">What?</p>
-<p align="JUSTIFY"><b>PEACOCK:</b><br />To have a timetable.</p>
+<p align="JUSTIFY"><b>PEACOCK:</b><br>To have a timetable.</p>
 <p align="JUSTIFY"><b>PRIME MINISTER:</b></p>
 <p align="JUSTIFY">Well, it’s important to give flexibility in the resolution otherwise people will say if it hasn’t occurred by the given date then the whole thing’s fallen over. But there are discussions going on. I can’t really go any further than that. From a commonsense point of view if they can cooperate initially that will be a good thing. But I would expect the role of the Indonesian forces to diminish quite rapidly.</p>
-<p align="JUSTIFY"><b>PEACOCK:</b><br />So now our troops will be working alongside some people who almost certainly are guilty of some terrible crimes against humanity.</p>
-<p align="JUSTIFY"><b>PRIME MINISTER:</b><br />Well Matt, initially there’ll need to be some on the ground cooperation. I mean there always is when the domestic army hands over to the international army. I mean that’s happened in every peacekeeping operation. It happened remember in Serbia. So I mean let’s not suggest that there’s something unusual, bizarre or macabre about that. I mean it always happens. As to the question of war crimes and so forth, well there are some established international procedures and tribunals and they should be allowed to take their course.</p>
+<p align="JUSTIFY"><b>PEACOCK:</b><br>So now our troops will be working alongside some people who almost certainly are guilty of some terrible crimes against humanity.</p>
+<p align="JUSTIFY"><b>PRIME MINISTER:</b><br>Well Matt, initially there’ll need to be some on the ground cooperation. I mean there always is when the domestic army hands over to the international army. I mean that’s happened in every peacekeeping operation. It happened remember in Serbia. So I mean let’s not suggest that there’s something unusual, bizarre or macabre about that. I mean it always happens. As to the question of war crimes and so forth, well there are some established international procedures and tribunals and they should be allowed to take their course.</p>
 <p align="JUSTIFY"><b>PEACOCK:</b>Do you think that those proceedings, I know you didn’t want to discuss this until we had permission to send in a peacekeeping force, but now are you prepared to say that from the evidence that you’ve seen, you think that those war crimes investigations [inaudible]?</p>
 <p align="JUSTIFY"><b>PRIME MINISTER:</b></p>
 <p align="JUSTIFY">Well look, everything should be pursued but the question of whether people are guilty or not guilty of crimes is a matter for proper evidential procedures. I’m not going to make some declaration that people are guilty of war crimes. What I’m saying is that of course it should be investigated, but please, I can’t sit in judgement on that. I haven’t seen any evidence, I’ve not spoken to a person. It is unrealistic to ask me to form a personal judgement.</p>
@@ -121,6 +111,4 @@
 <p align="JUSTIFY"><b>PRIME MINISTER:</b></p>
 <p align="JUSTIFY">Thank you.</p>
 <p align="JUSTIFY">[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

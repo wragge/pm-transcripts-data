@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12276</transcript-id>
-    <title>Address at Orbost Secondary College</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/02/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Australian achievements; education; teaching</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12276</transcript-id><title>Address at Orbost Secondary College</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/02/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Australian achievements; education; teaching</p>
 <p>E&amp;OE..................</p>
 <p>Well thank you very much Andrew.  To my ministerial colleague, Peter McGauran, the school principal, the shire president, students, parents and other visitors.  </p>
 <p>I'd like to thank the Orbost Secondary College for inviting me here to give me the opportunity for a few moments to share with the student body some thoughts I had about modern Australia and the future that lies ahead of this country.</p>
@@ -26,6 +16,4 @@
 <p>I wish you good happiness and good health and good fortune.  I hope you leave this school with fond recollections.  I compliment the teaching staff on the role that it is playing in educating you and I hope that each and every one of you achieves in your occupation and in your personal lives the goals and the happiness that I would hope that would be the lot of each and every one of you.</p>
 <p>Thank you.</p>
 <p>[Ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

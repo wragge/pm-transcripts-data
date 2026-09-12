@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40673</transcript-id>
-    <title>Radio Interview on 2GB Summer Saturday</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/12/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRESENTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40673</transcript-id><title>Radio Interview on 2GB Summer Saturday</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/12/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRESENTER:</strong></p>
 <p>Prime Minister, thanks for joining us on Summer Saturday.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Great to be with you all.</p>
@@ -113,11 +103,9 @@
 <p><strong>PRESENTER:</strong></p>
 <p>Wonderful, very good. Well Malcolm I know you don’t appear on this radio station very often due to your busy schedule, but I’m glad you’ve recognised that this is a program of immense quality, professionalism befitting of a Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Thank you so much. Look forward to talking to you again. </p>
+<p>Thank you so much. Look forward to talking to you again.&nbsp;</p>
 <p><strong>PRESENTER:</strong></p>
 <p>Thanks, have a Merry Christmas.</p>
 <p>Ends</p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

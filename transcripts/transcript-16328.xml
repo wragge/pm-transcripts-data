@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16328</transcript-id>
-    <title>Government launches 12 year plan to reduce homelessness in Australia Mission Australia Centre Surrey Hills, Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The White Paper on Homelessness, The Road Home, was launched today by the Prime Minister, Kevin Rudd, and the Minister for Housing, Tanya Plibersek.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16328</transcript-id><title>Government launches 12 year plan to reduce homelessness in Australia Mission Australia Centre Surrey Hills, Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The White Paper on Homelessness, The Road Home, was launched today by the Prime Minister, Kevin Rudd, and the Minister for Housing, Tanya Plibersek.</p>
 <p>The White Paper outlines a plan for reducing homelessness in Australia by 2020, with specific goals to:</p>
 <p>     * Halve overall homelessness; and</p>
 <p>     * Provide accommodation to all rough sleepers who seek it.</p>
@@ -36,6 +26,4 @@
 <p>The Government recognises the critical need for national leadership, a clear vision and measurable goals.</p>
 <p>Reducing homelessness is a shared responsibility that will take a sustained financial and reform effort by all levels of government, business, charities and the community.</p>
 <p>The White Paper is available at Department of Families, Housing, Community Services and Indigenous Affairs (FaHCSIA) website or by calling 1800 774 055.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

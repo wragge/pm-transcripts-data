@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11547</transcript-id>
-    <title>Amendment to Sex Discrimination Act</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/08/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Federal Cabinet today considered the implications of the Federal Court decision in McBain v the State of Victoria.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11547</transcript-id><title>Amendment to Sex Discrimination Act</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/08/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Federal Cabinet today considered the implications of the Federal Court decision in McBain v the State of Victoria.</p>
 <p>In that case the Court held that Victorian legislation restricting IVF treatment to women who were married and living with their husband on a genuine domestic basis or living with a man in a defacto relationship was inconsistent with the Commonwealth Sex Discrimination Act, and as a consequence, was invalid under Section 109 of the Constitution.</p>
 <p>The Government has decided to amend the Sex Discrimination Act so as to permit any State to legislate to the effect of the Victorian Act under consideration in the McBain case.</p>
 <p>In considering the matter, Cabinet had before it advice from both the Solicitor-General and the Chief General Counsel.  Both were of the view that the decision of the Federal Court in the McBain case represented a correct interpretation of the law and that, as a consequence, the chances of an appeal succeeding were quite remote.</p>
@@ -20,6 +10,4 @@
 <p>The Commonwealth does not have constitutional power to directly legislate in relation to the availability of IVF procedures.</p>
 <p>If Parliament approves the Government's proposed amendment then it will be open to other States, if they choose, to enact legislation similar to the Victorian legislation.</p>
 <p>1 August 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16179</transcript-id>
-    <title>Minding Your Money, Seven News Special, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/10/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The global financial crisis is affecting financial markets right around the world including Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16179</transcript-id><title>Minding Your Money, Seven News Special, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/10/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The global financial crisis is affecting financial markets right around the world including Australia.</p>
 <p>More than 25 banks around the world have failed or been bailed out. Share markets around the world have suffered large losses.</p>
 <p>And the reality is in recent days we have entered a new and damaging stage in the global financial crisis  -  with real impacts on economic growth and jobs around the world and with real impacts on economic growth and jobs here in Australia as well.</p>
 <p>Australia is better placed than almost any other country in the world, to deal with this crisis. We have the best bank regulators in the world. Our banks' balance sheets are strong and healthy. And Australia, unlike most other countries, has a strong budget surplus.</p>
@@ -31,6 +21,4 @@
 <p>But the Government has set an economic course for the country to see Australia through.</p>
 <p>And we remain prepared to take whatever action, whatever action may be necessary to secure this nation's long term economic future. </p>
 <p>Good evening.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

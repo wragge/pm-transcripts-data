@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17574</transcript-id>
-    <title>Transcript of interview with Mark Nicholas, Channel Nine</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17574</transcript-id><title>Transcript of interview with Mark Nicholas, Channel Nine</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>NICHOLAS: Prime Minister Julia Gillard, nice to have you with us.</p>
 <p>PM: It's lovely to be here.</p>
 <p>NICHOLAS: Spectacular day in more ways than one this, isn't it?</p>
@@ -39,6 +29,4 @@
 <p>PM: I've got my bandana on and a pink shirt.</p>
 <p>NICHOLAS: Great, lovely to see you. Thank you very much for all the support you're giving, not just for today, but more specifically I think to everybody who so needs it in Queensland.</p>
 <p>PM: Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

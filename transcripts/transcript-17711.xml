@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17711</transcript-id>
-    <title>Principals get first look at new My School data</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/03/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17711</transcript-id><title>Principals get first look at new My School data</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/03/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Principals from around the nation will today get access to their school's data on the new look My School website in preparation for the public launch on Friday.</p>
 <p>Prime Minister Julia Gillard and School Education Minister Peter Garrett today said the My School 2.0 website will take the new era of greater transparency and accountability further for every school in the country.</p>
 <p>For the first time, My School 2.0 will provide information about school finances and changes in student performance over time.</p>
 <p>This additional information will facilitate greater debate at the grassroots level about how schools are performing.</p>
 <p>The key improvements to the My School 2.0 website include:</p>
-<p> * 	data about growth in student achievement<br />
- * 	data about school finances<br />
- * 	a more accurate method of calculating the Index of Community Socio-Educational Advantage (ICSEA)<br />
- * 	new graphical methods of displaying NAPLAN data<br />
+<p> * 	data about growth in student achievement<br>
+ * 	data about school finances<br>
+ * 	a more accurate method of calculating the Index of Community Socio-Educational Advantage (ICSEA)<br>
+ * 	new graphical methods of displaying NAPLAN data<br>
  * 	security features to ensure that data is used appropriately.</p>
 <p>From today, Principals will be able to see the progress students in their school have made in literacy and numeracy since the 2008 National Assessment Program  -  Literacy and Numeracy tests.</p>
 <p>My School 2.0 will also show, for the first time, the funding a school receives to deliver education to its students, including school capital and recurrent income from governments, schools fees and other contributions.</p>
@@ -27,6 +17,4 @@ Principals from around the nation will today get access to their school's data o
 <p>My School 2.0 will put powerful information in the hands of Principals and parents to help them identify what is working and help inform discussions about how school performance can be improved.</p>
 <p>My School 2.0 will be publicly launched on Friday 4 March 2011.</p>
 <p>For more information visit <a href="http://www.MySchool.edu.au">www.MySchool.edu.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

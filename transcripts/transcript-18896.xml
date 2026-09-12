@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18896</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/11/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18896</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/11/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I would like to offer President Obama my warmest congratulations on his re-election. President Obama is a great friend of Australia and I have had the opportunity to work closely with him.</p>
 <p>I am looking forward to continuing to work closely with President Obama. Australia and America are the oldest of allies and the firmest of friends. We share values and we have a history of shared sacrifice and we've got so much to do together in these years. </p>
 <p>First and foremost, we have to see our mission through in Afghanistan and continue to make our contribution to peace and security in our world. We've got to work together on the global economy, strengthening jobs and growth, including through the work we do at the G20.</p>
@@ -40,6 +30,4 @@ PM: I would like to offer President Obama my warmest congratulations on his re-e
 <p>PM: I am not going to canvass in advance issues that will be dealt with in bilaterals but I would be happy to speak with you after we have had various bilateral discussions.</p>
 <p>Okay, thank you very much.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

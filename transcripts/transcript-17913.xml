@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17913</transcript-id>
-    <title>Speech to the International CEO Forum 10th Foreign Investor Dialogue with the Government of Australia, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/06/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17913</transcript-id><title>Speech to the International CEO Forum 10th Foreign Investor Dialogue with the Government of Australia, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/06/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 It's a great pleasure to welcome you to the nation's capital to share in this important Forum.</p>
 <p>As CEOs of global companies, you are acutely aware of the opportunities and pressures facing Australia's economy at this remarkable time.</p>
 <p>Most of your firms operate in the non-mining sector and so approach the current climate with varying degrees of optimism.</p>
@@ -32,7 +22,7 @@ It's a great pleasure to welcome you to the nation's capital to share in this im
 <p>One quarter of our exports make their way to China alone, potentially rising to half by 2015.</p>
 <p>This is good for Australia because it brings three distinct sets of opportunities:</p>
 <p>Direct benefits from mining itself</p>
-<p> * 	Wider benefits from the spread of mining wealth<br />
+<p> * 	Wider benefits from the spread of mining wealth<br>
  * 	And opportunities as the Asian middle class expands.</p>
 <p>The benefits of mining are obvious, such as higher wages, dividends, superannuation savings and spending on equipment and services.</p>
 <p>Mining-related opportunities are also widespread.</p>
@@ -48,11 +38,11 @@ It's a great pleasure to welcome you to the nation's capital to share in this im
 <p>And the inflow of export income washes right through our economy, creating many more opportunities here on shore.</p>
 <p>Output from the services sector alone is projected to increase by about 35 per cent by 2020.</p>
 <p>Great opportunities still exist for investors in areas such as:</p>
-<p> * 	Banking, finance and legal services.<br />
- * 	Infrastructure.<br />
- * 	Clean energy.<br />
- * 	Carbon markets.<br />
- * 	Creative industries, especially in the area of NBN content, video games and mobile phone applications.<br />
+<p> * 	Banking, finance and legal services.<br>
+ * 	Infrastructure.<br>
+ * 	Clean energy.<br>
+ * 	Carbon markets.<br>
+ * 	Creative industries, especially in the area of NBN content, video games and mobile phone applications.<br>
  * 	And areas of discretionary spending such as personal services and domestic tourism.</p>
 <p>There will also be big opportunities in health and aged care as the population ages and medical science advances.</p>
 <p>With growing prosperity, our consumption of all these goods and services will rapidly increase.</p>
@@ -199,6 +189,4 @@ It's a great pleasure to welcome you to the nation's capital to share in this im
 <p>Walk boldly on the road of reform.</p>
 <p>Build a more productive Australia.</p>
 <p>And meet the Asian Century with courage and confidence. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

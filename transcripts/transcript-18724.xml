@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18724</transcript-id>
-    <title>Electricity prices: the facts, Speech to the Energy Policy Institute of Australia</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/08/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18724</transcript-id><title>Electricity prices: the facts, Speech to the Energy Policy Institute of Australia</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/08/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney </p>
 <p>E &amp; OE proof only</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>Too often the cost of electricity is talked about in two completely separate public conversations.</p>
@@ -158,6 +148,4 @@
 <p>And in turn, this is a smart, affordable, clean energy future.</p>
 <p>The bad news is, today, Australians are paying more than they should for electricity, because of the price rises that have come without a dollar of assistance.</p>
 <p>The good news is, we can do something about it.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

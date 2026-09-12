@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24278</transcript-id>
-    <title>Category C Assistance following Ex-Tropical Cyclone Marcia</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>12/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Additional disaster assistance will be available for primary producers affected by Ex-Tropical Cyclone Marcia and the associated rainfall and flooding.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24278</transcript-id><title>Category C Assistance following Ex-Tropical Cyclone Marcia</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>12/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Additional disaster assistance will be available for primary producers affected by Ex-Tropical Cyclone Marcia and the associated rainfall and flooding.</p>
 <p>The additional assistance provides a helping hand to those suffering the effects of extensive damage to crops, pasture and farming infrastructure.</p>
 <p>This assistance will be provided through the jointly-funded Commonwealth-State Natural Disaster Relief and Recovery Arrangements (NDRRA).</p>
 <p>Eligible primary producers in the local government areas (LGAs) of Livingstone and Rockhampton and targeted areas within the LGAs of Banana and North Burnett will be able to access grants of up to $25,000 to assist with their clean-up and recovery cost.</p>
@@ -19,6 +9,4 @@
 <p>To apply for a clean-up and recovery grant primary producers can contact QRAA on 1800 623 946 or online at <a href="http://www.qraa.qld.gov.au/">www.qraa.qld.gov.au</a>.</p>
 <p>Information regarding disaster assistance can be found on the Queensland Government’s Disaster Management website at <a href="http://www.disaster.qld.gov.au/">www.disaster.qld.gov.au</a> and on the Australian Government’s Disaster Assist website at <a href="http://www.disasterassist.gov.au/">www.disasterassist.gov.au</a>.</p>
 <p>12 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21057</transcript-id>
-    <title>2003 Christmas Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/12/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Christmas is a time to think of the values that bind the Australian nation together - to remind ourselves that the things which unite us as Australians are infinitely greater and more enduring than the things that divide us.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21057</transcript-id><title>2003 Christmas Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/12/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Christmas is a time to think of the values that bind the Australian nation together - to remind ourselves that the things which unite us as Australians are infinitely greater and more enduring than the things that divide us.</p>
 <p>Ours is one of a very small number of nations which has maintained a continuous democratic tradition for more than 100 years.</p>
 <p> Our commitment to helping each other in times of challenge and adversity has again been on display throughout the year.</p>
 <p>Many parts of Australia have suffered severe drought over the past 12 months.  Fortunately, recovery is now well and truly underway and prospects for our farmers are brighter.  Many Australians were affected by the bushfires and we shall never forget the magnificent efforts of our firefighters and emergency services.</p>
@@ -18,6 +8,4 @@
 <p>  The Australian Defence Forces have been heavily committed over the past 12 months.  As we celebrate Christmas, here at home with our families, we should all spare a thought for the approximately 2000 men and women of our defence forces who will be overseas in different places including Iraq, East Timor and the Solomon Islands to name but a few.  These Australians continue to serve the national interest at considerable sacrifice to themselves and their families.</p>
 <p>Christmas is always a time of hope and renewal.  It is also a time when we are reminded of and enjoy again the importance of families and close friends.  Our family links and our friendships remain the most enduring experiences of our lives.</p>
 <p>Janette and I wish all Australians a Merry Christmas and a bright and happy 2004.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

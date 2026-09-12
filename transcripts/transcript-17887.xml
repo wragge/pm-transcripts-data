@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17887</transcript-id>
-    <title>Work starts on $16 billion Gladstone liquefied natural gas project</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17887</transcript-id><title>Work starts on $16 billion Gladstone liquefied natural gas project</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Queensland Premier Anna Bligh officially launched work on the $16 billion Santos Liquefied Natural Gas Project near Gladstone today.</p>
 <p>The project, which is one of Australia's largest energy projects, is expected to generate $9 billion a year in exports and create more than 5,000 construction jobs and nearly 1,000 long term operational positions.</p>
 <p>Speaking at the site of the project, the Prime Minister said it was a significant day for the people of Gladstone and Queensland, as well as Santos and its partners.</p>
@@ -24,6 +14,4 @@ Prime Minister Julia Gillard and Queensland Premier Anna Bligh officially launch
 <p>The first cargo from the Gladstone Liquefied natural gas project is scheduled to be exported from 2015.</p>
 <p>This project will be joint venture between Australian company Santos, Malaysia's PETRONAS, Total of France, and KOGAS of Korea (subject to regulatory approval).</p>
 <p>Further information about the project is available at <a href="http://www.glng.com.au">http://www.glng.com.au</a>. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

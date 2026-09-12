@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17749</transcript-id>
-    <title>Transcript of doorstop interview, Australian National University, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/03/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17749</transcript-id><title>Transcript of doorstop interview, Australian National University, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/03/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here this morning at our fantastic Australian National University, I'm joined by our local member, Andrew Leigh, and I'd like to thank the new Vice-Chancellor, Professor Ian Young, for having us here today.</p>
 <p>We're here today looking at the future, the future of solar technology, the future being worked on by researchers here is this building today. I'm very proud that the Australian Government was able to contribute to these laboratories with a $5 million grant, part of $150 million of commitment to the Australian Solar Institute, part of $5 billion which we are investing in clean energy.</p>
 <p>Here today, looking at the future of clean energy, the solar technology which will make a difference for Australian lives and Australian industry. Pricing carbon is about creating the right incentive to drive this clean energy future.</p>
@@ -58,6 +48,4 @@ PM: I'm here this morning at our fantastic Australian National University, I'm j
 <p>Now I'm not underestimating, and never have, the difficulty of closing the gap for Indigenous Australians. I refer you to the speech I gave in the Parliament on closing the gap.</p>
 <p>The Government's acting. Making sure you get a headline on the front page of a newspaper is politics, not policy. We'll get on with the policy.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

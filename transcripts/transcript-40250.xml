@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40250</transcript-id>
-    <title>Vetride 2016</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>20/03/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, Senator Zed Seselja welcomed to Canberra nearly 100 riders and support staff who took part in this year’s VetRide initiative.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40250</transcript-id><title>Vetride 2016</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>20/03/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, Senator Zed Seselja welcomed to Canberra nearly 100 riders and support staff who took part in this year’s VetRide initiative.</p>
 <p>Senator Seselja, representing the Prime Minister and the Minister for Veterans’ Affairs Dan Tehan, said the riders had made the 660km journey from Melbourne to Canberra, stopping at Benalla, Bandiana, Kapooka, Cootamundra and Yass on their way to Canberra.</p>
 <p>“Each year VetRide conducts the ‘Service and Sacrifice Tour’ cycling event to raise awareness of Vietnam veterans’ issues and to honour and remember the 521 Australians killed in the Vietnam War,” Senator Seselja said.</p>
 <p>“This year’s ride commemorated the 50th anniversary of the Battle of Long Tan, where 108 men from D Company RAR resisted a far larger group of Viet Cong soldiers in what became one of the most extraordinary chapters in Australia’s military history.”</p>
@@ -19,6 +9,4 @@
 <p>The Minister for Veterans’ Affairs, Dan Tehan, also acknowledged the positive work of this annual fundraising cycle event.</p>
 <p>“VetRide is a terrific initiative of the Vietnam Veterans Association of Australia supporting the welfare of veterans, the ex-service community and their families, through an annual fundraising cycling event,” Minister Tehan said.</p>
 <p>“The Service and Sacrifice Ride helps highlight the importance of the physical and mental health of our veterans and VetRide is commended for its efforts in raising awareness of the issue.”</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

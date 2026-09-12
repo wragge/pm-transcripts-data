@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11100</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                                     THE HON JOHN HOWARD MP                   RADIO INTERVIEW WITH NEIL MITCHELL, 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/05/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..............................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11100</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                                     THE HON JOHN HOWARD MP                   RADIO INTERVIEW WITH NEIL MITCHELL, 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/05/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..............................................</p>
 <p>MITCHELL:</p>
 <p>Mr Howard, good morning.</p>
 <p>PRIME MINISTER:</p>
@@ -371,6 +361,4 @@
 <p> voted for last October. I wouldn't say at this stage we're going to</p>
 <p> muck it up because if I thought we were in a situation where we were</p>
 <p> going to be mucking it up I wouldn't be involv</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

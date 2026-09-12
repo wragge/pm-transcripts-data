@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21740</transcript-id>
-    <title>Interview with David Speers Sky News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/05/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21740</transcript-id><title>Interview with David Speers Sky News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/05/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p> Prime Minister thanks for your time.  You spoke a lot in the build up to this Budget about the need to produce a strong surplus, to keep downward pressure on interest rates, why then the decision to spend almost $22 billion dollars on tax cuts?</p>
 <p> PRIME MINISTER:</p>
 <p> We have a strong surplus. We have a surplus of 1% of GDP, and roughly equivalent surpluses in the out- years and on top of that because we are going to re-invest the income from the Future Fund back into that fund and not bring it into the Budget, we are actually tightening fiscal policy.  There's no way that this Budget is going to exert upward pressure on interest rates. I mean we would not have given the tax cuts if we hadn't had such a strong surplus after allowing for those tax cuts and this Budget is right in line with the philosophy which I had explained over the years and the Treasurer's explained; you provide necessary expenditure for health, education, Defence and the like, you have a strong surplus and if you have anything left over, you return it to the people who own it and that is the Australian taxpayer and that is exactly what we have done. This Budget is precisely a product of the philosophy that we have brought to the management of this country over the last nine years.</p>
@@ -82,6 +72,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you</p>
 <p>[Ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

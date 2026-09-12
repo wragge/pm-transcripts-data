@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40267</transcript-id>
-    <title>A Healthier Medicare for chronically-ill patients</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>31/03/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will revolutionise the way we care for Australians with chronic diseases and complex conditions – aiming to keep them out-of-hospital and living happier and healthier lives at home.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40267</transcript-id><title>A Healthier Medicare for chronically-ill patients</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>31/03/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will revolutionise the way we care for Australians with chronic diseases and complex conditions – aiming to keep them out-of-hospital and living happier and healthier lives at home.</p>
 <p>Our Healthier Medicare package is one of the biggest health system reforms since the introduction of Medicare 30 years ago.</p>
 <p>Patients with multiple chronic conditions will get a health care package tailored to their needs and that care will then be co-ordinated to help them easily navigate the complex system.</p>
 <p>As many as one-in-five Australians now live with two or more chronic health conditions.</p>
@@ -27,7 +17,8 @@
 <p>If we don’t act, Commonwealth health spending as a proportion of GDP will increase by over 50 per cent within 50 years because of higher rates of chronic disease.</p>
 <p>Key Details</p>
 <p>The Turnbull Government’s primary health care reforms, as part of its Healthier Medicare package, will consist of:</p>
-<ul><li>Tailored patient care plans developed in partnership with patients and their families.</li>
+<ul>
+<li>Tailored patient care plans developed in partnership with patients and their families.</li>
 <li>The establishment of ‘Health Care Homes’, which will co-ordinate all of the medical, allied health and out-of-hospital services required as part of a patient’s tailored care plan. Health Care Homes will be delivered by GP practices or Aboriginal Medical Services. Patients will be able to enrol with the Home of their choice.</li>
 <li>Payments for Health Care Homes will be bundled together into regular quarterly payments. This will encourage providers to be flexible and innovative in how they communicate and deliver care, and will ensure that the patient’s health care needs are regularly monitored and reviewed. This signals a move away from the current fee-for-service model for these eligible patients, except where a routine health issue does not relate to their chronic illness.</li>
 <li>Improved use of digital health measures to improve patient access and efficiency, including the new MyHealth Record, telehealth and teleweb services, remote health monitoring and medication management technologies etc.</li>
@@ -38,6 +29,5 @@
 <li>Greater co-ordination between Primary Health Care Networks (PHNs) and Local Hospital Networks (LHNs) in the planning and procurement of health services for their local communities.</li>
 <li>Additional training to care coordinators and providers so they are aware of their responsibilities under the new model.</li>
 <li>A Health care home implementation advisory group to oversee the design, implementation and evaluation of the trials ahead of the national rollout.</li>
-</ul>]]></content>
-  </transcript>
-</transcripts>
+</ul>
+]]></content></item></response>

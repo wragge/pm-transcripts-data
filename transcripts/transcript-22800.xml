@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22800</transcript-id>
-    <title>Joint Press Conference with Mr Yasser Arafat, Chairman of the Palestinian Liberation Organisation </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/05/2000</release-date>
-    <release-type>Press Conference</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject: Peace process; Australia’s role in the peace process; Maccabiah Games memorial; contribution to UNRWA; Sharm Elsheikh Agreement</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22800</transcript-id><title>Joint Press Conference with Mr Yasser Arafat, Chairman of the Palestinian Liberation Organisation </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/05/2000</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject: Peace process; Australia’s role in the peace process; Maccabiah Games memorial; contribution to UNRWA; Sharm Elsheikh Agreement</p>
 <p>E&amp;OE ……………………………………………………………………………</p>
 <p>YASSER ARAFAT:</p>
 <p>I would like to welcome very much my dear friend and guest the Prime Minister of Australia and would like to say how pleased I am. It is a great honour and pleasure to receive him and his high level delegation here for the first time. I’d also like to thank him for all the support that Australia has given and continues to give the Palestinian people.</p>
@@ -64,6 +54,4 @@
 <p>Alison, the answer to your question is yes. I have invited Mr Arafat to visit Australia at a mutually convenient time and I hope that he can take up that invitation.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

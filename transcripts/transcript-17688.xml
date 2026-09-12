@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17688</transcript-id>
-    <title>Statement on the 2010 ALP National Review</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17688</transcript-id><title>Statement on the 2010 ALP National Review</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I welcome the 2010 ALP National Review Report which was released today by the Australian Labor Party National Executive.</p>
 <p>The review was conducted at my request and covers an assessment of the Labor Party's performance over the past three years, including in last year's election campaign.</p>
 <p>I would like to thank Senator John Faulkner, former Premier of Victoria Steve Bracks and former Premier of NSW Bob Carr for conducting such a widespread and inclusive review.  John, Steve and Bob have brought to the task their great love for and loyalty to the Labor Party combined with a wealth of experience and an insightful approach.</p>
@@ -37,10 +27,8 @@ I welcome the 2010 ALP National Review Report which was released today by the Au
 <p>That is what has always characterised our Party.</p>
 <p>Finally, I recognise that more than anything else people expect the Government to govern.</p>
 <p>However important the many recommendations in this report are, my main focus this year will remain:</p>
-<p> * 	rebuilding disaster stricken communities;<br />
- * 	building opportunity through the Government's education and participation reforms;<br />
- * 	shaping the future by pricing carbon, rolling out the NBN, and delivering a better and sustainable health care system; and<br />
+<p> * 	rebuilding disaster stricken communities;<br>
+ * 	building opportunity through the Government's education and participation reforms;<br>
+ * 	shaping the future by pricing carbon, rolling out the NBN, and delivering a better and sustainable health care system; and<br>
  * 	seeing our mission through in Afghanistan. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22912</transcript-id>
-    <title>Doorstop Interview, Parliament House</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/10/2000</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Minister Reith; ACT government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22912</transcript-id><title>Doorstop Interview, Parliament House</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/10/2000</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Minister Reith; ACT government.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Will you be advising Mr Reith to repay the entire $50,000?</p>
@@ -37,6 +27,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well there are different people who have different analyses of the Auditor-General’s report. Speaking of the question that we all have to address and that is who will make the better government for the ACT? I believe a Liberal government led by Mrs Carnell will make a better government than a Labor government and that’s why I said what I did last night and I stand by every word of it.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

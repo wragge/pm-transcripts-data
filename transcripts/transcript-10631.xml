@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10631</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW PHILIP CLARK - RADIO 2BL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/06/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10631</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW PHILIP CLARK - RADIO 2BL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/06/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> JOURNALIST:</p>
 <p>Welcome to Mr John Howard, the Prime Minister of Australia. Mr</p>
 <p>   Howard, welcome to the studio.</p>
 <p>PRIME MINISTER:</p>
@@ -527,6 +517,4 @@
 <p>JOURNALIST:</p>
 <p>This year?</p>
 <p>PRIME MINISTER:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

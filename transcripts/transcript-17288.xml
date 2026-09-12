@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17288</transcript-id>
-    <title>Prime Minister Transcript of interview with Lyndal Curtis ABC AM 12 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Mr Rudd, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17288</transcript-id><title>Prime Minister Transcript of interview with Lyndal Curtis ABC AM 12 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Mr Rudd, welcome to AM.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>HOST: After a frenetic year you've had with thrills but plenty of spills, many in the last couple of weeks, was a dull and competent budget what you needed to help gain lost ground?</p>
 <p>PM: The key thing that I believe in is responsible economic management. Responsible economic management during the global downturn and responsible economic management now that we're on a path to recovery, and that's why, what we the Government, have done is halve peak debt, get the Budget back in the black in three years and that's three years ahead of time. I believe that it's really necessary to do that in these circumstances of uncertainty around the world.</p>
@@ -42,6 +32,4 @@
 <p>I've just now got off the telephone from David Cameron however, his successor. I've congratulated Mr Cameron on being elected to the high office of Prime Minister of the United Kingdom. We've had a good conversation just now, he's looking forward to a further upgrade in the Australia/UK relationship. We even talked about the possibility of him coming out to Australia at some stage, perhaps coinciding with a few games of cricket. So it will be a good relationship. The Australia/UK relationship is above party politics.</p>
 <p>HOST: Prime Minister, thank you very much for your time.</p>
 <p>PM: Thanks for have me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23200</transcript-id>
-    <title>Attendance at the World Economic Forum</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/01/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I will attend this year’s World Economic Forum (WEF) meeting in Davos, Switzerland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23200</transcript-id><title>Attendance at the World Economic Forum</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/01/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I will attend this year’s World Economic Forum (WEF) meeting in Davos, Switzerland.</p>
 <p>The WEF’s annual Davos meeting brings together some 2,500 business and political leaders to discuss key global issues.</p>
 <p>It will be an opportunity to showcase Australia and the Government’s reform agenda to international political and business leaders.</p>
 <p>I will meet with Heads of Government in attendance, host Australia’s B20 delegation of business leaders and deliver a keynote address to outline Australia’s approach to the Presidency of the G20.</p>
@@ -17,6 +7,4 @@
 <p>We should make the most of our G20 Presidency to help provide economic leadership to the wider world and promote our attractiveness as an investment destination.</p>
 <p>The Hon Warren Truss MP will be Acting Prime Minister in my absence.</p>
 <p>19 January 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

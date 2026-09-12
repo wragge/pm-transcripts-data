@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18848</transcript-id>
-    <title>Transcript of Doorstop Interview - New Delhi</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/10/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New Delhi, India</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18848</transcript-id><title>Transcript of Doorstop Interview - New Delhi</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/10/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New Delhi, India</p>
 <p>PM: It's a great delight to be here India. I have had the opportunity to meet some fantastic kids today.</p>
 <p>Education changes lives, it transforms lives. That is true in our country; it is true here in India.</p>
 <p>And when you combine sport with education, you get a very powerful combination.</p>
@@ -69,6 +59,4 @@
 <p>PM: On that matter, I will be seeing Prime Minister Singh tomorrow. But we have changed our party policy, so that there is now no fetter for us selling uranium to India.</p>
 <p>We've changed our government policy. The thing that would have to happen next is the negotiation of a comprehensive civil nuclear cooperation agreement.</p>
 <p>Okay, I understand everybody's under time pressure including me so thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

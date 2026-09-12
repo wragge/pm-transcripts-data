@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23734</transcript-id>
-    <title>Press Conference, Joint Operations Command Centre, Carwoola</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/08/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>Overseas visit,  Operation Bring Them Home,  Iraq,  Budget 2014.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23734</transcript-id><title>Press Conference, Joint Operations Command Centre, Carwoola</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/08/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Overseas visit, Operation Bring Them Home, Iraq, Budget 2014.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>It’s good to be here at the Joint Operations Command Centre to say thank you to the men and women of the Australian Defence Force and others who have been helping to coordinate our operations overseas.</p>
 <p>As you know, I’ve spent most of the last week overseas in connection with various operations. My week began in the Netherlands where I was saying thank you to the 200 or so Australian Federal Police and the 250 or so Australian Defence Force personnel who were deployed to Europe as part of <em>Operation Bring Them Home. </em></p>
 <p>Then, I went to London where I spoke to the UK Foreign and Defence Secretaries. I had briefings on security and intelligence, and the focus of those discussions was on the ongoing threat to countries like Australia and Britain that has been exacerbated by recent developments in the Middle East – the declaration of a caliphate and the rise of the Islamic State of Iraq and the Levant and the extraordinary advances that have been made by ISIL in the last few weeks.</p>
@@ -83,6 +73,4 @@
 <p>Right now, we are still borrowing $1 billion every single month just to pay the interest on Labor's debt. This is a completely unacceptable, unsustainable situation. That's the challenge that we have thanks to six years of utter incompetence and that is the challenge that we are determined to deal with.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

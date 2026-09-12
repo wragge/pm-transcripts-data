@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24146</transcript-id>
-    <title>Remarks at the Australian of the Year Awards</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/01/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Well it's great to be here on this perfect Canberra evening and it's an honour to be in the company of Ben Robert-Smith and so many other great Australians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24146</transcript-id><title>Remarks at the Australian of the Year Awards</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/01/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Well it's great to be here on this perfect Canberra evening and it's an honour to be in the company of Ben Robert-Smith and so many other great Australians.</p>
 <p>Tomorrow we will celebrate the ties that bind us, the values that sustain us and the history that has shaped us. But tonight, we usher in our national day of celebration by honouring the best in our people and the best of our people.</p>
 <p>We honour those who have dedicated themselves to building a better Australia.</p>
 <p>All of them have had a go so that all of us might have a fair go.</p>
@@ -21,6 +11,4 @@
 <p>So, I say to each of them – you make all of us proud to be Australian and you inspire all of us to be better Australians.</p>
 <p>Tonight, our nation honours you and we thank you for your lives of courage, achievement and determination.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

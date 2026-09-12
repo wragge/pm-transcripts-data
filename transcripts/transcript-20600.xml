@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20600</transcript-id>
-    <title>Health - Where is Labor&#039;s Policy?   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/04/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The time has come for Mr Crean to tell the Australian public the details of Labor's alternative health policy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20600</transcript-id><title><![CDATA[Health - Where is Labor&#039;s Policy?   ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/04/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The time has come for Mr Crean to tell the Australian public the details of Labor's alternative health policy.</p>
 <p>They have now had more than seven years. Surely that's long enough to develop some alternative ideas.</p>
 <p>Dishonest misrepresentations are no substitute for coherent policy alternatives.</p>
 <p>Now is the time to hear something positive and truthful from Labor.</p>
@@ -30,6 +20,4 @@
 <p>Health is too important a public policy area to continue as the play-thing of Labor's small target electoral strategy.</p>
 <p>The Australian people know where the Coalition stands on this issue. We strongly support Medicare. We have announced measures to strengthen Medicare. We have proposed large funding increases for public hospitals. We strongly support private health structures.</p>
 <p>Where does Labor stand? Australians have a right to know.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

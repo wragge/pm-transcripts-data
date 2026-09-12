@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15619</transcript-id>
-    <title>Doorstop Interview Kogarah, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/09/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15619</transcript-id><title>Doorstop Interview Kogarah, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/09/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 2007 Election, Australian Hospital Nursing Schools, Iraq</p>
 <p>E&amp;OE...</p>
 <p>JOURNALIST:</p>
@@ -32,6 +22,4 @@
 <p>So would you say Mr Howard that a vote for you is a vote for you and not necessarily for Peter Costello?  Is that the message that you still want...</p>
 <p>PRIME MINISTER:</p>
 <p>No, no, a vote for me is a vote for the Coalition.  But people don't vote individually for me, this is not a presidential race.  They vote for a team, they'll vote for Tony Abbott in Warringah and they'll vote for people in other parts other parts of the electorate.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

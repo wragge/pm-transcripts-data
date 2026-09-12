@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24068</transcript-id>
-    <title>Incident in Martin Place, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/12/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New South Wales Police and the Australian Federal Police are currently responding to a reported hostage-taking incident in Martin Place in Sydney.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24068</transcript-id><title>Incident in Martin Place, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/12/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New South Wales Police and the Australian Federal Police are currently responding to a reported hostage-taking incident in Martin Place in Sydney.</p>
 <p>I have spoken with NSW Premier Mike Baird and offered him all possible Commonwealth support and assistance.</p>
 <p>The National Security Committee of Cabinet has also convened for briefings on the situation.</p>
 <p>This is obviously a deeply concerning incident but all Australians should be reassured that our law enforcement and security agencies are well trained and equipped and are responding in a thorough and professional manner.</p>
 <p>We will provide regular updates as further information becomes available.</p>
 <p>15 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

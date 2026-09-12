@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17663</transcript-id>
-    <title>Statement on Egypt</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17663</transcript-id><title>Statement on Egypt</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 This is a remarkable day for the people of Egypt. </p>
 <p>In their millions, Egyptians have called for change - for an open, democratic society that offers greater opportunity for its people.</p>
 <p>Through their courage and determination to have their voices heard, Egyptians have made an important step toward that goal.</p>
@@ -19,6 +9,4 @@ This is a remarkable day for the people of Egypt. </p>
 <p>Australia calls for constitutional reform and a clear timetable towards free and fair elections and a representative civilian government that will govern for all Egyptians.</p>
 <p>This change must come without violence or intimidation against those who have been peacefully demanding reform.</p>
 <p>Australia stands ready to help in this transition in any way we can. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

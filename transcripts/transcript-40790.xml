@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40790</transcript-id>
-    <title>Transcript - Joint Press Conference with the Minister for Justice, The Hon Michael Keenan MP and the Australian Federal Police Commissioner, Andrew Colvin OAM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>28/02/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40790</transcript-id><title>Transcript - Joint Press Conference with the Minister for Justice, The Hon Michael Keenan MP and the Australian Federal Police Commissioner, Andrew Colvin OAM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>28/02/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
   <strong>PRIME MINISTER: </strong></p>
 <p>  Good afternoon. I'm here with the  Minister for Justice, the Minister Assisting me on Counter-Terrorism, Michael  Keenan, and Andrew Colvin, the Commissioner of the Australian Federal Police. </p>
 <p>
@@ -85,7 +75,7 @@
 <p>
   Unfortunately,  this arrest today highlights the global nature of terrorism and the importance  of community vigilance. We rely very heavily on the community to report any  information to authorities, to police, to our security agencies, so that we can  continue to break these networks apart. </p>
 <p>
-  Action today is  the result of very smart policing and good detective work over a long period of  time. I would like to thank the investigators involved in the work. They worked  very long hours to bring this matter to a resolution.  While the man will  today be charged for some very serious offences, the matter is still ongoing,  but I want to reassure the Australian public that all Australian police and our  security and our partners, work very hard to look after their safety.</p>
+  Action today is  the result of very smart policing and good detective work over a long period of  time. I would like to thank the investigators involved in the work. They worked  very long hours to bring this matter to a resolution.&nbsp; While the man will  today be charged for some very serious offences, the matter is still ongoing,  but I want to reassure the Australian public that all Australian police and our  security and our partners, work very hard to look after their safety.</p>
 <p>
   <strong>JOURNALIST:</strong></p>
 <p>  The very fact  that we are in the Blue Room, we have the Prime Minister here, we have the  Justice Minister and the AFP Commissioner. We trust that you are taking this  very seriously, but can you tell us about this man? Whether he had the ability  or expertise to indeed help ISIL overseas or whether he was just some sort of  misguided amateur? Did he work for a government agency at any point?</p>
@@ -251,6 +241,4 @@
   Thank you very much.</p>
 <p>
   <strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

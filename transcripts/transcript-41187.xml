@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41187</transcript-id>
-    <title>North Korean ballistic missile launch</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/09/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia strongly condemns today’s North Korean ballistic missile launch which flew over northern Japan and landed in waters to the east of Hokkaido.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41187</transcript-id><title>North Korean ballistic missile launch</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/09/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia strongly condemns today’s North Korean ballistic missile launch which flew over northern Japan and landed in waters to the east of Hokkaido.</p>
 <p>While this morning’s test is likely that of an intermediate range ballistic missile, it flew further than any previous test conducted by Pyongyang.</p>
 <p>This emphasises the grave and increasing threat North Korea poses to regional and global security and will only strengthen the determination of Australia and the international community to stand firm against North Korea’s illegal actions.</p>
 <p>Increased economic pressure is an essential pillar of the collective strategy to force Pyongyang to come to its senses and abandon its illegal programs and focus instead on the welfare of its long-suffering people.</p>
@@ -19,6 +9,4 @@
 <p>Powers to search ships for prohibited cargo to and from North Korea have been expanded.</p>
 <p>It is vital that all members of the international community fully implement the UN Security Council resolutions – especially Permanent Five members of the Security Council with significant economic relations with North Korea.</p>
 <p>We will continue to work with our partners, including Japan, the United States, Republic of Korea and China, to impose ever-increasing costs on the regime for its destabilising behavior.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

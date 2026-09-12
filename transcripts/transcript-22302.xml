@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22302</transcript-id>
-    <title>Interview with Madonna King ABC Radio 612, Brisbane </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/05/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KING:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22302</transcript-id><title>Interview with Madonna King ABC Radio 612, Brisbane </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/05/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KING:</p>
 <p>Prime Minister John Howard thanks for your time and welcome back to ABC Brisbane.</p>
 <p> PRIME MINISTER:</p>
 <p>Pleasure.</p>
@@ -64,6 +54,4 @@
 <p> KING:</p>
 <p> Prime Minister John Howard thanks for your time this morning.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

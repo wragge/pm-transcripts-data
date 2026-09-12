@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24081</transcript-id>
-    <title>Cairns Tragedy</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/12/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The news out of Cairns is heartbreaking.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24081</transcript-id><title>Cairns Tragedy</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/12/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The news out of Cairns is heartbreaking.</p>
 <p>All parents would feel a gut-wrenching sadness at what has happened.</p>
 <p>This is an unspeakable crime.</p>
 <p>These are trying days for our country.</p>
 <p>Tonight, there will be tears and prayers across our country for these children.</p>
 <p>My thoughts are with the Queensland Police and all who have to respond to this terrible situation.</p>
 <p>19 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

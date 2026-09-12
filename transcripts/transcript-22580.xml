@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22580</transcript-id>
-    <title>Prime Minister Honours Scientists and Science Teachers  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/10/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I have great pleasure in congratulating Mandyam Veerambudi Srinivasan on receiving the 2006 Prime Minister's Prize for Science.  It was my honour to present him with a gold medal and a cheque for $300,000 at a ceremony at Parliament House in Canberra this evening.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22580</transcript-id><title>Prime Minister Honours Scientists and Science Teachers  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/10/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I have great pleasure in congratulating Mandyam Veerambudi Srinivasan on receiving the 2006 Prime Minister's Prize for Science.  It was my honour to present him with a gold medal and a cheque for $300,000 at a ceremony at Parliament House in Canberra this evening.</p>
 <p> Professor Srinivasan - known to all as Srini - has revealed the working of the insect mind, and in the process has helped redefine robotics. What started 23 years ago as basic research with no apparent application, is now followed closely by robotics experts around the world. Professor Srinivasan's research team at the Australian National University routinely receives NASA and US military grants.</p>
 <p>Designs for robots are often expensive and complex. A bee can take off, find targets, fly through tunnels, navigate home, and land without any of that complexity. It uses a minute brain of about a million nerve cells, which is the size of a sesame seed and weighs just a tenth of a milligram.</p>
 <p>Now Professor Srinivasan is looking at bee emotions, work that is also likely to find application in the design of the machines of tomorrow.</p>
@@ -20,6 +10,4 @@
 <p> Sydney teacher Ms Anna Davis was awarded the $50,000 Prime Minister's Prize for Excellence in Science Teaching in Secondary Schools. Since her arrival at Casimir Catholic School in Marrickville in 1998, results across Year 12 science courses have improved by 17 per cent and students now achieve above the state average.</p>
 <p>I congratulate all the recipients of this year's prizes. It is worth noting that all three scientists were born overseas, demonstrating that we are attracting leading scientists to Australia.</p>
 <p>The awards illustrate the commitment and achievement of our talented scientists and recognise the important work that many of our dedicated teachers are doing in inspiring the next generation of Australian scientists and innovators.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

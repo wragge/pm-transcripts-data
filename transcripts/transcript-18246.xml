@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18246</transcript-id>
-    <title>Transcript of doorstop interview, Cannes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/11/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18246</transcript-id><title>Transcript of doorstop interview, Cannes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/11/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I have just arrived in France for the G20 meeting, bringing together the leaders of the biggest 20 economies in the world.</p>
 <p>This G20 meeting comes at the most testing time for the global economy since the depths of the global financial crisis. Leaders at this meeting need to come together and show the leadership the world needs to lock in behind jobs and growth.</p>
 <p>Australia has a strong and resilient economy but we are not immune from what happens in the rest of the world.</p>
@@ -55,6 +45,4 @@ PM: I have just arrived in France for the G20 meeting, bringing together the lea
 <p>JOURNALIST: Do you share his concerns?</p>
 <p>Well, I am not going to deal with it. I have literally heard five, ten minutes ago so we will get you an answer when possible.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

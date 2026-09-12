@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12207</transcript-id>
-    <title>Peter Nugent </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/04/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was shocked and saddened to learn of Peter Nugent's sudden death earlier today at the age of 63.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12207</transcript-id><title>Peter Nugent </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/04/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was shocked and saddened to learn of Peter Nugent's sudden death earlier today at the age of 63.</p>
 <p>Peter was a valued and capable colleague. He worked tirelessly in the House of Representatives on behalf of the people of Aston from the time of his election as their member in 1990.</p>
 <p>He was a particularly active contributor to policy debates within the party room. Foreign policy and social issues involving the treatment of minority groups and the disadvantaged were particular passions of his.</p>
 <p>Born in Chelmsford, England, Peter served for 24 years in the Royal Air Force, retiring as a Squadron Leader. Immediately before entering Federal Parliament, he worked in sales and marketing in the private sector.</p>
@@ -19,6 +9,4 @@
 <p>Peter Nugent has given great service to the Liberal Party of Australia. His premature and untimely death deprives the people of Aston of a powerful advocate who will be greatly missed by his parliamentary colleagues.</p>
 <p>I have already spoken to Peter's wife, Carol. To her, and to Peter's three children, Dee, Greg and Barry, I extend the sympathy of all of his Liberal colleagues.</p>
 <p>24 April 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

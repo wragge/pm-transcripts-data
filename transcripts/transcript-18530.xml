@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18530</transcript-id>
-    <title>Statement of commitment to Canberra and launch of Centenary of Canberra, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/03/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18530</transcript-id><title>Statement of commitment to Canberra and launch of Centenary of Canberra, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/03/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I begin by honouring the traditional owners of the land on which we meet and pay my respects in the spirit of reconciliation to Elders past and present.</p>
 <p>We meet in a spirit of friendship on country made sacred by unbroken centuries of custodianship and care.</p>
 <p>One hundred and eight words; that's how Canberra came about.</p>
@@ -47,6 +37,4 @@ I begin by honouring the traditional owners of the land on which we meet and pay
 <p>In that spirit, I proudly launch the program to celebrate this, Canberra's centennial year. 99 going on 100.</p>
 <p>I affirm the Statement of Commitment made on behalf of the nation today.</p>
 <p>And I look forward to joining Canberrans and all Australians in celebrating the contribution this city has made to all the success and identity of the country we love so much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

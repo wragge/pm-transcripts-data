@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18823</transcript-id>
-    <title>Opening Remarks to the Digital Economy Forum</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/10/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18823</transcript-id><title>Opening Remarks to the Digital Economy Forum</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/10/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>I think it's very appropriate that we've gathered here at a university, the places where so much of our destiny in the 21st century will be written, as much as the mines and gas fields to our north.</p>
 <p>Just last week, a major breakthrough in quantum computing that will open up whole new opportunities in areas like drug manufacturing and materials design was announced in the journal Nature.</p>
 <p>That breakthrough wasn't made at MIT or Stanford, but right here at UNSW.</p>
@@ -79,6 +69,4 @@
 <p>And after we leave here room today, I urge you all to carry on that conversation with your stakeholders and with the Government.</p>
 <p>By doing so, you contribute to the future of our digital economy and help make Australia a winner in the Asian Century.  </p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

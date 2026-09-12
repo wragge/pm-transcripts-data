@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40991</transcript-id>
-    <title>Remarks at the Cyber Security Roundtable</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>31/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40991</transcript-id><title>Remarks at the Cyber Security Roundtable</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>31/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Dan Tehan and I and Paul Talon and Alastair MacGibbon are delighted to be joined by you all today. Thank you very much for coming.</p>
 <p>You are the leaders of some of, most of our biggest telco’s and some of our biggest web-based platforms; Amazon, Facebook, we’ve got a huge representation here in the telco sector.</p>
 <p>Now we are going to have a talk about the new frontier of threats to Australia’s security.</p>
@@ -21,6 +11,4 @@
 <p>Of course, it's opened up extraordinary opportunities, the internet. It is the most remarkable piece of infrastructure ever designed. If you look at something as ubiquitous as the smart phone is only ten years old, is extraordinary in itself. But it does pose new challenges. It gives those who seek to do us harm greater access, access that they hadn’t had before.</p>
 <p>So, thank you for coming and I look forward to having a very frank discussion with Dan and of course supported by Paul from the Signals Directorate and my Cyber Security Adviser, Alastair MacGibbon.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

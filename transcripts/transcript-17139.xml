@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17139</transcript-id>
-    <title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 19 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DOYLE: Well, Prime Minister Kevin Rudd joins us now. Good morning to you. Is it locked in for June?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17139</transcript-id><title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 19 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DOYLE: Well, Prime Minister Kevin Rudd joins us now. Good morning to you. Is it locked in for June?</p>
 <p>PM: Well, I'm going to be very happy any time the President chooses to visit. As I said the other day, I'm pretty relaxed about all that. I know President Obama pretty well. It would be nice to have him and Michelle and the kids. We had a conversation on the phone this morning. He'd like to have a more relaxed visit than the 24-hour, whip in, whip in out that the last one had come down to.</p>
 <p>DOYLE: So, does he just ring you personally? How does that work? And tell you that he's -</p>
 <p>PM: Gets on the mobile to say 'G'day, Kevin. How are you?'</p>
@@ -62,6 +52,4 @@
 <p>That's my own view.</p>
 <p>DOYLE: Thank you, alright, well, we'll get something more from you next week or so on the swimming lessons for kids, so, thanks for joining us Prime Minister.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

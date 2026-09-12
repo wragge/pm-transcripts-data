@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16140</transcript-id>
-    <title>Acting Prime Minister Interview with Ross Stevenson, Radio 3AW, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ROSS STEVENSON: Acting Prime Minister Julia Gillard. Good morning, Julia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16140</transcript-id><title>Acting Prime Minister Interview with Ross Stevenson, Radio 3AW, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ROSS STEVENSON: Acting Prime Minister Julia Gillard. Good morning, Julia.</p>
 <p>JULIA GILLARD: Good morning.</p>
 <p>ROSS STEVENSON: When's Kevin back from overseas and if its not ‘til after Saturday, does that mean that you get a ticket to come and watch the Grand Final?</p>
 <p>JULIA GILLARD: [Laughs] No, Kevin will be there at the Grand Final. So you can expect him to be doing all of the formal things that prime ministers do on Grand Final day. I will also be there watching, studying and barracking.</p>
@@ -26,6 +16,4 @@
 <p>ROSS STEVENSON: If you saw what he's about to eat, then there's a chance of a minor health crisis coming up. Julia, we must away and I share your sentiments. I will be going for the same underdog and thanks for your time.</p>
 <p>JULIA GILLARD: No, problem. Thanks Ross.</p>
 <p>ROSS STEVENSON: Julia Gillard, Acting Prime Minister I think became during the week became the first female to be Prime Minister during Parliamentary Question Time</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22931</transcript-id>
-    <title>Television Interview with John Laws, Foxtel </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Roads funding; surplus; infrastructure, nation building; world price of oil; Aussie dollar; US election; voluntary voting; media coverage of elections; media; childhood; being Prime Minister; Sport; Peter Reith</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22931</transcript-id><title>Television Interview with John Laws, Foxtel </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Roads funding; surplus; infrastructure, nation building; world price of oil; Aussie dollar; US election; voluntary voting; media coverage of elections; media; childhood; being Prime Minister; Sport; Peter Reith</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOHN LAWS:</p>
 <p>Good evening, welcome to our program.</p>
@@ -104,7 +94,7 @@
 <p>No I don’t feel that strongly on the issue to have an argument and the Labor party is against changing it too. As a matter of principle, I don’t think people should be compelled to vote.</p>
 <p>LAWS:</p>
 <p>Well I don’t think they should either especially when we maintain we live in a democracy.</p>
-<p>PRIME MINISTER:<br />
+<p>PRIME MINISTER:<br>
 I would think if you had voluntary voting in Australia you’d have a higher percentage of people voting than in America but let me make it clear, it’s not on my agenda.</p>
 <p>LAWS:</p>
 <p>Okay.</p>
@@ -143,7 +133,7 @@ I would think if you had voluntary voting in Australia you’d have a higher per
 <p>LAWS:</p>
 <p>We certainly do. Do you feel intimidated by the media?</p>
 <p>PRIME MINISTER:</p>
-<p>No. I disagree with some of them very violently on occasions and I don’t think a lot of people on the media always represent the mainstream of the community on certain issues but I don’t feel intimidated by them.<br />
+<p>No. I disagree with some of them very violently on occasions and I don’t think a lot of people on the media always represent the mainstream of the community on certain issues but I don’t feel intimidated by them.<br>
 LAWS:</p>
 <p>You never say to yourself well hang on, the media is going to run riot with this.</p>
 <p>PRIME MINISTER:</p>
@@ -205,7 +195,7 @@ LAWS:</p>
 <p>Loyalty is very important to you isn’t it?</p>
 <p>PRIME MINISTER:</p>
 <p>Very important.</p>
-<p>LAWS:<br />
+<p>LAWS:<br>
 I mean you’ve showed extraordinary loyalty to some members of your team.</p>
 <p>PRIME MINISTER:</p>
 <p>Yes I have.</p>
@@ -332,7 +322,7 @@ I mean you’ve showed extraordinary loyalty to some members of your team.</p>
 <p>Thank you very much for staying with us. My guest is Prime Minister John Howard.</p>
 <p>You wouldn’t ask Bill Clinton to dinner?</p>
 <p>PRIME MINISTER:</p>
-<p>No, no. That list, I think I’d also add Winston Churchill.<br />
+<p>No, no. That list, I think I’d also add Winston Churchill.<br>
 LAWS:</p>
 <p>Not Margaret Thatcher.</p>
 <p>PRIME MINISTER:</p>
@@ -417,7 +407,7 @@ LAWS:</p>
 <p>LAWS:</p>
 <p>So she understood that loyalty.</p>
 <p>PRIME MINISTER:</p>
-<p>Yes.<br />
+<p>Yes.<br>
 LAWS:</p>
 <p>‘Cause a lot of people couldn’t. A lot of people couldn’t.</p>
 <p>PRIME MINISTER:</p>
@@ -425,7 +415,7 @@ LAWS:</p>
 <p>LAWS:</p>
 <p>Do you think you will pay a political price?</p>
 <p>PRIME MINISTER:</p>
-<p>That’s ultimately a matter for the Australian people but I took my decision and I stick by it.<br />
+<p>That’s ultimately a matter for the Australian people but I took my decision and I stick by it.<br>
 LAWS:</p>
 <p>So loyalty is more important than your future as Prime Minister.</p>
 <p>PRIME MINISTER:</p>
@@ -437,7 +427,7 @@ LAWS:</p>
 <p>LAWS:</p>
 <p>What frightens you?</p>
 <p>PRIME MINISTER:</p>
-<p>The normal things that frighten any father or husband. Illness. Threat to one’s family. I mean the safety and security and happiness of my family are the things that matter most to me. I can sort of handle anything else but that’s the thing that would frighten me the most, yes.<br />
+<p>The normal things that frighten any father or husband. Illness. Threat to one’s family. I mean the safety and security and happiness of my family are the things that matter most to me. I can sort of handle anything else but that’s the thing that would frighten me the most, yes.<br>
 LAWS:</p>
 <p>Prime Minister, thank you very much for your time. It’s been good to talk to you.</p>
 <p>PRIME MINISTER:</p>
@@ -448,6 +438,4 @@ LAWS:</p>
 <p>Thank you.</p>
 <p>LAWS:</p>
 <p>Thank you very much. Prime Minister, John Howard.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

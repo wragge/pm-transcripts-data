@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11612</transcript-id>
-    <title>THE HONOURABLE DAME ROMA MITCHELL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/03/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>All Australians will be saddened by the death today of Dame Roma Mitchell.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11612</transcript-id><title>THE HONOURABLE DAME ROMA MITCHELL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/03/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>All Australians will be saddened by the death today of Dame Roma Mitchell.</p>
 <p>Dame Roma will be remembered for her pioneering role in the legal profession</p>
 <p> and her long and distinguished service to the Australian Community, especially</p>
 <p> in South Australia, and to the Winston Churchill Memorial Trust.</p>
@@ -27,6 +17,4 @@
 <p> by The Queen.</p>
 <p>I extend deepest sympathies on behalf of myself, my wife Janette and</p>
 <p> the Federal Government to her loved ones.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

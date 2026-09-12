@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41260</transcript-id>
-    <title>Investing in children’s health</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/10/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will invest $13 million in a major longitudinal children’s health study.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41260</transcript-id><title>Investing in children’s health</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/10/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will invest $13 million in a major longitudinal children’s health study.</p>
 <p>This is a decade-long investment in our children’s future. It will improve and possibly save lives.</p>
 <p>The ORIGINS Project will be conducted by the Telethon Kids Institute and Joondalup Health Campus. It is an exciting, original and truly far-sighted study, following a cohort of 10,000 from pregnancy, to birth, to five years of age.</p>
 <p>There is increasing evidence that events and experiences occurring very early in a child’s life can have significant long-term effects on health and well-being.</p>
@@ -19,6 +9,4 @@
 <p>ORIGINS is an outstanding example of how private philanthropy and the Federal Government can work together to help Australia’s children and ensure they have the healthiest possible start to their lives.</p>
 <p>Telethon is all about ensuring a better life for our children now and in the future.</p>
 <p>This contribution towards the ORIGINS project comes on top of the annual Commonwealth Government contribution to Telethon, which this year will be $2 million.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

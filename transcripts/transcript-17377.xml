@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17377</transcript-id>
-    <title>State Memorial Service for Emeritus Professor Frank Fenner AC CMG MBE </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/12/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17377</transcript-id><title>State Memorial Service for Emeritus Professor Frank Fenner AC CMG MBE </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/12/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister Julia Gillard today announced that one of Australia's finest scientists, the late Professor Frank Fenner, would be honoured with a State Memorial Service.</p>
 <p>The service will commemorate Professor Fenner's life and his remarkable contribution to global public health and environmental science.</p>
 <p>Professor Fenner's long and distinguished career involved groundbreaking work on the impact of malaria on his fellow servicemen and women during World War II, research into tuberculosis, the eradication of smallpox and the control of Australia's rabbit population.</p>
@@ -17,6 +7,4 @@ The Prime Minister Julia Gillard today announced that one of Australia's finest 
 <p>Professor Fenner's State Memorial Service will be held at 4.00 pm on Friday 17 December 2010 at Llewellyn Hall, Australian National University.</p>
 <p>Information about the service will be published in major newspapers next week including a contact number for those who wish to attend the service.</p>
 <p>Professor Fenner passed away peacefully on 22 November 2010 at the age of 95.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

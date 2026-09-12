@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11461</transcript-id>
-    <title>Doorstop Comment, Parliament House</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/05/2000</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject: Labor response to the Budget</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11461</transcript-id><title>Doorstop Comment, Parliament House</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/05/2000</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject: Labor response to the Budget</p>
 <p>E&amp;OE ..............................</p>
 <p>REPORTER:</p>
 <p>Mr Beazley says the Budget is in fact in $2.1 million deficit. Do you think his figures are right?</p>
@@ -32,6 +22,4 @@
 <p>PRIME MINISTER:</p>
 <p>Oh yes we estimated how much it will provide and it's a very solid, conservative estimate. Alex, the last thing you can accuse the Government of doing is not providing detail on tax. We provided detail on tax before the last election, we provided total detail ever since. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

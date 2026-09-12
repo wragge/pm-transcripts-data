@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18672</transcript-id>
-    <title>Transcript of interview ith Ben Fordham, 2GB</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18672</transcript-id><title>Transcript of interview ith Ben Fordham, 2GB</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, good afternoon.</p>
 <p>PM: Good afternoon.</p>
 <p>HOST: Thank you for taking the time to talk to us. I know you are proud about bringing in the carbon tax yesterday, but you also feel any element of guilt considering you told the Australian people we wouldn't be getting one?</p>
@@ -74,6 +64,4 @@ HOST: Prime Minister, good afternoon.</p>
 <p>PM: Well this is about the nation's future. That's the important thing. The important thing is we live in a country that is cutting carbon pollution that we can say to ourselves for example in 2020 that we're seeing the equivalent of 45 million cars taken off the road. That we're seeing people seize the benefits of a clean energy future, and at the same time, we're seeing our economy stay strong, jobs growing, and people getting the benefits of a new tax system that better values work. You'll be able to earn up to $18,200 and not pay a cent of tax. Those are the kinds of objectives that drive me on.</p>
 <p>HOST: Okay Prime Minister it's been a long time between interviews, but I appreciate you coming on this afternoon. Thank you so much.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

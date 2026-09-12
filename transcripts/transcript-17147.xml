@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17147</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Perth 24 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: I'm going to say a few things about the storms here in WA, then about Senator Minchin, then I'll go onto health and hospitals, if that's OK, and then take your questions.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17147</transcript-id><title>Prime Minister Transcript of doorstop interview Perth 24 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: I'm going to say a few things about the storms here in WA, then about Senator Minchin, then I'll go onto health and hospitals, if that's OK, and then take your questions.</p>
 <p>I've just been talking to the Premier now about the terrible storms that have happened here in WA over the last little while. These have brought about a lot of damage, a lot of destruction, a lot of hardship, to a lot of people and behalf of the Australian Government we'd like to express our real sense of solidarity with people here in WA about what they've been going through.</p>
 <p>Today, the Australian Government has decided to provide financial assistance to Western Australia through the West Australian Government, through the Natural Disaster Relief and Recovery Arrangements. The following assistance is being made available to 33 disaster-declared local government areas: emergency assistance for people who have suffered personal hardship or distress, support to local governments and state agencies for the restoration or replacement of essential public infrastructure, and interest rate subsidies for small business and professional advice grants, interest rate subsidies and other measures for primary producers.</p>
 <p>These are all available on the relevant contact numbers for the relevant government agencies and will be up on the Australian Government's website as of now, and that is, they can be had through <a href="http://www.fesa.wa.gov.au">www.fesa.wa.gov.au</a> or the Australian Government website, as is appropriate.</p>
@@ -70,6 +60,4 @@
 <p>PM: Can I say that I look forward to many conversations with Colin between now and the 19th. As I said, we will probably end up meeting again between now and the 19th, either in the fair city of Perth or the fair city of Canberra, and we'll continue talking.</p>
 <p>It's been a good start to these discussions. We've made some substantive progress this morning. Still some areas to work our way through, but, as I've said before, my job as Prime Minister is to spend as much time as is necessary with premiers of all political parties right across the country to get the best deal possible for working families for health and hospitals.</p>
 <p>Having said that, folks, I'm already half an hour late to one of your local hospitals. Better go.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

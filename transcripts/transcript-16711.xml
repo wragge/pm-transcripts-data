@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16711</transcript-id>
-    <title>Joint Press Conference with Nicola Roxon and Dr Christine Bennett Australian National University  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/07/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> PM:Okay folks, over to you. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16711</transcript-id><title>Joint Press Conference with Nicola Roxon and Dr Christine Bennett Australian National University  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/07/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> PM:Okay folks, over to you. </p>
 <p>JOURNALIST: (inaudible)</p>
 <p>PM: What we put forward is three strategic options for the future. We've said that we will frame a final proposal to the States and Territories by early 2010, and if the States and Territories don't like that, we'll take it to the people. That's our process.</p>
 <p>The second reason for doing it that way is as follows. We have had twelve years of inaction on health policy reform. We received this report three weeks ago. For all Australians, this has big implications.  </p>
@@ -121,6 +111,4 @@
 <p>You can either just push it off, or you can lay out a program and timetable of reform. We've done so, and I repeat again, we've done so consistent, absolutely consistently, with our pre-election commitments in terms of how we go about this. </p>
 <p>Thanks for your attention. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

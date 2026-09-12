@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18182</transcript-id>
-    <title>Transcript of interview with Sabra Lane, ABC AM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18182</transcript-id><title>Transcript of interview with Sabra Lane, ABC AM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Good morning Prime Minister. Welcome to AM.</p>
 <p>PM: Good morning.</p>
 <p>HOST: You will usher through this package today. Polls show that it's deeply unpopular. Voters seemingly can't wait to vote you out. Has it been worth it?</p>
@@ -74,6 +64,4 @@ HOST: Good morning Prime Minister. Welcome to AM.</p>
 <p>The father in turn then said “Would you like to speak to my son?” And of course I said yes.</p>
 <p>HOST: Prime Minister, thanks for your time this morning.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

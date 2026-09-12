@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6079</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>07/04/1983</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006079.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 7 April 1983<br />
-The Thirty-third Parliament will be opened by the Governor-<br />
-General's Deputy at 10.30 a. m. on Thursday 21 April 1983.<br />
-His Excellency the Governor-General will deliver the Opening<br />
-Speech at 2.40 p. m. on the same day.<br />
-The Proclamation fixing the time and date of the Opening has<br />
-been signed by the Governor-General and will be published in<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6079</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>07/04/1983</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006079.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 7 April 1983<br>
+The Thirty-third Parliament will be opened by the Governor-<br>
+General's Deputy at 10.30 a. m. on Thursday 21 April 1983.<br>
+His Excellency the Governor-General will deliver the Opening<br>
+Speech at 2.40 p. m. on the same day.<br>
+The Proclamation fixing the time and date of the Opening has<br>
+been signed by the Governor-General and will be published in<br>
 the Commonwealth Gazette today. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

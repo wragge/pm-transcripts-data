@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11767</transcript-id>
-    <title>Doorstop Interview - White House, Washington DC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11767</transcript-id><title>Doorstop Interview - White House, Washington DC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Subjects: Free trade; Ansett; Greenhouse gas; refugees; National Missile Defence; US economy;</p>
 <p>E&amp;OE................................</p>
 <p>Ladies and gentlemen, I've just completed two or three hours of very comprehensive discussions with the President, with the Secretary of State and the National Security Adviser, and the Special Trade Representative both in the Oval Office and then subsequently over lunch.</p>
@@ -95,6 +85,4 @@ Subjects: Free trade; Ansett; Greenhouse gas; refugees; National Missile Defence
 <p>PRIME MINISTER:</p>
 <p>No. I haven't agreed that's anything's up for negotiation. I simply made the comment that when you get into a negotiation people are entitled to raise anything they want. I think our quarantine regime's very good.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

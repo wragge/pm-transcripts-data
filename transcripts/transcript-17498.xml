@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17498</transcript-id>
-    <title>Transcript of press conference, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/12/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17498</transcript-id><title>Transcript of press conference, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/12/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I have this morning been briefed by a range of officials, including Deputy Commissioner Colvin, on the tragic situation at Christmas Island. Can I start by saying this is a tragic event. We have seen loss of life. There are people on Christmas Island who will never forget the dreadful sights that they have seen in the last day and a half. Those memories will be with them for the rest of their lives. And of course we know in circumstances like this, that Australians want to understand what has happened. I will today be providing an update from Christmas Island and the tragic circumstances there, but I do want to be clear - what we know from past events like this one, is that the facts take some time to compile and so things that I will talk about today are advice to hand presently, but further details will become available over time.</p>
 <p>Let me outline what we do know at this still relatively early stage. Border Protection Command was first notified of this vessel early yesterday mornings, when it was clearly in distress and hard up against the Christmas Island shore line. Navy and Customs vessels responded rapidly, but were unable to reach the vessel before it hit the rocks. A search and rescue operation was launched and it continued yesterday in extremely bad weather conditions, it continued while there was light. And this operation has been recommenced; it is underway as we speak with Navy and Customs assets. A P3 Orion has also been tasked out of Darwin to provide additional search and rescue capability. As of this morning, on the most recent advice available to me, 42 passengers from the vessel have been rescued, though this number may move around as we clarify through officials at Christmas Island the number of people who are now there on the Island in their care.</p>
 <p>28 bodies have been recovered and of those 28 bodies, a number are young people and children. We do not know with any certainty how many people there were on the boat, so we've got to prepare ourselves for the likelihood that more bodies will be found and that there has been further loss of life than we know now with the numbers available to us now.</p>
@@ -109,6 +99,4 @@ PM: I have this morning been briefed by a range of officials, including Deputy C
 <p>JOURNALIST: Are you going to resume your holidays or are your holidays off?</p>
 <p>PM: Well I did return to work yesterday having had a few days off and I will make some assessments about what's the appropriate thing to do next, I haven't spent any time considering that question yet.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

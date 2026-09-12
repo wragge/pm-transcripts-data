@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19174</transcript-id>
-    <title>Speech for Greek Independence Day</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/03/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Domain, Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19174</transcript-id><title>Speech for Greek Independence Day</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/03/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Domain, Sydney</p>
 <p>[ACKNOWLEDGMENTS OMITTED]</p>
 <p>It's a great honour to join you for Greek Independence Day.</p>
 <p>The Greek struggle for independence which began in 1821 not only freed a nation  -  it inspired the world.</p>
@@ -36,6 +26,4 @@
 <p>It's a marvellous day to commemorate and celebrate! </p>
 <p>A great day to remember  -  and to have fun.</p>
 <p>Enjoy.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

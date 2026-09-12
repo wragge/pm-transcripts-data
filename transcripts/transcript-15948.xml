@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15948</transcript-id>
-    <title>Interview with Greg Cary, Radio 4BC, Brisbane   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CARY: And we're joined by our Prime Minister, Kevin Rudd. Mr Rudd Good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15948</transcript-id><title>Interview with Greg Cary, Radio 4BC, Brisbane   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CARY: And we're joined by our Prime Minister, Kevin Rudd. Mr Rudd Good morning.</p>
 <p>PM: Good morning Greg thanks for having me on the program.</p>
 <p>CARY: It's a great pleasure we're out and about today. We're at Rothwell at Harvey Norman's here. State of Origin, the team will be here a little later. Will you be at Game 2?</p>
 <p>PM: I won't be because I've got to be in Japan and Indonesia but I've slotted Game 3 and that's on the robust assumption that we're going to do well in Game 2 and, even if we don't, I'm going to be at Game 3.</p>
@@ -41,6 +31,4 @@
 <p>PM:Well Senator Obama has been in political life for quite some time, as has Senator Clinton. Senator McCain also.</p>
 <p>Look, I think he has an enormous insight in terms of the domestic challenges of this nation. He understands our part of the world. The key thing is -</p>
 <p>TRANSMISSION INTERRUPTION  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16502</transcript-id>
-    <title>$100 million for Lifehouse at RPA - the new Sydney Cancer Centre    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced a further $100 million for the new Lifehouse at RPA cancer care, research and education facility at the Royal Prince Alfred Hospital in Sydney. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16502</transcript-id><title>$100 million for Lifehouse at RPA - the new Sydney Cancer Centre    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced a further $100 million for the new Lifehouse at RPA cancer care, research and education facility at the Royal Prince Alfred Hospital in Sydney. </p>
 <p>The not-for-profit Lifehouse at RPA will be a state-of-the-art treatment centre combining all facets of clinical care for both public and private cancer patients.</p>
 <p>The new centre will bring experts together in cancer treatment and research and will have a particular focus on using new research discoveries in patient care.</p>
 <p>The centre will also give young cancer specialists, researchers and medical staff first-rate training and experience  -  helping us develop a new generation of world class cancer experts.</p>
@@ -18,6 +8,4 @@
 <p>The centre is the culmination of work undertaken by surgeon and cancer patient Professor Chris O'Brien  -  who has long advocated that bringing different cancer services under one roof would provide the best conditions for comprehensive treatment breakthroughs.</p>
 <p>Building is expected to commence in late 2009, with the official opening scheduled for early 2012.</p>
 <p>Over 100,000 new cases of cancer are diagnosed each year. The Australian Institute of Health and Welfare estimates that one in three men and one in four women will be diagnosed with cancer before the age of 75.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

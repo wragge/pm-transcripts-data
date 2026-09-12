@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10774</transcript-id>
-    <title>3 July 1998                                 TRANSCRIPT OF THE PRIME MINISTER                  THE HON. JOHN HOWARD MP                NEIL MITCHELL, RADIO 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/07/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10774</transcript-id><title>3 July 1998                                 TRANSCRIPT OF THE PRIME MINISTER                  THE HON. JOHN HOWARD MP                NEIL MITCHELL, RADIO 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/07/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................</p>
 <p>MITCHELL:</p>
 <p>Mr Howard, tax reform. The Treasurer today says business tax reform</p>
 <p>   will not be immediate in your package, it will be rolling reform</p>
@@ -414,6 +404,4 @@
 <p>The banks. There's a survey that's been done by, I think</p>
 <p>   it is KPMG, which shows that the banks are going to take one billion</p>
 <p>   dollars extr</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

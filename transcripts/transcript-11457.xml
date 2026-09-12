@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11457</transcript-id>
-    <title>Interview with Kerry O&#039;Brien - 7.30 Report               </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/04/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Mandatory Sentencing; Telstra; Interest rates</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11457</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien - 7.30 Report               ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/04/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Mandatory Sentencing; Telstra; Interest rates</p>
 <p>E&amp;OE..................................</p>
 <p>O'BRIEN</p>
 <p>It is correct is it that the only change that will be made to the Territory's mandatory sentencing laws will be to lift the adult age from 17 to 18. The only actual change in the law.</p>
@@ -118,6 +108,4 @@
 <p>O'BRIEN:</p>
 <p>John Howard, thanks for talking with us.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

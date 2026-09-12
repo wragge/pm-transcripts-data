@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40317</transcript-id>
-    <title>Australia signs Paris Agreement on climate change</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>23/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today Australia joined over 150 countries in signing the Paris Agreement, securing a global agreement to combat climate change.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40317</transcript-id><title>Australia signs Paris Agreement on climate change</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>23/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today Australia joined over 150 countries in signing the Paris Agreement, securing a global agreement to combat climate change.</p>
 <p>Minister Hunt signed the Paris Agreement in New York. We will begin our process to ratify the Agreement immediately, and will seek to ratify this year.</p>
 <p>The Paris Agreement is a turning point in the transition to a lower emissions global economy. The Agreement provides for five yearly reviews of national targets, underpinned by a rules based system that will assess whether countries are meeting their commitments.</p>
 <p>Australia is playing its part to tackle climate change with effective policies to cut emissions by 26 to 28 per cent below 2005 levels by 2030.</p>
@@ -19,9 +9,9 @@
 <p>The latest estimate from the Department of the Environment confirms that Australia is on track to beat our 2020 target by 78 million tonnes of emissions. This is a 50 million tonne improvement on the last estimate in December last year.</p>
 <p>The Turnbull Government is also today announcing a further $11 million investment in new projects to improve the health and resilience of the Great Barrier Reef, which will help the Reef to withstand pressures such as the El Niño exacerbated high sea surface temperatures that are causing the current coral bleaching event.</p>
 <p>This includes:</p>
-<ul><li>$3.3 million to enhance farm management practices by improving nutrient and chemical management among early adopter sugar cane growers.</li>
+<ul>
+<li>$3.3 million to enhance farm management practices by improving nutrient and chemical management among early adopter sugar cane growers.</li>
 <li>$3.2 million for improve grazing land management to reduce erosion losses to the Reef.</li>
 <li>$4.8 million to improve the quality of water entering the Great Barrier Reef by facilitating the adoption of best practice management in agriculture.</li>
-</ul>]]></content>
-  </transcript>
-</transcripts>
+</ul>
+]]></content></item></response>

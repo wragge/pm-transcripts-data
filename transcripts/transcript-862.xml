@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>862</transcript-id>
-    <title>Death of President Kennedy</title>
-    <prime-minister>Menzies, Robert</prime-minister>
-    <period-of-service>19491219 - 19660126</period-of-service>
-    <release-date>23/11/1963</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000862.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This is a shocking tragedy. A personal tragedy for Mrs. Kennedy; a national tragedy for the United States of America; and for the rest of us a world calamity.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>862</transcript-id><title>Death of President Kennedy</title><prime-minister>Menzies, Robert</prime-minister><period-of-service>19491219 - 19660126</period-of-service><field_date>23/11/1963</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000862.pdf</document><subjects></subjects><content><![CDATA[<p>This is a shocking tragedy. A personal tragedy for Mrs. Kennedy; a national tragedy for the United States of America; and for the rest of us a world calamity.</p>
 <p>President Kennedy had great courage, ability and personal attraction. He had already made a notable mark on world events and on the relations between the Soviet Union and the Western World. His decisiveness and success over the withdrawal of Soviet Forces and weapons from Cuba was, I believe, one of the crucial events of the last three years.</p>
 <p>The President was extremely friendly to Australia and at all times anxious to be helpful. I fear that this horrible affair and the loss of a man with such capacity for leadership will for a time at least increase the dangers of world tension.</p>
-<p>SYDNEY,<br />23rd November, 1963.</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>SYDNEY,<br>23rd November, 1963.</p>
+]]></content></item></response>

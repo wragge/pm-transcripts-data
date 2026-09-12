@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21565</transcript-id>
-    <title>Interview with David Koch and Lisa Wilkinson Sunrise, Channel 7 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/12/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21565</transcript-id><title>Interview with David Koch and Lisa Wilkinson Sunrise, Channel 7 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/12/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH:</p>
 <p>Mr. Howard good morning to you. Australians are such a generous lot aren't we? We see these disasters, we just want to get in and with some action but often it's not as easy as that. Run through the process, the protocols that you have to go through to determine aid, where it goes - you just can't barge in can you?</p>
 <p>PRIME MINISTER:</p>
 <p> No, you can't barge in. We already have operating in Indonesia 5 Hercules transports, which incidentally, includes one from New Zealand which is under Australian command and we thank the New Zealand Government for their cooperation. We have two medical teams which are arriving about now.  We'll actually be taking on one of the C130s, the United Nations assessment team into Aceh.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

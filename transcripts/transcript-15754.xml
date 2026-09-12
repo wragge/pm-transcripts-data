@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15754</transcript-id>
-    <title>Press Conference Prime Minister&#039;s Courtyard Parliament House, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: I'm deeply shocked by developments this morning in East Timor affecting the President of East Timor and the Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15754</transcript-id><title><![CDATA[Press Conference Prime Minister&#039;s Courtyard Parliament House, Canberra  ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: I'm deeply shocked by developments this morning in East Timor affecting the President of East Timor and the Prime Minister.</p>
 <p>What we've had, apparently, are coordinated attacks aimed at assassinating the democratically elected leadership of East Timor, a close friend and partner of Australia.</p>
 <p>We can confirm that this morning, Dili time, East Timorese President Jose Ramos-Horta was shot and wounded at his home on Beach Road in Dili.</p>
 <p>The President was taken by ambulance to the Aspen Medical facility of the Australian lead international stabilisation force where he's receiving all necessary medical care.</p>
@@ -117,6 +107,4 @@
 <p>So what he's asking for, and I support him fully in this, is if we're going to have forces on the ground in Afghanistan, we want to be part of the decision making process, and therefore, as a consequence, have confidence that strategy is capable of success. So I support him in his efforts and his forthright comments on it.</p>
 <p>And I think we'd better go. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

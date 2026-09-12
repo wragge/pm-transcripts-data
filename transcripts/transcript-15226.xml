@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15226</transcript-id>
-    <title>Interview with Keith Conlon and Tony Pilkinton Radio 5AA, Adelaide</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/01/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15226</transcript-id><title>Interview with Keith Conlon and Tony Pilkinton Radio 5AA, Adelaide</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/01/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Water, Senator Amanda Vanstone</p>
 <p>E&amp;OE...</p>
 <p>JOURNALIST:</p>
@@ -43,6 +33,4 @@ Water, Senator Amanda Vanstone</p>
 <p>JOURNALIST:</p>
 <p>We're just starting to break up, we're just starting to lose you and thank you very much for your time this morning Prime Minister.   </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

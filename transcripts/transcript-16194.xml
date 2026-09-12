@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16194</transcript-id>
-    <title>Australian Policy in Afghanistan Address to the C.E.W Bean Foundation Dinner, Australian War Memorial, Canberra </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/10/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Governments have many tasks.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16194</transcript-id><title>Australian Policy in Afghanistan Address to the C.E.W Bean Foundation Dinner, Australian War Memorial, Canberra </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/10/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Governments have many tasks.</p>
 <p>But none is more important than the defence of the nation.</p>
 <p>None is more important than ensuring the security of the nation.</p>
 <p>The men of foresight who drafted Australia's Constitution were clear on this point.</p>
@@ -205,6 +195,4 @@
 <p>In both, Bean gave the nation its memory.</p>
 <p>And in doing so, inspires the nation in the crafting of its future.</p>
 <p>C.E.W. Bean  -  a great Australian who will transcend the ages.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

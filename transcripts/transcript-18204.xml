@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18204</transcript-id>
-    <title>Transcript of doorstop interview, Queanbeyan</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18204</transcript-id><title>Transcript of doorstop interview, Queanbeyan</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Can I start by saying a very big thank you to Silvia and the team here at Dyesol, for making me so welcome today and for taking the time to explain to me what they are achieving here, and by letting us take this tour, they're giving us a sneak peak of what our clean energy future can look like.</p>
 <p>A lot of Australians are thinking about a clean energy future. They know that putting a price on carbon will drive us towards that future, and they are wondering what that will look like.</p>
 <p>At the same time, many Australians are concerned about the future of manufacturing and we have been responding to that, including by announcing my taskforce on manufacturing yesterday. Here today we can get a sense of both that clean energy future and what the future of manufacturing can look like.</p>
@@ -52,6 +42,4 @@ PM: Can I start by saying a very big thank you to Silvia and the team here at Dy
 <p>PM: I've seen that this morning, and isn't this typical - Mr Abbott mouthing populist platitudes that he thinks will be music to the ears of manufacturing workers, while at the same time he's in the Parliament voting against support for the steel industry, voting against steel workers jobs and at the same time he's planning to cut half a billion dollars out of Government support for manufacturing in this country.</p>
 <p>So, none of these statements can be taken seriously. This is a man who's put his hand up to destroy steel workers jobs. This is a man who wants to rip half a billion dollars out of manufacturing in this country and cause job losses.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

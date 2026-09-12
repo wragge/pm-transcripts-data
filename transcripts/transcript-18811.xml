@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18811</transcript-id>
-    <title>Speech to the United Nations General Assembly - “Practical progress towards realising those ideals in the world” </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/09/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New York City, USA</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18811</transcript-id><title>Speech to the United Nations General Assembly - “Practical progress towards realising those ideals in the world” </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/09/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New York City, USA</p>
 <p>Mr President, congratulations on your election.</p>
 <p>You now preside over a forum for every voice  -  an Assembly of all people and nations  -  for no country or bloc to dominate solely or lead as one alone  -  where small and medium sized countries are truly heard. </p>
 <p>Australia welcomes your election warmly.</p>
@@ -116,6 +106,4 @@
 <p>We act as a first responder to humanitarian need  -  as a donor who stays the course  -  as a partner in rebuilding after conflict.</p>
 <p>Mr President, Australia embraces the high ideals of the United Nations and takes a practical approach to achieving change.</p>
 <p>The work of the United Nations is an historic task in which Australia wholeheartedly joins.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

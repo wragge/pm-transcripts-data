@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17947</transcript-id>
-    <title>Gillard Labor Government delivering hundreds of Defence homes in Darwin</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Julia Gillard today visited Larrakeyah Barracks to see first-hand some of the housing investments the Australian Government has funded for Defence personnel in Darwin.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17947</transcript-id><title>Gillard Labor Government delivering hundreds of Defence homes in Darwin</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Julia Gillard today visited Larrakeyah Barracks to see first-hand some of the housing investments the Australian Government has funded for Defence personnel in Darwin.</p>
 <p>The Gillard Government has invested more than $650 million in new projects and constructed 543 new homes since 2007 with plans for more than a thousand new residences for Australian Defence Personnel in Darwin.</p>
 <p>These investments will provide first class housing for ADF members.</p>
 <p>They will support the recruitment and retention of our ADF personnel and at the same time help relieve the tight local housing market here in Darwin.</p>
@@ -18,6 +8,4 @@
 <p>In total, these investments in Defence Housing in Darwin will provide more than 900 jobs for Territorians.</p>
 <p>Defence contributes more than $800 million a year to the Gross State Product in the Northern Territory, and stimulates over an additional 4,500 non-Defence jobs in local business.</p>
 <p>Business across the Top End benefit significantly from the Government's housing plan in Darwin.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

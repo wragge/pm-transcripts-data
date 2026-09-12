@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41622</transcript-id>
-    <title>Interview with Georgie Gardner, Today Show, Nine</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/05/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Federal Budget</subjects>
-    <content><![CDATA[<p><strong>GEORGIE GARDNER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41622</transcript-id><title>Interview with Georgie Gardner, Today Show, Nine</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/05/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Federal Budget</subjects><content><![CDATA[<p><strong>GEORGIE GARDNER: </strong></p>
 <p>Well tax cuts now, and even more if you vote for us at the next election. That is the Turnbull Government’s Budget promise to Australia. But does it stack up?</p>
 <p>The Prime Minister, Malcolm Turnbull, I'm very pleased to say joins us now.</p>
 <p>Prime Minister good morning to you.</p>
@@ -110,6 +100,4 @@
 <p>Well, Prime Minister we appreciate your time this morning on a very busy morning. Thank you very much for being with us.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks Georgie.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

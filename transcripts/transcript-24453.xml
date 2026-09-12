@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24453</transcript-id>
-    <title>Interview with Alan Jones, Radio 2GB</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/05/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Budget 2015,  iron ore.</subjects>
-    <content><![CDATA[<p>ALAN JONES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24453</transcript-id><title>Interview with Alan Jones, Radio 2GB</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/05/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Budget 2015, iron ore.</subjects><content><![CDATA[<p>ALAN JONES:</p>
 <p>I have been around, as they say in the Scent of a Woman, “I have been around, you know”. I don’t think I have ever heard anything worse in delivery or content as I did last night from the Opposition Leader, Bill Shorten. In terms of both, delivery and content, just have a listen to this will you, this was part of the speech:</p>
 <p>BILL SHORTEN:</p>
 <p>Does it return Australia to trend growth this year, in future years? No. Does it smooth the transition of our economy? No. Does it deal with the challenges of the digital age and the new skills and jobs that we need? No. Does it deepen our engagement with Asia? Does it help older Australians live in comfort? Does it advance the equal treatment of women? Does it tackle climate change? No, no, no and no.</p>
@@ -91,6 +81,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks so much, Alan.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

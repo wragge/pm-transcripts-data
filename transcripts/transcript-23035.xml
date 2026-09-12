@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23035</transcript-id>
-    <title>Operational Launch of Cape Class Customs and Border Protection Patrol Vessel</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>11/10/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today’s launch of the <em>Cape St George</em> vessel at HMAS Coonawarra in Darwin marks a new era in Australia’s maritime security and border protection.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23035</transcript-id><title>Operational Launch of Cape Class Customs and Border Protection Patrol Vessel</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>11/10/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today’s launch of the <em>Cape St George</em> vessel at HMAS Coonawarra in Darwin marks a new era in Australia’s maritime security and border protection.</p>
 <p>The <em>Cape St George </em>is the first of eight high-tech <em>Cape Class</em> vessels that will take a lead role in Operation Sovereign Borders to combat people smuggling and illegal maritime arrivals.</p>
 <p>The <em>Cape Class</em> vessels are bigger and faster than the current <em>Bay </em>Class patrol boats; they span twice the length and have three times the volume which will allow for greater capacity and range during operational patrols. The boats will be able to sail 4,000 nautical miles without refuelling.</p>
 <p>They are equipped with the latest generation in marine technology to ensure quick detection of illegal boats and can carry up to 50 passengers.</p>
@@ -19,6 +9,4 @@
 <p>Protecting Australia’s waters is a full time responsibility for our Customs and Defence Forces.</p>
 <p>The addition of the <em>Cape Class </em>to the existing fleet of Customs and Navy vessels will provide a strong, visible presence around our coastline to deter illegal activities and stop the boats.</p>
 <p>11 October 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

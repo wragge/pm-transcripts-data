@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22245</transcript-id>
-    <title>Bond University&#039;s Faculty of Health Sciences and Medicine  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/04/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, I am pleased to open Bond University's Faculty of Health Sciences and Medicine Building.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22245</transcript-id><title><![CDATA[Bond University&#039;s Faculty of Health Sciences and Medicine  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/04/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, I am pleased to open Bond University's Faculty of Health Sciences and Medicine Building.</p>
 <p>  The Australian Government will contribute $4.5 million towards Bond University's costs of $20 million for the construction of its Faculty of Health Sciences and Medicine Building.</p>
 <p>I am particularly pleased that the Australian Government is able to contribute to the efforts of Bond University to establish a new medical programme and to boost the medical workforce in Queensland.  The programme has a strong emphasis on regional health services, including rural and regional medical practice.</p>
 <p>In May 2005, 72 students started Bond University's medical programme and are expected to graduate in 2009.  More than 80 new students are expected to start in May 2006.</p>
@@ -21,6 +11,4 @@
 <p> I also note that the recent agreement by the Australian Government to allow universities to increase the number of full-fee paying medical students provides a further opportunity for universities to train more doctors. For example, in Queensland, there is the potential to enrol over 130 more full-fee paying medical students, subject to student demand, university capacity and clinical training availability in the hospital system.</p>
 <p> It is not possible to train new doctors in university alone. Medical students and doctors training to become specialists also need clinical training places in hospitals and other appropriate settings, senior doctors to teach and supervise them during their training in hospitals, and sufficient supervised experience with patients during their training years . All of this requires commitments by state and territory governments to meet the training requirements of all new medical students in the hospital system and other appropriate settings.</p>
 <p> I therefore reiterate my request that the states and the territories guarantee that they will provide clinical placements for all new medical students, including appropriate supervision and clinical experience.  In addition, in response to the Commonwealth's contribution to the health workforce, I call on states and territories to play their part in investing in Australia's health workforce, including through providing new vocational and technical education places for enrolled nursing and other health disciplines.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

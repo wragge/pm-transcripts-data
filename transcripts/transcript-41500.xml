@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41500</transcript-id>
-    <title>New Vehicles to protect our troops and create 1450 jobs</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/03/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will create up to 1450 jobs across Australia through the purchase of a fleet of new Combat Reconnaissance Vehicles for the Australian Defence Force.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41500</transcript-id><title>New Vehicles to protect our troops and create 1450 jobs</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/03/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will create up to 1450 jobs across Australia through the purchase of a fleet of new Combat Reconnaissance Vehicles for the Australian Defence Force.</p>
 <p>The world-class vehicles will be manufactured and delivered by Australian workers, using Australian steel, under a contract with German contractor Rheinmetall.</p>
 <p>The 211 vehicles will provide improved safety to Australian soldiers on deployment and on exercises around the world. They will boost mobility and firepower on the battlefield in the decades ahead.</p>
 <p>The decision to select Rheinmetall is the result of a comprehensive three-year tender and rigorous testing process, which assessed its Boxer CRV as the most capable vehicle for the Australian Defence Force.</p>
@@ -24,6 +14,4 @@
 <p>The Government is determined to leverage this investment to build a sovereign and sustainable defence industrial base as a national strategic asset.</p>
 <p>Our investment decisions in defence capability are complemented by a comprehensive defence industry policy agenda to support a robust, resilient and internationally competitive defence industry, which will support jobs and investment across the country.</p>
 <p>The Government would like to congratulate Rheinmetall and BAE Systems Australia for the quality of their tenders. They were great examples of international companies teaming with Australian industry.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

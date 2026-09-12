@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16232</transcript-id>
-    <title>Commemorative Address at Remembrance Day Service The Australian War Memorial, Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/11/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Fellow Australians, friends of Australia, Veterans of Australia </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16232</transcript-id><title>Commemorative Address at Remembrance Day Service The Australian War Memorial, Canberra   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/11/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Fellow Australians, friends of Australia, Veterans of Australia </p>
 <p>90 years ago today, the great guns fell silent.</p>
 <p>After fours years of bloodshed, the battlefields were silent.</p>
 <p>Great empires had been broken.</p>
@@ -86,6 +76,4 @@
 <p>And we commit ourselves to upholding the values for which these Australians, these hundred thousands and more Australians who gave their lives in the service of this nation.</p>
 <p>And we commit ourselves afresh to the great cause of peace.</p>
 <p>We honour them. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

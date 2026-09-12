@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10869</transcript-id>
-    <title>JOINT PRESS RELEASE BY THE             PRIME MINISTER OF AUSTRALIA AND             THE CHIEF MINISTER OF THE NORTHERN TERRITORY             KATHERINE REGION REDEVELOPMENT PROGRAMME</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/02/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Chief Minister are pleased to announce</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10869</transcript-id><title>JOINT PRESS RELEASE BY THE             PRIME MINISTER OF AUSTRALIA AND             THE CHIEF MINISTER OF THE NORTHERN TERRITORY             KATHERINE REGION REDEVELOPMENT PROGRAMME</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/02/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Chief Minister are pleased to announce</p>
 <p> the formation of a $10 million Katherine Region Redevelopment Programme,</p>
 <p> to help the community of Katherine recover from the devastating floods.</p>
 <p>The target is $10 million, of which the two Governments will contribute</p>
@@ -56,6 +46,4 @@
 <p> has necessitated an additional effort from Government.</p>
 <p>This need for an extra effort is behind the formation of the Katherine</p>
 <p> Region Redevelopment Programme.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

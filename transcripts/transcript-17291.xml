@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17291</transcript-id>
-    <title>Prime Minister Transcript of interview with David Speers Sky News 12 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: You have broken a lot of promises lately, why should voters believe that you will actually now get the budget back into surplus?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17291</transcript-id><title>Prime Minister Transcript of interview with David Speers Sky News 12 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: You have broken a lot of promises lately, why should voters believe that you will actually now get the budget back into surplus?</p>
 <p>PM: Well firstly the Government's proud of its record in delivering on the big reforms to the health and hospital system, the education revolution, and so many of the key elements of responsible economic management. On the question of economic management, can I just say this: we did the right thing during the global economic crisis. We kept the Australian economy out of recession, almost uniquely amongst the major advanced economies. But now we have a new task which is to build a platform for future growth. And what I believe in passionately is that when the circumstances present themselves you bring the budget back to surplus, and that is why we are, through this Budget, managed to bring about a set of numbers which has our net peak debt halved, which also has our Budget back in surplus three years ahead of time and in just three years time. These are pretty solid achievements when measured across the rest of the world.</p>
 <p>HOST: But that economic growth and that return to surplus, is built on the assumption that our terms of trade will reach 60 years high, that the mining boom will continue to grow, and yet you're putting this new tax on the mining industry that could hurt that very growth.</p>
 <p>PM: Well let's go to the underpinnings of the Budget itself. The reason we are able to bring the Budget back into black in just three years' time, is because one: the performance of our export industries, that is true. Two, because of our actions in the economy, we've actually kept nearly a quarter of a million people out there in work, who would otherwise be unemployed. They continue to pay tax -</p>
@@ -63,6 +53,4 @@
 <p>I've spoken this morning to David Cameron. I've wished him very well, congratulated him on his win, told him to take an hour off with his wife Samantha and enjoy the moment. I said, the real job will start in an hours' time. And I'm confident that this relationship, which I really do think is above party politics, is one which is going to go from strength to strength.</p>
 <p>HOST: Prime Minister thanks for joining us.</p>
 <p>PM: A pleasure.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

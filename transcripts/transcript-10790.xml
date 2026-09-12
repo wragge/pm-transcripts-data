@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10790</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH JOHN MCKENZIE                RADIO 4CA, CAIRNS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/08/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10790</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH JOHN MCKENZIE                RADIO 4CA, CAIRNS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/08/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>MCKENZIE: </p>
 <p>Prime Minister John Howard, welcome to North Queensland once again.</p>
 <p>PRIME MINISTER:</p>
@@ -393,7 +383,5 @@
 <p>No, that is true, that is true.</p>
 <p>CALLER:</p>
 <p>...and yet if I choose to go the Northern Territory for a holiday,</p>
-<p>   I can claim a zone allowance up there because you</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>   I can claim a zone allowance up there because you&amp;#14</p>
+]]></content></item></response>

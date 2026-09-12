@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19114</transcript-id>
-    <title>Speech at the University of Western Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/03/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19114</transcript-id><title>Speech at the University of Western Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/03/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>I want to share you with a story David Bradbury relayed to me just last week.</p>
 <p>Denis Mars is the co-founder of Meetings.io a start-up based in San Francisco which develops technology for online video conversations and conferences.</p>
@@ -158,6 +148,4 @@
 <p>In Adelaide, in a family where I was taught to believe deeply in the human importance of opportunity, of social mobility, of a chance to make your own life better, of the responsibility to make a better life for your kids.</p>
 <p>These are my values, these are my beliefs. </p>
 <p>This is my plan for the nation, this is my plan for Sydney's west.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

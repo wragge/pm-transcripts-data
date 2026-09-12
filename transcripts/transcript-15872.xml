@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15872</transcript-id>
-    <title>A National Fuelwatch Scheme    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Federal Cabinet today approved the establishment of a National FuelWatch Scheme to promote competition and transparency in the petrol market.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15872</transcript-id><title>A National Fuelwatch Scheme    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Federal Cabinet today approved the establishment of a National FuelWatch Scheme to promote competition and transparency in the petrol market.</p>
 <p>The establishment of Australia's first National FuelWatch Scheme will help ensure motorists are not paying a cent more than they have to at the bowser.</p>
 <p>The National FuelWatch Scheme will help motorists buy the cheapest petrol, at the cheapest petrol stations, at the cheapest times.</p>
 <p>Under the National FuelWatch Scheme, petrol stations in metropolitan and major regional centres will be required to:</p>
@@ -35,6 +25,4 @@
 <p>The Government will review the effectiveness of the national FuelWatch Scheme twelve months after it operations commences.</p>
 <p>The ACCC will now begin working with petrol retailers to ensure a smooth transition to FuelWatch, and construct the supporting IT and communications infrastructure.</p>
 <p>The National Fuel Watch Scheme will build on the Government's previous moves to give the ACCC formal monitoring powers and to appoint the nation's first Petrol Commissioner.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

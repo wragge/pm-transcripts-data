@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21181</transcript-id>
-    <title>Interview with Tim Cox, ABC Radio Tasmania  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>COX:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21181</transcript-id><title>Interview with Tim Cox, ABC Radio Tasmania  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>COX:</p>
 <p>Good morning, Prime Minister.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning, Tim.</p>
@@ -219,6 +209,4 @@
 <p>We must leave it there. Thank you for your time.</p>
 <p>  PRIME MINISTER:</p>
 <p>Okay. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

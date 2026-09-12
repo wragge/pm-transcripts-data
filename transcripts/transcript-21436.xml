@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21436</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21436</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, have you made a decision on Labor's Free Trade amendments?</p>
 <p>PRIME MINISTER:</p>
 <p>Yes, we're prepared to look at the proposal in relation to local content because all that is put up is to put into legislation - or regulations, preferably - what the present position is. So there's no problem with that, subject to checking out the detail of it.  But the other proposal, we're not going to agree to that, that is quite unnecessary.  That problem that was highlighted in America in relation to the evergreening of patents doesn't exist in Australia and these matters are determined by courts. If a spurious claim is made for an extension of a patent then the court will deal with that.  As for trying to define what is a spurious application or just an inadequate application would be legally very difficult.  But there is no difficulty here and we do not intend to accept that proposal.</p>
@@ -39,6 +29,4 @@
 <p>Look we're not going to accept something that doesn't make sense. I mean we are not going to accept something that doesn't make sense.</p>
 <p>  Thank you.</p>
 <p> [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

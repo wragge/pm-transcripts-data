@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17458</transcript-id>
-    <title>Release of Aung San Suu Kyi</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/11/2010</release-date>
-    <release-type>Foreign Affairs</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17458</transcript-id><title>Release of Aung San Suu Kyi</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/11/2010</field_date><release-type>Foreign Affairs</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Foreign Affairs Kevin Rudd today welcomed the release of Aung San Suu Kyi from house arrest on behalf of the Australian people.</p>
 <p>The Prime Minister said the nation had the greatest admiration for Aung San Suu Kyi, who has become the symbol of the struggle for democracy and freedom in Burma.</p>
 <p>Aung San Suu Kyi paid a heavy price for advocating freedom, having spent 15 of the last 21 years in detention.</p>
@@ -19,6 +9,4 @@ Prime Minister Julia Gillard and Minister for Foreign Affairs Kevin Rudd today w
 <p>Australia continues to call on the Burmese authorities to immediately and unconditionally release the more than 2000 political prisoners still detained in Burma.</p>
 <p>We also call on the Burmese authorities to embark on an inclusive and genuine process of national reconciliation and engage in dialogue with all of Burma's ethnic groups.</p>
 <p>The release of Aung San Suu Kyi offers the Burmese authorities an opportunity to move the country forward. Australia calls on Burma to grasp the chance to make genuine progress towards democracy and greater international engagement. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

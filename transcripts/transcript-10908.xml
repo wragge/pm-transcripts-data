@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10908</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT LAUNCH OF ADELAIDE RUNWAY EXTENSION                ADELAIDE AIRPORT, SOUTH AUSTRALIA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/07/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10908</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT LAUNCH OF ADELAIDE RUNWAY EXTENSION                ADELAIDE AIRPORT, SOUTH AUSTRALIA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/07/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................</p>
 <p>Well thank you very much Mr Baker; to Diana Laidlaw, to my many federal</p>
 <p> colleagues and particularly Christine Gallus in whose electorate of</p>
 <p> Hindmarsh the airport is located, ladies and gentlemen.</p>
@@ -103,6 +93,4 @@
 <p> But of all of those people involved I congratulate them and I wish</p>
 <p> all of those associated with the airport great success into the future.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

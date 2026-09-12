@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17559</transcript-id>
-    <title>Transcript of interview with Rebecca Levingston, ABC Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/01/2011</release-date>
-    <release-type>Emergency Management</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17559</transcript-id><title>Transcript of interview with Rebecca Levingston, ABC Brisbane</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/01/2011</field_date><release-type>Emergency Management</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 LEVINGSTON: Prime Minister Julia Gillard, good morning.</p>
 <p>PM: Good morning Rebecca.</p>
 <p>LEVINGSTON: Who's eligible for the $25,000 grants?</p>
@@ -50,6 +40,4 @@ LEVINGSTON: Prime Minister Julia Gillard, good morning.</p>
 <p>We obviously want to make sure we're staying in good touch with affected communities, so people from the federal government will be available, including me later this week.</p>
 <p>LEVINGSTON: Prime Minister, I appreciate your time today, thank you.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

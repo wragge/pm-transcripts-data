@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40861</transcript-id>
-    <title>Outcomes of President Ghani’s visit to Australia</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/04/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It has been an honour to welcome President Ashraf Ghani to Australia this week, the first sitting President of Afghanistan to visit our nation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40861</transcript-id><title>Outcomes of President Ghani’s visit to Australia</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/04/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It has been an honour to welcome President Ashraf Ghani to Australia this week, the first sitting President of Afghanistan to visit our nation.</p>
 <p>President Ghani’s visit has highlighted the strong and enduring links between the Afghan and Australian people, including through the service in Afghanistan of the men and women of the Australian Defence Force, diplomats and civilians.</p>
 <p>This historic visit has also underscored the growing partnership between our nations and has been a valuable opportunity to discuss our ongoing security and development cooperation.</p>
 <p>Since 2001 we have supported Afghanistan in its efforts to tackle terrorism and build a stronger, more stable and resilient nation.</p>
@@ -22,6 +12,4 @@
 <p>Under this Partnership, we agreed to establish new areas of cooperation, including an economic infrastructure advisory facility to scope and develop critical economic infrastructure in partnership with international development banks. We also agreed a range of measures to empower women and girls, improve agricultural productivity and the management of water, train Afghan civil servants and support anti-corruption initiatives.</p>
 <p>And we signed a new agreement between Geoscience Australia and the Afghanistan Ministry of Mines and Petroleum to strengthen scientific and technical cooperation in earth sciences to help advance the sustainable management of Afghanistan’s energy, mineral and water resources.</p>
 <p>Australia is proud to work with Afghanistan as it strives to become more prosperous, secure and self-reliant.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

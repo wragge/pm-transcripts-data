@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24255</transcript-id>
-    <title>Joint Doorstop Interview, Parliament House</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/03/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Australians facing execution in Indonesia. </subjects>
-    <content><![CDATA[<p><strong>QUESTION:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24255</transcript-id><title>Joint Doorstop Interview, Parliament House</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/03/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Australians facing execution in Indonesia.</subjects><content><![CDATA[<p><strong>QUESTION:</strong></p>
 <p>Prime Minister, do you think there’s any room for hope at this late stage?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>We are continuing to make representations. Foreign Minister Julie Bishop has been talking to her counterpart. I am seeking a final call to President Widodo because…</p>
@@ -27,6 +17,4 @@
 <p><strong>FOREIGN MINISTER:</strong></p>
 <p>I am waiting to hear back from the Foreign Minister. I spoke to her about it and she undertook to provide that information to the President.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

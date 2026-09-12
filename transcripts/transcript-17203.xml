@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17203</transcript-id>
-    <title>Prime Minister Minister for Health Strengthening primary care in local communities 12 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Patients will receive better health care in the community after primary health care organisations (PHCOs) are established across Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17203</transcript-id><title>Prime Minister Minister for Health Strengthening primary care in local communities 12 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Patients will receive better health care in the community after primary health care organisations (PHCOs) are established across Australia.</p>
 <p>Getting primary care right is essential to ensuring people stay healthier and out of hospital. International evidence shows that health systems with strong GP and primary care systems achieve better health outcomes and better value for money.</p>
 <p>Right now:</p>
 <p>     * GP and primary health care services are not well integrated and connected to one another - health consumer groups have consistently stressed the need for better integration of these services;</p>
@@ -34,6 +24,4 @@
 <p>     * providing $632 million investment in building the medical workforce, including $339 million to increase the number of GP training places to 1200 per year by 2014;</p>
 <p>     * investing $436 million to transform the way diabetes patients are managed in general practice.</p>
 <p>By strengthening primary care at the local level, primary health care organisations will be integral to delivering a National Health and Hospitals Network which is nationally funded but locally run.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

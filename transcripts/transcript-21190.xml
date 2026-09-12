@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21190</transcript-id>
-    <title>Doorstop Interview, Auckland  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21190</transcript-id><title>Doorstop Interview, Auckland  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  PRIME MINISTER:</p>
 <p>Can I just say that this has been a very good meeting.  It has continued the momentum that came out of the Auckland meeting last year.  The clear emphasis that is now placed on economic growth, sustainable development, good governance and security – they';re the main goals of the forum, and the focus of the Secretariat and all the other resources of the forum will be on those goals.  There was a very good spirit and I congratulate the New Zealand Prime Minister on calling a special forum.  I think it has been very valuable.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, the new role of the Secretary General, that';s something obviously you were very keen for back in August.  What sort of role do you imagine him taking?</p>
@@ -92,6 +82,4 @@
 <p>JOURNALIST:</p>
 <p>Why did it take seven months for the Government to get back to the Afghan Government?</p>
 <p>PRIME MINISTER:  Well the Afghan Government knew our position.  Thank you.  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

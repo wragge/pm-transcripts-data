@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22491</transcript-id>
-    <title>Doorstop Interview Cardinia, Victoria </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/09/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22491</transcript-id><title>Doorstop Interview Cardinia, Victoria </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/09/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Have you got any questions?</p>
 <p>JOURNALIST:</p>
 <p>Margaret Whitlam has made some pretty unfavourable comments about your wife, describing her in one sense, as useless. What do you say to that?</p>
@@ -92,6 +82,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I haven't been briefed on that so I'm not going to answer it. Thank you, see you later.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

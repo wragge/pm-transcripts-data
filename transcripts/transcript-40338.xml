@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40338</transcript-id>
-    <title>Interview with Triple M Hot Breakfast</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>05/05/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>EDDIE MCGUIRE: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40338</transcript-id><title>Interview with Triple M Hot Breakfast</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>05/05/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>EDDIE MCGUIRE: </strong></p>
 <p>It’s always an honor to have the Prime Minister of Australia join us live on the radio this morning. Malcolm Turnbull joins us from Canberra. Good morning Malcolm.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah good morning, great to be with you.</p>
@@ -63,6 +53,4 @@
 <p><strong>EDDIE MCGUIRE: </strong></p>
 <p>Well Prime Minister, we appreciate you joining us, we’re right on our 8 o’clock news and making time in our Canberra studio to come on the line and explain what the future of Australia holds under Malcolm Turnbull.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

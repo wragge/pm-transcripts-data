@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17265</transcript-id>
-    <title>Prime Minister Transcript of interview with Lyndal Curtis AM 3 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS: Mr Rudd, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17265</transcript-id><title>Prime Minister Transcript of interview with Lyndal Curtis AM 3 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS: Mr Rudd, welcome to AM.</p>
 <p>PM: Good morning.</p>
 <p>CURTIS: If this was not an election year would you have been bolder in what you picked up from the tax review?</p>
 <p>PM: When we commissioned Ken Henry's review it was to lay out a long-term blueprint for tax reform. What we've done with this first set of measures is to do what we believe is in the national interest now. We've also said that there is further work to be done and that's the way in which we've approached his various recommendations and, of course, we've ruled out some as well, but we cannot underestimate the significance of the reforms that we're proposing for superannuation.</p>
@@ -44,6 +34,4 @@
 <p>Therefore, our response to it should be: here are the ones that we believe we can do now; here are others we can consider for later on; but also, here's a list that we will never, ever embrace - for example, the recommendation to include the family home in means testing, to introduce lands tax on the family home, to require parents to work when their youngest child turns four. These are recommendations which the independent panel has come up with but those and others of a similar type we've said that we would reject both now and into the future as well.</p>
 <p>CURTIS: Mr Rudd, thank you very much for joining us.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

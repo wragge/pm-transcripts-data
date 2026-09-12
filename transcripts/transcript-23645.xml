@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23645</transcript-id>
-    <title>Address to The Australian&#039;s 50th Birthday Gala Dinner, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/07/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The essential thing about <em>The Australian</em> is that it’s a paper for a nation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23645</transcript-id><title><![CDATA[Address to The Australian&#039;s 50th Birthday Gala Dinner, Sydney]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/07/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The essential thing about <em>The Australian</em> is that it’s a paper for a nation.</p>
 <p>Every other newspaper serves a city. <em>The Australian</em> alone is dedicated to our country.</p>
 <p>It has a national perspective, not a parochial one.</p>
 <p>This, alone, should make it uniquely influential in our nation’s life.</p>
@@ -51,6 +41,4 @@
 <p>Smaller government, bigger people; lower taxes, greater freedom; pride in our country and its achievements; determination to build on our strengths; support for all that may help us, individually and collectively, to come closer to being our best selves: this is what <em>The Australian</em> stands for.</p>
 <p>Long ago, <em>The Australian</em> found its authentic voice; that has helped governments and people to find theirs.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

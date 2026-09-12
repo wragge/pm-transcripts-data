@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10779</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH FRED McCUE ABC RADIO, DARWIN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/01/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>McCUE:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10779</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH FRED McCUE ABC RADIO, DARWIN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/01/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>McCUE:</p>
 <p>Mr Howard, you've spoken to Shane Stone. You've obviously</p>
 <p>   seen the television images. How gravely do you regard the situation</p>
 <p>   in Katherine?</p>
@@ -102,6 +92,4 @@
 <p>   sort of help that ought to be provided in a disaster such as this.</p>
 <p>at ought to be provided in a disaster such as this.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

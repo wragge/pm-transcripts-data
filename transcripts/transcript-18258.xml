@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18258</transcript-id>
-    <title>Address to social and community sector workers, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/11/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18258</transcript-id><title>Address to social and community sector workers, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/11/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 It is wonderful to be here today with so many good leaders and hard workers, leaders in the union movement, social and community sector workers of course my friends and colleagues Tanya Plibersek and Senator Jacinta Collins.</p>
 <p>Many old friends and new friends, hard working Aussies all.</p>
 <p>You don't need to be an expert on the social and community sector workforce to know this:</p>
@@ -159,6 +149,4 @@ It is wonderful to be here today with so many good leaders and hard workers, lea
 <p>In a country where working people share in the benefits that a strong economy brings.</p>
 <p>Working Australians can only be sure of these good things when the Government is on their side.</p>
 <p>Working Australians can only be sure the Government is on their side when the Government is Labor. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

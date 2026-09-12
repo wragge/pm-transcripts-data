@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17621</transcript-id>
-    <title>Transcript of doorstop interview, Adelaide</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17621</transcript-id><title>Transcript of doorstop interview, Adelaide</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: It's absolutely fantastic to see the way that Australians have been pulling together during the tough times that our nation's been enduring over the last few weeks and obviously the challenges aren't over yet as we face floodwaters in Victoria.</p>
 <p>I think as Australians pull together through these tough times they understand that we face some difficult choices in the weeks and months ahead, some difficult choices to make sure that we can rebuild the damage that's been done by floodwaters, the damage to infrastructure that needs to be repaired. As Prime Minister, I am working on making those tough decisions and as I was clear last night with the Australian people, there will be difficult decisions, there will be spending cutbacks and there may also be a levy to support the rebuilding that we need to do. But I'm confident, as a nation, we will pull together, that's an Australian thing to do, a very Australian thing to do, we'll pull together and we'll get through this.</p>
 <p>JOURNALIST: Prime Minister, South Australians already pay a save the River Murray levy and they also pay an emergency services levy. Do you think they're really going to cop another levy?</p>
@@ -23,6 +13,4 @@ PM: It's absolutely fantastic to see the way that Australians have been pulling 
 <p>JOURNALIST: How much is the levy about returning the Budget to surplus?</p>
 <p>PM: Any of these decisions, I want to be clear about this. We've got some tough choices, there'll be some spending cutbacks, there may be a levy and that will be about rebuilding full stop.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

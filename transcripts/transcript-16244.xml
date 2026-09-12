@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16244</transcript-id>
-    <title>Joint Media release with  Minister for Community Services, Jenny Macklin Minister for Human Services, Joe Ludwig and  Attorney-General, Robert McLelland </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today announced the Australian Government will provide immediate, additional assistance to the people of South East Queensland seriously affected by the storms that ravaged the area on Sunday.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16244</transcript-id><title>Joint Media release with  Minister for Community Services, Jenny Macklin Minister for Human Services, Joe Ludwig and  Attorney-General, Robert McLelland </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today announced the Australian Government will provide immediate, additional assistance to the people of South East Queensland seriously affected by the storms that ravaged the area on Sunday.</p>
 <p>Those eligible will be able to receive a one off Australian Government Disaster Recovery Payment of $1000 for adults and $400 for each child to help relieve their hardship.</p>
 <p>The Australian Government Disaster Recovery Payment will provide financial assistance to people whose principal place of residence has been destroyed or significantly damaged, as well as those who have been seriously injured and hospitalised for more than 48 hours.</p>
 <p>The Commonwealth Disaster Plan has also been activated, with the deployment of 350 Australian Defence Force personnel to help the SES clear roads and storm-affected properties.</p>
@@ -22,6 +12,4 @@
 <p>The Rudd Government will continue to work with the Queensland Government, Local Government and community organisations to support people as they get on with the job of repairing their homes extensively damaged by the violent storms.</p>
 <p>For information on the Australian Government Disaster Recovery Payment call the Australian Government's South East Queensland Storms Hotline on 180 2266.</p>
 <p>More information on Australian Government assistance is available at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

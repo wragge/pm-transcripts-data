@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10468</transcript-id>
-    <title>Funeral of the Princess of Wales </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/09/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010468.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10468</transcript-id><title>Funeral of the Princess of Wales </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/09/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010468.pdf</document><subjects></subjects><content><![CDATA[<p>
 We have today received formal confirmation from Buckingham Palace and the UK government that in accordance with the wishes of the Royal Family and the Princess's family the funeral of Diana, Princess of Wales is not to be a state funeral. As a consequence heads of government and heads of state are not being invited, except in a very few cases where close personal associations existed with the late Princess.</p>
 <p>I shall not therefore be attending the funeral, but along with all other Australians my thoughts and prayers will be with the family on the day.</p>
 <p>Buckingham Palace has indicated that in the case of Australia it would welcome attendance by a senior minister and accordingly the Government has decided to send the Foreign Minister, Mr Downer.</p>
@@ -17,6 +7,4 @@ We have today received formal confirmation from Buckingham Palace and the UK gov
 <p>The Australian Parliament has on behalf of the nation conveyed its deep sympathy to the Royal Family and especially Prince William and Prince Harry. Memorial services have been held throughout the country, including the one I attended in Canberra on Tuesday.</p>
 <p>The Government naturally understands and respects the desire of the Princess's family and the Royal Family that the funeral have as strong a personal nature as possible and that as many personal friends and contacts from organisations with which she was closely associated should be able to attend.</p>
 <p>3 September 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

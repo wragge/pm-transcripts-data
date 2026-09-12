@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18206</transcript-id>
-    <title>Mike Rann</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18206</transcript-id><title>Mike Rann</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I would like to thank Mike Rann for his service to the people of South Australia and Australia as Premier.</p>
 <p>Mike has led Labor in South Australia for 17 years  -  almost 10 of them as Premier.</p>
 <p>Since 1993, Mike has been a great Labor leader, bringing social inclusion onto the national agenda, sealing negotiations for the expansion of Olympic Dam and providing leadership on tackling climate change.</p>
@@ -18,6 +8,4 @@ I would like to thank Mike Rann for his service to the people of South Australia
 <p>On behalf of all my Federal ALP colleagues, I wish Mike the best of luck.</p>
 <p>I also welcome and congratulate the next Premier of South Australia, Jay Weatherill. </p>
 <p>Jay and I worked closely together in our former roles as education ministers, and I know that Jay will deliver the energy and leadership that will serve South Australia well into the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

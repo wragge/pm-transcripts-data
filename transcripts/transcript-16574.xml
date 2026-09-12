@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16574</transcript-id>
-    <title>Interview with Tony Jones - Lateline ABC    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16574</transcript-id><title>Interview with Tony Jones - Lateline ABC    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JONES: Prime Minister, thanks for joining us.</p>
 <p>PM: Good to be with you.</p>
 <p>JONES: Are you prepared to accept that the hit you've just taken in the opinion polls is due to people's fear of the Government taking on massive public debt?</p>
@@ -70,6 +60,4 @@ JONES: Prime Minister, thanks for joining us.</p>
 <p>PM: Well, I think it would be nice to be clear and upfront about the question, Tony, rather than trying to throw one down the leg side like that. Can I just answer the whole question about Budget forecasts in the following terms. In the recessions of the '80s and '90s, the years of it took for recovery to bring back the economy to reasonable growth were respectively one years and two years. The projections contained were embedded within Treasury's forecasts for growth on this occasion, rest on a three-year recovery timetable. So, in fact, their assumptions are more conservative on the time for recovery, both when compared against the recession of the '80s and the '90s and that is borne out from the economic historical data.</p>
 <p>JONES: Kevin Rudd, as usual it's great to talk to you. It's all we have time for, but we thank you very much for talking to us tonight on Lateline.</p>
 <p>PM: Thanks for that one down the leg side, Tony.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17292</transcript-id>
-    <title>Prime Minister Transcript of interview with Kerry O&#039;Brien The 7:30 Report 12 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: The Prime Minister joins me now from our Parliament House studio.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17292</transcript-id><title><![CDATA[Prime Minister Transcript of interview with Kerry O&#039;Brien The 7:30 Report 12 May 2010 ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: The Prime Minister joins me now from our Parliament House studio.</p>
 <p>Kevin Rudd, firstly while we're talking about mining, we've just received the transcript of comments from the CEO of Rio Tinto, Tom Albanese, at a Merrill Lynch conference in Miami earlier today where he says he was shocked by your tax announcement but in particular he points out that Rio has reinvested everything it's earned in after tax profit back into Australia in the past ten years, about $38 billion in all, and he poses the question - would Rio have put that amount of money in if there had been a super tax in place? He calls it a super tax, not a tax on super profits, a super tax, and he says the answer was no. Can you afford to ignore that warning?</p>
 <p>PM: Kerry, I think it's entirely predictable that large mining companies will complain about what the Government has put forward. What we want to ensure and what I believe in is that all Australians, because they actually own these resources, deserve a fair share back from these resources.</p>
 <p>It reminds me, very much, of the debate which was kicked off back in the mid '80s when we brought in the Petroleum Resource Rent Tax. If you were to go to the Financial Times back in those days there's statements similar to the ones you just read out to me about the impending collapse of all future investment in offshore projects in Australia.</p>
@@ -85,6 +75,4 @@
 <p>PM: The Budget of course contains a huge new investment in it. It is linked very much-</p>
 <p>HOST: Before you go on Mr Rudd, I'm sorry but we're out of time and I've got serious constraints to meet the schedule. But this is a conversation I guess we're going to have to continue and obviously we'll be looking at the health thing in toto as things move along, but thanks very much for joining us tonight.</p>
 <p>PM: Thanks for having me on the program Kerry.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

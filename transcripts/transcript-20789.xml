@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20789</transcript-id>
-    <title>Press Conference, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/07/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20789</transcript-id><title>Press Conference, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/07/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, I just wanted to make a couple of comments on the statement that was released by ONA earlier today.  The first comment is that uranium out of Africa, yes or no, was not a key element either in the security assessments made by our agencies or in any way the Government';s decision to make a military commitment to Iraq.  Secondly, and very importantly, the United Kingdom intelligence agencies still stand by the judgement they made, which was published in the British dossier last September and which was referred to in the statement I made to Parliament on the 4th of February.  The crucial point to make is that the document judged by the International Atomic Energy Agency to have been a forgery is not the only evidence on which the British intelligence agencies have relied to form their judgement.  And you';ll see in the ONA statement that those agencies still stand by that judgement.</p>
 <p>The other information I';d supply to you is that I';ve been told by ONA that the reference to the State Department doubts is about one sentence in an annex to an 86 page document. It didn';t in any way affect the overall assessment made by ONA, it certainly would not have affected the overall assessment that the Government would have made in relation to our commitment to Iraq. It';s important to remember that an agency like ONA gets literally acres of raw intelligence virtually every day and it';s very important that this whole thing therefore be kept in proper perspective.  I, of course, retain full confidence in the expertise of ONA.</p>
 <p>JOURNALIST:</p>
@@ -158,6 +148,4 @@
 <p>Yeah, I haven't read the detail of what the law council said and I suggest that for more detailed responses on this you speak to the Attorney General.</p>
 <p>  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

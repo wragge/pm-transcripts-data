@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11857</transcript-id>
-    <title>Interview with Howard Sattler, Radio 2SM </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: F3 Freeway funding announcement; HIH insuranc</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11857</transcript-id><title>Interview with Howard Sattler, Radio 2SM </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: F3 Freeway funding announcement; HIH insuranc</p>
 <p>E&amp;OE................................</p>
 <p>SATTLER:</p>
 <p>Good morning, Prime Minister.</p>
@@ -105,7 +95,7 @@
 <p>PRIME MINISTER:</p>
 <p>I always get angry when people are treated unfairly. I am constrained by the law from making a judgement on your programme or anybody else's programme about the individual conduct of a particular person and you understand why, I don't want to prejudice proper investigation. But as a general rule yes I get very angry when battlers are left, you know, wanting and we're not going to see that happen. I mean we've made it clear that people who are going to suffer any hardship as a result of this will be protected by the Federal Government. The State Government has responsibilities and we expect them to meet their responsibilities in full, without trying to push any of them over onto us. They have responsibilities and I want to assure anybody who's been put into a hardship situation as a result of the HIH collapse we have established a mechanism to deal with that, it will take a little while, I'm sorry about that but this is a corporate collapse not of our making. And companies do fail and if there's been any wrongdoing then the people responsible will be pursued.</p>
 <p>SATTLER:</p>
-<p>You're not going to let anybody leave town are you?<br />
+<p>You're not going to let anybody leave town are you?<br>
 PRIME MINISTER:</p>
 <p>Well we won't be, I mean there won't be people on our watch skipping off to Majorca as happened when Mr Beazley and his crowd were in office when Christopher Skase skipped off to Majorca.</p>
 <p>SATTLER:</p>
@@ -117,6 +107,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>I will indeed. It's always great to be on the Central Coast.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

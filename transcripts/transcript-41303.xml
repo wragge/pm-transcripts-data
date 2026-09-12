@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41303</transcript-id>
-    <title>Working Together to Improve Telecommunications</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/11/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister of Australia, Malcolm Turnbull and the Prime Minister of Papua New Guinea, Peter O’Neill met today in Vietnam in the margins of the 2017 Asia-Pacific Economic Cooperation (APEC) forum.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41303</transcript-id><title>Working Together to Improve Telecommunications</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/11/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister of Australia, Malcolm Turnbull and the Prime Minister of Papua New Guinea, Peter O’Neill met today in Vietnam in the margins of the 2017 Asia-Pacific Economic Cooperation (APEC) forum.</p>
 <p>During the meeting, both Prime Ministers committed to working together to lay a new undersea high speed telecommunications cable from Australia to Port Moresby, supporting the future digital economy in Papua New Guinea and facilitating closer economic integration between the two neighbours.</p>
 <p>Australia will deliver and majority fund the undersea cable, with a financial co-contribution from Papua New Guinea, and is in discussions with an experienced Australian telecommunications infrastructure specialist.</p>
 <p>The undersea cable will provide significant improvements in internet reliability and quality in Papua New Guinea, providing substantial economic and development benefits.</p>
@@ -20,6 +10,4 @@
 <p>The project will be well underway during Papua New Guinea’s hosting year of APEC in 2018 with the theme of ‘Harnessing Inclusive Opportunities, Embracing the Digital Future’.</p>
 <p>Australia has also been in close discussions with the Solomon Islands Government about laying a similar undersea cable from Australia to Honiara. Both Papua New Guinea and Australia are committed to working with Solomon Islands to lay the undersea cables at the same time, allowing Solomon Islands to reap the same economic and development benefits of fast and reliable telecommunications.</p>
 <p>As close neighbours and friends, Papua New Guinea and Australia are committed to supporting inclusive economic growth in the Pacific, including through better internet connectivity, which is a significant driver for productivity and development.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

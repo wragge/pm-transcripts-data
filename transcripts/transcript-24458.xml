@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24458</transcript-id>
-    <title>New medical school for Curtin University</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will support Curtin University’s proposal to establish a new medical school that will help address the health workforce needs of Western Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24458</transcript-id><title>New medical school for Curtin University</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will support Curtin University’s proposal to establish a new medical school that will help address the health workforce needs of Western Australia.</p>
 <p>Curtin University will offer a new five-year undergraduate, direct-entry medical programme that will select and train students to work in areas of need around Western Australia.</p>
 <p>Western Australia has fewer doctors per head of population than the rest of Australia.</p>
 <p>This medical school will contribute to supporting the health needs of the Western Australian community.</p>
@@ -20,7 +10,5 @@
 <p>The Western Australian Government will ensure that these students receive the further training they require once they have completed their medical school studies.</p>
 <p>It will provide new clinical training and supervision, internships and specialist training places for all students of the new school.</p>
 <p>This will be in addition to current training and internships provided to students of other medical schools in Western Australia.</p>
-<p>17 May 2015 </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>17 May 2015&nbsp;</p>
+]]></content></item></response>

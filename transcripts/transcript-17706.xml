@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17706</transcript-id>
-    <title>Transcript of interview with Laurie Oakes, Today</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17706</transcript-id><title>Transcript of interview with Laurie Oakes, Today</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Good morning, Prime Minister.</p>
 <p>PM: Good morning, Laurie.</p>
 <p>HOST: Prime Minister, how is the effort going to get Australians out of Libya?</p>
@@ -80,6 +70,4 @@ HOST: Good morning, Prime Minister.</p>
 <p>PM: Oh, Laurie, would you have said way back when that Meg Lees called the tune because John Howard sat around a table with her and negotiated details of the goods and services tax, like whether or not it would apply to fresh food? Would you have said then that Meg Lees was calling the tune? I don't think so, Laurie, and really, circumstances aren't different.</p>
 <p>HOST: Prime Minister, we thank you.</p>
 <p>PM: Thanks, Laurie. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

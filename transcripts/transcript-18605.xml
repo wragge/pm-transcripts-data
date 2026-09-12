@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18605</transcript-id>
-    <title>Resignation of David Gallop</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/06/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18605</transcript-id><title>Resignation of David Gallop</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/06/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Rugby League community owes David Gallop a debt of gratitude for his stewardship of the game following the announcement that he will step down from the role of Chief Executive Officer (CEO) of the Australian Rugby League Commission (ARLC).</p>
 <p>During his tenure as CEO he had successfully grown the game and promoted Rugby League in Australia.</p>
 <p>The popularity Rugby League enjoys today is testament to David's leadership and administration of the game over the last decade.  He effectively steered the NRL through a period of growth and was instrumental in establishing the new independent commission earlier this year.</p>
@@ -17,6 +7,4 @@ The Australian Rugby League community owes David Gallop a debt of gratitude for 
 <p>David appreciated the power of sport to build strong communities, inspire our kids and bring people together through a shared love of the game. He understood that for supporters of Rugby League, the game was all about the teams they follow and forging strong connections to the grassroots.</p>
 <p>He acutely understood where the game had come from and the future direction the League needed to take in order to grow. He leaves the game in a better position than when he took the reins and for this he should be acknowledged. </p>
 <p>David's passion for Rugby League and his strong commitment to building the game will be a lasting legacy that will be built on by the new commission. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

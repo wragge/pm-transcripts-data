@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21078</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/01/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21078</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/01/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>You';re obviously pleased that he has been…</p>
 <p>PRIME MINISTER:</p>
 <p>Well this is just about Australian of the Year, is it?  Yeah look he';s a great choice.  I mean the choice is made by a committee of worthy citizens and he';s obviously a good choice, a popular choice, but it';s always very hard because you have that wonderful lady from Western Australia Fiona Wood and you had Steve Irwin, who I think is a great character, and I think he';s a great Australian character too.</p>
@@ -38,6 +28,4 @@
 <p>PRIME MINISTER:</p>
 <p>I would have thought what he has done in India, for example, his identification with causes there shows a warmth and a generosity that perhaps others haven';t displayed.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

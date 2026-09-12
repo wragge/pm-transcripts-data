@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22091</transcript-id>
-    <title>Interview with David Lord ABC News Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/12/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22091</transcript-id><title>Interview with David Lord ABC News Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/12/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Well Prime Minister this is becoming a delightful habit year by year, Merry Christmas to you and your family.</p>
 <p>PRIME MINISTER:</p>
 <p>Merry Christmas to you David and it is a delightful habit; this is the ninth occasion.</p>
@@ -86,6 +76,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you David and Merry Christmas to you and all of your listeners.</p>
 <p>[End]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

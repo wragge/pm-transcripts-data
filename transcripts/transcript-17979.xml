@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17979</transcript-id>
-    <title>Transcript of Address to the Nation</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/07/2011</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17979</transcript-id><title>Transcript of Address to the Nation</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/07/2011</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Good evening.</p>
 <p>I want to talk to you tonight about why the Government is putting a price on carbon and what this means for you.</p>
 <p>The decisions I announced today mean:</p>
-<p> * 	Around five hundred big polluters will pay for every tonne of carbon pollution they put into our atmosphere.<br />
- * 	By 2020 this will cut carbon pollution by 160 million tonnes a year.<br />
+<p> * 	Around five hundred big polluters will pay for every tonne of carbon pollution they put into our atmosphere.<br>
+ * 	By 2020 this will cut carbon pollution by 160 million tonnes a year.<br>
  * 	And because some businesses will put prices up, there will be tax cuts, increased pensions and increased family payments.</p>
 <p>We have had a long debate about climate change in this country.</p>
 <p>Most Australians now agree our climate is changing, this is caused by carbon pollution, this has harmful effects on our environment and on the economy  -  and the Government should act.</p>
@@ -51,6 +41,4 @@ PM: Good evening.</p>
 <p>And we are a confident, creative people. </p>
 <p>I see a great clean energy future for our great country. </p>
 <p>I know we can get there together.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40607</transcript-id>
-    <title>Radio interview with Greg Jennett, ABC AM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>20/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>GREG JENNETT: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40607</transcript-id><title>Radio interview with Greg Jennett, ABC AM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>20/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>GREG JENNETT: </strong></p>
 <p>Prime Minister, you’ve wrapped up a lengthy conversation with Barack Obama. He is almost yesterday’s man. What is it that you seek to influence or achieve by talking through an outgoing President about important bilateral issues?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, few people have as great an insight into world affairs than Barack Obama. He’s been President of the United States for eight years and his understanding of the big issues that we face are vitally important for us to share with him. He’s also able to provide us with an insight into the new administration and he’s engendered confidence, he believes, he’s made the point here that the new Donald Trump Administration can be expected to resolve the big issues that confront it in line with, much more in line with traditional American policies than many people have speculated.</p>
@@ -54,6 +44,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well let me just say to you, there are 12 nations that are parties to the TPP. The United States is one of them but I can say with respect to the other 11, leaving aside the future attitude of the Trump Administration – with respect to the other 11 there is very continued, very strong commitment to and enthusiasm for the TPP here.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

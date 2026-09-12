@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22260</transcript-id>
-    <title>Interview with ABC Stateline  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22260</transcript-id><title>Interview with ABC Stateline  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>When you look back to Port Arthur, a very troubled time, is there an image or a memory that stands out for you now?</p>
 <p>PRIME MINISTER:</p>
 <p>Going to the place straight afterwards and meeting people, also meeting survivors and medical people at the memorial service at the cathedral in Hobart, that's a memory I have very vividly.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think in a social sense, they've been as great as anything the Government has done because they have unarguably made Australia safer. Not as safe as we would like, we still have a lot of violence, but there are fewer gun-related deaths, there are fewer gun-related murders; there are fewer gun-related suicides. And that has to be a good thing.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

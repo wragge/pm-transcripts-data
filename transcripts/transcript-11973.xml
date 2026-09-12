@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11973</transcript-id>
-    <title>Interview with Catherine McGrath, AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: National Servicemen's Medal; petrol prices; Woodside-Shell merger; economy; Peter Nugent; US-China relations</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11973</transcript-id><title>Interview with Catherine McGrath, AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: National Servicemen's Medal; petrol prices; Woodside-Shell merger; economy; Peter Nugent; US-China relations</p>
 <p>E&amp;OE................................</p>
 <p>McGRATH:</p>
 <p>Mr Howard, thanks for joining AM this morning. The lobbying effort by the national servicemen has been going on for years, why now?</p>
@@ -76,6 +66,4 @@
 <p>PRIME MINISTER:</p>
 <p>You're welcome.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

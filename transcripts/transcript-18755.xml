@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18755</transcript-id>
-    <title>Speech at AMA annual dinner, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/08/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Parliament House, Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18755</transcript-id><title>Speech at AMA annual dinner, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/08/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Parliament House, Canberra</p>
 <p>E &amp; OE</p>
 <p>It is a great pleasure to be able to welcome you all here to Canberra tonight, and to be able to speak.</p>
 <p>Fifty years since the several Australian branches of the British Medical Association merged and created our own national medical association, it's a night to celebrate.</p>
@@ -108,6 +98,4 @@
 <p>But what hasn't changed is the importance of your service and your voice.</p>
 <p>So welcome again to Canberra, and I hope you have a very enjoyable evening.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

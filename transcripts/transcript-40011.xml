@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40011</transcript-id>
-    <title>Changes to the Ministry</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/10/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announced changes to complete the Turnbull Ministry.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40011</transcript-id><title>Changes to the Ministry</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/10/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announced changes to complete the Turnbull Ministry.</p>
 <p>Ken Wyatt AM becomes the first Indigenous member of the Federal Executive Council as the Assistant Minister for Health.</p>
 <p>This is a moment of great significance for our country.</p>
 <p>Elected to Parliament in 2010, Ken has an outstanding track record of helping the people of his electorate in Hasluck.</p>
@@ -18,8 +8,6 @@
 <p>This ensures ageing is front and centre with the health portfolio as our population continues to live longer and healthier lives.</p>
 <p>The Department of Health will take on Aged Care within its responsibilities from the Department of Social Services.</p>
 <p>Minister for Resources, Energy and Northern Australia, Josh Frydenberg was resworn in because his portfolio responsibilities will be consolidated under the Industry portfolio. That includes implementing the important Northern Australian White Paper.</p>
-<p>Assistant Minister to the Prime Minister, Alan Tudge was sworn in as an Assistant Minister for Social Services. </p>
+<p>Assistant Minister to the Prime Minister, Alan Tudge was sworn in as an Assistant Minister for Social Services.&nbsp;</p>
 <p>Information about the changes to the Ministry can be found on the Department of the Prime Minister and Cabinet website.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

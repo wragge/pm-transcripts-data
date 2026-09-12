@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19192</transcript-id>
-    <title>Transcript of Interview with Marius Benson, ABC News Radio</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/04/2013</release-date>
-    <release-type>Security, Law and Justice</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19192</transcript-id><title>Transcript of Interview with Marius Benson, ABC News Radio</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/04/2013</field_date><release-type>Security, Law and Justice</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Can I begin with the Royal Commission into child abuse that is opening today. It has an indefinite period of sitting, what are you looking to this commission to resolve?</p>
 <p>PM: This is an important moral moment for our nation. When I established this Royal Commission I understood that it was going to require our whole country to stare some very uncomfortable truths in the face.</p>
 <p>What I want to achieve out of the Royal Commission is two-fold.</p>
@@ -113,6 +103,4 @@ HOST: Can I begin with the Royal Commission into child abuse that is opening tod
 <p>But of course this threat to peace and stability in our region will be the subject of discussions that I will do personally, and I'm taking the most high-powered delegation to China that our nation has ever sent. So of course there will be broader discussions involving the Foreign Minister too. </p>
 <p>HOST: Prime Minister, thanks again very much for speaking with News Radio this morning. </p>
 <p>PM: Thanks Marius. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

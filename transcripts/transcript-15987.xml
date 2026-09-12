@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15987</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: How are you?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15987</transcript-id><title>Interview with Neil Mitchell, Radio 3AW Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: How are you?</p>
 <p>MITCHELL: Ok. Would you allow him to spend five weeks with wombats at this time?</p>
 <p>PM: How people choose to spend their leave is a matter for them privately. I imagine when you go off on leave Neil, you did the same.</p>
 <p>MITCHELL: I tell you what, if there is a crisis Prime Minister, I would come back and we have got a crisis.</p>
@@ -145,6 +135,4 @@
 <p>PM: I think the whole community's got a responsibility. And to act sensitively and responsibly. I mean, I think the basic principle here is the protection of the most vulnerable. Little children together with our most aged and infirm Australians, are the two groups who are the most vulnerable. And I think, frankly, that's just a higher call. It sort of goes across everything else so that if you have a reasonable suspicion, or reasonable concern, that a young child is the subject of abuse, I think you've got a moral responsibility to act.</p>
 <p>MITCHELL: Thank you very much for your time</p>
 <p>PM: Appreciate it</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

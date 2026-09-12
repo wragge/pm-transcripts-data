@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17909</transcript-id>
-    <title>New accommodation for ADF personnel in the NT</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17909</transcript-id><title>New accommodation for ADF personnel in the NT</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced more than 900 new high quality apartments will be built in Darwin for single Australian Defence Force (ADF) personnel in the next two years.</p>
 <p>The announcement is part of a $4 billion contract to build 3,000 new apartments at 14 defence bases across Australia.</p>
 <p>The Australian Labor Government is investing in the Northern Territory to provide the new, high quality accommodation for our defence personnel.</p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard today announced more than 900 new high quality apar
 <p>An additional 100 jobs, including sub contractors and permanent staff, will be provided through this project.</p>
 <p>Construction starts on the 1st of September at Robertson Barracks and in November at Larrakeyah Barracks, with both projects to be completed in early 2013.</p>
 <p>The new contract will see work commence on Phase 2 of Project Single Living Environment and Accommodation Precinct (Single LEAP). </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

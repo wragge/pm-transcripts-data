@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16466</transcript-id>
-    <title>Interview with Chris Uhlmann ABC AM Program   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/03/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16466</transcript-id><title>Interview with Chris Uhlmann ABC AM Program   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/03/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Prime Minister, good morning.</p>
 <p>PM: Good morning.</p>
 <p>UHLMANN: Now we'll get to Queensland and other election matters in a moment. But another Australian has died in Afghanistan. What can you tell us?</p>
 <p>PM: This is another sad day, a very sad day for the nation. Yes, yesterday in Afghanistan we were advised by the Chief of Defence Force that we have lost another Australian. This was an incident involving an improvised explosive device. Further details will be released later, including the soldier's name, as contact is still being made with the family.</p>
@@ -53,6 +43,4 @@
 <p>UHLMANN: Prime Minister, thank you.</p>
 <p>PM: Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

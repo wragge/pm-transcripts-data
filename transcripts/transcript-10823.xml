@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10823</transcript-id>
-    <title>WHERE DOES LABOR STAND ON TELSTRA DIVIDEND</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/07/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In recent weeks Mr. Beazley has delivered conflicting messages to</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10823</transcript-id><title>WHERE DOES LABOR STAND ON TELSTRA DIVIDEND</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/07/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In recent weeks Mr. Beazley has delivered conflicting messages to</p>
 <p> different audiences about the future of Telstra's dividend.</p>
 <p>On June 21 he appeared to tell Channel Nine's Sunday program</p>
 <p> that new initiatives in rural and regional areas would be funded by</p>
@@ -38,6 +28,4 @@
 <p> to Government.</p>
 <p>Kim Beazley's dividend confusion will only reinforce Australians'</p>
 <p> cynicism over Labor's empty Telstra pledges.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

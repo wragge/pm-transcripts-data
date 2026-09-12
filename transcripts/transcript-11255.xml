@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11255</transcript-id>
-    <title>NO DECEPTION ON INCOME TAX</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/04/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The claim made by Mr Laurie Oakes on the Sunday programme, and immediately</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11255</transcript-id><title>NO DECEPTION ON INCOME TAX</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/04/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The claim made by Mr Laurie Oakes on the Sunday programme, and immediately</p>
 <p> parroted by the Federal Opposition, that my April 12 Prime Network</p>
 <p> address contained a deliberately misleading assertion on income tax</p>
 <p> is false.</p>
@@ -39,6 +29,4 @@
 <p> of the Opposition, Mr Crean, that I deliberately set out to mislead</p>
 <p> the Australian public.</p>
 <p>18 April 1999.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

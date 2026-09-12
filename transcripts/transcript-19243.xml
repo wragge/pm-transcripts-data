@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19243</transcript-id>
-    <title>Transcript of Statement on Boston Marathon Attacks</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/04/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19243</transcript-id><title>Transcript of Statement on Boston Marathon Attacks</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/04/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: Australians have woken this morning to shocking and tragic scenes from the Boston Marathon.</p>
 <p>The Boston Marathon is known around the world, indeed many Australians aspire during the course of their life to go and run the Boston Marathon.</p>
 <p>Australia unreservedly condemns this brutal and senseless attack on what is a great event known around the world and one people participate in to have fun as their families and friends watch on.</p>
@@ -39,6 +29,4 @@
 <p>Our thoughts, our condolences are with those in Boston and we will continue to provide advice as we can about who is responsible for this senseless and very, very cruel attack.</p>
 <p>Thank you.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

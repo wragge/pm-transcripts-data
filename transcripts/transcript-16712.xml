@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16712</transcript-id>
-    <title>Prime Minister Kevin Rudd chats with Dr Christine Bennett    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/07/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER: G'day folks. I'm here today with Dr Christine Bennett, formerly a CEO of Westmead Hospital in Sydney, but more importantly for us, has just chaired the National Health and Hospital Reform Commission report on the future of the Australian healthcare system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16712</transcript-id><title>Prime Minister Kevin Rudd chats with Dr Christine Bennett    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/07/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER: G'day folks. I'm here today with Dr Christine Bennett, formerly a CEO of Westmead Hospital in Sydney, but more importantly for us, has just chaired the National Health and Hospital Reform Commission report on the future of the Australian healthcare system.</p>
 <p>We've got the report today, and we're going to be debating it in the period ahead. So, Christine, thanks for all your work.</p>
 <p>DR. CHRISTINE BENNETT: Thank you.</p>
 <p>PRIME MINISTER: It's a big report and we're going to spend a fair bit of time going through the detail with the hospitals around the country, with the states and territories, before we get to a landing point.</p>
@@ -25,6 +15,4 @@
 <p>DR. CHRISTINE BENNETT: Yeah, well, we certainly enjoyed that consultation. The process was richer for it. You'll hear a lot of things, but I think this will be interesting because they'll now actually be responding to proposals as well, some actual solutions, so we'll see what they thought of our work after having listened to them earlier last year.</p>
 <p>PRIME MINISTER: Well, thanks again Christine, and back to you folks. We'd really like to see your contributions to what you'd like to see in the future of health and hospital reform for Australia. It's going to be a big six months, and we'll have to take some big decisions early next year.</p>
 <p>Thanks for tuning in.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

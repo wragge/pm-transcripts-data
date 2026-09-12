@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16474</transcript-id>
-    <title>Earth Hour 2009    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/03/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government is pleased to participate in Earth Hour 2009.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16474</transcript-id><title>Earth Hour 2009    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/03/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government is pleased to participate in Earth Hour 2009.</p>
 <p>Earth Hour is a great home-grown Australian initiative.</p>
 <p>It began just two years ago.</p>
 <p>But it's already a worldwide movement  -  with more than a thousand cities participating in 2009.</p>
@@ -37,6 +27,4 @@
 <p>And all Australians can show their commitment to action on climate change as well  -  by participating in Earth Hour 2009.</p>
 <p>Thank you. </p>
 <p>You can view the video of the Prime Minister's Earth Hour message in the media hub. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

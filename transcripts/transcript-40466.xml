@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40466</transcript-id>
-    <title>Keynote address at the Australia-US Cyber Security Dialogue Center for Strategic and International Studies</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/09/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Ladies and gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40466</transcript-id><title>Keynote address at the Australia-US Cyber Security Dialogue Center for Strategic and International Studies</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/09/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Ladies and gentlemen.</p>
 <p>No institution or infrastructure is more important to the future prosperity and freedom of our global community than the Internet.</p>
 <p>It powers, it punctuates our daily lives, supports our business transactions and joins our nations in what is truly a world wide web.</p>
 <p>This is the modern world.</p>
@@ -27,8 +17,8 @@
 <p>That’s why we must work together — private sector and nation States — to secure the Internet. The challenges the Internet faces are greater than can be solved by any of us alone.</p>
 <p>And that’s what brings me here today.</p>
 <p>To speak with you about how Australia and the United States can work to secure the cyber world.</p>
-<p>I’d like to thank Toby Feakin from the Australian Strategic Policy Institute and Jim Lewis from the US Centre for Strategic and International Studies for jointly hosting this first 1.5  Track Cyber Security Dialogue.</p>
-<p>I welcome academia and industry to this Dialogue. For all my enthusiasm for government’s responsibilities in cyberspace, good cyber policy requires the cooperation and creativity of academia and industry. </p>
+<p>I’d like to thank Toby Feakin from the Australian Strategic Policy Institute and Jim Lewis from the US Centre for Strategic and International Studies for jointly hosting this first 1.5&nbsp; Track Cyber Security Dialogue.</p>
+<p>I welcome academia and industry to this Dialogue. For all my enthusiasm for government’s responsibilities in cyberspace, good cyber policy requires the cooperation and creativity of academia and industry.&nbsp;</p>
 <p>Indeed, government needs to be challenged by academia and industry.</p>
 <p>The nature of global telecommunications infrastructure is such that cyber incidents inescapably engage the private sector.</p>
 <p>The person on the front lines of a cyber incident is almost certainly a systems administrator in a private enterprise or a government department.</p>
@@ -41,16 +31,16 @@
 <p>Australia is committed to standing firm for the values of an open and free Internet.</p>
 <p>We will champion a cyberspace in which State actors, businesses and individuals abide by international law and behave in accordance with agreed norms - because existing rules of behaviour should extend into the cyber world.</p>
 <p>I have committed Australia to promote the emerging norms of State behaviour in cyberspace — unilaterally, with allies and partners and multilaterally through the United Nations, the G20 and elsewhere.</p>
-<p>In April this year, I announced for the first time that Australia possesses an offensive cyber capability.  A capacity to respond to State and non-State actors who attack us-<br />
+<p>In April this year, I announced for the first time that Australia possesses an offensive cyber capability.&nbsp; A capacity to respond to State and non-State actors who attack us-<br>
 This option of offensive cyber response takes its place alongside options such as: diplomacy, law enforcement action, and sanctions amongst others.</p>
-<p>Now, as governments, we don’t talk much about what this offensive capacity can do, nor how it can be carried out.  Much as we acknowledge we have warships, submarines and fighter jets, we don’t detail their specific technical capabilities.  Merely acknowledging their existence forms part of our national deterrence.</p>
+<p>Now, as governments, we don’t talk much about what this offensive capacity can do, nor how it can be carried out.&nbsp; Much as we acknowledge we have warships, submarines and fighter jets, we don’t detail their specific technical capabilities.&nbsp; Merely acknowledging their existence forms part of our national deterrence.</p>
 <p>In the short-term, and in the absence of well-developed understandings about how to behave, there is a risk that unexplained cyber incidents could escalate into conflict between States.</p>
 <p>That’s why Australia is supporting an emerging regional framework to raise awareness and reduce risks.</p>
 <p>Jointly, with the United States, we are mapping our cyber incident response structures and mechanisms so that we can cooperate in the event of an incident affecting both our nations.</p>
 <p>Online, incident response goes hand-in-hand with incident preparedness and with real world analysis of threats.</p>
 <p>Our societies are increasingly reliant on faster telecommunications, secure data centres, satellite capability, and smart electricity grids.</p>
 <p>That’s why fostering trust in infrastructure must be taken seriously.</p>
-<p>Australia and the US have always been very clear that damaging critical infrastructure is unacceptable.  And we have maintained a strong line that cyber espionage for the purposes of commercial advantage is also unacceptable.</p>
+<p>Australia and the US have always been very clear that damaging critical infrastructure is unacceptable.&nbsp; And we have maintained a strong line that cyber espionage for the purposes of commercial advantage is also unacceptable.</p>
 <p>As well as countering any State sponsored malicious cyber activity, we are working to ameliorate the damage caused by cyber criminals.</p>
 <p>Denial of service, hacking, phishing and malware, are disruptive to our economies, our social interactions, and — through their unwavering persistence — our sense of security.</p>
 <p>This undermining of our online confidence means we are not fully leveraging the digital economy.</p>
@@ -78,16 +68,16 @@ This option of offensive cyber response takes its place alongside options such a
 <p>Second, in the short to medium term - what barriers can government continue to remove, either through deregulation or positive action?</p>
 <p>And third - articulate robust, long-term and innovative goals in cyber security that we can agree at the next Dialogue and then pursue with tenacity.</p>
 <p>To commence the thinking on early gains and enable real progress between this Dialogue and next, we must convince leaders, at board level and corporate sector and government levels, that cyber is one of their essential functions. That means people must be cyber ambassadors and carry that message.</p>
-<p>Many companies have Chief Technology Officers and Chief Information Security Officers. Both have technical knowledge and business acumen. </p>
+<p>Many companies have Chief Technology Officers and Chief Information Security Officers. Both have technical knowledge and business acumen.&nbsp;</p>
 <p>The most obvious reason to value the role of a Chief Information Security Officer in board-level decision-making is the risk of cyber threat to your budget bottom line. As we are all acutely aware, a cyber- attack or data leak from even a mundane business system — like e-mail — can have a dramatic impact on an enterprise.</p>
 <p>In fact, to properly recognise the convergence of online and offline threats, consideration should probably be given to now replacing the title of CISOs with the more appropriate Chief Security Officer.</p>
-<p>The cost impact of cyber-attacks on companies is complex, and not limited to just a loss of shareholder value although this can be as we’ve seen significant.<br />
+<p>The cost impact of cyber-attacks on companies is complex, and not limited to just a loss of shareholder value although this can be as we’ve seen significant.<br>
 Listening to the risk mitigation advice of your security staff is therefore good business. But it is better business to also think broadly about the benefits of information security. Security staff could use their skills to contribute new business models that take a company into new products and markets. On that basis, we should unleash security staff to focus on both sides of the risk coin and to increase the value they add to their organisations.</p>
 <p>Increasing the capacity for security staff to engage in conversations with senior decision makers is absolutely critical when it comes to responding to a cyber incident.</p>
 <p>Many enterprises can effectively analyse attacks, build timelines of events, track data loss and restore systems, but without ongoing good communications and a working knowledge of cyberspace, your capacity to respond is hampered.</p>
 <p>In one study, 80 per cent of organisations said they don't frequently communicate with executive management about potential cyber-attacks against their organisations.</p>
 <p>CEOs and boards want succinct information, which is not always easy when presented with IT security data. Undoubtedly, the IT security function needs to work on how it explains risks to management, but it is also incumbent on management to be well-versed in cyber security language and the realities of responding.</p>
-<p>How can consistent messaging travel from IT security to customers and the public when the IT professionals speak a different language and when the next spokespeople in the chain — the CEO, the board and the reporting media for that matter — can’t necessarily speak the same language?<br />
+<p>How can consistent messaging travel from IT security to customers and the public when the IT professionals speak a different language and when the next spokespeople in the chain — the CEO, the board and the reporting media for that matter — can’t necessarily speak the same language?<br>
 How aware are Chief Executives and Directors of who have access, for example administrative privileges over the network of their own business? Do you know your Systems Administrator? Good question. Many people do not and we should.</p>
 <p>Improvements to cyber incident response are on our minds in Australia, thanks to a denial of service incident on our national Census night.</p>
 <p>Although it was nationally significant, it was technically predictable and not a unique situation for business and governments. However, we struggled with the laden meaning of the word ‘attack’.</p>
@@ -101,8 +91,8 @@ How aware are Chief Executives and Directors of who have access, for example adm
 <p>Those outside the cyber security world don’t readily understand the relative impact of different incidents, typical investigation timeframes, or likely response options — such as shutting down a site while investigating unusual traffic patterns.</p>
 <p>On that basis, I call on academics to turn their minds to the problem of cyber lexicon.</p>
 <p>How do we communicate clearly with each other?</p>
-<p>How do we normalise cyber discussions so that they are held in the context of all threats, risks and opportunities? </p>
-<p>And the media too should be involved in that conversation and take care to understand what is being said by governments and businesses.  </p>
+<p>How do we normalise cyber discussions so that they are held in the context of all threats, risks and opportunities?&nbsp;</p>
+<p>And the media too should be involved in that conversation and take care to understand what is being said by governments and businesses.&nbsp;&nbsp;</p>
 <p>Before I close, I’d like to talk briefly about fairness in relation to cyber security and how large companies can help themselves by helping others.</p>
 <p>For each large enterprise, there are many small businesses putting a toe in the water of the online world. They are connected to you as suppliers, distributors and contractors.</p>
 <p>Many are far less secure, far less savvy, far less resourced than governments and big business. Or at least, than governments and big businesses should be.</p>
@@ -121,6 +111,4 @@ How aware are Chief Executives and Directors of who have access, for example adm
 <p>I look forward to seeing you all in Australia next year.</p>
 <p>Thank you very much.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10858</transcript-id>
-    <title>BOOST FOR INDIGENOUS HOUSING AND HEALTH</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/05/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that housing and health conditions in remote</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10858</transcript-id><title>BOOST FOR INDIGENOUS HOUSING AND HEALTH</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/05/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that housing and health conditions in remote</p>
 <p> indigenous communities are to be improved with a doubling in funding</p>
 <p> for the successful ATSIC/Army project.</p>
 <p>The scheme has been an outstanding success in the communities that</p>
@@ -52,6 +42,4 @@
 <p> priority given to rural and remote communities.</p>
 <p>In addition $387 million will be spent in 1998-99 on indigenous-specific</p>
 <p> housing and infrastructure programmes.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

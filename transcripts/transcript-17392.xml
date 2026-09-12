@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17392</transcript-id>
-    <title>Prime Minister arrives in Brussels for Australia’s first Asia-Europe meeting</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/10/2010</release-date>
-    <release-type>Business &amp; Industry</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17392</transcript-id><title>Prime Minister arrives in Brussels for Australia’s first Asia-Europe meeting</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/10/2010</field_date><release-type><![CDATA[Business &amp; Industry]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister, Julia Gillard, will be representing Australia at the Asia-Europe Meeting in Brussels as part of her first international trip as Prime Minister.</p>
 <p>ASEM brings together every two years the leaders from 46 countries in Asia and Europe - two regions of vital importance to Australia. 9 of Australia's top 10 trading partners are ASEM members.</p>
 <p>This is the first time Australia has been invited to attend ASEM and will have a seat at the table where the leaders of many of the world's largest economies are discussing the global economy, trade and security.</p>
@@ -20,6 +10,4 @@ The Prime Minister, Julia Gillard, will be representing Australia at the Asia-Eu
 <p>In other ASEM sessions the Prime Minister will forge cooperative links with key Asian and European partners on important security issues for Australia, including people smuggling, counter-terrorism, nuclear non-proliferation and piracy at sea.</p>
 <p>The Prime Minister will hold a number of meetings with individual leaders of important partners for Australia on the sidelines of the ASEM Summit.</p>
 <p>Securing Australia's membership of ASEM was a significant foreign policy achievement for the Foreign Minister, Kevin Rudd, and addressed a major deficiency in our regional and multilateral engagement with Europe and Asia.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

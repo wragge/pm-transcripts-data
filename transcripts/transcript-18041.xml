@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18041</transcript-id>
-    <title>The Hon. Clyde Holding</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18041</transcript-id><title>The Hon. Clyde Holding</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister today paid tribute to former Federal Minister and Victorian Opposition Leader, Clyde Holding, who passed away in Castlemaine overnight aged 80.</p>
 <p>Mr Holding's distinguished political career spanned 36 years, starting with his election to the Victorian Legislative Assembly in 1962. He served as Leader of the Opposition from 1967 until 1977. In this capacity, he supported Gough Whitlam's reforms to the ALP and the cause of public funding for non-government schools which greatly assisted Labor's return to office federally in 1972.</p>
 <p>Mr Holding was elected to the House of Representatives in 1977 for the seat of Melbourne Ports, and between 1983 and 1987 served as Minister for Aboriginal Affairs in the Hawke Government, where he appointed the first Indigenous head of the then Department of Aboriginal Affairs, Charles Perkins.</p>
@@ -17,6 +7,4 @@ The Prime Minister today paid tribute to former Federal Minister and Victorian O
 <p>Mr Holding was a consistent supporter of Indigenous rights, and also campaigned hard against the death penalty. He co-founded the law firm now known as Holding Redlich, a leading advocate on social and industrial issues.</p>
 <p>Mr Holding was widely regarded as an exemplary local Member and a strong friend of the Jewish community. He was a leader of integrity who showed passion for the values he believed in, whether they were popular or not.</p>
 <p>Today we honour an outstanding servant of the Australian people whose loss will be deeply mourned by his family and friends, former colleagues and all who valued his significant contribution to public life in this nation. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

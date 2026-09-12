@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17515</transcript-id>
-    <title>Transcript of interview on 4BC </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/06/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17515</transcript-id><title>Transcript of interview on 4BC </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/06/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Well, Julia Gillard welcome to the show.</p>
 <p>PM: Thank you very much. Now, I am old enough to remember the Mary Tyler Moore Show, where you got that song from. Love is all around, no need to fake it, all of that kind of stuff, but thank you for the re-write, that's very generous of you.</p>
 <p>HOST: No problem at all.</p>
@@ -56,6 +46,4 @@ HOST: Well, Julia Gillard welcome to the show.</p>
 <p>PM: And thank you for the song.</p>
 <p>HOST: Oh, that's alright. We'll talk to you again, Julia. Thank you.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10853</transcript-id>
-    <title>WAR WIDOWS&amp;#146; PENSION UP BY $6.80 A FORTNIGHT</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I announce today that the Federal Government will link the war widows'</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10853</transcript-id><title><![CDATA[WAR WIDOWS&amp;#146; PENSION UP BY $6.80 A FORTNIGHT]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I announce today that the Federal Government will link the war widows'</p>
 <p> pension to the recently legislated benchmark of 25% of male total</p>
 <p> average weekly earnings (MTAWE).</p>
 <p>This goes beyond the Government's previous decision to index</p>
@@ -32,6 +22,4 @@
 <p> to care for those who deserve special recognition for their personal</p>
 <p> sacrifice. It also highlights our commitment to protect the living</p>
 <p> standards and financial security of older Australians.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

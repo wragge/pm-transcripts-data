@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22050</transcript-id>
-    <title>Media Opportunity Following Meeting with the President of Pakistan General Pervez Musharraf Islamabad, Pakistan</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/11/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRESIDENT MUSHARRAF:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22050</transcript-id><title>Media Opportunity Following Meeting with the President of Pakistan General Pervez Musharraf Islamabad, Pakistan</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/11/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRESIDENT MUSHARRAF:</p>
 <p>Well ladies and gentlemen, it's my pleasure to receive the Prime Minister of Australia.  We had excellent discussions covering, of course, the earthquake which is the current subject and I expressed my extreme gratitude to the Prime Minister for all the assistance that Australia has given us, for the medical team which is in the hardest area, in the Neelum River Valley, which we are going to visit tomorrow.  Then we also discussed bilateral relations of mutual interest and international, the issue of terrorism and other subjects of mutual concern at the international level.  And may I say that there is complete consensus of views on the subject and Pakistan looks forward to a very strong, improved, strengthened relationships in all fields with Australia.</p>
 <p>Thank you.</p>
 <p>PRIME MINISTER HOWARD:</p>
@@ -18,6 +8,4 @@
 <p>PRESIDENT MUSHARRAF:</p>
 <p>Thank you very much.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

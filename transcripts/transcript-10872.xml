@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10872</transcript-id>
-    <title>COUNCIL FOR THE ORDER OF AUSTRALIA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/08/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Following consultations with the Governor-General, the Honourable</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10872</transcript-id><title>COUNCIL FOR THE ORDER OF AUSTRALIA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/08/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Following consultations with the Governor-General, the Honourable</p>
 <p> Sir William Deane AC KBE, I am pleased to announce the reappointment</p>
 <p> of seven Councillors to the Council for the Order of Australia.</p>
 <p>The Council meets twice a year to consider nominations and to make</p>
@@ -46,6 +36,4 @@
 <p> committee. They bring to the Council for the Order of Australia a</p>
 <p> breadth of experience and achievement which encompasses the whole</p>
 <p> community and which all Australians can respect and admire.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16749</transcript-id>
-    <title>Interview on Channel Nine&#039;s Today Show Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/08/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>WILKINSON:   Prime Minister Kevin Rudd, thanks for your time this morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16749</transcript-id><title><![CDATA[Interview on Channel Nine&#039;s Today Show Canberra   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/08/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>WILKINSON:   Prime Minister Kevin Rudd, thanks for your time this morning.</p>
 <p>PM:   Good to be with you Lisa.</p>
 <p>WILKINSON:   Now, can you tell us where the situation stands this morning?</p>
 <p>PM:   Yes Lisa, I met with Foreign Affairs and Defence officials about 6:30 this morning. And then about a quarter of an hour or so ago I spoke with the High Commissioner, Chris Moraitis, in Port Moresby. There was a meeting of the PNG search and rescue authorities this morning at 6 am.</p>
@@ -26,6 +16,4 @@
 <p>And our job as their fellow Australians and our job as the Government, is to do whatever we physically can to support them at this very, very difficult time.</p>
 <p>WILKINSON:   It sure is Prime Minister, we'll have to leave it there. We do thank you very much for your time this morning.</p>
 <p>PM:   Thank you Lisa.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

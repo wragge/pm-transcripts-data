@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19088</transcript-id>
-    <title>First National Children&#039;s Commissioner Appointed</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19088</transcript-id><title><![CDATA[First National Children&#039;s Commissioner Appointed]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The Gillard Government today announced the appointment of Ms Megan Mitchell as Australia's first National Children's Commissioner.</p>
 <p>The Government congratulates Megan Mitchell on this important and historic appointment.</p>
 <p>The Gillard Government is establishing a dedicated advocate for children and young people at a national level as part of our commitment to giving kids the best start in life.</p>
@@ -22,6 +12,4 @@
 <p>The Commissioner will promote public discussion and awareness of issues affecting children; conduct research and education programs; consult directly with children and representative organisations; and examine Commonwealth legislation, policies and programs that relate to children's human rights</p>
 <p>The ACT Children &amp; Young People Commissioner, Mr Alasdair Roy, ran a series of sessions in the ACT with students between the ages of 9 and 11 as part of the selection process.</p>
 <p>Ms Mitchell has been appointed as National Children's Commissioner for a period of five years commencing 25 March 2013.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

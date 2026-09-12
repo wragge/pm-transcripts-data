@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41129</transcript-id>
-    <title>Radio interview with Dave Hughes and Kate Langbroek, KIISFM 106.5</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>23/08/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Game of Thrones, drug testing trial and same sex marriage</subjects>
-    <content><![CDATA[<p><strong>DAVE HUGHES: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41129</transcript-id><title>Radio interview with Dave Hughes and Kate Langbroek, KIISFM 106.5</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>23/08/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Game of Thrones, drug testing trial and same sex marriage</subjects><content><![CDATA[<p><strong>DAVE HUGHES: </strong></p>
 <p>We’ve got the Prime Minister on with us, Kate, Good afternoon Mr Turnbull.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Hey, how are you? Great to be with you.</p>
@@ -151,7 +141,7 @@
 <p><strong>KATE LANGBROEK: </strong></p>
 <p>Can I just ask you this?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Yep. </p>
+<p>Yep.&nbsp;</p>
 <p><strong>KATE LANGBROEK: </strong></p>
 <p>For instance, if you test positive to ice - what happens then?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -236,6 +226,4 @@
 <p><strong>KATE LANGBROEK: </strong></p>
 <p>Thanks Mr Turnbull. I’d like to talk to him again at some point, thank you say hi to Lucy.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

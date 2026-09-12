@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41321</transcript-id>
-    <title>Television interview with Samantha Armytage and David Koch – Sunrise, Seven Network</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>SAMANTHA ARMYTAGE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41321</transcript-id><title>Television interview with Samantha Armytage and David Koch – Sunrise, Seven Network</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage</subjects><content><![CDATA[<p><strong>SAMANTHA ARMYTAGE:</strong></p>
 <p>Joining us now from Canberra is the Prime Minister, Malcom Turnbull. Prime Minister, good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning.</p>
@@ -55,7 +45,7 @@
 <p>Well look, I think it’s a big country. 150 electorates; 133 – that’s nearly 90 per cent - voted ‘yes’ – so let’s not lose sight of the fact this was a massive ‘yes’ vote.</p>
 <p>You’ve got in Western Sydney, in some parts of Western Sydney, you’ve got very diverse cultural communities in in some of those seats. You’ve got a very big Muslim community who are very, who are very conservative on issues like this and very little support for same-sex marriage.</p>
 <p>But look, that’s fine. It’s a free country. That’s why I wanted to give everyone their say. Everybody had their say. I am committed to respecting the views of every Australian.</p>
-<p>So we said to every Australian, “What you think? Do you think the law should be changed to allow same-sex couples to marry, yes or no?"  Everyone had their say, 80 per cent took up the opportunity and just under 62 per cent voted ‘yes’.</p>
+<p>So we said to every Australian, “What you think? Do you think the law should be changed to allow same-sex couples to marry, yes or no?" &nbsp;Everyone had their say, 80 per cent took up the opportunity and just under 62 per cent voted ‘yes’.</p>
 <p>So it’s a democracy. That’s a ‘yes’, that’s a big ‘yes’.</p>
 <p><strong>DAVID KOCH: </strong></p>
 <p>Just while we have got you, this tragic development overnight, the Australian diplomat who has fallen to his death while celebrating the same-sex marriage survey in New York. Have you got any more details about that?</p>
@@ -76,6 +66,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>We’ll get there, we’ll get there. Thanks Kochie.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

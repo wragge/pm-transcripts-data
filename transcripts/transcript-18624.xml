@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18624</transcript-id>
-    <title>New initiative to combat global hunger</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/06/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18624</transcript-id><title>New initiative to combat global hunger</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/06/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Gillard today joined Prime Minister Cameron and Prime Minister Harper to announce a new initiative  -  Ag Results  -  to improve food production in developing countries.</p>
 <p>Ag Results will offer financial incentives for organisations that are able to develop and apply new technologies at an affordable price for farmers in developing countries.</p>
 <p>This approach differs from traditional programs because incentives are paid only after results have been achieved.</p>
@@ -21,6 +11,4 @@ Prime Minister Gillard today joined Prime Minister Cameron and Prime Minister Ha
 <p>The investment to meet the food needs of the global population in 2050 is estimated to be $83 billion a year.  Much of this funding will need to come from private sources which is why this initiative is aimed at stimulating private investment.</p>
 <p>In addition to increasing food production, this investment will also produce better quality food.</p>
 <p>Nearly one billion people currently suffer from a lack of crucial micronutrients in their diet - a “hidden hunger” that inhibits the development of children and reduces adult productivity. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

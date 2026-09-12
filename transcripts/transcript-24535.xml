@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24535</transcript-id>
-    <title>Recovery grants for flood-affected farmers</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/06/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today the Commonwealth and New South Wales Governments announced further assistance for storm-affected primary producers in the Hunter and Central Coast.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24535</transcript-id><title>Recovery grants for flood-affected farmers</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/06/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today the Commonwealth and New South Wales Governments announced further assistance for storm-affected primary producers in the Hunter and Central Coast.</p>
 <p>Clean up and recovery grants of up to $15,000 will be provided to farmers recovering from damage caused by severe flooding and storms.</p>
 <p>The grants, funded under the Natural Disaster Relief and Recovery Arrangements, are available in the local government areas of Dungog, Great Lakes, Maitland, Newcastle, Port Stephens, Singleton and to parishes of Branxton, Heddon and Stockrington.</p>
 <p>Oyster growers in Port Stephens and Brisbane Waters are also eligible.</p>
@@ -19,6 +9,4 @@
 <p>Primary producers in the flood affected areas should contact the NSW Rural Assistance Authority on 1800 678 593 to see if they are eligible for the grant.</p>
 <p>Information on disaster assistance can be found at <a href="http://www.emergency.nsw.gov.au">www.emergency.nsw.gov.au</a> and <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a>.</p>
 <p>15 June 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

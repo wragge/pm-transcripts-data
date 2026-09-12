@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22407</transcript-id>
-    <title>Interview with John McKenzie Radio 4CA, Cairns </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22407</transcript-id><title>Interview with John McKenzie Radio 4CA, Cairns </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, thanks for joining me on the programme.</p>
 <p> PRIME MINISTER:</p>
 <p>Good morning John.</p>
@@ -33,6 +23,4 @@
 <p>Well I'm sure it would be better than what they have been used to, I have no doubt about that. But this is a sensible, practical response to a problem and I believe that most people will support very strongly what the Government is doing. It's not a new policy, it doesn't have any evil connotations. We have an accommodation problem with illegal fishermen from other countries and using this method of holding them makes a great deal of sense.</p>
 <p> It would be a purpose-built vessel, some $17 million. The conditions will be good, in fact, you know, some people I've even heard on the other side of the argument say we don't need to spend that amount of money, so I guess if you've upset some on either side of it, you've probably got it about right. That's always a reasonable operating principle in this business.</p>
 <p>  [ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

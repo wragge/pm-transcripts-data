@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40616</transcript-id>
-    <title>Address to Parliament Annual Infrastructure Statement and the Australian Government’s Response to the Australian Infrastructure Plan</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister: Mr Speaker, infrastructure is so much more than concrete, bricks and mortar, roads and train lines, housing and hospitals, schools and sporting grounds.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40616</transcript-id><title>Address to Parliament Annual Infrastructure Statement and the Australian Government’s Response to the Australian Infrastructure Plan</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister:&nbsp;Mr Speaker, infrastructure is so much more than concrete, bricks and mortar, roads and train lines, housing and hospitals, schools and sporting grounds.</p>
 <p>Good infrastructure brings communities together, makes our towns and cities more liveable, links business large and small with markets, widens the range of jobs and opportunities, makes housing more available and affordable.</p>
 <p>If Australia is to ride the wave of opportunity that the 21st century offers, we need better infrastructure.</p>
 <p>Over the last decade our nation’s economic growth has been turbocharged by higher resource prices and unprecedented levels of mining and resources investment.</p>
@@ -25,12 +15,14 @@
 <p>This plan is the first independent assessment of Australia’s long term infrastructure needs. It sets out priorities and recommendations to increase productivity and support economic growth.</p>
 <p>The plan will guide the Commonwealth Government’s key infrastructure policy directions.</p>
 <p>Today, Mr Speaker, I commit my Government to five key initiatives:</p>
-<ul><li>We will agree urban rail plans with willing state governments for our five biggest cities - the mainland state capitals - that will inform our future investment priorities.</li>
+<ul>
+<li>We will agree urban rail plans with willing state governments for our five biggest cities - the mainland state capitals - that will inform our future investment priorities.</li>
 <li>We will continue reforms to heavy vehicle user charging.</li>
 <li>We will appoint an eminent Australian to lead extensive community consultation on the costs and benefits of road pricing for all vehicles.</li>
 <li>We will develop a strategy to increase the productivity and efficiency of Australia’s freight supply chain.</li>
 <li>And we will collect and publicly release data on the performance of transport services, including freight and passenger services, so that we can target improvements to these essential elements in our infrastructure.</li>
-</ul><p>My Government is supporting 69 of Infrastructure Australia’s 78 recommendations. We have made significant progress in addressing many of these.</p>
+</ul>
+<p>My Government is supporting 69 of Infrastructure Australia’s 78 recommendations. We have made significant progress in addressing many of these.</p>
 <p>We have committed funding towards 14 of the 15 projects on Infrastructure Australia’s Priority List.</p>
 <p>This Priority List will continue to inform a longer-term project pipeline, enabling the certainty that is so critical to attract more private investment in nationally significant public infrastructure.</p>
 <p>Australia’s thriving rural and regional communities and businesses rely on safe and efficient transport services.</p>
@@ -75,7 +67,7 @@
 <p>And we must create the right settings so we can better leverage private investment in public infrastructure.</p>
 <p>The WestConnex project in Sydney is a good example. In addition to a $1.5 billion grant, the Government is providing a $2 billion concessional loan.</p>
 <p>We have also taken an equity stake in key projects like Inland Rail and the Moorebank Intermodal freight precinct.</p>
-<p>We have to explore all options, whether they involve concessional loans, user charging or value capture - in addition to grants.  </p>
+<p>We have to explore all options, whether they involve concessional loans, user charging or value capture - in addition to grants. &nbsp;</p>
 <p>I am establishing an Infrastructure Financing Unit in my portfolio, to make this standard practice across government.</p>
 <p>The Unit will work with other departments; it will also work across state and local governments and with the private sector in developing the funding and financing solutions for landmark projects through the use of public private partnerships, measured use of the balance sheet and value capture.</p>
 <p>We can also rein in the costs of public infrastructure and indeed housing, and ensure projects are delivered on time and on budget with measures to stamp out union lawlessness and thuggery.</p>
@@ -98,10 +90,10 @@
 <p>This project was failing when we inherited it in 2013 but with new management a new plan, it is now meeting and beating its targets and is on track to be complete by 2020.</p>
 <p>Mr Speaker increasing the supply of affordable and secure water for regional Australia - for agriculture, industry and communities - is also a key priority.</p>
 <p>And we are committing $2.4 billion, the largest investment in new water supplies for generations. This coupled with the big market opportunities in Asia will drive stronger growth and more jobs across regional Australia.</p>
-<p>Mr Speaker we are tackling climate change in a smart ways to transition to a low-emissions economy.  </p>
+<p>Mr Speaker we are tackling climate change in a smart ways to transition to a low-emissions economy. &nbsp;</p>
 <p>Our National Energy Productivity Plan will improve our energy productivity by 40 per cent by 2030.</p>
-<p>But energy security is paramount – we must keep the lights on and provide affordable energy at the same time we cut emissions.  </p>
-<p>Our policies are working - we are on track to beat our 2020 emissions reduction target.  </p>
+<p>But energy security is paramount – we must keep the lights on and provide affordable energy at the same time we cut emissions. &nbsp;</p>
+<p>Our policies are working - we are on track to beat our 2020 emissions reduction target. &nbsp;</p>
 <p>And we have ratified the Paris Climate Agreement and are also on track to meet our 2030 emission reduction targets under that Agreement.</p>
 <p>So we have a big program of infrastructure commitments and reforms underway, with much more to come under the guidance of the independent, long-term vision provided by Infrastructure Australia’s 15-year Plan.</p>
 <p>My Government is changing infrastructure in Australia—the way we plan it, the way we fund it and the way we partner to build it.</p>
@@ -115,6 +107,4 @@
 <p>They will harness the innovation and technology to make it more efficient.</p>
 <p>Infrastructure, Mr Speaker, stands alongside tax reform, living within our means, microeconomic reform and innovation in its importance to our future prosperity.</p>
 <p>By working together, we will build a legacy of liveable, sustainable, productive cities and regions for future generations.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

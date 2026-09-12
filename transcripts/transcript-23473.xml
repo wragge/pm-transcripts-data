@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23473</transcript-id>
-    <title>Interview with Lisa Wilkinson, Today, Nine Network</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/05/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Reform and action on intercountry adoption,  Budget 2014,  political fundraising. </subjects>
-    <content><![CDATA[<p><strong>LISA WILKINSON:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23473</transcript-id><title>Interview with Lisa Wilkinson, Today, Nine Network</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/05/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Reform and action on intercountry adoption, Budget 2014, political fundraising.</subjects><content><![CDATA[<p><strong>LISA WILKINSON:</strong></p>
 <p>Now to some good news for families who are looking to adopt.</p>
 <p>By 2015 Australia will finally have national guidelines for adoption and for more we're joined now from Canberra by the Prime Minister and in New York, Deborra-Lee Furness, who has campaigned tirelessly for these changes for years.</p>
 <p>Good morning to both of you.</p>
@@ -85,6 +75,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks, Lisa.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

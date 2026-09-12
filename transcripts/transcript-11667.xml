@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11667</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT THE INTERFET WELCOME HOME PARADE, SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/04/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11667</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT THE INTERFET WELCOME HOME PARADE, SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/04/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................................................................</p>
 <p>PRIME MINISTER</p>
 <p>Your Excellency, the Governor General, Sir William Deane and Lady Deane,</p>
 <p> the Lord Mayor of Sydney, Frank Sartor, Major General Peter Cosgrove and</p>
@@ -50,6 +40,4 @@
 <p> forces for a magnificent job done in our name which has brought great</p>
 <p> credit to you and through you great credit to our nation.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

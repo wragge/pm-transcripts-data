@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16451</transcript-id>
-    <title>Interview with Neil Mitchell Radio 3AW, Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/03/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: First though, for his regular spot on the program. On the line, the Prime Minister. Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16451</transcript-id><title>Interview with Neil Mitchell Radio 3AW, Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/03/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: First though, for his regular spot on the program. On the line, the Prime Minister. Mr Rudd, good morning.</p>
 <p>PM: Good morning Neil.</p>
 <p>MITCHELL: In a moment the recession, but first given what's happened in Pakistan this week with the terrorist attack on the cricketers, are you comfortable about Australian athletes going to Delhi next year for the Commonwealth Games?</p>
 <p>PM: What we do Neil is all the time, we are engaged with discussion through our security agencies and each of these sporting bodies, constantly with Cricket Australia and we've been doing that for a long period of time as far as their engagements with Pakistan are concerned.</p>
@@ -120,6 +110,4 @@
 <p>The Treasurer has already reflected his view in terms of ATM charges and we will continue on this because everyone out there - businesses, households, everyone - is facing a really tough time and we don't want see anyone adding to that burden by unnecessary charges.</p>
 <p>MITCHELL: Thank you for your help. Peter Costello wants to help. Do you want to hear from him?</p>
 <p>PM: I think Mr Costello wants to help Mr Turnbull by replacing Mr Turnbull in the job. But you know something Neil? That's a matter for them.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

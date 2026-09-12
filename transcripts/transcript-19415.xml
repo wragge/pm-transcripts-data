@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19415</transcript-id>
-    <title>2013 Prime Minister’s Literary Awards Shortlists Announced</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/06/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19415</transcript-id><title>2013 Prime Minister’s Literary Awards Shortlists Announced</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/06/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard and Arts Minister Tony Burke today announced the 2013 Prime Minister's Literary Awards shortlists.</p>
 <p>Now in their sixth year, the 2013 shortlists recognise the best in Australian fiction, poetry, non-fiction, history, young adult and children's fiction published in 2012.From children's books that excel in the art of storytelling, through to revealing works of non-fiction and history, the 2013 shortlists represent the breadth and depth of the Australian story, and imagination.The Prime Minister and Minister commended the quality and diversity of entries, noting the evolving richness of Australia's literary sector.2013 also saw the poetry, the newest Award category firmly established, receiving 65 entries, a significant increase on 2012 entries.A total of $595,000 will be awarded in six Award categories, making the Prime Minister's Literary Awards the richest literary awards in Australia.</p>
 <p>A tax free prize of $80,000 will be awarded to the winner of each of the award categories. Shortlisted entries receive $5,000 tax free.The 2013 Prime Minister's Literary Awards shortlists are:</p>
@@ -19,6 +9,4 @@
 <p>Young adult fiction shortlistEverything Left Unsaidby Jessica DavidsonThe Children of the King by Sonya HartnettGrace Beside Me by Sue McPhersonFog a Dox by Bruce PascoeFriday Brown by Vikki Wakefield</p>
 <p>Children's fiction shortlistRedbyLibby GleesonToday We Have No Plans by Jane Godwin and illustrated by Anna WalkerWhat's the Matter, Aunty May? by Peter Friend and illustrated by Andrew JoynerThe Beginner's Guide to Revenge by Marianne Musgrove</p>
 <p>More information on the Prime Minister's Literary Awards can be found at <a href="http://www.arts.gov.au/pmla">www.arts.gov.au/pmla</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

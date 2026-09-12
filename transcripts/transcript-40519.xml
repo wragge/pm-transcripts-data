@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40519</transcript-id>
-    <title>Radio interview with Bridge and Spida – 92.5 GOLD FM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/10/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>AL DOBIE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40519</transcript-id><title>Radio interview with Bridge and Spida – 92.5 GOLD FM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/10/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>AL DOBIE:</strong></p>
 <p>Good morning Prime Minister and thank you for talking to us and having time to talk to us.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well thank you for having me on Bridge and Spida, it’s great to be with you.</p>
@@ -21,7 +11,7 @@
 <p>Exactly.</p>
 <p><strong>BRIDGET DALEY:</strong></p>
 <p>Prime Minister, you say that Queensland is really the heart of this union thuggery at the moment. Here is a little bit of this worker rage that you did release, have a listen.</p>
-<p><strong>UNION MEMBER  - EXCERPT:</strong></p>
+<p><strong>UNION MEMBER&nbsp; - EXCERPT:</strong></p>
 <p>What are you going to do? Do you want your job shut down for another two days? You know what? I know your phone number, I know where you live, (BLEEP).</p>
 <p><strong>BRIDGET DAVEY:</strong></p>
 <p>And here’s Dave Noonan from the CFMEU.</p>
@@ -38,7 +28,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>That’s right and you know – we talk about – we’re proud to be Australians, we talk about our commitment to democracy and the rule of law. And what the rule of law means is that the law applies to everyone, it applies to the Government, it applies to citizens, it applies to big business, it applies to unions but it’s not applying in this sector at the moment because the CFMEU treats the law as a joke. There’s 115 officials of the union up before the courts at the moment, that’s extraordinary.</p>
 <p><strong>BRIDGET DALEY:</strong></p>
-<p>Well Prime Minister, this isn’t an easy fix for you. You admitted you don’t have majority in the Senate, you’re seeking Senate support including Liberal David Leyonhjelm. This is  hard because Bill Shorten gave you a spray yesterday because David Leyonhjelm wants to lift the ban on action shotguns, so this is what Bill Shorten has to say.</p>
+<p>Well Prime Minister, this isn’t an easy fix for you. You admitted you don’t have majority in the Senate, you’re seeking Senate support including Liberal David Leyonhjelm. This is&nbsp; hard because Bill Shorten gave you a spray yesterday because David Leyonhjelm wants to lift the ban on action shotguns, so this is what Bill Shorten has to say.</p>
 <p><strong>BILL SHORTEN - EXCERPT:</strong></p>
 <p>The Prime Minister is willing to risk more guns on the streets for one vote in the Senate.</p>
 <p><strong>PRIME MINISTER – EXCERPT:</strong></p>
@@ -142,6 +132,4 @@
 <p><strong>BRIDGET DALEY:</strong></p>
 <p>Your birthday card is in the mail!</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40241</transcript-id>
-    <title>Joint Press Conference: New appointments strengthen Innovation and Science Australia</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/03/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40241</transcript-id><title>Joint Press Conference: New appointments strengthen Innovation and Science Australia</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/03/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>I’m here with Christopher Pyne and Maile Carnegie and Michele Allan to announce the appointments, the new appointments to the board of Innovation and Science Australia which is as you know is chaired by Bill Ferris. Let me run through the members of the board, Alan Finkel our Chief Scientist will be the deputy chair, Maile Carnegie on my right who’s the Chief Executive Officer of Google Australia and New Zealand and about to head up digital transformation at the ANZ, will be on the board, Michele Allan who’s on Christopher's left who is the Chancellor of Charles Sturt University and among other accomplishments, the Chair of Meat and Livestock Australia, an important point to bear in mind because innovation is just as important in agriculture as it is in digital, in the more traditionally digital technology applications.</p>
 <p>In addition to these people that I’ve mentioned, Scott Farquhar who of course is one of the co-founders and Chief Executive Officer of Atlassian will be on the board. Daniel Petre one of Australia's leading venture capitalists and technologists will be on the board. Paul Bassat, similarly accomplished co-founder of SEEK and now running Square Peg Capital a very successful technology VC firm and Dr Chris Roberts who also has a very distinguished innovation track record and is a Director of ResMed one of our leading bioscience, biotechnology companies.</p>
 <p>Now the innovation agenda is absolutely critical for Australia's continued successful transition continuing to successfully transition as we have been from an economy that was fired up by the mining construction boom, mining construction investment therein and got up to nearly 8 per cent, so massive boost to the economy and very welcome and appreciated but inevitably it was going to tail off so what comes next? What comes next is innovation, open markets, investment, entrepreneurship, enterprise.</p>
@@ -47,7 +37,7 @@
 <p><strong>JOURNALIST:</strong></p>
 <p>Prime Minister, how about the same question to you then. Has the Government received any advice – do you need the Senate to approve an extra sitting week?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Well it, I'm pleased that you are interested in these issues but it's not for me to give you advice, David, on matters of that kind. Let me just say that the Government's focus is on ensuring that the Senate passes the Senate voting reform legislation this week and that is the, it is a short week, we only have three days scheduled, of course, and it's critically important that that is done.  And if that is done, that will be a great blow for democracy and it will ensure that the winners are not any political party, but the voters. They will determine where their preferences go. It will be putting real authority back in the hands of Australian citizens who can allocate their preferences as they see fit.</p>
+<p>Well it, I'm pleased that you are interested in these issues but it's not for me to give you advice, David, on matters of that kind. Let me just say that the Government's focus is on ensuring that the Senate passes the Senate voting reform legislation this week and that is the, it is a short week, we only have three days scheduled, of course, and it's critically important that that is done.&nbsp; And if that is done, that will be a great blow for democracy and it will ensure that the winners are not any political party, but the voters. They will determine where their preferences go. It will be putting real authority back in the hands of Australian citizens who can allocate their preferences as they see fit.</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Prime Minister how can you maintain any pressure on the crossbench with a threat of a double dissolution if the ABCC bill doesn't go into the Senate until Budget day on May 10?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -58,6 +48,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you all very much, great to see you. Thanks a lot.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

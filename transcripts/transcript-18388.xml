@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18388</transcript-id>
-    <title>Prime Ministerial Statement: &quot;Closing the Gap&quot;</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/02/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18388</transcript-id><title><![CDATA[Prime Ministerial Statement: &quot;Closing the Gap&quot;]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/02/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Mr Speaker, in the long story of relations among the peoples of our nation  - the story of our struggles with each other and of our struggles to reconcile  -  there have been some good days which we will not forget.</p>
 <p>Days when a glimpse of a better time came briefly into view.</p>
 <p>We have cherished them.</p>
@@ -187,6 +177,4 @@ Mr Speaker, in the long story of relations among the peoples of our nation  - th
 <p>When fewer Indigenous men between 35 and 45 die of disease  -  we will know we are closing the gap.</p>
 <p>Today, we know we have a long way to go.</p>
 <p>But we also know we are Closing the Gap. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

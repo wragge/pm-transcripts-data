@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20663</transcript-id>
-    <title>Doorstop Interview, Gladstone, Queensland  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20663</transcript-id><title>Doorstop Interview, Gladstone, Queensland  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Today's unemployment figure is very good. It shows a small fall in the unempoyment rate and that's against predictions. It shows that the Australian economy, despite the drought and despite the sluggish world economy, is still continuing to grow and that's very encouraging. And for the first time in 20 years, Australia's unemployment rate is now below that of the United States. You have to go back to 1983 to find Australia's unemployment rate below that of the United States and that's just another sign of how well the Australian economy is doing in times of increasing adversity. There is no doubt that the drought and the sluggish world economy have slowed our rate of economic growth, but it is still very strong and today's employment news is very encouraging.</p>
 <p>JOURNALIST:</p>
 <p>What do you attribute that figure to?</p>
@@ -64,6 +54,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well the best thing that we can do is to have a very benign economic climate and that's what we've done over the last seven years, we have low interest rates, low inflation, sensible environmental policies, pro-investment policies, a new tax system, all of these things make it far more attractive for people to invest and that is why they are investing in this country. I'd better go and talk to my guests, see you later.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10768</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                DOORSTOP INTERVIEW - LIBERAL PARTY                FEDERAL SECRETARIAT CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/04/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...........................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10768</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                DOORSTOP INTERVIEW - LIBERAL PARTY                FEDERAL SECRETARIAT CANBERRA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/04/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...........................................</p>
 <p>JRNLST:</p>
 <p>You've offered to fund a High Court challenge against the Wik</p>
 <p> plan. Will this stop the critics, do you think?</p>
@@ -32,6 +22,4 @@
 <p> opportunity to have this matter honourably resolved.</p>
 <p>Thank you.</p>
 <p>ENDS</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

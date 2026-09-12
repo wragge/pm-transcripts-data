@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11954</transcript-id>
-    <title>Triple J &quot;Talkback Classroom&quot; Interview</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: environment; youth representation; sexuality.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11954</transcript-id><title><![CDATA[Triple J &quot;Talkback Classroom&quot; Interview]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: environment; youth representation; sexuality.</p>
 <p>E&amp;OE................................</p>
 <p>STUDENT:</p>
 <p>There was one issue I would really like to raise with you which is the environment. I'm from Tasmania, I'm from a rural area of Tasmania and I've really seen the shift to the plantation industry through Tasmania which the Federal Government did really support. And I'm also worried by the continued destruction of the old growth forests in Tasmania. And when your initiatives came into place I was actually quite pleased because I thought that the plantation industry would mean a move, it would mean a shift from the logging of old growth forests and I'm not seeing that happening and I was just wondering really if you thought that maybe you could by maximising the plantation industries that we have in Tasmania you could prevent the logging of old growth forests.</p>
@@ -111,6 +101,4 @@
 <p>PRESENTER:</p>
 <p>Very candid and honest Prime Minister there, John Howard talking to Nick Robertson from Marist Brothers College in Brisbane, Lise Della Tore from the Academy of Mary Immaculate in Fitzroy and Felicity Harris from Don College in Devonport Tasmania. As part of Talkback Classroom, that conversation held yesterday.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

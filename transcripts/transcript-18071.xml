@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18071</transcript-id>
-    <title>HMAS Choules</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18071</transcript-id><title>HMAS Choules</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Defence Stephen Smith today announced that the Royal Australian Navy's newest ship, the ex United Kingdom Royal Fleet Auxiliary ship Largs Bay will be commissioned as HMAS Choules.</p>
 <p>This name is in honour of Mr Claude Choules, the last known veteran to have served on active service in the First World War.</p>
 <p>Mr Choules served in both the Royal Navy during the First World War and the Royal Australian Navy in the Second World War.  He represented the last living link with those who had served in the First World War.</p>
@@ -28,6 +18,4 @@ Prime Minister Julia Gillard and Minister for Defence Stephen Smith today announ
 <p>Sea trials conducted in April confirmed the materiel state of the ship and that the acquisition was value-for-money. </p>
 <p>The HMAS Choules is expected to be operational in early 2012.</p>
 <p>Photographs and footage are available at: <a href="http://video.defence.gov.au/#searchterm,0,largs,All">http://video.defence.gov.au/#searchterm,0,largs,All</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

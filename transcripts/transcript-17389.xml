@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17389</transcript-id>
-    <title>Gillard Government to fund suicide prevention measures at The Gap</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/09/2010</release-date>
-    <release-type>Health</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17389</transcript-id><title>Gillard Government to fund suicide prevention measures at The Gap</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/09/2010</field_date><release-type>Health</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced that additional safety measures would be implemented at "The Gap" at Watsons Bay in Sydney to help prevent suicides at the notorious hotspot.</p>
 <p>The Gap at Watsons Bay is a unique geographical site which has tragically become known as a high-profile suicide hotspot.</p>
 <p>The Prime Minister said the work would be progressed as a priority following recommendations by the Australian Suicide Prevention Advisory Council and consultation with the Woollahra Municipal Council.</p>
@@ -20,10 +10,8 @@ Prime Minister Julia Gillard today announced that additional safety measures wou
 <p>"The government has committed to redoubling our national efforts to prevent suicides around the country. This funding is an extra step towards this goal.</p>
 <p>"The funding for hotspots is just one component of the Government's $276.9 million Tacking Action to Tackle Suicide package to be delivered from over the next four years from 2011 - 2012," Minister Butler said.</p>
 <p>Other important measures include:</p>
-<p> * 	Greater access to mental health services for those at the greatest risk of suicide, including psychology and psychiatry services, as well as non-clinical support to assist people with severe mental illness and their carers with their day-to-day needs ($113.9 million);<br />
- * 	Increased funding for direct suicide prevention and crisis intervention services as Lifeline and providing funding to improve safety at suicide 'hotspots' ($74.3 million);<br />
- * 	Provision of more services and support to men, who are at greatest risk of suicide but least likely to seek help ($22.8 million); and<br />
+<p> * 	Greater access to mental health services for those at the greatest risk of suicide, including psychology and psychiatry services, as well as non-clinical support to assist people with severe mental illness and their carers with their day-to-day needs ($113.9 million);<br>
+ * 	Increased funding for direct suicide prevention and crisis intervention services as Lifeline and providing funding to improve safety at suicide 'hotspots' ($74.3 million);<br>
+ * 	Provision of more services and support to men, who are at greatest risk of suicide but least likely to seek help ($22.8 million); and<br>
  * 	Promotion of good mental health and resilience in young people, to prevent suicide later in life ($65.9 million).  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

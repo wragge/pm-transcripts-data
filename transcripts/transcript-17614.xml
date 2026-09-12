@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17614</transcript-id>
-    <title>Because we are Australian: Speech to the Australian Day Luncheon, Adelaide</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/01/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17614</transcript-id><title>Because we are Australian: Speech to the Australian Day Luncheon, Adelaide</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/01/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australians all,</p>
 <p>It's always wonderful to be back in my home town.  I was last here for a family Christmas and the celebration of Proclamation Day, a celebration of the spirit of South Australia. </p>
 <p>Nothing better symbolises that spirit than the place we gather in today - Adelaide Town Hall.</p>
@@ -89,6 +79,4 @@ Australians all,</p>
 <p>We will hang on to each other in the worst times and in the best.</p>
 <p>We will hang on to our Aussie mateship and our Aussie fair go in the worst times and in the best.</p>
 <p>Because we are Australian. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

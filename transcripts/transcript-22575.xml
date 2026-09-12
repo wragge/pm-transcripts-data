@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22575</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/11/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia will use this week's APEC meeting in Vietnam to pursue climate change and energy security issues.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22575</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/11/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia will use this week's APEC meeting in Vietnam to pursue climate change and energy security issues.</p>
 <p>  APEC is the ideal forum to discuss these matters.  It includes energy-rich countries like Australia and Canada as well as energy-hungry nations such as China and Japan.</p>
 <p>  Moreover, five of the six member countries of the Asia-Pacific Partnership on Clean Development and Climate, that's AP6, are in APEC - namely Australia, the United States, China, Japan and Korea.</p>
 <p>We cannot divorce climate change from energy security.  No country, developed or developing, will agree to climate change measures which imperil its energy security.</p>
@@ -18,6 +8,4 @@
 <p> Advances in these areas are of vital importance to both China and Japan.  Japan has recently told the Nairobi conference on climate change that the world must move on from Kyoto, a view shared by Australia.</p>
 <p>  These will be amongst a number of matters I will raise with the President of China and the Prime Minister of Japan when I have bilateral discussions with each of them at the APEC meeting in Hanoi.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

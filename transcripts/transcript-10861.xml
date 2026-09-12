@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10861</transcript-id>
-    <title>NEW ROAD WORKS FOR THE SHOALHAVEN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was delighted to declare Main Road 92 from Nowra to Nerriga a Road</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10861</transcript-id><title>NEW ROAD WORKS FOR THE SHOALHAVEN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was delighted to declare Main Road 92 from Nowra to Nerriga a Road</p>
 <p> of National Importance this afternoon. A declaration of Road of National</p>
 <p> Importance provides for the Commonwealth to fund this important regional</p>
 <p> transport link.</p>
@@ -33,6 +23,4 @@
 <p>Pledging support for upgrading Main Road 92 is part of this commitment</p>
 <p> to rebuilding regional Australia. I am proud to have my Government</p>
 <p> as such a strong supporter of this important project.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16510</transcript-id>
-    <title>Government response to the Australia 2020 Summit    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A year ago, more than 1,000 Australians gathered in Canberra to be part of the Australia 2020 Summit  -  an important event in the Rudd Government's first year in office.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16510</transcript-id><title>Government response to the Australia 2020 Summit    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A year ago, more than 1,000 Australians gathered in Canberra to be part of the Australia 2020 Summit  -  an important event in the Rudd Government's first year in office.</p>
 <p>The Summit participants came from across the Australian community to help shape a vision for the nation's future and to explore new ideas and ways to meet the major challenges that lie ahead.</p>
 <p>Many others joined in the conversation through local Summits across Australia, a Youth Summit, more than 500 School Summits, and we also received 8,800 submissions.</p>
 <p>The Summit generated 962 ideas during an extraordinarily lively, engaged and incisive conversation.</p>
@@ -36,6 +26,4 @@
 <p>The Australian Government is committed to an open style of government that engages the community and welcomes new ideas as we work together to address the challenges of the future.</p>
 <p>The Government is undertaking Community Cabinets across Australia and is developing a wide range of community engagement strategies to ensure it remains in contact with the community and continues to be open to new ideas and different points of view.</p>
 <p>The Australia 2020 Summit - Government Response is available on the Australia 2020 website.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18080</transcript-id>
-    <title>Health appointments</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18080</transcript-id><title>Health appointments</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Health and Ageing Nicola Roxon today announced the appointment of the inaugural chairs of health reform bodies to drive transparency, accountability and efficiency.</p>
 <p>Council of Australian Governments' have agreed to the appointment of the Chairs and Deputy Chairs of the National Health Performance Authority (NHPA) and the Independent Hospital Pricing Authority (IHPA).</p>
 <p>Ms Patricia Faulkner AO and Mr John Walsh will be the Chair and Deputy Chair of the NHPA after the legislation passes the Parliament.</p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard and Minister for Health and Ageing Nicola Roxon tod
 <p>The Prime Minister said today's appointments were the next step in the implementation of the National Health Reform Agreement.</p>
 <p>This historic agreement will deliver the funding public hospitals need, with unprecedented levels of transparency and accountability, less waste and significantly less waiting for patients.</p>
 <p>Further details on each of the appointments are available in the COAG communiqué. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

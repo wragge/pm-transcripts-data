@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22972</transcript-id>
-    <title>Interview with Kerry O&#039;Brien, 7.30 Report</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  Government’s statement on welfare reform; President-elect Bush.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22972</transcript-id><title><![CDATA[Interview with Kerry O&#039;Brien, 7.30 Report]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  Government’s statement on welfare reform; President-elect Bush.</p>
 <p>O'BRIEN: </p>
 <p>And I'm joined now to explore those issues further by PM John Howard in our Canberra studio. John Howard, the welfare industry has welcomed the thrust of your reforms, but universally it seems they're saying it's not good enough that you've extended the principles of mutual obligation to welfare recipients without meeting your own obligation up front to spell out your side of the bargain, the issue of funding?</p>
 <p>PRIME MINISTER: </p>
@@ -78,6 +68,4 @@
 <p>PRIME MINISTER: </p>
 <p>Pleasure.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

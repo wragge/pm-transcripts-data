@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16167</transcript-id>
-    <title>Interview with Mike Carlton and Sandy Aloisi, Radio 2UE, Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/10/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SANDY: Good morning Mr Rudd. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16167</transcript-id><title>Interview with Mike Carlton and Sandy Aloisi, Radio 2UE, Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/10/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SANDY: Good morning Mr Rudd. </p>
 <p>PM: Good morning Sandy, thanks for having me on the program.</p>
 <p>SANDY: You must be very pleased with that news yesterday?</p>
 <p>PM: Well we're in the middle of tough economic times globally, and around the world and in the middle of this global financial crisis we've had more than 25 banks either fail or have to be bailed out. Therefore, we believe it's important to get the balance right between maintaining the stability of the Australian financial system and providing maximum help to working families under financial pressure, and that's what we've been seeking to do through our approach to economic policy at a tough time.</p>
@@ -45,6 +35,4 @@
 <p>We've got to make sure we get this absolutely right because it goes into the Budget bottom line for the future at a time of great economic challenge for Australia. But I've always said, the Government is committed to reforming the pension system. And we will do it.</p>
 <p>MIKE: Prime Minister, thanks very much for your time, it's good to talk to you always.</p>
 <p>PM: Thanks for having us on the program. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

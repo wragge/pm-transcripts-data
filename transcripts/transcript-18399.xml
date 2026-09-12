@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18399</transcript-id>
-    <title>Remembering Christchurch</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today we pause to remember the people of Christchurch, who suffered so cruelly when their beautiful city was struck by a great earthquake one year ago today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18399</transcript-id><title>Remembering Christchurch</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today we pause to remember the people of Christchurch, who suffered so cruelly when their beautiful city was struck by a great earthquake one year ago today.</p>
 <p>The devastating earthquake took the lives of 185 people and grievously wounded many more.</p>
 <p>Much of the city was crushed, including historic landmarks like the ChristChurch Cathedral, and thousands of homes were lost to liquefaction.</p>
 <p>In this past year more than 10,000 aftershocks have continued to shake the city and its surrounding districts and test its people.</p>
 <p>Australians responded with generosity and compassion to this great tragedy, just as New Zealand did in response to our summer of disasters in 2011.</p>
 <p>Today, Christchurch is again in our thoughts, our sorrow and grief undiminished, our respect never greater.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20947</transcript-id>
-    <title>Interview with Leon Delaney, Radio 2SM  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/10/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  DELANEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20947</transcript-id><title>Interview with Leon Delaney, Radio 2SM  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/10/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  DELANEY:</p>
 <p>It';s a quarter past nine and my pleasure to welcome to the programme this morning, Prime Minister of Australia, John Howard.  Good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Hi, good morning, Leon.  Nice to talk to you.</p>
@@ -148,6 +138,4 @@
 <p>PRIME MINISTER:</p>
 <p> You bet.</p>
 <p>DELANEY:  Good on you. Thank you very much for your time today. [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

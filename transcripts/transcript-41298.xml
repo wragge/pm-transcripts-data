@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41298</transcript-id>
-    <title>Peru-Australia FTA to Deliver Jobs and Growth</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/11/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia and Peru have finalised a comprehensive trade agreement that will generate exports, income and jobs.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41298</transcript-id><title>Peru-Australia FTA to Deliver Jobs and Growth</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/11/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia and Peru have finalised a comprehensive trade agreement that will generate exports, income and jobs.</p>
 <p>The conclusion of the Peru-Australia Free Trade Agreement (PAFTA) creates new opportunities for Australian exporters in one of the fastest growing economies and regions in the world.</p>
 <p>Our businesses, farmers and families are the big winners. The equation is simple: more trade means more exports; more exports means more jobs, higher wages and better incomes.</p>
 <p>PAFTA delivers huge wins for Australian businesses with market access outcomes that go well beyond the Trans-Pacific Partnership (TPP) Agreement.</p>
@@ -22,6 +12,4 @@
 <p>Australia has secured the best services commitments Peru has ever offered.</p>
 <p>Peru will recognise Australian degrees, helping Australian universities attract more Peruvian students to study in Australia.</p>
 <p>This is fastest trade agreement Australia has ever concluded after negotiations were launched in May earlier this year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

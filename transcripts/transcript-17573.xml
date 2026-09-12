@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17573</transcript-id>
-    <title>Sea Kings to be pre-positioned in Roma for flood effort</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/01/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17573</transcript-id><title>Sea Kings to be pre-positioned in Roma for flood effort</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/01/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Premier Anna Bligh have announced that flood response and recovery efforts in Queensland will be bolstered with two Australian Defence Force (ADF) Sea King helicopters being sent to Roma.</p>
 <p>The helicopters will support the response and recovery of towns and properties affected by flooding in the Condamine and Moonie rivers in south-west Queensland including Surat, St George, Dirranbandi and Thallon.</p>
 <p>The Prime Minister said that the support from ADF will assist communities along the Condamine and Moonie rivers which are still experiencing rises as floodwaters move inland.</p>
@@ -21,6 +11,4 @@ Prime Minister Julia Gillard and Premier Anna Bligh have announced that flood re
 <p>An Army Chinook is also on stand-by in Townsville should it be required by disaster managers.</p>
 <p>Black Hawk helicopters will continue to be used in Central Queensland with evacuations.</p>
 <p>A Royal Australian Air Force C-130 Hercules also delivered a 'flexible habitat', a purpose built temporary accommodation module, late last week which is now being used by the people of Emerald.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

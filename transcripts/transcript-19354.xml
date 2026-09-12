@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19354</transcript-id>
-    <title>Transcript Of Interview With Carrie Bickmore, Dave Hughes, Andrew Rochmore And Todd Sampson, The Project</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19354</transcript-id><title>Transcript Of Interview With Carrie Bickmore, Dave Hughes, Andrew Rochmore And Todd Sampson, The Project</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>HOST: In her only interview tonight, Prime Minister Julia Gillard joins us now from outside her office. A big day for you Prime Minister, were you surprised at your emotions in today's speech?</p>
 <p>PM: I was a bit. I got to a section of the speech where I was telling some stories about young people with disabilities that I have met around the country.</p>
 <p>Just thinking about them and thinking about so many Australians I've met with disability and their parents and the things that they have said to me.</p>
@@ -41,6 +31,4 @@
 <p>Having a child is going to cost you a lot more than the Baby Bonus. I can assure you of that.</p>
 <p>HOST: Alright Prime Minister, we will let you get back to it but thank you so much for making time for us tonight.</p>
 <p>PM: Thanks a lot. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

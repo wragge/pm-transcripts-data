@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22728</transcript-id>
-    <title>Progress Meeting on Better Schools Plan</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>03/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Minister for Education<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22728</transcript-id><title>Progress Meeting on Better Schools Plan</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>03/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Minister for Education<br>
 Canberra</p>
 <p>The Prime Minister and the Minister for Education yesterday met with representatives from the National Catholic Education Commission (NCEC) who welcomed the progress made in negotiating a new approach to school funding.</p>
 <p>This means that the Catholic systemic schools are one step closer to guaranteed extra funding of around $3 billion over six years.</p>
@@ -26,6 +16,4 @@ Canberra</p>
 <p>The Prime Minister and the Minister for Education acknowledged the invaluable work of the NCEC in working towards this important milestone.</p>
 <p>The NCEC will now brief all State and Territory Catholic Education Commissions on the final funding arrangements for Catholic systemic schools to be transitioned from 2014.</p>
 <p>As a result, each of these Commissions are now working to develop and agree a Memorandum of Understanding with the Australian Government setting out the education reforms to be implemented over the six year transition period.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

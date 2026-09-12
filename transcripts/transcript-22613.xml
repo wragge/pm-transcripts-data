@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22613</transcript-id>
-    <title>Doorstop Interview Shangri-La Hotel, Kuala Lumpur </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/12/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22613</transcript-id><title>Doorstop Interview Shangri-La Hotel, Kuala Lumpur </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/12/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Good morning, I just want to say as I leave Kuala Lumpur that this has been a very positive and successful visit.  It's been short, but it's been quite intense and it underlines the return to normality at the highest level of the relationship between Australia and Malaysia.  It was always strong underneath, but there were some problems at the top, those problems are now well behind us and Prime Minister Abdullah and I are good and old friends, and this has been a very useful reaffirmation of the full restoration and the full return to normality of the relationship.</p>
 <p>  JOURNALIST:</p>
 <p> Is the Iraq relationship, with the differences over Iraq, going to be any kind of problem down the track do you think?</p>
@@ -28,6 +18,4 @@
 <p>PRIME MINISTER:</p>
 <p>  I have no comment to make on the leadership of the Labor Party. I am getting on with the business of government. Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

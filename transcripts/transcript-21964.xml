@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21964</transcript-id>
-    <title>Prime Minister Honours Scientists and Science Teachers  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/10/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I have great pleasure in congratulating Professor David Boger on receiving the 2005 Prime Minster's Prize for Science.  It was my honour to present Professor Boger, from the University of Melbourne, with a gold medal and a cheque for $300,000 at a ceremony at Parliament House in Canberra this evening.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21964</transcript-id><title>Prime Minister Honours Scientists and Science Teachers  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/10/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I have great pleasure in congratulating Professor David Boger on receiving the 2005 Prime Minster's Prize for Science.  It was my honour to present Professor Boger, from the University of Melbourne, with a gold medal and a cheque for $300,000 at a ceremony at Parliament House in Canberra this evening.</p>
 <p> The food, agriculture, and microtechnology industries have all benefited from Professor Boger's research on predicting the behaviour of fluids under different circumstances.</p>
 <p>  While water flows consistently and reliably it becomes unpredictable when particles are added. Tomato sauce, toothpaste and mining slurries are examples of fluids behaving as both solids and liquids and can cause a range of problems - from getting the sauce out of the bottle, to blocking production lines or oil pipes.  By inventing a way of predicting how these fluids behave, Professor Boger has saved industry millions of dollars and his work has the potential to save it millions more.</p>
 <p>His ideas also have the potential to dramatically improve the environmental performance of the minerals industry.  The Australian minerals industry is presently working with Professor Boger on an important new project to eliminate tailings dams, and instead, convert liquid waste into dry waste and useful products.</p>
@@ -19,6 +9,4 @@
 <p> The $50,000 Prime Minister's Prize for Excellence in Science Teaching in Primary Schools was awarded to Perth teacher, Mr Mark Merritt. His leadership in science teaching, both in the classroom and as a mentor for fellow teachers across Western Australia, is to be applauded and admired.</p>
 <p> Adelaide teacher Mr Mike Roach was awarded the $50,000 Prime Minister's Prize for Excellence in Science Teaching in Secondary Schools. His innovation in science teaching through his development of the use of space science in the classroom, and his work on curriculum development, have added a refreshing dimension to the practical elements of secondary school science teaching.</p>
 <p>I congratulate all the recipients of this year's Prizes. The awards demonstrate the commitment and achievement of our talented scientists and recognise the important work that many of our dedicated teachers are doing in inspiring the next generation of Australian scientists and innovators.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11029</transcript-id>
-    <title>Radio Interview With Jeremy Cordeaux 5DN </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Unemployment figures, GST, inflation, State health systems &amp; funding, private health insurance, November 6 referendum, preamble, cultural heritage grants, business tax arrangements.</subjects>
-    <content><![CDATA[<p>13 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11029</transcript-id><title>Radio Interview With Jeremy Cordeaux 5DN </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects><![CDATA[Unemployment figures, GST, inflation, State health systems &amp; funding, private health insurance, November 6 referendum, preamble, cultural heritage grants, business tax arrangements.]]></subjects><content><![CDATA[<p>13 August 1999</p>
 <p>CORDEAUX:</p>
 <p>Prime Minister, good to see you.</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -32,7 +22,7 @@
 <p>Well I’m aware of that report, but I don’t agree with it and it’s not our advice and it’s also contradicted by other independent economic analysis, one of which from a very respectable source, in fact thought we were over estimating the impact of the GST on inflation. You’ve got to remember that sure there’s a GST being introduced, but there are a lot of other taxes like the wholesale sales tax that are being removed and there’s a counter balancing – there’ll be some price affect, and we’ve never disclosed (sic) that but nothing like what that report says – not according to our information no.</p>
 <p><b>CORDEAUX:</b></p>
 <p>Well before we get onto the Republic and the Referendum, I don’t know if you’ve seen the front page of the Advertiser, they talk about …</p>
-<p><b> PRIME MINISTER:</b></p>
+<p><b>&nbsp;PRIME MINISTER:</b></p>
 <p>I have.</p>
 <p><b>CORDEAUX:</b></p>
 <p>…fifty thousand more casualties, the Queen Elizabeth Hospital’s got to cut outpatient treatments. One doctor has said to me that basically we need two to three hundred thousand, or two to three hundred million to get South Australia’s hospitals and health service back together. I understand what you said to me last time which is that you don’t want to be, you don’t want to treat it like a football being bounced back from the State Government and the Federal Government.</p>
@@ -143,6 +133,4 @@
 <p><b>CORDEAUX:</b></p>
 <p>Good to see you. The Prime Minister of Australia. We shall return right after this.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

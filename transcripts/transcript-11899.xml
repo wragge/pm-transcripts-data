@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11899</transcript-id>
-    <title>Interview with Andrew Carroll, Radio 4QR </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Budget; petrol; John Moore; Ryan by-election; aged care; Tough on Drugs; Bob Tucker</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11899</transcript-id><title>Interview with Andrew Carroll, Radio 4QR </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Budget; petrol; John Moore; Ryan by-election; aged care; Tough on Drugs; Bob Tucker</p>
 <p>E&amp;OE................................ </p>
 <p>CARROLL:</p>
 <p>Good morning, Prime Minister.</p>
@@ -256,7 +246,7 @@
 <p>CARROLL:</p>
 <p>You're not convinced that it's not working.</p>
 <p>PRIME MINISTER:</p>
-<p>No, I'm not. No, I am not. In fact, there's evidence accumulating we have had an impact on the markets with a number of seizures. They have gone up over the last couple of years. There are signs, particularly in New South Wales, that the deaths from heroin have declined. Now, it's early days and I'm not claiming that that's just due to what we've done. I congratulate the State police all around Australia on the work that they have done as well and State governments of all persuasions that are co-operating on this issue. But the alternative to the approach we're adopting seems to me to be the idea that you can never persuade people out of starting experimentation with heroin so you try it and see if you can control it. I think that is a surrender and it's something I wouldn't agree with.<br />
+<p>No, I'm not. No, I am not. In fact, there's evidence accumulating we have had an impact on the markets with a number of seizures. They have gone up over the last couple of years. There are signs, particularly in New South Wales, that the deaths from heroin have declined. Now, it's early days and I'm not claiming that that's just due to what we've done. I congratulate the State police all around Australia on the work that they have done as well and State governments of all persuasions that are co-operating on this issue. But the alternative to the approach we're adopting seems to me to be the idea that you can never persuade people out of starting experimentation with heroin so you try it and see if you can control it. I think that is a surrender and it's something I wouldn't agree with.<br>
 CARROLL:</p>
 <p>All right, we've spoken to Wendell on numerous occasions and he's one of the key doctors in this area so obviously it's an issue.</p>
 <p>PRIME MINISTER:</p>
@@ -274,6 +264,4 @@ CARROLL:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

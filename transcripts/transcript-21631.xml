@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21631</transcript-id>
-    <title>Interview with Ryuichiro Nakamura NHK - Japan Broadcasting Corporation </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/02/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>NAKAMURA:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21631</transcript-id><title>Interview with Ryuichiro Nakamura NHK - Japan Broadcasting Corporation </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/02/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>NAKAMURA:</p>
 <p>Well Mr Koizumi highly values your decision.  You have said it could be an unpopular decision.  Why did you decide to send your troops to Iraq for the Japanese contingent?</p>
 <p>PRIME MINISTER:</p>
 <p>For a number of reasons.  We believe the great turn out in the successful Iraqi election on the 30th of January has given the country a renewed hope of a democratic future and we want to contribute to that.  We also pay a very high regard to the relationship with Japan, providing a secure environment for the Japanese force to operate is a very important consideration. Japan is a close friend and a wonderful regional partner and the relationship between Japan and Australia is very important to my Government and the Australian people.  And the final reason is training.  Everybody is now saying that a greater emphasise on training is important because if we are ever to see the withdrawal of foreign forces from Iraq that can only happen if the Iraqis are properly trained to provide for their own security.</p>
@@ -76,6 +66,4 @@
 <p> NAKAMURA:</p>
 <p>Thank you very much.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

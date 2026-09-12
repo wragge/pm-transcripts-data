@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21476</transcript-id>
-    <title>Doorstop Interview, Adelaide  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21476</transcript-id><title>Doorstop Interview, Adelaide  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, did the Americans ask for an explanation as to what Alexander Downer meant that Australia wouldn't necessarily come to the U.S aid?</p>
 <p>PRIME MINISTER:</p>
 <p>Certainly not.  The Americans have made no contact with us. This is all completely hypothetical.  We are a very close ally of the United States and a faithful ANZUS partner.  We also of course have a very important and close relationship with China and we make no apology for that, we support the One China policy. Our aim is to keep good relations with both and our aim and our policy is to make sure that tension between America and China and Taiwan is kept as low as possible and in fact relations between America and China now are better than they have been for some time.  So we are in the business of keeping both of those friendships in excellent condition.</p>
@@ -67,6 +57,4 @@
 <p>I never talk about internal polling. It's a contradiction in terms to talk about private polling.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

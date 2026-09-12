@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18231</transcript-id>
-    <title>New Australian support for polio eradication</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18231</transcript-id><title>New Australian support for polio eradication</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced new funding to help eradicate polio - a debilitating disease that continues to strike the world's most vulnerable people, especially children.</p>
 <p>Australia will provide $50 million over four years to the Global Polio Eradication Initiative (GPEI) to help purchase vaccines, monitor outbreaks, and respond when and where needed.</p>
 <p>The Prime Minister said Australia's support will help take the final steps to achieve worldwide polio eradication.</p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard today announced new funding to help eradicate polio
 <p>The work of the Gates Foundation and Rotary International has been vital, including the personal contribution of many Australians to this cause such as Sir Clem Renouf, who in the 1970s, as Rotary President led the international campaign to vaccinate every child against polio.</p>
 <p>The Global Polio Eradication Initiative is a public-private partnership led by national governments in partnership with the World Health Organisation, Rotary International, the US Centers for Disease Control and Prevention, and the United Nations Children's Fund, with support from the Bill and Melinda Gates Foundation.</p>
 <p>Australia's contribution to polio eradication is part of our broader commitment to saving the lives of children and women in developing countries and our $1.6 billion commitment to maternal and child health over the five years to 2015. Increasing routine immunisation around the world has helped reduce the number of child deaths from 12.4 million in 1990 to 7.6 million in 2010. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

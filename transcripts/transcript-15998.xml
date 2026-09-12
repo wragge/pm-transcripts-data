@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15998</transcript-id>
-    <title>Interview with David Koch on the Sunrise Program, Seven Network, Sydney   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/07/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH: To a breakthrough on something we have been talking about for months. Australia's organ donation rate is woefully low. Even though we have one of the highest donor registration rates in the world, following through is terrible. Just 198 people actually donated their organs last year. That was down from 202 the year before.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15998</transcript-id><title>Interview with David Koch on the Sunrise Program, Seven Network, Sydney   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/07/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH: To a breakthrough on something we have been talking about for months. Australia's organ donation rate is woefully low. Even though we have one of the highest donor registration rates in the world, following through is terrible. Just 198 people actually donated their organs last year. That was down from 202 the year before.</p>
 <p>But now the Federal Government will spend close to $150 million setting up a national organ donation program. It's a hobby horse of the Prime Minister, Kevin Rudd, he joins this morning to take us through it.</p>
 <p>Good Morning to you.</p>
 <p>PM: Good Morning Kochie</p>
@@ -36,6 +26,4 @@
 <p>KOCH: To make sure it's implemented well.</p>
 <p>Thanks for joining us.</p>
 <p>PM: Good to be here.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

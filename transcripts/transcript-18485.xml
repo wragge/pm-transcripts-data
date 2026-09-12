@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18485</transcript-id>
-    <title>Western Sydney Football gets a boost for the future</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18485</transcript-id><title>Western Sydney Football gets a boost for the future</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Football in Western Sydney will receive an $8 million funding boost to help grow the game in partnership with a new A-League football team for Western Sydney.</p>
 <p>Football has the highest participation rates of all sports in western Sydney, with more than 137,000 players involved in the game.</p>
 <p>The Gillard Government will provide $5 million to help develop local players and teams from the grassroots to the elite level as well as funding local football infrastructure and community engagement programs.</p>
@@ -20,6 +10,4 @@ Football in Western Sydney will receive an $8 million funding boost to help grow
 <p>These programs will encourage community involvement in soccer and facilitate player development pathways from community sport to the elite level.</p>
 <p>The Gillard Government is committed to helping develop sport in Western Sydney, including involved more than 150 schools across the region in the Active After Schools Communities Program to get them more involved in sport and physical activity and join up with a local sporting club.</p>
 <p>Football Federation Australia will make further statements about the new A-League football team for Western Sydney, and we hope to see this new team ready to compete next year. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16651</transcript-id>
-    <title>Blasting begins on $110 million Tiger Brennan Extension    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Work on the $110 million Tiger Brennan Drive Extension entered a new phase today with about 120,000 cubic metres of land “blasted” at Berrimah Farm in Darwin to make way for the new 7.5km four-lane dual highway extension.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16651</transcript-id><title>Blasting begins on $110 million Tiger Brennan Extension    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Work on the $110 million Tiger Brennan Drive Extension entered a new phase today with about 120,000 cubic metres of land “blasted” at Berrimah Farm in Darwin to make way for the new 7.5km four-lane dual highway extension.</p>
 <p>This is one of the single largest projects in Darwin, supporting up to 200 jobs and building the vital road infrastructure for the future.</p>
 <p>The project will reduce travel delays and improve safety for about 34,000 vehicles per day and transform the corridor between the rural area, Palmerston and Darwin.</p>
 <p>The project is progressing well with much of the land corridor having already been cleared and the culvert construction underway as part of the early works.</p>
@@ -17,6 +7,4 @@
 <p>Road sealing as part of Stage Two is set to begin towards the end of this year with work on the much anticipated overpasses set to begin in next month.</p>
 <p>The project is scheduled for completion in 2010.</p>
 <p>The Australian Government has committed $74 million to this vital project with the Northern Territory Government contributing $36 million.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

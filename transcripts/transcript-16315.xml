@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16315</transcript-id>
-    <title>Sunshine State Switches to Solar    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia's newest solar farm is now delivering clean emissions-free energy to an outback Queensland town.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16315</transcript-id><title>Sunshine State Switches to Solar    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia's newest solar farm is now delivering clean emissions-free energy to an outback Queensland town.</p>
 <p>Prime Minister Kevin Rudd and Queensland Premier Anna Bligh inspected progress at the $4.5 million solar power farm at Windorah, in the state's remote south-west, today.</p>
 <p>Windorah is the first of many Queensland towns to go solar with clean energy powered by the sun.</p>
 <p>The solar farm uses five 14-metre diameter solar dishes to capture sunlight to help power local homes and businesses.</p>
@@ -25,6 +15,4 @@
 <p>More significantly this will reduce the town's carbon footprint by an estimated 300 tonnes of greenhouse gas per year.</p>
 <p>Engineers will continue testing the system until February next year, when the solar power station is officially commissioned.</p>
 <p>Federal funding support for major projects under the Renewable Remote Power Generation Program totals more than $50 million and has stimulated a total investment of more than $107 million in renewable generation projects around Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

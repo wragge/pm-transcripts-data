@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11332</transcript-id>
-    <title>TRANSCRIPT OF CEREMONY TO MARK THE INVESTITURE BY       PRIME MINISTER THE HON JOHN HOWARD MP          OF MR NELSON MANDELA AS AN HONORARY COMPANION OF THE ORDER OF AUSTRALIA,           PRETORIA, SOUTH AFRICA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/11/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11332</transcript-id><title>TRANSCRIPT OF CEREMONY TO MARK THE INVESTITURE BY       PRIME MINISTER THE HON JOHN HOWARD MP          OF MR NELSON MANDELA AS AN HONORARY COMPANION OF THE ORDER OF AUSTRALIA,           PRETORIA, SOUTH AFRICA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/11/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................</p>
 <p>  PRIME MINISTER:</p>
 <p>  On behalf of the Governor General of the Commonwealth of Australia, I am</p>
 <p>   pleased to bestow upon Mr Nelson Mandela an Honour in the Companionship</p>
@@ -183,6 +173,4 @@
 <p>  May I respond, by asking you to raise your glasses to a really great man,</p>
 <p>   John Howard, the Prime Minister of Australia.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

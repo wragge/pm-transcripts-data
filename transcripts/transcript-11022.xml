@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11022</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          PRESS CONFERENCE          THE ROYAL HOTEL - DURBAN, SOUTH AFRICA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/11/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11022</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          PRESS CONFERENCE          THE ROYAL HOTEL - DURBAN, SOUTH AFRICA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/11/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................</p>
 <p>  Ladies and Gentlemen, let me say just a couple of things about the conference.</p>
 <p>  This is the first Commonwealth Heads of Government Conference ever to be</p>
 <p>   held in South Africa. I understand I am in fact the first Australian Prime</p>
@@ -374,6 +364,4 @@
 <p>  Well, they have a brooch and a jacket. You get both at APEC because there</p>
 <p>   are fewer nations I think. See you later.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10730</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP DOORSTOP INTERVIEW PARLIAMENT HOUSE, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/01/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Good morning. Well ladies and gentlemen, the ALP Conference has</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10730</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP DOORSTOP INTERVIEW PARLIAMENT HOUSE, CANBERRA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/01/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Good morning. Well ladies and gentlemen, the ALP Conference has</p>
 <p>   done nothing to address the huge policy vacuum that is now represented</p>
 <p>   by the Labor Party. Rather than be a serious political conference</p>
 <p>   it has become something like an episode from a soap opera. It is</p>
@@ -213,6 +203,4 @@
 <p>   no matter what end of the income scale it occ</p>
 <p>  no matter what end of the income scale it occurs.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

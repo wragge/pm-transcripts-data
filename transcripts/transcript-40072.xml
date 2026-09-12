@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40072</transcript-id>
-    <title>Doorstop - Paris Terrorist Attacks</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/11/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>JOURNALIST:</strong></p>
-<p>Prime Minister can I ask in the wake of the Paris attacks, do you believe there is a stronger case for stronger military action against ISIL and what are your hopes for a political solution now in Syria?<br />
- <strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40072</transcript-id><title>Doorstop - Paris Terrorist Attacks</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/11/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>JOURNALIST:</strong></p>
+<p>Prime Minister can I ask in the wake of the Paris attacks, do you believe there is a stronger case for stronger military action against ISIL and what are your hopes for a political solution now in Syria?<br>
+&nbsp;<strong>PRIME MINISTER:</strong></p>
 <p>The defeat of Daesh or ISIL in the field has always been of primary importance, their attractiveness, their recruiting ability has depended in large part on their claim to military success, so defeating them is very important that’s why we are there, Australia is there assisting, supporting, partaking in, participating in the work against Daesh, campaign against Daesh.</p>
 <p>Ultimately there will need to be of course a political solution in Syria so the reports I’ve just been, just been made aware of, the discussions in Vienna appear to be promising so there will need to be a political solution.</p>
 <p>Now that is acknowledged by all of the, all the powers involved, all of the participants. Once that can be achieved, once there is a greater unity of purpose it will be easier, or not easier, it will be less challenging to defeat Daesh.</p>
@@ -44,6 +34,4 @@
 <p>Strong economic growth is absolutely critical. So we have to work here in Antalya to ensure that we cooperate to deliver strong security, physical security, as well as strong economic security in the years ahead. So both national security if you like and economic security are going to be focuses of this G20 conference.</p>
 <p>Thank you very much.</p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

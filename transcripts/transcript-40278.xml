@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40278</transcript-id>
-    <title>Prime Minister to visit China</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Malcolm Turnbull will make his first official visit China from 14 to 15 April.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40278</transcript-id><title>Prime Minister to visit China</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Malcolm Turnbull will make his first official visit China from 14 to 15 April.</p>
 <p>In Shanghai on 14 April the Prime Minister will attend the culmination of Australia Week in China (AWIC) with more than a thousand business representatives. This will be the largest Australian business delegation to leave Australia’s shores.</p>
 <p>The Prime Minister will then travel to Beijing for an official meeting with President Xi Jinping and the annual leaders’ meeting with Premier Li Keqiang. Leaders will discuss the Australia-China relationship along with regional and global issues, under the Comprehensive Strategic Partnership established in November, 2014.</p>
 <p>Last year Australia’s trade with China was valued at $150 billion.</p>
@@ -18,7 +8,5 @@
 <p>China’s economic progress over the last forty years has been unprecedented in both its scale and pace. Australian exporters have been a partner with China in that extraordinary economic transformation.</p>
 <p>The ChAFTA has opened up even more opportunities for trade and engagement between our two countries. As China continues its transition towards a more consumer-led and services-based economy, more and more Australian businesses are finding new markets and new opportunities in China.</p>
 <p>The Prime Minister will explore ways to deepen Australia’s engagement with China especially in the areas of innovation, science and technology.</p>
-<p>China’s, and our region’s, economic transformation offers extraordinary opportunities for both our countries and the Prime Minister looks forward to expanding them in the course of his visit. </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>China’s, and our region’s, economic transformation offers extraordinary opportunities for both our countries and the Prime Minister looks forward to expanding them in the course of his visit.&nbsp;</p>
+]]></content></item></response>

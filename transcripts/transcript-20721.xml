@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20721</transcript-id>
-    <title>Interview with Catherine McGrath AM Programme, ABC  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MCGRATH:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20721</transcript-id><title>Interview with Catherine McGrath AM Programme, ABC  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MCGRATH:</p>
 <p>Prime Minister, good morning. You heard from Linda there speculation about an early election. What do you say?</p>
 <p>PRIME MINISTER:</p>
 <p>It's misplaced. There's no reason why this Government shouldn't run its full term. Governments that go to the polls early without a good public policy justification are normally censured by the electorate and deservedly so. Now, no Prime Minister categorically rules out having an election earlier than the normal time. But anybody who thinks that this budget is laying the basis for an early double dissolution is wrong.</p>
@@ -74,6 +64,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

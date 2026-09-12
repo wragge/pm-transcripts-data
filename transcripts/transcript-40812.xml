@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40812</transcript-id>
-    <title>Radio interview with Leon Byner, FiveAA Adelaide</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Energy security; decision by the Fair Work Commission on penalty rates;</subjects>
-    <content><![CDATA[<p><strong>LEON BYNER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40812</transcript-id><title>Radio interview with Leon Byner, FiveAA Adelaide</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Energy security; decision by the Fair Work Commission on penalty rates;</subjects><content><![CDATA[<p><strong>LEON BYNER:</strong></p>
 <p>Prime Minister, thanks for joining us today.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Great to be with you.</p>
@@ -73,8 +63,6 @@
 <p>Prime Minister, thank you for the opportunity of talking with you and talking to South Australia.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much Leon.</p>
-<p><strong>[ENDS]</strong><br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><strong>[ENDS]</strong><br>
+&nbsp;</p>
+]]></content></item></response>

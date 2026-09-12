@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12238</transcript-id>
-    <title>Coalition Rewards Active Seniors</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/10/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I announce today that the Coalition will commit $20 million to initiatives to enhance the community participation and activity of Australia’s seniors.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12238</transcript-id><title>Coalition Rewards Active Seniors</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/10/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I announce today that the Coalition will commit $20 million to initiatives to enhance the community participation and activity of Australia’s seniors.</p>
 <p>The Coalition will provide greater access to public transport for seniors, remove corporate governance barriers and fund a productive ageing initiative.</p>
 <p>The Coalition’s ability to deliver strong economic growth has ensured social benefits can be provided to reward pensioners, self-funded retirees and seniors in the paid workforce.</p>
 <p>The Coalition will provide $19 million over four years to fund reciprocal transport concessions to enable state government Seniors Card holders to travel at concessional rates in any state or territory.</p>
@@ -17,27 +7,35 @@
 <p>The Coalition will also amend the Corporations Law to remove the upper age restriction for directors of public companies under Section 201C of the Corporations Law. The current restrictions are an unwarranted discrimination against older Australians.</p>
 <p>We will also provide a $1 million contribution over four years towards the establishment of a Productive Ageing Centre at the University of the Sunshine Coast.</p>
 <p>Productive ageing allows seniors to participate actively so that they continue to make a contribution while, at the same time, enhancing their own health and well-being.</p>
-<table border="1" cellpadding="1" cellspacing="1" style="width:800px;"><tbody><tr><td>Impact on the Forward Estimates<br />(Cash estimate) </td>
-<td>2002-03<br />$m</td>
-<td>2003-04<br />$m  </td>
-<td>2004-05<br />$m  </td>
-<td>2005-06<br />$m  </td>
+<table border="1" cellpadding="1" cellspacing="1" style="width:800px;">
+<tbody>
+<tr>
+<td>Impact on the Forward Estimates<br>(Cash estimate)&nbsp;</td>
+<td>2002-03<br>$m</td>
+<td>2003-04<br>$m &nbsp;</td>
+<td>2004-05<br>$m &nbsp;</td>
+<td>2005-06<br>$m &nbsp;</td>
 <td>
-<p> Total<br />$m  </p>
+<p>&nbsp;Total<br>$m &nbsp;</p>
 </td>
-</tr><tr><td>Establishment of Productive Ageing Centre </td>
+</tr>
+<tr>
+<td>Establishment of Productive Ageing Centre&nbsp;</td>
 <td>0.25</td>
 <td>0.25</td>
 <td>0.25</td>
 <td>0.25</td>
 <td>1.0</td>
-</tr><tr><td>Total</td>
+</tr>
+<tr>
+<td>Total</td>
 <td>0.25</td>
 <td>0.25</td>
 <td>0.25</td>
 <td>0.25</td>
 <td>1.0</td>
-</tr></tbody></table><p>29 October 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+</tr>
+</tbody>
+</table>
+<p>29 October 2001</p>
+]]></content></item></response>

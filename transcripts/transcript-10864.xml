@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10864</transcript-id>
-    <title>JOINT STATEMENT            between            THE HONOURABLE JOHN HOWARD MP, PRIME MINISTER            and            THE HONOURABLE ROB BORBIDGE MLA, PREMIER          AUSTRALIAN HEALTH CARE AGREEMENT</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/06/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth and Queensland Governments today reached agreement</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10864</transcript-id><title>JOINT STATEMENT            between            THE HONOURABLE JOHN HOWARD MP, PRIME MINISTER            and            THE HONOURABLE ROB BORBIDGE MLA, PREMIER          AUSTRALIAN HEALTH CARE AGREEMENT</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/06/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth and Queensland Governments today reached agreement</p>
 <p> in principle on the five year Australian Health Care Agreement to</p>
 <p> commence on 1 July 1998.</p>
 <p>This agreement is worth almost $5.5 billion to Queensland over</p>
@@ -77,6 +67,4 @@
 <p>Dr Wooldridge and Mr Horan will hold further discussions to resolve</p>
 <p> detailed issues and settle the wording of the Australian Health Care</p>
 <p> Agreement to be signed by our governments.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

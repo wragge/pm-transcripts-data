@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11087</transcript-id>
-    <title>Doorstop Interview, Parliament House, Tasmania </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>20 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11087</transcript-id><title>Doorstop Interview, Parliament House, Tasmania </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>20 August 1999</p>
 <p>E&amp;OE…………………………………………………………………………………</p>
 <p><b>JOURNALIST:</b></p>
 <p>Prime Minister, Treasurer Egan has…</p>
@@ -87,7 +77,5 @@
 <p>Was it put together after the original deal with the Democrats on the…</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Well, the broad outlines of it were agreed with Senator Lees during our discussions and then we undertook to negotiate further detail. And the announcement is the result of all of that and I think I might terminate the press conference now. It’s getting a bit chilly. Thank you very much.</p>
-<p>[ends]<span lang="EN-GB" xml:lang="EN-GB"> </span></p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>[ends]<span lang="EN-GB">&nbsp;</span></p>
+]]></content></item></response>

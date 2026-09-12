@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22857</transcript-id>
-    <title>Interview with Stan Zemanek, Radio 2GB</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: GST and tax reform; Centenary of Federation London Trip</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22857</transcript-id><title>Interview with Stan Zemanek, Radio 2GB</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: GST and tax reform; Centenary of Federation London Trip</p>
 <p>E&amp;OE………………………………………………………………………………………</p>
 <p>ZEMANEK:</p>
 <p>On the telephone now, actually on the landline from his office we have the Prime Minister of Australia, Mr John Howard.  Good morning.</p>
@@ -137,6 +127,4 @@
 <p>ZEMANEK:</p>
 <p>And thank you for giving us so much time this morning. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

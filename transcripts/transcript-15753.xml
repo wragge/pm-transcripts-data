@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15753</transcript-id>
-    <title>Joint Media Release with Minister for Indigenous Affairs, Stolen Generations invited to Parliament for the National Apology  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>More than 100 members of the Stolen Generations have been invited to travel to Canberra as special guests of the Government when Parliament meets next week to offer a national apology.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15753</transcript-id><title>Joint Media Release with Minister for Indigenous Affairs, Stolen Generations invited to Parliament for the National Apology  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>More than 100 members of the Stolen Generations have been invited to travel to Canberra as special guests of the Government when Parliament meets next week to offer a national apology.</p>
 <p>First generation survivors are among those who have been invited.</p>
 <p>The Government has asked the leaders of the Stolen Generations Alliance and the National Sorry Day Committee to nominate Indigenous people who would best represent their fellow survivors.</p>
 <p>Based on this advice and with support from the State and Territory governments, we have offered to fund the travelling costs of these representatives of the Stolen Generations travelling to Canberra for this historic day.</p>
@@ -24,6 +14,4 @@
 <p>The Australian Government wants to encourage as many people as possible to participate in the spirit of the day. It's an important day for all Australians   Indigenous and non-Indigenous   and the Government wants everyone to have the chance to be part of it.</p>
 <p>Big screens will be placed on the lawns in front of Parliament House where hundreds of people are expected to gather to watch the apology and then join in a celebration including Indigenous performers and a community barbecue.</p>
 <p>CANBERRA</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

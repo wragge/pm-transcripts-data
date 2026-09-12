@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18981</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Hobart</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18981</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Hobart</p>
 <p>PM: Thank you. Thank you very much to the Premier. It is good to be here with representatives of the Federal Labor team.</p>
 <p>I've come to Tasmania today for one purpose and that's to say to the people of Tasmania that the nation is standing with them at this very, very difficult time. We'll be standing with them in every way.</p>
 <p>Indeed, I've already met today Victorians and people from New South Wales who have come to work in support of their friends in Tasmania as Tasmania continues to fight these fires and then moves into the recovery phase from this fire crisis.</p>
@@ -132,6 +122,4 @@
 <p>PREMIER GIDDINGS: No. We're not at any stage of that or any need for that at the moment, but even as we're going through both police and the fire service are inquiring as to what is happening on the ground.</p>
 <p>As you've heard just now, we already know where we believe the Forcett fire began so that level of inquiry is already happening to that extent and we will work through these issues. We'd better move. </p>
 <p>PM: We'd better move.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

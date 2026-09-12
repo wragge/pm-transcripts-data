@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17885</transcript-id>
-    <title>Australian emergency personnel thanked for their efforts in New Zealand and Japan</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17885</transcript-id><title>Australian emergency personnel thanked for their efforts in New Zealand and Japan</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard tonight hosted a reception at Parliament House to thank the Australian rescuers, medical experts, police and Australian Defence Force personnel involved in the emergency responses to the Christchurch earthquake and the Japanese earthquake and tsunami.</p>
 <p>Attorney-General Robert McClelland and Minister for Foreign Affairs Kevin Rudd joined the Prime Minster at the reception, which was attended by around 80 representatives of emergency services agencies from around Australia.  </p>
 <p>More than 800 Australian personnel were deployed to New Zealand and Japan following the devastating natural disasters in these countries.</p>
@@ -21,6 +11,4 @@ Prime Minister Julia Gillard tonight hosted a reception at Parliament House to t
 <p>The Government acknowledges the important role of all state and territory governments in assisting with these emergency efforts.</p>
 <p>On behalf of all Australians, the Government thanks these emergency responders and support staff for their selfless contributions to these rescue missions.</p>
 <p>The Government also recognises the work behind the scenes of the Australian Defence Force, Emergency Management Australia and the Department of Foreign Affairs in coordinating the emergency missions to New Zealand and Japan. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40838</transcript-id>
-    <title>Press Statement – Terrorist attack in London</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>23/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40838</transcript-id><title>Press Statement – Terrorist attack in London</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>23/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Australia's heartfelt sympathy and resolute solidarity is with the people of the United Kingdom with whom we stand today as we always have in freedoms cause. Staunch allies in the war against terrorism.</p>
 <p>The attack on the British Parliament is an attack on parliaments, freedom and democracy everywhere.</p>
 <p>Westminster is rightly known as the mother of parliaments.</p>
@@ -48,6 +38,4 @@
 <p>The intelligence and security relationship between Australia and the United Kingdom is extremely close. It is utterly intimate in terms of the way we work together, the way we share intelligence. Our agencies have been in touch with their counterparts in London overnight and will continue to work very closely together.</p>
 <p>Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

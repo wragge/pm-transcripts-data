@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10720</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                AND THE TREASURER, THE HON PETER COSTELLO MP                JOINT PRESS CONFERENCE                PRIME MINISTER&amp;#146;S COURTYARD, PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/03/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10720</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                AND THE TREASURER, THE HON PETER COSTELLO MP                JOINT PRESS CONFERENCE                PRIME MINISTER&amp;#146;S COURTYARD, PARLIAMENT HOUSE]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/03/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................</p>
 <p>Well, this morning the Premiers and Chief Ministers walked out of</p>
 <p> the Premiers' Conference when I made it clear, on behalf of the</p>
 <p> Federal Government, that the very generous increase of 15 per cent,</p>
@@ -274,6 +264,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks a lot.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

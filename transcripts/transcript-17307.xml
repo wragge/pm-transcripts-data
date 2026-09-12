@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17307</transcript-id>
-    <title>Prime Minister Speech launching the DonateLife advertising campaign Canberra Hospital 22 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/05/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17307</transcript-id><title>Prime Minister Speech launching the DonateLife advertising campaign Canberra Hospital 22 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/05/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
 <p>It's great to be here with you today as we take the next step at the launch of the national advertising campaign "DonateLife, Discuss it today. OK".</p>
 <p>This is something that I am passionate about.</p>
 <p>As a donor recipient myself, I am absolutely committed to increasing the rate of organ and tissue donation in Australia. As is everyone in this room.</p>
@@ -88,6 +78,4 @@
 <p>It is by doing this that we will help save the lives of many Australians who are waiting for a new chance at life.</p>
 <p>From tomorrow night, Australians across the nation will begin to see this television advertisement.</p>
 <p>And I hope it will encourage all Australians to begin talking about organ and tissue donation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

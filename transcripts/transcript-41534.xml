@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41534</transcript-id>
-    <title>Radio interview with Rebekah Lowe, ABC Broken Hill</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/03/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Royal Flying Doctor Service; Regional health; Water management; Indigenous incarceration rates</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41534</transcript-id><title>Radio interview with Rebekah Lowe, ABC Broken Hill</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/03/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Royal Flying Doctor Service; Regional health; Water management; Indigenous incarceration rates</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, it’s great to be with you. I was just talking to Sarah, one of your producers, who said that last time I was there, I fixed one of your cameras!</p>
 <p>[Laughter]</p>
 <p>I’m not sure I can give a technical overhaul of the station this time.</p>
@@ -45,7 +35,7 @@
 <p>Are you fully aware of how many of these graziers and residents are suffering at the moment, without water?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>I am very familiar with the consequences of drought. I mean, I’m not trying to make a case for my own situation, but just so you know, Lucy and I have cattle and sheep properties in the upper Hunter. We have some of our cattle on the road with a drover, they’re in the long paddock. We’ve had a shocking drought up there and we have been hand feeding for a very long time.</p>
-<p>So drought is very tough and I understand. I’ve been to parts of the country and the Darling, further north than Broken Hill, up closer to Queensland, where a lot of that grazing country has suffered from the reduction in what I call the smaller flood flows. It’s important, what people often overlook,  is that Australia is a flat country. Our rivers are designed to flood, they’re designed to spread out, and as you extract more water for irrigation, that obviously has a cost on the environment. That’s why getting the balance right is so important. That’s why – you may remember I was the Water Minister in 2007 when John Howard announced the National Plan for Water Security - we took a leading federal role in resetting the balance between irrigation and the environment. I think we’ve got the balance right. We are continuing to do that, to get the balance right between irrigation and the environment and managing water flows through the system.</p>
+<p>So drought is very tough and I understand. I’ve been to parts of the country and the Darling, further north than Broken Hill, up closer to Queensland, where a lot of that grazing country has suffered from the reduction in what I call the smaller flood flows. It’s important, what people often overlook,&nbsp; is that Australia is a flat country. Our rivers are designed to flood, they’re designed to spread out, and as you extract more water for irrigation, that obviously has a cost on the environment. That’s why getting the balance right is so important. That’s why – you may remember I was the Water Minister in 2007 when John Howard announced the National Plan for Water Security - we took a leading federal role in resetting the balance between irrigation and the environment. I think we’ve got the balance right. We are continuing to do that, to get the balance right between irrigation and the environment and managing water flows through the system.</p>
 <p><strong>REBEKAH LOWE: </strong></p>
 <p>It is hard though, for people who are living on the land now, knowing that there’s these allegations being made about water theft. Knowing that there’s constant inquiries but nothing is happening. Yes, drought does exist, but there’s also that management side of things. It’s hard for people to hear words when there’s, they feel like there’s no action, isn’t it?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -80,6 +70,4 @@
 <p><strong>REBEKAH LOWE: </strong></p>
 <p>Alright we’ll see you in Broken Hill.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

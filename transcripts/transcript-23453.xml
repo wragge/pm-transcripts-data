@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23453</transcript-id>
-    <title>Address to The Sydney Institute</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>29/04/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It was about the middle of last year when Gerard Henderson first asked me if I’d address this 25th anniversary dinner.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23453</transcript-id><title>Address to The Sydney Institute</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>29/04/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It was about the middle of last year when Gerard Henderson first asked me if I’d address this 25th anniversary dinner.</p>
 <p>My response was along the lines that you might not want me if the election goes the wrong way.</p>
 <p>It’s to Gerard’s and The Sydney Institute’s credit that he was prepared to take a punt on an Opposition Leader who was no sure thing but Gerard has always been prepared to “have a go”.</p>
 <p>It’s made him one of our very foremost public intellectuals and, with Anne Henderson, he’s made this Institute a force for good in the life of our country.</p>
@@ -92,6 +82,4 @@
 <p>For too long, governments talked about being economically responsible but squibbed the big challenges. </p>
 <p>I don’t expect the government to be more popular the day after the budget but I do hope that we might have earned people’s respect for saying what we mean and doing what we say.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

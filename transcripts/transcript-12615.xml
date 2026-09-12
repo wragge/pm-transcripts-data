@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12615</transcript-id>
-    <title>Doorstop Interview with the President of Nigeria</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/09/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Prime Minister&#039;s visit to Nigeria; Zimbabwe.</subjects>
-    <content><![CDATA[<p>E&amp;OE...........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12615</transcript-id><title>Doorstop Interview with the President of Nigeria</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/09/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects><![CDATA[Prime Minister&#039;s visit to Nigeria; Zimbabwe.]]></subjects><content><![CDATA[<p>E&amp;OE...........</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Prime Minister, can you tell us are you disappointed that President Mugabe is not meant to be turning up?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -43,6 +33,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>No I don';t think you could say he';s been snubbed.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

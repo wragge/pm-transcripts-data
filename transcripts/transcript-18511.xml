@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18511</transcript-id>
-    <title>Passing of Murray Rose</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18511</transcript-id><title>Passing of Murray Rose</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia has lost one of our greatest Olympians today with the passing of Murray Rose, following his courageous battle with cancer.</p>
 <p>Murray was a true pioneer of Australian swimming and his impressive feats in the pool helped to shape Australia's destiny as a successful sporting nation. </p>
 <p>At his Olympic debut at the Melbourne Games in 1956, Murray emerged as a national hero winning three gold medals. His success on the Olympic stage helped forge Australia's reputation as a country with dynamic sporting talent and great potential. </p>
@@ -19,6 +9,4 @@ Australia has lost one of our greatest Olympians today with the passing of Murra
 <p>There is no disputing that the Olympian was a champion in the pool, but Murray also made an immense contribution to the community through charity work and as patron of the 'The Rainbow Club' which teaches children with a disability to swim. </p>
 <p>As an Olympic legend Murray inspired Australians with his gallant feats in the pool. He was a great athlete, a great role model and a great champion. But above all he was a lovely husband and father who will be missed by his wife, Jodie, and his son Trevor. </p>
 <p>The thoughts of the nation are with them as they grieve his passing.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

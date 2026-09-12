@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16228</transcript-id>
-    <title>Joint Media Release with Minister for  Innovation, Industry, Science and Research,  Kim Carr  A New Car Plan for a Greener Future  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today announced a $6.2 billion plan to make the automotive industry more economically and environmentally sustainable by 2020.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16228</transcript-id><title>Joint Media Release with Minister for  Innovation, Industry, Science and Research,  Kim Carr  A New Car Plan for a Greener Future  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today announced a $6.2 billion plan to make the automotive industry more economically and environmentally sustainable by 2020.</p>
 <p>The Green Car Plan will feature an expanded $1.3 billion Green Car Innovation Fund which will provide Australian car companies with the opportunity to receive Government funding to design and sell environmentally friendly cars.</p>
 <p>The Innovation Fund will see the Australian Government match industry investment in green cars on a $1 dollar to $3 dollar basis over a ten year period from 2009.</p>
 <p>This is another chapter in the Rudd Government's green investment strategy to transform Australia's economy into a low-carbon emission, internationally-competitive economy of the future.</p>
@@ -39,6 +29,4 @@
 <p>A New Car Plan for a Greener Future provides the investment certainty the industry needs as it adjusts to significant new challenges.</p>
 <p>The plan demonstrates the government's commitment to modern manufacturing and to providing high-skill, high-wage jobs for Australians.</p>
 <p>For more information on A New Car Plan for a Greener Future, including the full government response to the Review of Australia's Automotive Industry, visit <a href="http://www.innovation.gov.au/automotivereview">www.innovation.gov.au/automotivereview</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

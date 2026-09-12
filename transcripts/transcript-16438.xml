@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16438</transcript-id>
-    <title>Meeting with President Obama    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that I will visit the United States to meet President Obama on 24 March.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16438</transcript-id><title>Meeting with President Obama    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that I will visit the United States to meet President Obama on 24 March.</p>
 <p>I will be discussing with him a coordinated international response to the global economic crisis and how we can work together in Afghanistan.</p>
 <p>We will also discuss how we can have even closer cooperation between our two countries on the great shared challenges of climate change, nuclear disarmament and non-proliferation, and the future shape of the Asia-Pacific region.</p>
 <p>Our alliance with the United States is the bedrock of our foreign and security policy. A strong relationship with the United States is critical for Australia's future.</p>
 <p>I look forward to using my meetings in Washington to build on the strong ties that already exist between our nations.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11490</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW, FAIRBAIRN AIRPORT                     Subject: Labor&amp;#146;s tax position.</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/02/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11490</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW, FAIRBAIRN AIRPORT                     Subject: Labor&amp;#146;s tax position.]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/02/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................................................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Beazley says his tax policy is all aimed at alleviating the tax burden</p>
 <p> on Australian families.</p>
@@ -37,6 +27,4 @@
 <p>PRIME MINISTER:</p>
 <p>See you later.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

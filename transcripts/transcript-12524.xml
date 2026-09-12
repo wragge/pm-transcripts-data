@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12524</transcript-id>
-    <title>TV Interview with John Gatfield, Sky News</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Bali tragedy</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12524</transcript-id><title>TV Interview with John Gatfield, Sky News</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bali tragedy</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><strong>GATFIELD:</strong></p>
 <p>This afternoon the Prime Minister updated Parliament on the crisis and now he joins us from our Canberra studio. Prime Minister thank you for your time. Well you and the Foreign Minister, Alexander Downer, have both said that Australia’s priority now is to find those responsible for the bombing and bring them to justice. Realistically what chance do you think there is of that?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -67,6 +57,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

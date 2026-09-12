@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23797</transcript-id>
-    <title>Address to Indian Chambers of Commerce Lunch, New Delhi, India </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/09/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is a real pleasure and an honour to be here today and I want to thank everyone for being here in such numbers and with such enthusiasm to support the relationship between Australia and India.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23797</transcript-id><title>Address to Indian Chambers of Commerce Lunch, New Delhi, India </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/09/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is a real pleasure and an honour to be here today and I want to thank everyone for being here in such numbers and with such enthusiasm to support the relationship between Australia and India.</p>
 <p>I particularly thank Minister Sitharaman for her presence and for her words, I thank Mr Kapoor for his words and I hear, I hear, more importantly I am sure that some of the people sitting at these tables here as well.</p>
 <p>Lindsay, Sam, Anthony, Peter more investment please – that is the message that is coming.</p>
 <p>But it is a real honour to be here as Australia’s Prime Minister.</p>
@@ -28,13 +18,15 @@
 <p>The election of new governments opens new possibilities for both our countries.</p>
 <p>Australia is “open for business” – Prime Minister Modi is inviting the world to, “come, make in India”.</p>
 <p>In Australia, over the past year:</p>
-<ul><li>the carbon tax has been scrapped;</li>
+<ul>
+<li>the carbon tax has been scrapped;</li>
 <li>the mining tax is gone;</li>
 <li>one-stop shop approvals for environmental permits are coming into place;</li>
 <li>$800 billion worth of big new projects have received the environmental go ahead;</li>
 <li>free trade agreements are being concluded; and</li>
 <li>the Budget is coming back under control.</li>
-</ul><p>India, for its part, has, so to speak, a new CEO, determined to bring to the whole country the problem-solving approach he brought to revitalising an important state.</p>
+</ul>
+<p>India, for its part, has, so to speak, a new CEO, determined to bring to the whole country the problem-solving approach he brought to revitalising an important state.</p>
 <p>As countries that believe in private sector-led growth, both Australia and India will be in a position to lead-by-example at the coming Brisbane G20 leaders’ summit, in committing to policies for an extra 2 per cent growth over the next five years.</p>
 <p>Both Prime Minister Modi and I wish to be known as “infrastructure prime ministers” and the G20, fittingly, will focus on mobilising private capital to address the world’s infrastructure deficit.</p>
 <p>Both India and Australia want to boost two way trade and investment and I hope that the comprehensive economic partnership – or free trade – negotiations between our two countries will be concluded, at the latest, by the end of 2016.</p>
@@ -90,6 +82,4 @@
 <p>So, my friends, thank you so much for being here. I really do appreciate the presence of so many leaders in both our countries.</p>
 <p>There is a future. It is bright and golden and it is there for us to grasp.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20840</transcript-id>
-    <title>Doorstop Interview, Weipa  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20840</transcript-id><title>Doorstop Interview, Weipa  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Prime Minister, what';s your reaction to the bombing in Jakarta?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, I';m quite horrified at what appears to be a brutal terrorist attack. At this stage the death toll is cited to be around 10.  It could be worse.  It is a very popular hotel which is frequented by westerners including many Australians.  At this stage I';ve not been told that there are any Australian casualties although that can';t be completely ruled out until further checks are made.  If, as appears likely, it is another terrorist attack, it is yet another reminder that the fight against Jemaah Islamiyah and other groups goes on, and it will be a fight that will take years and it will require the cooperation of all of the agencies.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>No, nothing beyond the ongoing consciousness and ongoing suggestion that a further terrorist attack is always possible.  But we have certainly have had nothing to specifically suggest this kind of attack was going to occur.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21240</transcript-id>
-    <title>Interview with John Miller and Ross Davie Radio 4BC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21240</transcript-id><title>Interview with John Miller and Ross Davie Radio 4BC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Joining us live in the studio this morning the Prime Minister of Australia, Mr John Howard.  Prime Minister, good morning Sir and welcome.</p>
 <p>PRIME MINISTER:</p>
 <p>How are you John, Ross.</p>
@@ -168,6 +158,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

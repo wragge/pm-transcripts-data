@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17844</transcript-id>
-    <title>Jon Stanhope</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17844</transcript-id><title>Jon Stanhope</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I congratulate Jon Stanhope on his achievements as Chief Minister of the ACT and leader of the ACT ALP. Jon retires as the longest-serving and most successful leader of the ACT Labor Party.</p>
 <p>Jon came to lead the ACT ALP following defeat in the 1998 ACT election and steered his party to Government in the subsequent 2001 election. </p>
 <p>In 2004 he secured the only majority Government in the Territory's history and in 2008 won a historic third term for Labor.</p>
@@ -17,6 +7,4 @@ I congratulate Jon Stanhope on his achievements as Chief Minister of the ACT and
 <p>For a decade in the Council of Australian Governments, Jon's has been a wise voice and I, along with many leaders of larger jurisdictions, have been grateful for the benefit of his experience and judgement.</p>
 <p>It's fitting that my last public event with Jon as Chief Minister was to plant a tree cut from the Tree of Knowledge from Barcaldine in Canberra. Jon has been a trusted steward of Labor's vision and values and a fine servant of the city he loves. </p>
 <p>Jon's commitment to community service began years before he entered elective politics and I know it will remain for years to come. I am sure Jon and Robyn are looking forward to the next phase of their life very much and I wish them well. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

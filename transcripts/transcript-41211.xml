@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41211</transcript-id>
-    <title>Television interview on The Project, Network Ten</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>28/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>NRL half time entertainment; Same-sex marriage; Football finals; Hugh Hefner</subjects>
-    <content><![CDATA[<p><strong>GORGI COGHLAN: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41211</transcript-id><title>Television interview on The Project, Network Ten</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>28/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>NRL half time entertainment; Same-sex marriage; Football finals; Hugh Hefner</subjects><content><![CDATA[<p><strong>GORGI COGHLAN: </strong></p>
 <p>Please welcome, our ‘yes’ voting Prime Minister, Malcolm Turnbull. So, Prime Minister?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>George Brandis - a rapper. That’s fantastic. That is just so good.</p>
@@ -151,7 +141,7 @@
 <p>We don't have much time.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>So let’s get back to that.</p>
-<p><strong>RYAN FITZGERALD:  </strong></p>
+<p><strong>RYAN FITZGERALD:&nbsp; </strong></p>
 <p>We have got two grand finals on the weekend, we need to get your tips Prime Minister?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>I'm tipping Richmond and the Cowboys in the NRL.</p>
@@ -200,6 +190,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>It was great to see you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

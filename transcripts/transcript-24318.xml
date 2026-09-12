@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24318</transcript-id>
-    <title>Defence Force Service Chief Appointments</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>26/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Governor-General has approved the appointments of the next Chief of the Army and Chief of the Air Force.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24318</transcript-id><title>Defence Force Service Chief Appointments</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>26/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Governor-General has approved the appointments of the next Chief of the Army and Chief of the Air Force.</p>
 <p>Lieutenant General Angus Campbell DSC, AM will be appointed Chief of the Army on 16 May 2015 and Air Vice-Marshal Gavin Davies AO, CSC – on promotion to Air Marshal – will be appointed Chief of the Air Force on 4 July 2015.</p>
 <p>Lieutenant General Campbell and Air Marshal Davies will each bring a wealth of experience to their respective roles.</p>
 <p>Lieutenant General Campbell has served as the Commander of the Joint Agency Task Force for the highly successful <em>Operation Sovereign Borders</em>, overseen operations in the Middle East as Commander Joint Task Force 633 and commanded on operations in Timor-Leste.</p>
@@ -19,6 +9,4 @@
 <p>Lieutenant General David Morrison will complete his tenure on 15 May 2015 after having served with distinction and demonstrating outstanding leadership as the Chief of the Army, notably as an advocate for cultural change and gender equality in the Australian Defence Force.</p>
 <p>Air Marshal Geoff Brown will complete his tenure on 3 July 2015 having also demonstrated exceptional leadership throughout his military career, particularly in his role as the Chief of the Air Force during a period of significant capability growth within the Air Force and heightened operational commitments, including currently against the ISIL, or Daesh, death cult in Iraq.</p>
 <p>26 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

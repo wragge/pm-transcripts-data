@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40254</transcript-id>
-    <title>Interview with Michael Brissenden, ABC AM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/03/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>MICHAEL BRISSENDEN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40254</transcript-id><title>Interview with Michael Brissenden, ABC AM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/03/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>MICHAEL BRISSENDEN:</strong></p>
 <p>I’m joined live in our Sydney studio by the Prime Minister Malcolm Turnbull. Prime Minister, welcome to the program.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Yeah good morning.</p>
@@ -48,7 +38,7 @@
 <p><strong>MICHAEL BRISSENDEN:</strong></p>
 <p>Who supported it anyway, didn't he?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>He did. Look, Bob is listened to by the other crossbenchers. I’ve discussed this matter with them many times and I no doubt will do so again but you see, we thought, we hoped that after the Heydon Royal Commission's findings came down and they were so, so compelling, so clear that this type of legislation was required and recommended, we hoped that that would persuade the crossbenchers to support these bills but regrettably, they seem to be even less supportive of the bills this year than they were last year.</p>
+<p>He did. Look, Bob is listened to by the other crossbenchers. I’ve discussed this matter with them many times and I no doubt will do so again but you see, we thought, we hoped that after the Heydon Royal Commission's findings came down and they were so, so compelling, so clear that this type of legislation was required and recommended, we hoped that that would persuade the crossbenchers to support these bills but regrettably, they seem to be even&nbsp;less supportive of the bills this year than they were last year.</p>
 <p><strong>MICHAEL BRISSENDEN:</strong></p>
 <p>OK, let's assume as everybody does we’re heading to a double dissolution election on July the 2nd.</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -123,6 +113,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks so much, Michael.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

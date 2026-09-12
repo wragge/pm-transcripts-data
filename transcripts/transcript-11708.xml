@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11708</transcript-id>
-    <title>Television Interview with Kerry O&#039;Brien, 7:30 Report</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: East Timor; UN; fuel prices.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11708</transcript-id><title><![CDATA[Television Interview with Kerry O&#039;Brien, 7:30 Report]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: East Timor; UN; fuel prices.</p>
 <p>E&amp;OE................................ </p>
 <p>O'BRIEN:</p>
 <p>On the issue of East Timor and its anniversary first Prime Minister, East Timorese Nationalist Leaders have voted to ask the UN to keep a peacekeeping force on the West Timor border for years to come and Jose Ramos Horta has expressed the strong hope that Australia would contribute to such a force, would it disturb you to keep Australian troops in that situation for an indefinite period?</p>
@@ -95,6 +85,4 @@
 <p>PRIME MINISTER:</p>
 <p>Pleasure.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

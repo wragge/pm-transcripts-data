@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11246</transcript-id>
-    <title>FEDERAL GOVERNMENT BUILDS ON COMMITMENT TO CANCER RESEARCH</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/03/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce Commonwealth funding of $3 million for</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11246</transcript-id><title>FEDERAL GOVERNMENT BUILDS ON COMMITMENT TO CANCER RESEARCH</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/03/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce Commonwealth funding of $3 million for</p>
 <p> the Integrated Cancer Programme to support cancer research and bolster</p>
 <p> the fight against this devastating disease.</p>
 <p>Cancer touches the lives of every Australian family. By the age of</p>
@@ -45,6 +35,4 @@
 <p>My Government will continue its focus on health issues that potentially</p>
 <p> affect everyone, paying particular attention to diseases like cancer</p>
 <p> that have such a major impact on sufferers and their families.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

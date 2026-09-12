@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20937</transcript-id>
-    <title>Doorstop Interview Australia Zoo, Queensland </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/10/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20937</transcript-id><title>Doorstop Interview Australia Zoo, Queensland </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/10/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Prime Minister, can you tell us about bracket creep, what are you going to do for the average Australian out there?</p>
 <p>PRIME MINISTER:</p>
 <p>We'll continue to deliver an economy that has low interest rates and low inflation and where we can we'll cut tax.</p>
@@ -62,6 +52,4 @@
 <p>PRIME MINISTER:</p>
 <p>Look, different people have different views and the job of a government leader is to assess what is the right balance and I can assure the Australian people we'll continue to support health and education spending but we'll also continue to try and cut tax where we can.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

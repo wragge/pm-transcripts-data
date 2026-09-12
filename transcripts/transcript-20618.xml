@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20618</transcript-id>
-    <title>Interview With Heather Ewart 7.30 Report, ABC TV  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>EWART:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20618</transcript-id><title>Interview With Heather Ewart 7.30 Report, ABC TV  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>EWART:</p>
 <p>Prime Minister, thanks for joining us.</p>
 <p>PRIME MINISTER:</p>
 <p>Pleasure.</p>
@@ -54,6 +44,4 @@
 <p>PRIME MINISTER:</p>
 <p>You're welcome.</p>
 <p>  [Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

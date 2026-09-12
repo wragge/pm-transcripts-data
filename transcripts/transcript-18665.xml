@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18665</transcript-id>
-    <title>Transcript of interview ith Kyle and Jackie O, 2DayFM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18665</transcript-id><title>Transcript of interview ith Kyle and Jackie O, 2DayFM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOSTS: Good morning Prime Minister, do you get sick of hearing that? They do play it a lot. You know, over and over.</p>
 <p>PM: They do play that a lot that's true. But I've had the opportunity because they play it a lot to talk about that and to say I meant every word when I said those words that I've always wanted our nation to have a clean energy future and to end up with an emissions trading scheme and putting a price on carbon and now it's started and people have got the opportunity to judge for themselves. </p>
 <p>You won't have to listen to the pollies any more. They can make their own judgements.</p>
@@ -67,6 +57,4 @@ HOSTS: Good morning Prime Minister, do you get sick of hearing that? They do pla
 <p>HOST: Thanks for calling in Prime Minister.</p>
 <p>PM: Thank you.</p>
 <p>HOST: Your welcome, nice to chat. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

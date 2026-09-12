@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11830</transcript-id>
-    <title>Radio Interview with Alan Jones, 4BC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Ryan by-election; economy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11830</transcript-id><title>Radio Interview with Alan Jones, 4BC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Ryan by-election; economy.</p>
 <p>E&amp;OE................................ </p>
 <p>JONES:</p>
 <p>Prime Minister good afternoon.</p>
@@ -45,7 +35,7 @@
 <p>It's easier to write a dramatic story about the level of the dollar.</p>
 <p>JONES:</p>
 <p>But there must be some national consequence of alarming the public and worrying and frightening people.</p>
-<p>PRIME MINISTER:<br />
+<p>PRIME MINISTER:<br>
 It is not helpful to the national interest when you read headlines such as the Sydney Morning Herald last week - "Australia hits the wall" in bold type. I mean Australia has not hit the wall. How can you say Australia's hit the wall when you have a very strong government debt position, we have low interest rates, we have low inflation, and we are still watching job growth when our unemployment rate is a couple of percent below what it was when we came to office.</p>
 <p>JONES:</p>
 <p>Well I had a young bloke sitting opposite me here, a panel operator, for whom housing affordability is the best it's ever been in the time that he's been wanting to buy a home.</p>
@@ -80,6 +70,4 @@ It is not helpful to the national interest when you read headlines such as the S
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

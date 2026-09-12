@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40509</transcript-id>
-    <title>Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/10/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40509</transcript-id><title>Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/10/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>On behalf of the Australian Government and the Australian people, we convey our condolences to the Thai Royal Family and the people of Thailand, on the death of the King Bhumibol, who has reigned in Thailand for 70 years, during which time his country has grown from a population of 20 million to over 67 million, and during which time there has been extraordinary economic and social progress.</p>
 <p>As you know, the King is deeply revered by the people of Thailand, respected around the world and his passing is a matter of enormous sorrow for the people of Thailand. We share their grief and we extend, as I said, our condolences to the people of Thailand and the royal family.</p>
 <p>We should note also that in our wonderful multicultural society, there are around 50,000 Australians of Thai heritage and they too will be mourning the passing of the King.</p>
@@ -43,6 +33,4 @@
 <p>A good message to senators everywhere.</p>
 <p>Thank you.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22258</transcript-id>
-    <title>Interview with Louise Saunders ABC, Tasmania </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SAUNDERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22258</transcript-id><title>Interview with Louise Saunders ABC, Tasmania </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SAUNDERS:</p>
 <p>In our Canberra studio, and he will be in Tasmania later today for the commemorative service, is the Prime Minister John Howard.  Mr Howard, good morning and thank you for joining us.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning.</p>
@@ -71,6 +61,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

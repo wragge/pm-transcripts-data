@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16629</transcript-id>
-    <title>Interview with Lyndal Curtis - ABC AM    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS: Mr Rudd, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16629</transcript-id><title>Interview with Lyndal Curtis - ABC AM    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS: Mr Rudd, welcome to AM.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>CURTIS: At a meeting in February Godwin Grech held with Ford Credit to discuss giving that company half a billion dollars of Government help to continue its business, was the name of any car dealer other than John Grant's raised?</p>
 <p>PM: I'm unfamiliar with those discussions. I am sure those things will come out in the course of the Auditor-General's enquiry, which we've established.</p>
@@ -58,6 +48,4 @@
 <p>Mr Turnbull is digging himself into more and more trouble. He has one option today: stand in the Parliament - that's why we're here in Canberra - produce this email as a basis for his authentication. If he fails to do so, he has no alternative but to apologise and to resign.</p>
 <p>CURTIS: Mr Rudd, thank you very much for your time.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22324</transcript-id>
-    <title>Joint Press Conference with HE Mr Lee Hsien Loong Prime Minister of Singapore Parliament House, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/06/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER HOWARD:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22324</transcript-id><title>Joint Press Conference with HE Mr Lee Hsien Loong Prime Minister of Singapore Parliament House, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/06/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER HOWARD:</p>
 <p> Ladies and gentlemen it is with great pleasure that I welcome Lee Hsien Loong, the Prime Minister of Singapore. This is his first visit to Australia as Prime Minister but not of course his first visit to this country.</p>
 <p>Australia and Singapore could not be closer. We're not only near neighbours, but we have a common strategic view of the world in our part of the region and the globe. There's very close security and defence cooperation. We both share the view that a continued United States' presence and involvement in the region is important for its stability and in our interests.</p>
 <p>We have concluded, three years ago, a very successful Free Trade Agreement. We have a common view about the need to have open trading policies and we'll be arguing together for a successful outcome in the Doha Round. And overall it's a relationship which is in very good shape. And for that and many other reasons I am delighted to welcome the Prime Minister to Canberra and invite him to say a few words of introduction and then we'll take a couple of questions from each of the press groups and then go back inside.</p>
@@ -43,6 +33,4 @@
 <p>PRIME MINSITER LEE:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

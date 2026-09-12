@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11479</transcript-id>
-    <title>Press Conference, Hyatt Hotel, Seoul, Republic of Korea                 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/05/2000</release-date>
-    <release-type>Press Conference</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Discussions with President Kim Dae-jung; Fiji</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11479</transcript-id><title>Press Conference, Hyatt Hotel, Seoul, Republic of Korea                 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/05/2000</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Discussions with President Kim Dae-jung; Fiji</p>
 <p>E &amp; OE.............................</p>
 <p>Ladies and Gentlemen</p>
 <p>I have just had a very fruitful discussion over more than an hour and a half with the President and members of his government.</p>
@@ -52,6 +42,4 @@
 <p>PRIME MINISTER:</p>
 <p>The answer to the first part of the question is no. The answer to the second part of the question is, I think, very unlikely. It would not be something that I would initiate.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41617</transcript-id>
-    <title>Radio interview with Ben Fordham, 2GB</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/05/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Citizenship, Federal Budget, immigration and national security legislation</subjects>
-    <content><![CDATA[<p><strong>BEN FORDHAM:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41617</transcript-id><title>Radio interview with Ben Fordham, 2GB</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/05/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Citizenship, Federal Budget, immigration and national security legislation</subjects><content><![CDATA[<p><strong>BEN FORDHAM:</strong></p>
 <p>Prime Minister Malcolm Turnbull joins us live on the line, Prime Minister good afternoon.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good afternoon Ben. Great to be with you.</p>
@@ -47,7 +37,7 @@
 <p><strong>BEN FORDHAM:</strong></p>
 <p>I know it's set in stone though because you're quite definitive in the way that you just said that the election will be held in the first half of next year.</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Yes, that's right.  Look Ben.</p>
+<p>Yes, that's right.&nbsp; Look Ben.</p>
 <p><strong>BEN FORDHAM:</strong></p>
 <p>You know what I'm saying as opposed to plans. It's good for people to have certainty Prime Minister that's all. So it's nice for people to have certainty there won't be an election this year.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -124,6 +114,4 @@
 <p><strong>BEN FORDHAM:</strong></p>
 <p>Good to talk to you.</p>
 <p><strong>[Ends] </strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

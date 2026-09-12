@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15697</transcript-id>
-    <title>Joint Media Release with the Treasurer, The Hon Wayne Swan MP Rudd Government Announces New Era of Independence For RBA   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/12/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today's release of a new Statement on the Conduct of Monetary Policy represents a new era of independence and transparency for the Reserve Bank.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15697</transcript-id><title>Joint Media Release with the Treasurer, The Hon Wayne Swan MP Rudd Government Announces New Era of Independence For RBA   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/12/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today's release of a new Statement on the Conduct of Monetary Policy represents a new era of independence and transparency for the Reserve Bank.</p>
 <p>The Statement outlines a mutual understanding on the conduct of monetary policy between the new Government, represented by the Treasurer, and the Governor as Chairman of the RBA Board.</p>
 <p>The Statement delivers on the Rudd Government's election commitment to strengthen the independence of the Reserve Bank and will enhance the transparency of the conduct of monetary policy in Australia.</p>
 <p>Strengthening the independence of the Reserve Bank is a critical element of the Government's commitment to putting downward pressure on inflation. </p>
@@ -20,6 +10,4 @@
 <p>Accordingly, the Secretary to the Treasury and the Governor of the Reserve Bank will maintain a register of eminent candidates of the highest integrity from which the Treasurer will make appointments to the Reserve Bank Board.</p>
 <p>The new Statement also incorporates the transparency measures announced by the Governor yesterday including the publication of Board minutes, and a statement of reasons for the decision following each monthly meeting irrespective of whether there is an adjustment in the cash rate.</p>
 <p>Today's announcement is an important step towards ensuring the appointment processes, debates and decision making of the RBA are as independent and transparent as possible.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

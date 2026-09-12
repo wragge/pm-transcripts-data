@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24076</transcript-id>
-    <title>Interview with Chris Uhlmann, ABC AM </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/12/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Pakistan terror attack,  Martin Place Siege.</subjects>
-    <content><![CDATA[<p><strong>CHRIS UHLMANN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24076</transcript-id><title>Interview with Chris Uhlmann, ABC AM </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/12/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Pakistan terror attack, Martin Place Siege.</subjects><content><![CDATA[<p><strong>CHRIS UHLMANN:</strong></p>
 <p>Tony Abbott, Australia lost two people yesterday in an act of terror and the nation is mourning their loss. How can you put into words what the people of Pakistan must be feeling this morning at the massacre of innocence?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well, it is simply impossible to put into words the mixture of grief and fury that must be felt by people in Pakistan and indeed around the world at this latest terror atrocity. I hope, I hope, in my deepest heart that somewhere in the hearts of people who might otherwise be attracted to this, there is a realisation that it is never, ever right to kill innocent people and that is what we have seen on a mass scale in Pakistan overnight.</p>
@@ -78,6 +68,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

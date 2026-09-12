@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16235</transcript-id>
-    <title>Centenary of the Fisher Government Old Parliament House Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/11/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16235</transcript-id><title>Centenary of the Fisher Government Old Parliament House Canberra   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/11/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>Today, one hundred years since Andrew Fisher became Prime Minister of Australia, is an excellent opportunity for us to recall an often neglect Prime Minister, who did so much to build the economic, social and defence foundations of our nation.</p>
 <p>History has perhaps allowed Fisher to be overshadowed by the larger-than-life personalities of contemporaries like Billy Hughes and Alfred Deakin.</p>
@@ -103,6 +93,4 @@
 <p>But he did fulfil this one, simple, noble, aim.</p>
 <p>And he left a rich legacy in so doing.</p>
 <p>A hundred years later, it's time we rediscovered it, and gave Fisher and his achievements the recognition they so justly deserve. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

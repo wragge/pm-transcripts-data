@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16447</transcript-id>
-    <title>Meeting with the President of the Republic of Korea    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/03/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today the President and I have agreed to two major steps which mark the start of a new phase in the Australia-Korea relationship. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16447</transcript-id><title>Meeting with the President of the Republic of Korea    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/03/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today the President and I have agreed to two major steps which mark the start of a new phase in the Australia-Korea relationship. </p>
 <p>First, we have agreed to begin negotiations towards a free trade agreement. </p>
 <p>Korea is Australia's fourth-largest export market  -  making this free trade agreement an important goal for us. </p>
 <p>Second, we have released a joint statement on security cooperation. </p>
@@ -23,6 +13,4 @@
 <p>Australia and Korea were instrumental in the formation of APEC. We plan to maintain that historical level of cooperation between our Governments. </p>
 <p>On regional challenges, I told President Lee that we support him and his Government in dealing with the challenge of North Korea. </p>
 <p>See the Joint Statement on Enhanced Global and Security Cooperation Media Release.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

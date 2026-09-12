@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18901</transcript-id>
-    <title>Remarks at the Naming of Queen Elizabeth Terrace</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/11/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18901</transcript-id><title>Remarks at the Naming of Queen Elizabeth Terrace</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/11/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Your Royal Highnesses, I bid you a special welcome to our country and our capital.</p>
 <p>To The Prince of Wales, you are a familiar visitor to these shores.</p>
 <p>In you, the people of Australia know they have a true and sympathetic friend.</p>
@@ -32,6 +22,4 @@
 <p>I thank Your Royal Highnesses for sharing this commemoration with us.</p>
 <p>And I know you will convey to Her Majesty the sentiments we share in naming this place today.</p>
 <p>No Head of State could be more worthy of this honour, and no nation could more freely or gratefully bestow it. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

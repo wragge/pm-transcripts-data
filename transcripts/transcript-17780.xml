@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17780</transcript-id>
-    <title>New home for Federal Police</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/04/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17780</transcript-id><title>New home for Federal Police</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/04/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard opened the new headquarters of the Australian Federal Police (AFP) in Canberra today, paying tribute to the contribution of officers both at home and abroad.</p>
 <p>The new AFP headquarters at the Edmund Barton Building on Kings Avenue provides police with the modern environment to continue its work as the Commonwealth's lead law enforcement agency.</p>
 <p>At the opening, the Prime Minister welcomed home many officers who have recently been deployed to flood and cyclone response efforts in Queensland, as well as assisting our friends across the Tasman in the wake of the Christchurch earthquake.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard opened the new headquarters of the Australian Feder
 <p>The AFP's new headquarters will be a focal point for law enforcement collaboration internationally and will support continued law enforcement development across the world.</p>
 <p>Criminals don't respect national borders and that means our law enforcement agencies need to work closely with their international counterparts to stay one step ahead of offenders.</p>
 <p>The latest AFP overseas post will open in Los Angeles tomorrow, following the establishment of a post in New Delhi in July last year. These new AFP bureaus add to a network of 31 international posts. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

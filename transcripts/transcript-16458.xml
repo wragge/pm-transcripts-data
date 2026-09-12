@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16458</transcript-id>
-    <title>Speech to the dinner in honour of the visit to Australia by the Prime Minister of Iraq Parliament House, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/03/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Salaam Alaykum.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16458</transcript-id><title>Speech to the dinner in honour of the visit to Australia by the Prime Minister of Iraq Parliament House, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/03/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Salaam Alaykum.</p>
 <p>Ahlan wa Sahlan si Australia.</p>
 <p>Today is a day of historic significance.</p>
 <p>Your Excellency, your visit is the first ever by a Prime Minister of your country to Australia. It is therefore a day of great celebration. It is a day which has become therefore a great symbol of all that your country has achieved in the face of great turmoil in recent years, that we can now welcome you to Australia.</p>
@@ -48,6 +38,4 @@
 <p>We now have a framework for our vital work together in the future.</p>
 <p>Prime Minister I thank you for your cooperation and please know this -personally and to members of your delegation, you are indeed welcome guests in our country, Australia.</p>
 <p>I thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

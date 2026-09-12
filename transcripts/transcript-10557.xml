@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10557</transcript-id>
-    <title> TRANSCRIPT OF THE PRIME MINISTERTHE HON JOHN HOWARD MPTELEVISION INTERVIEW WITH PAUL LYNEHAMA CURRENT AFFAIR, CHANNEL 9</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/12/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LYNEHAM:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10557</transcript-id><title> TRANSCRIPT OF THE PRIME MINISTERTHE HON JOHN HOWARD MPTELEVISION INTERVIEW WITH PAUL LYNEHAMA CURRENT AFFAIR, CHANNEL 9</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/12/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LYNEHAM:</p>
 <p>Prime Minister welcome again to the programme.</p>
 <p>PRIME MINISTER:</p>
 <p>It is a pleasure.</p>
@@ -153,6 +143,4 @@
 <p>   a vote on this issue and find out where the Australian public really</p>
 <p>   stands.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

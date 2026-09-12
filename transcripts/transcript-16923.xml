@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16923</transcript-id>
-    <title>Clean energy revolution arrives in Bungendore    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The largest wind farm in NSW - Capital Wind Farm - has been officially launched by Prime Minister Kevin Rudd, NSW Premier Nathan Rees and Minister for Climate Change, Senator Penny Wong today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16923</transcript-id><title>Clean energy revolution arrives in Bungendore    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The largest wind farm in NSW - Capital Wind Farm - has been officially launched by Prime Minister Kevin Rudd, NSW Premier Nathan Rees and Minister for Climate Change, Senator Penny Wong today.</p>
 <p>The Capital Wind Farm, owned by Infigen Energy, will boost the nation's wind power capacity by more than 10 per cent.</p>
 <p>The Farm comprises 67 wind turbines capable of supplying electricity to around 60,000 homes and is almost five times the size of any other wind farm in NSW.</p>
 <p>Around 50 wind farms are currently in operation around the nation.</p>
@@ -22,6 +12,4 @@
 <p>The project provided employment opportunities for over 120 people during the construction phase and will provide ongoing employment in the local community.</p>
 <p>The Government is supporting Australia's clean energy industries through the Renewable Energy Target, the Clean Energy Initiative and the Carbon Pollution Reduction Scheme.</p>
 <p>As business leaders have said in recent days, the passage of the CPRS through the Senate is critically important to driving investment in the industries that will lead Australia's transformation to a low carbon, clean energy future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

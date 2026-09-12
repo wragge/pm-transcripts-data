@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18542</transcript-id>
-    <title>New Defence White Paper 2013</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18542</transcript-id><title>New Defence White Paper 2013</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Defence Minister Stephen Smith today announced that the Government will start work on a new Defence White Paper, to be delivered in the first half of 2013.</p>
 <p>There have been a number of significant developments internationally and domestically since the 2009 White Paper which are influencing Australia's defence posture, future force structure and defence budget.</p>
 <p>These are most appropriately addressed through a new White Paper. </p>
@@ -55,10 +45,10 @@ Prime Minister Julia Gillard and Defence Minister Stephen Smith today announced 
 <p>The DCP Review was considered in the 2012-13 Budget process.</p>
 <p>The Australian Force Posture Review</p>
 <p>The range of strategic and security factors addressed by the Australian Force Posture Review include:</p>
-<p> * 	the rise of the Asia-Pacific as a region of global strategic significance;<br />
- * 	the rise of the Indian Ocean rim as a region of global strategic significance;<br />
- * 	the growth of military power projection capabilities of countries in the Asia Pacific;<br />
- * 	the growing need for the provision of humanitarian assistance and disaster relief following extreme events in the Asia Pacific region; and<br />
+<p> * 	the rise of the Asia-Pacific as a region of global strategic significance;<br>
+ * 	the rise of the Indian Ocean rim as a region of global strategic significance;<br>
+ * 	the growth of military power projection capabilities of countries in the Asia Pacific;<br>
+ * 	the growing need for the provision of humanitarian assistance and disaster relief following extreme events in the Asia Pacific region; and<br>
  * 	energy security and security issues associated with expanding offshore resource exploitation in our North West and Northern approaches.</p>
 <p>The Defence Budget</p>
 <p>The Government needs to ensure that Defence spending is calibrated against an up to date assessment of short and longer term priorities.</p>
@@ -68,6 +58,4 @@ Prime Minister Julia Gillard and Defence Minister Stephen Smith today announced 
 <p>The Minister for Defence has asked Dr Allan Hawke, Mr Ric Smith and Mr Paul Rizzo to form a Ministerial Advisory Group to assist in the development of the 2013 Defence White paper.</p>
 <p>Dr Hawke and Mr Smith are both former Secretaries of the Department of Defence. </p>
 <p>Mr Rizzo,a Director of a number of major Australian corporations including the National Australia Bank and Mallesons Stephen Jacques and is the Independent Chair of the Defence Audit and Risk Committee, led the development of the plan to address problems in the repair and management of the amphibious and support ship fleet. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

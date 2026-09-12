@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20774</transcript-id>
-    <title>Doorstop Interview, Roma  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/07/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20774</transcript-id><title>Doorstop Interview, Roma  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/07/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  PRIME MINISTER:</p>
 <p>Righto, you got any questions?</p>
 <p>JOURNALIST:</p>
 <p>The boat people, the refugees.  Do you think the right decision was made in turning them around to Christmas Island?</p>
@@ -56,6 +46,4 @@
 <p>PRIME MINISTER:</p>
 <p>That's a good note on which to think.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

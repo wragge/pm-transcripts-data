@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21928</transcript-id>
-    <title>Workplace Relations Reform and Apprenticeships  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/09/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today that barriers that restrict opportunities for young Australians to enter an apprenticeship will be removed.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21928</transcript-id><title>Workplace Relations Reform and Apprenticeships  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/09/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today that barriers that restrict opportunities for young Australians to enter an apprenticeship will be removed.</p>
 <p>The workplace relations reform legislation will deliver the changes to help increase the uptake of school-based and part-time apprenticeships.</p>
 <p>The barriers are generally much more serious in the state industrial relations systems than under the federal system.  Most of the state industrial relations systems provide little coverage for school-based apprenticeships, and only a small number of state awards provide for the employment of part-time apprentices.</p>
 <p>  A lack of appropriate wage provisions in awards and restrictions on the range and duration of apprenticeships are obstructing people from entering apprenticeships.</p>
@@ -21,6 +11,4 @@
 <p> Require the AFPC to establish minimum training wages for all types of apprenticeships that will operate wherever there are currently any gaps in state or federal award coverage;</p>
 <p> Remove any provision of an award that restricts the range of apprenticeships.  This would include the removal of any provision that regulates or limits the duration of New Apprenticeships; and</p>
 <p>   Include standard minimum wages for school-based traineeships and apprenticeships that will take effect immediately and be available for Australian Technical Colleges wherever awards do not already include such minima.  The minimum wages will apply until the AFPC has been established and has set minimum wages that will fill the gaps in award coverage.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

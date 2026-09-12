@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18987</transcript-id>
-    <title>Government Formally Establishes Royal Commission</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/01/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18987</transcript-id><title>Government Formally Establishes Royal Commission</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/01/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>On my advice, today the Governor-General has appointed a six-member Royal Commission into Institutional Responses to Child Sexual Abuse.</p>
 <p>Child sexual abuse is an evil crime.</p>
 <p>Anyone who has ever suffered child abuse deserves to have their voices heard and their claims investigated.</p>
@@ -37,6 +27,4 @@
 <p>The Government will also introduce legislation into the Parliament to amend the Royal Commissions Act 1902 to allow evidence to be taken by a single or multiple Commissioners rather than requiring all Commissioners to be present. This will improve the efficiency of the evidence gathering process and avoid delaying the Commission's work.</p>
 <p>We thank every individual and organisation who has provided input into the establishment of the Royal Commission and the terms of reference. We also acknowledge those who have campaigned for many years for a full and proper investigation into child sexual abuse in Australia.</p>
 <p>This Government will do everything it can to make sure that what happened to children in the past is never allowed to happen again, and that survivors receive the support and justice they deserve.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

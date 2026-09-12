@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15881</transcript-id>
-    <title>Interview with Chris Uhlmann, ABC TV News   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Well Prime Minister, hasn't this Summit just endorsed an agenda that you already have?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15881</transcript-id><title>Interview with Chris Uhlmann, ABC TV News   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Well Prime Minister, hasn't this Summit just endorsed an agenda that you already have?</p>
 <p>PM: No, there are ideas here which are not part of our existing agenda. For example, take a proposal to create a seamless national market. That is the creation of a single national regulatory framework across all markets. Whether you're talking about labour markets, product markets, or carbon markets. We haven't been as comprehensive as that in what we've put forward. The economics working group did, that's what they want to see happen.</p>
 <p>UHLMANN: But Lindsay Tanner, he's already working on regulation. It's not out of step with what you're doing.</p>
 <p>PM: No, we're working at present on 27 sets of regulation. But the overarching goal is let's create a seamless national market, whether it's in electricity, energy, whether it's working in the labour market, whether it's working in carbon markets and water markets. This is an ambition we haven't been presented with before. And that's certainly worth having a look at. It's a big agenda.</p>
@@ -35,6 +25,4 @@
 <p>PM: Well, that's a matter for others to conclude, I can't speak for them. But what I'm saying is on key fundamentals like boosting national productivity, establishing a single national market, or a seamless national economy. Moving towards practical ideas as why don't we have a community youth core, so that people can off-set some of their HECS debt. These are practical ideas that I think all sides of politics could, and should, get behind. But there'll never be complete agreement.</p>
 <p>UHLMANN: Prime Minister, thank you.</p>
 <p>PM: Pleasure.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

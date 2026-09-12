@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17095</transcript-id>
-    <title>Prime Minister Speech at the Australian Hospital Ship Centaur memorial service Brisbane 2 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/03/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17095</transcript-id><title>Prime Minister Speech at the Australian Hospital Ship Centaur memorial service Brisbane 2 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/03/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>Today we honour courage.</p>
 <p>Today we honour sacrifice.</p>
 <p>Today we honour compassion.</p>
@@ -39,6 +29,4 @@
 <p>This is a day for the nation to honour them just as we do today here in this great Cathedral, so too do others across the nation with us, to write one final chapter in the Centaur's history because in this great Australian family, Centaur is part of us now, just as we are part of Centaur.</p>
 <p>Her story is our nation's story.</p>
 <p>Lest we forget. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

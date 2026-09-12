@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15558</transcript-id>
-    <title>Doorstop Interview Hallett Cove, South Australia</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/04/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15558</transcript-id><title>Doorstop Interview Hallett Cove, South Australia</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/04/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Interest rates; workplace reform; National Plan for Water Security</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -51,6 +41,4 @@ Interest rates; workplace reform; National Plan for Water Security</p>
 <p>PRIME MINISTER:</p>
 <p>You'd have to ask him that.  All I can say is that the Treasury is a professional outfit.  We seek the Treasury's advice on things, we sometimes follow it and we sometimes don't and that is how governments should operate.  You don't want a government that is run by the bureaucracy, you want a government that listens to the bureaucracy's advice and then makes decisions that it believes are in the best interests of the country.  I've dealt with bureaucracies over a long period of time, there are a lot of very talented people in the federal bureaucracy including, in particular, in the Treasury.  They're often right, but they're not always right and I will not be leading a government that always takes the advice of the bureaucracy.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24674</transcript-id>
-    <title>Building a modern centre of innovation in Geelong</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/08/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government is investing in jobs, innovation and growth across the Geelong region to support its transition from traditional manufacturing to a centre of innovation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24674</transcript-id><title>Building a modern centre of innovation in Geelong</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/08/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government is investing in jobs, innovation and growth across the Geelong region to support its transition from traditional manufacturing to a centre of innovation.</p>
 <p>Today, the Government announces that it will base its $14 million Advanced Manufacturing Growth Centre in Geelong.</p>
 <p>The Centre will be integrated with a network of centres across the country.</p>
 <p>The Centre will develop a sector competitiveness plan to link local businesses with global companies.</p>
@@ -29,6 +19,4 @@
 <p>The Commonwealth Government is helping Geelong forge a stronger future.</p>
 <p>Our announcements today are all part of our plan to build a strong and prosperous economy for the people of Geelong and Victoria.</p>
 <p>6 August 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

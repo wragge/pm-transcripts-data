@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19113</transcript-id>
-    <title>James Strong AO 1944-2013</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19113</transcript-id><title>James Strong AO 1944-2013</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>Today our nation mourns the loss of one of its premier business and philanthropic figures, James Strong AO.</p>
 <p>Mr Strong led some of Australia's foremost companies including as CEO of Qantas, and Chairman of Woolworths and IAG, displaying remarkable vision and dynamism during a period of rapid economic change.</p>
 <p>Mr Strong's impeccable sense of dress, manners and style marked him as a true gentleman, and he was widely admired as an accomplished public speaker.</p>
@@ -20,6 +10,4 @@
 <p>He was also a member of the Anzac Centenary Advisory Board and made a significant contribution towards the planning and preparations for the 100th anniversary of the First World War.</p>
 <p>With the death of James Strong, Australia has lost one of its most gifted corporate leaders who significantly enriched the life of our nation.</p>
 <p>Our thoughts are with the Strong family on the passing of this great Australian.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

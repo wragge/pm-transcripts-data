@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10828</transcript-id>
-    <title>AUSTRALIAN SERVICE NURSES NATIONAL MEMORIAL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I wish to announce the unanimous support of the Canberra National</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10828</transcript-id><title>AUSTRALIAN SERVICE NURSES NATIONAL MEMORIAL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I wish to announce the unanimous support of the Canberra National</p>
 <p> Memorials Committee for the design of the Australian Service Nurses</p>
 <p> National Memorial, which is to be built on Anzac Parade in the National</p>
 <p> Capital.</p>
@@ -40,6 +30,4 @@
 <p>Information on donations to the National Service Nurses Memorial can</p>
 <p> be obtained by calling toll free 1800 241 170 or by writing to National</p>
 <p> Nurses Memorial Trust, Freepost 139 DEAKIN WEST ACT 2600</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

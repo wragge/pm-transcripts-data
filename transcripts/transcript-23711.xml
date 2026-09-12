@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23711</transcript-id>
-    <title>Doorstop Interview, Parliament House, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/08/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>New counter-terrorism measures for a safer Australia. </subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23711</transcript-id><title>Doorstop Interview, Parliament House, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/08/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>New counter-terrorism measures for a safer Australia.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>No one who has been following the internet footage of these Australian born and bred people who’ve gone to Syria and Iraq to engage in terrorist activities couldn’t be concerned. You’ve got people born in Australia, educated in Australia, going overseas and exaltedly holding up the severed heads of surrendering members of the Iraqi security forces, obviously, these are people who we wouldn’t want to allow back into our country unsupervised. There are up to 150 Australians who’ve gone to Syria and Iraq to engage in terrorist activities and we need these stronger powers to keep our community safe.</p>
 <p><strong>QUESTION:</strong></p>
 <p>Prime Minister, how is storing Australians’ web browsing history for purposes of general foreign fighting not a gross invasion of their privacy?</p>
@@ -20,6 +10,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well, we are not seeking content, we are seeking metadata. What you generate is content, what the service providers generate is metadata. We do think the metadata should be kept because all of the best security advice is that without this, counter-terrorism work becomes very difficult, crime fighting work becomes very difficult. But I stress, we’re not asking for new information, we’re simply asking the telecommunications providers to continue to keep information that they currently do.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17384</transcript-id>
-    <title>Funding for location based emergency warnings</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/09/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17384</transcript-id><title>Funding for location based emergency warnings</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/09/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government today announced that it will fund the upgrade of the national emergency warning system, 'Emergency Alert', to deliver warnings to mobile phones based on the location of the handset.</p>
 <p>The 'Emergency Alert' system currently sends warnings by recorded voice and text message to landlines and mobile phones based on an owner's billing address rather than the actual location of a handset at the time of a disaster or emergency.</p>
 <p>This has meant that people caught in a disaster zone, who have a billing address outside the affected area, have been unable to receive the vital and potentially lifesaving warnings.</p>
@@ -22,6 +12,4 @@ The Australian Government today announced that it will fund the upgrade of the n
 <p>The Victorian Government will now commence and lead negotiations with each of the mobile phone carriers, the outcome of which will be considered by the Council of Australian Governments (COAG).</p>
 <p>The implementation of these important technological enhancements will represent a significant step forward in our ability to prepare for and respond to significant national disasters and emergencies.</p>
 <p>Funding for this announcement will be fully offset over the forward estimates, consistent with our commitment to return the Budget to surplus in 2013, three years ahead of schedule.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

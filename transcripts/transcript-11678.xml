@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11678</transcript-id>
-    <title>Melbourne Press Club Address </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/11/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11678</transcript-id><title>Melbourne Press Club Address </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/11/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................</p>
 <p>Introduction</p>
 <p>In only a few short weeks, Australia will celebrate a century of nationhood.  A century during which only 4 generations fashioned a unique culture, created a decent, tolerant and cohesive society, built a thriving modern economy, nurtured some of the finest democratic traditions ever practised and earned gratitude and respect from nations around the world.</p>
 <p>And it was the century when our distinctive national character was formed, marked by good humour, a sense of fair play, generosity of spirit and independence.</p>
@@ -114,6 +104,4 @@
 <p>In closing, I';m once again reminded of the words of Sir Henry Parkes, that great champion of Australian federation.  Over a hundred years ago, he declared Australia ready for unity, for what he called the dazzling prize of nationhood because of 'the vigour, the industry, the enterprise, the foresight, and the creative skill of its people';.</p>
 <p>Those words are truer now than they were then and I have no doubt that Australia stands on the threshold of a century of even greater achievement than that which has gone before.</p>
 <p>   ENDS </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

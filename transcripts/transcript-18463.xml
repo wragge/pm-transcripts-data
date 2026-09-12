@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18463</transcript-id>
-    <title>Inquiry into the actions of Australian Government agencies in relation to the arrest and detention overseas of Mr Mamdouh Habib from 2001 to 2005</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18463</transcript-id><title>Inquiry into the actions of Australian Government agencies in relation to the arrest and detention overseas of Mr Mamdouh Habib from 2001 to 2005</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Government has today released the unclassified version of the report from the Inspector-General of Intelligence and Security's Inquiry into the actions of Australian Government agencies in relation to the arrest and detention overseas of Mr Mamdouh Habib from 2001 to 2005.</p>
 <p>The Inspector-General, Dr Vivienne Thom, conducted the inquiry following a request from the Prime Minister in December 2010. Dr Thom provided her report to the Prime Minister on 19 December 2011.</p>
 <p>The report indicates that no Australian official was found to be involved or complicit in any alleged mistreatment or relocation of Mr Habib while he was detained overseas. However, the report also makes clear that some whole-of-government mechanisms and processes could have worked better. </p>
@@ -21,6 +11,4 @@ The Government has today released the unclassified version of the report from th
 <p>The commissioning of this Inquiry and the release of the report underlines the Government's commitment to transparency and oversight of the activities of our national security agencies.</p>
 <p>Separately, the Government has already enhanced coordination across government to respond to any similar incidents in future through the establishment of a protocol to ensure a better coordinated response.</p>
 <p>A copy of the report, with details of all recommendations, can be found at <a href="http://www.igis.gov.au/inquiries/index.cfm">www.igis.gov.au/inquiries/index.cfm</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

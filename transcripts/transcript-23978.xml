@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23978</transcript-id>
-    <title>Address to Parliamentary Dinner for President Xi, Parliament House, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/11/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is an honour to be here in the Great Hall of the Parliament welcoming what is perhaps the most splendid and glittering gathering ever to meet in this building.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23978</transcript-id><title>Address to Parliamentary Dinner for President Xi, Parliament House, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/11/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is an honour to be here in the Great Hall of the Parliament welcoming what is perhaps the most splendid and glittering gathering ever to meet in this building.</p>
 <p>We’ve had quite a few sayings today – all of them interesting, many of them instructive – I want to remind you of another.</p>
 <p>It is said that when friends meet, a thousand cups of wine cannot contain their happiness.</p>
 <p>This is a happy night and it’s part of a historic day.</p>
@@ -40,6 +30,4 @@
 <p>Mr President, I hope that’s how you feel about this trip.</p>
 <p>Certainly, that is what it has meant to us.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

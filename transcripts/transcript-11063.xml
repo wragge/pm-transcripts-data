@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11063</transcript-id>
-    <title>Radio Interview with Terry Laidler 3LO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Tax reform, Bill Kelty’s resignation, industrial relations, health, roads of national importance, gambling, native title, Republic Referendum</subjects>
-    <content><![CDATA[<p>18 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11063</transcript-id><title>Radio Interview with Terry Laidler 3LO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Tax reform, Bill Kelty’s resignation, industrial relations, health, roads of national importance, gambling, native title, Republic Referendum</subjects><content><![CDATA[<p>18 August 1999</p>
 <p>E&amp;OE………………………………………………………………………………</p>
 <p><b>LAIDLER:</b></p>
 <p>I was thinking, in all the years you have been leader of the Opposition and Prime Minister I don’t think we have ever spoken before.</p>
@@ -147,7 +137,5 @@
 <p>Prime Minister, great to meet you.</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Thank you.</p>
-<p>[Ends]<span lang="EN-GB" xml:lang="EN-GB"> </span></p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>[Ends]<span lang="EN-GB">&nbsp;</span></p>
+]]></content></item></response>

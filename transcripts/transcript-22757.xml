@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22757</transcript-id>
-    <title>It&#039;s Lights on for Cricket and Football in Townsville</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>16/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will deliver up to $5.3 million to upgrade Townsville’s Tony Ireland Stadium to help secure the future of cricket and football in north Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22757</transcript-id><title><![CDATA[It&#039;s Lights on for Cricket and Football in Townsville]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>16/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will deliver up to $5.3 million to upgrade Townsville’s Tony Ireland Stadium to help secure the future of cricket and football in north Queensland.</p>
 <p>The Prime Minister and Minister for Regional Australia today announced the funding in Townsville as part of the Government’s economic development plan for northern Queensland.</p>
 <p>This funding will be matched by the Townsville City Council to deliver the $10.6 million project.</p>
 <p>The 10,000-seat Tony Ireland Stadium is the only professional grade AFL and cricket facility in northern Queensland but its lighting prevents the staging and televising of most national and international matches.</p>
@@ -22,6 +12,4 @@
 <p>The Government has been working with the northern Queensland Regional Development Australia (RDA) committees and stakeholders to identify priorities to support growth.</p>
 <p>The region generates approximately $60 billion in gross regional product annually from mining, agriculture, energy, education and tourism.</p>
 <p>North Queensland has an exciting future and the Rudd Government is committed to working with the community to support jobs and unlock future growth. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

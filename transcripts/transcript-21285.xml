@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21285</transcript-id>
-    <title>Interview with Jon Faine, ABC Radio Melbourne  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FAINE:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21285</transcript-id><title>Interview with Jon Faine, ABC Radio Melbourne  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FAINE:</p>
 <p>Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning.  How are you?  Can you hear me okay?</p>
@@ -204,6 +194,4 @@
 <p>FAINE:</p>
 <p>Alright, we'll have to leave it there.  Prime Minister, thank you for your time. look forward to seeing you in the Melbourne studios some time soon.  The Prime Minister of Australia taking your calls, Mr John Howard.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

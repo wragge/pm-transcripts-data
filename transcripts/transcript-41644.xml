@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41644</transcript-id>
-    <title>The Royal Wedding</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/05/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On behalf of all Australians, Lucy and I congratulate Their Royal Highnesses The Duke and Duchess of Sussex on their marriage.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41644</transcript-id><title>The Royal Wedding</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/05/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On behalf of all Australians, Lucy and I congratulate Their Royal Highnesses The Duke and Duchess of Sussex on their marriage.</p>
 <p>To mark this occasion, the Australian Government, on behalf of the people of Australia, will make a $10,000 contribution to Australian International Military Games Limited, a not-for-profit charity that will bring the Invictus Games to Australia this year.</p>
 <p>The Invictus Games showcases the courage, resilience and determination of wounded veterans, while promoting the power of sport for recovery and rehabilitation.</p>
 <p>We look forward to welcoming more than 500 competitors and 1000 family and friends from across the world to Sydney in October.</p>
 <p>I am also pleased to announce we will gift the newlywed couple Akubra hats. Hand crafted in Kempsey, the iconic Akubra has been proudly worn by generations of Australians. Lucy and I hope that Their Royal Highnesses enjoy their truly Australian gifts.</p>
 <p>Once again, congratulations on your marriage.</p>
 <p>Australia wishes you long life and happiness together.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

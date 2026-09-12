@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20650</transcript-id>
-    <title>Doorstop Interview, Kirribilli House, Sydney   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/02/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20650</transcript-id><title>Doorstop Interview, Kirribilli House, Sydney   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/02/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well ladies and gentlemen I'd like on behalf of the Australian Government to express my shock and dismay and my very deep condolences to the United States for the tragic accident of the space shuttle Colombia. I especially convey our sympathy to the families left saddened and bereaved by the loss of their loved ones. I also convey my particular condolences to the people of India and Israel whose nationals were part of the space shuttle team. Space exploration is a great universal endeavour and the United States in particular has carried it forward on behalf of all mankind. And we therefore feel particularly for those involved in the space effort in that country.</p>
 <p>We're also reminded that the shuttle was carrying an experiment designed by some Melbourne schoolchildren which carries on the very long tradition of Australian interest in and involvement in space exploration. The United States in different ways has suffered a number of adversities in recent times, I'm quite sure that the spirit of that country will ensure that despite this setback space exploration goes on undaunted.</p>
 <p>JOURNALIST:</p>
@@ -90,6 +80,4 @@
 <p>I don't normally talk about the agenda. Okay.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

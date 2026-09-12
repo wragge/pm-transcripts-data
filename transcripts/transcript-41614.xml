@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41614</transcript-id>
-    <title>Rail Upgrades to Improve Traffic Around Sydney Airport</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>07/05/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A major injection of funds by the Turnbull Government will improve Sydney’s rail network and get more trucks off the road.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41614</transcript-id><title>Rail Upgrades to Improve Traffic Around Sydney Airport</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>07/05/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A major injection of funds by the Turnbull Government will improve Sydney’s rail network and get more trucks off the road.</p>
 <p>The Government will fully fund a $400 million project to duplicate the remaining single‑track section of Sydney’s Port Botany Rail Line.</p>
 <p>The funding will also deliver a passing loop at Cabramatta, allowing trains to pass.</p>
 <p>Duplicating the Botany line will improve freight movement on Sydney’s rail network and encourage a shift in freight from road to rail – reducing traffic congestion in and around Sydney Airport and Port Botany.</p>
@@ -19,6 +9,4 @@
 <p>The project will include new rail bridges, civil works and duplicated rail tracks across the 2.9 kilometre length of the freight line between Mascot and Botany, along with the construction of a 1.4 kilometre passing loop between Cabramatta and Warwick Farm.</p>
 <p>This commitment will support the freight logistics and supply chain activities of existing intermodal terminals such as at Enfield and Chullora, as well as the new terminal under construction at Moorebank. This will ensure the region is prepared for the expected growth in containerised freight and future freight rail service needs.</p>
 <p>Through this investment, the Australian Government is delivering on its commitment to increase freight productivity, ease road congestion and streamline supply chains for businesses and consumers.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

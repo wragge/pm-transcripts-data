@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17661</transcript-id>
-    <title>A better deal for patients</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17661</transcript-id><title>A better deal for patients</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced the key aspects of the health deal the Government will aim to finalise at COAG on Sunday  -  aimed at delivering a better deal for patients.</p>
 <p>The deal will include a 50/50 funding arrangement for all public hospital funding growth, including delivering over $16 billion in hospital funding over the next decade.</p>
 <p>Rather than focusing on complex accounting arrangements, the new deal aims to give patients a better deal by delivering more money combined with changes to the way health services are delivered.</p>
 <p>Under the new deal:</p>
-<p> * 	The Federal Government will step up to permanently pay 50 per cent of the growth in hospital costs.<br />
- * 	This will be done in two stages, increasing to 45 per cent in 2014-15 and to 50 per cent in 2017-18.<br />
- * 	Once this kicks in, the States and the Commonwealth will share future funding growth in a 50/50 partnership.<br />
- * 	If an agreement is reached, the States and Territories will receive $16.4 billion in extra hospital funding to 2019-20.<br />
+<p> * 	The Federal Government will step up to permanently pay 50 per cent of the growth in hospital costs.<br>
+ * 	This will be done in two stages, increasing to 45 per cent in 2014-15 and to 50 per cent in 2017-18.<br>
+ * 	Once this kicks in, the States and the Commonwealth will share future funding growth in a 50/50 partnership.<br>
+ * 	If an agreement is reached, the States and Territories will receive $16.4 billion in extra hospital funding to 2019-20.<br>
  * 	The Commonwealth will not seek to take back any GST from the States.</p>
 <p>However, there will be no blank cheques  -  without this crucial reform to give patients a better deal, the Government will not be delivering extra funding.</p>
 <p>In return for this extra funding, the Gillard Labor Government will demand significant reform from the States and Territories, including: </p>
-<p> * 	Greater local control of hospitals.<br />
- * 	A price on hospital services  -  through activity based funding to drive efficiency and reduce waste.<br />
- * 	Strict national standards, including a four-hour target for emergency waiting times, a 95 per cent elective surgery target, and a National Access Guarantee to ensure that no Australian experiences extremely long waits for elective surgery.<br />
+<p> * 	Greater local control of hospitals.<br>
+ * 	A price on hospital services  -  through activity based funding to drive efficiency and reduce waste.<br>
+ * 	Strict national standards, including a four-hour target for emergency waiting times, a 95 per cent elective surgery target, and a National Access Guarantee to ensure that no Australian experiences extremely long waits for elective surgery.<br>
  * 	More transparency through strict reporting via the MyHospital website.</p>
 <p>As part of the changes announced today, the Commonwealth will have a renewed focus on the delivery of stronger primary health care, to get people the services they need in their local communities and keep people well and out of hospital.</p>
 <p>Clinicians are at the heart of the health system and need to be at the heart of health reform.</p>
@@ -55,8 +45,8 @@ Prime Minister Julia Gillard today announced the key aspects of the health deal 
 <p>Standards</p>
 <p>The Commonwealth Government will continue to insist on tough national standards for public hospital performance to drive shorter waiting times for both elective surgery and emergency departments.</p>
 <p>We will work with the States and Territories on safe and effective implementation to deliver:</p>
-<p> * 	The four-hour National Access Target  -  to reduce long waiting times in public hospital emergency departments, by aiming to have patients assessed, treated and discharged or admitted within 4 hours where clinically appropriate<br />
- * 	The National Access Target for elective surgery, ensuring that 95% of all patients waiting for elective surgery will be treated within clinically recommended times.<br />
+<p> * 	The four-hour National Access Target  -  to reduce long waiting times in public hospital emergency departments, by aiming to have patients assessed, treated and discharged or admitted within 4 hours where clinically appropriate<br>
+ * 	The National Access Target for elective surgery, ensuring that 95% of all patients waiting for elective surgery will be treated within clinically recommended times.<br>
  * 	The National Access Guarantee for elective surgery, which means that extremely long waits for elective surgery will become a thing of the past.</p>
 <p>Transparency</p>
 <p>The Government will also publish information about how each hospital performs so the public can choose the best care.</p>
@@ -75,6 +65,4 @@ Prime Minister Julia Gillard today announced the key aspects of the health deal 
 <p>Over time, the Commonwealth will empower Medicare Locals with more flexible funding to target services to their local community's specific needs.</p>
 <p>These are the key aspects of the deal the Prime Minister aims to finalise at COAG.</p>
 <p>Together, they represent significant national health reform that will build a genuine and lasting partnership between the Federal Government and the State and Territory Governments to deliver real benefits to patients. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19155</transcript-id>
-    <title>Address to the Irish Australian Chamber of Commerce</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/03/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19155</transcript-id><title>Address to the Irish Australian Chamber of Commerce</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/03/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>We meet today on the traditional country of the Kulin Nation and I offer my respects to their elders past and present.</p>
 <p>Up in Sydney when I've been at St Patrick's day events, the St Pat's Day lunch is hosted by a financial journalist, Michael Pascoe, who does a great job keeping the mob in line. </p>
@@ -22,7 +12,7 @@
 <p>Perhaps some of you a little bit later in the day will pop over for a pint of cappuccino following lunch.</p>
 <p>Even the river running past us now through the middle of Melbourne bears a resemblance to Anna Liffey. </p>
 <p>Iris Murdoch had one of her characters say:</p>
-<p>No man who has faced the Liffey can be<br />
+<p>No man who has faced the Liffey can be<br>
 appalled by the dirt of another river.</p>
 <p>And she didn't know the Yarra when that character uttered those words.</p>
 <p>So on such an Irish day in such an Irish town it's very fitting that I can announce a special series of measures which will be in effect in this state this weekend to celebrate St Patrick.</p>
@@ -51,6 +41,4 @@ appalled by the dirt of another river.</p>
 <p>And that, friends, is the story of the Irish in Australia.</p>
 <p>So enjoy the holy-day.</p>
 <p>Sláinte!</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

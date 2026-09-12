@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22517</transcript-id>
-    <title>Interview with Tara Brown, 60 Minutes  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/10/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BROWN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22517</transcript-id><title>Interview with Tara Brown, 60 Minutes  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/10/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BROWN:</p>
 <p>Prime Minister is North Korea our enemy?</p>
 <p>PRIME MINISTER:</p>
 <p>North Korea is a real menace to the whole world because it's a Stalinist state with which you cannot reason and it wants to be a nuclear power and that is a real worry to the region and also the whole world.</p>
@@ -70,6 +60,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

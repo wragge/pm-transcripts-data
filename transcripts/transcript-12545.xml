@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12545</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH ROB DUCKWORTH AND GREG HENRICKS    RADIO C93.1   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/12/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: terrorist threat; Max Moore Wilton; soccer World Cup; Prime Minister's visit; Ansett employees.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12545</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH ROB DUCKWORTH AND GREG HENRICKS    RADIO C93.1   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/12/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: terrorist threat; Max Moore Wilton; soccer World Cup; Prime Minister's visit; Ansett employees.</p>
 <p>E&amp;OE...........  </p>
 <p>JOURNALIST:</p>
 <p>Our very special guest on the telephone line this morning the Prime Minister of Australia, Mr John Howard.  Mr Howard, good morning.</p>
@@ -90,6 +80,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.  Bye bye.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

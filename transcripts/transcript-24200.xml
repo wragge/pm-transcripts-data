@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24200</transcript-id>
-    <title>A message from the Prime Minister </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/02/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Earlier this week, the hostages of the Lindt café, as well as the families of Tori Johnson and Katrina Dawson were welcomed to this Parliament.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24200</transcript-id><title>A message from the Prime Minister </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/02/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Earlier this week, the hostages of the Lindt café, as well as the families of Tori Johnson and Katrina Dawson were welcomed to this Parliament.</p>
 <p>We acknowledged the atrocity that took place in Sydney’s CBD and we pledged to keep our country as safe and as secure as we humanly can.</p>
 <p>Both the Commonwealth and State Governments are currently considering the joint review into the Martin Place siege and we will shortly release the report publicly, along with our response.</p>
 <p>We are both determined to learn the lessons of this attack and will promptly take any necessary remedial action.</p>
@@ -23,6 +13,4 @@
 <p>We are currently considering additional legislation on data retention that’s before the Parliament – and this will make it easier to keep you safe and we want to get this legislation passed as quickly as we can.</p>
 <p>I give you this assurance: As a country, we won’t let evil people exploit our freedom.</p>
 <p>15 February 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

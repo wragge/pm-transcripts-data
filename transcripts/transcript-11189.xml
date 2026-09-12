@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11189</transcript-id>
-    <title>Press Conference, Treasury Place, Melbourne, Victoria </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>East Timor ballot; Victorian Election</subjects>
-    <content><![CDATA[<p>5 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11189</transcript-id><title>Press Conference, Treasury Place, Melbourne, Victoria </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>East Timor ballot; Victorian Election</subjects><content><![CDATA[<p>5 September 1999</p>
 <p><i>Subjects: East Timor ballot; Victorian Election</i></p>
 <p>E&amp;OE…………………………………………………………………………………..</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -55,6 +45,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Look it’s appropriate for me to say two things. We will obviously contribute in a significant way. The question of the leadership of it is something for the United Nations to determine. I don’t want to say anymore than that but Australia naturally sees itself as being willing to contribute in a significant way. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

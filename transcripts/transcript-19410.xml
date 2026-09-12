@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19410</transcript-id>
-    <title>Transcript of Remarks at Australian Council of Local Governments Awards Dinner</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/06/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19410</transcript-id><title>Transcript of Remarks at Australian Council of Local Governments Awards Dinner</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/06/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>E &amp; OE</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>We're here tonight for the nation's largest gathering of mayors and shire presidents, and I've come to say welcome, welcome to Canberra on this cold June night.</p>
@@ -45,6 +35,4 @@
 <p>But before all of that hard work continues, please enjoy the night, and we'll enjoy your presence in Canberra over the next few days.</p>
 <p>Thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

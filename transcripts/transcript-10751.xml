@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10751</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH HOWARD SATTLER RADIO 6PR - PERTH, WESTERN AUSTRALIA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/01/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SATTLER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10751</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH HOWARD SATTLER RADIO 6PR - PERTH, WESTERN AUSTRALIA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/01/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SATTLER:</p>
 <p>Good morning Prime Minister how are you?</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Richard. Now I know a good project that will generate</p>
@@ -544,6 +534,4 @@
 <p>   But the day in Australia's history that still evokes the deepest</p>
 <p>   emotion is Anzac Day. Now, I know there are fewer and fewer people</p>
 <p>   who were involved in the war and I accept all of that</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

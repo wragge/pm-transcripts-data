@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16141</transcript-id>
-    <title>Australia Signs Memorandum of Understanding with Clinton Climate Initiative New York   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/09/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australian Prime Minister Kevin Rudd today signed a Memorandum of Understanding (MOU) with the Clinton Climate Initiative of the William J. Clinton Foundation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16141</transcript-id><title>Australia Signs Memorandum of Understanding with Clinton Climate Initiative New York   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/09/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australian Prime Minister Kevin Rudd today signed a Memorandum of Understanding (MOU) with the Clinton Climate Initiative of the William J. Clinton Foundation.</p>
 <p>Under the MOU Australia and the Clinton Climate Initiative will work together to help tackle climate change.</p>
 <p>The MOU will see Australia and the William J. Clinton Foundation collaborate to;</p>
 <p>     * Deploy carbon capture and storage technology to large scale projects.</p>
@@ -22,6 +12,4 @@
 <p>The Australian Government is developing a national energy efficiency strategy as one of the keys to successfully addressing climate change. </p>
 <p>The Government will draw on the experience the Clinton Climate Initiative has in working with large cities and other organizations on improving energy efficiency in the drafting of this strategy. </p>
 <p>Australia and the Clinton Climate Initiative will also explore opportunities for collaboration in the energy efficiency area across government, business and the community.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

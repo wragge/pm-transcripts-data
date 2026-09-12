@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18681</transcript-id>
-    <title>Transcript of doorstop interview, Ulverstone</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18681</transcript-id><title>Transcript of doorstop interview, Ulverstone</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here in Tasmania today. I'm with Sid Sidebottom, our Member for Braddon. It's a picture perfect Tassie day  -  typical  -  and it is fantastic to be here. We're here today specifically at Ulverstone High School.</p>
 <p>We've had the opportunity of touring around, including having a look at the science centre that is just over there, built through the Building the Education Revolution program at a cost of almost $2 million, but helping teach the kids in this school about the world we live in and the science of our planet.</p>
 <p>And we've had the opportunity to meet with student leaders, not only from this school but from a number of schools locally. They are really giving us an insight into the future  -  into the world that they will be the adults of.</p>
@@ -68,6 +58,4 @@ PM: I'm here in Tasmania today. I'm with Sid Sidebottom, our Member for Braddon.
 <p>PM: Look, I'll leave that to Sid! He's the artist in the group!</p>
 <p>Okay, thank you very much.</p>
 <p>SIDEBOTTOM: Great, thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

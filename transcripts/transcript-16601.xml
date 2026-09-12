@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16601</transcript-id>
-    <title>Press Conference - Parliament House    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Good afternoon. At 1pm today the Minister for Defence tendered me a letter of resignation. I accepted his letter of resignation. Allow me to read that letter to you. It reads as follows:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16601</transcript-id><title>Press Conference - Parliament House    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Good afternoon. At 1pm today the Minister for Defence tendered me a letter of resignation. I accepted his letter of resignation. Allow me to read that letter to you. It reads as follows:</p>
 <p>“Dear Prime Minister, you'll be aware of questioning in Senate Estimates last night regarding meetings between Humana, my brother and the Minister for Veteran's Affairs and the Minister for Defence Science and Personnel. Having read the transcript of proceedings I decided to thoroughly examine the nature of any contact between Humana, my brother and my office.</p>
 <p>“Having done so and despite having made it clear to all parties that it was important that I not be involved, I am not satisfied that contact between the various parties leaves it clear that I have entirely conformed with your Ministerial Code of Conduct.</p>
 <p>“In particular, I have learned that one meeting between the parties was held in my Ministerial office. Further, I understand that members of my staff sat in on a number of meetings. Again, despite my decision to avoid being part of any discussions between the parties, I'm not absolutely satisfied that, that objective was achieved, to the extent necessary to ensure full compliance with your Ministerial Code of Conduct.</p>
@@ -79,6 +69,4 @@
 <p>PM: I didn't see it. I didn't see that. But it has been described to me. You know I actually don't mind the Chaser taking the mickey out of me or any other politician, at any time, in any place.</p>
 <p>That is fine, that is fair game. But, having a go at kids with a terminal illness is really beyond the pale, absolutely beyond the pale. These guys, collectively, should get up and hang their heads in shame. It is just wrong.</p>
 <p>I have enjoyed so much of what they have done over the years. Taking the mickey out of me and whoever else. That is fine. But this is just way beyond it, way beyond it, way beyond it.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

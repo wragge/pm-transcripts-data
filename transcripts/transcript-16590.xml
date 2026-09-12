@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16590</transcript-id>
-    <title>Pacific Partnership for Development with Vanuatu    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/05/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today signed a Pacific Partnership for Development with Prime Minister Edward Natapei of Vanuatu.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16590</transcript-id><title>Pacific Partnership for Development with Vanuatu    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/05/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today signed a Pacific Partnership for Development with Prime Minister Edward Natapei of Vanuatu.</p>
 <p>The Pacific Partnerships for Development are the centrepiece of Australia's commitment to strengthening its engagement with the Pacific region.</p>
 <p>The partnerships commit Australia and its Pacific neighbours to work together to meet common challenges, particularly faster progress towards achieving the Millennium Development Goals and Pacific nations' development goals.</p>
 <p>The Partnership with Vanuatu is the fifth signed since the Port Moresby Declaration and will focus on:</p>
@@ -22,6 +12,4 @@
 <p>The global recession highlights the importance of addressing these challenges and realising better development results in the Pacific.</p>
 <p>Prime Minister Natapei's visit also provided an important opportunity to discuss key priorities for the forthcoming Pacific Islands Forum, to be held in Cairns in August.</p>
 <p>The Prime Ministers discussed key regional challenges, including the need for all Forum countries to maintain their close collaboration in encouraging the restoration of democracy and the rule of law in Fiji.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

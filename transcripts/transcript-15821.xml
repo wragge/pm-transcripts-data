@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15821</transcript-id>
-    <title>Australia 2020 Summit Participants    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/03/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is with great pleasure I announce today that 1000 of Australia's best and brightest people have been selected to help shape the nation's future at the Australia 2020 Summit.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15821</transcript-id><title>Australia 2020 Summit Participants    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/03/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is with great pleasure I announce today that 1000 of Australia's best and brightest people have been selected to help shape the nation's future at the Australia 2020 Summit.</p>
 <p>The 10 member independent Steering Committee, chaired by Professor Glyn Davis, has had a very tough job selecting the participants from nearly 8,000 very high quality nominations.</p>
 <p>The selection process was extremely rigorous and demanding and I commend the Steering Committee for their efforts over the past month.</p>
 <p>The 1000 people who have been selected will receive their invitations this coming week.</p>
@@ -64,6 +54,4 @@
 <p>     * The future of Australian governance: renewed democracy, a more open government (including the role of the media), the structure of the Federation and the rights and responsibilities of citizens</p>
 <p>     * Australia's future security and prosperity in a rapidly changing region and world.</p>
 <p>See the Australia2020 site for further information.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

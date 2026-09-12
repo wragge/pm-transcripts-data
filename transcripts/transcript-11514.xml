@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11514</transcript-id>
-    <title>Interview with Jeremy Cordeaux, Radio 5DN           </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: GST and tax reform; ABC; childcare; pensions</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11514</transcript-id><title>Interview with Jeremy Cordeaux, Radio 5DN           </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: GST and tax reform; ABC; childcare; pensions</p>
 <p>E&amp;OE..................................</p>
 <p>CORDEAUX: </p>
 <p>And it is with a great deal of pleasure that I welcome the Prime Minister of Australia, John Howard.  Sir, good morning once again.</p>
@@ -153,6 +143,4 @@
 <p>PRIME MINISTER: </p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

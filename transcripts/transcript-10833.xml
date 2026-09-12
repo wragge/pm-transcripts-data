@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10833</transcript-id>
-    <title>NATURAL HERITAGE TRUST PROJECTS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/04/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> I am delighted to announce today a further $18m investment in</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10833</transcript-id><title>NATURAL HERITAGE TRUST PROJECTS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/04/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> I am delighted to announce today a further $18m investment in</p>
 <p> restoring Australia's natural environment.</p>
 <p>The projects I announce today will help revitalise our river systems,</p>
 <p> restore our agricultural lands and coastal environment and reverse</p>
@@ -31,6 +21,4 @@
 <p>(A breakdown of funding across all States is available from Primary</p>
 <p> Industries and Energy Minister, John Anderson's Office.)</p>
 <p> 16 April 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

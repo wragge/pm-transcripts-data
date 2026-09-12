@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17174</transcript-id>
-    <title>Prime Minister Transcript of interview with John McKenzie 4CA 7 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister Kevin Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17174</transcript-id><title>Prime Minister Transcript of interview with John McKenzie 4CA 7 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister Kevin Rudd, good morning.</p>
 <p>PM: G'day John. How are you?</p>
 <p>HOST: This is a very good opportunity for us to have a chat about these health announcements yesterday. It's interesting, come out of the blue actually, for a lot people. Let me just quote from the Cairns Post today. It says 'the concerns of health professionals in the far north have been revealed as the driving force behind the multimillion dollar allied health package announced in Cairns yesterday'. Can you give us the bare bones of what you wanted to achieve, here?</p>
 <p>PM: Sure. Firstly, at Cairns Base Hospital we were simply confirming that our existing 8 or $9 million investment for the upgrade of radiation oncology services at Cairns is on track, and that's on track for opening next year, and that would help about 400 cancer patients in and around Cairns at present who would otherwise have to travel elsewhere. That's one thing.</p>
@@ -36,6 +26,4 @@
 <p>PM: What I was about to go on to say, John, is that, therefore, in the implementation of this, when any issues arise, each of the relevant ministers has an audit mechanism available to quickly look at any problems which arrive. It is inevitable, across the country, that you're going to have implementation difficulties. What we have is an audit mechanism to look at these problems as they arise. That's why I'd encourage the locals to get that in to Minister Plibersek straight away.</p>
 <p>HOST: Yep, and thanks for your time on the program today.</p>
 <p>PM: Appreciate it very much, John. Good to be back in Cairns</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

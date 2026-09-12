@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17779</transcript-id>
-    <title>Transcript of interview, The 7.30 Report</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/04/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17779</transcript-id><title>Transcript of interview, The 7.30 Report</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/04/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 UHLMANN: Julia Gillard, welcome to 7.30.</p>
 <p>PM: Thank you very much Chris.</p>
 <p>UHLMANN: You've revisited places you saw devastated just three months ago, what was that like?</p>
@@ -65,6 +55,4 @@ UHLMANN: Julia Gillard, welcome to 7.30.</p>
 <p>The Greens have a different genesis from the Labor Party, they didn't come into existence to be the mainstream voice of working Australians, they came into existence to be a protest movement about environmental causes and if we look now on some of the big policy debates in our country  -  mandatory detention  -  that's a policy debate in our country, I believe Labor is more in touch with mainstream Australian values on that, to take one example.</p>
 <p>UHLMANN: Prime Minister, we'll have to leave it there. Thank you.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

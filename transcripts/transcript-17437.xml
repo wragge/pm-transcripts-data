@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17437</transcript-id>
-    <title>Government to move children and vulnerable families into community-based accommodation</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/10/2010</release-date>
-    <release-type>Immigration</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17437</transcript-id><title>Government to move children and vulnerable families into community-based accommodation</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/10/2010</field_date><release-type>Immigration</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Immigration and Citizenship Chris Bowen today announced that the Australian Government had decided to expand its existing residence determination program and will begin moving significant numbers of children and vulnerable family groups out of immigration detention facilities and into community-based accommodation.</p>
 <p>The Prime Minister said the Government would partner with community organisations to transfer unaccompanied minors and families who are awaiting the outcome of their applications for asylum into community-based accommodation.</p>
 <p>The Government today also announced the commissioning of two new detention facilities - at Northam in Western Australia and Inverbrackie in South Australia - to help relieve the current pressures on existing facilities.</p>
@@ -32,6 +22,4 @@ Prime Minister Julia Gillard and Minister for Immigration and Citizenship Chris 
 <p>Today's announcement will allow for the decommissioning of less suitable temporary accommodation, such as the tents currently in use on Christmas Island.</p>
 <p>The identification of appropriate sites followed an extensive process conducted by the Department of Immigration and Citizenship as part of standard contingency planning.</p>
 <p>The Department will continue to engage with local stakeholders in the set up and ongoing operations of these new facilities. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

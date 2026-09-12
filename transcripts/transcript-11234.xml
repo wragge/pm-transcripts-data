@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11234</transcript-id>
-    <title>Proposed Preamble</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/08/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>With hope in God, the Commonwealth of Australia is constituted as a democracy with a federal system of Government to serve the common good.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11234</transcript-id><title>Proposed Preamble</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/08/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>With hope in God, the Commonwealth of Australia is constituted as a democracy with a federal system of Government to serve the common good.</p>
 <p>We the Australian people commit ourselves to this Constitution</p>
-<blockquote><p style="margin-left: 40px;"> proud that our national unity has been forged by Australians from many ancestries;</p>
+<blockquote><p style="margin-left: 40px;">&nbsp;proud that our national unity has been forged by Australians from many ancestries;</p>
 </blockquote>
 <p style="margin-left: 40px;">never forgetting the sacrifices of all who defended our country and our liberty in time of war;</p>
 <p style="margin-left: 40px;">upholding freedom, tolerance, individual dignity and the rule of law;</p>
@@ -22,6 +12,4 @@
 <p style="margin-left: 40px;">and valuing independence as dearly as the national spirit which binds us together in both adversity and success.</p>
 </blockquote>
 <p>11 August 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

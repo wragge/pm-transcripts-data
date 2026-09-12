@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11239</transcript-id>
-    <title>Visit by the President of the People’s, Republic of China</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the President of the People’s Republic of China, Mr Jiang Zemin, will visit Australia from 6 to 11 September. Mr Jiang’s visit will be the first to Australia by a President of China.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11239</transcript-id><title>Visit by the President of the People’s, Republic of China</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the President of the People’s Republic of China, Mr Jiang Zemin, will visit Australia from 6 to 11 September. Mr Jiang’s visit will be the first to Australia by a President of China.</p>
 <p>Mr Jiang’s visit comes during a period of strong and growing relations between Australia and China. Our economic ties are expanding. Two-way trade reached nearly $10 billion in 1998. Australian companies are active investors in China in resources, manufacturing and services. China is a valued investor in Australia.</p>
 <p>Our community links are strong. Australians of Chinese origin are a highly valued component of Australia’s society. The Chinese community is an active participant in Australia’s economy through its many chambers of commerce and through small businesses. It plays an important part in our cultural and intellectual life.</p>
 <p>Growing numbers of young Australians and Chinese are studying in the others’ country and laying the foundations for future contact between our societies. Likewise, rising levels of tourism from China are adding a new and important human dimension to our relationship.</p>
@@ -18,6 +8,4 @@
 <p>Despite differences between our political structures and values, Australia and China have built a cooperative relationship that is of great benefit to both countries and our region.</p>
 <p>I warmly welcome Mr Jiang’s visit. I look forward to the opportunity it provides to show him some of Australia’s achievements and to open up new opportunities to expand and strengthen relations between Australia and China into the next century.</p>
 <p>13 August 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

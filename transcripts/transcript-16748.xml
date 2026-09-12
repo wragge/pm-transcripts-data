@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16748</transcript-id>
-    <title>Interview on Channel Seven&#039;s Sunrise program, Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/08/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH:  Prime Minister, thanks for your time. Has the crash been confirmed, have you got any more details for us?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16748</transcript-id><title><![CDATA[Interview on Channel Seven&#039;s Sunrise program, Canberra   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/08/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH:  Prime Minister, thanks for your time. Has the crash been confirmed, have you got any more details for us?</p>
 <p>PM:  David I spoke this morning with Australian Government officials and Australian defence officials at about 6:30 and about a quarter of an hour ago spoke to our High Commissioner in Port Moresby Chris Moraitis.</p>
 <p>The situation is along these lines; that the weather this morning, I am advised in PNG is relatively clear. They are still concerned that the weather may close in towards the middle of the day. There was a meeting at 6.00 am this morning of the PNG air safety, the air search and rescue authorities.  As a result of that, two helicopters are now aloft and are moving towards the area of concern.</p>
 <p>On top of that, we have also an Australian Caribou ready to go aloft from Port Moresby itself. An Australian Sea King will be on the ground at 8:30 from HMAS Success, and it'll be ready to go aloft as well, as soon as it refuels. On the specifics though, however, we do not have any confirmed reports and we are therefore deploying all possible assets to try and identify the location of this aircraft.</p>
@@ -24,6 +14,4 @@
 <p>So we are going to throw every asset at this, we have been throwing every asset at this, but the anxiety of parents and family is understood, and that's why our consular officials are working with them as closely as possible.</p>
 <p>KOCH:   Okay, well it sounds as though we really are helping, which is a terrific thing. Mate, good to catch up, thanks for your time.</p>
 <p>PM:   Thanks very much David.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

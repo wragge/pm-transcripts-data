@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16564</transcript-id>
-    <title>Nation-Building Upgrade for Bruce Highway  - Cooroy to Curra    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/05/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Minister for Infrastructure today welcomed the announcement of the $613 million duplication of the Cooroy to Curra (Section B) stretch of the Bruce Highway.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16564</transcript-id><title>Nation-Building Upgrade for Bruce Highway  - Cooroy to Curra    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/05/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Minister for Infrastructure today welcomed the announcement of the $613 million duplication of the Cooroy to Curra (Section B) stretch of the Bruce Highway.</p>
 <p>This project will provide motorists with a four-lane divided carriageway that improves safety and reduces congestion for the 17,000 vehicles travelling on the road each day.</p>
 <p>The Bruce Highway has crash rates 40 per cent higher than other roads on the National Network.</p>
 <p>On the Cooroy to Curra Section B alone, 13 people have lost their lives since July 2002.</p>
@@ -18,6 +8,4 @@
 <p>The Federal Government will invest $488 million and the Queensland Government will invest $125 million in this important project.</p>
 <p>This investment is part of the Federal Government's $22 billion infrastructure investment in the 2009-10 Budget, which includes transport, energy, broadband, universities, and health care.</p>
 <p>The Australian Government's nation-building initiatives include $8.6 billion in road and rail infrastructure in Queensland. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

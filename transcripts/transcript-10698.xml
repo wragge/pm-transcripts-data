@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10698</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH MICHAEL CLARKE                ABC RADIO - 4QN, TOWNSVILLE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/08/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10698</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW WITH MICHAEL CLARKE                ABC RADIO - 4QN, TOWNSVILLE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/08/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>CLARKE:</p>
 <p>Prime Minister it seems as if the election campaign is well and</p>
 <p>   truly under way at the moment. The only thing missing is a date.</p>
@@ -400,6 +390,4 @@
 <p>   parties arrange for questions to be asked, and I think perhaps over</p>
 <p>   the past week I've had a few questions that may have been inspired</p>
 <p>   by my po</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

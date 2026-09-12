@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18658</transcript-id>
-    <title>Transcript of joint doorstop interview, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18658</transcript-id><title>Transcript of joint doorstop interview, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here today with Jenny Macklin and we're actually in her local electorate, so thank you very much Jenny, and to everybody who has come in to say hello today.</p>
 <p>It is 1 July, carbon pricing starts today, and Australians can look around and see the sky hasn't fallen in.</p>
 <p>For Australians right around the country they'll be going about their ordinary Sunday. Maybe some time with family and friends. But as Australians go about their ordinary Sunday, our nation is seizing a new future.</p>
@@ -73,6 +63,4 @@ PM: I'm here today with Jenny Macklin and we're actually in her local electorate
 <p>JOURNALIST: So how are you feeling today? Relieved that they're finally at this point, or-</p>
 <p>PM: I'm feeling like I do every day, full of enthusiasm.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

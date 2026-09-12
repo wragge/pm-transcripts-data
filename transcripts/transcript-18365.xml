@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18365</transcript-id>
-    <title>Transcript of doorstop interview, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18365</transcript-id><title>Transcript of doorstop interview, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Yesterday I was talking about the future of the Australian economy and I said then that the fundamentals of our economy are strong, that we have a very strong Australian dollar, and that that strength is driving transformations in our economy, including transformations in manufacturing.</p>
 <p>I said yesterday in a formal speech about the economy that I am very confident that we can build a new Australian economy where manufacturing has its place. That it can be high-wage, high-skill, high-productivity, at the forefront of innovation and research.</p>
 <p>I'm here today at Boeing and they are showing us how you get that done, making a component for the Dreamliner aircraft, manufacturing it right here in Australia so that it joins the global supply chain and creates this aircraft of the future.</p>
@@ -75,6 +65,4 @@ PM: Yesterday I was talking about the future of the Australian economy and I sai
 <p>We have been asked to provide assistance to PNG and we are providing assistance to PNG. We are also working to urgently ascertain whether or not there were any Australians on board.</p>
 <p>But given the likely very high loss of life here, I think when this news comes to the attention of Australians around the country, they will be thinking about the people of PNG as they respond to this tragedy.</p>
 <p>Thank you very much.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

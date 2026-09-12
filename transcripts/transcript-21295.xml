@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21295</transcript-id>
-    <title>Press Conference Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21295</transcript-id><title>Press Conference Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PRIME MINISTER:</p>
 <p>Well ladies and gentlemen, we've called this news conference to announce that the Party Room has approved recommendations to firstly amend the Marriage Act, to insert into the Act the commonly accepted definition of a marriage as the union of a man and a woman to the exclusion of all others voluntarily entered into for life.  We've decided to insert this into the Marriage Act to make it very plain that that is our view of a marriage and to also make it very plain that the definition of a marriage that should rest in the hands ultimately of the parliament of the nation and should not over time potentially be subject to redefinition or change by courts, it is something that ought to be expressed through the elected representatives of the country and that is what we have decided to do.</p>
 <p>We're also going to amend the legislation to ensure that same sex couples being, will not be eligible as prospective adoptive parents under any multilateral or bilateral agreement concerning the adoption of children to which Australia is a party.</p>
@@ -142,6 +132,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>I think people should be treated in accordance with the Geneva Convention, yes, if they are prisoners of war. I think there is a different canon, isn't there, in relation to unlawful combatants - thank you Attorney, it's good to have a lawyer beside you - I think if you... one more question.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

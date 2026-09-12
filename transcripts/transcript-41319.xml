@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41319</transcript-id>
-    <title>Television interview with Karl Stefanovic – Today Show, Nine</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>KARL STEFANOVIC:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41319</transcript-id><title>Television interview with Karl Stefanovic – Today Show, Nine</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage</subjects><content><![CDATA[<p><strong>KARL STEFANOVIC:</strong></p>
 <p>In one of the most historic votes in our nation, Australia has spoken and they’ve said ‘yes’ to marriage equality. Prime Minister Malcolm Turnbull joins me now. PM, good morning to you.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, Karl. Isn't it a great result?</p>
@@ -46,7 +36,7 @@
 <p><strong>KARL STEFANOVIC:</strong></p>
 <p>No, but you are important in it all.</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>I guess it wouldn't have happened without my pushing. And there was a lot of opposition to having this survey, political opposition - crossbenchers, the Labor Party, even people on my own side that didn't want to have it. </p>
+<p>I guess it wouldn't have happened without my pushing. And there was a lot of opposition to having this survey, political opposition - crossbenchers, the Labor Party, even people on my own side that didn't want to have it.&nbsp;</p>
 <p><strong>KARL STEFANOVIC:</strong></p>
 <p>So how satisfying?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -123,6 +113,4 @@
 <p><strong>KARL STEFANOVIC:</strong></p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

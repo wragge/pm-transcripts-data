@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22561</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/11/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The serious water situation in the Murray-Darling Basin requires a collaborative response from both Federal and state governments.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22561</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/11/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The serious water situation in the Murray-Darling Basin requires a collaborative response from both Federal and state governments.</p>
 <p>This prolonged drought is having a terrible impact on farming communities across Australia especially in the Murray-Darling Basin, and has inevitable consequences for city dwellers.</p>
 <p>I've therefore called a meeting in Canberra next Tuesday to which I've invited the Premiers of New South Wales, Victoria and South Australia, and their water ministers, to discuss what action can be taken to provide the best possible outcome at this very difficult time.</p>
 <p>We cannot make it rain but it's important that we all work together to help water users.</p>
@@ -18,6 +8,4 @@
 <p>Several years ago the Commonwealth and the states joined together to launch the National Water Initiative.</p>
 <p> Not only do we need to accelerate progress with that agreement, especially in relation to water trading, but the same spirit of co-operation which brought about that Initiative must occur in response to the chronic water shortages caused by the ongoing dry conditions.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

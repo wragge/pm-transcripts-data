@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17883</transcript-id>
-    <title>Transcript of joint doorstop interview, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/05/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17883</transcript-id><title>Transcript of joint doorstop interview, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/05/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here at the University of Canberra and thank you very much to the friends just over there who have shown us around this university. I'm here with Chris Evans, the relevant Minister.</p>
 <p>We've had the opportunity today to meet with some students who are the first students in their family to go to university, people who have come here despite a disadvantaged background. There have been some great stories, and it's been wonderful to be able to meet with individuals who are the face of the change that we're bringing to universities.</p>
 <p>In the last few weeks we've brought down the budget, and the budget's been all about jobs and opportunity, and they are jobs that people are filling today, they are opportunities that people are seizing today.</p>
@@ -73,6 +63,4 @@ PM: I'm here at the University of Canberra and thank you very much to the friend
 <p>JOURNALIST: Is Tim Flannery a climate scientist?</p>
 <p>PM: Will Steffan - as Tim Flannery has said consistently and publicly, and as he said to me today, this has been put together by the climate scientists on the commission and it's been peer reviewed.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41169</transcript-id>
-    <title>Interview with David Koch, Sunrise</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>07/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>North Korea; Phone call with President Trump; Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>DAVID KOCH: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41169</transcript-id><title>Interview with David Koch, Sunrise</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>07/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>North Korea; Phone call with President Trump; Same-sex marriage</subjects><content><![CDATA[<p><strong>DAVID KOCH: </strong></p>
 <p>Prime Minister Malcolm Turnbull joins us now from Canberra. Prime Minister thanks for your time, you spoke with President Donald Trump yesterday and agreed China is the key to putting more economic pressure on the rogue nation. What if that doesn't work?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, we don't want to get into hypotheticals, but the reality is, Kochie, that China has by far the biggest economic relationship with North Korea.</p>
@@ -37,7 +27,7 @@
 <p>An attack on the United States or its allies by North Korea would be met with overwhelming force.</p>
 <p>As President Trump has said and Defense Secretary Mattis has said, it would be a suicide note by Kim Jong-un. It would be a catastrophe. Thousands would die. It would be an unmitigated catastrophe.</p>
 <p>We are doing everything we can with our allies and our partners around the world to bring that stronger economic pressure on North Korea.</p>
-<p>Our goal is to resolve this without conflict. </p>
+<p>Our goal is to resolve this without conflict.&nbsp;</p>
 <p><strong>DAVID KOCH: </strong></p>
 <p>How scared are you of this situation at the moment?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -67,6 +57,4 @@
 <p><strong>DAVID KOCH: </strong></p>
 <p>Okay, alright, Prime Minister thanks for joining us.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

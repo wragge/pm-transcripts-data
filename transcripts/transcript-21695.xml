@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21695</transcript-id>
-    <title>Chief of the Defence Force  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/04/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21695</transcript-id><title>Chief of the Defence Force  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/04/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I am delighted to announce that I will recommend to the Governor-General the appointment of Air Marshal Allan (Angus) Grant Houston, AO, AFC as the new Chief of the Defence Force (CDF) for a three-year term from 4 July 2005.</p>
 <p>  Air Marshal Houston will replace the current CDF, General Peter Cosgrove, who is retiring after more than 40 years service with the Australian Defence Force.</p>
 <p> Air Marshal Houston will be the first Chief of the Air Force to serve as the Chief of the Defence Force. He will be promoted to the rank of Air Chief Marshal.</p>
@@ -23,6 +13,4 @@ I am delighted to announce that I will recommend to the Governor-General the app
 <p>  Throughout his career, General Cosgrove has carried out all of his duties in a spirit which befits the proud traditions of the Australian military.</p>
 <p>  I know he will continue to deliver outstanding leadership and advice for the remainder of his term.</p>
 <p> I wish General Cosgrove, and his wife Lynne, all the best for the future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16261</transcript-id>
-    <title>Ministerial Statement in the House of Representatives Parliament House, Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/11/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This morning I returned from APEC where my discussions with leaders from all around the region confirmed what we already knew: that the world economy is deteriorating rapidly.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16261</transcript-id><title>Ministerial Statement in the House of Representatives Parliament House, Canberra   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/11/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This morning I returned from APEC where my discussions with leaders from all around the region confirmed what we already knew: that the world economy is deteriorating rapidly.</p>
 <p>The impact of the global financial crisis, which began out of the US sub-prime crisis only 12 months ago, has grown from a trickle to a flood.</p>
 <p>It is now sweeping across the world - from China to Chile, from Germany to Japan.</p>
 <p>It has affected the traditional economic powers of the North Atlantic and the emerging economies of the Asia Pacific. Every nation. Every government. Every economy.</p>
@@ -146,6 +136,4 @@
 <p>This is also the mission of the international community.</p>
 <p>To be candid about the challenges, to prosecute a coherent strategy in response to those challenges, and create a rational basis for confidence in the future.</p>
 <p>That is the course of action to which this Government is committed.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17486</transcript-id>
-    <title>Transcript of interview with Gary Hardgrave, 4BC</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/12/2010</release-date>
-    <release-type>Arts, Culture &amp; Sport</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Brisbane</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17486</transcript-id><title>Transcript of interview with Gary Hardgrave, 4BC</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/12/2010</field_date><release-type><![CDATA[Arts, Culture &amp; Sport]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Brisbane</p>
 <p>HOST: Prime Minister good morning.</p>
 <p>PM: Good morning-</p>
 <p>HOST: My turn to ask.</p>
@@ -93,6 +83,4 @@
 <p>HOST: Congratulations on being Prime Minister, do a good job, that's all we care about right now, ok?</p>
 <p>PM: That's exactly what I care about too.</p>
 <p>HOST: Alright Prime Minister Julia Gillard's been our guest this morning and we appreciate your time.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

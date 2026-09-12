@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18413</transcript-id>
-    <title>ACCC final approval for structural separation of Telstra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18413</transcript-id><title>ACCC final approval for structural separation of Telstra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Final approval for the structural separation of Telstra has today been granted by the ACCC, in a major landmark for the nation's telecommunications industry.</p>
 <p>This means for the first time in Australia's history, telecommunications providers will compete on a level playing field.</p>
 <p>Consumers are set to benefit from this competition as retailers compete evenly and fiercely to give customers the best and most innovative services, at the best price.</p>
@@ -21,6 +11,4 @@ Final approval for the structural separation of Telstra has today been granted b
 <p>The acceptance of the undertaking is one of the last hurdles in the finalisation of the Definitive Agreements between NBN Co and Telstra that will advance the roll-out of the NBN. </p>
 <p>Once finalised NBN Co will gain full access to detailed information about Telstra's network of pits and ducts. This data is essential for NBN Co confirming its three year rollout schedule which will be released before the end of March. </p>
 <p>NBN Co has already announced its 12 month fibre rollout schedule which will see construction underway or completed for 758,000 Australian households, businesses and public facilities by December this year.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

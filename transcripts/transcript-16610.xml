@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16610</transcript-id>
-    <title>Interview with David Speers - Sky News    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS: Prime Minister, thanks for your time. Your new Ministers were sworn in this morning. We this be the line up you take to the election?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16610</transcript-id><title>Interview with David Speers - Sky News    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS: Prime Minister, thanks for your time. Your new Ministers were sworn in this morning. We this be the line up you take to the election?</p>
 <p>PM: Well, they are a first class team and I certainly expect that they will be with us through until we face the people.</p>
 <p>SPEERS: When will that be?</p>
 <p>PM: When the election is due. They're a good team. John Faulkner in Defence and supported of course by Greg Combet, also Mark Arbib is the Minister for Employment and of course a strong team of new Parliamentary Secretaries coming through as well. So, a good opportunity for renewal, but drilling into our key priorities which is nation building for recovery, infrastructure and jobs and that's what I think the Australian people expect of us.</p>
@@ -56,6 +46,4 @@
 <p>Look, if Women's Day want to take photos through the window, matter for them I suppose. Others will form their judgments of that but I think most Australian women at the gym would expect that they have a bit of privacy when they're doing their exercise routine.</p>
 <p>SPEERS: Prime Minister thank you.</p>
 <p>PM: Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

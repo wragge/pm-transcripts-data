@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24316</transcript-id>
-    <title>Funeral of Lee Kuan Yew</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I will travel to Singapore to join other national leaders at the funeral of former Prime Minister of Singapore, Mr Lee Kuan Yew, on Sunday.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24316</transcript-id><title>Funeral of Lee Kuan Yew</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I will travel to Singapore to join other national leaders at the funeral of former Prime Minister of Singapore, Mr Lee Kuan Yew, on Sunday.</p>
 <p>Lee Kuan Yew was the father of his nation, guiding Singapore’s remarkable transformation from the third world to the first.</p>
 <p>He was a leading international statesman of his time, and laid the foundation upon which successive Singaporean and Australian Governments have built a strong relationship.</p>
 <p>Sunday will be a day on which to celebrate Mr Lee’s many achievements, as well as to mourn his passing.</p>
 <p>25 March 2015 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

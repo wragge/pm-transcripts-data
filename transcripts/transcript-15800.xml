@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15800</transcript-id>
-    <title>Address to the State Dinner, Port Moresby    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/03/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is a great pleasure to be back in Port Moresby again. It is always a pleasure to be among friends.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15800</transcript-id><title>Address to the State Dinner, Port Moresby    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/03/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is a great pleasure to be back in Port Moresby again. It is always a pleasure to be among friends.</p>
 <p>Thank you Prime Minister for your friendship, your hospitality and your time today.</p>
 <p>I understand that this year marks the 40th anniversary of your entry into politics.  You have been an unrivalled figure in the politics of your country since before independence.  I would like to pay tribute to your contribution to your country, to relations between our two countries, and to the region we live in.</p>
 <p>Mr Prime Minister, mine is a new government in Australia.</p>
@@ -76,6 +66,4 @@
 <p>I hope that new phase will be characterised by cooperation, respect and partnership.</p>
 <p>I hope, too, that this new phase will build even closer links between our people, our business communities and our governments.</p>
 <p>And I hope that, in the future, our relationship will be recognised as a unique example of cooperation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18710</transcript-id>
-    <title>Prime Minister’s Literary Awards, National Library of Australia, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/07/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18710</transcript-id><title>Prime Minister’s Literary Awards, National Library of Australia, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/07/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I was here in February, and since then you've had a real triumph with the exhibition to honour Patrick White's centenary, which closed relatively recently on 8 July.</p>
 <p>That was a vivid reminder that this building's life-force is drawn from words  -  millions and millions of them.</p>
 <p>Words that make you think; words that make you wonder; words that may even change your life; words by Australian authors, many now long gone.</p>
@@ -41,6 +31,4 @@ I was here in February, and since then you've had a real triumph with the exhibi
 <p>To the winners and nominees  -  my warmest congratulations, you make us rich in the things that count the most.</p>
 <p>And now it's on with the announcement of those winners.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

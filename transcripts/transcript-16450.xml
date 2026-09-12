@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16450</transcript-id>
-    <title>Governor-General&#039;s Visit to Africa    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/03/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Governor-General, Ms Quentin Bryce AC, will visit Africa this month to strengthen Australian engagement with Africa at the highest levels of Government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16450</transcript-id><title><![CDATA[Governor-General&#039;s Visit to Africa    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/03/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Governor-General, Ms Quentin Bryce AC, will visit Africa this month to strengthen Australian engagement with Africa at the highest levels of Government.</p>
 <p>The Governor-General has been invited to visit Mauritius, Namibia, Zambia, Botswana, Mozambique, Ethiopia, Kenya, Tanzania and the Seychelles in a series of State and official visits.</p>
 <p>These visits will involve high-level meetings with the leaders of those countries, as well as support for trade and investment, significantly expanded development and humanitarian assistance, and co-operation on peace and international security issues.</p>
 <p>A visit to Africa of this scale by Australia's Head of State will express the seriousness of Australia's commitment to heightened political and diplomatic engagement, and to building our bilateral relationships with African countries and the continent as a whole.</p>
@@ -17,6 +7,4 @@
 <p>The Governor-General will engage African leaders on a range of regional and multilateral issues in which Australia has a key stake.</p>
 <p>She will highlight Australia's expanding aid program to Africa and convey the commitments made by the Australian Government directly to the countries that she visits. </p>
 <p>The visit will take place from March 15 to April 3.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19303</transcript-id>
-    <title>2013 Defence White Paper: Afghanistan</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19303</transcript-id><title>2013 Defence White Paper: Afghanistan</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard and Minister for Defence Stephen Smith today confirmed Australia's continuing commitment to Afghanistan.</p>
 <p>The 2010 Lisbon NATO/ISAF Summit agreed to transition to full Afghan security responsibility in Afghanistan by the end of 2014.</p>
 <p>In July 2012, transition to Afghan security lead in Uruzgan for the four Infantry Kandaks and the two combat support Kandaks of the 4th Brigade of the 205 Hero Corps of the Afghan National Army (ANA) commenced. </p>
@@ -29,6 +19,4 @@
 <p>Under an appropriate mandate, Australia remains prepared to make a Special Forces contribution, either for training or for counter terrorism purposes.</p>
 <p>Reflecting our long-term interests in a stable Afghanistan that can be responsible for its own security, Australia signed a Long-term Comprehensive Partnership with Afghanistan in May 2012.</p>
 <p>As part of this responsibility, Australia has committed US$100 million annually for three years from 2015 to support the continued development and sustainment of the Afghan National Security Forces.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

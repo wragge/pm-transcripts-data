@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17374</transcript-id>
-    <title>Australia congratulates 2022 FIFA World Cup bid winner</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/12/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17374</transcript-id><title>Australia congratulates 2022 FIFA World Cup bid winner</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/12/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Sport Mark Arbib today congratulated Qatar on their successful bid to host the 2022 FIFA World Cup.</p>
 <p>Australia put the best bid possible forward and everyone associated should be extremely proud of their efforts.</p>
 <p>The Prime Minister said that while the nation was disappointed to not have been awarded the hosting rights to the 2022 competition, the country would continue to be an avid and active supporter of the competition.</p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard and Minister for Sport Mark Arbib today congratulat
 <p>Frank Lowy and the team have taken Australian football to new heights on the international stage and we shall continue to build on the legacies created around this World Cup bid.</p>
 <p>The bid itself has also put Australia the world stage as we proudly showcased our nation as an attractive tourist destination with welcoming people.</p>
 <p>Australia will now turn its turn its attention to securing the right to host the 2015 Asian Cup. The host city will be announced in January.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

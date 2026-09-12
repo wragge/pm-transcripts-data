@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23791</transcript-id>
-    <title>Address at &#039;Menzies: By John Howard&#039; exhibition opening, Old Parliament House, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>03/09/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Mr Howard, Mrs Heather Henderson, distinguished parliamentary colleagues – past and present – ladies and gentlemen. It is good to be here in this historical and characterful building surrounded by people from former prime ministers to former parliamentary attendants who knew this building and who loved our system of government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23791</transcript-id><title><![CDATA[Address at &#039;Menzies: By John Howard&#039; exhibition opening, Old Parliament House, Canberra]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>03/09/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Mr Howard, Mrs Heather Henderson, distinguished parliamentary colleagues – past and present – ladies and gentlemen. It is good to be here in this historical and characterful building surrounded by people from former prime ministers to former parliamentary attendants who knew this building and who loved our system of government.</p>
 <p>This is a most fitting day to launch the <em>Menzies: By Howard</em> exhibition because it is 75 years ago this day that Sir Robert Menzies declared war.</p>
 <p>It is of course the job of history to revisit every conflict, to search for reasons, to question assumptions and to pass judgment on the actions of the protagonists. History’s verdict is close to unanimous – that war was a battle between good and evil, it was a conflict where civilisation itself hung in the balance. The role of our wartime leaders should be remembered and today through this exhibition we remember Sir Robert Menzies and his prime ministership from 1939 to 1941.</p>
 <p>When Menzies first visited the then Governor General, Lord Gowrie, the former Government, the Governor General asked him, “If I commission you, how long do you think you will last?”</p>
@@ -18,7 +8,7 @@
 <p>He is a figure so worthy of remembrance for his wartime leadership, for founding the Liberal Party and for presiding over our long golden age of post-war expansion.</p>
 <p>When Menzies took over the prime ministership in April 1939 he found himself as Anne Henderson puts it, “leading an unwilling nation towards the second global conflict in the space of just two decades and at the helm of a fractious political team.”</p>
 <p>Preparing a country still scarred by World War One to deal with a world sliding toward war, not confined this time to distant shores but with danger on our doorstop preoccupied Menzies at the expense of political management and yes it did cost him his prime ministership.</p>
-<p>Yet, as he himself later acknowledged, it was the lessons of his first prime ministership that laid the foundations for his second. These lessons resulted in him honing his political philosophy and developing his political skills and he wrote about that time, a quarter of a century later,  “I was still in a state of mind in which to be logical is to be right and to be right is its own justification. I had yet to learn that human beings are delightfully illogical but mostly honest and to realise that all black and all white are not the only hues in the spectrum.”</p>
+<p>Yet, as he himself later acknowledged, it was the lessons of his first prime ministership that laid the foundations for his second. These lessons resulted in him honing his political philosophy and developing his political skills and he wrote about that time, a quarter of a century later,&nbsp; “I was still in a state of mind in which to be logical is to be right and to be right is its own justification. I had yet to learn that human beings are delightfully illogical but mostly honest and to realise that all black and all white are not the only hues in the spectrum.”</p>
 <p>And certainly his political exile paved the way for his subsequent success.</p>
 <p>Sir Robert Menzies did not simply govern Australia for a long time. He shaped it according to an enduring set of values and principles; support for the family and small business and respect for traditional values and institutions.</p>
 <p>All of us, in our own way, are Menzies children.</p>
@@ -29,6 +19,4 @@
 <p>The life and times of Sir Robert Menzies warrant constant study because from his life and times we better understand our own.</p>
 <p>I am honoured to declare <em>Menzies: By Howard</em> open and I hope it enjoys the largest possible patronage.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

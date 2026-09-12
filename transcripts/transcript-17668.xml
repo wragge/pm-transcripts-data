@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17668</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17668</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much and clearly COAG has had a long day talking about issues of importance to the nation and I do thanks Premiers and Chief Ministers for their patience and resolve in working through so many long hours and I do want to thank the members of the federal parliamentary press gallery for attending a very late press conference, thank you for that.</p>
 <p>Today I want to advise you of two of the important topics COAG has talked about today: first, natural disaster preparedness and then second, health.</p>
 <p>On natural disaster preparedness, after the summer of disasters that we have lived through it was important for the nation's leaders to gather together and to reflect on that summer and what lessons could be learned from it. I thank very much Premier Bligh and Premier Baillieu for leading the Council of Australian Governments in that discussion. As a group we want to take this opportunity to record our very sincere thanks to every emergency services worker, to every police officer, to every ADF officer, to every health worker, to every volunteer who made such a difference during this time of natural disaster.</p>
@@ -117,6 +107,4 @@ PM: Thank you very much and clearly COAG has had a long day talking about issues
 <p>PM: Well, the aim of this and the aim of a transparency agenda is that it is there not only for levels of government to have, but it is there for the public to see.</p>
 <p>I've brought into this position the same kind of reformist drive I showed about transparency in the education portfolio. That data transforms because the public has it, so I'm bringing the same reform drive here.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15951</transcript-id>
-    <title>Interview with Jon Faine, ABC Radio 774 Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FAINE: Prime Minister Kevin Rudd, good morning to you</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15951</transcript-id><title>Interview with Jon Faine, ABC Radio 774 Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FAINE: Prime Minister Kevin Rudd, good morning to you</p>
 <p>PM: Good morning Jon, thanks for having us on the program.</p>
 <p>FAINE: Yesterday you announced an ambitious proposal for an Asia Pacific Community. A push that will involve retired diplomat Richard Woolcott. What's your vision, what does it look like when this is up and running?</p>
 <p>PM: Here is the current challenge. Right now we don't have any single regional organisation in the Asia Pacific which deals with economic cooperation, political cooperation and security cooperation.</p>
@@ -129,6 +119,4 @@
 <p>Get on with the business of doing that, and people will make their judgement in you know, two or three years time, whether that has been sufficient or not. In the mean time, it is just head down, tail up, get on with the job.</p>
 <p>FAINE: Thank you for time this morning.</p>
 <p>PM: Thanks Jon.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

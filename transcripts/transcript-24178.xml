@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24178</transcript-id>
-    <title>Regular international flights in and out of Townsville </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>07/02/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In a boost to northern Australia, from 1 March 2015, Townsville airport will be able to support regular international flights.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24178</transcript-id><title>Regular international flights in and out of Townsville </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>07/02/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In a boost to northern Australia, from 1 March 2015, Townsville airport will be able to support regular international flights.</p>
 <p>Increased visitor numbers will boost the tourism industry in northern Australia, encouraging businesses to invest and helping to unlock the region’s full potential.</p>
 <p>Queensland Airports Ltd has already commenced talks to secure the first international air services into Townsville.</p>
 <p>I hope that these plans can now be finalised and flights can commence in the near future.</p>
@@ -18,6 +8,4 @@
 <p>The White Paper on Developing Northern Australia will set out a clear plan for realising the full economic potential of the north.</p>
 <p>We congratulate Ewen Jones MP, Federal Member for Herbert, for his strong advocacy for this important project.</p>
 <p>7 February 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

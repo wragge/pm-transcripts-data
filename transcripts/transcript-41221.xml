@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41221</transcript-id>
-    <title>Radio interview with Fifi, Fev and Byron - Fox FM Hit 101.9</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/10/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Las Vegas; Terrorism Laws; North Korea;</subjects>
-    <content><![CDATA[<p><strong>FIFI BOX:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41221</transcript-id><title>Radio interview with Fifi, Fev and Byron - Fox FM Hit 101.9</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/10/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Las Vegas; Terrorism Laws; North Korea;</subjects><content><![CDATA[<p><strong>FIFI BOX:</strong></p>
 <p>Prime Minister, welcome back to the show.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much. Great to be with you.</p>
@@ -54,7 +44,7 @@
 <p><strong>BRENDAN FEVOLA:</strong></p>
 <p>Yes, do we have anything to worry about being an Australian resident with what’s going on with the Rocket Man?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Well we certainly do. North Korea poses an enormous threat to peace and stability in our region and the world and that is why we are doing everything we can with the global community to increase the economic pressure on North Korea. </p>
+<p>Well we certainly do. North Korea poses an enormous threat to peace and stability in our region and the world and that is why we are doing everything we can with the global community to increase the economic pressure on North Korea.&nbsp;</p>
 <p>You’ve seen now exports, one category of exports after another from North Korea is being blocked. Oil imports are being restricted. The really important thing is that China is playing a part in this.</p>
 <p>Because clearly, we have, we’ve never had any form of extensive economic relationship with North Korea so our sanctions are not going to bite in the way that China’s are which is the dominant economic relationship.</p>
 <p><strong>FIFI BOX:</strong></p>
@@ -100,8 +90,6 @@
 <p>Well we really appreciate the Prime Minister’s time this morning. Always great access to this show and it is much appreciated. Thanks for your time Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much.</p>
-<p><strong>[ENDS]</strong><br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><strong>[ENDS]</strong><br>
+&nbsp;</p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20939</transcript-id>
-    <title>Stronger Families and Communities  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/10/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I announce today that the Australian Government is committing $7 million to 73 projects under the Stronger Families and Communities Strategy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20939</transcript-id><title>Stronger Families and Communities  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/10/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I announce today that the Australian Government is committing $7 million to 73 projects under the Stronger Families and Communities Strategy.</p>
 <p>  The Strategy is designed to support communities to develop practical and innovative solutions to local circumstances.  With the approval of these new projects, the Strategy has now funded 614 family and community projects.</p>
 <p>It is my belief that families and communities are the backbone of a strong and healthy Australia with well functioning families the best safety net ever devised.  Strong communities always have a core of highly motivated people, many of them volunteers. Encouraging this enthusiasm within families and communities will achieve more success than the Government imposing its own views and solutions.</p>
 <p> A fundamental aim of the Strategy is to undertake early intervention and prevention work that is responsive to communities' needs, with a strong focus on early childhood and parenting support.</p>
@@ -107,6 +97,4 @@
 <p> Western Australian Council of Social Service Inc   Wandering Playground Project   Wandering Parents &amp; Citizens Association</p>
 <p> Yallambee Stronger Families Yallambee - Wongan Hills and District   Association for the Handicapped</p>
 <p> Yellow Ribbon Suicide Prevention Project Central Wheatbelt Community Support Group</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

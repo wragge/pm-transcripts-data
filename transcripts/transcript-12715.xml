@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12715</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH ROSS SYMONDS, CHANNEL SEVEN   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/12/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: NSW bushfire crisis</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12715</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH ROSS SYMONDS, CHANNEL SEVEN   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/12/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: NSW bushfire crisis</p>
 <p>E&amp;OE...........  </p>
 <p>SYMONDS:</p>
 <p>The Federal Government has promised the assistance of the Defence Force to help in this bushfire crisis and joining us from Canberra is the Prime Minister.  Mr Howard, thank you for your time.  How do you anticipate the Defence Force can help?</p>
@@ -28,6 +18,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

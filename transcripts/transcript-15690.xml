@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15690</transcript-id>
-    <title>Interview with Charles Wooley Across Australia</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/08/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15690</transcript-id><title>Interview with Charles Wooley Across Australia</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/08/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Equine flu, apprenticeships announcement, proposed pulp mill in Tasmania, drugs   in sport</p>
 <p>E&amp;OE...</p>
 <p>WOOLEY:</p>
@@ -111,6 +101,4 @@ Equine flu, apprenticeships announcement, proposed pulp mill in Tasmania, drugs 
 <p>But if he doesn't just rule off on everything Gunns wants, would that worry you then, that the whole project might be lost?</p>
 <p>   PRIME MINISTER:</p>
 <p>What would worry me would be if we didn't have a proper process and that the noisy opposition to any pulp mill anywhere succeeds. I hear that some people are saying </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

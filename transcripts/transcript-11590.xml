@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11590</transcript-id>
-    <title>COMMUNITY PARTNERSHIPS COMBAT DRUG ABUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/03/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce funding of $4 million for 63 projects across</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11590</transcript-id><title>COMMUNITY PARTNERSHIPS COMBAT DRUG ABUSE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/03/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce funding of $4 million for 63 projects across</p>
 <p> Australia that involve local community groups and the government working</p>
 <p> together to combat illicit drug use, especially among young people.</p>
 <p>This is an important component of the government's Tough on Drugs</p>
@@ -34,6 +24,4 @@
 <p> of community organisations, supported by government funding.</p>
 <p>I commend each of the programme recipients for their work in this difficult</p>
 <p> area.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

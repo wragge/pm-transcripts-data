@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21949</transcript-id>
-    <title>Employee Assistance for Unlawful Termination  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/09/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce a scheme to provide legal assistance to employees who believe their employment may have been terminated unlawfully.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21949</transcript-id><title>Employee Assistance for Unlawful Termination  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/09/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce a scheme to provide legal assistance to employees who believe their employment may have been terminated unlawfully.</p>
 <p>The plan also includes a comprehensive education and training programme for employers.</p>
 <p>This initiative in no way relates to the already announced intention to repeal the job-destroying unfair dismissal laws for businesses employing fewer than 100 people. The distinction between unlawful termination and unfair dismissal should be kept in mind.</p>
 <p>Under the Australian Government's workplace relations reforms, employees will continue to be protected from unlawful termination regardless of the size of the business.</p>
@@ -22,6 +12,4 @@
 <p>Such employers have no place in a modern productive Australia. Good, honest Australian workers deserve to be treated with consideration and respect.</p>
 <p>  To complement the assistance for employees, the Government will also provide $5 million for a 'best practice' education and training programme on fair and proper employment termination practices.  This will assist employers in their understanding and obligations under the reformed unfair and unlawful termination of employment provisions.</p>
 <p>The Hon Kevin Andrews MP, Minister for Employment and Workplace Relations, and his Department will oversee the scheme.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

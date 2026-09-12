@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18590</transcript-id>
-    <title>Transcript of joint press conference, Chicago</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18590</transcript-id><title>Transcript of joint press conference, Chicago</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here today with Minister Smith, and today I've attended the NATO-ISAF summit. This has been an important meeting and a good discussion between partners.</p>
 <p>Primarily, we spent the time agreeing important outcomes for the future of our mission in Afghanistan.</p>
 <p>First we reviewed transition. We've agreed that we are on track and we will complete transition by the end of 2014.</p>
@@ -109,6 +99,4 @@ PM: I'm here today with Minister Smith, and today I've attended the NATO-ISAF su
 <p>PM: We certainly made our decision and publicly announced it because we thought the very fact that, you know, our nation was making so clear what we were prepared to do, that that in and of itself would have a demonstration effect, if you like, for other nations that were considering making a contribution, and I have, during the course of my various discussions with leaders at this summit indicated that Australia's made its decision, made its contribution, announced it publicly and it is important for all to make appropriate contributions to sustain the Afghan National Security Forces.</p>
 <p>As I said in my intervention during the summit, we haven't invested this much and lost as much as we've lost to not now do the appropriate thing to sustain Afghan National Security Forces beyond 2014.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

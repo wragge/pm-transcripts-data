@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15802</transcript-id>
-    <title>Port Moresby Declaration    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/03/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15802</transcript-id><title>Port Moresby Declaration    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/03/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
      * The Government of Australia is committed to beginning a new era of cooperation with the island nations of the Pacific. </p>
 <p>     * Australia respects the independence of the island nations, and the diversity and complexity of development challenges across our shared region. </p>
 <p>     * Economic growth across the Pacific island nations, while improving in some, generally lags behind other developing regions.  Progress towards the United Nations' Millennium Development Goals has been mixed. </p>
@@ -35,6 +25,4 @@
 <p>     * Australia proposes that, progressively over the course of the coming years, we negotiate Pacific Partnerships for Development with those of our Pacific neighbours that share this vision.</p>
 <p>     * Australia believes that, with long-term commitment and by working towards agreed goals, we will be able to build strong, stable nations in a more prosperous region. </p>
 <p>     * Australia believes that the Millennium Development Goals agreed by the international community at the United Nations Millennium Conference in 2000, provide an appropriate framework for developing nations world-wide, including in our region.  At the mid-point, progress towards the Millennium Development Goals has been mixed.  Australia wants to reach a common resolve with the island nations of the Pacific to strive towards greater success against the Millennium Development Goals by 2015.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23076</transcript-id>
-    <title>Remembrance Day</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>11/11/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>At Remembrance Day services being held across Australia, today we remember the armistice which ended the Great War and the sacrifice of our armed forces in times of conflict.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23076</transcript-id><title>Remembrance Day</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>11/11/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>At Remembrance Day services being held across Australia, today we remember the armistice which ended the Great War and the sacrifice of our armed forces in times of conflict.</p>
 <p>On Remembrance Day we stop and observe that moment when the guns fell silent.</p>
 <p>We remember the Australians who have given their lives in the service of our nation and in the defence of our values.</p>
 <p>They are our nation’s sons and daughters.</p>
 <p>May our country’s remembrance of them and their sacrifice remain ever strong.</p>
 <p>Lest we forget.</p>
 <p>11 November 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

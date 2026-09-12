@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18718</transcript-id>
-    <title>Transcript of interview with Linda Mottram, ABC Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18718</transcript-id><title>Transcript of interview with Linda Mottram, ABC Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 E &amp; O E  -  PROOF ONLY</p>
 <p>HOST: Prime Minister thank you so much for you time this morning.</p>
 <p>PM: Good morning Linda.</p>
@@ -76,6 +66,4 @@ E &amp; O E  -  PROOF ONLY</p>
 <p>HOST: Prime Minister, very good of you to join us this morning. Thank you so much.</p>
 <p>PM: Thank you.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

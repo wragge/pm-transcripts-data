@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16991</transcript-id>
-    <title>Transcript of Christmas message    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/12/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Happy Christmas to all Australians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16991</transcript-id><title>Transcript of Christmas message    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/12/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Happy Christmas to all Australians.</p>
 <p>Christmas is a time for families, for friends, and for loved ones.</p>
 <p>It's a time of magic and wonder for our kids. A time to reflect on the year that's passed, and on the challenges for the year ahead.</p>
 <p>Christmas is also a time to think about those who cannot be with their families and loved ones.</p>
@@ -32,6 +22,4 @@
 <p>Therese and I, and the kids, hope that your holiday will be relaxing. That you get the opportunity to recharge your batteries. And that you spend time with family, friends, and loved ones.</p>
 <p>And for those of you travelling over the holiday period- please, please, please drive carefully. We all need to take extra care on our roads.</p>
 <p>Wherever you are this Christmas- in our cities, in the 'burbs, in the bush, or on the beaches- on behalf of our family, I wish all Australians a restful Christmas, a happy Christmas, and a very happy New Year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

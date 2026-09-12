@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18309</transcript-id>
-    <title>Changes to the Ministry</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/12/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18309</transcript-id><title>Changes to the Ministry</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/12/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today I announce changes to the Ministry and the Cabinet.</p>
 <p>These changes will better equip the Government to focus on its priorities for the coming year:</p>
-<p> * 	Keeping the economy strong and ensuring Australians have jobs as the economy goes through a period of profound transformation.<br />
+<p> * 	Keeping the economy strong and ensuring Australians have jobs as the economy goes through a period of profound transformation.<br>
  * 	Using our prosperity to spread benefits to all Australians.</p>
 <p>The Australian economy and Australian businesses will face both challenges and opportunities in coming years as our economy transforms.</p>
 <p>The transition to a clean energy future, the emergence of new technologies and the changes to existing industries to take advantage of new conditions will bring enormous opportunities our nation must be ready to seize.</p>
@@ -61,6 +51,4 @@ Today I announce changes to the Ministry and the Cabinet.</p>
 <p>Responsibility for cyber security policy will move from the Attorney-General's portfolio to my portfolio.</p>
 <p>All departmental changes will occur within existing resources and existing Secretaries will remain in place.</p>
 <p>I will recommend to her Excellency the Governor-General that the new Ministry be sworn on Wednesday 14 December 2011. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

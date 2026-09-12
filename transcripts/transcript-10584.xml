@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10584</transcript-id>
-    <title>PRIME MINISTER, THE                                       HON JOHN HOWARD, MP                                       MINISTER FOR INDUSTRY, THE HON JOHN MOORE,                                       MP                                       JOINT PRESS RELEA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> The Federal Government has confirmed its</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10584</transcript-id><title>PRIME MINISTER, THE                                       HON JOHN HOWARD, MP                                       MINISTER FOR INDUSTRY, THE HON JOHN MOORE,                                       MP                                       JOINT PRESS RELEA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> The Federal Government has confirmed its</p>
 <p>   commitment to promote job security, with</p>
 <p>   a sensible and practical new package for</p>
 <p>   the TCF industries.</p>
@@ -85,6 +75,4 @@
 <p>   encourage strategic alliances, joint ventures,</p>
 <p>   and effective value chain management, as</p>
 <p>   well as investment in skills development.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

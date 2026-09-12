@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17442</transcript-id>
-    <title>State funeral service for the Hon Kenneth Wriedt</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/10/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17442</transcript-id><title>State funeral service for the Hon Kenneth Wriedt</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/10/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister Julia Gillard today announced there would be a State Funeral Service for the Honourable Kenneth Shaw Wriedt, a highly respected member of the Australian Labor Party and of the Federal and Tasmanian Parliaments.</p>
 <p>Mr Wriedt was a Senator for Tasmania from 1967 to 1980 during which time he served as a well-regarded Minister during the Whitlam Government, holding the portfolios of Primary Industry (later Agriculture) from 1972 to 1975, Minerals and Energy in 1975 and Leader of the Government in the Senate.</p>
 <p>He also served as Leader of the Opposition in the Senate from 1975 to 1980.</p>
@@ -19,6 +9,4 @@ The Prime Minister Julia Gillard today announced there would be a State Funeral 
 <p>The Prime Minister said the service would provide members of the Federal and Tasmanian Parliaments and members of the public with the opportunity to pay their respects to a long-serving and distinguished political leader.</p>
 <p>The service will be held at 11am on Wednesday 27 October 2010 at the Federation Concert Hall, 1 Davey Street, Hobart.</p>
 <p>Further details in relation to the service can be obtained by phoning 03 6232 7120 or 03 6232 7130. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

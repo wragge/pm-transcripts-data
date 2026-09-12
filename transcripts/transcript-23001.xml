@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23001</transcript-id>
-    <title>WestConnex: Building the roads of the 21st century</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/09/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A day after being sworn-in, the Coalition Government in Canberra is delivering on its promise to build a stronger Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23001</transcript-id><title>WestConnex: Building the roads of the 21st century</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/09/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A day after being sworn-in, the Coalition Government in Canberra is delivering on its promise to build a stronger Australia.</p>
 <p>Prime Minister Tony Abbott, Minister for Infrastructure and Regional Development, Warren Truss and Assistant Minister for Infrastructure and Regional Development, Jamie Briggs, joined NSW Premier Barry O’Farrell and Roads and Ports Minister, Duncan Gay, to release the detailed business case supporting the construction of WestConnex in Sydney.</p>
 <p>“I want to be known as an infrastructure Prime Minister and I want building the roads of the 21st century to be a hallmark of my Government,” Mr Abbott said.</p>
 <p>“Getting cracking on WestConnex was a solemn commitment that I made to the people of Western Sydney, so I’m excited that just a day after forming government, WestConnex is coming closer.</p>
@@ -25,7 +15,8 @@
 <p>The WestConnex project is expected to be completed by 2023.</p>
 <p>Along with WestConnex, the federal Government has also committed $405 million to get Sydney’s F3 to M2 started by late 2014, which will mean shorter travel times, reduced congestion and safer roads for Sydney and Central Coast commuters.</p>
 <p>These Sydney road projects are part of the federal Government’s nationwide major roads blueprint which also includes:</p>
-<ul><li>$6.7 billion to fix Queensland’s Bruce Highway;</li>
+<ul>
+<li>$6.7 billion to fix Queensland’s Bruce Highway;</li>
 <li>$5.6 billion to complete the duplication of the Pacific Highway from Newcastle to the Queensland border;</li>
 <li>$1.5 billion to get Melbourne’s East West Link underway;</li>
 <li>$1 billion to support the Gateway Motorway upgrade in Brisbane;</li>
@@ -35,7 +26,6 @@
 <li>$400 million to upgrade the Midland Highway in Tasmania; and</li>
 <li>$300 million to finalise plans, engineering design and environmental assessments for the Melbourne to Brisbane inland rail.</li>
 <li>We will also get the Toowoomba Second Range Crossing underway and have committed $130 million to the project over the forward estimates.</li>
-</ul><p>The WestConnex Business Case Executive Summary is available at <a href="http://rms.gov.au">rms.nsw.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+</ul>
+<p>The WestConnex Business Case Executive Summary is available at <a href="http://rms.gov.au">rms.nsw.gov.au</a></p>
+]]></content></item></response>

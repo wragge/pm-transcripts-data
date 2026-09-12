@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20836</transcript-id>
-    <title>Doorstop Interview, Darwin  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20836</transcript-id><title>Doorstop Interview, Darwin  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  PRIME MINISTER:</p>
 <p>Well ladies and gentlemen this has been quite an exciting moment to be right at the front edge of the final stages of the construction of this great national project.  And there is some wonderfully strong messages coming out of it and the importance of these huge infrastructure projects for Australia's future.  The other great thing was that the original aim was to have at least 50 aboriginal employees working on the construction. That target has been more than trebled and in the process they've learnt some wonderful skills and I hope that those skills will bear them well into the future into other jobs.  It's a great example of doing something practical that helps the community and also, of course, makes a huge contribution to a great national project.</p>
 <p>JOURNALIST: … employees on the project?</p>
 <p>PRIME MINISTER:</p>
@@ -17,6 +7,4 @@
 <p>JOURNALIST:  [Inaudible] do there, what other projects?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, there's the potential private sector project, the gas industry obviously has a great future in this part of the world and I think it's just wonderful that we've been able to in a practical way to see indigenous people play a major part in this great national project.  Thank you.  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

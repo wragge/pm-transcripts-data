@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17133</transcript-id>
-    <title>Prime Minister Minister for Health Training record numbers of GPs 15 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $339 million to increase GP training places to record levels to deliver better health and better hospitals for all Australians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17133</transcript-id><title>Prime Minister Minister for Health Training record numbers of GPs 15 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $339 million to increase GP training places to record levels to deliver better health and better hospitals for all Australians.</p>
 <p>Due to historic lack of investment, we inherited a situation where workforce shortages are impacting upon 59 per cent of all Australians.</p>
 <p>In addition, while the number of medical students graduating from our universities will double over the next five years, there has not been a sufficient increase in GP training places to enable more graduating medical students to become General Practitioners.</p>
 <p>The Government will raise the number of places available for medical graduates to train to become a General Practitioner to 1,200 per year by 2014.</p>
@@ -26,6 +16,4 @@
 <p>It will ensure that Commonwealth funded GP services have the workforce needed to properly treat Australians through less expensive primary care services rather than shunting them into expensive hospital services.</p>
 <p>This investment is part of our major focus on primary care.</p>
 <p>This critical investment will be included and offset across the forward estimates in the 2010-11 Budget, consistent with the Government's strict fiscal strategy.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

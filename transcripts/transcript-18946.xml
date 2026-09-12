@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18946</transcript-id>
-    <title>Gillard Government Supports Manufacturing Jobs</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18946</transcript-id><title>Gillard Government Supports Manufacturing Jobs</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>The Gillard Government today announced a further suite of measures to ensure Australia has a dynamic manufacturing industry which continues to provide skilled and well-paid jobs.</p>
 <p>A high-level Manufacturing Leaders Group will be led by Boeing Australia president, Ian Thomas, to help manufacturers seize the opportunities of the Asian Century.</p>
 <p>The Government is appointing William Angove as the first Automotive Supplier Advocate to boost sales of Australian-made cars to government and business fleets and to work with the automotive industry to win new markets.</p>
@@ -19,13 +9,11 @@
 <p>Manufacturing employs nearly one million Australians and is an essential part of a broad-based Australian economy.</p>
 <p>The sector is facing increased pressure due to the high Australian dollar and competition from low-cost economies in our region, which is why the Government established the Prime Minister's Manufacturing Taskforce.</p>
 <p>Today's announcements follow other recent steps including:</p>
-<p> * 	Establishing a new Anti-Dumping Commission with increased powers and resources to provide a fair go for Australian manufacturers and farmers.<br />
- * 	Support for innovative manufacturing through the $240 million 16th Cooperative Research Centres selection round, which will open for applications in February 2013.  At least $50 million from this funding round will support the development and application of new technologies to support growth and competitiveness in Australian manufacturing.<br />
- * 	Provision of more than $38 million in Clean Technology Grants for food processors to improve energy efficiency, reduce costs and improve productivity.<br />
+<p> * 	Establishing a new Anti-Dumping Commission with increased powers and resources to provide a fair go for Australian manufacturers and farmers.<br>
+ * 	Support for innovative manufacturing through the $240 million 16th Cooperative Research Centres selection round, which will open for applications in February 2013.  At least $50 million from this funding round will support the development and application of new technologies to support growth and competitiveness in Australian manufacturing.<br>
+ * 	Provision of more than $38 million in Clean Technology Grants for food processors to improve energy efficiency, reduce costs and improve productivity.<br>
  * 	Establishing a Centre for Workplace Leadership to encourage higher performing workplaces and stronger leadership capability to boost productivity.</p>
 <p>These further steps to strengthen Australian manufacturing and services reflect the recommendations of the Prime Minister's Manufacturing Taskforce, which reported this year.</p>
 <p>Early next year the Government will release an Industry and Innovation Statement setting out a long term agenda to strengthen Australian industries, create Australian jobs and seize new opportunities in the Asian Century.</p>
 <p>The Statement will outline the Government's plan to encourage the growth of a competitive, productive manufacturing sector built on innovation, quality products and services underpinned by the application of new research and knowledge.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

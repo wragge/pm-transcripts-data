@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23125</transcript-id>
-    <title>Australia assumes presidency of the G20</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>01/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today marks the official commencement of Australia’s Presidency of the G20.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23125</transcript-id><title>Australia assumes presidency of the G20</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>01/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today marks the official commencement of Australia’s Presidency of the G20.</p>
 <p>Hosting the G20 in 2014 is a big opportunity and a big responsibility for Australia.</p>
 <p>It allows us to help shape the global economic agenda for the benefit of all countries, and provides the opportunity to showcase the best of our nation.</p>
 <p>The G20’s membership includes most of Australia’s largest trading partners – particularly those in the Asia-Pacific with whom we already have close and valued relationships.</p>
 <p>Australia’s G20 Presidency in 2014 will focus on:</p>
-<ul><li>Promoting stronger economic growth and more jobs; and</li>
+<ul>
+<li>Promoting stronger economic growth and more jobs; and</li>
 <li>Making the global economy more resilient to deal with future shocks.</li>
-</ul><p>As this year’s host, Australia has invited Singapore and New Zealand to join the G20 table in 2014. Both will bring much expertise to the G20’s work.</p>
+</ul>
+<p>As this year’s host, Australia has invited Singapore and New Zealand to join the G20 table in 2014. Both will bring much expertise to the G20’s work.</p>
 <p>The G20 Summit will be the most significant meeting of world leaders Australia has ever hosted.</p>
 <p>With 4,000 international delegates and 3,000 media anticipated to attend, it will bring global exposure to Brisbane in a way not experienced since the Commonwealth Games and World Expo of the 1980s.</p>
 <p>There will also be a dedicated Trade Ministers Meeting and a dedicated Employment Ministers Meeting as part of the G20 2014 agenda.</p>
@@ -27,6 +19,4 @@
 <p>“There has never been a better time to invest, employ and grow in Queensland.</p>
 <p>“We look forward to having Brisbane and the entire state in the world spotlight and the economic benefits that will follow from holding the G20 Summit here.”</p>
 <p>1 December 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

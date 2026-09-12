@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20844</transcript-id>
-    <title>Interview with Ray Hadley Radio 2GB </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20844</transcript-id><title>Interview with Ray Hadley Radio 2GB </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  PRIME MINISTER:</p>
 <p>Ray, nice to be with you again.</p>
 <p>HADLEY:</p>
 <p>I appreciate that, but we've got a very important occurrence in the next three or four hours in Indonesia in light of what happened at the Marriott Hotel, the sentencing, or in fact the determination of guilt or innocence of Amrozi and then some time later the sentencing.  And we've had a message today to say that, and this comes from apparently someone in Indonesia, a message from our enemies, that if they execute any of our Muslim brothers we'll continue this campaign of terror in Indonesia and the region.  Are we at risk in the next seven days?</p>
@@ -56,6 +46,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay, thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

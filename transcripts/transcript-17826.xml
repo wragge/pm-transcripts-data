@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17826</transcript-id>
-    <title>Death of Osama bin Laden</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17826</transcript-id><title>Death of Osama bin Laden</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 President Obama today announced that Osama bin Laden, the leader of the terrorist group al Qaeda, has been killed in an operation conducted by United States forces in Abbottabad, Pakistan.</p>
 <p>I join other world leaders in welcoming this great blow against terrorism.</p>
 <p>On behalf of the nation, I thank President Obama and congratulate the United States officials and military personnel who supported, planned and carried out this operation.</p>
@@ -17,14 +7,12 @@ President Obama today announced that Osama bin Laden, the leader of the terroris
 <p>Bin Laden waged war on innocent civilians.  Under his command, al Qaeda planned and executed the 11 September 2001 attacks in New York and Washington in which nearly 3,000 innocent civilians were murdered.</p>
 <p>Bin Laden's al Qaeda also conducted, inspired or had links to numerous other terrorist atrocities in which Australians were killed and wounded.</p>
 <p>Today, above all, we remember those who lost their lives in these attacks. These include:</p>
-<p> * 	10 Australians on 11 September 2001<br />
- * 	88 Australians in Bali on 12 October 2002<br />
- * 	1 Australian in London on 7 July 2005<br />
- * 	 4 Australians in Bali on 1 October 2005<br />
- * 	2 Australians in Mumbai on 26-29 November 2008<br />
+<p> * 	10 Australians on 11 September 2001<br>
+ * 	88 Australians in Bali on 12 October 2002<br>
+ * 	1 Australian in London on 7 July 2005<br>
+ * 	 4 Australians in Bali on 1 October 2005<br>
+ * 	2 Australians in Mumbai on 26-29 November 2008<br>
  * 	3 Australians in Jakarta on 17 July 2009</p>
 <p>Our fight against terrorism does not end with bin Laden's death. We must remain vigilant against the threat posed by al Qaeda and the groups it has inspired.</p>
 <p>We will continue our support for the counter-terrorism efforts of the United States and our partners and we will continue our efforts in Afghanistan to ensure that country never again becomes a safe haven for terrorism. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

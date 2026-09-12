@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21033</transcript-id>
-    <title>Doorstop Interview International Conference Centre, Abuja </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21033</transcript-id><title>Doorstop Interview International Conference Centre, Abuja </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, the Information Minister from Zimbabwe Mr Moyo suggests that Australia was being racist in its position against Zimbabwe [inaudible] do with the ….</p>
 <p>PRIME MINISTER:</p>
 <p>It';s totally absurd.</p>
@@ -63,6 +53,4 @@
 <p>No, I don';t think the Commonwealth will split, I think there will be a vigorous disagreement on this issue and there';ll probably continue to be, but I don';t believe it will split.</p>
 <p> Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

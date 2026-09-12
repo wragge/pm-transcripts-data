@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17929</transcript-id>
-    <title>Government - Telstra - NBN Co deal delivers historic telecommunications reform</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17929</transcript-id><title>Government - Telstra - NBN Co deal delivers historic telecommunications reform</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Super fast broadband for all Australians took another step forward today as the Gillard Government welcomed the landmark announcement by Telstra and NBN Co to enter into Definitive Agreements on the rollout of the National Broadband Network (NBN).</p>
 <p>The Definitive Agreements will allow for a cheaper, more-efficient rollout of the NBN, which will mean Australians will begin gaining access to the NBN sooner and hasten the Government's delivery of super fast broadband to all Australians, no matter where they live across our vast country.</p>
 <p>The Definitive Agreements are also an important step in the reform of the telecommunications industry, paving the way for structural separation of Telstra and construction of the NBN.</p>
@@ -21,6 +11,4 @@ Super fast broadband for all Australians took another step forward today as the 
 <p>Before the Definitive Agreements come into force, they require approval  by the shareholders of Telstra and NBN Co. The Definitive Agreements will also be reviewed by the Australian Competition and Consumer Commission (ACCC) as part of its consideration of Telstra's Structural Separation Undertaking which Telstra is expected to lodge with the ACCC shortly.</p>
 <p>In support of the Definitive Agreements, the Government has provided NBN Co with a funding agreement to enable NBN Co to enter into these substantial commitments and it has also provided guarantees to Telstra in respect of NBN Co's financial commitments to Telstra.</p>
 <p>These support arrangements have been designed to complement each other and provide sufficient confidence to enable these Agreements - which are fundamental to structural reform of the telecommunications industry - to be entered into. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

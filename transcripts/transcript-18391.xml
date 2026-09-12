@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18391</transcript-id>
-    <title>Australia to provide historical film and images to East Timor</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18391</transcript-id><title>Australia to provide historical film and images to East Timor</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government will provide East Timor with a collection of historically significant and rare films and photographs to help celebrate its 10th anniversary of independence.</p>
 <p>Prime Minister Julia Gillard today presented East Timor's Prime Minister Xanana Gusmão with a framed photograph and two historical films taken in East Timor during the 1920's and during World War II to mark the start of the unique project.</p>
 <p>The National Film and Sound Archives (NFSA) holds a broad collection of audiovisual materials taken in East Timor which will be of great value to one of the world's youngest nations.</p>
@@ -26,6 +16,4 @@ The Australian Government will provide East Timor with a collection of historica
 <p>As a close neighbour, Australia remains strongly committed to East Timor's future and development priorities, providing an estimated $124 million in assistance in 2011-12.</p>
 <p>The Australian Government has announced the ‘Roads for Development' program which will provide $30 million over four years for the rehabilitation and maintenance of the road system in Timor-Leste, providing short-term employment for an estimated 52,000 Timorese and increased access to schools and health services in rural areas.</p>
 <p>The ‘Rural Water Supply and Sanitation' program also will supply $45 million over four years, andby the end of 2012will provide an additional 35,000 East Timorese with access to basic sanitation, as well as access for an additional 90,000 East Timorese to safe, reliable, and sustainable water supplies. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

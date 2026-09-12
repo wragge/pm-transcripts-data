@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21133</transcript-id>
-    <title>Doorstop Interview, Casimir Catholic College Marrickville, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/02/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21133</transcript-id><title>Doorstop Interview, Casimir Catholic College Marrickville, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/02/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>  Mr Howard, can I start the thing by asking you what you feel about Malcolm Turnbull's victory?</p>
 <p>PRIME MINISTER:</p>
 <p>I congratulate Malcolm.  He is a very able person who will bring quite an array of talents to the Parliament.  I commiserate naturally with Peter King.  He will feel a sense of disappointment.  Malcolm is a very able person and it's always good when people of great ability win preselection.  It was a tough, competitive process, but that's the tradition of our Party and we should never be ashamed of competitive democracy.</p>
@@ -70,6 +60,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I don't have any comment on that.  I follow the longstanding practice of my predecessors, both Labor and Liberal, of not commenting on intelligence and security matters - a very sound principle.  Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

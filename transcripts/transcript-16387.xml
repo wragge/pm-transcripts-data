@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16387</transcript-id>
-    <title>Prime Minister&#039;s Address to the Nation Parliament House, Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/02/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Good evening, in the last three months, the global financial crisis has deteriorated dramatically.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16387</transcript-id><title><![CDATA[Prime Minister&#039;s Address to the Nation Parliament House, Canberra   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/02/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Good evening, in the last three months, the global financial crisis has deteriorated dramatically.</p>
 <p>We now face a global economic recession - with a massive impact on jobs right across the world.</p>
 <p>What began with unrestrained greed on Wall Street has now spread across every economy in the world.</p>
 <p>For Australia this reality has also hit home. Six of our ten major trading partners are now in recession.</p>
@@ -37,6 +27,4 @@
 <p>I have absolute confidence that this strategy, combined with the great underlying strengths of the Australian economy and people, will see our nation through this crisis.</p>
 <p>I thank you for listening.</p>
 <p>A video of this speech is also available.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10576</transcript-id>
-    <title>Radio Interview with Ross Warneke, Radio 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/11/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>3 November 1997</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10576</transcript-id><title>Radio Interview with Ross Warneke, Radio 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/11/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>3 November 1997</p>
 <p>E&amp;OE..........................................................................................................................</p>
 <p><b>WARNEKE:</b></p>
 <p>Prime Minister, good morning.</p>
@@ -117,6 +107,4 @@
 <p><b>WARNEKE:</b></p>
 <p>All right, Prime Minister, thank you for your time this morning. I hope you’re right. I hope it does succeed. It’s one of the biggest problems we’ve got in this country.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

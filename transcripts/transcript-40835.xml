@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40835</transcript-id>
-    <title>Press Conference with the Attorney-General</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>21/03/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Reform to section 18C of the Racial Discrimination Act</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40835</transcript-id><title>Press Conference with the Attorney-General</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>21/03/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Reform to section 18C of the Racial Discrimination Act</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Good afternoon. Today I am here with the Attorney and we are announcing changes to the Racial Discrimination Act and the Human Rights Commission legislation, which will strengthen the protection of Australians from racial vilification and strengthen the protection of free speech, one of the fundamental freedoms upon which our democracy depends.</p>
 <p>We are defending the law by making it clearer. We are defending Australians from racial vilification, by replacing language which has been discredited and has lost credibility. It has lost the credibility that a good law needs.</p>
 <p>So the changes we are proposing to section 18C will provide the right balance between defending Australians from racial vilification and defending and enabling their right of free speech upon which our democracy, our way of life, depends.</p>
@@ -23,7 +13,7 @@
 <p>I'll ask the Attorney to describe in more detail the legislation.</p>
 <p><strong>ATTORNEY-GENERAL:</strong></p>
 <p>Thank you very much indeed, Prime Minister. The legislation will correct some important gaps in the existing provisions of the Racial Discrimination Act.</p>
-<p>It will, importantly, introduce the concept of harassment as one of the grounds of racial vilification. In 1991, when the then Human Rights and Opportunity Commission reviewed the law, the review that was the basis of Part Two of the Racial Discrimination Act, it recommended “harassment” as one of the grounds of racial vilification. That was not done when the current provisions were inserted in 1995. So we’re introducing the notion that to “harass” someone on the grounds of their race or national or ethnic origin, is prohibited conduct. </p>
+<p>It will, importantly, introduce the concept of harassment as one of the grounds of racial vilification. In 1991, when the then Human Rights and Opportunity Commission reviewed the law, the review that was the basis of Part Two of the Racial Discrimination Act, it recommended “harassment” as one of the grounds of racial vilification. That was not done when the current provisions were inserted in 1995. So we’re introducing the notion that to “harass” someone on the grounds of their race or national or ethnic origin, is prohibited conduct.&nbsp;</p>
 <p>As well, when the then Attorney-General Mr Lavarch introduced the current provision in November 1994, he said that the reach of them was to be judged by the objective standards of the ordinary member of the Australian community. That has been eroded by judicial interpretation over the last 20 years.</p>
 <p>So these reforms will restore, explicitly, that the test by which conduct is to be judged, is the ordinary, reasonable member of the Australian community's standard - the objective standard that was always intended when these provisions were inserted into the law to be the standard.</p>
 <p>We have decided to accept recommendations of the Parliamentary Joint Committee on Human Rights, to ensure that the Human Rights Commission, in investigating complaints made to it, observe the principles of procedural fairness. We're introducing new provisions relating to the early termination of complaints, so that the President is obliged to make a preliminary assessment upon receiving a complaint, as to whether the complaint has substance or any reasonable prospect of being resolved in favour of the complainant. He or she has to do that before embarking on a formal inquiry. If the President is of the view that the complaint is without substance, and has no reasonable prospects of success, there will be an obligation to terminate the complaint at that point, at the threshold, rather than exposing people who are the subject of complaint, like the QUT students for instance, to the torment of process.</p>
@@ -108,7 +98,7 @@
 <p>I don't know whether the Attorney wants to express a legal opinion, but I don't want to express a view on the conduct of that particular case. But look, the decision of the trial judge, I think, has been criticised in many legal quarters. It's been often said that Mr Bolt would have been well-advised to appeal. But again, that's a legal question. I don't want to express a view on that. I'd simply say that we know that the language of 18 C at the moment has lost its credibility. It is widely criticised. It is held up as being an in appropriate restriction on free speech. It has lost the confidence that a law of this kind, needs. So recasting it in clearer language, makes it stronger. A clearer law is a stronger law. A law whose words mean what they say, whose natural and ordinary meaning, delivers the object of the Act, that's a clearer law. That is consistent with the rule of law.</p>
 <p>There have been many criticisms of 18C's current wording, on the basis that the words themselves do not express what the courts have said they mean. So isn't it better to have language that is clear, that is precise, that gives greater strength, greater protection, against racial vilification and better preserves the freedom of speech, that is so vital in our democracy? I know that the point has been made: “Well, how many cases have been lost” and so forth? The reality is, if you have language that is too wide, too general, it has a chilling effect on free speech.</p>
 <p>It's not just the cases that hit the headlines, it's all of the speech that is inhibited, the speech that should be allowed. What we've set out is clear language which will better protect Australians from racial vilification. It's consistent with precedent and practice. It's clear, it's stronger, it's fairer.</p>
-<p><strong>JOURNALIST:</strong> </p>
+<p><strong>JOURNALIST:</strong>&nbsp;</p>
 <p>Do these changes restore - as you once put it Attorney - the right to be a bigot?</p>
 <p><strong>ATTORNEY GENERAL:</strong></p>
 <p>That's not what the changes are about. The changes are getting the balance right between strong protection against racial vilification, protection of freedom of speech and procedural fairness. Those are the three values that are sometimes – very often in fact – contentious. As the Prime Minister said, we've been embarking on the exercise of law reform. We don't assume that the current law is perfect. What we do, is we look at the law, we look at the limitations that have been exposed in the law. We look at the gaps in the law, like the omission of harassment. We ask ourselves the question: “How do we best recast this law to reconcile the three competing values”? I believe we have got this right.</p>
@@ -116,6 +106,4 @@
 <p>Thank you all very much.</p>
 <p><strong>ENDS</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

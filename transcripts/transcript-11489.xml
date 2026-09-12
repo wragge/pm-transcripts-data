@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11489</transcript-id>
-    <title>Doorstop Interview at Kiribati - 28 October 2000</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service></period-of-service>
-    <release-date>21/10/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Pacific Island Forum</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11489</transcript-id><title>Doorstop Interview at Kiribati - 28 October 2000</title><prime-minister>Howard, John</prime-minister><period-of-service></period-of-service><field_date>21/10/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Pacific Island Forum</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>How did the talks go today?</p>
@@ -100,6 +90,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I think we just let the situation unfold. I think you have to be, you do have to respect Indonesia's sensitivities on this. They're important and they're understandable. It is different. I mean the history of the two, of West Papua and East Timor is quite different. There was an historical continuity from the colonial times so there is difference. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

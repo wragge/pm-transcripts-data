@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20759</transcript-id>
-    <title>Interview with Liam Bartlett, ABC Radio   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/04/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BARTLETT:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20759</transcript-id><title>Interview with Liam Bartlett, ABC Radio   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/04/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BARTLETT:</p>
 <p>We welcome Prime Minister John Howard to the program, in Perth to meet the families of Australian troops serving in the Gulf, in what has been described as something of a victory lap around the country. Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning. Well, I wouldn't call it a victory lap. I started having receptions for families just after the military engagement commenced and what I have wanted to do is to have one in every major city. We had one at Admiralty House in Sydney and then we had one in Tasmania, and we've had one in Brisbane, one in Melbourne, one in Adelaide, and we're having one in Perth today and I'm very grateful that the West Australian Governor, General Sanderson, has made Government House available. It's just a cup of tea and an opportunity for me and others to just say to the families of men and women in the Gulf how much we appreciate their efforts, and how much we continue to think of them. The military operation of course has gone very well and I'll have the opportunity of saying that to them in a personal way, and everybody should be very proud of what they have done. They did the right thing by their country. It was a just cause. And I'm very grateful so far, cross all my fingers and toes, that nothing has happened to any of them, and that's tremendous.</p>
@@ -226,6 +216,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

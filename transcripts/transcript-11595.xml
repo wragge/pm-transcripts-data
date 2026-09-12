@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11595</transcript-id>
-    <title>AUSTRALIAN HONOURS SYSTEM         25th ANNIVERSARY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/01/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I congratulate the 430 Australians recognised in the Australia Day Honours</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11595</transcript-id><title>AUSTRALIAN HONOURS SYSTEM         25th ANNIVERSARY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/01/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I congratulate the 430 Australians recognised in the Australia Day Honours</p>
 <p> List.</p>
 <p>The year 2000 is the 25th anniversary of the creation of Australia's</p>
 <p> own honours system. Over this quarter of a century a richly diverse group</p>
@@ -31,6 +21,4 @@
 <p> the great country it is today, have been recognised by the nation.</p>
 <p>Honours List is available at:</p>
 <p><a href="http://www.itsanhonour.gov.au/">http://www.itsanhonour.gov.au/</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

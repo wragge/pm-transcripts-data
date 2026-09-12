@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12142</transcript-id>
-    <title>The Choice on November 10</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/10/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I called on the Governor-General and recommended that the Parliament be prorogued, the House of Representatives be dissolved and the necessary action be taken for a half Senate election in time for the elections for both houses of Parliament to be held on Saturday 10 November 2001. The Governor-General has accepted my advice.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12142</transcript-id><title>The Choice on November 10</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/10/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I called on the Governor-General and recommended that the Parliament be prorogued, the House of Representatives be dissolved and the necessary action be taken for a half Senate election in time for the elections for both houses of Parliament to be held on Saturday 10 November 2001. The Governor-General has accepted my advice.</p>
 <p>Under these arrangements, the House of Representatives will be dissolved at noon on Monday 8 October 2001. The Government will therefore be in caretaker mode from that time until the outcome of the election is known.</p>
 <p>The first election of the new millennium provides Australians with a clear choice.</p>
 <p>It is a choice between certainty, stability and strength on the one hand and political opportunism and a lack of a clear and coherent alternative on the other.</p>
@@ -38,6 +28,4 @@
 <p>They opposed our fiscal changes, our sweeping tax reform and even carped about aspects of our involvement in East Timor and, more recently, in dealing with people smugglers. They have sought to walk both sides of the street – to capitalise on public discontent with our decisions but, in most cases, ultimately agreeing with us. They have refused to release detailed policies or take a stand on major issues.</p>
 <p>Only the Liberal and National Parties can see Australia through the times ahead.</p>
 <p><strong>5 October 2001</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

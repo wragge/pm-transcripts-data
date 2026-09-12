@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21188</transcript-id>
-    <title>Community Pharmacies  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/04/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I attach my letter to Mr Carr which reflects the substance of my discussion with the NSW Premier today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21188</transcript-id><title>Community Pharmacies  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/04/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I attach my letter to Mr Carr which reflects the substance of my discussion with the NSW Premier today.</p>
 <p>As stated in the letter, the NSW Government has yet to present a public interest case to the National Competition Council in support of existing legislative arrangements in NSW.</p>
 <p>I urge Mr Carr to present a public interest case. It is the commonsense thing to do.</p>
 <p>5 April 2004</p>
@@ -23,6 +13,4 @@
 <p>As you noted in your letter, I have been and continue to be a supporter of the principle of community pharmacy, and only support reforms that are in the public interest.</p>
 <p>Yours sincerely</p>
 <p>  (John Howard)  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

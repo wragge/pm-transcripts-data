@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22105</transcript-id>
-    <title>Sen The Hon Kay Patterson  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/01/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As indicated in her statement the Minister for Family and Community Services, Senator Kay Patterson, told me yesterday that she intended to resign from the Ministry.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22105</transcript-id><title>Sen The Hon Kay Patterson  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/01/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As indicated in her statement the Minister for Family and Community Services, Senator Kay Patterson, told me yesterday that she intended to resign from the Ministry.</p>
 <p>  I express my deep gratitude to Senator Patterson for the huge contribution she has made as a member of the Cabinet over the past four years. She is a wonderful colleague, high in the esteem of all of us.</p>
 <p> Senator Patterson has been a fine and compassionate minister, successively in the portfolios of Health and Ageing and Family and Community Services.</p>
 <p>  She has worked diligently and successfully to promote better family and social policy.  The professional background which she brought to the two portfolios she served in was of particular value.</p>
@@ -18,6 +8,4 @@
 <p> Senator Patterson's frontbench work also included valuable periods as Parliamentary Secretary in the portfolios of Immigration and Foreign Affairs and Trade.</p>
 <p> She is a good humoured person whose contributions around the Cabinet table will be greatly missed.</p>
 <p> I speak for all of my Coalition colleagues in thanking Senator Kay Patterson and paying tribute for her ministerial achievements. I know that she will continue, energetically, to represent the people of Victoria in the Senate during the remainder of her term.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17140</transcript-id>
-    <title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 19 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Good morning, Mr Rudd.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17140</transcript-id><title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 19 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Good morning, Mr Rudd.</p>
 <p>PM: Good morning. Thanks for having me on the program.</p>
 <p>HOST: Has the President called you yet?</p>
 <p>PM: Yeah, I got off the phone from him about an hour or so ago, and we had a good chat. He's sad and sorry that he won't be here in Australia in the coming week or so, but he's looking forward to a more relaxed visit a little later on in the year.</p>
@@ -83,6 +73,4 @@
 <p>PM: You know something? Political commentators will roll out there, say a whole bunch of things, and guess what? A lot of them may not like us, a lot of them may like us from time to time, a lot of them may loathe us for all the time - that's one of the great things about the democratic system which we are.</p>
 <p>Our job is to get on with the business of governing, and on the question of having a debate health and hospitals reform, you know something? I welcome that with open arms. We have a plan for the future, it's clear cut, it's there, it's an extensive document. My opponent doesn't have a plan, and he has a record, and the record on health and hospitals is pretty damn awful.</p>
 <p>HOST: Prime Minister, thank you for your time this morning.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

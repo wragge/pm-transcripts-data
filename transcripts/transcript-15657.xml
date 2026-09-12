@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15657</transcript-id>
-    <title>Interview with Neil Mitchell Radio 3AW, Melbourne</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/03/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15657</transcript-id><title>Interview with Neil Mitchell Radio 3AW, Melbourne</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/03/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Tyler Fishlock, drugs in sport, pecuniary interests, Future Fund </p>
 <p>E&amp;OE...</p>
 <p>MITCHELL:</p>
@@ -232,6 +222,4 @@ Tyler Fishlock, drugs in sport, pecuniary interests, Future Fund </p>
 <p>MITCHELL:  </p>
 <p>The Prime Minister in our Canberra studios.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

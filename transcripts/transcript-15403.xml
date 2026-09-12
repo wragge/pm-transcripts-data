@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15403</transcript-id>
-    <title>Better After-Hours GP Access for Ryde</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/03/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Australian Government intends to provide a grant of $200,000 over two years under the Round the Clock Medicare program to establish a new bulk-billing after-hours GP clinic in Ryde.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15403</transcript-id><title>Better After-Hours GP Access for Ryde</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/03/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Australian Government intends to provide a grant of $200,000 over two years under the Round the Clock Medicare program to establish a new bulk-billing after-hours GP clinic in Ryde.</p>
 <p>Funding has been offered to Family Care Medical Services to establish a clinic in Ryde and contract negotiations will commence immediately.</p>
 <p>Recently the New South Wales Government announced their intention to fund 12 additional GP after-hours services at a cost of $8 million.  My announcement today complements this NSW Government commitment.</p>
 <p>It would be logical if the NSW Government were to match the Australian Government's $200,000 grant and assist in locating this service at the campus of Ryde Hospital or as close as possible to the hospital.  If that commitment is provided quickly, the proposed after-hours service could be up and running within three months of signing a contract.</p>
@@ -19,6 +9,4 @@
 <p>I welcome the support of the Hornsby Ku-ring-gai Division of General Practice.  This support from local GPs recognises that community access to after-hours primary care services can be dramatically improved which will help both local doctors and their patients.</p>
 <p>The Round the Clock Medicare initiative, announced in 2004, provided $62.5 million over five years to extend after-hours general practice.</p>
 <p>By delivering on its Round the Clock Medicare election policy commitment, the Australian Government is helping to restore after-hours GP care both in metropolitan and regional Australia.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

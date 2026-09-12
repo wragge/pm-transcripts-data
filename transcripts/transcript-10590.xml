@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10590</transcript-id>
-    <title></title>
-    <prime-minister></prime-minister>
-    <period-of-service></period-of-service>
-    <release-date>18/12/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[]]></content>
-  </transcript>
-</transcripts>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10590</transcript-id><title></title><prime-minister></prime-minister><period-of-service></period-of-service><field_date>18/12/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content></content></item></response>

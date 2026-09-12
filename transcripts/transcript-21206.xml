@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21206</transcript-id>
-    <title>Interview with Neil Cavuto, Fox News  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CAVUTO:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21206</transcript-id><title>Interview with Neil Cavuto, Fox News  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CAVUTO:</p>
 <p>  In an exclusive interview with Australian Prime Minister John Howard, I asked how the partners in the war on terror should move forward.</p>
 <p>PRIME MINISTER:</p>
 <p>  All of us, whatever our views may originally have been about Iraq, have to stand together because if we react in a way that encourages more hostages to be taken and those taken to be murdered, well we can be certain that is exactly what will happen.  If you feed this kind of behaviour by weakness, the behaviour will intensify.  It won';t go away.  You won';t buy immunity by giving in.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I don';t know, but I have an obligation to serve the interests of the Australian people, and denying terrorists victories and denying terrorism is something that the Australian people, whatever their politics are, overwhelmingly want.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22303</transcript-id>
-    <title>Australian Government Support for Beaconsfield   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/05/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to announce a suite of measures that will honour the memory of Larry Knight and help Beaconsfield get back on its feet.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22303</transcript-id><title>Australian Government Support for Beaconsfield   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/05/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to announce a suite of measures that will honour the memory of Larry Knight and help Beaconsfield get back on its feet.</p>
 <p>Larry's Knight's family has agreed to the Australian Government providing $1 million to establish a Larry Knight equity scholarship at the University of Tasmania.  This scholarship will honour Larry Knight's memory and support Tasmanian students to undertake courses in mining and engineering.</p>
 <p>In recognition of the economic significance of the Beaconsfield mine to the community, the Australian Government will provide $8 million to establish a Beaconsfield Community Fund.</p>
 <p>The Fund will provide important support to the mine, miners and their families and the community.  It will support a range of community-led economic, social and culturally related projects in Beaconsfield so that the community can grow and prosper.</p>
@@ -18,6 +8,4 @@
 <p>Further, the Australian Government has indicated it will provide tax deductibility to the Beaconsfield Miners Support Fund when an application is received.  This Fund was established by the Australian Workers' Union.</p>
 <p>The Australian Government is also disposed to making a contribution to this Fund once its purpose is clarified.</p>
 <p>These measures represent a considered and compassionate response to the extraordinary events at Beaconsfield and seek to assist the community to move forward.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

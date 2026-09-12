@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15747</transcript-id>
-    <title>Joint Press Conference with the Treasurer Parliament House, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM:   The tough job of balancing the family Budget just got a whole lot tougher today with the decision to increase interest rates.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15747</transcript-id><title>Joint Press Conference with the Treasurer Parliament House, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM:   The tough job of balancing the family Budget just got a whole lot tougher today with the decision to increase interest rates.</p>
 <p>The reality of modern life in Australia is that there is no such thing as a small interest rate rise. And after ten interest rate rises in a row, this one will really hurt. Reflecting on how we got into this set of circumstances, the base line is this. That when it comes to higher inflation rates, they result in higher interest rates.</p>
 <p>We've had, now, for a long period of time, inflationary pressures building in the Australian economy. And the truth is, inflation in the last quarter of last year was running at the highest rate in 16 years.</p>
 <p>These pressures have been building particularly over the last couple of years.</p>
@@ -125,6 +115,4 @@
 <p>TREASURER: You know something?  We've got the Remuneration Tribunal, and everyone here is familiar with the way that operates.  I've got a really open mind on that.  It depends how this year starts to unfold.  But restraint is restraint and we'll have something further to say about that.</p>
 <p>Thank you very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

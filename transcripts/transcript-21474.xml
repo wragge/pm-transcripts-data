@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21474</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21474</transcript-id><title>Interview with Neil Mitchell, Radio 3AW  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
  MITCHELL:</p>
 <p> Mr Howard, good morning.</p>
 <p> PRIME MINISTER:</p>
@@ -260,6 +250,4 @@
 <p> MITCHELL:</p>
 <p> Thank you very much.</p>
 <p> [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

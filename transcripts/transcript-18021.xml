@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18021</transcript-id>
-    <title>Australia responds to the humanitarian crisis in the horn of Africa</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18021</transcript-id><title>Australia responds to the humanitarian crisis in the horn of Africa</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government is responding rapidly to the emerging crises to provide food rations and other emergency relief to some 6.7 million people caught in the Horn of Africa's worst drought in 60 years.</p>
 <p>Prime Minister Julia Gillard and Foreign Minister Kevin Rudd have today increased Australia's assistance to the crisis by $30 million to provide urgently needed food rations and shelter to the millions affected by the drought, including nutrition supplements for malnourished women and children.</p>
 <p>More than 10 million people in Djibouti, Ethiopia, Kenya, Somalia and Uganda have been severely affected by the consecutive droughts and a lack of food. UNICEF estimates that there are 480,000 severely malnourished children in drought-affected areas</p>
@@ -19,6 +9,4 @@ The Australian Government is responding rapidly to the emerging crises to provid
 <p>The latest funding builds on a package of assistance announced on 13 July, which is already supporting the World Food Programme to feed Somali and Sudanese refugees in Kenya, as well as helping the UN Food and Agriculture Organization to assist farmers with their livestock.</p>
 <p>Australia's total commitment to the crisis is now $41.2 million. Australia's assistance is helping to fill urgently needed gaps as the situation continues to escalate.</p>
 <p>The UN estimates total humanitarian requirements for the response to this crisis to be around US$1.8 billion, of which only one half is currently funded.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

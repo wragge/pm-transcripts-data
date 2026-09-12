@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18228</transcript-id>
-    <title>Transcript of doorstop interview, Perth</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18228</transcript-id><title>Transcript of doorstop interview, Perth</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I've just come from the opening ceremony of the Commonwealth Heads of Government Meeting which I think went fantastically well and we've just had the first session of the Commonwealth Heads of Government Meeting, the first executive session.</p>
 <p>In that session we heard the President of Rwanda because that is the nation that has just joined the Commonwealth, joined since the last Commonwealth Heads of Government Meeting.</p>
 <p>We had a brief discussion around the theme of this Commonwealth, about building resilience. We also received the reports of the Commonwealth Ministerial Action Group, firstly a report on its general work where they particularly noted their focus on Fiji and I expect the circumstances in Fiji to be debated and discussed by leaders when the leaders retreat happens over the next two days.</p>
@@ -32,6 +22,4 @@ PM: I've just come from the opening ceremony of the Commonwealth Heads of Govern
 <p>JOURNALIST: (Inaudible) if countries like Australia (inaudible)</p>
 <p>PM: Well, Commonwealth Ministerial Action Group is a body of nine ministers drawn - foreign ministers, drawn from across the Commonwealth representing all regions of the Commonwealth and they are seeking - sought from leaders the agreement to strengthen their role to become involved if a country was going off the rails and leaders have given them that new mandate.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16218</transcript-id>
-    <title>Beaconsfield Mine and Heritage Centre    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today opened the $1.7 million Beaconsfield Mine and Heritage Centre.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16218</transcript-id><title>Beaconsfield Mine and Heritage Centre    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today opened the $1.7 million Beaconsfield Mine and Heritage Centre.</p>
 <p>The Centre has been redeveloped using $1.28 million from the Australian Government Beaconsfield Community Fund and is a significant addition to Tasmania's major tourism industry.</p>
 <p>The $8.3 million fund was established following the April 2006 mine collapse that resulted in the tragic death of Larry Knight and saw the nation hold its breath for two weeks while Brant Webb and Todd Russell were trapped.</p>
 <p>Mr Rudd said the opening of the redeveloped and expanded Centre is a testament to the Beaconsfield Community following the mine collapse.</p>
@@ -19,6 +9,4 @@
 <p>“I am pleased that the Australian Government has been able to help through supporting this important redevelopment.”</p>
 <p>The aim of the Beaconsfield Mine and Heritage Centre project is to improve and upgrade the visitor experience at the Heritage Centre.</p>
 <p>The project included an upgrade to museum signage and interpretation materials as well as the construction of new museum buildings. AusIndustry funds also went toward the development and installation of the Mine Rescue Display. In total, 17 projects have received funding under the Beaconsfield Community Fund. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22065</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/12/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22065</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/12/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, are you excited about the IR legislation going through the Senate today?</p>
 <p>PRIME MINISTER:</p>
 <p>This is a very good outcome for the future strength of the Australian economy, that's what this is all about.  And a strong economy is the only true guarantee of job security and future higher real wages.  I thank the Senate for passing the legislation.  This legislation will strengthen the Australian economy in the years ahead and because of that it will be good for jobs and it will be good for higher wages.</p>
@@ -47,6 +37,4 @@
 <p>No, I don't believe so.</p>
 <p>Anything else?  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

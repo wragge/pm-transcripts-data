@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19283</transcript-id>
-    <title>Locking in a Fairer Future for Australians With Disability</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19283</transcript-id><title>Locking in a Fairer Future for Australians With Disability</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>The Gillard Government today announces changes to the Medicare levy to build a better life for Australians with significant and permanent disability.</p>
 <p>Labor is transforming disability services by creating and locking in funding for DisabilityCare Australia, the national disability insurance scheme.</p>
 <p>This reform will provide peace of mind to all Australians that if they or a loved one acquire a disability, they will be supported.</p>
@@ -43,6 +33,4 @@
 <p>Without a stable funding stream, we put at risk DisabilityCare and put at risk the care and support needed by Australians with disability and their families.</p>
 <p>The Gillard Government will offer this choice to the Australian people, by asking them to endorse this decision at the next election.</p>
 <p>If re-elected, the Government will bring legislation for this increased Medicare levy to the 44th Parliament.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

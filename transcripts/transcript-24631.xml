@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24631</transcript-id>
-    <title>Remarks at MH17 first anniversary plaque unveiling, Parliament House, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/07/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The names of the Australians killed in the MH17 atrocity a year ago today are etched on this plaque just as they are etched in our hearts.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24631</transcript-id><title>Remarks at MH17 first anniversary plaque unveiling, Parliament House, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/07/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The names of the Australians killed in the MH17 atrocity a year ago today are etched on this plaque just as they are etched in our hearts.</p>
 <p>The plaque is set in soil that one of our police officers brought back from Ukraine.</p>
 <p>He knew that the place where MH17 came to rest was sacred and that a piece of it should come back to Australia.</p>
 <p>It was a humane and decent thing for him to know and do.</p>
@@ -22,6 +12,4 @@
 <p>May this permanent memorial to your loved ones, close to the memorial to those killed in Bali, be of some comfort.</p>
 <p>We won't forget them and we won't abandon you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

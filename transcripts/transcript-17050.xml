@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17050</transcript-id>
-    <title>Prime Minister Ministerial statement Closing the Gap 11 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/02/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as one of the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17050</transcript-id><title>Prime Minister Ministerial statement Closing the Gap 11 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/02/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as one of the oldest continuing cultures in human history.</p>
 <p>Mr Speaker, two years ago I made a formal Apology in this Parliament to the Indigenous peoples of Australia, and particularly to the Stolen Generations, on behalf of the Government, the Parliament and the people of Australia.</p>
 <p>On that day in 2008, I also pledged to lead a new, national effort to close the gap in life expectancy and life opportunities between Indigenous and non-Indigenous Australians.</p>
 <p>On that day, we achieved for the first time a bi-partisan commitment to closing the gap:</p>
@@ -219,6 +209,4 @@
 <p>10 years ago this May, 250,000 Australians walked across Sydney Harbour Bridge - and 750,000 people walked around the country - in support of reconciliation.</p>
 <p>10 years on, there remains a long journey ahead of us to lift Indigenous outcomes in health, housing, schools and jobs, but as a government and as a people, we can now see a path ahead and we are determined to move forward.</p>
 <p>Not like the past, where it was non-Indigenous Australians seeking to lead Indigenous Australians, but instead, walking together, First Australians alongside all Australians, towards a stronger and fairer Australian nation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10434</transcript-id>
-    <title>Prime Minister in Hospital </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/07/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010434.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On doctor's advice and to enable a full recovery from his current illness the Prime Minister, Mr John Howard, has been admitted to hospital in Sydney.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10434</transcript-id><title>Prime Minister in Hospital </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/07/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010434.pdf</document><subjects></subjects><content><![CDATA[<p>On doctor's advice and to enable a full recovery from his current illness the Prime Minister, Mr John Howard, has been admitted to hospital in Sydney.</p>
 <p>Earlier this week Mr Howard was suffering from bronchitis and the flu but late today the diagnosis was that this has developed into pneumonia.</p>
 <p>He is likely to be in hospital for the best part of next week.</p>
 <p>As a result the Treasurer, Mr Costello, is acting Prime Minister from 6.00 pm tonight until the Deputy Prime Minister, Mr Fischer, returns from leave on Sunday evening and takes over as acting Prime Minister.</p>
 <p>25 July 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

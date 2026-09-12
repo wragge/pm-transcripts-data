@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23817</transcript-id>
-    <title>National Terrorism Public Alert level raised to High </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>12/09/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Based on advice from security and intelligence agencies, the Government has raised the National Terrorism Public Alert level from Medium to High.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23817</transcript-id><title>National Terrorism Public Alert level raised to High </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>12/09/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Based on advice from security and intelligence agencies, the Government has raised the National Terrorism Public Alert level from Medium to High.</p>
 <p>The Australian Security Intelligence Organisation (ASIO) independently determines the threat level.</p>
 <p>The advice is not based on knowledge of a specific attack plan but rather a body of evidence that points to the increased likelihood of a terrorist attack in Australia.</p>
-<p>Security and intelligence agencies are concerned about the increasing number of Australians working with, connected to, or inspired by terrorist groups such as ISIL, Jabhat al-Nusrah, and al-Qaeda. The threat they pose has been increasing for more than a year.</p>
+<p>Security and intelligence agencies are concerned about the increasing number of Australians working with, connected to, or inspired by terrorist groups such as ISIL, Jabhat&nbsp;al-Nusrah, and al-Qaeda. The threat they pose has been increasing for more than a year.</p>
 <p>The first priority of the Government is to ensure the safety and security of its citizens.</p>
 <p>Raising the alert level to High is designed to increase vigilance and raise awareness in the community.</p>
 <p>While it is important the public are aware of the increased threat, Australians should continue to go about their lives.</p>
@@ -26,6 +16,4 @@
 <p>Members of the public can report suspicious activities to the National Security Hotline on 1800 123 400, or directly to local police.</p>
 <p>How long the threat level remains at High is a matter for our intelligence and security agencies, but the Government does not want to see it remain High for a day longer than necessary.</p>
 <p>12 September 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

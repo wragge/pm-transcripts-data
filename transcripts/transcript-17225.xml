@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17225</transcript-id>
-    <title>Prime Minister Minister for Rural and Regional Health New South Wales Minister Assisting the Minister for Health (Cancer) $33.8 million for new and enhanced cancer services for Nowra and Shoalhaven 18 April 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government and NSW Government will invest $33.8 million to establish a new, purpose-built regional cancer centre at Shoalhaven District Memorial Hospital.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17225</transcript-id><title>Prime Minister Minister for Rural and Regional Health New South Wales Minister Assisting the Minister for Health (Cancer) $33.8 million for new and enhanced cancer services for Nowra and Shoalhaven 18 April 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government and NSW Government will invest $33.8 million to establish a new, purpose-built regional cancer centre at Shoalhaven District Memorial Hospital.</p>
 <p>The Rudd Government will provide $23.8 million and the NSW Government will invest a further $10 million for a new regional cancer centre at Nowra that will include:</p>
 <p>     * One linear accelerator;</p>
 <p>     * Two radiotherapy bunkers;</p>
@@ -37,6 +27,4 @@
 <p>Figures released by the Cancer Institute NSW in December show that over the past decade cancer death rates have fallen by 13.8% in men and 7.9% in women for all ages</p>
 <p>The new Shoalhaven Regional Cancer Centre will help maintain these excellent outcomes as we respond to an increasing and ageing population.</p>
 <p>Congratulations to the Shoalhaven community for its efforts to raise $1 million dollars towards the new centre.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16984</transcript-id>
-    <title>Prime Minister The time has come for a grand bargain between the past and the future COP15 conference Copenhagen 17 December 2009</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/12/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>When the history of this century is written, this conference, and the results of this conference, may constitute one of its defining chapters.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16984</transcript-id><title>Prime Minister The time has come for a grand bargain between the past and the future COP15 conference Copenhagen 17 December 2009</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/12/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>When the history of this century is written, this conference, and the results of this conference, may constitute one of its defining chapters.</p>
 <p>History will record it as a time when either the peoples of the world, mindful of a common threat to us all, decided to act in concert against that threat - and so turned the tide of history.</p>
 <p>Or else history will record this conference as a time when once again, we became so consumed with the petty nationalisms of the past, that we turned instead against each other and failed to act on this great common challenge of the future.</p>
 <p>This history of much of the last century is littered with the carnage and the wreckage of ideologies incapable of embracing the common needs of all our peoples.</p>
@@ -80,6 +70,4 @@
 <p>The children of the world are watching.</p>
 <p>They are listening.</p>
 <p>And history will be the judge of each of us here today.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

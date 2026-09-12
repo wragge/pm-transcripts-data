@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18731</transcript-id>
-    <title>Transcript of interview with John Laws, 2SM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/08/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18731</transcript-id><title>Transcript of interview with John Laws, 2SM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/08/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 E &amp; O E  -  PROOF ONLY</p>
 <p>HOST: Prime Minister, good morning and thank you for giving us some of your time.</p>
 <p>PM: Good morning John and power prices are on my mind but your birthday's on my mind too, so happy birthday to you.</p>
@@ -100,6 +90,4 @@ E &amp; O E  -  PROOF ONLY</p>
 <p>PM: Well I can't promise to buy you one for your birthday but I'll forever think of it as, you know, John Laws' birthday blue.</p>
 <p>HOST: Good on you Prime Minister. Thank you very much for your time. It's always a pleasure to talk to you. We mightn't always agree politically but it's always a delight to be able to talk to you.</p>
 <p>PM: Thanks John. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

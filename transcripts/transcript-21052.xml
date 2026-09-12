@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21052</transcript-id>
-    <title>Doorstop Interview Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21052</transcript-id><title>Doorstop Interview Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well the very first nomination that I'll be putting forward on behalf of the Government is Anzac Cove at Gallipoli.  It seems overwhelmingly the appropriate first choice for listing on the National Heritage List.  I think that will draw the support of all Australians.  It has a special unquestioned place in the history and the hearts of all Australians.</p>
 <p>JOURNALIST:</p>
 <p>Does it matter that it's not Australian soil?</p>
@@ -60,6 +50,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well, we always review things. We do that everyday.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

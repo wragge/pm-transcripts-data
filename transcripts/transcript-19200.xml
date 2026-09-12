@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19200</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/04/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Hainan Island, People's Republic of China</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19200</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/04/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Hainan Island, People's Republic of China</p>
 <p>PM: It is good to be here in the home of the Bo'ao Forum, and to have started my program today.</p>
 <p>I am joined here by Minister Emerson, and during the course of the morning I have also been accompanied by the Foreign Minister, by Senator Carr.</p>
 <p>We commenced the day by meeting with Secretary-General Zhou, Secretary-General of this forum.</p>
@@ -151,6 +141,4 @@
 <p>JOURNALIST: What do make of reports of Fidel Castrol that has weighed in and urged everyone to show restraint?</p>
 <p>PM: I won't be commenting on that, our attitude is as I've outlined it yesterday and today.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

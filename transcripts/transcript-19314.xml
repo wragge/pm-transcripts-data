@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19314</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19314</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: I'm very pleased to be joined here by the Minister for Defence Stephen Smith, by the Chief of the Defence Force, David Hurley, by our Secretary for Defence, Dennis Richardson, and by our ministerial team, including Warren Snowdon and Mike Kelly.</p>
 <p>We have just launched the Defence White Paper 2013.</p>
 <p>You've heard the remarks we've made on the launch and we're very happy to take your questions at this point.</p>
@@ -115,6 +105,4 @@
 <p>I think the Prime Minister has to go. Thank you.</p>
 <p>PM: Thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

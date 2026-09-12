@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17164</transcript-id>
-    <title>Prime Minister Transcript of press conference Canberra 3 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Today following extensive deliberations by the Cabinet over the last month I have recommended to the Governor General the appointment of Tony Burke as Australia's first Minister for Population.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17164</transcript-id><title>Prime Minister Transcript of press conference Canberra 3 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Today following extensive deliberations by the Cabinet over the last month I have recommended to the Governor General the appointment of Tony Burke as Australia's first Minister for Population.</p>
 <p>Mr Burke will also have responsibility for developing Australia's first national population strategy. Mr Burke will also be retaining his positions as Minister for Agriculture, Forestry and Fisheries.</p>
 <p>The facts are that Australia is projected to have slower population growth over the next forty years than we have had over the last forty years by a factor of some fourteen percent. None the less many Australians have legitimate concerns about the sustainability of different population levels in different parts of the country. Particularly its impact on urban congestion, its impact on the adequacy of infrastructure, its impact on the adequacy of housing supply, its impact on government services, its impact also on water and agriculture and on our regions.</p>
 <p>In developing Australia's first ever national population strategy Minister Burke will also be acutely mindful of the positive impact of population growth on future economic growth, on Australia's ability to fund the future needs of our health and hospital system, but also the future needs of our national security as well.</p>
@@ -55,6 +45,4 @@
 <p>PM: My advice is that a hospital has just issued a statement confirming that Lady McMahon has just passed away.</p>
 <p>Could I, on behalf, of Therese and myself say to members of Lady McMahon's family that we express our sympathy to them and our support and our prayers in what is a difficult time or any family.</p>
 <p>Lady McMahon was a distinguished representative of Australia, she was the wife of a Prime Minister of this country, and they lived in the house where we are currently standing this morning. So I believe appropriate respect should be conveyed to her family, appropriate respect to the contribution that she and her husband made to Australia and understand, at a purely human level this is a day of great sadness for any family. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

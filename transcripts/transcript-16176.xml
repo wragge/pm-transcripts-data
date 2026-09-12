@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16176</transcript-id>
-    <title>Address to the Telstra Business Awards, Hilton Hotel, Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/10/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Tonight is a great celebration of enterprise and entrepreneurs.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16176</transcript-id><title>Address to the Telstra Business Awards, Hilton Hotel, Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/10/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Tonight is a great celebration of enterprise and entrepreneurs.</p>
 <p>It's a celebration of great Australian achievement.</p>
 <p>Of innovation, investment and a lot of hard work.</p>
 <p>There's around 40 finalists represented here.</p>
@@ -95,6 +85,4 @@
 <p>All these measures come down to the simple aim of creating more innovative, competitive and successful Australian businesses.</p>
 <p>Tonight, we celebrate some of the best of those businesses.</p>
 <p>To all those businesses who have come this far as finalists tonight: Our warmest congratulations  -  and all the very best for tonight's announcements.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

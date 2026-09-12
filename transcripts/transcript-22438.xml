@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22438</transcript-id>
-    <title>Press Conference, Hobart  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22438</transcript-id><title>Press Conference, Hobart  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well ladies and gentlemen I have called this short news conference to confirm that the Government will proceed with a public share offer of its just over 50 per cent shareholding in Telstra. We propose to offer to both retail and institutional investors in the order of $8 billion of stock in the company. The sale will take place in October and November of this year. It's the unanimous advice of the Government's investment advisers that market conditions are appropriate for this sale. The remaining number of Government-owned shares will be placed in the Future Fund, to be sold down by that fund during the future.</p>
 <p> As has been the case in the past, instalment receipts will be available to investors and they can pay for their shares in two instalments over an 18 month period and those who are doing it by instalments will be entitled to the full dividend that was guaranteed by the company a short while ago.</p>
 <p>The Government has always been committed to the full privatisation of Telstra, or at least, of course, since 1998, and we would have sold the remaining shares in Telstra a lot earlier, at a higher price than the market is now offering, had it not been for the legislation being blocked in the Senate by the Labor Party and by others.</p>
@@ -70,6 +60,4 @@
 <p>What's changed? Well I don't accept that he was speaking with wisdom and authority.</p>
 <p> Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

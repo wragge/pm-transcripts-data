@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11281</transcript-id>
-    <title>$124 MILLION BOOST FOR THE FIGHT AGAINST ILLEGAL IMMIGRATION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/06/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The government has agreed on a $124 million four year programme to</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11281</transcript-id><title>$124 MILLION BOOST FOR THE FIGHT AGAINST ILLEGAL IMMIGRATION</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/06/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The government has agreed on a $124 million four year programme to</p>
 <p> strengthen Australia's capacity to detect and deter illegal arrivals.</p>
 <p>Illegal immigration is a growing global problem with an estimated</p>
 <p> 4 million illegal entries worldwide each year, and worth some $10</p>
@@ -220,6 +210,4 @@
 <p> of Crime Act 1987, which enables an offender's property to</p>
 <p> be forfeited if it can be shown that an offender has been enriched</p>
 <p> by migrant smuggling activities.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

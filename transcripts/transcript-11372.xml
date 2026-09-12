@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11372</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          ADDRESS AT THE 1999 NATIONAL ENGINEERING EXCELLENCE AWARDS, PARLIAMENT           HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/11/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11372</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          ADDRESS AT THE 1999 NATIONAL ENGINEERING EXCELLENCE AWARDS, PARLIAMENT           HOUSE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/11/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................</p>
 <p>  Well thank you very much Mr Pederson. To my Ministerial colleague Nick Minchin,</p>
 <p>   to Senator Stott-Despoja, Deputy Leader of the Australian Democrats, other</p>
 <p>   Parliamentary colleagues, ladies and gentlemen.</p>
@@ -131,6 +121,4 @@
 <p>   gala occasion and I congratulate in advance all of those who will be given</p>
 <p>   awards for their tremendous contribution within their chosen profession.</p>
 <p>  [Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

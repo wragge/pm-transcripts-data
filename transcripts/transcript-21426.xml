@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21426</transcript-id>
-    <title>Australian Government Commits to Ravensthorpe  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/07/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today committed Australian Government funding of up to $6.5 million towards the upgrade of local roads in the Ravensthorpe area in southern Western Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21426</transcript-id><title>Australian Government Commits to Ravensthorpe  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/07/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today committed Australian Government funding of up to $6.5 million towards the upgrade of local roads in the Ravensthorpe area in southern Western Australia.</p>
 <p>  "The Australian Government has committed this funding because of the significant regional economic impact of the nickel mine project to the Ravensthorpe/Esperance region", he said.</p>
 <p>He said, "These roads are integral to the operation of BHP Billiton's nickel mine operations there.</p>
 <p>  The Prime Minister said that there would be 315 permanent direct jobs and 930 indirect jobs created once the mine is at full capacity.</p>
@@ -20,6 +10,4 @@
 <p>"The Australian Government is committed to a residential work force for the mine, rather than a fly in - fly out operation.  A residential workforce will have greater long term benefits for the region", he said.</p>
 <p>"Our commitment is conditional on BHP Billiton using a residential work force based in the Esperance, Ravensthorpe and Hopetoun region.", the Prime Minister said.</p>
 <p>"As is normal practice with roads of national importance, the Australian Government expects a contribution from other befitting parties including local government, the WA Government and BHP Billiton."  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

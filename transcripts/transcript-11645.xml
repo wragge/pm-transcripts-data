@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11645</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DINNER IN HONOUR OF MR BERTIE AHERN TD,            TAOISEACH OF IRELAND            GREAT HALL, PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/03/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11645</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            DINNER IN HONOUR OF MR BERTIE AHERN TD,            TAOISEACH OF IRELAND            GREAT HALL, PARLIAMENT HOUSE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/03/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>Taoiseach Bertie Ahern, Celia Larkin, John Anderson the Deputy Prime</p>
 <p> Minister, Kim Beazley, Leader of the Opposition, my ministerial and parliamentary</p>
 <p> colleagues, your excellencies, ladies and gentlemen.</p>
@@ -125,6 +115,4 @@
 <p> And I invite in that spirit the Leader of the Opposition, Mr Beazley,</p>
 <p> to second my remarks.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

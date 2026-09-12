@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16300</transcript-id>
-    <title>Prime Minister made Patron of Northern Territory Football Club    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today was honoured to accept his appointment as official patron of the Northern Territory Football Club that will take part in the Queensland Australian Football League (AFL) competition for the first time in 2009.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16300</transcript-id><title>Prime Minister made Patron of Northern Territory Football Club    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today was honoured to accept his appointment as official patron of the Northern Territory Football Club that will take part in the Queensland Australian Football League (AFL) competition for the first time in 2009.</p>
 <p>Today's announcement marks the realisation of AFL NT's vision and builds on the Rudd Government's $2.5 million in funding to support an NT team to enter a major league competition and to support the development of AFL and Netball in the NT.</p>
 <p>The new Northern Territory Football Club will provide Territorians with a home grown team in a major competition.</p>
 <p>AFL NT has for some time been seeking to join a state AFL competition to provide a more effective pathway for elite players to participate at the highest level, as well as provide role models for junior Northern Territory players.</p>
@@ -27,6 +17,4 @@
 <p>     * delivery of various regional carnivals, and support of development camps and junior programs.</p>
 <p>     * The Territory Team will be coached by Michael McLean, a member of the AFL Indigenous Team of the Century. He played more than 200 AFL Games and twice was named Brisbane Bears Best &amp; Fairest.</p>
 <p>The Rudd Government commitment to Northern Territory Football Club is in partnership with the NT Government, the AFL, ERA/Rio Tinto, Pratt Foundation and Qantas.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17314</transcript-id>
-    <title>Prime Minister Speech opening the Lowy Cancer Research Centre University of New South Wales Sydney 28 May 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/05/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17314</transcript-id><title>Prime Minister Speech opening the Lowy Cancer Research Centre University of New South Wales Sydney 28 May 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/05/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>Today we gather to make a down payment on one of the nation's most fundamental obligations - to protect the health of its citizens.</p>
 <p>And in the field of medicine, no killer is more challenging or more destructive than cancer.</p>
@@ -67,6 +57,4 @@
 <p>I thank the Centre's staff for their dedication and care.</p>
 <p>I thank the architects, contractors and workers who brought this building to fruition during tough economic times.</p>
 <p>And with pride and confidence, I declare the Lowy Cancer Research Centre officially open.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

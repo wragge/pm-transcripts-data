@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19209</transcript-id>
-    <title>Australia and China Embark on New Bilateral Architecture</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/04/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Beijing, People's Republic of China</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19209</transcript-id><title>Australia and China Embark on New Bilateral Architecture</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/04/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Beijing, People's Republic of China</p>
 <p>The future of Australia and China's relationship has been strengthened with the launch today of new bilateral architecture following my meeting with the Chinese Premier Li Keqiang in Beijing.</p>
 <p>Today's discussions with Premier Li were positive and constructive.</p>
 <p>We discussed the full range of issues of common interest, including trade, finance and investment relations, regional and global cooperation, people-to-people links, regional security issues, human rights and consular matters.</p>
@@ -23,6 +13,4 @@
 <p>The relationship will be described as a Strategic Partnership to reflect the importance both countries place on the relationship, its expanding scope and depth and the shared interests of both sides in a stable and peaceful Asian region.</p>
 <p>In the Australia in the Asian Century White Paper, the Government committed itself to extending Australia's bilateral architecture with China through regular high-level meetings between leaders and senior ministers.</p>
 <p>Today's launch of the Strategic Partnership delivers on this commitment. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

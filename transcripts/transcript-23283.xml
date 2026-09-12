@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23283</transcript-id>
-    <title>Address to the Australia-Canada Economic Leadership Forum</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/02/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thanks very much indeed, Heather. It’s great to be here. It really is very good to be here and it is good to be amongst so many very distinguished Australians and amongst so many distinguished Canadians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23283</transcript-id><title>Address to the Australia-Canada Economic Leadership Forum</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/02/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thanks very much indeed, Heather. It’s great to be here. It really is very good to be here and it is good to be amongst so many very distinguished Australians and amongst so many distinguished Canadians.</p>
 <p>I thank you for making the long trip across the Pacific and I thank all of my Australian colleagues for travelling from all parts of our country to be here in Melbourne this evening.</p>
 <p>I want to stress that Australia is taking this dialogue extremely seriously.</p>
 <p>I am here. The Treasurer, Joe Hockey, is here. Julie Bishop will be an integral part of this dialogue in the next day or so. The Secretary of the Department of Prime Minister and Cabinet is here. The Secretary of the Treasury is here. Various ambassadors and high commissioners are here and captains of industry are here.</p>
@@ -30,12 +20,14 @@
 <p>But despite inhabiting a very similar intellectual and cultural space, we are rarely as conscious as we should be of each other’s presence.</p>
 <p>In part, this is because Australia and Canada are amongst the happiest and the most tranquil societies on earth.</p>
 <p>We have our issues, of course – many of them issues in common:</p>
-<ul><li>how do we ensure that our first peoples are not second class citizens in their own country;</li>
+<ul>
+<li>how do we ensure that our first peoples are not second class citizens in their own country;</li>
 <li>how do we best promote sophisticated manufacturing in economies dominated by resources and agriculture;</li>
 <li>how much stress, as immigrant societies, should we place on diversity and how much on unity;</li>
 <li>how in federation, do you ensure that particular problems can be sheeted properly home to particular levels of government;</li>
 <li>and how do we best manage vast wilderness areas consistent with creating jobs and prosperity?</li>
-</ul><p>Canada and Australia don’t often figure in each other’s news bulletins because, to give due credit, none of these issues have been disastrously mismanaged.</p>
+</ul>
+<p>Canada and Australia don’t often figure in each other’s news bulletins because, to give due credit, none of these issues have been disastrously mismanaged.</p>
 <p>Our comparative success at managing comparable problems means that we have more to learn from each other, not less.</p>
 <p>Australians and Canadians should be more conscious not only of all that we have in common but of all the good that we might do together.</p>
 <p>So, my intention is to broaden and deepen the relationship between our two kindred countries.</p>
@@ -97,6 +89,4 @@
 <p>My friends it is very good to be here. It was great to be welcomed to these magnificent premises by the Premier of Victoria, my friend Denis Napthine.</p>
 <p>It’s good that so many of you are here to deliberate on the problems we have in common, on the opportunities we have in common, on the challenges facing the wider world that would be so better met if we faced them together as comrades.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

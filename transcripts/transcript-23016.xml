@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23016</transcript-id>
-    <title>Establishment of Australian Centre for Indonesia Studies</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>01/10/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the establishment of the Australian Centre for Indonesia Studies.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23016</transcript-id><title>Establishment of Australian Centre for Indonesia Studies</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>01/10/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the establishment of the Australian Centre for Indonesia Studies.</p>
 <p>The Centre's mandate will be to strengthen and deepen Australia-Indonesia business, cultural, educational, research and community links. The Centre will also promote greater understanding of contemporary Indonesia and its growing importance to Australia.</p>
 <p>Indonesia is in many respects Australia's most important overall relationship. Strong relationships are based on mutual knowledge and understanding, which is why this Centre will make such an important contribution.</p>
 <p>The Centre will be headquartered at Monash University, with nodes at the Australian National University and the University of Melbourne. CSIRO will also be a partner, as will the Victorian Government. Monash University Vice-Chancellor Professor Ed Byrne is part of the business delegation that is accompanying me during this visit.</p>
@@ -18,6 +8,4 @@
 <p>The Commonwealth will provide $15 million over four years starting in 2013-14, funded from the education portfolio and matched by partner institutions and private sector funding. Monash University will contribute $5 million to the Centre.</p>
 <p>I am delighted to be able to announce this significant initiative during my first official visit to Jakarta.</p>
 <p>Indonesia will be vital to Australia's future prosperity and security. The Centre, along with the New Colombo Plan, will help Australians get to know contemporary Indonesia better, build personal connections and foster collaboration with Indonesian counterparts on important research projects.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

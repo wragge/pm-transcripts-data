@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16486</transcript-id>
-    <title>Fund to support jobs, build skills and community infrastructure    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A new $650 million Jobs Fund announced by the Rudd Government today will support local jobs, build skills and improve facilities in local communities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16486</transcript-id><title>Fund to support jobs, build skills and community infrastructure    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A new $650 million Jobs Fund announced by the Rudd Government today will support local jobs, build skills and improve facilities in local communities.</p>
 <p>The new Jobs Fund is part of the Rudd Government's Jobs and Training Compact with Australians who have been hit hardest by the global recession, and builds on the Rudd Government's $42 billion Nation Building Economic Stimulus Plan. </p>
 <p>The Government is acting decisively with targeted investment to support Australian jobs and invest in our future long term economic growth.</p>
 <p>The Jobs Fund includes three streams:</p>
@@ -26,6 +16,4 @@
 <p>The $800 million Regional and Local Community Infrastructure Program will support national productivity and community well-being and local governments to stimulate growth and economic activity across Australia.</p>
 <p>The $41 million Innovation Fund will encourage innovative projects to connect disadvantaged job seekers to training and employment.</p>
 <p>The Government's Jobs and Training Compact aims to support retrenched workers, young people and local communities to get back to work or learn the skills required for future jobs.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16559</transcript-id>
-    <title>Interview with Fran Kelly  ABC Radio National   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KELLY: The Prime Minister Kevin Rudd joins us on his car phone on the way to Newcastle. Prime Minister thanks for being with us.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16559</transcript-id><title>Interview with Fran Kelly  ABC Radio National   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KELLY: The Prime Minister Kevin Rudd joins us on his car phone on the way to Newcastle. Prime Minister thanks for being with us.</p>
 <p>PM: Good to be with you Fran.</p>
 <p>KELLY: Prime Minister, you've got your Budget on the table. What's the challenge now for the Opposition Leader Malcolm Turnbull in his Budget Reply speech tonight?</p>
 <p>PM: Well very, in one simply sentence it's this Fran: if Mr Turnbull doesn't nominate any extra savings tonight in his Budget Reply, then he's therefore personally endorsing every single cent of temporary borrowing and temporary deficit contained in the current Budget. You cannot have it both ways. You cannot criticise the current Budget for borrowing too much unless you identify exactly that amount of savings that you're going to put forward or alternative taxes that you're going to raise. It's as basic as that.</p>
@@ -70,6 +60,4 @@
 <p>I'm talking here about the undeclared levels of violence in our community towards women and we need to turn the corner on this. It is important that we do so as a nation. We cannot tolerate some of the statistics that we continue to be provided with about what is happening out there to women and children. It's time we actually turn the corner.</p>
 <p>KELLY: Prime Minister thank you for joining us on Breakfast.</p>
 <p>PM: Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16680</transcript-id>
-    <title>The Prime Minister Kevin Rudd welcomes you to his new site    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/07/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>G'Day, my name's Kevin, and welcome to this new website.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16680</transcript-id><title>The Prime Minister Kevin Rudd welcomes you to his new site    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/07/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>G'Day, my name's Kevin, and welcome to this new website.</p>
 <p>This website has a dual purpose: to keep you up-to-date with government announcements and activities, enabling you to hear directly from the source, and the other purpose is to create more opportunities for you to interact directly with the government.</p>
 <p>I'm committed to leading an open government that's accountable for its actions and its decisions and, as you may have already heard me say many, many times, I'm a real believer that the best ideas for Australia's future don't all come from Canberra.</p>
 <p>My government has benefited enormously from talking directly with communities.</p>
@@ -22,6 +12,4 @@
 <p>A good government is one that listens to the community and works in tandem with the community to develop solutions to the challenges that we all share.This is the sort of government that I strive to lead.</p>
 <p>I look forward to talking with you and getting your feedback direct.</p>
 <p>Thanks for listening.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

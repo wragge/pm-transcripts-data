@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22999</transcript-id>
-    <title>Remarks at Swearing-in of First Abbott Government</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>18/09/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Your Excellency,</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22999</transcript-id><title>Remarks at Swearing-in of First Abbott Government</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>18/09/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Your Excellency,</p>
 <p>I present your new ministers and, through you, I present the people of Australia their new government.</p>
 <p>We are all conscious of the honour of serving our country as ministers of the Crown and members of your Executive Council.</p>
 <p>We pledge ourselves to serve the people of Australia for their benefit to the very best of our ability.</p>
@@ -23,6 +13,4 @@
 <p>We are conscious of the ideals of duty and service exemplified by our Queen whom you have so graciously represented here in Australia.</p>
 <p>And we will not spare ourselves; we will not spare ourselves in order to deserve the trust placed in us this day.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

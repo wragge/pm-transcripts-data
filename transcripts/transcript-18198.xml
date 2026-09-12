@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18198</transcript-id>
-    <title>Transcript of joint press conference, Wollongong</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18198</transcript-id><title>Transcript of joint press conference, Wollongong</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much, I'm joined this morning by our local Members, Sharon Bird and Stephen Jones and I'm also joined for the Minister for Infrastructure and Transport, Anthony Albanese.</p>
 <p>We also have available to answer any technical questions the CEO of NBN Co, Mike Quigley, and I thank him for being here.</p>
 <p>I'm here today in the Illawarra and I've got three important announcements to make. One is the announcement you've just seen made about the next stage of the roll out of the National Broadband Network. This is an announcement for the nation. It is the 12-month rollout plan of the National Broadband Network Company, of NBN Co. This plan will be updated on a quarterly basis so Australians can see where the National Broadband Network is going to be rolled out next.</p>
@@ -91,6 +81,4 @@ PM: Thank you very much, I'm joined this morning by our local Members, Sharon Bi
 <p>JOURNALIST: (Inaudible) question from our Canberra bureau. There's been the republican debate is once again raised its head. With the Queen visiting, do you think it's a time that that is revisited?</p>
 <p>PM: I think what will happen with the Queen here is there will be many, many excited Australians who will want to be involved in the events that she will be attending, not only in Canberra but around the nation, and then of course in Perth at CHOGM.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

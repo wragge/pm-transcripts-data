@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17296</transcript-id>
-    <title>Prime Minister Transcript of Interview with ABC Launceston 19 May 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Good morning, Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17296</transcript-id><title>Prime Minister Transcript of Interview with ABC Launceston 19 May 2010  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Good morning, Prime Minister.</p>
 <p>PM: Good morning. Great to be back in Tassie today.</p>
 <p>HOST: Now, the latest EMRS poll in Tasmania shows that the state Labor Party is at 23 per cent and the Premier's rating isn't that much better, and, of course, as you know, this is after a 12 per cent swing against Labor in the March state election, so given that the Labor faithful seem disenchanted, what does federal Labor have to do to retain Tasmania in federal parliament?</p>
 <p>PM: The key thing for the Australian Government is to keep the economy strong and also to provide a fair go for all Australians and all Tasmanians. What does that mean specifically in Tasmania? Well, keeping the economy strong means building our infrastructure for the future. That's why we're putting out a National Broadband Network. Mr Abbott said he'd scrap that. This is already under build, currently, in Tasmania.</p>
@@ -30,6 +20,4 @@
 <p>Also we've got a Community Cabinet at the Parklands High School tonight, and we're looking forward to getting on with the business of talking to the local community about their further needs as well. It's part of keeping in touch with the people of the north west as we go through difficult and challenging economic times.</p>
 <p>HOST: Prime Minister thank you very much for your time, I hope you enjoy your trip to Tasmania.</p>
 <p>PM: Always good to be back in Tassie.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

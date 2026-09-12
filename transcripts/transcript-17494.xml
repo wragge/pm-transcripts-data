@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17494</transcript-id>
-    <title>Transcript of interview with Leon Byner, 5AA</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/12/2010</release-date>
-    <release-type>Economy &amp; Finance</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17494</transcript-id><title>Transcript of interview with Leon Byner, 5AA</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/12/2010</field_date><release-type><![CDATA[Economy &amp; Finance]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Let's talk to the Prime Minister, Julia Gillard. Julia, Merry Christmas.</p>
 <p>PM: To you, too, Leon.</p>
 <p>HOST: The reason I wanted to chat with you today is I have a concern that our government in South Australia has done something which I think the pensioners feel most aggrieved about - and they should - and that is that when Kevin Rudd gave the $30 to the pensioners there was an understanding by all states, including South Australia, that that money would be quarantined, but unfortunately in the last state budget this government have decided not to do that and include it in income assessment and this will mean that our pensioners are going to be markedly worse off than other pensioners around Australia, and I'm wondering what you think about that?</p>
@@ -45,6 +35,4 @@ HOST: Let's talk to the Prime Minister, Julia Gillard. Julia, Merry Christmas.</
 <p>PM: No, there'll be a bit of potato peeling and carrot peeling happening on Christmas morning.</p>
 <p>HOST: I wish you well, Prime Minister. You've got a tough year next year.</p>
 <p>PM: I'm looking forward to it Leon. It's a great privilege to be Prime Minister of this country and a great privilege to be in a position to lead us for changing the nation in ways which mean we'll be even better in the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

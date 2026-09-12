@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12140</transcript-id>
-    <title>Beattie&#039;s GST Claims Wrong</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/03/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Queensland Premier's claim that the Federal Government wishes to<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12140</transcript-id><title><![CDATA[Beattie&#039;s GST Claims Wrong]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/03/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Queensland Premier's claim that the Federal Government wishes to<br>
 unilaterally increase the rate of the GST is totally false. </p>
 <p>The rate of the GST is set in concrete at 10 percent under a Coalition Government. We will not increase it. </p>
 <p>It could be increased by a future Labor Government needing the extra money to finance the GST rollback promised by Mr Beazley.</p>
@@ -18,6 +8,4 @@ unilaterally increase the rate of the GST is totally false. </p>
 <p>The Federal Government remains fully committed to the inter-governmental agreement signed by me and the premiers. It will not be breached by us. Mr Beattie knows that. His statement today is nothing more than a Ryan by-election stunt.</p>
 <p>It remains the case that states other than Queensland can provide petrol price relief. This can be achieved without any breach of the inter-governmental agreement. </p>
 <p>10 March 2001 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

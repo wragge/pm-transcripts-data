@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16932</transcript-id>
-    <title>Transcript of BBC Interview with Nick Bryant Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST: Prime Minister Kevin Rudd, thanks for joining us on the BBC.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16932</transcript-id><title>Transcript of BBC Interview with Nick Bryant Canberra   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST: Prime Minister Kevin Rudd, thanks for joining us on the BBC.</p>
 <p>PM: Pleasure.</p>
 <p>JOURNALIST: We've heard many differing assessments of what will come out of the Copenhagen climate change conference, some optimistic, most pessimistic. We're in the final countdown to Copenhagen. I wonder what's your judgement on what will come from it?</p>
 <p>PM: Well, we're working towards a Copenhagen agreement. This is a very tough process. You know the number of negotiating countries as well as I do, and forging an agreement across so many different countries is a very difficult process. But having discussed this at length with Prime Minister Rasmussen of Denmark, President of the United States and some discussion's with the Chinese President, Hu Jintao, was have a capacity to land an agreement, a Copenhagen agreement, one which deals with the core policy challenges for the future - namely, what temperature increase are we prepared to sustain for the future, 2 degrees Centigrade; what targets to we need from the major developed economies around the world; what commitments to action to we need from the major emerging economies like China and India; as well as how do we fund this agreement, what climate change finance arrangement do we put in place for the developing economies.</p>
@@ -74,6 +64,4 @@
 <p>And if you think coming from the world's carbon-intensive economy and from a very flat start on this question, in two years to be in the position we are today where we're trying with all the powers available to us to get through the Australian Parliament an Emissions Trading Scheme despite formidable political and other opposition, and internationally work as hard as we can through the global process presided over by the UN Secretary-General on the one hand and Prime Minister Rasmussen on the other to get a global deal, this has required a fair bit of effort on our part as well. So many leaders around the world are doing exactly the same. So we'll just continue plugging away, doing what we can, we're from Australia, we're here to help.</p>
 <p>JOURNALIST: Prime Minister Rudd, thank you very much.</p>
 <p>PM: Good to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

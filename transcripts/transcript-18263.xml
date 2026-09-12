@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18263</transcript-id>
-    <title>A nation pauses to remember</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/11/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18263</transcript-id><title>A nation pauses to remember</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/11/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister today encouraged all Australians to mark Remembrance Day by observing a minute's silence at 11am.</p>
 <p>The Prime Minister said whether Australians are in the office, on a building site, in the classroom or at home, we should all take a quiet moment to reflect on the sacrifices of our fellow Australians in uniform.</p>
 <p>Remembrance Day is a day etched in the memories of many, which honours all servicemen and women who have died in wars, conflicts and on peacekeeping operations.  </p>
@@ -21,6 +11,4 @@ The Prime Minister today encouraged all Australians to mark Remembrance Day by o
 <p>This year marks significant anniversaries of major battles in Australia's military history  -  Tobruk, Greece and Crete 70 years ago; Kapyong and Maryang San 60 years ago; and Long Tan 45 years ago - as well as the centenary of the formation of the Royal Australian Navy.  </p>
 <p>The Prime Minister also encouraged Australians to mark Remembrance Day by buying a poppy from the Returned and Services League (RSL) of Australia. </p>
 <p>For more information on Remembrance Day please visit <a href="http://www.dva.gov.au">www.dva.gov.au</a> </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

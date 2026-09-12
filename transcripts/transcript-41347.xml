@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41347</transcript-id>
-    <title>Hundreds of Australian jobs created in offshore patrol vessel project</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/11/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government today announces Australia’s 12 Offshore Patrol Vessels will be designed and built under prime contractor Lürssen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41347</transcript-id><title>Hundreds of Australian jobs created in offshore patrol vessel project</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/11/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government today announces Australia’s 12 Offshore Patrol Vessels will be designed and built under prime contractor Lürssen.</p>
 <p>The Offshore Patrol Vessel (OPV) project, which is worth up to $4 billion, will be delivered by Australian workers, in Australian shipyards using Australian steel.</p>
 <p>The OPVs will have an important role protecting our borders and will provide greater range and endurance than the existing patrol boat fleet.</p>
 <p>The investment in new naval capabilities such as the OPVs is a key part of the Turnbull Government's commitment to a safe and secure Australia.</p>
@@ -21,6 +11,4 @@
 <p>The first of the 12 OPVs will commence production in the fourth quarter of 2018.</p>
 <p>The announcement represents a significant step in the implementation of the Turnbull Government's vision for a continuous, innovative and sovereign Australian naval shipbuilding industry as outlined in the Naval Shipbuilding Plan.</p>
 <p>The Turnbull Government's investment in continuous shipbuilding will guarantee our maritime capabilities will be more flexible and versatile than ever.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

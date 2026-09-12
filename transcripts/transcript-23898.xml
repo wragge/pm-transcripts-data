@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23898</transcript-id>
-    <title>Commonwealth Government delivers funding for new medical research discoveries</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/10/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government has announced $538.8 million to help Australian health and medical researchers find the cures, treatments and medical devices of the future.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23898</transcript-id><title>Commonwealth Government delivers funding for new medical research discoveries</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/10/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government has announced $538.8 million to help Australian health and medical researchers find the cures, treatments and medical devices of the future.</p>
 <p>The funding will support 773 National Health and Medical Research Council grants, which will help ensure Australia remains a world leader in medical research.</p>
 <p>It has been estimated that every $1 spent in this field generates more than $2 in health benefits alone.</p>
 <p>That is one of the reasons the Government committed to foster more Australian breakthroughs through the Medical Research Future Fund.</p>
@@ -22,8 +12,6 @@
 <p>Nearly $420 million will fund 553 Project Grants, which include research in areas from auto-immune diseases and dementia to antibiotic resistance.</p>
 <p>Early Career Fellowships worth $39.4 million will support 125 promising researchers at the start of their careers, while 58 early to mid-career researchers will benefit from Career Development Fellowships totalling $24 million.</p>
 <p>Ten researchers will also share in $1.7 million directed to Translating Research Into Practice Fellowships.</p>
-<p>Further information can be found on the NHMRC website <a href="https://www.pm.gov.au/node/add/www.nhmrc.gov.au">www.nhmrc.gov.au</a>.</p>
+<p>Further information can be found on the NHMRC website&nbsp;<a href="https://www.pm.gov.au/node/add/www.nhmrc.gov.au">www.nhmrc.gov.au</a>.</p>
 <p>17 October 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

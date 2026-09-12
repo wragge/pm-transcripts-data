@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6732</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>20/09/1985</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006732.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-AUSTKALIA<br />
-PRIME MINISTER<br />
-FOR MEDIA 20 SEPTEMBER 1985<br />
-I am sending the following message to His Excellency<br />
-Miguel de lapadrid, President of Mexico:<br />
-On behalf of the Australian Government and people<br />
-may I express our sorrow and deepest sympathy at<br />
-the tragic consequences of the appalling earthquake<br />
-in Mexico.<br />
-Australians share the grief of those who have lost<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6732</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>20/09/1985</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006732.pdf</document><subjects></subjects><content><![CDATA[<p>
+AUSTKALIA<br>
+PRIME MINISTER<br>
+FOR MEDIA 20 SEPTEMBER 1985<br>
+I am sending the following message to His Excellency<br>
+Miguel de lapadrid, President of Mexico:<br>
+On behalf of the Australian Government and people<br>
+may I express our sorrow and deepest sympathy at<br>
+the tragic consequences of the appalling earthquake<br>
+in Mexico.<br>
+Australians share the grief of those who have lost<br>
 relatives and friends in this disaster. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

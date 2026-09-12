@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17758</transcript-id>
-    <title>New South Wales election result</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/03/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17758</transcript-id><title>New South Wales election result</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/03/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard congratulates Barry O'Farrell and the Coalition on the New South Wales election result.</p>
 <p>The Prime Minister also congratulates Kristina Keneally for her fighting spirit and delivery of a strong campaign under very difficult circumstances.</p>
 <p>The Gillard Government is committed to working cooperatively with the incoming O'Farrell Government to achieve the best results for the people of New South Wales.</p>
 <p>The Prime Minister said people rightly expect governments of all persuasions to work together in vital areas such as health, education and infrastructure to deliver better services and build stronger communities. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

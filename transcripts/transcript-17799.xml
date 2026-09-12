@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17799</transcript-id>
-    <title>Japan-Australia Joint Communique</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/04/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17799</transcript-id><title>Japan-Australia Joint Communique</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/04/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Earthquake and tsunami</p>
 <p>1. Prime Minister Kan welcomed Prime Minister Gillard to Japan and expressed the sincere gratitude of the Japanese Government for the assistance provided by Australia in response to the Great East Japan Earthquake and tsunami, including the dispatch of an Urban Search and Rescue Team to Miyagi Prefecture, the deployment of Royal Australian Air Force C-17 aircraft to assist with relief operations, and the donation of $10 million to the Australian Red Cross Japan and Pacific Disaster Appeal.  He emphasized Japan's determination to overcome the recent tragedy and revitalize Japan, with a view to creating a new future.</p>
 <p>2. Prime Minister Gillard expressed Australia's sorrow and grief over Japan's great losses. She affirmed Australia's friendship and solidarity with Japan and its people in the wake of the disaster and its readiness to support Japan's early recovery.  She emphasized the Government's confidence in Japan's ability to recover quickly and to continue to play a strong and active role in the international community and global economy.</p>
@@ -28,6 +18,4 @@ Earthquake and tsunami</p>
 <p>Global issues</p>
 <p>10. The two Prime Ministers confirmed that Japan and Australia should work together to achieve reform of the UN Security Council and other UN bodies to be more representative and effective, including enlargement in both the permanent and non-permanent categories of the Council.  They would also continue to work together bilaterally and in global and regional fora.  They confirmed the need to consolidate the G20 as the premier forum for international economic cooperation and to deliver strong outcomes at the G20 Summit to underpin the global recovery and job creation, including on the framework for strong, sustainable and balanced growth and on price volatility.  They welcomed the forthcoming participation of the United States and Russia in the EAS and looked forward to the first meeting of the expanded EAS in Indonesia later this year.  They confirmed they would work with ASEAN and other EAS members to support the development of a political, security and economic agenda for the EAS, while promoting existing priorities including CEPEA.  They also looked forward to taking concrete actions to realize APEC's goals of free and open trade and investment and the Yokohama Vision for sustained growth and prosperity in the Asia-Pacific region particularly in the areas of regulatory cooperation, green growth and regional economic integration this year.</p>
 <p>11. The two Prime Ministers also confirmed that they would continue to work together to combat climate change, to alleviate poverty to enhance human security and to advance nuclear disarmament and non-proliferation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

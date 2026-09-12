@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12858</transcript-id>
-    <title></title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service></period-of-service>
-    <release-date>04/12/2002</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[]]></content>
-  </transcript>
-</transcripts>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12858</transcript-id><title></title><prime-minister>Howard, John</prime-minister><period-of-service></period-of-service><field_date>04/12/2002</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content></content></item></response>

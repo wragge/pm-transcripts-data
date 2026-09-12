@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18006</transcript-id>
-    <title>Transcript of interview with Laurie Oakes, Weekend Today</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18006</transcript-id><title>Transcript of interview with Laurie Oakes, Weekend Today</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 OAKES: Prime Minister welcome to the program.</p>
 <p>PM: Good morning Laurie.</p>
 <p>OAKES: We've got a debt crisis in Europe, in America unemployment's rising, there's even talk of a recession, in Australia we've got a collapse in consumer confidence.  How worried are you about the economy?</p>
@@ -64,6 +54,4 @@ OAKES: Prime Minister welcome to the program.</p>
 <p>PM: Well Laurie, you can put it all like that or you can say to yourself, ‘What is in this nation's interest today?' It is in our nation's interest to tackle climate change and get the clean energy jobs of the future. By the time people vote in 2013, they will know exactly what this scheme of pricing carbon means for them and their families and for the biggest polluters in our country.  People will be able to vote in 2013 not on the basis of scare campaigns or things they've been asked to believe that are not true. They will be able to live it and judge for themselves.</p>
 <p>OAKES: We thank you.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

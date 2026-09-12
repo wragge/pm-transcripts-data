@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16640</transcript-id>
-    <title>French arts honour for Minister Garrett    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/06/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The French Government has bestowed the prestigious Order of Arts and Letters to Arts Minister Peter Garrett overnight in Paris.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16640</transcript-id><title>French arts honour for Minister Garrett    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/06/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The French Government has bestowed the prestigious Order of Arts and Letters to Arts Minister Peter Garrett overnight in Paris.</p>
 <p>This is a great honour for the Minister that recognises his significant contribution to arts and culture through music, and as Minister for the Arts.</p>
 <p>Minister Garrett is the first Australian Minister to be awarded this Order. He joins a small group of other Australians who have been honoured by the French Government in this way.</p>
 <p>The award highlights the extraordinary contribution Minister Garrett has made to Australian life. He is a passionate performer and songwriter whose work with Midnight Oil has defined a special era of Australian contemporary music.</p>
@@ -17,6 +7,4 @@
 <p>Established in 1957, L'Ordre des Arts et des Lettres recognises a person's significant contribution to arts and literature or to the propagation of these fields.</p>
 <p>Minister Garrett is in Paris to accept the Order on his return from the International Whaling Commission in Portugal.</p>
 <p>Other Australians who have been awarded an Order include Robyn Archer, Alan R Dodge, Doug Hall, Kylie Minogue, Leo Schofield, David Stratton and Andrea Stretton.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

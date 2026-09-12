@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15840</transcript-id>
-    <title>Joint Statement, Prime Minister of Australia Kevin Rudd, President of the European Commission Jose Manuel Barroso, Brussels </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia and the EU share common values and close historical, political, economic and cultural ties. We face many common challenges in foreign and security, and trade and economic policy areas. In meeting these challenges we recognise the value of regular and frank dialogue and close cooperation. We discussed today how we can strengthen and develop our work together on a range of issues such as international trade, climate change, the Pacific region, and international security threats. We believe our cooperation will exemplify how the international community must work together to achieve lasting solutions to our most difficult challenges. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15840</transcript-id><title>Joint Statement, Prime Minister of Australia Kevin Rudd, President of the European Commission Jose Manuel Barroso, Brussels </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia and the EU share common values and close historical, political, economic and cultural ties. We face many common challenges in foreign and security, and trade and economic policy areas. In meeting these challenges we recognise the value of regular and frank dialogue and close cooperation. We discussed today how we can strengthen and develop our work together on a range of issues such as international trade, climate change, the Pacific region, and international security threats. We believe our cooperation will exemplify how the international community must work together to achieve lasting solutions to our most difficult challenges. </p>
 <p>We have agreed </p>
 <p>     * To promote a new era of creative engagement between Australia and the EU</p>
 <p>     * To reaffirm our resolve to bring the Doha trade negotiations to a successful conclusion this year and emphasise the shared interest we have in achieving an ambitious, balanced and comprehensive outcome that creates new trade opportunities in agriculture, industrial goods and services among and between developed and developing countries.</p>
@@ -19,6 +9,4 @@
 <p>     * To intensify our work to upgrade EU-Australia relations through a new Partnership Framework, including priorities for cooperation on international security, trade, development issues, the Asia-Pacific region, climate change and energy, science and education, aviation and movement of people, including visas.</p>
 <p>In this respect, we note negotiations already underway on a Passenger Name Record agreement, as well as our joint objective of achieving progress towards a comprehensive aviation agreement.</p>
 <p>Brussels</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

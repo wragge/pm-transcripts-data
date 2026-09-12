@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40321</transcript-id>
-    <title>A new era of Antarctic engagement</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A new era of Antarctic engagement was announced today by the Turnbull Government, with the launch of the Australian Antarctic Strategy and 20 Year Action Plan.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40321</transcript-id><title>A new era of Antarctic engagement</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A new era of Antarctic engagement was announced today by the Turnbull Government, with the launch of the Australian Antarctic Strategy and 20 Year Action Plan.</p>
 <p>The Turnbull Government is providing $255 million in funding over the next ten years to enhance Australia’s Antarctic logistics and science capabilities.</p>
 <p>This includes $55 million for infrastructure and $200 million for sustainable ongoing funding for the Australian Antarctic program.</p>
 <p>This is the most significant package of measures ever developed to build Australia’s role as a leader in Antarctica.</p>
@@ -21,6 +11,4 @@
 <p>Under the Antarctic Treaty system, Antarctica is designated as a natural reserve, free of mining and devoted to peace, environmental protection and cooperative international science.</p>
 <p>These investments allow us to work even more closely with other countries to strengthen this important and unique Treaty system.</p>
 <p>The Australian and Tasmanian governments will continue to work to enhance Tasmania’s status as a global Antarctic research hub and the premier Gateway to East Antarctica, including the expansion of infrastructure in Hobart to accommodate the new icebreaker.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

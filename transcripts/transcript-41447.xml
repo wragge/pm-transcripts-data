@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41447</transcript-id>
-    <title>Opening remarks, Council of Australian Government Press Conference</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/02/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41447</transcript-id><title>Opening remarks, Council of Australian Government Press Conference</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/02/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Well thank you all very much. We’ve had a very, very productive COAG meeting. The 45th meeting of the council of Australian Governments.</p>
 <p>The meeting began and was enriched by the contribution of the delegates from the Special Gathering of Aboriginal and Torres Strait Islander leaders, which has been going on in Canberra over the last few days.</p>
 <p>It demonstrated our shared commitment to do things ‘with’ and not ‘to’ Aboriginal and Torres Strait Islander people. They have a very pithy insight into the right approach, originally described to me by Chris Sarra, who was one of the delegates.</p>
@@ -34,6 +24,4 @@
 <p>I should also note in conclusion that early this morning the northern Australian first ministers and the Commonwealth held a discussion about the progress of development spending across the north especially in roads and water and on Indigenous economic development.</p>
 <p>So it's been a very productive COAG.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

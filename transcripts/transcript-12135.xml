@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12135</transcript-id>
-    <title>Sir Donald Bradman Memorial Fund</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/03/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12135</transcript-id><title>Sir Donald Bradman Memorial Fund</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/03/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Commonwealth Government will contribute $100,000 to The Bradman Memorial Fund.</p>
 <p>The Bradman Memorial Fund was announced earlier this week by Sir Donald Bradman's family and will be administered through the Bradman Foundation at Bowral.</p>
 <p>As Mr John Bradman has indicated, all donations will be dedicated to the promotion and encouragement of cricket in disadvantaged communities including Indigenous communities.</p>
 <p>The establishment of this fund for the purpose of giving people from disadvantaged backgrounds an opportunity to participate in playing cricket will be a fitting and practical memorial to the life of Sir Donald Bradman.</p>
 <p>1 March 2001 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

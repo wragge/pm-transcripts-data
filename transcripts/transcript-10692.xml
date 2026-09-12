@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10692</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  DOORSTOP INTERVIEW - FRANKSTON, VICTORIA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/06/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10692</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  DOORSTOP INTERVIEW - FRANKSTON, VICTORIA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/06/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................</p>
 <p>  Well, ladies and gentlemen, no doubt you'll have some questions</p>
 <p>   but I just thought I'd open by saying that now, more than ever</p>
 <p>   is not the time to change economic course. It is very, very clear</p>
@@ -178,6 +168,4 @@
 <p>   and that would be a very tragic outcome for this country. Thank</p>
 <p>   you.</p>
 <p>   [ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

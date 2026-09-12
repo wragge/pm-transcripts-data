@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21025</transcript-id>
-    <title>Interview with David Speers, Sky News  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21025</transcript-id><title>Interview with David Speers, Sky News  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p>Prime Minister, thanks for your time. You';ve seen off Simon Crean and now face a new opponent in Mark Latham as Opposition leader. In many ways a very different politician to you – are you still confident you can win the contest against Mark Latham?</p>
 <p>PRIME MINISTER:</p>
 <p>Well first of all let me congratulate Mr Latham on being elected leader of the Australian Labor Party. It';s an enormous honour for anybody to be elected to the leadership of a national political party and it obviously represents for him a significant career achievement. So far as my capacities against him are concerned that is a matter for the Australian people. I am not going to give a running commentary on that. Obviously, the Australian people will make a judgement on that issue sometime next year. I do have to observe that the Labor Party now is less fit to govern than it';s been at anytime over the last seven and a half years because not only is the Labor Party bitterly divided over policy, but now it';s bitterly divided over personalities and leadership. Remember 47 to 45 is as close as it can get. You have to go back to the famous tied vote in the Gorton Liberal Party room more than 30 years ago to get something as close as that. And on top of it the man who got 45, the most experienced person by far in the Australian Labor Party is going to continue on the backbench – that';s what he said.</p>
@@ -45,6 +35,4 @@
 <p>Okay, Prime Minister, thanks for your time.</p>
 <p>PRIME MINISTER:</p>
 <p>You';re very welcome.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

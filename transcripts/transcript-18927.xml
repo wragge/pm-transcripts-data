@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18927</transcript-id>
-    <title>2012 Prime Minister&#039;s Australian Exporter of the Year Awards</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18927</transcript-id><title><![CDATA[2012 Prime Minister&#039;s Australian Exporter of the Year Awards]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard has named Queensland premium auto manufacturer PWR Performance Products as the 2012 Australian Exporter of the Year.</p>
 <p>PWR Performance Products caters to the high-performance racing industry and automotive aftermarket. Its range includes light-weight radiators, oil coolers and intercoolers.</p>
 <p>Over 50 per cent of Formula 1 teams and 90 per cent of NASCAR teams now use PWR cooling solutions and the company recently secured contracts with Porsche, Pagani, and Jaguar-Williams among others.</p>
@@ -20,6 +10,4 @@
 <p>The Prime Minister's Australian Exporter of the Year is selected from the winners of 12 national categories.</p>
 <p>PWR Performance Products was also the winner of the Small to Medium Manufacturer Award.</p>
 <p>The 50th Australian Export Awards ceremony was hosted in Canberra tonight by Trade and Competitiveness Minister Craig Emerson, and co-presented by the Australian Trade Commission and Australian Chamber of Commerce and Industry.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15756</transcript-id>
-    <title>Transcript of Interview Channel 9 Today Show with Karl Stefanovic Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KARL:Joining me from Canberra is Prime Minister Kevin Rudd. Prime Minister, good morning to you. First of all, how is Jose Ramos Horta this morning?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15756</transcript-id><title>Transcript of Interview Channel 9 Today Show with Karl Stefanovic Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KARL:Joining me from Canberra is Prime Minister Kevin Rudd. Prime Minister, good morning to you. First of all, how is Jose Ramos Horta this morning?</p>
 <p>PM:Best of my advice this morning, he remains in a very serious and stable condition. The Australian Government, as you know, made available both access to medical facilities within our control in Dili and then subsequently flew Jose to Darwin and he has received the best possible attention over night.</p>
 <p>But he remains in a very serious, but stable condition.</p>
 <p>KARL: Any word on the streets of Dili, what the situation is like there?</p>
@@ -43,6 +33,4 @@
 <p>KARL:Alright, we wish you well and thank you very much for your time today.</p>
 <p>PM: Thanks Karl.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

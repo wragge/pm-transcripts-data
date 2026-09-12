@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41068</transcript-id>
-    <title>Interview with Karl Stefanovic - Today Show, Channel 9</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/07/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Justine Ruszczyk, National Security, Home Affairs Ministry, Greens Resignations, Tony Abbott</subjects>
-    <content><![CDATA[<p><strong>KARL STEFANOVIC: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41068</transcript-id><title>Interview with Karl Stefanovic - Today Show, Channel 9</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/07/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Justine Ruszczyk, National Security, Home Affairs Ministry, Greens Resignations, Tony Abbott</subjects><content><![CDATA[<p><strong>KARL STEFANOVIC: </strong></p>
 <p>The Prime Minister joins us now from Canberra. PM, good morning to you.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, Karl. Great to be with you.</p>
@@ -25,7 +15,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, we are demanding answers, something clearly went tragically wrong, Karl.</p>
 <p>I noticed the mayor of the city is demanding answers. I mean, they are her police after all and of course our Consul-General in Chicago who covers that part of the United States, Michael Wood is doing the same.</p>
-<p>We are providing all the support we can but this is,  it seems inexplicable, but note, there will be some answers given in due course.</p>
+<p>We are providing all the support we can but this is,&nbsp; it seems inexplicable, but note, there will be some answers given in due course.</p>
 <p>At this point, it is a tragic loss, this young Australian woman and again, our hearts go out to her family with sorrow and with condolence and with love.</p>
 <p><strong>KARL STEFANOVIC: </strong></p>
 <p>Well said.</p>
@@ -90,6 +80,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Great to be with you, Karl. Thanks</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

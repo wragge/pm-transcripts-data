@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41382</transcript-id>
-    <title>Congestion busting NorthConnex breaks through</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>13/12/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Congestion relief for motorists in Sydney’s North West and Central Coast is one step closer, with the first tunnel breakthrough for the NorthConnex project marking another major project milestone.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41382</transcript-id><title>Congestion busting NorthConnex breaks through</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>13/12/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Congestion relief for motorists in Sydney’s North West and Central Coast is one step closer, with the first tunnel breakthrough for the NorthConnex project marking another major project milestone.</p>
 <p>Prime Minister Malcolm Turnbull said the project was on track to shift 5,000 trucks off Pennant Hills Road and return local roads to local communities.</p>
 <p>“NorthConnex is the missing link between the M1 and M2 motorways and will save motorists up to 15 minutes travel time on each journey as they bypass 21 sets of traffic lights underneath Pennant Hills Road,” Mr Turnbull said.</p>
 <p>“Getting 5,000 trucks off Pennant Hills Road each day will not only benefit the local community, it will also boost the state and national economies by providing more reliable journeys and shorter travel times for freight operators.”</p>
@@ -22,7 +12,8 @@
 <p>The completed NorthConnex project will include twin nine-kilometre tunnels under Pennant Hills Road, allowing motorists to travel between Newcastle and Melbourne without a single set of traffic lights.</p>
 <p>NorthConnex is another great example of the way the Turnbull and Berejiklian governments are working together to deliver vital infrastructure projects, with each Government committing $412 million towards the $3 billion project.</p>
 <p><strong>NorthConnex Tunnel Fast Facts</strong></p>
-<ul><li>About 14,000 metres of horizontal tunnelling completed as at 24 November 2017</li>
+<ul>
+<li>About 14,000 metres of horizontal tunnelling completed as at 24 November 2017</li>
 <li>A total of 20 roadheaders are on site</li>
 <li>Two surface miners on site</li>
 <li>Around 1,500,000 cubic metres of spoil will be excavated across all sites and environmentally reused</li>
@@ -33,6 +24,5 @@
 <li>The project is on track to achieve 100 per cent of spoil to be beneficially reused</li>
 <li>The roadheaders advanced through the ground at a speed of about 350 metres per week</li>
 <li>In total, the project will have eight significant breakthroughs between tunnelling compounds and on/off ramps</li>
-</ul>]]></content>
-  </transcript>
-</transcripts>
+</ul>
+]]></content></item></response>

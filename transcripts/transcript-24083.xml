@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24083</transcript-id>
-    <title>Changes to the Ministry</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>21/12/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce changes to the Ministry that I will recommend to the Governor-General.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24083</transcript-id><title>Changes to the Ministry</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>21/12/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce changes to the Ministry that I will recommend to the Governor-General.</p>
 <p>These changes will put jobs and families at the centre of the Government’s agenda for 2015.</p>
 <p>The Hon Scott Morrison MP will be promoted to Minister for Social Services.</p>
 <p>Mr Morrison will devote all of his energy, policy skill and determination to this new portfolio which will have a renewed focus on families. In addition to responsibility for welfare, family support, seniors, aged care and the National Disability Insurance Scheme (NDIS), childcare will also be added to his portfolio.</p>
@@ -34,6 +24,4 @@
 <p>Mrs Karen Andrews MP, a former engineer, will take on the role of Parliamentary Secretary to the Minister for Industry and Science. She has brought real life experience to her recent role as Chair of the Joint Standing Committee on Public Works and I look forward to her contribution to science policy.</p>
 <p>The swearing in of the new ministry will take place on Tuesday 23 December 2014.</p>
 <p>21 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

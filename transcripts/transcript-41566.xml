@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41566</transcript-id>
-    <title>Latrobe Valley gets jobs boost</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/04/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will create 1200 new jobs in the Latrobe Valley with the announcement of 19 successful projects under the Regional Jobs and Investment Package.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41566</transcript-id><title>Latrobe Valley gets jobs boost</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/04/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will create 1200 new jobs in the Latrobe Valley with the announcement of 19 successful projects under the Regional Jobs and Investment Package.</p>
 <p>The $20 million package will foster stronger regional communities and ensure their prosperity continues into the future.</p>
 <p>This commitment will drive jobs and economic growth in the Latrobe Valley and is part of a $220 million investment by the Turnbull Government to help diversify regional economies, stimulate economic growth and deliver sustainable employment.</p>
 <p>The 19 organisations set to benefit from today's announcement highlight both the innovation and future business prowess of the region.</p>
@@ -20,6 +10,4 @@
 <p>This project is expected to create 25 jobs during construction, along with two ongoing jobs, providing additional support to economy.</p>
 <p>These two projects are examples of how the Australian Government is continuing its work to diversify the economies of our regions and create employment and investment opportunities for residents.</p>
 <p>For more information on grant programs available to regional Australians, visit <a href="https://www.grants.gov.au/">https://www.grants.gov.au/</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

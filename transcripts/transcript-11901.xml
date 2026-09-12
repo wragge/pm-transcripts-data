@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11901</transcript-id>
-    <title>Television Interview with Lisa Millar, Stateline, ABC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Ryan by-election; petrol; economy; Telstra; preferences.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11901</transcript-id><title>Television Interview with Lisa Millar, Stateline, ABC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Ryan by-election; petrol; economy; Telstra; preferences.</p>
 <p>E&amp;OE................................ </p>
 <p>LISA MILLAR:</p>
 <p>John Howard welcome to Stateline.</p>
@@ -95,6 +85,4 @@
 <p>John Howard, thanks very much.</p>
 <p>PRIME MINISTER:</p>
 <p>It's a pleasure.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19294</transcript-id>
-    <title>Transcript of interview with Jon Faine</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/05/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19294</transcript-id><title>Transcript of interview with Jon Faine</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/05/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC Melbourne</p>
 <p>E &amp; O E  -  PROOF ONLY</p>
 <p>HOST: The Prime Minister of Australia, she joins us from Tasmania where she's just signed the historic forestry agreement down there, but all eyes on DisabilityCare. Prime Minister good morning to you.</p>
 <p>PM: Good morning Jon.</p>
@@ -67,6 +57,4 @@
 <p>So they can describe them how they like, but they are progressive changes that recognise that people who have superannuation nest eggs measured in the millions are in a different position from other Australians and that if you are looking for the sustainability of the system, then it makes sense to make a change at that upper end.</p>
 <p>HOST: As so often happens, the time disappears and vanishes in front of us. We need the chance to have you in the studio for a longer chat one day soon. Thank you for your time this morning.</p>
 <p>PM: Thanks Jon.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

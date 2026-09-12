@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41595</transcript-id>
-    <title>Super support for supercomputer</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>28/04/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will make a further significant investment in research and Australian jobs.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41595</transcript-id><title>Super support for supercomputer</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>28/04/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will make a further significant investment in research and Australian jobs.</p>
 <p>We will provide $70 million for the Pawsey Supercomputing Centre to secure the next generation of supercomputers.</p>
 <p>This investment in Western Australia will pay national dividends, helping deliver discoveries and advances that will have practical benefits for all Australians.</p>
 <p>Pawsey is one of two facilities that make-up Australia’s research High Performance Computing capability. This additional funding will help a world-class facility become a world-leading one.</p>
@@ -18,6 +8,4 @@
 <p>Maintaining Australia’s reputation for research excellence is necessary to attract, develop and retain the very best of the world’s research practitioners, data providers and students.</p>
 <p>45 highly skilled researchers, engineers and technicians are employed at Pawsey, and many more are trained there.</p>
 <p>The Turnbull Government is committed to ensuring Australia remains globally competitive. The investment in supercomputing is in addition to our $10.3 billion commitment to Research and Development in the 2017-2018 Budget.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

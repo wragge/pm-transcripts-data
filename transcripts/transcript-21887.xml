@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21887</transcript-id>
-    <title>General Motors Holden  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/08/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government regrets that General Motors Holden has decided for its own operational reasons to eliminate the third shift at the Elizabeth plant in South Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21887</transcript-id><title>General Motors Holden  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/08/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government regrets that General Motors Holden has decided for its own operational reasons to eliminate the third shift at the Elizabeth plant in South Australia.</p>
 <p>  Unfortunately this will mean up to 1400 positions will be lost by the middle of  2006.  The Government understands that the company, in the first instance, will be seeking to reduce staff by voluntary redundancy.</p>
 <p>Last night I spoke to Premier Rann and we agreed to establish a $10 million labour adjustment fund to assist displaced workers.</p>
 <p> The Australian Government will contribute $7.5 million to the labour adjustment fund and the South Australian Government will contribute $2.5 million to the fund.</p>
@@ -19,6 +9,4 @@
 <p>While Holden's decision is regrettable, it comes at a time when the Australian economy is very strong, delivering South Australia one of the best employment positions in its history. The unemployment rate in South Australia is 4.6 per cent, in line with the 30-year lows of the national economy.</p>
 <p>The labour adjustment fund will complement entitlements the workers receive from their employer.</p>
 <p>The Australian Government understands that General Motors Holden has said it will honour all worker entitlements. The Government fully expects it to meet this commitment.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17531</transcript-id>
-    <title>Transcript of interview with Karen Middleton, SBS World News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/10/2010</release-date>
-    <release-type>Trade</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17531</transcript-id><title>Transcript of interview with Karen Middleton, SBS World News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/10/2010</field_date><release-type>Trade</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister thanks for joining us. You joked in your dinner speech about your accent, now you're not really having trouble being understood here are you?</p>
 <p>PM: No I'm not, but I thought a joke was worthwhile so I did say even the English language speakers might want to use the translation. Nick Clegg from the United Kingdom ostentatiously then put his headphones on and started pointing at them. So it was a good moment, a funny moment, but no people are understanding me.</p>
 <p>HOST: Well is it your first trip abroad and you are obviously introduce yourself to a lot of leaders that you haven't met before. Now it may be confusing for some of them that it's not Kevin Rudd leading a Labor Government here. How are you explaining that to leaders and has anybody asked about it?</p>
@@ -23,6 +13,4 @@ HOST: Prime Minister thanks for joining us. You joked in your dinner speech abou
 <p>In terms of our foreign policy, obviously there will be a lot of continuity in our foreign policy, my focus will be on getting the big relationships right, and my focus will be on participating in multi-national forums, like this one of course, the G20, APEC, the East Asia Summit that are so important for the world and for our region.</p>
 <p>HOST: Prime Minister thanks very much for joining us.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

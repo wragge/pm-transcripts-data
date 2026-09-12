@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24541</transcript-id>
-    <title>Australia signs landmark trade agreement with China</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/06/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, Australia signed a landmark Free Trade Agreement with China, our largest trading partner, with total trade worth almost $160 billion in 2013-14, and a growing source of investment.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24541</transcript-id><title>Australia signs landmark trade agreement with China</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/06/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, Australia signed a landmark Free Trade Agreement with China, our largest trading partner, with total trade worth almost $160 billion in 2013-14, and a growing source of investment.</p>
 <p>The China-Australia Free Trade Agreement (ChAFTA) will lock in existing trade and provide the catalyst for future growth across a range of areas including goods, services and investment.</p>
 <p>The Agreement secures better market access for Australia to the world’s second largest economy, improves our competitive position in a rapidly growing market, promotes increased two-way investment and reduces import costs. It is a win for households and businesses alike.</p>
 <p>On day one of the ChAFTA, more than 85 per cent of Australian goods exports will be tariff free, rising to 95 per cent on full implementation.</p>
@@ -22,6 +12,4 @@
 <p>The Agreement will enter into force after the completion of domestic legal and parliamentary processes in China and Australia, including review by the Australian Parliament’s Joint Standing Committee on Treaties, and the Senate Foreign Affairs, Defence and Trade References Committee. Both countries are working to complete these steps and bring the Agreement into force as soon as possible.</p>
 <p>The full text of the Agreement is now publicly available online at: <a href="http://www.dfat.gov.au/chafta">dfat.gov.au/chafta</a>, along with materials to assist in understanding the Agreement.</p>
 <p>17 June 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

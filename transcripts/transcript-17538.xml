@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17538</transcript-id>
-    <title>Transcript of interview with Fran Kelly</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/09/2010</release-date>
-    <release-type>Environment</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC Radio National</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17538</transcript-id><title>Transcript of interview with Fran Kelly</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/09/2010</field_date><release-type>Environment</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC Radio National</p>
 <p>HOST: Ahead of today's first question time, Prime Minister Julia Gillard joins you in our Parliament House studio, now.</p>
 <p>Prime Minister, good morning and welcome back to Radio National Breakfast.</p>
 <p>PM: Thank you very much, Fran. Great to be with you.</p>
@@ -81,6 +71,4 @@
 <p>I said very clearly, in my Light on the Hill speech, I am bringing the approach to this that we won with a landslide. We are going to get the job done. We're going to make it work. That's what the Australian people have voted for. I think that's exactly what they're asking us to do and I'm going to seize the opportunity that being in Government presents and that this parliament presents.</p>
 <p>HOST: Prime Minister, good luck with making the Parliament work - good luck for all of us. Thank you very much for joining us on Breakfast.</p>
 <p>PM: Thanks, Fran.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

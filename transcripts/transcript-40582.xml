@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40582</transcript-id>
-    <title>Press Conference with the Minister for Immigration and Border Protection</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>13/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40582</transcript-id><title>Press Conference with the Minister for Immigration and Border Protection</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>13/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Over the time Labor failed to keep our borders secure, 8,000 children went into detention. Most tragically of all, there were 1,200 deaths at sea, of which we know.</p>
 <p>Since the Coalition came into Government in 2013, we have been diligently restoring the security of Australia's borders. We've been diligently dealing with the shocking mess, the chaos left us by the Labor Party. It has taken time but we have had considerable success. It is now over 830 days since a successful people smuggling adventure reached Australia.</p>
 <p>Having stopped the boats arriving, we set out on the next task - to empty and close the detention centres. I am especially proud that under our Government we have removed all the children from detention in Australia and closed 17 detention centres which the Labor Party had to open because of their mismanagement.</p>
@@ -103,6 +93,4 @@
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

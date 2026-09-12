@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41366</transcript-id>
-    <title>Australia joins international solar alliance</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>06/12/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia’s expertise in solar technologies and research will be shared globally with the formal creation of the International Solar Alliance today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41366</transcript-id><title>Australia joins international solar alliance</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>06/12/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia’s expertise in solar technologies and research will be shared globally with the formal creation of the International Solar Alliance today.</p>
 <p>Led by India and France, members of the International Solar Alliance will deepen cooperation on solar research, reduce technology costs and harmonise international standards.</p>
 <p>The ISA aims to promote the roll out of solar technology and solar energy uptake amongst countries that lie in the sun-rich belt between the tropics.</p>
 <p>Over one billion people have no access to electricity. Harnessing solar energy will expand access to energy in developing countries, helping them to meet the energy demands of their growing economies.</p>
@@ -17,6 +7,4 @@
 <p>Joining the Alliance also supports the Australian Government’s commitment to clean energy cooperation and meeting our Paris Agreement emissions targets.</p>
 <p>Australia joins 18 other founding members International Solar Alliance as it officially comes into force as an international inter-governmental body today.</p>
 <p>We welcome the establishment of ISA headquarters at the National Institute of Solar Energy in India.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

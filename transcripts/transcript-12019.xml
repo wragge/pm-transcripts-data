@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12019</transcript-id>
-    <title>Interview with Chris Uhlmann, ABC Radio, 2CN </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Australian Federal political system; drugs campaign; Princes Highway; health system; public service; Australian Workplace Agreements; Prime Minister's XI v ATSIC XI.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12019</transcript-id><title>Interview with Chris Uhlmann, ABC Radio, 2CN </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Australian Federal political system; drugs campaign; Princes Highway; health system; public service; Australian Workplace Agreements; Prime Minister's XI v ATSIC XI.</p>
 <p>E&amp;OE................................</p>
 <p>UHLMANN:</p>
 <p>It's five past nine and it's my great pleasure now to welcome to the programme the Prime Minister John Howard. Good morning.</p>
@@ -144,6 +134,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

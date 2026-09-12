@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11310</transcript-id>
-    <title>INTERGOVERNMENTAL AGREEMENT ON THE REFORM OF COMMONWEALTH-STATE FINANCIAL             RELATIONS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/04/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Commonwealth, State and Territory leaders</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11310</transcript-id><title>INTERGOVERNMENTAL AGREEMENT ON THE REFORM OF COMMONWEALTH-STATE FINANCIAL             RELATIONS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/04/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Commonwealth, State and Territory leaders</p>
 <p> have today signed a landmark Agreement</p>
 <p> that will transform Commonwealth-State financial relations, as promised</p>
 <p> in the Commonwealth Government's Tax Reform: not a new tax,</p>
@@ -47,6 +37,4 @@
 <p> a year. It is also envisaged that the Council of Australian Governments</p>
 <p> will meet at least once a year for Heads of Government discussions.</p>
 <p> Canberra</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

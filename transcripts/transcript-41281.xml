@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41281</transcript-id>
-    <title>$207 million for Nulka upgrade program</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>03/11/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will strengthen the Australian Defence Force’s anti-ship missile defence capability with a $207 million boost to the Nulka program.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41281</transcript-id><title>$207 million for Nulka upgrade program</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>03/11/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will strengthen the Australian Defence Force’s anti-ship missile defence capability with a $207 million boost to the Nulka program.</p>
 <p>Nulka is a rocket propelled active missile decoy designed to entice hostile radio frequency guided anti-ship missiles away from a ship.</p>
 <p>Nulka has been protecting Australia’s major surface fleet units since its development and this upgrade will ensure the system remains at the cutting edge into the future.</p>
 <p>Nulka will continue to be upgraded over the coming decades to keep pace with anti-ship missile technologies and ensure our sailors have the best available protection at sea.</p>
@@ -19,6 +9,4 @@
 <p>The upgraded Nulka system will be installed in all Royal Australian Navy frigates and Hobart class destroyers and introduced for the first time on the Canberra Class Landing Helicopter Docks.</p>
 <p>The Turnbull Government’s focus and continued investment in the Australian Defence Industry not only keeps all Australians safe but is creating new advanced manufacturing jobs. We are developing the technology here and we are making it here.</p>
 <p>The investment of $207 million to upgrade the Nulka system will occur over the next 20 years.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

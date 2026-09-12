@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17673</transcript-id>
-    <title>Transcript of doorstop interview, Auckland</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17673</transcript-id><title>Transcript of doorstop interview, Auckland</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Well, thank you very much.</p>
 <p>It's great to be here in New Zealand. I'm very much looking forward to this visit. Of course, I'll have the opportunity now to speak to some of New Zealand's business leaders. There's no closer economic partnership between Australia and any country in the world than the economic partnership we have with New Zealand and we are seeking to build on it.</p>
 <p>I'll also have the opportunity this afternoon to talk about something very dear to my heart, and that is education and the creation of opportunity when I visit a local school with Prime Minister Key.</p>
@@ -23,6 +13,4 @@ PM: Well, thank you very much.</p>
 <p>JOURNALIST: Prime Minister, there are funerals in Australia today for some of the asylum seekers who were killed off Christmas Island. Scott Morrison has drawn some questions about whether or not the Australian taxpayer should be funding relatives coming out for funerals. Do you have any comments?</p>
 <p>PM: The Acting Prime Minister, Wayne Swan, and the responsible Minister, Chris Bowen, will deal with those matters back home.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

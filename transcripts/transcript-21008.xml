@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21008</transcript-id>
-    <title>Tourism White Paper  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/11/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to be launching today the Australian Government's Tourism White Paper: A Medium to Long Term Strategy for Tourism.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21008</transcript-id><title>Tourism White Paper  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/11/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to be launching today the Australian Government's Tourism White Paper: A Medium to Long Term Strategy for Tourism.</p>
 <p>The strategy will be supported by a major new investment in tourism, which I am pleased to announce involves additional funding worth a total of $235 million over four and a half years.</p>
 <p>The Government is also announcing a restructuring of key tourism bodies.</p>
 <p>One of the objectives of the plan is to work closely with industry to further develop international markets now and into the future.</p>
@@ -33,6 +23,4 @@
 <p>I would like to thank everyone from the tourism industry who contributed to the consultation process on the White Paper.  The constructive and cooperative nature of the process was appreciated by the Government.</p>
 <p>The Government is willing to work in partnership with the industry to implement the Tourism White Paper which is aimed at ensuring that as a nation we achieve renewed growth and further development in tourism, and reap the economic and social benefits afforded by this vital industry.</p>
 <p>The Tourism White Paper is on the internet at <a href="http://www.industry.gov.au">www.industry.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15612</transcript-id>
-    <title>Press Conference Phillip Street, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/10/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15612</transcript-id><title>Press Conference Phillip Street, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/10/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Bali bombings; Australia: Strong, Prosperous and Secure; indigenous Australians.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -172,6 +162,4 @@ Bali bombings; Australia: Strong, Prosperous and Secure; indigenous Australians.
 <p>PRIME MINISTER:</p>
 <p>Look, if you're asking me who do I think my successor will be, I think it will be Peter, and I think it should be, although it is up to the Party when the time comes, but I have no doubt as to who the Party should choose as my successor. Thanks a lot.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

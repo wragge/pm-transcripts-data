@@ -1,20 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40522</transcript-id>
-    <title>2016 Prime Minister’s Prizes reward innovation and science</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/10/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Tonight we recognise some of Australia’s greatest scientists, innovators and teachers for outstanding achievements in their fields.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40522</transcript-id><title>2016 Prime Minister’s Prizes reward innovation and science</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/10/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Tonight we recognise some of Australia’s greatest scientists, innovators and teachers for outstanding achievements in their fields.</p>
 <p>The $250,000 Prime Minister’s Prize for Science has been awarded to evolutionary biologist Professor Richard Shine of the University of Sydney in recognition of his work to ensure Northern Australia’s peak predators – snakes and lizards – are more likely to survive the cane-toad invasion.</p>
 <p>Professor Shine has created traps for cane toads, taught quolls and goannas to avoid toads, and now plans to release small cane toads ahead of their potential arrival in new areas so predators survive their first meal of cane toad but have an aversion to eating them again.</p>
 <p>Global stock markets are being made fairer and more efficient thanks to the work of Professor Michael Aitken, recipient of the $250,000 Prime Minister’s Prize for Innovation.</p>
 <p>Professor Aitken, of Macquarie University and the Capital Market CRC, created services that capture two million trades a second, enabling rapid analysis of markets and systems to detect fraud.</p>
-<p>His researchers have developed a spin-off company that is targeting health and other markets and identifying billion dollar frauds and inefficiencies in Australia’s health markets. </p>
+<p>His researchers have developed a spin-off company that is targeting health and other markets and identifying billion dollar frauds and inefficiencies in Australia’s health markets.&nbsp;</p>
 <p>Winner of the inaugural $50,000 Prime Minister’s Prize for New Innovators, Dr Colin Hall, a Senior Research Fellow at the Future Industries Institute at the University of South Australia, is creating jobs and exports through new car part technologies.</p>
 <p>The innovation awards recognise outstanding researchers who have turned scientific research into a direct benefit to Australia’s economy, driving innovation and helping Australian industry thrive in a changing world.</p>
 <p>Other Prime Minister’s Prizes for Science winners are:</p>
@@ -27,6 +17,4 @@
 <p>Scientists’ work improves our understanding of the world around us, helping to tackle issues that confront our country in medicine, conservation, trade industry and many other areas.</p>
 <p>We also rely upon outstanding science teachers open the eyes of the next generations to the value of science, enabling them to make decisions in their lives based on evidence and scientific principles.</p>
 <p>Full citations, photos, videos and overlay are available online: <a href="http://www.science.gov.au/pmscienceprizes">www.science.gov.au/pmscienceprizes</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

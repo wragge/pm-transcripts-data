@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17073</transcript-id>
-    <title>Prime Minister Transcript of interview with Lyndal Curtis on ABC AM 25 February 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS:Mr Rudd, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17073</transcript-id><title>Prime Minister Transcript of interview with Lyndal Curtis on ABC AM 25 February 2010  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS:Mr Rudd, welcome to AM.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>CURTIS: What do you know about these passports? Are they faked? Was it identity fraud?</p>
 <p>PM: The Dubai authorities have informed Australian officials about the possible use of Australian passports or forged Australian passports in the recent assassination in Dubai.</p>
@@ -56,6 +46,4 @@
 <p>We've stood by workers so far - 200,000-plus across Australia through the Government stimulus strategy. We'll stand by workers again through this. Problems have been created through the change in Government policy. Our job is now to get out there and fix it.</p>
 <p>CURTIS: Mr Rudd, thank you very much for your time.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24072</transcript-id>
-    <title>Martin Place Siege </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>16/12/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australians awoke to the news this morning that the siege in Martin Place has ended.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24072</transcript-id><title>Martin Place Siege </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>16/12/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australians awoke to the news this morning that the siege in Martin Place has ended.</p>
 <p>Our thoughts and prayers are with the families of the two deceased hostages, the wounded and the other hostages.</p>
 <p>I commend the courage and professionalism of the New South Wales Police and other emergency services involved.</p>
 <p>Early this morning I was briefed on developments by New South Wales Premier Mike Baird and New South Wales Police Commissioner Andrew Scipione, as well as Australian Federal Police Commissioner Andrew Colvin.</p>
 <p>Commonwealth agencies will continue to provide every support to New South Wales authorities.</p>
 <p>The National Security Committee of Cabinet will meet shortly to review the situation.</p>
 <p>16 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

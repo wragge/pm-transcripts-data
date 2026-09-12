@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12753</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW, SYDNEY                </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/08/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Cricket tour.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12753</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP            DOORSTOP INTERVIEW, SYDNEY                </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/08/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Cricket tour.</p>
 <p>E&amp;OE...........</p>
 <p>JOURNALIST:</p>
 <p>What does this decision mean for Australian cricket?</p>
@@ -24,6 +14,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well we';re already doing that. The Department of Foreign Affairs has issued quite a deal of advice and we';ll continue to follow that very, very closely.</p>
 <p>   [ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

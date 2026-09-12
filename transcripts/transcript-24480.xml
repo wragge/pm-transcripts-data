@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24480</transcript-id>
-    <title>First National Infrastructure Audit Released</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>22/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government welcomes the release of Australia’s first national audit on infrastructure, undertaken by Infrastructure Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24480</transcript-id><title>First National Infrastructure Audit Released</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>22/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government welcomes the release of Australia’s first national audit on infrastructure, undertaken by Infrastructure Australia.</p>
 <p>The audit shows the economic imperative of fixing our road and transport networks in our major cities. This audit is a first for Australia and will drive action on infrastructure investment by revealing the costs of inaction.</p>
 <p>For example, road congestion in Australia is currently costing some $13.7 billion per year. If we don’t take action, the cost will be $53 billion a year by 2031.</p>
 <p>The Government has already taken significant steps to address our nation’s infrastructure backlog, after years of under-funding by previous governments.</p>
@@ -22,6 +12,4 @@
 <p>The Commonwealth invites the states and territories to support the development of this 15 year plan, because Australians want governments to work together to make their lives and their transport systems better.</p>
 <p>A copy of the audit is available at: <a href="http://www.infrastructureaustralia.gov.au/">http://www.infrastructureaustralia.gov.au/</a></p>
 <p>22 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

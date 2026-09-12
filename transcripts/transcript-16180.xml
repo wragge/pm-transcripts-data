@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16180</transcript-id>
-    <title>Interview with 60 Minutes, Channel Nine, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/10/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister thanks for talking to us. Just two days ago you said $20,000 was enough protection for bank deposits. Now it's all deposits in all banks in Australia. Is that dramatic change telling us that there are worse things to come?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16180</transcript-id><title>Interview with 60 Minutes, Channel Nine, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/10/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister thanks for talking to us. Just two days ago you said $20,000 was enough protection for bank deposits. Now it's all deposits in all banks in Australia. Is that dramatic change telling us that there are worse things to come?</p>
 <p>PM: Not at all. Our banks remain in fine first class working order. The reason that we have gone for the guarantee that we have provided is because governments all around the world are now doing this. And they are doing it in countries which have got banks in a very bad condition.</p>
 <p>The problem is, if we in Australia don't do the same, then I am concerned about putting our banks in position also where they are looked at differently as they go to try and raise money overseas.</p>
 <p>But there is a second reason as well. And that working families, pensioners, carers, small business operators right around Australia, themselves have become increasingly anxious because of what they have been seeing on their television screens night after night.</p>
@@ -42,6 +32,4 @@
 <p>PM: Remember, implementation date for that is some two years away. What you've got to use the interim time for is to get all the rules right and make sure that it's properly consulted with business and that you've got the settings right. You can't just put that off forever. You put it off forever, let me tell you there is a big, big long term economic cost which is looming through no action on global warming. We've got to act because there's an economic price tag attached to not acting and it's huge.</p>
 <p>HOST: Prime Minister, thanks very much for talking with us tonight.</p>
 <p>PM: Thanks for having me on your program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

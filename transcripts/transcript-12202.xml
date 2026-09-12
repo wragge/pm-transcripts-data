@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12202</transcript-id>
-    <title>Government Supports Airline Industry Against Terrorism</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/09/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government has decided to provide third party war indemnity cover for surface damage of up to US$5 billion over the next month for all Australian aviation carriers that approach the government and have planes with 15 or more seats. In the event that there are similar war insurance problems with smaller aircraft, the government will consider providing indemnification to these Australian airline carriers as well.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12202</transcript-id><title>Government Supports Airline Industry Against Terrorism</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/09/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government has decided to provide third party war indemnity cover for surface damage of up to US$5 billion over the next month for all Australian aviation carriers that approach the government and have planes with 15 or more seats. In the event that there are similar war insurance problems with smaller aircraft, the government will consider providing indemnification to these Australian airline carriers as well.</p>
 <p>In the wake of the terrorist atrocities in the United States of America last week, global aviation insurers have moved to raise premiums and reduce war risk cover to unacceptable levels for third party damages to people and property on the ground.</p>
 <p>Our major carrier, Qantas, would have faced serious reductions in its international services, or even a total shutdown from next Tuesday, had the Government not offered back-up indemnity cover.</p>
 <p>The Government will not stand by and allow acts of terrorism to undermine the aviation and tourism sectors.</p>
@@ -17,6 +7,4 @@
 <p>Under this agreement, Qantas (and other Australian carriers that approach the Commonwealth for a temporary indemnity) will be expected to obtain and maintain insurance to the fullest extent available from time to time, to cover those risks indemnified and released by the Commonwealth.</p>
 <p>Australia is working urgently with other nations to reach a longer-term solution to the problem. In the meantime, the proposed indemnity arrangements will be rolled over on a monthly basis.</p>
 <p>22 September 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

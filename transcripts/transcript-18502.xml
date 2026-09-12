@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18502</transcript-id>
-    <title>Gillard Government offers $200M for better mental health services</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18502</transcript-id><title>Gillard Government offers $200M for better mental health services</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Council of Australian Governments today agreed help improve the care and support provided to people living with severe and persistent mental illness and complex care needs through a new National Partnership Agreement.</p>
 <p>The Gillard Government will provide $200 million to help address gaps in state and territory mental health systems.</p>
 <p>This Labor Government is committed to delivering major reform in mental health.</p>
@@ -18,16 +8,14 @@ The Council of Australian Governments today agreed help improve the care and sup
 <p>The signing of the National Partnership will mean more services and better support for people with a mental illness who frequently present at emergency departments.</p>
 <p>Today's agreement will also help more Australians living with mental illness to secure and maintain stable accommodation and support to keep well and break the hospital cycle.</p>
 <p>Under the NP, Commonwealth funding is being provided for the following projects:</p>
-<p> * 	Australian Capital Territorywill be provided with $2.8 million for the adult mental health step-up step-down early intervention support program and the supported accommodation outreach project targeting men with serious mental illness and recent experience of involuntary institutional care.<br />
- * 	New South Waleswill be provided with $57.6 million for three projects: the housing and accommodation support initiative plus; in-reach support boarding house residents with mental health issues; and, the mothers with mental illness and their children: mental health community support program which includes intensive, family focussed support to mothers with mental illness and their children.<br />
- * 	Northern Territorywill be provided with $3.6 million to increase accommodation and support for people with severe and persistent mental illness in Alice Springs and Darwin.<br />
- * 	Queenslandwill be provided with $51.5 million for the supported recovery  -  coordinated accommodation and support project which includes long-term social housing and support services<br />
- * 	South Australiawill be provided with $14.2 million to expand the assessment and crisis intervention service teams and develop a community walk in centre, which will enable people to present to a mental health clinician in a community location, rather than a GP or emergency department.<br />
- * 	Tasmania will be provided with $6.6 million to provide packages of care for people with severe and persistent mental illness, including individualised and intensive support to access and maintain accommodation, education and employment support.<br />
- * 	Victoria will be provided with $37.3 million for four projects: mental health outreach support and care coordination to people experiencing homelessness as a result of enduring mental illness; mental health support for secure tenancies enabling people with severe mental illness to maintain accommodation; psychiatric assessment and planning units; and a mental health hospital admission risk program pilot which will focus on providing short term coordination of mental health services.<br />
+<p> * 	Australian Capital Territorywill be provided with $2.8 million for the adult mental health step-up step-down early intervention support program and the supported accommodation outreach project targeting men with serious mental illness and recent experience of involuntary institutional care.<br>
+ * 	New South Waleswill be provided with $57.6 million for three projects: the housing and accommodation support initiative plus; in-reach support boarding house residents with mental health issues; and, the mothers with mental illness and their children: mental health community support program which includes intensive, family focussed support to mothers with mental illness and their children.<br>
+ * 	Northern Territorywill be provided with $3.6 million to increase accommodation and support for people with severe and persistent mental illness in Alice Springs and Darwin.<br>
+ * 	Queenslandwill be provided with $51.5 million for the supported recovery  -  coordinated accommodation and support project which includes long-term social housing and support services<br>
+ * 	South Australiawill be provided with $14.2 million to expand the assessment and crisis intervention service teams and develop a community walk in centre, which will enable people to present to a mental health clinician in a community location, rather than a GP or emergency department.<br>
+ * 	Tasmania will be provided with $6.6 million to provide packages of care for people with severe and persistent mental illness, including individualised and intensive support to access and maintain accommodation, education and employment support.<br>
+ * 	Victoria will be provided with $37.3 million for four projects: mental health outreach support and care coordination to people experiencing homelessness as a result of enduring mental illness; mental health support for secure tenancies enabling people with severe mental illness to maintain accommodation; psychiatric assessment and planning units; and a mental health hospital admission risk program pilot which will focus on providing short term coordination of mental health services.<br>
  * 	Western Australiawill be provided with $26.1 million for individualised community living packages and the expansion of community intervention services that respond to the needs of children and their families.</p>
 <p>While there have been significant improvements to state and territory programs, there is still considerable variation in the type of services available across the country.</p>
 <p>Improving links between the state and territory and Commonwealth mental health systems will deliver better treatment for people living with severe and persistent mental illness and help them to stay well and lead functional lives. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

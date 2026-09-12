@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16196</transcript-id>
-    <title>Address to the Prime Minister&#039;s Prizes for Science, Great Hall, Parliament House  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/10/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to join you this evening as we recognise and promote scientific excellence:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16196</transcript-id><title><![CDATA[Address to the Prime Minister&#039;s Prizes for Science, Great Hall, Parliament House  ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/10/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to join you this evening as we recognise and promote scientific excellence:</p>
 <p>     * excellence in scientific research, and</p>
 <p>     * excellence in teaching science and inspiring the next generation of Australian scientists.</p>
 <p>Science and innovation underpin the continued improvements in living standards that we in the modern world take for granted.</p>
@@ -77,6 +67,4 @@
 <p>There are fewer greater contributions a person can make to our society than dedicating themselves to breakthroughs in human knowledge and to passing scientific understanding on to the next generation.</p>
 <p>So tonight, I join you in applauding these achievers for their dedication and excellence.</p>
 <p>And I look forward to our nation producing many more such examples of excellence in coming years. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

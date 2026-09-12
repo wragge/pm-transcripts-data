@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12198</transcript-id>
-    <title>Queensland Diversion Initiative</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/03/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Commonwealth has reached agreement with the Queensland Government on an illicit drugs diversion initiative for Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12198</transcript-id><title>Queensland Diversion Initiative</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/03/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Commonwealth has reached agreement with the Queensland Government on an illicit drugs diversion initiative for Queensland.</p>
 <p>The Commonwealth will provide the Queensland Diversion Initiative with $19.5 million over the next two and a half years targeted at people apprehended for using small amounts of cannabis.</p>
 <p>Drug diversion gives people who are caught using drugs the option of undertaking treatment and/or education aimed at helping them to stop using drugs, rather than getting caught up in the criminal justice system.</p>
 <p>The initiative gives practical effect to the commitment of the Commonwealth and Queensland to divert drug users into treatment as early as possible according to the principles of the national diversion framework endorsed by all Australian governments in 1999.</p>
@@ -20,6 +10,4 @@
 <p>Across Australia, the Federal Government is providing more than $110 million for its diversion programme with an additional $110 million for a range of related supporting measures.</p>
 <p>Under the initiative we will see people being given real incentives to take responsibility for their own lives, in many cases before incurring a criminal record.</p>
 <p>20 March 2001 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

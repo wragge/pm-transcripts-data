@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21923</transcript-id>
-    <title>Australia Joins New International Partnership of Avian and Pandemic Influenza  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/09/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Australia is joining the United States and other countries in the new International Partnership on Avian and Pandemic Influenza (IPAPI), announced by President Bush yesterday.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21923</transcript-id><title>Australia Joins New International Partnership of Avian and Pandemic Influenza  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/09/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Australia is joining the United States and other countries in the new International Partnership on Avian and Pandemic Influenza (IPAPI), announced by President Bush yesterday.</p>
 <p>  The partnership will bring together concerned states to limit the spread of a pandemic.  Every necessary step will be taken to promote international cooperation aimed at joint preventive action and to develop capabilities to respond to a pandemic threat.</p>
 <p>The IPAPI should also complement and support the ongoing work on pandemics conducted through the World Health Organisation, the Food and Agriculture Organisation and the World Organisation for Animal Health.</p>
 <p> The Australian Government is working at the domestic, regional and wider international level on influenza and pandemic planning and response measures.</p>
@@ -18,6 +8,4 @@
 <p>  The Government believes that APEC provides another useful forum to promote regional cooperation on this important issue. APEC has been working for two years on preparedness and response to pandemic threats and initiatives to strengthen this work will be discussed at the Leaders' meeting in November 2005.</p>
 <p>  Australia also supports a Canadian proposal to host an international meeting of Health Ministers to discuss global pandemic preparedness.</p>
 <p>It is important that the world works together to coordinate our forward defence around the globe against a pandemic outbreak.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

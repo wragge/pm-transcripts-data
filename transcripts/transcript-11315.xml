@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11315</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS TO THE NATION                 ABC TELEVISION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11315</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS TO THE NATION                 ABC TELEVISION</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................</p>
 <p>Good evening. As Australians we have every reason to be very optimistic</p>
 <p> about the future. No country in the world has better prospects as</p>
 <p> we enter the new century.</p>
@@ -115,6 +105,4 @@
 <p>And my Government will not rest in its efforts to improve Australia's</p>
 <p> prospects. We will continue to govern in the national interest, hard</p>
 <p> at work for an even stronger Australia. Good night. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

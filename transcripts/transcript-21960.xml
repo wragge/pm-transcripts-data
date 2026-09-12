@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21960</transcript-id>
-    <title>Press Conference Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/10/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21960</transcript-id><title>Press Conference Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/10/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>The reason I called this news conference this afternoon is to congratulate, on behalf of the entire Australian nation, Professor Barry Marshall and Doctor Robin Warren, on being jointly awarded the 2005 Nobel Peace Prize for Physiology or Medicine. Their groundbreaking research in relation to gastritis and ulcers and the extraordinary relief that that research and the benefits of it has brought to potentially millions of people is a great achievement and the prize is richly deserved. It's a reminder of just how strong Australia is in medical science and medical research again, telling us how much this country punches above its weight when it comes to these matters and I will have an opportunity this evening at the presentation of the Prime Minister's Science Awards in the Great Hall to personally congratulate, I hope, Professor Marshall.</p>
 <p> It's important to remind ourselves in the wake of two great football festivals that this country's renown in relation to medical science is as important to who we are and what we are and in the eyes of many even more important than our great sporting achievements. I want this country's medical scientists and scientists generally to be revered figures in our community because of the enormous contribution they make. And I'm very proud, as all Australians are, that we're once again in the lists of Nobel Prize Winners.</p>
 <p> The last one was Peter Doherty back in 1996. Now it's just under ten years since we had a Nobel Prize. It's a pretty good performance for this country and Professor Marshall and Doctor Warren will join those very esteemed ranks of Doherty and Macfarlane-Burnett and many others who have contributed so much to the incredible reputation of this country in medical science. Any questions?</p>
@@ -107,6 +97,4 @@
 <p>PRIME MINISTER:</p>
 <p>Yes, the ceremony as previously proposed will as I advise now, will go ahead. It will be a lower key ceremony than last year and obviously a lower key ceremony than 2003. And there will be an appropriate marking of the event here in Canberra because both Houses of Parliament will be sitting and we will have an appropriate event to mark the occasion. Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41364</transcript-id>
-    <title>Protecting Australia from foreign interference</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>05/12/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government has finalised historic legislative reforms targeting foreign interference and espionage. This comprehensive package will reshape the way our national security agencies investigate and disrupt these activities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41364</transcript-id><title>Protecting Australia from foreign interference</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>05/12/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government has finalised historic legislative reforms targeting foreign interference and espionage. This comprehensive package will reshape the way our national security agencies investigate and disrupt these activities.</p>
 <p>The foreign influence and interference package will be complemented by another bill on electoral reform to ban foreign political donations.</p>
 <p>These reforms will protect the Australian way of life. They will strengthen our democracy and will ensure that decisions are made based on Australia’s national interest, not anyone else’s.</p>
 <p>We must ensure that our politics and our parliament are strong enough to withstand attempts by foreign powers to interfere or influence.</p>
@@ -20,6 +10,4 @@
 <p>This means if you are covertly acting on behalf of, or cooperating with, a foreign power, against the national interest, you could soon be guilty of a serious offence. Likewise, if you are acting on behalf of a foreign entity to influence our political processes, you will soon have to declare that fact, or face serious penalties.</p>
 <p>This legislation will be world-leading among our like-minded international partners, whose knowledge and experience have informed this comprehensive package.</p>
 <p>The Government will introduce the most comprehensive foreign donations ban ever considered by an Australian Government. It will ensure that only Australians and Australian entities can participate in our elections.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

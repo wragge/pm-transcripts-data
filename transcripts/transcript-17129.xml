@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17129</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Melbourne 14 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: It's good to be back in Melbourne, and you've much balmier weather here today, let me tell you, than the nation's capital, so it's also been good to spend some time with John Brumby, talking about the future of the health and hospital system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17129</transcript-id><title>Prime Minister Transcript of doorstop interview Melbourne 14 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: It's good to be back in Melbourne, and you've much balmier weather here today, let me tell you, than the nation's capital, so it's also been good to spend some time with John Brumby, talking about the future of the health and hospital system.</p>
 <p>We've just had a good, positive, constructive conversation, and I'm sure we're going to be having more of those in the period ahead between now and the Council of Australian Governments meeting which will occur in April.</p>
 <p>The Australian Government is determined to ensure that we provide for a strong economy for working families, we also deliver for the basics for working families. Those basics include an education system and our health system. That's why we believe that working families across Australia want to see improved health and hospital services, they want to see more hospital beds, they want to see more doctors and nurses.</p>
 <p>They want to see, also, the end of waste and duplication and overlap between the Commonwealth and the state governments. That's why the Australian Government has put forward our plan for a national health and hospitals network which is funded nationally, which is run locally, in which the Australian Government, for the first time, takes on the dominant funding responsibility for the future of the public hospital system.</p>
@@ -52,6 +42,4 @@
 <p>The alternative, the one which we've put forward already to the Australian people, is that we would have paid parental leave in for working families at an affordable, properly costed level, starting from 1 January next year. That's the difference.</p>
 <p>Having said that, folks, I've got to get back to the nation's capital. Parliament resumes tomorrow. Got to run.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

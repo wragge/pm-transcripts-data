@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22759</transcript-id>
-    <title>Statement from the Prime Minister</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>23/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today congratulated the Duke and Duchess of Cambridge on the birth of their first child, a son.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22759</transcript-id><title>Statement from the Prime Minister</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>23/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today congratulated the Duke and Duchess of Cambridge on the birth of their first child, a son.</p>
 <p>On behalf of all Australians, Therese and I extend our warmest regards to the new parents, Prince William, Duke of Cambridge and Catherine, Duchess of Cambridge.</p>
 <p>Prince William holds a special place in the hearts of many Australians. Some of us remember his first visit to this country as a 9 month old baby more than 30 years ago with his mother Diana and father Charles.</p>
 <p>In more recent times, Prince William demonstrated deep compassion when he met with families in Victoria who had lost everything during the Black Saturday bushfires of February 2009.</p>
 <p>We share in the joy of the Royal Family, particularly Prince Charles on the birth of his grandson and Queen Elizabeth II on the birth of her great grandchild.</p>
 <p>This is a happy day for our close friends in Britain and the Commonwealth.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

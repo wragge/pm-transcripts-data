@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18451</transcript-id>
-    <title>Passing of Jim Stynes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18451</transcript-id><title>Passing of Jim Stynes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia has lost one of our sporting greats with the passing of Jim Stynes this morning, following his courageous battle with cancer.</p>
 <p>As a sporting legend Jim inspired millions with his sportsmanship, making a lasting contribution to Australia's game.</p>
 <p>But he will always be remembered for the heroic and brave way in which he handled adversity  -  for this he will remain a legend.</p>
@@ -22,6 +12,4 @@ Australia has lost one of our sporting greats with the passing of Jim Stynes thi
 <p>He took on the Presidency when the club was at its lowest ebb and managed to shape a bright future and new direction for the organisation - for this they owe him a tremendous debt.</p>
 <p>Above all, Jim was a loving husband and father who will be sorely missed by his wife, Sam, and their two children.</p>
 <p>The thoughts of the nation are with them today as they grieve the loss of a wonderful man.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

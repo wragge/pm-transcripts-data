@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17273</transcript-id>
-    <title>Prime Minister Transcript of interview 6PR Breakfast Show 5 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: It's quarter to seven. It's the Prime Minister of this great nation Mr Kevin Rudd, Prime Minister good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17273</transcript-id><title>Prime Minister Transcript of interview 6PR Breakfast Show 5 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: It's quarter to seven. It's the Prime Minister of this great nation Mr Kevin Rudd, Prime Minister good morning to you.</p>
 <p>PM: Good morning, good to be back in Perth and thanks for having me on your program.</p>
 <p>HOST: Yeah it's lovely to have you back here, what are you doing tomorrow? Do you want to come and co-host, are you still in town tomorrow morning?</p>
 <p>PM: If I'm in town tomorrow morning I'll come and co-host. I could get a few brickbats from some of your leading mining executives but I'm up for that as well.</p>
@@ -73,6 +63,4 @@
 <p>HOST: Prime Minister, enjoy your stay and we'll see you for the brekkie show tomorrow morning.</p>
 <p>PM: I'll see what I can do with the schedule guys.</p>
 <p>HOST: Thank-you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

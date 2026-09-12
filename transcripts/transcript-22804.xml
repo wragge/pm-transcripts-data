@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22804</transcript-id>
-    <title>Joint Press Conference following meeting with Mr Xanana Gusmao, Kirribilli</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/05/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  East Timor; Indonesia; Reserve Bank</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22804</transcript-id><title>Joint Press Conference following meeting with Mr Xanana Gusmao, Kirribilli</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/05/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  East Timor; Indonesia; Reserve Bank</p>
 <p>E&amp;OE  ……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister did you discuss President Wahid’s suggestion that there should be tripartite talks between you, Xanana Gusmao and Wahid?</p>
@@ -94,6 +84,4 @@
 <p>PRIME MINISTER:</p>
 <p>We’re reaching the sort of the tail end stage of the news conference, in fact, I think that’s about it.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

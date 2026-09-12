@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20651</transcript-id>
-    <title>Doorstop Interview, Canberra   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20651</transcript-id><title>Doorstop Interview, Canberra   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Jason McCartney is urging both sides of politics not to politicise the inquiry into the Bali intelligence. That's a view you'd subscribe to?</p>
 <p>PRIME MINISTER:</p>
 <p>Absolutely. We didn't have any warning of the Bali attack. Please believe that. Do you think if we had warning of it, we'd have done nothing about it? We didn't. And all Australians should understand that. It's one thing to say something might be an attractive target. I mean the Sydney Harbour Bridge is an obvious terrorist target, but unless there is evidence it is going to be attacked, you don't tell people to stop crossing it. And that is what we're really talking about, and that is what is involved here. Of course what Jason said is absolutely right.</p>
@@ -18,6 +8,4 @@
 <p>PRIME MINISTER:</p>
 <p>Of course we have nothing to hide on it, nothing to hide at all. I mean there is going to be a Senate inquiry. Of course we haven't. And I just think what happened today with that attempt by Mr Rudd to give the impression that the Canadians had warned people not to go near Bali when we were saying different things, I mean it's revealed that that was a year earlier and the warning lasted four days. That's about as grubby as you can get. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

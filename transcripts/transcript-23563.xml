@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23563</transcript-id>
-    <title>Senior diplomatic appointments</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>11/06/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government will recommend to the Governor-General a 12-month extension to the term of the current Australian Ambassador to the United States of America, His Excellency the Hon Kim Beazley AC.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23563</transcript-id><title>Senior diplomatic appointments</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>11/06/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government will recommend to the Governor-General a 12-month extension to the term of the current Australian Ambassador to the United States of America, His Excellency the Hon Kim Beazley AC.</p>
 <p>Mr Beazley has served with distinction as Australian Ambassador to the USA since 2010. He will continue in his post until December 2015.</p>
 <p>Mr Beazley has made an enormous contribution to public life including as Federal Leader of the Opposition and Minister for Defence, Minister for Transport and Communications, Minister for Finance and Minister for Employment, Education and Training in the Hawke and Keating Governments.</p>
 <p>Australia is lucky to have such a distinguished representative in the USA and the Australia-US relationship is the stronger for Mr Beazley’s presence. I thank Mr Beazley for agreeing to continue in his post.</p>
@@ -22,6 +12,4 @@
 <p>I would like to thank Mr Quinlan for his service as Ambassador and Permanent Representative to the United Nations, a position he has held since 2009.</p>
 <p>Mr Quinlan has done an excellent job during Australia’s term on the United Nations Security Council.</p>
 <p>11 June 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

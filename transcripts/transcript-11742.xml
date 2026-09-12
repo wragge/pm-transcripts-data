@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11742</transcript-id>
-    <title>Radio Interview with Julie Flynn, 4BC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/01/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Centenary of Federation</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11742</transcript-id><title>Radio Interview with Julie Flynn, 4BC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/01/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Centenary of Federation</p>
 <p>E&amp;OE................................</p>
 <p>FLYNN:</p>
 <p>Prime Minister good morning and thank you for joining us on this Australia's 100th birthday.</p>
@@ -46,7 +36,7 @@
 <p>FLYNN:</p>
 <p>Absolutely.</p>
 <p>PRIME MINISTER:</p>
-<p>I mean you can't really start the story of Australia without...I mean you obviously have to start with the indigenous people, you have to start with the coming of European settlement, you've got to go through the 18th century..19th century, and then into federation. But you also have to understand where our culture came from. You've got to understand British and European history to properly understand Australian history because in a number of areas there is a continuum. I mean we speak a common language, we inherited common cultural things. But I think what we've done over the last generation or so is we've adopted this more interpretive approach to history where we've taught issues and personalities rather than focus on events and as a result a lot of Australian people don't know much about federation. They don't know much even about the first explorers. They certainly don't know a great deal about indigenous history either.<br />
+<p>I mean you can't really start the story of Australia without...I mean you obviously have to start with the indigenous people, you have to start with the coming of European settlement, you've got to go through the 18th century..19th century, and then into federation. But you also have to understand where our culture came from. You've got to understand British and European history to properly understand Australian history because in a number of areas there is a continuum. I mean we speak a common language, we inherited common cultural things. But I think what we've done over the last generation or so is we've adopted this more interpretive approach to history where we've taught issues and personalities rather than focus on events and as a result a lot of Australian people don't know much about federation. They don't know much even about the first explorers. They certainly don't know a great deal about indigenous history either.<br>
 FLYNN:</p>
 <p>No they don't. Do you have any personal favourites among the founding fathers because I think they all pretty much were founding fathers?</p>
 <p>PRIME MINISTER</p>
@@ -72,7 +62,7 @@ FLYNN:</p>
 <p>PRIME MINISTER</p>
 <p>Yeah that's a good way of putting it, I think this is a good way of putting it. And the fact the Paralympics and the Olympics were so hugely successful means that we celebrate, this year, starting today in an even greater sense of optimism, because we know that we can do it. Even those people who've retained a certain level of self doubt about the ability of Australia would surely have seen that washed away by the Olympic Games. Because in so many ways it was a celebration of Australian capacity and Australian spirit, and I think all of that will mean that we celebrate this year with even greater gusto. Now that doesn't mean that everything's perfect and it doesn't mean that we shouldn't go on furiously debating the different directions in which we ought to go, that's part of any active democracy. But we have probably overdone the knocking and the self-criticism and having been able to run something like the Olympic Games so very well through a co-operative effort perhaps we will now see ourselves in a more positive light and that can only be good.</p>
 <p>FLYNN:</p>
-<p>Well for you as Prime Minister is it going to be an extra special day to be part of this historic occasion.<br />
+<p>Well for you as Prime Minister is it going to be an extra special day to be part of this historic occasion.<br>
 PRIME MINISTER</p>
 <p>Oh very moving, a real experience. And I love the history of this country, I like history generally and to feel that you're part of such a momentous occasion, to go to the very spot where the Commonwealth was inaugurated 100 years ago today is quite an experience and it's an incredible honour and privilege to be Prime Minister on the 100th birthday of my country.</p>
 <p>FLYNN:</p>
@@ -86,6 +76,4 @@ PRIME MINISTER</p>
 <p>FLYNN:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11223</transcript-id>
-    <title>Press Conference, Phillip Street, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>East Timor</subjects>
-    <content><![CDATA[<p>9 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11223</transcript-id><title>Press Conference, Phillip Street, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>East Timor</subjects><content><![CDATA[<p>9 September 1999</p>
 <p><i>Subjects: East Timor</i></p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p>Good afternoon, ladies and gentlemen, I’d like to brief you on where things have come to in relation to East Timor today. I’ve had a number of important discussions this morning. The first that I would like to canvass is a lengthy discussion I had with Mr Ian Martin who is the head of UNIMET in Dili. It was the first direct discussion I’d had with Mr Martin. He indicated to me that the current situation regarding UNIMET in Dili was that the mission was not being withdrawn, that it was proposed to reduce the size of the contingent down to a number of, in the order 40, and that the intention was that that would remain.</p>
@@ -143,6 +133,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Look, I’m not going to deal in hypothetical situations. I’ve explained patiently my understanding and knowledge of the UNAMET position. I’m not going to go beyond that. I think we’ve had enough. I think you’ve done extremely well.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

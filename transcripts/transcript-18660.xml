@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18660</transcript-id>
-    <title>Transcript of interview with David Koch, Sunrise</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18660</transcript-id><title>Transcript of interview with David Koch, Sunrise</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister thanks for joining us. The latest Fairfax/Nielsen poll has found support for the carbon price and the carbon tax has fallen four points to 33 per cent. Fifty-one per cent of people believe they are going to be worse off. The message just isn't getting through that the compensation is going to cover them.</p>
 <p>PM: People will have the opportunity to judge for themselves, Kochie. Not based on the claims of politicians, but by what they can see in their own lives. And what people are going to see is tax cuts. Pensioners have already seen increases, people have seen increases in family payments. And people are going to see that the claims like ‘the coal industry is going to shut down' are all untrue.</p>
 <p>So this is the opportunity for Australians to judge for themselves, not based on what the politicians tell them.</p>
@@ -42,6 +32,4 @@ HOST: Prime Minister thanks for joining us. The latest Fairfax/Nielsen poll has 
 <p>PM: I'm trying to find another way through. Kochie, I'm going to weigh them with the utmost seriousness. I'm going to get the report, but I've only put this process in train because I think it's a good way to guide our nation through.</p>
 <p>HOST: Okay, Julia Gillard, thanks very much.</p>
 <p>PM: Thanks Kochie. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

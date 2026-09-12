@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12351</transcript-id>
-    <title>Doorstop Interview, Parliament House</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/01/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Young Australian of the Year; inflation figures.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12351</transcript-id><title>Doorstop Interview, Parliament House</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/01/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Young Australian of the Year; inflation figures.</p>
 <p>E&amp;OE..................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, a good [inaudible] Young Australian of the Year?</p>
@@ -24,6 +14,4 @@
 <p>PRIME MINISTER:</p>
 <p>Great for the country.  It's what matters for Australia that's important in these things and it is a very good result for Australia.  It is an excellent result for Australia.  It shows that inflation is under control, it shows that the inflationary impact of the GST was no where near as great as even we thought it might be, and it is just very good news for our country and that's what matters.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

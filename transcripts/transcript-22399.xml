@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22399</transcript-id>
-    <title>Interview with Steve Price and Dave Harrison Radio 4TO, Townsville </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRESENTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22399</transcript-id><title>Interview with Steve Price and Dave Harrison Radio 4TO, Townsville </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRESENTER:</p>
 <p> In the sunshine capital of Australia we're 102.3, 4T0 FM, I'm docking your pay Mr Prime Minister, you're late.</p>
 <p>PRIME MINISTER:</p>
 <p> I'm late, yeah well, I meet some, I don't know what excuse I have. Slightly longer walks, no actually I don't have an excuse. I got a bit busy on the phone this morning talking to people.</p>
@@ -195,6 +185,4 @@
 <p> Prime Minister John Howard, thanks for your time.</p>
 <p>PRIME MINISTER:</p>
 <p> Thank you and sorry I'm late. I won't be late next time.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

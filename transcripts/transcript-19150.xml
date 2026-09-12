@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19150</transcript-id>
-    <title>My School Shows Targeted Investment Is Lifting Students Results</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19150</transcript-id><title>My School Shows Targeted Investment Is Lifting Students Results</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Schools taking part in the Gillard Government's National Partnerships on Literacy and Numeracy and Low SES Schools have increased the number of students achieving at or above national minimum standards at a greater rate than other schools, a new analysis published today has shown.</p>
 <p>The analysis is based on data published today on the updated My School site, which has been refreshed to include 2012 NAPLAN results and 2011 financial data for every school in the country.</p>
 <p>The results clearly demonstrate that targeted investment, coupled with specific strategies, can lift results for students and schools across the country.</p>
 <p>Schools taking part in the Literacy and Numeracy National Partnership were more successful in reducing the percentage of students at or below the minimum standards when compared to all schools in Australia across all years and subjects.</p>
 <p>For example:</p>
-<p> * 	For Year 3 Reading, 71 per cent of LNNP schools reduced the percentage of students at or below minimum standards, compared to 61 per cent for all schools in Australia.<br />
+<p> * 	For Year 3 Reading, 71 per cent of LNNP schools reduced the percentage of students at or below minimum standards, compared to 61 per cent for all schools in Australia.<br>
  * 	For Year 5 Numeracy, 70 per centof LNNP schools reduced the percentage of students at or below minimum standards, compared to 59 per cent for all schools in Australia.</p>
 <p>More than 50 per cent of the schools taking part in the Low SES School Communities National Partnership improved their mean scores in Year 3 Reading, Year 5 Reading and Year 5 Numeracy.</p>
 <p>These partnerships are targeted at schools that face significant education challenges, or that are starting from a lower base than other schools. The rate of improvement shown since 2008 is a remarkable result and demonstrates what can be achieved with extra resources, school improvement strategies and dedicated teaching staff.</p>
@@ -28,6 +18,4 @@
 <p>Future additions to My School will include results from parent, student and teacher satisfaction surveys and more information on senior secondary outcomes.</p>
 <p>To access the My School website go to: <a href="http://www.myschool.edu.au">www.myschool.edu.au</a></p>
 <p>To access the new analysis of National Partnership schools visit <a href="http://www.deewr.gov.au">www.deewr.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

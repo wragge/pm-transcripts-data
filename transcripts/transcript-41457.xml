@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41457</transcript-id>
-    <title>Ground-breaking flu vaccines to protect millions of Aussies</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>18/02/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will provide two new ground-breaking flu vaccines to over three million Australians aged 65 years and over - free of charge.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41457</transcript-id><title>Ground-breaking flu vaccines to protect millions of Aussies</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>18/02/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will provide two new ground-breaking flu vaccines to over three million Australians aged 65 years and over - free of charge.</p>
 <p>This is a direct response to last year’s horrific flu season, which had a devastating impact around the world, and aimed squarely at saving lives.</p>
 <p>More than 90 per cent of the 1,100 flu related deaths in 2017 were by people aged over 65 years of age.</p>
 <p>The Turnbull Government and the Chief Medical Officer, Professor Brendan Murphy, have worked behind the scenes for many months to bring two new flu vaccines to Australia for the first time.</p>
@@ -30,11 +20,11 @@
 <p>Annual vaccination is the most important measure for preventing influenza and its complications and we encourage all Australians to get vaccinated.</p>
 <p>We encourage all Australians aged over six months old to get a flu vaccination this year before the peak season starts in June.</p>
 <p>Today we can also announce the following the four strains which will be contained within this year’s Southern Hemisphere vaccines:</p>
-<ul><li>A(H1N1): an A/Michigan/45/2015(H1N1) pdm09 like virus</li>
+<ul>
+<li>A(H1N1): an A/Michigan/45/2015(H1N1) pdm09 like virus</li>
 <li>A(H3N2): an A/Singapore/INFIMH-16-0019/2016(H3N2) like virus</li>
 <li>B: a B/Phuket/3073/2013 like virus</li>
 <li>B: a B/Brisbane/60/2008 like virus</li>
-</ul><p>The composition of the Australian vaccine is decided by the Australian Influenza Vaccine Committee in consultation with the World Health Organization.</p>
-]]></content>
-  </transcript>
-</transcripts>
+</ul>
+<p>The composition of the Australian vaccine is decided by the Australian Influenza Vaccine Committee in consultation with the World Health Organization.</p>
+]]></content></item></response>

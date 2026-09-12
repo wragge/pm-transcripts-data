@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40829</transcript-id>
-    <title>Speech at the Launch of the New Holocaust Exhibition</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/03/2017</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40829</transcript-id><title>Speech at the Launch of the New Holocaust Exhibition</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/03/2017</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you all, the Holocaust survivors here and the children and grandchildren who have been so courageous, so courageous in surviving and in creating this extraordinary museum.</p>
 <p>John Saunders, the founder so many years ago, another survivor of the Holocaust, sought to ensure that the memory of those terrible crimes never faded from view. That the depths to which the most advanced, civilized, technologically sophisticated, artistically sophisticated nation in Europe, if not the world, the depths to which it sank would never be forgotten.</p>
 <p>And you see in the gallery there today - just you can walk past it actually, just one panel – you should nod, you should stay and contemplate - it is the panel that refers to the Wannsee House.</p>
@@ -65,6 +55,4 @@
 <p>In this house I know that you will always give those who perished and those who survived and those who witnessed an everlasting name but shall never ever be forgotten.</p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

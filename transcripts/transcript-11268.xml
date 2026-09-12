@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11268</transcript-id>
-    <title>Senator Lees Leader of Australian Democrats Suite SG 112 Parliament House CANBERRA ACT 2600</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/06/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11268</transcript-id><title>Senator Lees Leader of Australian Democrats Suite SG 112 Parliament House CANBERRA ACT 2600</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/06/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Dear Senator</p>
 <p>I refer to our discussions this morning regarding the Government's</p>
 <p> tax package and the Government's commitment to the outcomes reached.</p>
@@ -126,6 +116,4 @@ Dear Senator</p>
 <p> up front to 7 per cent.</p>
 <p> Yours sincerely</p>
 <p>(John Howard)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

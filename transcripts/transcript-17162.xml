@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17162</transcript-id>
-    <title>Prime Minister Transcript of interview with Eddie McGuire Triple M Melbourne 31 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>31/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: It's our pleasure this morning to welcome the Prime Minister of Australia, Kevin Rudd. Good morning, Kevin.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17162</transcript-id><title>Prime Minister Transcript of interview with Eddie McGuire Triple M Melbourne 31 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>31/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: It's our pleasure this morning to welcome the Prime Minister of Australia, Kevin Rudd. Good morning, Kevin.</p>
 <p>PM: Good morning Eddie. Good morning, guys. Thanks for having me on the program.</p>
 <p>HOST: Good to have you. Kevin, you're meeting with the Premier today, John Brumby, and you met yesterday. The issue is the health revolution that you're trying to get through. You want to change it from a state-based system to a federal-based system. Our callers have been pretty busy this morning, ringing up saying 'OK, tell us why and how this is going to make our health system better.'</p>
 <p>PM: OK, two or three quick points. I think what all working families, pensioners and carers want is better health, better hospital services.</p>
@@ -80,6 +70,4 @@
 <p>PM: Yeah, I kind of see it as, sort of, the Kevin 'pulsating pectorals' look, but I think there are certain things the Australian public should be protected from and that's one of them.</p>
 <p>HOST: PM, thanks for coming in. We appreciate it. You're advisers are all doing the Macarena out there, trying to drag you out of the studio. We appreciate having 20 minutes of your time. We know it's going to be a big sell. You're seeing the Premier, John Brumby, today, who'll be fighting for Victoria's interests, obviously-</p>
 <p>PM: -Yeah, as he should, as he should. Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

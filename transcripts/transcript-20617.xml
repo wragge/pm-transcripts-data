@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20617</transcript-id>
-    <title>Interview with Tracy Grimshaw A Current Affair, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GRIMSHAW:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20617</transcript-id><title>Interview with Tracy Grimshaw A Current Affair, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GRIMSHAW:</p>
 <p>Prime Minister, thanks for joining us. You have interrupted your leave. You've cancelled the leave of SAS troops. Can we be said now to be moving towards a war footing?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I certainly hope not. We want the weapons inspection process of the Security Council to work and we still have a while to go before that process can be regarded as having been given a chance. I'm disappointed at Iraq's rather stubborn and disinterested approach and unless there is a change of attitude on the part of Iraq towards those weapons inspectors, then the prospects for resolving this issue peacefully will be lower. But I haven't lost hope and the last thing I want is a military conflict, but in the end the world may have no alternative because you cannot ignore the possibility of weapons of mass destruction, now in the hands of rogue states, falling for example into the hands of terrorists in the future.</p>
@@ -54,6 +44,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17323</transcript-id>
-    <title>Prime Minister Visit to Australia by the President of the Maldives Canberra 3 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/06/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The President of the Republic of Maldives, HE Mohamed Nasheed, is a welcome guest in Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17323</transcript-id><title>Prime Minister Visit to Australia by the President of the Maldives Canberra 3 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/06/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The President of the Republic of Maldives, HE Mohamed Nasheed, is a welcome guest in Australia.</p>
 <p>He is the first democratically-elected President of the Maldives to visit Australia.</p>
 <p>Talks today focused on shared interests in tackling climate change, combating terrorism and violent extremism, and economic and education assistance for the Maldives.</p>
 <p>Australia and the Maldives share a commitment to achieving an effective global response to climate change. President Nasheed was a strong advocate for international action at the Copenhagen Climate Change Conference.</p>
@@ -20,6 +10,4 @@
 <p>Australia is also supporting the Maldives Government's commitment to encourage the formation of civil society organisations. Australia will provide $300,000 to support Civil Society Development in the Maldives in partnership with UN Development Program. This support will help build the capacities of civil society organisations active in public debate and advocacy for human rights, gender equality and youth development.</p>
 <p>Australia is also working closely to support the Maldives to strengthen human resource capacity in priority sectors - education, environment and science, health, governance and public administration. As the Maldives does not have any degree conferring institutions, Australia has been a long-standing provider of technical and managerial training, enhancing people-to-people links between our two countries.</p>
 <p>For the 2011 intake, Australia will offer up to 25 Australia Awards to the Maldives, an increase of 7 over the 2010 intake. This includes up to 21 Development Awards for undergraduate and postgraduate studies and up to four Leadership Awards for postgraduate studies in Australian institutions. Further to this support, Australia will provide an additional six volunteers to assist with teacher training and funding of $230,000 to support the Maldives National Qualifications Framework.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

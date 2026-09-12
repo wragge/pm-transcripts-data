@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41053</transcript-id>
-    <title>Press Conference with The Rt Hon Theresa May MP, Prime Minister of the United Kingdom</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/07/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER OF THE UNITED KINGDOM: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41053</transcript-id><title>Press Conference with The Rt Hon Theresa May MP, Prime Minister of the United Kingdom</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/07/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER OF THE UNITED KINGDOM: </strong></p>
 <p>Good afternoon.</p>
 <p>I am pleased to be hosting Prime Minister Turnbull – whom I have known for many years – on his first visit to Downing Street.</p>
 <p>This morning, we visited the site of last month’s brutal terror attack at Borough Market, where eight people tragically lost their lives, among them two Australians.</p>
@@ -106,7 +96,7 @@
 <p>What we want at the moment, what we want to do at the moment is to ensure that we can see the denuclearisation of North Korea.</p>
 <p>The pressure that needs to be put on at the moment is from China.</p>
 <p>Obviously there's been talk about further sanctions, but I think China has the greatest leverage. That's why this is an issue that we both take up with the Chinese President.</p>
-<p><strong>JOURNALIST:  </strong></p>
+<p><strong>JOURNALIST:&nbsp; </strong></p>
 <p>Prime Minister, the great repeal bills are being introduced this week. Are the areas of compromise for you, in terms of getting help from the Labour Party - does that include Brexit? If I may, does it concern you that Jeremy Corbyn has failed to condemn the actions of some of his supporters in the time since the election and all of these accounts of abuse have come out?</p>
 <p><strong>PRIME MINISTER OF THE UNITED KINGDOM: </strong></p>
 <p>First of all, you're right - the repeal bill is being introduced.</p>
@@ -143,6 +133,4 @@
 <p><strong>PRIME MINISTER OF THE UNITED KINGDOM: </strong></p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

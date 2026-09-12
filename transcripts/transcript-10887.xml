@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10887</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                SPEECH AT THE LAUNCH OF THE INTERIM REPORT OF THE YOUTH                 HOMELESS TASKFORCE, SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/06/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10887</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                SPEECH AT THE LAUNCH OF THE INTERIM REPORT OF THE YOUTH                 HOMELESS TASKFORCE, SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/06/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
 <p>Thank you very much to Captain David Eldridge,</p>
 <p>   the Chairman of my Taskforce on Youth Homelessness. To my colleague,</p>
 <p>   Warwick Smith, the Minister for Family Services and Senator Helen</p>
@@ -196,6 +186,4 @@
 <p>   challenging human and social issue in modern Australia.</p>
 <p>Thank you.</p>
 <p>ENDS</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

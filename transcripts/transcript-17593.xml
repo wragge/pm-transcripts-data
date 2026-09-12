@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17593</transcript-id>
-    <title>Transcript of interview, ABC AM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17593</transcript-id><title>Transcript of interview, ABC AM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Well the Prime Minister Julia Gillard has been closely monitoring events and she joins us on AM, Prime Minister good morning.</p>
 <p>PM: Good morning Tony.</p>
 <p>HOST: As I understand it you're in Brisbane today, what will you be doing?</p>
@@ -26,6 +16,4 @@ HOST: Well the Prime Minister Julia Gillard has been closely monitoring events a
 <p>PM: Yes there will be costs to meet, there's no doubt about that, and I've said that this is going to be an effort over months and months and months, costing hundreds and hundreds of millions of dollars. Right now my focus is on doing things like making sure someone who's in an evacuation centre because their home is flooded, can get an emergency payment in their pocket, so we've swung 1,000 Centrelink staff into operations to assist people hit by floods and already we've processes almost 10,000 payments and paid out $17 million and that's just the first initial emergency money to assist people, there's obviously a lot more to do and a lot more assistance to flow.</p>
 <p>HOST: The Prime Minister Julia Gillard, thanks for joining us this morning on AM.</p>
 <p>PM: Thanks Tony.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

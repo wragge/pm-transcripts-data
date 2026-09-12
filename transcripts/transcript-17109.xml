@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17109</transcript-id>
-    <title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 5 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DOYLE: Well, Mr Rudd is here with me in the studio this morning to answer everything health and more. Good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17109</transcript-id><title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 5 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DOYLE: Well, Mr Rudd is here with me in the studio this morning to answer everything health and more. Good morning to you.</p>
 <p>PM: Good morning.</p>
 <p>DOYLE: Now, let's get straight into it. We'll talk health this morning, predominantly. The first question comes from Robert Doyle. Of course, he's the chairman of the Royal Melbourne Hospital but also, as you know, Lord Mayor of Melbourne.</p>
 <p>Mr Doyle, good morning. What's your question for the PM?</p>
@@ -69,6 +59,4 @@
 <p>PM: Yes, I'll come back on that.</p>
 <p>DOYLE: We'll do that next week, if that's OK. Thanks for joining us.</p>
 <p>PM: Good to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

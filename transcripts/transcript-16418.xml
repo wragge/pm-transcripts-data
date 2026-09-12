@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16418</transcript-id>
-    <title>Parliamentary Secretary    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Parliamentary Secretary to the Minister for Trade, the Hon. John Murphy MP, has advised me that he will be standing down from his position in the Executive.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16418</transcript-id><title>Parliamentary Secretary    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Parliamentary Secretary to the Minister for Trade, the Hon. John Murphy MP, has advised me that he will be standing down from his position in the Executive.</p>
 <p>Mr Murphy has been a dedicated and committed member of the front bench of the Federal Parliamentary Labor Party since 2001.</p>
 <p>After nearly a decade of determined work on the front bench, Mr Murphy has decided to step down for family reasons.</p>
 <p>Since 2001, Mr Murphy has served with commitment and professionalism as Parliamentary Secretary to the Shadow Minister for Health and Ageing, the Leader of the Opposition and the Minister for Trade.</p>
@@ -19,6 +9,4 @@
 <p>Mr Murphy has served the people of Lowe with great drive and enthusiasm since his election to Parliament and will continue in this important role.</p>
 <p>Mr Murphy will recontest the next election with my unequivocal support. </p>
 <p>I will be recommending to Her Excellency the Governor General that Senator Mark Arbib be appointed to the position of Parliamentary Secretary.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

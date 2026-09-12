@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24117</transcript-id>
-    <title>Paris terror attack</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/01/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government condemns the atrocity in Paris overnight.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24117</transcript-id><title>Paris terror attack</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/01/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government condemns the atrocity in Paris overnight.</p>
 <p>The thoughts of all Australians are with the families of those who have lost their lives in this barbaric act.</p>
 <p>Freedom of expression is the cornerstone of a free society.</p>
 <p>The Government will continue to do all it can to protect our community from terrorism.</p>
@@ -18,6 +8,4 @@
 <p>All Australians should remain vigilant, and again, I urge people who see or hear something that they feel is not right, to contact the National Security Hotline immediately on 1800 123 400.</p>
 <p>Australia stands with the people and the government of France at this difficult time.</p>
 <p>8 January 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

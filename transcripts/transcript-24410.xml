@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24410</transcript-id>
-    <title>Doorstop Interview, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>01/05/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>National Memorial Service for the Australasian Fire and Emergency Service Authorities Council,  Indonesian Ambassador,  executions of Andrew Chan and Myuran Sukumaran. </subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24410</transcript-id><title>Doorstop Interview, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>01/05/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>National Memorial Service for the Australasian Fire and Emergency Service Authorities Council, Indonesian Ambassador, executions of Andrew Chan and Myuran Sukumaran.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>It’s good to be here at the Fire and Emergency Services Memorial here by the side of Lake Burley Griffin to pay tribute to all who serve our community in the fire and emergency services and in particular to say thank you to the families of those men who have recently lost their lives in the service of our community in our various fire and emergency services.</p>
 <p><strong>QUESTION:</strong></p>
 <p>Can we get your reaction to the Indonesian Ambassador’s statement expressing sympathy to the families of Andrew Chan and Myuran Sukumaran? Is that too little too late?</p>
@@ -30,6 +20,4 @@
 <p>Yes, this is a difficult moment in the relationship between Australia and Indonesia, but I am confident that decent people in both countries will now pause, take stock, and do what is necessary to restore the relationship because despite the difficulties of the last few days, despite the very understandable anger that so many Australians feel, in the end, it is in everyone’s best interests that this relationship can be restored as quickly as possible.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

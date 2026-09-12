@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18943</transcript-id>
-    <title>Transcript of Joint Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/12/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Laverton, VIC</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18943</transcript-id><title>Transcript of Joint Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/12/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Laverton, VIC</p>
 <p>PM: Can I start by offering my congratulations to Prince William and Kate on the news that they are expecting a child.</p>
 <p>This is delightful news, it is going to bring joy to them and to their family and I think it is going to bring joy to many around the world. Clearly it is a time of joy.</p>
 <p>It can also be a time of challenge and I am sure many will be thinking of Kate as she deals with morning sickness and is in hospital.</p>
@@ -148,6 +138,4 @@
 <p>Minister Crean is still working on arrangements with the South Australian Government and with the business.</p>
 <p>Okay, thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

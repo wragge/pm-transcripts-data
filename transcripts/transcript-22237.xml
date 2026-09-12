@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22237</transcript-id>
-    <title>Press Conference Springfield Lakes, Brisbane </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22237</transcript-id><title>Press Conference Springfield Lakes, Brisbane </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Ladies and gentlemen, I want to announce that Australia will send some additional security forces to the Solomon Islands following a written request from the new Prime Minister and the caretaker Prime Minister which I received this morning.</p>
 <p> Starting at about 2.30pm this afternoon from Townsville 110 soldiers of a unit that has been in readiness for just this eventuality will go to the Solomon Islands. They will go in four C130 transports and most of them, or all of them will be there by later this evening. They will be joined by some 70 additional Australian Federal Police officers and that will represent an immediate and a needed injection of additional security forces to the Solomon Islands. I am very pleased that we have had people in readiness so that they have been able to respond immediately to this request from the Government of the Solomon Islands.</p>
 <p> This has become necessary because of the local unrest in the wake of the election of a new Prime Minister that followed the elections. Some 17 Australian Federal Police officers have so far been injured, I am sorry some 17 Australian police officers who are a combination of Australian Federal Police officers and serving officers from the state police forces. Two of the injuries are sufficiently serious to require medical evacuation to Australia, although neither of the officers in both cases have suffered life threatening injuries. I have no doubt that the sending of these forces will not only provide much needed support to those who are already there, but will send a very strong message to those who are engaging in unlawful behaviour that Australia and other partners in the Regional Assistance Mission in the Solomon Islands, RAMSI for short, are very committed to the long-term stability of the Solomon Islands.</p>
@@ -49,6 +39,4 @@
 <p>PRIME MINISTER:</p>
 <p>No.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

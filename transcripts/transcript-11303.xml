@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11303</transcript-id>
-    <title>JOINT STATEMENT ON ELECTRONIC COMMERCE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/07/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Prime Minister Obuchi and I have agreed</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11303</transcript-id><title>JOINT STATEMENT ON ELECTRONIC COMMERCE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/07/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Prime Minister Obuchi and I have agreed</p>
 <p> on a joint statement setting out common approaches and areas of cooperation</p>
 <p> in the promotion of electronic commerce. This recognises that electronic</p>
 <p> commerce presents opportunities and challenges of the highest economic</p>
@@ -308,6 +298,4 @@
 <p>   and social impacts of electronic commerce.</p>
 <p>  (d) Work to ensure that the benefits of such exchanges are shared</p>
 <p>   more broadly, particularly in the Asia Pacific region.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

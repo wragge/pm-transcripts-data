@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16635</transcript-id>
-    <title>New Australian Centre of Excellence for Local Government    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/06/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has delivered $8 million for the new Australian Centre of Excellence for Local Government  -  the first of its kind in Australia  -  to promote best practice, innovation and professionalism in local government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16635</transcript-id><title>New Australian Centre of Excellence for Local Government    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/06/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has delivered $8 million for the new Australian Centre of Excellence for Local Government  -  the first of its kind in Australia  -  to promote best practice, innovation and professionalism in local government.</p>
 <p>The Centre will be based at the University of Technology, Sydney (UTS), as part of a consortium that includes the Australia and New Zealand School of Government (ANZSOG), University of Canberra, Local Government Managers Australia and the Institute of Public Works Engineering Australia.</p>
 <p>The announcement was made to mayors at the second meeting of the Australian Council for Local Government (ACLG) at Parliament House today.</p>
 <p>The Centre will work with stakeholders to:</p>
@@ -24,6 +14,4 @@
 <p>These include the impacts of the global economic recession, climate change and its consequences, management of local government infrastructure, and building and improving the capacity of local government to serve their communities.</p>
 <p>Its courses and services will be available across urban, rural and remote Australia, using on-line delivery and physical presence.</p>
 <p>The $8 million funding is a one-off payment which the Centre will supplement with contributions from UTS and its consortium partners.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

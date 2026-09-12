@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18118</transcript-id>
-    <title>Transcript of joint press conference with Prime Minister John Key, Auckland </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/09/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18118</transcript-id><title>Transcript of joint press conference with Prime Minister John Key, Auckland </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/09/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PRIME MINISTER KEY: Good morning and welcome. I want to take this opportunity to welcome the Prime Minister to New Zealand. It's the third time that Prime Minister Gillard has been in New Zealand in the last seven or eight months, so you're always a  welcome visitor over here, it's great to see you here.</p>
 <p>We have one small announcement to make this morning in relation to education. New Zealand and Australia obviously see the critical and crucial importance of education. That's why we're stepping up our investment in the Pacific.</p>
 <p>Today we're setting a target of getting over 500,000 more children in the Pacific in education 2021, ensuring that 75 per cent of children in the region can read by the age of 10. Currently we believe there's around about one million children who are currently not involved in formal education in the Pacific.</p>
@@ -73,6 +63,4 @@ PRIME MINISTER KEY: Good morning and welcome. I want to take this opportunity to
 <p>PM: We will work to get the legislation through the Parliament.</p>
 <p>JOURNALIST: So does that mean a guillotine potentially?</p>
 <p>PM: Well, we'll work to get the legislation through the Parliament. I'm not going to talk now about parliamentary tactics over the weeks to come, clearly I can't do that, but we will work to get the legislation through the Parliament, and everybody in the Parliament knows from the statements that are being made by Parliamentarians that the legislation has sufficient support to go through, and it will.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

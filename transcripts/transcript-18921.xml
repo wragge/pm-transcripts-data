@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18921</transcript-id>
-    <title>Gaza Ceasefire</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18921</transcript-id><title>Gaza Ceasefire</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The Australian Government welcomes the ceasefire between Hamas and Israel which commenced at 6:00am AEDT today.</p>
 <p>Australia urges all sides to adhere to the terms of the ceasefire.  It will be particularly important that there be no return to rocket fire from Gaza.</p>
 <p>Australia commends Egypt's leadership role in brokering this agreement, supported by the efforts of the United States, United Nations Secretary General and other regional countries. </p>
@@ -17,6 +7,4 @@
 <p>Recent events highlight the importance of a durable solution to the Israel-Palestinian conflict.</p>
 <p>Australia reiterates its call on both sides to resume negotiations towards a two-state solution comprising an independent Palestinian state with agreed borders alongside a secure Israel.</p>
 <p>Australia condemns the terrorist attack on a bus in Israel on November 21, which injured more than 20 people, and expresses sympathy to those affected by the attack. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

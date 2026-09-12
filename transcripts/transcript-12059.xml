@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12059</transcript-id>
-    <title>Interview with Jon Faine, 3LO </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Illegal immigrants; visit to the US.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12059</transcript-id><title>Interview with Jon Faine, 3LO </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Illegal immigrants; visit to the US.</p>
 <p>E&amp;OE................................</p>
 <p>FAINE:</p>
 <p>Mr Howard, good morning to you.</p>
@@ -271,6 +261,4 @@
 <p>Prime Minister, good luck on your trip and thanks for joining us and taking calls from our listeners.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

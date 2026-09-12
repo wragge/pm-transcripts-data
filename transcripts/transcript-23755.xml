@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23755</transcript-id>
-    <title>Sir John Downer Oration, University of Adelaide, Adelaide</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>21/08/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It’s an honour to be this year’s Sir John Downer lecturer.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23755</transcript-id><title>Sir John Downer Oration, University of Adelaide, Adelaide</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>21/08/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It’s an honour to be this year’s Sir John Downer lecturer.</p>
 <p>Sir John was a premier of South Australia and a delegate to the colonial conferences that produced the constitution of the Commonwealth of Australia.</p>
 <p>Australians’ reluctance to support referenda that change the constitution testifies to the strength of the system of government that he helped to shape.</p>
 <p>It’s a constitution that gives people their due by keeping government in check. Sir John described himself as a Tory.</p>
@@ -149,6 +139,4 @@
 <p>Keeping commitments, valuing human life, and extending freedom are universal aspirations, not just Australian ones, and where those values prevail the world is safer for everyone.</p>
 <p>That’s our objective: a stronger Australia in a safer world and our determination is to work purposefully to bring it about.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

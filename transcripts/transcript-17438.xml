@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17438</transcript-id>
-    <title>Bill set to deliver better choice and services for broadband consumers</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/10/2010</release-date>
-    <release-type>Business &amp; Industry</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17438</transcript-id><title>Bill set to deliver better choice and services for broadband consumers</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/10/2010</field_date><release-type><![CDATA[Business &amp; Industry]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 People across Australia will be able to access cheaper and faster broadband services if a landmark telecommunications Bill is passed.</p>
 <p>Prime Minister, Julia Gillard said it is crucial the Telecommunications Legislation Amendment (Competition and Consumer Safeguards) Bill 2009 is passed so that Australians can benefit from better broadband services.</p>
 <p>The legislation will allow for the structural separation of Telstra's retail wing from the rest of the company.</p>
@@ -22,15 +12,13 @@ People across Australia will be able to access cheaper and faster broadband serv
 <p>The Agreement also allows NBN Co to access Telstra's pits, ducts and other infrastructure, which will lead to a more efficient and cost effective rollout of the NBN. This will help cut billions of dollars from the cost of rolling out the NBN.</p>
 <p>Australia currently has the 5th most expensive broadband charges amongst OECD countries. This Bill will help to bring prices down by allowing greater competition.</p>
 <p>Consistent with the reforms announced last year, the purpose of the Bill remains to:</p>
-<p> * 	restructure the telecommunications market to promote greater competition and consumer benefits;<br />
- * 	strengthen the telecommunications-specific access regime to provide more certain and quicker outcomes for telecommunications companies;<br />
- * 	streamline the anti-competitive conduct regime by removing procedural impediments that in the past have restricted the effective operation of the telecommunications-specific competition regime; and<br />
- * 	strengthen consumer safeguard measures such as the Universal Service Obligation and the Customer Service Guarantee.<br />
+<p> * 	restructure the telecommunications market to promote greater competition and consumer benefits;<br>
+ * 	strengthen the telecommunications-specific access regime to provide more certain and quicker outcomes for telecommunications companies;<br>
+ * 	streamline the anti-competitive conduct regime by removing procedural impediments that in the past have restricted the effective operation of the telecommunications-specific competition regime; and<br>
+ * 	strengthen consumer safeguard measures such as the Universal Service Obligation and the Customer Service Guarantee.<br>
  * 	Importantly, the Bill provides certainly for shareholder by setting out a framework for Telstra to seek approval from its shareholders on a proposal for it to migrate its fixed-line services to the NBN.</p>
 <p>Other important measures in the Bill that provide greater certainty for Telstra include:</p>
-<p> * 	authorising certain conduct of Telstra and NBN Co, under the trade practices law, that is required to promote the structural reform of the telecommunications industry and deliver benefits to consumers;<br />
- * 	allowing Telstra to acquire the spectrum it needs to provide advanced wireless broadband services unless the Minister determines in a legislative instrument otherwise;<br />
+<p> * 	authorising certain conduct of Telstra and NBN Co, under the trade practices law, that is required to promote the structural reform of the telecommunications industry and deliver benefits to consumers;<br>
+ * 	allowing Telstra to acquire the spectrum it needs to provide advanced wireless broadband services unless the Minister determines in a legislative instrument otherwise;<br>
  * 	giving priority to a genuine structural separation process for Telstra over functional separation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16024</transcript-id>
-    <title>Appointment of Australia&#039;s First Resident Ambassador to the Holy See    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/07/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will for the first time appoint a resident Ambassador to the Holy See.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16024</transcript-id><title><![CDATA[Appointment of Australia&#039;s First Resident Ambassador to the Holy See    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/07/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will for the first time appoint a resident Ambassador to the Holy See.</p>
 <p>The Government intends to recommend to the Governor General that the Hon Tim Fischer AC, former Deputy Prime Minister of Australia, be appointed to the position.</p>
 <p>The appointment will mark a significant deepening of Australia's relations with the Vatican. It will allow Australia to expand dialogue with the Vatican in areas including human rights, political and religious freedom, food security, arms control, refugees and anti-people trafficking.</p>
 <p>It will also provide an avenue for us to learn from each other's perspectives on the Millennium Development Goals and climate change.</p>
@@ -17,6 +7,4 @@
 <p>The Holy See has expressed support for Australia's efforts, within Australia and in the region, to facilitate greater understanding between people of different faiths.</p>
 <p>This will be the first time since 1973, when Prime Minister Gough Whitlam established diplomatic relations with the Vatican, that Australia has appointed a resident Ambassador.</p>
 <p>It is intended that Mr Fischer will take up his appointment in early 2009.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

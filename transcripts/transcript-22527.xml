@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22527</transcript-id>
-    <title>Doorstop Interview Royal Automobile Club, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/10/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22527</transcript-id><title>Doorstop Interview Royal Automobile Club, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/10/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, your reaction to Rupert Murdoch's taking a stake in Fairfax newspapers?</p>
 <p>PRIME MINISTER:</p>
 <p>I don't have any particular reaction, it's just a strategic investment.  I don't think people should get too excited about it.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>Mr Cobb has carefully explained what happened and I support his explanation and I accept it and I don't believe for a moment that Mr Cobb, who I know well and respect, would mean any insensitivity towards people with disabilities or handicaps.  He was explaining the context in which the remarks were made and I'm completely satisfied with that explanation.  Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17530</transcript-id>
-    <title>Transcript of doorstop interview, Brussels</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/10/2010</release-date>
-    <release-type>Defence</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17530</transcript-id><title>Transcript of doorstop interview, Brussels</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/10/2010</field_date><release-type>Defence</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Well, thank you very much, and I know many of you have probably got flights to get, so we'll keep this as brief as possible.</p>
 <p>Can I say, obviously today I've attended the Asia-Europe Meeting, and it has concluded. Today has also afforded me the opportunity to continue some bilateral engagements. Specifically, I met with the Prime Minister of Vietnam and the Prime Minister of Greece.</p>
 <p>Significantly, the outcomes of the Asia-Europe Meeting for Australia are as follows: leaders at the meeting recognised the impact of the economic crisis and acknowledged that well-coordinated economic stimulus had made a difference, but also acknowledged that there's still fragility in the world economy and that we need to continue to pursue fiscal consolidation and work together to promote economic growth.</p>
@@ -49,6 +39,4 @@ PM: Well, thank you very much, and I know many of you have probably got flights 
 <p>PM: Well, I would say two things. I think, firstly, it was important for me as Prime Minister to come and sit at this table because it's the first time Australia's had the opportunity to do so, so having sought to become involved in the Asia-Europe Meeting because of its significance, I thought it was important that I came and represented the nation here at our first opportunity to participate in this meeting.</p>
 <p>Then, apart from that formal participation in the meeting, it's obviously afforded me the opportunity to meet a large number of people in the same location in a time-effective way, and I think that will stand me in good stead, particularly as I continue to see many of the same leaders at the G20, at APEC, at the East Asia Summit - all before the end of this year.</p>
 <p>OK, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16443</transcript-id>
-    <title>Extra Support for Young Jobseekers    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/03/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thousands of young Australians will get training and support to develop the basic skills they need to get and keep a job under new Australian Government funding announced today. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16443</transcript-id><title>Extra Support for Young Jobseekers    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/03/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thousands of young Australians will get training and support to develop the basic skills they need to get and keep a job under new Australian Government funding announced today. </p>
 <p>From 1 July 2009, an additional 3,650 pre-vocational training and support places will be made available for vulnerable young jobseekers through the Australian Apprenticeships Access Program. </p>
 <p>The Rudd Government will invest $30.2 million to expand the Australian Apprenticeship Access Program, which provides at-risk jobseekers with the support they need to pursue an apprenticeship or training and then move into skilled employment.</p>
 <p>This measure will provide assistance of around $6 million for an estimated 730 young Queenslanders.</p>
@@ -29,6 +19,4 @@
 <p>This action has been specifically designed to support demand for labour in the economy. </p>
 <p>For those people who through no fault of their own are unable to gain or retain work during the economic slowdown, the Government is investing in a range of measures to help people improve their skills.</p>
 <p>These investments will increase the ability of people who are now out of work to gain better and higher paying jobs in the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20777</transcript-id>
-    <title>Doorstop Interviews Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/07/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20777</transcript-id><title>Doorstop Interviews Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/07/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>What did you think of Mark Philippoussis';s performance?</p>
 <p>PRIME MINISTER:</p>
 <p>I';ve sent him a message. I spoke to him before the game and wished him well, and I';ve just sent him a message saying that he fought very bravely. He was very gracious in defeat. I think all Australians admire his astonishing comeback, and he has got years of very good tennis left in him and I';m certain he';ll hold that trophy aloft at some time in the future.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well we';ve only just had the last budget. Let';s not start talking about the next one.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

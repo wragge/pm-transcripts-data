@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24338</transcript-id>
-    <title>National Ice Taskforce</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/04/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will be working with States and Territories to develop a National Ice Action Strategy to tackle the growing scourge of ice (crystal methamphetamine).</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24338</transcript-id><title>National Ice Taskforce</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/04/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will be working with States and Territories to develop a National Ice Action Strategy to tackle the growing scourge of ice (crystal methamphetamine).</p>
 <p>Ice use is a growing problem right around our nation.</p>
 <p>Ice is ruining individuals, destroying families, and hurting communities.</p>
 <p>The Australian Crime Commission considers ice poses the highest risk of all illicit drugs to our community with ice use rates almost doubling in the last twelve months.</p>
@@ -22,6 +12,4 @@
 <p>The Taskforce will provide an interim report to the Prime Minister by the middle of this year.</p>
 <p>The Prime Minister will take the report to the first subsequent meeting of the Council of Australian Governments to ensure that the campaign against ice is fought in a coordinated, targeted and effective way.</p>
 <p>8 April 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10831</transcript-id>
-    <title>THE 1967 REFERENDUM</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/07/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10831</transcript-id><title>THE 1967 REFERENDUM</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/07/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
   Last night's comments by the leader of One Nation about the 1967</p>
 <p> Referendum on aboriginal issues were factually wrong in two important</p>
 <p> respects.</p>
@@ -38,6 +28,4 @@
 <p> of their racial background, are treated equally under the laws of</p>
 <p> Australia.</p>
 <p> 15 July 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

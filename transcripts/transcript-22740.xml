@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22740</transcript-id>
-    <title>Transcript of interview with Pete Davies - Mix 104.9FM Darwin</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>09/07/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject(s): Election campaign; Reforms to ALP; Newspoll; Asylum seekers; NPC debate; Visit to NT</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22740</transcript-id><title>Transcript of interview with Pete Davies - Mix 104.9FM Darwin</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>09/07/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject(s): Election campaign; Reforms to ALP; Newspoll; Asylum seekers; NPC debate; Visit to NT</p>
 <p>HOST: Kevin Rudd, Good morning.</p>
 <p>PM: Good morning Pete, thanks for having me on the program.</p>
 <p>HOST: A delight to have you and congratulations on getting your old job back Kev.</p>
@@ -72,6 +62,4 @@
 <p>So Pete I'm sorry on that and the election date, I can’t give you a scoop.</p>
 <p>HOST: Prime Minister, great to talk to you and I don’t doubt we will chat again.</p>
 <p>PM: See you soon, bye.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

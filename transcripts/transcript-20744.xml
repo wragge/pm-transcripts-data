@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20744</transcript-id>
-    <title>Press Conference, Canberra   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/03/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20744</transcript-id><title>Press Conference, Canberra   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/03/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>I called this short news conference to confirm that while we can't be, for reasons I know you understand, be in any way specific about the location of forces. Our forces have started combat and combat support operations. The various Australian naval vessels continue their multinational interdiction force activities and also support combat operations. For security reasons I have nothing further to say about the operations of the Special Forces. The FA-18 hornet aircraft have started operations over Iraq. They're conducting missions to escort high value coalition tanker and airborne early warning and control aircraft.</p>
 <p> There are just several other points I'd like to make. I think it's appropriate that today marks the first indication of our active involvement I should have something to say, but from now on, although I will obviously comment regularly on the whole issue including some general aspects of the military operations, there will be a regular military briefing at 11:00am each day and I think it's highly desirable that the detailed operational matters be dealt with by the military spokesmen.</p>
 <p>I want to take the opportunity I'm sure on behalf of all Australians of expressing our hope that all of our men and women will return home safe and sound. Whatever views we may have on this matter we should all be united in our hopes and prayers for their safe return and I know that all Australians of good will will feel that way.</p>
@@ -47,6 +37,4 @@
 <p>PRIME MINISTER:</p>
 <p>I'm not going to speculate. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

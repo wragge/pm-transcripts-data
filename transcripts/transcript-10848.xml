@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10848</transcript-id>
-    <title>AUSTRALIAN PROSPECTORS AND MINERS HALL OF FAME</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/08/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Government will spend $5 million</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10848</transcript-id><title>AUSTRALIAN PROSPECTORS AND MINERS HALL OF FAME</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/08/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Government will spend $5 million</p>
 <p> from its Federation Fund to help establish an Australian Prospectors</p>
 <p> &amp; Miners Hall of Fame in Kalgoorlie-Boulder.</p>
 <p>The funding will contribute to the construction of a public museum</p>
@@ -45,6 +35,4 @@
 <p>The $1 billion Federation Fund is being spent on projects of national</p>
 <p> significance to help Australia celebrate the Centenary of Federation</p>
 <p> in 2001.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

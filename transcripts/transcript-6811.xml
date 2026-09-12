@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6811</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>09/01/1986</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006811.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-Jj AUSTRALIA i<br />
-For Media9 January 1986<br />
-Today I received a letter from the President of the United<br />
-States, Mr Reagan, dealing with his response to the terrorist<br />
-attacks on Rome and Vienna.<br />
-The issues raised in the letter will be carefully considered by<br />
-the Government and Cabinet will decide whether any measures<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6811</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>09/01/1986</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006811.pdf</document><subjects></subjects><content><![CDATA[<p>
+Jj AUSTRALIA i<br>
+For Media9 January 1986<br>
+Today I received a letter from the President of the United<br>
+States, Mr Reagan, dealing with his response to the terrorist<br>
+attacks on Rome and Vienna.<br>
+The issues raised in the letter will be carefully considered by<br>
+the Government and Cabinet will decide whether any measures<br>
 should be adopted in respect of Australia's relations with Libya. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

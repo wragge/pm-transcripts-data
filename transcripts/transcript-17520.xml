@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17520</transcript-id>
-    <title>Transcript of Interview on ABC Perth </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17520</transcript-id><title>Transcript of Interview on ABC Perth </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: And I welcome the Prime Minister, Julia Gillard, to the program. Good morning to you.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Prime Minister, what is your message to all those West Australians who thought a super profits tax was going to have a terrible impact on the mining sector, on jobs and investment in Western Australia. How does this new rent tax change that?</p>
@@ -38,6 +28,4 @@ HOST: And I welcome the Prime Minister, Julia Gillard, to the program. Good morn
 <p>PM: I'm always happy to take talkback and I generally learn a bit, get the benefit of some free advice over the airwaves and through the phones. That's all good.</p>
 <p>HOST: Well, I appreciate you doing that. Thank you very much, Prime Minister.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

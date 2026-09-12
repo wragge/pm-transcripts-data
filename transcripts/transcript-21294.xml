@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21294</transcript-id>
-    <title>Doorstop Interview Parramatta, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21294</transcript-id><title>Doorstop Interview Parramatta, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Prime Minister, the airport suggestion this morning from the New South Wales Government out at the Southern Highlands, is that pie in the sky or are we...</p>
 <p>PRIME MINISTER:</p>
 <p>Sydney, on all our advice, all of our advice says that Sydney does not need a second airport in the foreseeable future.  Mr Latham must today tell the people of Sutton Forest and surrounding areas - is he or is he not proposing, if elected, to build an airport there?  Obviously the New South Wales Government wouldn't have spent all this time sussing out the site and passing the information on to the Federal Opposition unless they were seriously contemplating it.  Well, Mr Latham is always talking about candour in public life.  Let's have a bit of airport candour.</p>
@@ -30,6 +20,4 @@
 <p>PRIME MINISTER:</p>
 <p>  No.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

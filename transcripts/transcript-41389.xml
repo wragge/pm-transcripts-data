@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41389</transcript-id>
-    <title>Radio interview with Chris Kenny, 2GB</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>20/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Cabinet reshuffle; Bennelong By-Election; High Commissioner to the UK; Foreign Policy; National Energy Guarantee;</subjects>
-    <content><![CDATA[<p><strong>CHRIS KENNY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41389</transcript-id><title>Radio interview with Chris Kenny, 2GB</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>20/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Cabinet reshuffle; Bennelong By-Election; High Commissioner to the UK; Foreign Policy; National Energy Guarantee;</subjects><content><![CDATA[<p><strong>CHRIS KENNY: </strong></p>
 <p>Prime Minister Malcolm Turnbull and he joins me on the line now. Thanks for joining us Prime Minister.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah great to be with you Chris, and a Merry Christmas to you and all your listeners.</p>
@@ -53,7 +43,7 @@
 <p>It is a great political experience, particularly a high cabinet level office is an enormous asset, I believe, in having somebody who is going to represent us in a place like London or indeed in Washington where Joe Hockey is our Ambassador and doing a great job.</p>
 <p><strong>CHRIS KENNY: </strong></p>
 <p>We’re speaking with the Prime Minister Malcolm Turnbull on 2GB and 4BC, let us know what you think on 131 873.</p>
-<p>Malcolm Turnbull, there’s a lot I think in this reshuffle that you’re to be given credit for. I think you’ve promoted a series of politicians – up and comers really – that I would put on the conservative side of the ledger, I’m thinking about Angus Taylor, Christian Porter and others. So you’ve looked to -  Dan Tehan is another one I’d say is a conservative - so those sort of gestures are unifying for the party, for the Coalition.</p>
+<p>Malcolm Turnbull, there’s a lot I think in this reshuffle that you’re to be given credit for. I think you’ve promoted a series of politicians – up and comers really – that I would put on the conservative side of the ledger, I’m thinking about Angus Taylor, Christian Porter and others. So you’ve looked to -&nbsp; Dan Tehan is another one I’d say is a conservative - so those sort of gestures are unifying for the party, for the Coalition.</p>
 <p>But given there’s 40 people on the front bench, you’ve promoted so much young talent, even people we’ve not heard of like David Littleproud. How is it that there’s no room in your frontbench for one former Prime Minister, that political warrior Tony Abbott?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well as you know there’s always – you always have more ministerial talent in your party room than you have room in the Ministry.</p>
@@ -128,6 +118,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks Chris and Merry Christmas to you, your family and all your listeners.</p>
 <p><strong>[ENDS] </strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

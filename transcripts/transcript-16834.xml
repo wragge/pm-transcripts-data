@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16834</transcript-id>
-    <title>Helping young Australians build their own futures    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/09/2009</release-date>
-    <release-type>Blog Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This blog was open for comment from 11 to 25 September 2009.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16834</transcript-id><title>Helping young Australians build their own futures    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/09/2009</field_date><release-type>Blog Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This blog was open for comment from 11 to 25 September 2009.</p>
 <p>Kevin Rudd says...</p>
 <p>One in five Australians are under 25 and make an enormous contribution to Australia's economy, our culture and our nation.</p>
 <p>From designers like RM Williams, who was 24 when he designed his famous elastic-sided boots for stockmen, to the artists and musicians who have challenged and entertained us, and athletes who lift our nation's pride. And every young person studying and working is vital to our economic recovery and future prosperity.</p>
@@ -29,6 +19,4 @@
 <p>     * enable young people to accept responsibility for their actions and their behaviours?</p>
 <p>     * help young people to negotiate the challenges of today's society?</p>
 <p>Read the full blog transcript</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

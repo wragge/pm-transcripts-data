@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16611</transcript-id>
-    <title>Interview with John Stanley - Radio 2UE    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STANLEY: Mr Rudd good afternoon.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16611</transcript-id><title>Interview with John Stanley - Radio 2UE    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STANLEY: Mr Rudd good afternoon.</p>
 <p>PM: G'day John.</p>
 <p>STANLEY: Moving around the country at a pace again-</p>
 <p>PM: (inaudible) to the annual conference of the Small Business Council of Australia. Some small business people getting together in Melbourne for their annual conference, talking to them about the economy and us working together with them to try and see business through.</p>
@@ -67,6 +57,4 @@
 <p>STANLEY: We'll take Wayne Bennett any time. Thank you very much.</p>
 <p>PM: He's a good man.</p>
 <p>STANLEY: Indeed he is thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

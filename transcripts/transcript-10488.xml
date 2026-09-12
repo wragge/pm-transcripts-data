@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10488</transcript-id>
-    <title>Redbank Power Station </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/09/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010488.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government has decided that the Redbank Power Station in the Hunter Valley will receive assistance under the new Infrastructure Borrowings (IB) tax rebate, the replacement for the IB tax concession terminated on 14 February 1997.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10488</transcript-id><title>Redbank Power Station </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/09/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010488.pdf</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government has decided that the Redbank Power Station in the Hunter Valley will receive assistance under the new Infrastructure Borrowings (IB) tax rebate, the replacement for the IB tax concession terminated on 14 February 1997.</p>
 <p>Construction of the $300 million project, which is likely to commence as early as October, will be a real shot in the arm for confidence and jobs in the Hunter Valley.</p>
 <p>The project will generate 200 construction jobs on site and 1,000 off the site.  When fully operational, the plant will employ 50 people directly and several hundred indirectly, injecting $10 million annually into the local economy.</p>
 <p>The plant incorporates innovative technology, partly developed at the University of Newcastle, to utilise coal tailing (waste coal) for fuel.  This process will improve the utilisation of coal and significantly reduce greenhouse gas emissions per tonne of coal produced.  Furthermore, a by-product of the process can be used in mine site remediation.</p>
@@ -17,6 +7,4 @@
 <p>This decision demonstrates the Commonwealth's on-going commitment to building a better future for the Hunter Valley in partnership with business, workers and the local community.</p>
 <p>Redbank is one of four projects that the Government had indicated in June would be given priority consideration under the new IB rebate scheme.  Today's announcement means that the project can proceed confidently in the knowledge that it will receive assistance under the new scheme.</p>
 <p>15 September 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

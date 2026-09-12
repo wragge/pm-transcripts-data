@@ -1,28 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7263</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>15/12/1987</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007263.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-JAUSTRALIA<br />
-FOR MEDIA 15 DECEMBER 1987<br />
-At the invitation of the Governor-General, Her Majesty Queen<br />
-Beatrix and His Royal Highness Prince Claus of the<br />
-Netherlands will make a State Visit to Australia from 24<br />
-October to 5 November 1988.<br />
-The Queen and Prince Claus are expected to visit Canberra,<br />
-Tasmania, South Australia, Victoria and New South Wales.<br />
-This visit is particularly apt in our Bicentennial year<br />
-because of the historical links between Australia and the<br />
-Netherlands, and the participation by the Netherlands in our<br />
-national celebrations. It will also serve to enhance the<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7263</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>15/12/1987</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007263.pdf</document><subjects></subjects><content><![CDATA[<p>
+JAUSTRALIA<br>
+FOR MEDIA 15 DECEMBER 1987<br>
+At the invitation of the Governor-General, Her Majesty Queen<br>
+Beatrix and His Royal Highness Prince Claus of the<br>
+Netherlands will make a State Visit to Australia from 24<br>
+October to 5 November 1988.<br>
+The Queen and Prince Claus are expected to visit Canberra,<br>
+Tasmania, South Australia, Victoria and New South Wales.<br>
+This visit is particularly apt in our Bicentennial year<br>
+because of the historical links between Australia and the<br>
+Netherlands, and the participation by the Netherlands in our<br>
+national celebrations. It will also serve to enhance the<br>
 warm relations existing between our two countries. 003427 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

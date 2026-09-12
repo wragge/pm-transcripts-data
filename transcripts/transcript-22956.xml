@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22956</transcript-id>
-    <title>Radio Interview with Alan Jones, 2UE </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Sydney Airport; Very Fast Train; workers entitlements; welfare reform</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22956</transcript-id><title>Radio Interview with Alan Jones, 2UE </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Sydney Airport; Very Fast Train; workers entitlements; welfare reform</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JONES:</p>
 <p>This happens every year, do you think it’s fair that matters requiring such substantial debate as those that have been canvassed now should be announced in this period when people are otherwise occupied?</p>
@@ -203,6 +193,4 @@
 <p>JONES:</p>
 <p>You too John. Happy Christmas.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

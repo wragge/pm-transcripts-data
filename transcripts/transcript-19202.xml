@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19202</transcript-id>
-    <title>Transcript of Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/04/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Hainan Island, People's Republic of China</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19202</transcript-id><title>Transcript of Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/04/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Hainan Island, People's Republic of China</p>
 <p>PM: I'm pleased to be here with Senator Carr and with Dr Emerson. We have just concluded a meeting with China's new President, with President Xi.</p>
 <p>It was a very positive discussion, a substantive discussion, and it has left me with a real sense of confidence, not just about the state of the relationship now, but about how optimistic we can be for the future of the relationship.</p>
 <p>It was a discussion which underlined really the value and importance of meeting the President so early in his term and being able to talk to him about the relationship between our two countries.</p>
@@ -89,6 +79,4 @@
 <p>PM: Well the sense I got out of the meeting and the sense we've had out of the discussions here is that China does not want to see conflict on the Korean peninsula.</p>
 <p>China very much understands the current state of tensions. They also understand the risk of miscalculation here and that they do want to see tensions eased and calm and restraint shown, and that it is in no one's interests to see tensions escalated on the Korean peninsula.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

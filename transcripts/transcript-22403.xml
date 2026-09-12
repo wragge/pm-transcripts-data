@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22403</transcript-id>
-    <title>National Heritage Listing for Glass House Mountains  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/08/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the rugged volcanic peaks of the Glass House Mountains are being added to the National Heritage List.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22403</transcript-id><title>National Heritage Listing for Glass House Mountains  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/08/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the rugged volcanic peaks of the Glass House Mountains are being added to the National Heritage List.</p>
 <p>The Glass House Mountains are of outstanding value to the nation and have rightfully taken their place in the National Heritage List, which showcases the best of Australia's natural, historic and Indigenous heritage.</p>
 <p>The Glass House Mountains of south-east Queensland are distinctive and spectacular.  The dome-shaped hills and conical peaks dominate the landscape and are instantly recognisable.</p>
 <p>Captain Cook first recorded and named the Glass House Mountains during his voyage up the east coast of Australia in 1770.</p>
@@ -17,6 +7,4 @@
 <p> The domes, cones and spires reaching out of a low landscape have fascinated geologists and geographers.  Importantly they help us understand the volcanic history of the eastern Australia mainland.  Recent research has also led to a greater understanding of the dynamic processes and evolution of rock types making up these volcanic centres.</p>
 <p>The Glass House Mountains have inspired the works of many Australian artists, such as Lawrence Daws, Judith Wright, Conrad Martens, Peter Kennedy, David Malouf and Fred Williams, across a range of media including music, painting, poetry, photography and film.</p>
 <p>I am delighted that the Glass House Mountains have become the 32nd entry on the National Heritage List.  They join other important entries including Old Parliament House, the Australian War Memorial, the Sydney Opera House, Mawson Huts, and Captain Cook's landing site.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

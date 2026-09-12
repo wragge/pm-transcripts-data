@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17335</transcript-id>
-    <title>Prime Minister Transcript of interview with Simon Beaumont 6PR 9 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BEAUMONT: Mr Rudd, thank you for your time this morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17335</transcript-id><title>Prime Minister Transcript of interview with Simon Beaumont 6PR 9 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BEAUMONT: Mr Rudd, thank you for your time this morning.</p>
 <p>PM: Thanks Simon, thanks for having me on your program.</p>
 <p>BEAUMONT: Mr Rudd, in Western Australia today, this is a chance for you, isn't it - either on this program or while you're here in the next couple of days - to back off on the mining tax. If you do it today, if you do it now on this program, it could save you your job. Will you do that? The floor is yours.</p>
 <p>PM: Nice try Simon. I'm here to explain to the people of Western Australia why tax reform's important, and if it wasn't important and positive for the WA economy and for families in Western Australia, we wouldn't be doing it. If you go to the core of what we're on about, this tax reform is all about strengthening the WA economy long term, by cutting company tax for all West Australian companies, including 50,000 small companies trading across this state, making a tax break available to all of West Australia's 160,000 small businesses, as well as providing a source of revenue to boost our investment in WA infrastructure. That's in terms of strengthening the economy long term.</p>
@@ -68,6 +58,4 @@
 <p>Remember already, these organisations have been responsible for the murder, through terrorist attacks, of about a hundred Australians already. Therefore we've got a national interest involved in making sure Afghanistan doesn't return to being their operating base for the future.</p>
 <p>BEAUMONT: Prime Minister thank you for talking to us this morning, we appreciate your time.</p>
 <p>PM: Thanks Simon for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

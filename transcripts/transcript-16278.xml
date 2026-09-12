@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16278</transcript-id>
-    <title>Joint Media Release with the Minister for Health Historic National Healthcare Agreement  Funding Boost to Hospitals to Drive Reform  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will deliver a massive $64.4 billion to boost health and hospital funding and drive reform including through an historic National Healthcare Agreement.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16278</transcript-id><title>Joint Media Release with the Minister for Health Historic National Healthcare Agreement  Funding Boost to Hospitals to Drive Reform  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will deliver a massive $64.4 billion to boost health and hospital funding and drive reform including through an historic National Healthcare Agreement.</p>
 <p>This is an increase of more than $20 billion, or 50 per cent, over the last agreement.</p>
 <p>This will help rebuild our hospitals, deliver more doctors and nurses, and tackle key pressure points in the public hospital system.</p>
 <p>It will also deliver significant reforms, with stringent accountability measures, performance reporting, and reward payments for meeting set targets.</p>
@@ -39,6 +29,4 @@
 <p>     * $1.4 billion for Tasmania</p>
 <p>     * $900 million for the ACT</p>
 <p>     * $570 million for the Northern Territory</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

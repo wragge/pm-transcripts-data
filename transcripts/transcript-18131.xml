@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18131</transcript-id>
-    <title>Legislation to restore Migration Act powers</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/09/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18131</transcript-id><title>Legislation to restore Migration Act powers</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/09/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Immigration and Citizenship Chris Bowen today announced that the Government will introduce legislation to enable the transfer of irregular maritime arrivals to third countries for the processing of their asylum claims.</p>
 <p>The amendments will restore the understanding of the third country transfer provisions of the Migration Act that existed prior to the High Court's decision on 31 August 2011.</p>
 <p>They will ensure the government of the day can determine the border protection policy that it believes is in the best interests of the nation.</p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard and Minister for Immigration and Citizenship Chris 
 <p>The Arrangement with Malaysia, the first under the Regional Co-operation Framework, provides an opportunity to improve protection outcomes for refugees in the region at the same time as reducing people smuggling activity.</p>
 <p>The Government also remains committed to increasing the humanitarian program to 14,750 places per year, should the amendments pass the Parliament and transfers to Malaysia proceed.</p>
 <p>The Government intends to introduce the amending legislation into Parliament next week. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

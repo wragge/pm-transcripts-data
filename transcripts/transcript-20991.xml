@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20991</transcript-id>
-    <title>Interview with David Frost &#039;Breakfast with Frost&#039;, BBC Television </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/11/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FROST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20991</transcript-id><title><![CDATA[Interview with David Frost &#039;Breakfast with Frost&#039;, BBC Television ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/11/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FROST:</p>
 <p>This morning the Australian Prime Minister John Howard will be laying a wreath at the cenotaph, commemorating more than 100,000 Australian servicemen who died in the first and second and world wars as our so highly rated allies.  Serving Australian troops have of course been fighting in Iraq alongside British and American servicemen.  Indeed there is a substantial Australian presence - about 800 people still in Iraq today.  But when I spoke to John Howard earlier this morning, I asked him first about a new memorial he is dedicating to the Australian war dead, that has been built at Hyde Park corner in central London.</p>
 <p>PRIME MINISTER:</p>
 <p>Along with the Queen and the British Prime Minister, I'll be opening the new Australian war memorial at Hyde Park corner that will in a long overdue way honour the hundreds of thousands of Australians who fought alongside Britain in both world wars, both World War I and World War II.  And it's a beautiful monument and we think it will become very much a focal point for Australians and New Zealanders in London, especially on ANZAC Day, but more generally.</p>
@@ -66,6 +56,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

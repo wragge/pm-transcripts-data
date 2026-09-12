@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19401</transcript-id>
-    <title>Pollution Runs Out Of Gas Thanks To BOC&#039;s Clean Technology</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/06/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Kwinana</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19401</transcript-id><title><![CDATA[Pollution Runs Out Of Gas Thanks To BOC&#039;s Clean Technology]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/06/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Kwinana</p>
 <p>Gas manufacturer and supplier BOC Limited will use almost $10 million in carbon price revenue to upgrade its Kwinana site in Western Australia with a modern air gas liquefaction plant.</p>
 <p>The upgrade will cut the carbon emissions intensity of BOC Limited's production process by up to 54 per cent and help reduce energy costs by up to $3.5 million per year.</p>
 <p>The upgrade is also a significant project for the Kwinana region and will support the local economy and local jobs.</p>
@@ -21,6 +11,4 @@
 <p>The $800 million Clean Technology Investment Program and the $200 million Clean Technology Food and Foundries Investment Program are providing grants to assist manufacturers to invest in energy efficient capital equipment and low emissions technologies, processes and products.</p>
 <p>The $200 million Clean Technology Innovation Program is providing grants to businesses to develop new clean technologies. All three programs are funded by carbon price revenue and are open for applications.</p>
 <p>For more information, companies should contact AusIndustry on 13 28 46 or visit the website <a href="http://www.ausindustry.gov.au">www.ausindustry.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

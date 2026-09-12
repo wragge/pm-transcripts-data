@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17080</transcript-id>
-    <title>Prime Minister Ministerial changes Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/02/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>After careful consideration I have today decided to recommend to Her Excellency the Governor General a number of changes to Ministerial responsibilities and the establishment of a standalone Department of Climate Change and Energy Efficiency.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17080</transcript-id><title>Prime Minister Ministerial changes Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/02/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>After careful consideration I have today decided to recommend to Her Excellency the Governor General a number of changes to Ministerial responsibilities and the establishment of a standalone Department of Climate Change and Energy Efficiency.</p>
 <p>This move is designed to achieve stronger coordination and greater efficiency in the development and delivery of climate change policies and programs, especially in relation to energy efficiency and renewable energy.</p>
 <p>The Honourable Senator Penny Wong will be appointed Minister for Climate Change, Energy Efficiency and Water. Senator Wong will take on additional portfolio responsibilities for the Government's energy-efficiency and renewable energy programs, particularly for households and the community.</p>
 <p>The Honourable Greg Combet MP, as the Minister Assisting the Minister for Climate Change and Energy Efficiency, will be given direct responsibility for the oversight and implementation of the wind-up of the Household Insulation Program and of the roll-out of the new household Renewable Energy Bonus Scheme.</p>
@@ -17,6 +7,4 @@
 <p>The Department of Climate Change will become the Department of Climate Change and Energy Efficiency.</p>
 <p>The Honourable Peter Garrett MP will be appointed Minister for Environment Protection, Heritage and the Arts.</p>
 <p>I will recommend to Her Excellency the Governor-General that changes be made to the Administrative Arrangements Orders in due course.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

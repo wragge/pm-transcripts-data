@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18068</transcript-id>
-    <title>Austal to build new Border Protection patrol boats</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18068</transcript-id><title>Austal to build new Border Protection patrol boats</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 A West Australian ship builder has been selected to construct and support the next generation of Customs and Border Protection patrol boats.</p>
 <p>The Australian-owned company Austalhas been awarded the $350 million contract to build and support eight new Customs and Border Protection Cape Class patrol boats.</p>
 <p>The new Cape Class boats will replace the ageing fleet of Bay Class vessels. The new vessels will be equipped with greater surveillance technology and will be able to travel longer distances between refuelling. The next generation vessels will allow the simultaneous launch of two response tenders that are bigger, faster and have greater capacity to carry out rescues.</p>
@@ -19,6 +9,4 @@ A West Australian ship builder has been selected to construct and support the ne
 <p>This $350 million contract provides an opportunity for continued employment in Western Australia and the stability of the local shipping industry.</p>
 <p>The vessels will be named after eight Capes across Australia: Cape St George (ACT); Cape Byron (NSW); Cape Nelson (Victoria); Cape Sorell (Tasmania); Cape Jervis (SA); Cape Leveque (WA); Cape Wessel (NT); and Cape York (Queensland).</p>
 <p>It is anticipated that the first Cape Class patrol boat will be operational by early 2013 and the full fleet is expected to be operational by September 2015.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

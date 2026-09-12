@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22131</transcript-id>
-    <title>Doorstop Interview Hilton Hotel, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/02/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22131</transcript-id><title>Doorstop Interview Hilton Hotel, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/02/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Mr Howard the town of Mildura is in a fair bit of shock this morning, have you got any words for them?</p>
 <p> PRIME MINISTER:</p>
 <p> I am like every other Australian; it's just such a tragic loss of young lives, it's heartbreaking. Young kids out on a Saturday night to enjoy themselves and something like this happens. I like all other Australians; (inaudible) just so dreadfully sorry and I can't do more than express my profound sympathy and condolences to those who have lost their children and their friends, their brothers, their sisters; it's a terrible accident.</p>
@@ -78,6 +68,4 @@
 <p> PRIME MINISTER:</p>
 <p> Well I am very pleased yes, and I always thought it was a pointless dispute and I just think it is good because I don't like seeing people on strike, I don't like seeing families affected and I think common sense has prevailed. Thank you.</p>
 <p> [End]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

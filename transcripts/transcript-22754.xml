@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22754</transcript-id>
-    <title>Transcript of Doorstop Interview -Cairns</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>14/07/2013</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: I'm here obviously to do some work with the Cairns City Council, an important project, to upgrade the Cairns CBD.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22754</transcript-id><title>Transcript of Doorstop Interview -Cairns</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>14/07/2013</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: I'm here obviously to do some work with the Cairns City Council, an important project, to upgrade the Cairns CBD.</p>
 <p>This is an important centre of Australian tourism. The Cairns City Council have asked us for a federal injection of $4.6 million.</p>
 <p>I'm here today with our candidate Billy Gordon to announce that's exactly what we are doing, investing $4.6 million here into Cairns.</p>
 <p>The reason we are doing that is because this city has got to look spick and span for the future - that's what the mayor's told me - in order to continue to attract tourists not just from Japan, not just from China, but right across the world.</p>
@@ -92,6 +82,4 @@
 <p>And also, if this new direction is taken and supported through our Cabinet budget review committee process, then of course we would have a floating price.</p>
 <p>See you later.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

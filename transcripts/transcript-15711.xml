@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15711</transcript-id>
-    <title>Christmas Message    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/12/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Therese and I and our family would like to wish all Australians a wonderful Christmas this year. Christmas is a time for reflection, it is a time for celebration, it is a time for giving, it is a time for our kids and for our grandkids. It is also a time when we get together as families and some of us travel a long, long way so that families spread across this vast country of ours can come together at last.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15711</transcript-id><title>Christmas Message    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/12/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Therese and I and our family would like to wish all Australians a wonderful Christmas this year. Christmas is a time for reflection, it is a time for celebration, it is a time for giving, it is a time for our kids and for our grandkids. It is also a time when we get together as families and some of us travel a long, long way so that families spread across this vast country of ours can come together at last.</p>
 <p>Christmas can also be a time when people experience a great sense of loss and loneliness. A spare chair, a vacant chair at the Christmas table, reminding those present of either a loved one who has passed away, or a loved one who cannot be with us at this time.</p>
 <p>I'd say therefore to all Australians that at this time of year it is important to reach out to our friends, to our neighbours and to those that we don't know at all, to make sure that no one is alone this Christmas.</p>
 <p>I thank all of our church and community and charitable organisations for the marvellous work they do in making sure that those who are in need are catered for, not just now at Christmas, but right through the year as well.</p>
@@ -23,6 +13,4 @@
 <p>On behalf of Therese and myself, Jessica, Albert, Nicholas and Marcus I'd like to extend to all of you a very happy Christmas, a very peaceful Christmas  -  and a very happy New Year and  a very prosperous New Year as well.</p>
 <p>The Lodge, Canberra</p>
 <p>Media contact: 02 6277 7744 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

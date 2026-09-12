@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15714</transcript-id>
-    <title>Interview with the Acting Prime Minister the Hon Julia Gillard, MP, Ten News, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/01/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST: Just to start Minister, starting with the flooding in South-Eastern Queensland and also Northern New South Wales. What is the Federal government doing in relation to that?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15714</transcript-id><title>Interview with the Acting Prime Minister the Hon Julia Gillard, MP, Ten News, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/01/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST: Just to start Minister, starting with the flooding in South-Eastern Queensland and also Northern New South Wales. What is the Federal government doing in relation to that?</p>
 <p>JULIA GILLARD: Well obviously these are difficult times for many people in New South Wales, in Queensland and in the Northern Territory. Families are caught up in these events and our thoughts are with those families. And certainly I'd want to give my congratulations to all of the volunteers who are out there on the ground in difficult circumstances, helping people get through.</p>
 <p>The Federal government is staying in very close contact with our State and Territory colleagues. We are monitoring the situation continuously and we're doing that so that if Federal government assistance is required, it can be delivered in a timely fashion.</p>
 <p>JOURNALIST: What sort of assistance could the Commonwealth provide?</p>
@@ -37,6 +27,4 @@
 <p>JOURNALIST: Are you under any sort of obligation, do you think, to actually provide for the promises - for what the Howard Government said?</p>
 <p>JULIA GILLARD: Our obligation is to do exactly what we promised  -  and we will.</p>
 <p>ends</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

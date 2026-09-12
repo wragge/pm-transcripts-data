@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18137</transcript-id>
-    <title>Inaugural EMILY&#039;s List Oration, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/09/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18137</transcript-id><title><![CDATA[Inaugural EMILY&#039;s List Oration, Canberra]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/09/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I'm Australia's first female Prime Minister.</p>
 <p>And I didn't get here alone.</p>
 <p>Today I think of all the women who made my journey possible, all the women who made our journey possible:</p>
@@ -162,6 +152,4 @@ I'm Australia's first female Prime Minister.</p>
 <p>A belief that abides.</p>
 <p>A belief that grows stronger every day.</p>
 <p>A belief I will hold as long as I live. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

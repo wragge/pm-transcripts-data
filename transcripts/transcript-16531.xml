@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16531</transcript-id>
-    <title>Interview with Jon Faine  ABC 744 Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FAINE: Kevin Rudd good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16531</transcript-id><title>Interview with Jon Faine  ABC 744 Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FAINE: Kevin Rudd good morning.</p>
 <p>PM: Good morning Jon.</p>
 <p>FAINE: We'll talk about swine flu with Nicola Roxon a little later this morning so can we talk about financial matters first and the context of the budget turnaround of as much as $200 million and can you confirm that figure?</p>
 <p>PM: Well, what we've already indicated is that we have had a write-down in tax revenues for Australia of $115 billion and given what's happened in the global economy more broadly, obviously we think the risks there are on the downside.</p>
@@ -81,6 +71,4 @@
 <p>It's that practical stuff, together with the national actions like our national economic stimulus strategy and our global actions through the G20, together that's our overall approach to reducing the impact of this appalling global recession. This is the worst challenge any government's been dealt on the economic front in three quarters of a century and we are exerting every effort, including me, to try and make a difference.</p>
 <p>FAINE: Prime Minister you've been generous with your time and thanks very much this morning.</p>
 <p>PM: Thanks for having us on the program Jon.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

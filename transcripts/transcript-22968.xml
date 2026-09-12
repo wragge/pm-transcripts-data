@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22968</transcript-id>
-    <title>Radio Interview with David Lord, ABC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject: sport</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22968</transcript-id><title>Radio Interview with David Lord, ABC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject: sport</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>LORD:</p>
 <p>It’s our federal Prime Minister, a very Merry Christmas to you and your family.</p>
@@ -22,7 +12,7 @@
 <p>LORD:</p>
 <p>Well it must have made you feel very proud as Prime Minister.</p>
 <p>PRIME MINISTER:</p>
-<p>I certainly did feel great. And my wife and I resolved at the very beginning that we would go to as many events as we could to express the enthusiasm and support of<br />
+<p>I certainly did feel great. And my wife and I resolved at the very beginning that we would go to as many events as we could to express the enthusiasm and support of<br>
 19 million Australians to the men and women who were competing.  And I’m sure the athletes appreciated that and I’m sure the public did because it wasn’t just an ordinary sporting contest, it was the big sporting contest.  But it’s naturally not the only one.  There are other great sporting highlights during the year as well.</p>
 <p>LORD:</p>
 <p>Well let’s just let’s just stick on the Olympic Games for a minute because 12 months ago to the day we sat in this same room and you said you were quite confident that the Olympic Games were going to be the best ever.  So when Juan Antonio Samaranch underscored that that must have been a big buzz as well.</p>
@@ -79,6 +69,4 @@
 <p>LORD:</p>
 <p>Same to you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

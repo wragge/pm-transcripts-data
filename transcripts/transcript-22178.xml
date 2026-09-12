@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22178</transcript-id>
-    <title>Visit by the Prime Minister of the United Kingdom  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/03/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Prime Minister of the United Kingdom, The Right Honourable Tony Blair MP, will make an official visit to Australia from 25-28 March as a guest of the Australian Government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22178</transcript-id><title>Visit by the Prime Minister of the United Kingdom  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/03/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Prime Minister of the United Kingdom, The Right Honourable Tony Blair MP, will make an official visit to Australia from 25-28 March as a guest of the Australian Government.</p>
 <p>Mr Blair's visit provides a valuable opportunity to discuss the expansion of the Australia-UK relationship, our shared commitment to stabilisation and reconstruction efforts in Iraq and Afghanistan and our common interest in fighting global terrorism.</p>
 <p>During the visit, Mr Blair will attend sessions of the Melbourne 2006 Commonwealth Games, including the closing ceremony on 26 March. Mr Blair will also address a joint sitting of Parliament and participate in the second Australia-UK Leadership Forum in Canberra.</p>
 <p>  The Australia-UK relationship is as strong and vital as any international alliance.</p>
 <p>  It is founded on a common heritage, shared values and institutions and a proud history of friendship and unity through periods of adversity and growth.  It continues to be strengthened by close, practical cooperation in a number of areas and a shared approach to a range of international challenges.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

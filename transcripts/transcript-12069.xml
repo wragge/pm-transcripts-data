@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12069</transcript-id>
-    <title>Interview with Neil Mitchell, 3AW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: heroin shooting galleries; interest rates; illegal immigrants; student protest at Melbourne University; customs laws; Spy plane incident; industrial relations; Democrats' leadership; beer excise.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12069</transcript-id><title>Interview with Neil Mitchell, 3AW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: heroin shooting galleries; interest rates; illegal immigrants; student protest at Melbourne University; customs laws; Spy plane incident; industrial relations; Democrats' leadership; beer excise.</p>
 <p>E&amp;OE................................</p>
 <p>MITCHELL:</p>
 <p>Mr Howard good morning.</p>
@@ -20,7 +10,7 @@
 <p>PRIME MINISTER:</p>
 <p>No there's nothing at all we can do to stop that, nothing at all. It's entirely within the control of the state government. I don't agree with heroin injecting rooms or galleries but it's a policy decision taken by the New South Wales government. There's nothing legally we can do to stop it.</p>
 <p>MITCHELL:</p>
-<p>But how can they get heroin?<br />
+<p>But how can they get heroin?<br>
 PRIME MINISTER:</p>
 <p>Well presumably they will have capacity to get it without any assistance from us and that's their challenge. I mean I am not wishing the project..it's not something that I support. We won't amend the law to allow the importation of heroin. But when I say there's nothing I can do to stop it, there's nothing I can do to stop them setting up the facility. The question of where they get heroin from and how they handle things is a matter for them to deal with within the confines of law within New South Wales. I've made it clear that I won't do anything and the federal government won't do anything to relax federal laws to allow the importation of any substances.</p>
 <p>MITCHELL:</p>
@@ -229,6 +219,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>See you later.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

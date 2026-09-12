@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22317</transcript-id>
-    <title>Unemployment Falls Below Five Per Cent  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/06/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today is a great day for the workers of Australia. The 30-year-low unemployment rate is fresh confirmation of my Government's strong economic record over the past 10 years.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22317</transcript-id><title>Unemployment Falls Below Five Per Cent  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/06/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today is a great day for the workers of Australia. The 30-year-low unemployment rate is fresh confirmation of my Government's strong economic record over the past 10 years.</p>
 <p>The unemployment rate in May fell to 4.9 per cent, down from 5.1 per cent in April.</p>
 <p> This is the first time the unemployment rate has been below five per cent since November 1976. The result is a wonderful symbol of the success of the Government's economic policies.</p>
 <p>The fall in the unemployment rate occurred at the same time as the participation rate increased, a clear signal that more and more Australians are confident of finding work.</p>
@@ -19,6 +9,4 @@
 <p>We must continue to embrace reform to keep the economy strong and help more Australians find work.</p>
 <p>Last week we had the spectacle of the Australian Labor Party criticising new jobs in the Parliament.</p>
 <p>Labor and the trade union movement will continue to run a scare campaign against workplace reform, but my Government will continue to make the right decisions to maintain the strength of the economy.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

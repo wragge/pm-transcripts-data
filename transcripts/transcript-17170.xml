@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17170</transcript-id>
-    <title>Transcript of interview  4TO Townsville   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17170</transcript-id><title>Transcript of interview  4TO Townsville   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
 <p>PM: Good morning.</p>
 <p>HOST: How are you this morning Kevin?</p>
 <p>PM: Fantastic, particularly after a walk along The Strand earlier this morning. I've got to say, you have a beautiful part of the country.</p>
@@ -42,6 +32,4 @@
 <p>I think we actually need to have that sort of culture in our national debate, rather than someone just, you know, picking, you know, clever one liners to score a headline the next day.</p>
 <p>HOST: Alright, well I've just had a text from your office, it says we need the PM off now, he's got something else to do. Prime Minister Kevin Rudd, thank you for your time today.</p>
 <p>PM: Thanks for having us on the program. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

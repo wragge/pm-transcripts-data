@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11933</transcript-id>
-    <title>Interview with Steve Leibmann, Today Show </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/01/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Economy, petrol prices, Western Australian election campaign, Queensland election, education, US relations, Christopher Skase</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11933</transcript-id><title>Interview with Steve Leibmann, Today Show </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/01/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Economy, petrol prices, Western Australian election campaign, Queensland election, education, US relations, Christopher Skase</p>
 <p>E&amp;OE................................</p>
 <p>LEIBMANN:</p>
 <p>First this morning to national affairs and with political leaders now back from their summer holidays both the Government and the Opposition are looking towards a Federal Election expected in the second half of the year. Later today, Labor Leader Kim Beazley's going to unveil his party's priority issues for the election. Joining us now ahead of that in the studio is the Prime Minister, John Howard. Good morning to you.</p>
@@ -105,6 +95,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thankyou</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

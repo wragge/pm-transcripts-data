@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16889</transcript-id>
-    <title>Local employment coordinator appointed for Townsville    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government has appointed a Local Employment Coordinator to help create and support local jobs across the Townsville region.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16889</transcript-id><title>Local employment coordinator appointed for Townsville    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government has appointed a Local Employment Coordinator to help create and support local jobs across the Townsville region.</p>
 <p>Local Employment Coordinators are part of the Rudd Government's $77 billion Nation Building Recovery plan to keep Australia working, and help maximise the impact of the Rudd Government's stimulus strategy.</p>
 <p>Prime Minister Kevin Rudd today appointed Marc Shannon as the Local Employment Coordinator to work with business and the community to develop a local plan for jobs for the future.</p>
 <p>Mr Shannon has a wide range of contacts in the region, having worked as the Business Development Manager with the Research Innovation and Development office at James Cook University for five years.</p>
@@ -17,6 +7,4 @@
 <p>As the Townsville region's Local Employment Coordinator he will work with regional businesses and the community to encourage apprenticeships, traineeships and use of government's productivity places to help job seekers build the skills they need for the jobs of the future.</p>
 <p>Coordinators will be working to support and strengthen the local economies of 20 regions Australia-wide, including Cairns, Southern Wide Bay-Burnett and Ipswich-Logan.</p>
 <p>Across the Townsville region, $397 million has been invested in projects to stimulate the economy, and the Rudd Government will keep working in partnership with the community to create and support jobs.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

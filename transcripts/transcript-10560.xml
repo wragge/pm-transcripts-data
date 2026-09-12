@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10560</transcript-id>
-    <title>Television Interview with Kerry O&#039;Brien, 7.30 Report </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/11/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.........................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10560</transcript-id><title><![CDATA[Television Interview with Kerry O&#039;Brien, 7.30 Report ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/11/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.........................................................................................................................</p>
 <p><b>O’BRIEN:</b></p>
 <p>John Howard, Paul Keating has labelled your proposed native title laws as savage, mean and racist. You in return say he is a hypocrite, why?</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -95,7 +85,7 @@
 <p><b>O’BRIEN:</b></p>
 <p>Aborigines say that they have no culture without the land, that they need access to the land to be able to teach that culture to their children and to keep that culture alive. That it’s about the spiritual connections to the land. How deeply do you feel and understand that concept?</p>
 <p><b>PRIME MINISTER:</b></p>
-<p>I understand that. I respect it and so does this legislation. I mean if I didn’t respect that, if I didn’t respect the finding of the existence of native title in the Mabo decision, I would have behaved in a completely different fashion. You can trawl through all of the remarks that I have made in public life and you will find no enunciation of the fundamental principles of the Mabo decision. I supported the spirit of that decision which overturned the doctrine of Terra Nullius. That’s an entirely different proposition and that is fully respected in this legislation. Let me go back to the... I mean what this debate is all about is the motive behind our legislation and the motive behind that is to strike a fair balance in a difficult situation called a mess by Kim Beazley and Graham Richardson and to strike a decent and fair balance between different sections of the Australian community. I believe we have done that. I believe this disgraceful attempt to smear it as a racist, race-based emotive exercise has been exposed very dramatically today.</p>
+<p>I understand that. I respect it and so does this legislation. I mean if I didn’t respect that, if I didn’t respect the finding of the existence of native title in the Mabo decision, I would have behaved in a completely different fashion. You can trawl through all of the remarks that I have made in public life and you will find no enunciation of the fundamental principles of the Mabo decision. I supported the spirit of that decision which overturned the doctrine of Terra Nullius. That’s an entirely different proposition and that is fully respected in this legislation. Let me go back to the... I mean what this debate is all about is the motive behind our legislation and the motive behind that is to strike a fair balance in a difficult situation called a mess by Kim&nbsp;Beazley and Graham Richardson and to strike a decent and fair balance between different sections of the Australian community. I believe we have done that. I believe this disgraceful attempt to smear it as a racist, race-based emotive exercise has been exposed very dramatically today.</p>
 <p><b>O’BRIEN:</b></p>
 <p>You may feel you have done that but you must also acknowledge that a quite respectable body of legal opinion in this country argues otherwise.</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -115,6 +105,4 @@
 <p><b>O’BRIEN:</b></p>
 <p>John Howard, thanks very much for talking to us.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

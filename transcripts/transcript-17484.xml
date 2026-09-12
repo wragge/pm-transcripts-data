@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17484</transcript-id>
-    <title>Transcript of interview with Lyndal Curtis, ABC AM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/11/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17484</transcript-id><title>Transcript of interview with Lyndal Curtis, ABC AM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/11/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
  CURTIS: Prime Minister, welcome to AM.</p>
 <p>PM: Thank you.</p>
 <p>CURTIS: If we can go to New Zealand first, two Australians are presumed to have died in the mining tragedy there. Is there any help you can offer the families?</p>
@@ -48,6 +38,4 @@
 <p>Government will work through on this issue to get the balance right and work in the interests of Australian families who like watching footy and other sports.</p>
 <p>CURTIS: Julia Gillard, thank you very much for your time.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

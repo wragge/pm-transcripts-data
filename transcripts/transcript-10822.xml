@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10822</transcript-id>
-    <title>Caretaker Period Over</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/10/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Electoral Commission has today confirmed that the Coalition will have a clear working majority in the new Parliament.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10822</transcript-id><title>Caretaker Period Over</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/10/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Electoral Commission has today confirmed that the Coalition will have a clear working majority in the new Parliament.</p>
 <p>Therefore, the caretaker period will end forthwith so that the usual functions of government can be resumed.</p>
 <p>Meetings of the Coalition parliamentary parties will take place in Canberra on Wednesday. The new Cabinet and Ministry will subsequently be formed.</p>
 <p>It is expected that the swearing in will take place next week.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

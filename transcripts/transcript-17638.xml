@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17638</transcript-id>
-    <title>Transcript of interview, Channel 9</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17638</transcript-id><title>Transcript of interview, Channel 9</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Yes a very special guest too, Prime Minister Julia Gillard is with me here in the studio, great to see you, you've been all over, not just the state of Queensland where we're focusing today, we've had this problem obviously in Victoria; in Western Australia not so long ago.</p>
 <p>PM: Unfortunately we've had floodwaters everywhere, obviously the crisis in Queensland has been of a bigger scale than anywhere else, but people in New South Wales, in Victoria and over in WA have all had to battled floodwaters.</p>
 <p>HOST: I was talking to Premier Anna Bligh before we got underway and she was really quite pleased with the progress and it's very difficult when a lot of money suddenly comes in to distribute it correctly and have it used quickly isn't it?</p>
@@ -24,6 +14,4 @@ HOST: Yes a very special guest too, Prime Minister Julia Gillard is with me here
 <p>Two for 87, with Shaun Marsh going well. I hope you have a good day and enjoy watching the play.</p>
 <p>PM: Thank you very much. I'll go enjoy it.</p>
 <p>HOST: Thank you Prime Minister.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

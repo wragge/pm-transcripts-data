@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16600</transcript-id>
-    <title>Speech to the ACTU Congress 2009 Brisbane Convention Centre   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/06/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It's great to be back in Queensland, for this supreme parliament of working people, the Congress of the Australian Council of Trade Unions. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16600</transcript-id><title>Speech to the ACTU Congress 2009 Brisbane Convention Centre   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/06/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It's great to be back in Queensland, for this supreme parliament of working people, the Congress of the Australian Council of Trade Unions. </p>
 <p>But Jeff, Sharan, Joe  -  how on earth did you manage to schedule this speech on a State of Origin night?</p>
 <p>And your second crime against humanity  -  to schedule this speech on a State of Origin night in Brisvegas when the home of the ACTU is in Melbourne  -  which is where the State of Origin is being held.</p>
 <p>This is a total Victorian conspiracy.</p>
@@ -215,6 +205,4 @@
 <p>And together, we can make our way through this recession and build an Australia that is stronger, that is fairer, prepared for all the challenges of the future, a place where the dreams and aspirations of working people can be fulfilled whatever their background, whatever the colour of their skin, whatever part of Australia they may come from.</p>
 <p>For that was the Labor movement's mission in the past.</p>
 <p>And that must be the Labor movement's mission for the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

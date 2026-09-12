@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17261</transcript-id>
-    <title>Prime Minister Transcript of interview Channel Ten News 2 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: PM, thanks for joining us.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17261</transcript-id><title>Prime Minister Transcript of interview Channel Ten News 2 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: PM, thanks for joining us.</p>
 <p>PM: Good to be with you.</p>
 <p>HOST: Ken Henry made these 138 recommendations. You appear to have acted on only about four or five. Have you shied away from a major overhaul of the tax system?</p>
 <p>PM: What we have gone for is the big reforms here. We're setting up Australia for the long-term future, protecting our economy, making sure our Government finances remain strong, but also making sure that working Australians, working families and small business get their fair share. The reforms on superannuation are key because so many people don't have enough for their retirement income.</p>
@@ -20,6 +10,4 @@
 <p>PM: Well, remember, for business we're also bringing down the company tax rate. I mean, you can't have it both ways here. What we're doing with our business community is bringing down the company tax rate which is already too high against international standards, bringing it back to the middle of the field, but also for our small businesses, we're bringing in this new change also, to make sure that when it comes to their $5,000 of expenditure on core assets in a given year, that they can write that off almost immediately. That's very important as well, so therefore we're doing that to enable them to help with the super needs of working families because our working families deserve it.</p>
 <p>HOST: Alright, thanks for joining us. Appreciate it, thank you.</p>
 <p>PM: Good to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

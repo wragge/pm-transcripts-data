@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19055</transcript-id>
-    <title>Australia Condemns North Korean Nuclear Test</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19055</transcript-id><title>Australia Condemns North Korean Nuclear Test</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Today, North Korea's official news agency claimed North Korea had conducted a successful nuclear test. </p>
 <p>Seismic data supports this claim and a third North Korean nuclear test is consistent with North Korea's dangerous nuclear ambitions.</p>
 <p>The Australian Government condemns in the strongest possible terms nuclear testing by North Korea.</p>
@@ -21,6 +11,4 @@
 <p>Australia will also be making its deep concerns known to the North Korean Government directly, as well as in international and regional forums.</p>
 <p>North Korea's future security and prosperity can only be secured through constructive relations with its neighbours and the international community.</p>
 <p>Australia will continue to work closely with our friends and allies for peace and stability in North Asia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

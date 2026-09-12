@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16560</transcript-id>
-    <title>$1.65 billion Hunter Expressway to create job and ease traffic congestion    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/05/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Premier of NSW today welcomed the announcement of funding for the new $1.65 billion Hunter Expressway between the F3 and the New England Highway near Branxton.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16560</transcript-id><title>$1.65 billion Hunter Expressway to create job and ease traffic congestion    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/05/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Premier of NSW today welcomed the announcement of funding for the new $1.65 billion Hunter Expressway between the F3 and the New England Highway near Branxton.</p>
 <p>The new 40 kilometre dual carriageway will:</p>
 <p>     * cut travel times between Newcastle and the Hunter by 28 minutes;</p>
 <p>     * relieve congestion between Newcastle and the towns of Thornton, Maitland, and Rutherford, with forecast reductions in traffic of 15,000 to 30,000 vehicles per day from their level of 60,000 vehicles now;</p>
@@ -22,6 +12,4 @@
 <p>The project is a 10.8km new rail track that will support up to 150 jobs during construction.</p>
 <p>Together, the Hunter Valley Rail Network improvements will lift coal capacity from around 107 million tonnes per annum to 165 million tonnes per annum to meet rising demand.</p>
 <p>The Australian Government's nation-building initiatives include $11.6 billion in road and rail infrastructure in New South Wales.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

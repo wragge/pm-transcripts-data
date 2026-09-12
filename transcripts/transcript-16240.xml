@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16240</transcript-id>
-    <title>Joint Press Conference with British Prime Minister, Gordon Brown British Embassy, Washington  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/11/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM BROWN: Thank you very much for joining us. I'm delighted to be meeting Kevin Rudd, the Prime Minister of Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16240</transcript-id><title>Joint Press Conference with British Prime Minister, Gordon Brown British Embassy, Washington  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/11/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM BROWN: Thank you very much for joining us. I'm delighted to be meeting Kevin Rudd, the Prime Minister of Australia.</p>
 <p>Kevin Rudd is taken a very big leadership role in trying to address the problems of our financial system. The Australian Government has just announced a major fiscal stimulus and his leadership is proposing reforms in the international financial system which are very important to the conclusions I believe we'll reach today.</p>
 <p>I think the key thing is that we need to stabilise the banking system. We need to show that monetary and fiscal policy is working to best effect so that we can take our economies through these difficult times. And we need to continue the momentum which is absolutely essential to reform the international financial system to deal with these obvious failings that have been exposed over these last few months. And at the same time, by making the changes, to make people more confident about the financial system so that they can feel sure that their savings are safe, that their mortgages will be dealt with in a proper way, and of course, that we can have our jobs and our economy and the prosperity that people want.</p>
 <p>These are all the issues that we will be dealing with tomorrow, but I wanted to thank Kevin for his leadership in all these areas.</p>
@@ -42,6 +32,4 @@
 <p>Our policy remains to maintain a Budget surplus across the economic cycle. Our policy has been that since before the Australian election, it's been that since the election, and the same going forward. But we remain determined to take any policy action necessary to support growth and jobs into the future, consistent with our policy of retaining a surplus across the economic cycle. </p>
 <p>Thanks very much, got to go.</p>
 <p>PM BROWN: Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

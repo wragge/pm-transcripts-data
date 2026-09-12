@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19332</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19332</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
 <p>PM: I am delighted to be here in Papua New Guinea. I've arrived this afternoon and I will be here today until the day after. I am very pleased to be here.</p>
 <p>Papua New Guinea is Australia's closest neighbour and of course we are long term friends.</p>
 <p>The bond between our two countries was forged during the dark days of World War II and over the 70 years since, our friendship has grown to today's comprehensive relationship between our two countries. </p>
@@ -88,6 +78,4 @@
 <p>Well presumably when he spoke those words he was saying what he felt in his heart and his mind. That Work Choices was wholly good.</p>
 <p>Well if he believes that, if he believed it then, I think he believes it now and whatever is said by the Opposition, that their drive, if they are ever the government will be to reintroduce a policy they passionately believe in, and that is Work Choices.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

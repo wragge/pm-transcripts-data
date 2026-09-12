@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23392</transcript-id>
-    <title>Interview with John Burgess, Radio 6iX, Perth</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/04/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Visit by Prime Minister Najib Razak,  flight MH370,  independent public schools,  the Government’s commitment to repeal the carbon tax and the mining tax,  Western Australian Senate election,  GST: National Partnership Agreement on Homelessness. </subjects>
-    <content><![CDATA[<p><strong>JOHN BURGESS:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23392</transcript-id><title>Interview with John Burgess, Radio 6iX, Perth</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/04/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Visit by Prime Minister Najib Razak, flight MH370, independent public schools, the Government’s commitment to repeal the carbon tax and the mining tax, Western Australian Senate election, GST: National Partnership Agreement on Homelessness.</subjects><content><![CDATA[<p><strong>JOHN BURGESS:</strong></p>
 <p>I’m delighted to have in the studio this morning the Prime Minister of Australia, Tony Abbott. Prime Minister, good morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Burgo, it’s great to be here,</p>
@@ -77,6 +67,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks, Burgo.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

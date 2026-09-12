@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16050</transcript-id>
-    <title>Interview with Karl Stefanovic, Today Show, Channel Nine Darwin  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEFANOVIC: Well Kevin Rudd is preparing to board a plane this morning bound for the Beijing Olympic Games. Our mandarin speaking PM has vowed to raise human rights issues during his visit to the Olympic city and he joins us now from Darwin. Good morning Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16050</transcript-id><title>Interview with Karl Stefanovic, Today Show, Channel Nine Darwin  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEFANOVIC: Well Kevin Rudd is preparing to board a plane this morning bound for the Beijing Olympic Games. Our mandarin speaking PM has vowed to raise human rights issues during his visit to the Olympic city and he joins us now from Darwin. Good morning Prime Minister.</p>
 <p>PM: Morning Karl, how are you?</p>
 <p>STEFANOVIC: I am very well thank you. Just on that issue, are you really going to raise those human rights issues and perhaps more importantly, do you think Beijing will listen?</p>
 <p>PM: Well Karl I've always in my previous meetings with Chinese leaders done that and I don't intend to change on this occasion, I'll continue to do so in the future.</p>
@@ -59,6 +49,4 @@
 <p>So lets urge them on but understand how much pressure these kids are under as well. It a lot of pressure but I'm proud of the fact that they are wearing the Australian uniform.</p>
 <p>STEFANOVIC: All right, well we are too. Thanks for your time today Prime Minister and Ni hao</p>
 <p>PM: Thanks very much Karl</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

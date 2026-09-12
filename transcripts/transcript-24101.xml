@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24101</transcript-id>
-    <title>2015 Prime Minister’s Literary Awards open</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/12/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australian authors, poets and historians are invited to enter the 2015 Prime Minister’s Literary Awards.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24101</transcript-id><title>2015 Prime Minister’s Literary Awards open</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/12/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australian authors, poets and historians are invited to enter the 2015 Prime Minister’s Literary Awards.</p>
 <p>The Prime Minister’s Literary Awards celebrate the contribution of Australian literature to our cultural and intellectual life.</p>
 <p>These awards recognise the role Australian writers play in enlightening and entertaining us, reflecting on our history, and taking our stories to the world.</p>
 <p>They acknowledge excellence in Australian fiction, poetry, non-fiction, young adult fiction and children’s fiction, and in Australian history.</p>
@@ -18,6 +8,4 @@
 <p>Entries close at 5.00pm (AEDT) on Saturday 28 February 2015.</p>
 <p>Entry forms and eligibility guidelines are available on the <a href="http://arts.gov.au/pmliteraryawards">Ministry for the Arts website.</a></p>
 <p>24 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

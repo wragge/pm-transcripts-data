@@ -1,20 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23139</transcript-id>
-    <title>Prime Minister&#039;s Business Advisory Council</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>04/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister’s Business Advisory Council will bring together 12 prominent Australian and global business leaders and experts to help restore a strong working relationship between business and government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23139</transcript-id><title><![CDATA[Prime Minister&#039;s Business Advisory Council]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>04/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister’s Business Advisory Council will bring together 12 prominent Australian and global business leaders and experts to help restore a strong working relationship between business and government.</p>
 <p>A strong economy needs profitable and dynamic businesses to generate jobs and revenue to fund the provision of services and infrastructure.</p>
 <p>The Council brings together leaders from the manufacturing, resources, logistics, retail, financial and construction sectors. It will meet three times a year with senior members of the Government.</p>
 <p>The Council’s advice will help guide programmes and policies that are sympathetic to the needs of both small and large businesses in Australia.</p>
 <p>The Chairman of the Prime Minister’s Business Advisory Council, Mr Maurice Newman AC, will be joined by:</p>
-<ul><li>Professor Gary Banks AO – Dean and CEO of the Australia and New Zealand School of Government.</li>
+<ul>
+<li>Professor Gary Banks AO – Dean and CEO of the Australia and New Zealand School of Government.</li>
 <li>Mr Michael Chaney AO – Chairman, National Australia Bank and Chancellor of the University of Western Australia.</li>
 <li>Mr Peter Fox AM – Executive Chairman of Fox Group Holdings and Linfox Pty Ltd.</li>
 <li>Mr Daniel Grollo – Chief Executive Officer, Grocon.</li>
@@ -25,16 +16,17 @@
 <li>Ms Catherine Livingstone AO – Chairman, Telstra.</li>
 <li>Mr Jacques Nasser AO – Chairman, BHP Billiton.</li>
 <li>Dr Jane Wilson – Director and former Chairman of a wide array of companies across the health, biotechnology, agriculture and energy sectors.</li>
-</ul><p>The Council will meet three times a year and the first meeting of the Council will be held before the end of the year.</p>
+</ul>
+<p>The Council will meet three times a year and the first meeting of the Council will be held before the end of the year.</p>
 <p>4 December 2013</p>
 <p>
- </p>
+&nbsp;</p>
 <p><strong>Mr Maurice Newman AC</strong></p>
 <p>Mr Newman is currently Chairman of Melon Pastoral Pty Ltd, Macquarie University Foundation; Director, Queensland Investment Corporation; Advisor to the MMC Group of Companies and Patron of CEDA. Mr Newman retired as Chairman of the Australian Broadcasting Corporation in December 2011 and retired as Chairman of the Australian Securities Exchange (ASX Limited) in September 2008. He served as Chancellor of Macquarie University from 2002 to 2008. Mr Newman has been an adviser to Australian governments, state and federal, and has chaired a number of Asian business alliances.</p>
 <p><strong>Professor Gary Banks AO</strong></p>
 <p>Professor Gary Banks is currently Dean and CEO of ANZSOG and Independent Director on the Macquarie Group Board. Professor Banks was previously Chairman of the Productivity Commission from its inception in 1998. He has worked extensively in the public sector, including chairing the COAG Steering Committee for the Review of Government Services and overseeing the Commonwealth’s regulation-making processes. Prior to joining the Productivity Commission, he worked for the Centre for International Economics in Canberra and consulted to the OECD and the World Bank. He was previously a Senior Economist with the GATT Secretariat in Geneva and a Visiting Fellow at the Trade Policy Research Centre in London. Professor Banks holds degrees in economics from Monash University and the Australian National University.</p>
 <p><strong>Mr Michael Chaney AO</strong></p>
-<p>Mr Chaney is the Chancellor of the <a href="http://en.wikipedia.org/wiki/University_of_Western_Australia" title="University of Western Australia">University of Western Australia</a>, a member of the JP Morgan International Council and a Director of the Centre for Independent Studies.  Michael Chaney has been Chairman for NAB since September 2005 and a Non-Executive Director since December 2004. Mr Chaney’s skills and experience include over 27 years of experience in a range of industries in executive, financial management and governance roles including Managing Director and Chief Executive Officer of Wesfarmers Limited from 1992 until July 2005. Mr Chaney graduated with Bachelor of Science and Master of Business Administration degrees from the University of Western Australia in 1972 and 1980 respectively. He completed the Advanced Management Program at <a href="http://en.wikipedia.org/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a> in 1992 and has also been awarded an Honorary Doctorate of Laws from The University of Western Australia.</p>
+<p>Mr Chaney is the Chancellor of the <a href="http://en.wikipedia.org/wiki/University_of_Western_Australia" title="University of Western Australia">University of Western Australia</a>, a member of the JP Morgan International Council and a Director of the Centre for Independent Studies.&nbsp; Michael Chaney has been Chairman for NAB since September 2005 and a Non-Executive Director since December 2004. Mr Chaney’s skills and experience include over 27 years of experience in a range of industries in executive, financial management and governance roles including Managing Director and Chief Executive Officer of Wesfarmers Limited from 1992 until July 2005. Mr Chaney graduated with Bachelor of Science and Master of Business Administration degrees from the University of Western Australia in 1972 and 1980 respectively. He completed the Advanced Management Program at <a href="http://en.wikipedia.org/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a> in 1992 and has also been awarded an Honorary Doctorate of Laws from The University of Western Australia.</p>
 <p><strong>Mr Peter Fox AM</strong></p>
 <p>Mr Fox is the Executive Chairman of Fox Group Holdings, Executive Chairman of Linfox Pty Ltd and Executive Chairman of Armaguard. Mr Fox worked at Mayne Nickless as a trainee cadet, before joining Linfox in Brisbane, as a Trainee Supervisor. He held a wide range of roles across the Linfox business in operational and management positions before his appointment as Executive Chairman in 1994.</p>
 <p><strong>Mr Daniel Grollo</strong></p>
@@ -54,6 +46,4 @@
 <p><strong>Dr Jane Wilson </strong></p>
 <p>Dr Wilson has a background in medicine, finance, banking and consulting, plus experience in the commercialisation of research in the agricultural/biotechnology sectors. She has a Masters degree in Business Administration from Harvard Business School; was Chairman of IMBcom; Director of CathRx Ltd, UQ Holdings Ltd, Universal Biosensors Inc and Union College; Finance Director of the Winston Churchill Memorial Trust; and member of the Premier's Smart State Council and University of Queensland Senate.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

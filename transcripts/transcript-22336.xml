@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22336</transcript-id>
-    <title>Lockhart Review  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/06/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has considered the recommendations of the Lockhart Review. This is a difficult and complex issue on which many different views are held.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22336</transcript-id><title>Lockhart Review  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/06/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has considered the recommendations of the Lockhart Review. This is a difficult and complex issue on which many different views are held.</p>
 <p>After careful reflection, the Government is not disposed to make any changes to the existing national legislative framework for research involving human embryos, agreed in 2002.</p>
 <p>  Recognising, however, the range of issues and views, there will be a detailed discussion on this issue within the Government parties when Parliament resumes for the Spring sitting.</p>
 <p>Maintenance of the current position would still allow the continued use of excess embryos, created originally for Assisted Reproductive Technology (ART) purposes, under licence for research.</p>
@@ -18,6 +8,4 @@
 <p> The Government also supports further exploring the establishment of a national register of donated excess embryos created originally for ART purposes and a national stem cell bank.</p>
 <p>  This infrastructure would offer a way of assisting research by making donated excess embryos and stem cell lines more widely available to the research community.</p>
 <p>I intend writing to state and territory leaders explaining the government's position. I would be happy to discuss this at the next COAG meeting.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

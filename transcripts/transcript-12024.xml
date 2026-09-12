@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12024</transcript-id>
-    <title>Doorstop Interview Club Menai, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: petrol</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12024</transcript-id><title>Doorstop Interview Club Menai, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: petrol</p>
 <p>E&amp;OE................................ </p>
 <p>JOURNALIST:</p>
 <p>Prime Minister you've taken the excise off, do you think the announcement (inaudible)</p>
@@ -36,6 +26,4 @@
 <p>PRIME MINISTER:</p>
 <p>John your asking me to be a commentator, now come on.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

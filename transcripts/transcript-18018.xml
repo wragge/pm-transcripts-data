@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18018</transcript-id>
-    <title>Retirement of Barry Hall</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18018</transcript-id><title>Retirement of Barry Hall</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I was sorry to hear the news today that Barry Hall will be retiring from AFL footy at the end of this season.</p>
 <p>I want to take the opportunity to congratulate Barry on his achievements and wish him good luck for the rest of the season and in the next phase of his life.</p>
 <p>Barry Hall has worked hard and earned great respect in the West.</p>
@@ -23,6 +13,4 @@ I was sorry to hear the news today that Barry Hall will be retiring from AFL foo
 <p>It's lovely to hear Barry talk about how he remembers growing up in Broadford, racing home from school, kicking the ball around the back paddock, pretending he was Simon Beasley, getting handballs from Doug Hawkins. </p>
 <p>I'm sure tonight there will be children in back yards and back paddocks imagining themselves as Barry Hall, getting a handball from Matty Boyd.</p>
 <p>Well done Barry. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15889</transcript-id>
-    <title>Joint Media Release with Minister for Defence Science and Personnel, Warren Snowdon, A National Service of Thanksgiving and Remembrance  for those lost on the HMAS Sydney II </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today Australians paused to remember HMAS SYDNEY II and her crew at a national memorial service held at St Andrew's Cathedral, Sydney.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15889</transcript-id><title>Joint Media Release with Minister for Defence Science and Personnel, Warren Snowdon, A National Service of Thanksgiving and Remembrance  for those lost on the HMAS Sydney II </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today Australians paused to remember HMAS SYDNEY II and her crew at a national memorial service held at St Andrew's Cathedral, Sydney.</p>
 <p>As guests arrived at the service, the cathedral bell tolled 645 times, to mark the lives lost when the pride of the Royal Australian Navy's fleet went down with all hands on 19 November, 1941.</p>
 <p>On the eve of Anzac Day, the Prime Minister asked all Australians to remember the sacrifice of HMAS SYDNEY II's crew.</p>
 <p>“Today we commemorate HMAS SYDNEY II in a manner befitting her significance to the Australian nation.</p>
@@ -19,6 +9,4 @@
 <p>Over 770 relatives of HMAS SYDNEY II's crew came from all over Australia to attend the service.</p>
 <p>With the church at full capacity, a large screen in Sydney Square allowed members of the public to view the service. The service concluded with a flyover by three Royal Australian Air Force Hawk 127 aircraft.</p>
 <p>Following the conclusion of the service, the Prime Minister met with many of the relatives in attendance. A number of the relatives were then taken on a tour of the current HMAS SYDNEY.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

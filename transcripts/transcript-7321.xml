@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7321</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>11/05/1988</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007321.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-11 MAY 1988<br />
-His Majesty King Juan Carlos I of Spain and Her Majesty Queen<br />
-Sofia will pay a State visit to Australia from 13 to 19 June.<br />
-They will be accompanied by their elder daughter Her Royal<br />
-Highness the Infanta Elena.<br />
-Their Majesties will visit Brisbane, Canberra and Sydney. In<br />
-Brisbane they will be guests of honour at the Spanish National<br />
-Day at Expo 88 on 14 June.<br />
-The visit will add a further dimension to the relationship<br />
-between Australia and Spain, characterised as it is by growing<br />
-economic links and shared democratic ideals. 006376<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7321</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>11/05/1988</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007321.pdf</document><subjects></subjects><content><![CDATA[<p>
+11 MAY 1988<br>
+His Majesty King Juan Carlos I of Spain and Her Majesty Queen<br>
+Sofia will pay a State visit to Australia from 13 to 19 June.<br>
+They will be accompanied by their elder daughter Her Royal<br>
+Highness the Infanta Elena.<br>
+Their Majesties will visit Brisbane, Canberra and Sydney. In<br>
+Brisbane they will be guests of honour at the Spanish National<br>
+Day at Expo 88 on 14 June.<br>
+The visit will add a further dimension to the relationship<br>
+between Australia and Spain, characterised as it is by growing<br>
+economic links and shared democratic ideals. 006376<br>
 FOR MEDIA SAUSTRALIA </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

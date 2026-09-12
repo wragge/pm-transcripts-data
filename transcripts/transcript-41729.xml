@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41729</transcript-id>
-    <title>Major milestone on NorthLink WA</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/08/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Construction of NorthLink WA’s biggest free-flowing freeway-to-freeway interchange has reached a major milestone with the first Reid Highway bridge over the Tonkin Highway opening to traffic this weekend.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41729</transcript-id><title>Major milestone on NorthLink WA</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/08/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Construction of NorthLink WA’s biggest free-flowing freeway-to-freeway interchange has reached a major milestone with the first Reid Highway bridge over the Tonkin Highway opening to traffic this weekend.</p>
 <p>The new interchange will deliver a constant average speed of 80km/h and allow traffic to flow in all directions – making trips shorter and safer for motorists.</p>
 <p>The Turnbull Government has committed $820.84 million to fund the $1.02 billion NorthLink WA project in partnership with the Western Australian State Government, an investment that will create jobs, stimulate economic growth and reduce congestion.</p>
 <p>The entire NorthLink WA project will deliver much-needed extra road capacity to Perth's northeast, ensuring we address future demand as Ellenbrook’s population grows from 23,000 to a forecast 47,000 by 2031.</p>
@@ -18,6 +8,4 @@
 <p>The temporary roundabout will be located 500 metres northwest of the current traffic signals, allowing for the permanent switch of traffic onto the new Reid Highway bridge.</p>
 <p>New ramps in the interchange will open progressively as construction continues.</p>
 <p>Future works on the central section of NorthLink WA include interchanges at Hepburn Avenue, Gnangara Road and The Promenade at Ellenbrook, with flyovers at Beechboro Road North and Marshall Road.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

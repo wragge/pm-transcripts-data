@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12038</transcript-id>
-    <title>Interview with Jon Faine, Radio 3LO </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Economic climate; beer excise; Internet gambling; greenhouse gas emissions; Alice Springs to Darwin Railway; Commonwealth-State financial relations; drugs campaign ad</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12038</transcript-id><title>Interview with Jon Faine, Radio 3LO </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Economic climate; beer excise; Internet gambling; greenhouse gas emissions; Alice Springs to Darwin Railway; Commonwealth-State financial relations; drugs campaign ad</p>
 <p>E&amp;OE................................ </p>
 <p>FAINE:</p>
 <p>The Prime Minister of Australia and the Member for Bennalong in the Federal Parliament, John Howard joins me in the studio. Good morning to you Mr Howard.</p>
@@ -224,6 +214,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

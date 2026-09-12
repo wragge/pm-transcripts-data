@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21306</transcript-id>
-    <title>Interview with Wolf Blitzer CNN, Washington DC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BLITZER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21306</transcript-id><title>Interview with Wolf Blitzer CNN, Washington DC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BLITZER:</p>
 <p>Prime Minister, welcome to the United States, thanks very much for joining us. As we speak, you've just met with the President, is there any daylight between the Australian position and the US position as far as troop deployments post-June 30th in Iraq?</p>
 <p>PRIME MINISTER:</p>
 <p>No there isn't. Our objectives are the same and we both welcome the formation of the Iraqi interim government. This is a huge step forward because you have Iraqis being identified not only by their own people but by the rest of the world as the leaders of that country and this is a very necessary step down the path to a democratic Iraq in the future.</p>
@@ -54,6 +44,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

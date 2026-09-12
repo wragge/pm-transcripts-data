@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18573</transcript-id>
-    <title>Transcript of doorstop interview, Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18573</transcript-id><title>Transcript of doorstop interview, Brisbane</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm delighted to be here this morning with Graham Perrett in his federal electorate of Moreton, continuing to talk to families here in Queensland about last week's budget.</p>
 <p>Last week we returned the budget to surplus, which was the right thing to do for our economy, to make sure we've got a buffer for the future, and also because we want to give the Reserve Bank the maximum room to move on interest rates if it chooses to do so.</p>
 <p>And for families in Graham's electorate, right around Queensland, right around the nation, when interest rate reductions happen they're very welcome, reducing the cost of the mortgage.</p>
@@ -97,6 +87,4 @@ PM: I'm delighted to be here this morning with Graham Perrett in his federal ele
 <p>PM: I haven't studied the specific report that's in today's papers. Generally on climate change I say we do have to listen to the scientists. </p>
 <p>I mean we do that in other areas of life when it comes to, you know, medical advances, medical health, we listen to the scientists. Scientists tell us that smoking causes lung cancer, we listen to them, scientists tell us that you can get skin cancer from too much sun exposure, we listen them. When they tell us our climate is changing we should listen to them too.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

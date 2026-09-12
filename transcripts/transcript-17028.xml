@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17028</transcript-id>
-    <title>Transcript of interview 4BC Breakfast   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/01/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Kevin, welcome to the show.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17028</transcript-id><title>Transcript of interview 4BC Breakfast   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/01/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Kevin, welcome to the show.</p>
 <p>PM: Good morning guys. I was a big fan of the Addams Family....in the Addams Family, which roles would you play?</p>
 <p>HOST: I would be Lurch.</p>
 <p>HOST: Yeah, he'd be Uncle Fester I think.</p>
@@ -55,6 +45,4 @@
 <p>HOST: Very diplomatic. And you are in the draw for the digital radio that we have every caller on for, so if you win it, I'll call you back. If you just leave your mobile with our producer.</p>
 <p>HOST: Okay, shall do. Be good guys. Or in your case, just be better.</p>
 <p>HOST: Thank you very much Prime Minister Kevin Rudd.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

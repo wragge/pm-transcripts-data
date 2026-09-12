@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17023</transcript-id>
-    <title>Prime Minister Transcript of interview on 6PR with Simon Beaumont 27 January 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/01/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BEAUMONT: Prime Minister, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17023</transcript-id><title>Prime Minister Transcript of interview on 6PR with Simon Beaumont 27 January 2010  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/01/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BEAUMONT: Prime Minister, good morning to you.</p>
 <p>PM: Good morning.</p>
 <p>BEAUMONT: Prime Minister, the day after Australia Day, Ray Martin says change the flag, Dick Smith says lower immigration levels, Professor McGorry says do away with long-term detention and Ernie Dingo over here says we need to study Indigenous history. Do we whinge too much on Australia Day?</p>
 <p>PM: You know, the great thing about Australia is that everyone gets to have their own say - free country and everyone should be able to exercise freedom of speech, and we all have a different view on each of the ones that you've just been through. But do you know what I've discovered as I've gone around the country this last week and hosted Australia Day receptions in every state capital, including Perth, is frankly, what I discover is the spirit of the can do, which is 'here's a problem, how do we go and fix it?', rather than sitting around moping about it and whinging, and I just see that time and time again, right across the country, including in WA.</p>
@@ -67,6 +57,4 @@
 <p>BEAUMONT: PM, thanks for your time. Thanks for speaking to our listeners today. We appreciate it.</p>
 <p>PM: And it's good to be talking to our friends in WA.</p>
 <p>BEAUMONT: Thanks, Kevin. Good on you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21170</transcript-id>
-    <title>Interview with Matthew Abraham &amp; David Bevan  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/03/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21170</transcript-id><title><![CDATA[Interview with Matthew Abraham &amp; David Bevan  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/03/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>  Prime Minister John Howard, welcome to the 891 Studios.</p>
 <p>  PRIME MINISTER:</p>
 <p>Thank you very much.  Good to be here.  Nice studio.</p>
@@ -247,6 +237,4 @@
 <p>JOURNALIST:</p>
 <p>And Janette will know how to open those, but just be careful flicking under the lid. And keep the jar, that jar dates back to 1950 so it';s a collectors'; item like me, and like you.  Prime Minister John Howard, thank you for coming into our studio this morning and thank you for taking so many calls from our listeners on 891 ABC Adelaide, ABC South Australia and Broken Hill, it';s one minute to nine.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18300</transcript-id>
-    <title>Designing a National Disability Insurance Scheme </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/12/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18300</transcript-id><title>Designing a National Disability Insurance Scheme </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/12/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Government today announced a new agency will be established to lead the Commonwealth's work to design the launch of a National Disability Insurance Scheme (NDIS).</p>
 <p>The agency will also oversee new projects to that identify practical ways to prepare the disability sector and workforce, and people with disability, to move to a new ways of delivering disability services.</p>
 <p>The Gillard Government will provide $10 million for projects that examine how to deliver individual, personalised care, ending the crisis-driven approach that is still sometimes applied.</p>
@@ -25,6 +15,4 @@ The Gillard Government today announced a new agency will be established to lead 
 <p>That is why the Australian Government is committed to working in partnership with the states and territories, who have primary responsibility for disability services, in designing the launch of a scheme.</p>
 <p>We will consult with state and territory governments and other experts to ensure we draw on their experience in running disability support services and long-term care and support schemes.</p>
 <p>This design work will help inform the launch of an NDIS in select locations around the country.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24808</transcript-id>
-    <title>Pacific Islands Forum</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/09/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I will travel to Port Moresby to attend the Pacific Islands Forum (PIF) Leaders’ Meeting.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24808</transcript-id><title>Pacific Islands Forum</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/09/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I will travel to Port Moresby to attend the Pacific Islands Forum (PIF) Leaders’ Meeting.</p>
 <p>The PIF is the pre-eminent regional organisation in the Pacific.</p>
 <p>Australia has been an active participant in the PIF since its inception in 1971.</p>
 <p>The Forum underpins regional cooperation. It facilitates greater economic engagement and social development.</p>
@@ -17,7 +7,5 @@
 <p>While in Papua New Guinea, I will host a breakfast with members of the Australia-PNG Business Council to further encourage commercial ties between our nations.</p>
 <p>I also look forward to meeting with Prime Minister Peter O’Neill.</p>
 <p>It will be an opportunity to congratulate PNG on its 40th anniversary of independence.</p>
-<p>9 September 2015 </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>9 September 2015&nbsp;</p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11261</transcript-id>
-    <title>RELEASE OF COASTAL SURVEILLANCE REPORTS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/07/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11261</transcript-id><title>RELEASE OF COASTAL SURVEILLANCE REPORTS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/07/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
   Over recent months the government has considered the independent inquiry</p>
 <p> by Air Vice Marshal Alan Heggen AO (retired) into the illegal boat</p>
 <p> landings at Nambucca Heads and Cairns and the report of the Prime</p>
@@ -29,6 +19,4 @@
 <p> is serious about the issue of illegal immigration and in gaining the</p>
 <p> understanding and support of all Australians in the fight against</p>
 <p> illegal immigration.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

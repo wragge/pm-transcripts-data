@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16728</transcript-id>
-    <title>The Prime Minister starts his national conversation on health    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/08/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: We've got a big job ahead of us as far as National Health and Hospitals Reform is concerned. Prior to the last election we said there were real stresses in the system. And therefore, we commissioned the National Health and Hospital Reform Commission to look at it root and branch, and systemically. That is, if we are trying to prepare for the next generation of health challenges, how do we do it best? And they've provided us with their report and its conclusions and its recommendations about three weeks ago. We're now putting it out to the public, and wanting the public's response. In particular, we want the medical profession's response, we want the nursing profession's response, we want responses from acute hospitals like this, because you are so much of the front line of what the nation does.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16728</transcript-id><title>The Prime Minister starts his national conversation on health    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/08/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: We've got a big job ahead of us as far as National Health and Hospitals Reform is concerned. Prior to the last election we said there were real stresses in the system. And therefore, we commissioned the National Health and Hospital Reform Commission to look at it root and branch, and systemically. That is, if we are trying to prepare for the next generation of health challenges, how do we do it best? And they've provided us with their report and its conclusions and its recommendations about three weeks ago. We're now putting it out to the public, and wanting the public's response. In particular, we want the medical profession's response, we want the nursing profession's response, we want responses from acute hospitals like this, because you are so much of the front line of what the nation does.</p>
 <p>PM: Now, your treatment here, is it all going okay?</p>
 <p>PATIENT: Yeah, it's going great. The only problem is that it takes a while to get in because of a bed shortage.</p>
 <p>PM: No, I understand.</p>
@@ -18,6 +8,4 @@
 <p>PATIENT: Yeah sure.</p>
 <p>PM: But we're setting out as a reform goal for the future, so it's more personal, patient-focussed.</p>
 <p>PM: The process from here is a national conversation which is primarily about us listening to you about what you think about this. Both in forums like this, but online as well.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

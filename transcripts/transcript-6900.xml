@@ -1,39 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6900</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>02/05/1986</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006900.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-,, AUSTRALIA~<br />
-FOR MEDIA 2 MAY 1986<br />
-I received an urgent message last night, 1 May, from the Papua<br />
-New Guinea Prime minister, Mr Paias Wingti, seeking assistance<br />
-from the Australian Government in the provision of a Hercules<br />
-aircraft to transport urgently needed chemicals, protective<br />
-clothing and equipment for the treatment of coffee fungus rot<br />
-which has been identified in the Baiyer River area of the Western<br />
-Highlands of Papua New Guinea. The disease is threatening the<br />
-$ 300m a year coffee industry, a most important element in the PNG<br />
-economy.<br />
-The minister for Defence has approved the availability of a C130<br />
-Hercules for this purpose. The aircraft is on standby at RAAF<br />
-Richmond Air Base and will depart for Papua New Guinea as soon as<br />
-the chemicals and materials identified by PNG authorities have<br />
-been procured. It is hoped the aircraft will depart this<br />
-afternoon direct to Mount Hagen.<br />
-The Natural Disasters Organisation has responded quickly in<br />
-co-ordinating assistance required to meet this request from the<br />
-PNG Government.<br />
-I am pleased that the Government is able to assist the PNG<br />
-Government in their efforts to eradicate the coffee rust disease.<br />
-I have conveyed to Mr Wingti my personal wishes for the PNG<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6900</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>02/05/1986</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006900.pdf</document><subjects></subjects><content><![CDATA[<p>
+,, AUSTRALIA~<br>
+FOR MEDIA 2 MAY 1986<br>
+I received an urgent message last night, 1 May, from the Papua<br>
+New Guinea Prime minister, Mr Paias Wingti, seeking assistance<br>
+from the Australian Government in the provision of a Hercules<br>
+aircraft to transport urgently needed chemicals, protective<br>
+clothing and equipment for the treatment of coffee fungus rot<br>
+which has been identified in the Baiyer River area of the Western<br>
+Highlands of Papua New Guinea. The disease is threatening the<br>
+$ 300m a year coffee industry, a most important element in the PNG<br>
+economy.<br>
+The minister for Defence has approved the availability of a C130<br>
+Hercules for this purpose. The aircraft is on standby at RAAF<br>
+Richmond Air Base and will depart for Papua New Guinea as soon as<br>
+the chemicals and materials identified by PNG authorities have<br>
+been procured. It is hoped the aircraft will depart this<br>
+afternoon direct to Mount Hagen.<br>
+The Natural Disasters Organisation has responded quickly in<br>
+co-ordinating assistance required to meet this request from the<br>
+PNG Government.<br>
+I am pleased that the Government is able to assist the PNG<br>
+Government in their efforts to eradicate the coffee rust disease.<br>
+I have conveyed to Mr Wingti my personal wishes for the PNG<br>
 Government's early success in eradicating the disease. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

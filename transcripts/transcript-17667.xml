@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17667</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17667</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Good morning. I understand a number of you have probably got questions about Egypt and I'll be happy to take those questions at the appropriate time but I'm actually here to make a major statement about health.</p>
 <p>Can I start by saying we know that our hospitals face an enormous funding challenge. When we look at hospital costs and health expenditure the rate of increase in hospital costs is faster than the rate of increase in the revenues available to state governments. If nothing is done to fix that it means over time state governments will find it harder and harder to properly fund hospitals and that means patients will find it harder and harder to get the care that they need. Indeed if you look at the projections of the growth of hospital costs as compared to state revenues, if nothing is done states will face a situation where hospital costs overwhelm their state revenues. That is, they would not have money left to fund other essential services like police and like education.</p>
 <p>This is an unsustainable position and it requires genuine reform. Last year Kevin Rudd as Prime Minister sought to tackle this major challenge for the nation. He was the first Australian Prime Minister to step up to the plate and to seek to deal with this major challenge for Australians and the future of their health care system.</p>
@@ -169,6 +159,4 @@ PM: Good morning. I understand a number of you have probably got questions about
 <p>So, that is a song of great emotional warmth and attachment for Australians, but I can't agree with Jeff that is should substitute for the national anthem.</p>
 <p>I am at least relieved that he hasn't suggested the Hawthorn club song.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

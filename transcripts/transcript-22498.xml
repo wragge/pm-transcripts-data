@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22498</transcript-id>
-    <title>Doorstop Interview The Westin Hotel, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/10/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22498</transcript-id><title>Doorstop Interview The Westin Hotel, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/10/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Costa wants you to sack Mr Costello. Are you going to do as you are told?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh yes, that is the joke of the year.  Mr Costa telling me to sack Mr Costello, well I think Mr Costello has been the best Treasurer Australia has ever had, that is my reply to Mr Costa.</p>
@@ -55,6 +45,4 @@
 <p>The point I made was that the commitment the President gave to me had to be delivered, that's the point I made, and he said that it would happen. And then when it didn't happen immediately I expressed my concern and it has now happened.</p>
 <p>  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

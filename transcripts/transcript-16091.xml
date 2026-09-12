@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16091</transcript-id>
-    <title>Interview With Phillip Clark,  Radio 2GB Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CLARK: Mr Rudd, good afternoon.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16091</transcript-id><title>Interview With Phillip Clark,  Radio 2GB Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CLARK: Mr Rudd, good afternoon.</p>
 <p>PM: Philip, thanks for having me on your program.</p>
 <p>CLARK: Well, welcome to the program, it is going to be a busy time. Parliament is back and the Senate is already saying we are not going to pass anything, at least the Opposition in the Senate.</p>
 <p>I mean how big a problem is this going to be for you, because you really are going to have to negotiate with a whole panoply of players up there. You have got Nick Xenophon from South Australia, you have got Family First, Senator Steve Fielding, you have got the Greens and the Opposition?</p>
@@ -43,6 +33,4 @@
 <p>These are major education quality reforms which have put out there today, and they are as important as injecting more money into the system overall as well.</p>
 <p>CLARK: Okay, I know you've got to go. I appreciate your time. We'll look forward to having you in the studio shortly.</p>
 <p>PM: I look forward to it Philip.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

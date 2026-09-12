@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15835</transcript-id>
-    <title>Doorstop Interview, Residence of the Australian Ambassador,  Washington  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Good morning. You're all looking chipper. Today in Washington we have another full set of appointments. I am looking forward to catching up with the Republican nominee for the Presidential election, Senator John McCain.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15835</transcript-id><title>Doorstop Interview, Residence of the Australian Ambassador,  Washington  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Good morning. You're all looking chipper. Today in Washington we have another full set of appointments. I am looking forward to catching up with the Republican nominee for the Presidential election, Senator John McCain.</p>
 <p>I have met Senator McCain once before, I am looking forward to renewing that relationship. I have said during the course of this visit that this relationship, this alliance with the United States has been supported by 12 U.S Presidents, Republican and Democrat and 13 Australian Prime Ministers, Labor and Liberal, and I am the 14th.</p>
 <p>Whoever becomes the 13th President of the United States, since we began our alliance, what we know is that this alliance will have support whether it is from the Republican side or the Democratic side.</p>
 <p>Our alliance with the United States should be and should always remain above party politics. Part of my purpose here in Washington is to make sure that I have made contact with the Democratic party side. And as you know I spoke to both their remaining candidates yesterday. On the Republican side I am speaking to Senator John McCain today.</p>
@@ -54,6 +44,4 @@
 <p>JOURNALIST: So Hillary or Obama?</p>
 <p>PM: I think even when you are doing Rove, you don't even attempt to predict. And I am certainly not in the business of doing that now.</p>
 <p>Critically, Democrat or Republican, you know this alliance is going to be in good hands here in the United States. It is very important that we don't get in the business of picking one political party over another. As it seemed to be that my predecessor may have done at a certain time. Ok, thanks.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21204</transcript-id>
-    <title>Interview with Paul Murray Radio 6PR </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21204</transcript-id><title>Interview with Paul Murray Radio 6PR </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
   MURRAY:</p>
 <p>And the Prime Minister is on the line now.  Good morning, Prime Minister.</p>
 <p>PRIME MINISTER:</p>
@@ -87,6 +77,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay then. Goodbye.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

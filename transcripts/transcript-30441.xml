@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>30441</transcript-id>
-    <title>Address to the Nation </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/09/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>19 September 1999</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>30441</transcript-id><title>Address to the Nation </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/09/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>19 September 1999</strong></p>
 <p>As I speak to you tonight, 2,000 young Australians are preparing to go to East Timor.</p>
 <p>It is our nation's largest military involvement for more than 30 years.</p>
 <p>The Government's decision to commit Australian forces to the multi-national peacekeeping operation in East Timor, sponsored by the United Nations, was not taken lightly. We decided to do it, not only because it was right but also because it was in our national interest to do so.</p>
@@ -45,6 +35,4 @@
 <p>They go with our goodwill and total support.</p>
 <p>We wish them Godspeed and a safe return home.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11548</transcript-id>
-    <title>The Foundation for Young Australians</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/06/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce a Commonwealth endowment of $15 million for the new Foundation for Young Australians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11548</transcript-id><title>The Foundation for Young Australians</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/06/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce a Commonwealth endowment of $15 million for the new Foundation for Young Australians.</p>
 <p>The Foundation for Young Australians has been created as a result of a merger between the Australian Youth Foundation and the Queen's Trust for Young Australians.  It has been established at this time in order to mark the Centenary of Federation.</p>
 <p>The Foundation will continue the important work of its predecessors as a non-profit organisation providing practical initiatives to help disadvantaged young people, and to promote excellence and leadership amongst the younger generation.</p>
 <p>The Commonwealth endowment will initially be used to fund the 'Centenary Scholarships for Young Australians', providing support for 100 young people to undertake undergraduate or post-graduate study in academic and vocational areas.  This will be a valuable Centenary of Federation project.</p>
@@ -18,6 +8,4 @@
 <p>In addition to its existing resources and the Commonwealth endowment, the Foundation will be seeking support from other Australian governments and from the private sector.</p>
 <p>In this way, The Foundation for Young Australians is building a social coalition between government, business and the community that is working to provide practical assistance for the benefit of young Australians, and in doing so, to strengthen local communities.</p>
 <p>1 June 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

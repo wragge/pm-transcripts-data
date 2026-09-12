@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24173</transcript-id>
-    <title>Interview with Paul Murray, Paul Murray Live, Sky News </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/02/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The Government’s policy priorities for 2015,  jobs and families package,  Address to the National Press Club,  Senate,  Daesh death cult,  Martin Place siege. </subjects>
-    <content><![CDATA[<p><strong>PAUL MURRAY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24173</transcript-id><title>Interview with Paul Murray, Paul Murray Live, Sky News </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/02/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The Government’s policy priorities for 2015, jobs and families package, Address to the National Press Club, Senate, Daesh death cult, Martin Place siege.</subjects><content><![CDATA[<p><strong>PAUL MURRAY: </strong></p>
 <p>Prime Minister, thanks so much for joining us.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good to be with you, Paul.</p>
@@ -113,6 +103,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

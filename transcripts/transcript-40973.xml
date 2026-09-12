@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40973</transcript-id>
-    <title>Statement on the attack in Manchester</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>23/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40973</transcript-id><title>Statement on the attack in Manchester</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>23/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you, Mr Speaker.</p>
 <p>Australia's heartfelt sympathy and resolute solidarity is with the people of the United Kingdom. We stand with them today as we always have and always will, steadfast allies in freedom's cause.</p>
 <p>So far, we know that at least 19 people have been killed and about 60 injured, as the result of an explosion at the Manchester Arena shortly after the conclusion of an Ariana Grande concert last night.</p>
@@ -21,7 +11,7 @@
 <p>Already, Mr Speaker, we are seeing the stories of bravery, solidarity and compassion emerging from this tragedy, as people rallied without a second thought to help each other. Emergency workers rushed to the arena, towards the danger, as concert goers fled from it. On the streets and online, beds, phone chargers, cups of tea were being offered to those caught up in the attack. Now this morning, I've spoken with our counterterrorism coordinator Tony Sheehan, to Alexander Downer, our High Commissioner in London who is liaising closely with British authorities. I've also spoken to her excellency the British High Commissioner, Menna Rawlings and Mr Speaker, as you acknowledged, we welcome the presence of her deputy Ingrid Southworth in the house today.</p>
 <p>In this House, built upon the values and the freedoms of British people, of the British Parliament itself, surrounded, here we are, reminded of the freedoms that British people established at Westminster.</p>
 <p>We stand with you and we thank you for being here with us today.</p>
-<p>The Australian High Commission in London is making urgent inquiries to determine if any Australians have been affected by this attack. I urge any Australians in the UK to heed the advice of the British authorities and to contact the United Kingdom's anti-terrorist hotline if you have any information that you think may be relevant to the incident in Manchester. Australians in the UK or at home, who are concerned about friends or relatives who could be affected by this attack, should call the Department of Foreign Affairs and Trade consular line.</p>
+<p>The Australian High Commission in London is making urgent inquiries to determine if any Australians have been affected by this attack. I urge any Australians in the UK to heed the advice of the British authorities and to contact the United Kingdom's anti-terrorist hotline if you have any information&nbsp;that you think may be relevant to the incident in Manchester. Australians in the UK or at home, who are concerned about friends or relatives who could be affected by this attack, should call the Department of Foreign Affairs and Trade consular line.</p>
 <p>Within Australia, it is 1300 555 135 and from overseas, +61 26261 3305.</p>
 <p>Now Mr Speaker, Australian and British agencies work closely together, none closer, right across the full spectrum of our counterterrorism work.</p>
 <p>These partnerships are enduring and they are essential to keeping our nation safe. This attack comes just two months after a terrorist targeted Westminster, striking at the very heart of the democracy, killing six innocent people.</p>
@@ -31,6 +21,4 @@
 <p>Now, Mr Speaker, too often, we stand in this chamber offering our sympathy and support to those confronting horrific attacks like what we've seen today. Once again, Australia stands with Britain in resolute solidarity, partners in freedom's cause. Tireless in our defence of our people's safety and their liberty.</p>
 <p>Our nations will never give in to terror.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

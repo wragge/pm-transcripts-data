@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23686</transcript-id>
-    <title>Delivering better roads for South-Western Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>30/07/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth and NSW Governments are delivering on their commitment to upgrade Narellan Road to six lanes from Camden Valley Way at Narellan to Blaxland Road at Campbelltown.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23686</transcript-id><title>Delivering better roads for South-Western Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>30/07/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth and NSW Governments are delivering on their commitment to upgrade Narellan Road to six lanes from Camden Valley Way at Narellan to Blaxland Road at Campbelltown.</p>
 <p>The 6.8 kilometre upgrade is a much-needed investment to improve infrastructure in the Macarthur area and throughout the south-west Sydney growth corridor.</p>
 <p>When complete, people will spend less time in traffic jams and more time with their families, businesses will get their goods and services to market faster and everyone will benefit from safer roads.</p>
 <p>During construction this project is expected to generate 250 jobs and benefit local businesses.</p>
@@ -17,14 +7,14 @@
 <p>Western Sydney is already Australia's third-largest economy with the region expected to grow from two to three million people in the next 20 years.</p>
 <p>Stage One of the upgrade begins with 1.6 kilometres of Narellan Road between the Hume Motorway and the access road to the Western Sydney Institute and University of Western Sydney.</p>
 <p>Stage One of the Narellan Road upgrade includes:</p>
-<ul><li>upgrading to a six lane divided road, generally three lanes in each direction, with a central median and a three metre wide off-road shared pedestrian and cyclist path;</li>
+<ul>
+<li>upgrading to a six lane divided road, generally three lanes in each direction, with a central median and a three metre wide off-road shared pedestrian and cyclist path;</li>
 <li>widening the southbound off ramps from the Hume Motorway to Narellan Road to three lanes at the intersection with Narellan Road;</li>
 <li>upgrading the TAFE/University of Western Sydney roundabout to dual lanes;</li>
 <li>providing an additional right turn lane into the TAFE/University for eastbound traffic and extending the right turn bay about 180 metres;</li>
 <li>providing dedicated dual left turn lanes and an additional right turn lane onto Narellan Road from the TAFE/University; and</li>
 <li>constructing an Incident Response Facility at the south east corner of the M31 Hume Motorway interchange.</li>
-</ul><p>The Commonwealth Government has provided $53 million towards the upgrade in addition to the NSW Government $61 million commitment.</p>
+</ul>
+<p>The Commonwealth Government has provided $53 million towards the upgrade in addition to the NSW Government $61 million commitment.</p>
 <p>30 July 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16144</transcript-id>
-    <title>Address to the United Nations General Assembly New York   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/09/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>We gather together at a time of great challenge to the international system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16144</transcript-id><title>Address to the United Nations General Assembly New York   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/09/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>We gather together at a time of great challenge to the international system.</p>
 <p>A challenge that reminds us afresh that we live in a world where our interdependence is now greater than at any time before.</p>
 <p>An interdependence that therefore demands our international cooperation now, more than at any time before.</p>
 <p>There are many who criticise the United Nations.</p>
@@ -153,6 +143,4 @@
 <p>Yet the need today in this age of unprecedented global interdependence, is greater than ever before.</p>
 <p>And so distinguished delegates, it falls to this generation to now summon the political faith  -  and to exercise the political will necessary  -  to act for the common purposes of the planet we all share.</p>
 <p>I thank you</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

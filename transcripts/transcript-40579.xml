@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40579</transcript-id>
-    <title>Interview with Neil Mitchell 3AW</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>11/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40579</transcript-id><title>Interview with Neil Mitchell 3AW</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>11/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Well I certainly do relate to Australian voters, it’s my job to connect with the electorate. That’s my job as the leader. I understand that what Australians want to see from their Government is strong leadership, in particular strong economic growth. One of the big differences between Australia and the United States Neil is that we have strong economic growth, we’ve had consistent growth in real incomes. What you’ve seen in the United States over a long period of time is flat lining in real terms –not just nominal terms –flat lining of middle incomes. That is one of the primary sources of that primal scream of which you spoke.</p>
 <p><strong>NEIL MITCHELL:</strong></p>
 <p>Do you think you’re getting the message through to Australian voters? Do they understand? I’ve had call after call of people saying no, people saying no.</p>
@@ -90,7 +80,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Look we’re a different society. We certainly are a more equal society. The Americans have much greater income inequality than Australia. We have seen strong growth in real incomes, in middle incomes in Australia, whereas in America they have been flat lining. So we have had stronger economic growth, number one. Number two, our welfare system is means tested – not entirely but it is largely means tested – it is well targeted, by and large. America’s is not.</p>
 
-<p>So one of the problems that the Americans have faced, is that in the recovery after the global financial crisis, it was described in some respects as a ‘jobless recovery’ and that even when jobs picked up, you weren’t getting the rise in incomes that you traditionally had. So Middle America can say they have been left behind. That income inequality is an issue in every society.  I am not suggesting it is not an issue here, but it is much less apparent in Australia than it is in America.</p>
+<p>So one of the problems that the Americans have faced, is that in the recovery after the global financial crisis, it was described in some respects as a ‘jobless recovery’ and that even when jobs picked up, you weren’t getting the rise in incomes that you traditionally had. So Middle America can say they have been left behind. That income inequality is an issue in every society.&nbsp; I am not suggesting it is not an issue here, but it is much less apparent in Australia than it is in America.</p>
 <p><strong>NEIL MITCHELL:</strong></p>
 
 <p>Is it correct that you are close to a deal with the United States on the refugees, asylum seekers, Nauru and Manus island?</p>
@@ -154,6 +144,4 @@
 <p>Prime Minister thank you for your time.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Great to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41492</transcript-id>
-    <title>First states commit to Redress Scheme</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/03/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New South Wales and Victoria will be the first states to opt into the National Redress Scheme for people who were sexually abused as children while in the care of institutions.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41492</transcript-id><title>First states commit to Redress Scheme</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/03/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New South Wales and Victoria will be the first states to opt into the National Redress Scheme for people who were sexually abused as children while in the care of institutions.</p>
 <p>The Redress Scheme will provide critical support to those who have suffered past wrongs, including abuse, community silence and institutional corruption that meant survivors weren’t listened to, believed or acknowledged.</p>
 <p>Subject to the passage of legislation, the Redress Scheme will commence on 1 July. It will offer access to psychological counselling, a direct personal response from the institution where the abuse occurred and a monetary payment. Redress is a result of the Royal Commission into Institutional Responses to Child Sexual Abuse.</p>
 <p>Redress isn’t compensation. The process is about healing and moving forward while accepting the system failed every single person in Australia who suffered sexual abuse in an institution that was meant to protect them.</p>
@@ -27,12 +17,12 @@
 <p>“Victoria wants to ensure that survivors are respected, that their pain and suffering is recognised, and that they get the support they need.</p>
 <p>“We acknowledge that the scheme does not contain every element that every survivor of abuse may wish to see in it, however this is a ground-breaking agreement which will benefit thousands of people.”</p>
 <p>If all states and institutions across Australia opt in, the scheme could provide redress to around 60,000 people estimated by the Royal Commission to have been abused in institutions.</p>
-<p>Support services are available to assist people who experienced institutional child sexual abuse. People can contact these support services provided as part of the Royal Commission into Institutional Responses to Child Sexual Abuse.</p>
+<p>Support services are available to assist people who experienced institutional child sexual abuse. People can contact&nbsp;these support services provided as part of the Royal Commission into Institutional Responses to Child Sexual Abuse.</p>
 <p>Those who need immediate assistance can contact:</p>
-<ul><li>Lifeline on 13 11 14</li>
+<ul>
+<li>Lifeline on 13 11 14</li>
 <li>1800Respect on 1800 737 732</li>
 <li>Blue Knot Foundation on 1300 657 380</li>
 <li>MensLine Australia on 1300 789 978.</li>
-</ul>]]></content>
-  </transcript>
-</transcripts>
+</ul>
+]]></content></item></response>

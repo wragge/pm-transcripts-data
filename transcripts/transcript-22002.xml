@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22002</transcript-id>
-    <title>Doorstop Interview Hopevale </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/10/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22002</transcript-id><title>Doorstop Interview Hopevale </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/10/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Prime Minister is indigenous homeownership something that's likely to happen in the next ten years, or do you think it's more a long term issue?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I hope that certainly within that timeframe it becomes a reality for a number of indigenous people, it will obviously take quite a while for it to spread through the whole community because people need the money to buy the homes. But we have made a great advance, the concept is now being debated and it has growing support. It's all part of self-improvement, self-reliance and economic independence. (inaudible) know what home ownership means to family and community stability. And I want that family and community stability extended to our fellow Australians who are indigenous.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>I believe so, there's a new mood in the Pacific. Once again self-help, self-reliance is assuming a greater significance. But we want to help and we understand our responsibilities. But we want measured improvements in governance and also a sensible use of resources as a condition of our aid.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

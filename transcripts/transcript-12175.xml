@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12175</transcript-id>
-    <title>Federal Funding to make F3 Wider and Safer </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/05/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Federal Government will provide $80m to fast track the widening of the F3 Freeway between the Hawkesbury River and Calga on the New South Wales central coast.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12175</transcript-id><title>Federal Funding to make F3 Wider and Safer </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/05/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Federal Government will provide $80m to fast track the widening of the F3 Freeway between the Hawkesbury River and Calga on the New South Wales central coast.</p>
 <p>The F3 Freeway between Sydney and Gosford is one of the busiest National Highway corridors, carrying 40,000 vehicles daily.</p>
 <p>The Government's decision to fund the widening of the F3 follows strong advocacy by the Member for Robertson Mr Jim Lloyd, who has lobbied for improvements to the efficiency of this important link between Sydney and the Central Coast.</p>
 <p>Travel delays due to congestion or accidents are becoming more common on the F3, particularly between the Hawkesbury River Bridge and Mount White, a section which has a high accident rate.</p>
@@ -17,6 +7,4 @@
 <p>The funding will come from the $1.6 billion road funding package announced by the government last year.</p>
 <p>To minimise intrusions into neighbouring bushland, the work will be predominantly within the existing road reserve and along the existing alignment.</p>
 <p>17 May 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

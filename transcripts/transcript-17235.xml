@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17235</transcript-id>
-    <title>Prime Minister Transcript of interview with Tim Cox ABC Hobart 22 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Kevin Rudd, good to have you with us again. Good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17235</transcript-id><title>Prime Minister Transcript of interview with Tim Cox ABC Hobart 22 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Kevin Rudd, good to have you with us again. Good morning.</p>
 <p>PM: Good morning, Tim. Thanks for having me on the program.</p>
 <p>HOST: What exactly are you looking to achieve in Tasmania's hospitals, one, with a visit today, and two, in a wider sense?</p>
 <p>PM: Well, let's be very clear about it - what we're trying to do is deliver better health and better hospital services to all Australians and all Tasmanians, and that's why we, together with the Tasmanian Premier, reached agreement in Canberra just a few days ago on a new National Health and Hospitals Network, funded nationally, run locally, and for the first time the Australian Government being the dominant funder of the public hospital system of Australia.</p>
@@ -38,6 +28,4 @@
 <p>PM: Can I say it's always been the continuing concern of the Government and will remain so and Minister Combet has been re-evaluating all of those matters to make sure that these things are done properly and in the safest way possible and I have absolute confidence that he's doing a first-class job.</p>
 <p>HOST: Mr Rudd, thanks for your time.</p>
 <p>PM: Thanks. Appreciate you having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

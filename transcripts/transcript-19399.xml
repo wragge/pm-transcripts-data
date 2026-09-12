@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19399</transcript-id>
-    <title>New $114 million sports and education centre for Fremantle</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/06/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19399</transcript-id><title>New $114 million sports and education centre for Fremantle</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/06/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Perth</p>
 <p>A new regional sports and community centre - including an aquatic centre and permanent training facilities - will be built for the Fremantle Football Club.</p>
 <p>The $114 million complex will become a hub of sporting and community life in the area with both indoor and outdoor swimming pools for swimming competitions, water polo, hydrotherapy and children's activities. It will also include an indoor stadium with seven highball courts and a gymnasium.</p>
 <p>The Gillard Government is contributing $10 million to the project through the Regional Development Australia Fund.</p>
@@ -25,6 +15,4 @@
 <p>The application process for this round of funding proved very competitive, with all proposals scrutinised against eligibility, risk, viability and value-for-money criteria.</p>
 <p>The Federal Government places tremendous importance on strong, sustainable regional towns and communities.</p>
 <p>Further information on the Regional Development Australia Fund can be found at <a href="http://www.regional.gov.au">www.regional.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

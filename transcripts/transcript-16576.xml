@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16576</transcript-id>
-    <title>Interview with Leon Byner Radio 5AA - Adelaide   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BYNER: Prime Minister Kevin Rudd. Prime Minister, thanks for joining us today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16576</transcript-id><title>Interview with Leon Byner Radio 5AA - Adelaide   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BYNER: Prime Minister Kevin Rudd. Prime Minister, thanks for joining us today.</p>
 <p>PM: Good to be back in Adelaide Leon.</p>
 <p>BYNER: Well I'm glad you are. Now, I know you're down south and I want to run by you a caller typical of those businesses in the region where you've been today.</p>
 <p>PM: Yeah.</p>
@@ -42,6 +32,4 @@
 <p>PM: We would have unemployment much, much higher. We would have a much deeper recession and a much slower recovery and many other families hit hard and hit personally by this recession which is brought to us courtesy of the global financial crisis beginning in the United States.</p>
 <p>BYNER: Prime Minister, thanks for your time this morning.</p>
 <p>PM: Good to be back in Adelaide Leon. I'm told by my staff this morning this is my 10th visit, I'm down here about every six weeks or so, so it's good to be back and good to be with the Premier this morning.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

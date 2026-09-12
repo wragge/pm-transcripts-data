@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11103</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH NEIL MITCHELL &amp;#150; 3AW                                                  SUBJECTS: Olympic Games, GST, Commonwealth/State financial                 relations, East Timor</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/04/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11103</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH NEIL MITCHELL &amp;#150; 3AW                                                  SUBJECTS: Olympic Games, GST, Commonwealth/State financial                 relations, East Timor]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/04/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................................................................................................</p>
 <p>MITCHELL:</p>
 <p>First today in our Sydney studio the Prime Minister. Mr Howard, good</p>
 <p> morning.</p>
@@ -326,6 +316,4 @@
 <p>CALLER:</p>
 <p>No.</p>
 <p>PRIME MINISTER:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18169</transcript-id>
-    <title>New job opportunities for Tasmania</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18169</transcript-id><title>New job opportunities for Tasmania</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced the start of stage three of the rollout of the National Broadband Network  -  creating up to 800 new jobs.</p>
 <p>The stage three rollout will extend to a further 90,000 homes and businesses in Burnie, Devonport, Launceston and Hobart, employing around 800 workers at its peak.</p>
 <p>By June next year, the NBN will be rolling out across 12 sites in Tasmania with each site employing around 40 workers.</p>
@@ -30,6 +20,4 @@ Prime Minister Julia Gillard today announced the start of stage three of the rol
 <p>These students are among a record number of nearly 47,000 Tasmanians studying to gain formal qualifications through Vocational Education and Training.</p>
 <p>The Gillard Labor Government will host the Future Jobs Forum this week, attended by industry and union leaders.</p>
 <p>All parties will work together at the forum, exploring practical and innovative measures to create the jobs of the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

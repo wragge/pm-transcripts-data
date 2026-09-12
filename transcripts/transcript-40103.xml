@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40103</transcript-id>
-    <title>Tsunami Memorial</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>03/12/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Indian Ocean tsunami that occurred almost 11 years ago tragically took the lives of approximately 230,000 people – 26 of whom called Australia home.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40103</transcript-id><title>Tsunami Memorial</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>03/12/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Indian Ocean tsunami that occurred almost 11 years ago tragically took the lives of approximately 230,000 people – 26 of whom called Australia home.</p>
 <p>On Boxing Day 2004, a 9.1 magnitude earthquake struck off the west coast of Sumatra, Indonesia. The resulting tsunami was one of the most horrific natural disasters in recorded history.</p>
 <p>All Australians were affected by the tsunami, but none more so than the families of our Australians who lost their lives.</p>
 <p>It is important we have a place where relatives of the Australians who died can gather as they share a special bond. Nobody else can understand what they went through.</p>
 <p>The tsunami memorial being unveiled in Canberra today will provide a place where Australians, particularly the relatives, can meet to reflect on the natural disaster and remember the Australians who lost their lives.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

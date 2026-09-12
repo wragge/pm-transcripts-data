@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17099</transcript-id>
-    <title>Taking full funding responsibility for GP and primary health care services    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will take full policy and funding responsibility for GP and primary health care services in Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17099</transcript-id><title>Taking full funding responsibility for GP and primary health care services    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will take full policy and funding responsibility for GP and primary health care services in Australia.</p>
 <p>This major structural change will break down the barriers in Australia's health system, deliver better integrated care to patients, and take pressure off hospitals.</p>
 <p>This change amounts to a $18.7 billion takeover of funding responsibility for primary health care and GP services from the states and territories over the upcoming forward estimates.</p>
 <p>Australia has a significantly higher rate of hospitalisation than comparable countries - double that of Canada and significantly higher than the United States, the UK and New Zealand.</p>
@@ -24,6 +14,4 @@
 <p>These reforms build upon the Government's existing investments in strengthening primary care, including:</p>
 <p>- Delivering 36 GP Super Clinics around the country</p>
 <p>- Increasing the number of GP training places by 35 per cent.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

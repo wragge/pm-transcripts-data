@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17329</transcript-id>
-    <title>Prime Minister Transcript of interview with Lyndal Curtis AM 7 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Mr Rudd, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17329</transcript-id><title>Prime Minister Transcript of interview with Lyndal Curtis AM 7 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Mr Rudd, welcome to AM.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>HOST: You've now had two opinion polls showing Labor's primary vote falling to the mid-30s. Today's poll shows you'd be swept from office if an election was held now. How much is that the fault of decisions you've taken?</p>
 <p>PM: Well, Lyndal, the truth is if these polls were reflected on election day, Mr Abbott will become the Prime Minister. So the challenge for me and for the Government is to work harder into the future. I've got a huge amount of work to do to explain my plans as opposed to Mr Abbott's plans.</p>
@@ -49,6 +39,4 @@
 <p>PM: I'll leave all the commentators to sort that one out. I mean, I think there have been about 1,000 pieces written on me in recent times. People can make their own judgement. At the end of the day, Lyndal, what I'll be judged on is what we've been able to achieve for Australia: have we been able to keep the economy strong; have we been able to deliver for families seeking a fairer share for their future; and the alternative, which is Mr Abbott's, and I believe those alternatives are pretty clear, but I go back to where we began our discussion this morning. These polls, if they are reflected on election day, Mr Abbott would be the next prime minister. I have a huge amount of work to do ahead of me.</p>
 <p>HOST: Prime Minister, thank you very much for your time.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

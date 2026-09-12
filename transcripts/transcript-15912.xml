@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15912</transcript-id>
-    <title>Interview with David Koch, Channel 7 Sunrise Program, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/05/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH:Prime Minister, welcome.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15912</transcript-id><title>Interview with David Koch, Channel 7 Sunrise Program, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/05/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH:Prime Minister, welcome.</p>
 <p>PM:Good Morning, Kochie. Good to see you have got a coat on.</p>
 <p>KOCH:I am not as tough as you.</p>
 <p>PM:I am not prepared for this.  </p>
@@ -50,6 +40,4 @@
 <p>Let's just see, let's just hope that this is not as bad in terms of overall loss of life as it looks right now but we will be watching it very carefully.</p>
 <p>KOCH:Terrific. Prime Minister, thank you for joining us this morning.</p>
 <p>PM:Thank you. I am glad you are warm.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

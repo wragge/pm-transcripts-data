@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18321</transcript-id>
-    <title>The Hon. John Howard OM AC SSI</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18321</transcript-id><title>The Hon. John Howard OM AC SSI</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I congratulate former Prime Minister John Howard on his appointment as a member of the Order of Merit.</p>
 <p>This high honour recognises Mr Howard's distinguished public service over many decades.</p>
 <p>As our second longest serving Prime Minister and a parliamentarian of 33 years, Mr Howard devoted his life to Australia.</p>
@@ -17,6 +7,4 @@ I congratulate former Prime Minister John Howard on his appointment as a member 
 <p>While Australians will inevitably have a variety of views about the record of the Howard Government, Mr Howard rightly commands ongoing respect for his contribution to the nation.</p>
 <p>Appointments to the Order of Merit are the gift of The Queen.</p>
 <p>Mr Howard now joins a small number of distinguished Australians to receive this honour, including  Sir Macfarlane Burnett, Lord Florey, Sir Sidney Nolan,  Dame Joan Sutherland and Lord May of Oxford.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

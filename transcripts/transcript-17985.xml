@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17985</transcript-id>
-    <title>Help to understand carbon price household assistance</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17985</transcript-id><title>Help to understand carbon price household assistance</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Government today outlined an easy way for Australian households to understand the assistance provided for the cost of living impacts of the carbon price.</p>
 <p>The online household assistance estimator is a guide to help families understand the impact a carbon price is expected to have on their budgets, as well as the assistance being provided.</p>
 <p>Prime Minister Julia Gillard today visited a family at Emu Plains in western Sydney where they viewed the online assistance estimator and discussed the Government's planned assistance that will be provided through a price on carbon.</p>
@@ -29,6 +19,4 @@ The Gillard Government today outlined an easy way for Australian households to u
 <p>In the vast majority of cases, households will not need to apply for assistance as it will be automatically delivered to them through the personal income tax and Government payment systems.</p>
 <p>Under the package, more than 1 million Australians will no longer need to lodge a tax return.</p>
 <p>The household assistance estimator and other information is available at <a href="http://www.cleanenergyfuture.gov.au">www.cleanenergyfuture.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

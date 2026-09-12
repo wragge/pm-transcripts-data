@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15425</transcript-id>
-    <title>Ulverstone Showground Upgrade - Stage Two</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/07/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Australian Government will commit $1.85 million to Stage 2 of the Ulverstone Showground upgrade.  </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15425</transcript-id><title>Ulverstone Showground Upgrade - Stage Two</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/07/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Australian Government will commit $1.85 million to Stage 2 of the Ulverstone Showground upgrade.  </p>
 <p>This proposed redevelopment will provide significant investment in new recreation facilities and new open space for the local community.</p>
 <p>I pay tribute to Mark Baker MP, the Member for Braddon and Senator Richard Colbeck, Liberal Senator for Tasmania, both of whom have worked hard to deliver on this important community project.</p>
 <p>With this commitment, the Central Coast Council will be able to relocate and develop the Ulverstone Showgrounds into a multi-purpose community facility to improve sport and recreation facilities for the community into the future. </p>
@@ -18,6 +8,4 @@
 <p>The showground and wharf are vital to long term prosperity of the Central Coast region. </p>
 <p>The Tasmania Government has been asked to contribute a similar amount to the project and the Central Coast Council has committed almost $1.9 million to the redevelopment.  </p>
 <p>If state funding is forthcoming this will be an excellent example of the three tiers of government working together to ensure regional Australia continues to take positive steps towards self-reliant communities and regions.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

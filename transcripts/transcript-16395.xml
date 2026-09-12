@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16395</transcript-id>
-    <title>Transcript of Interview with Tony Eastley ABC AM Program   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/02/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>EASTLEY: Prime Minister good morning. What was your reaction when you heard of what happened in Victoria last night?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16395</transcript-id><title>Transcript of Interview with Tony Eastley ABC AM Program   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/02/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>EASTLEY: Prime Minister good morning. What was your reaction when you heard of what happened in Victoria last night?</p>
 <p>PM: Like the rest of Australia, absolutely horrified. This is an appalling loss of life. An appalling loss of property. This is a terrible and devastating tragedy. And my thoughts and prayers go out to all those families and communities who've been affected by this extraordinary natural disaster.</p>
 <p>EASTLEY: What sort of briefings have you been able to get given that you heard about it only last night.</p>
 <p>PM: Well obviously Emergency Management Australia have been working their way through this, in coordination with the Victorian authorities during the course of yesterday. Late last night in Parliament House, Canberra we convened a meeting with the Director of Emergency Management Australia and the Financial Security Adviser and others, spoke directly to the Victorian Premier about particular forms of assistance which may be necessary. Following on from that meeting, the State Emergency Response Coordinator in Victoria has made a formal request for the activation of the Commonwealth Disaster plan. Immediately what's been requested is the supply of temporary bedding for emergency relief centres in the Baw Baw Shire. The Commonwealth Government of course has responded positively to that, and that will be activated immediately.</p>
@@ -18,6 +8,4 @@
 <p>EASTLEY: Okay, the Prime Minister Kevin Rudd. Thanks for joining us this morning on AM.</p>
 <p>PM: Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

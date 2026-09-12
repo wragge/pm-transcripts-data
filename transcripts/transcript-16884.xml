@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16884</transcript-id>
-    <title>Prime Minister invites all Australians to join Donate Life    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister Kevin Rudd today launched a new national program to help educate Australian families about organ and tissue donation, and their power to save lives.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16884</transcript-id><title>Prime Minister invites all Australians to join Donate Life    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister Kevin Rudd today launched a new national program to help educate Australian families about organ and tissue donation, and their power to save lives.</p>
 <p>The DonateLife Family public awareness program, backed up by a new workforce of medical specialists called the DonateLife Network, will encourage Australians to discover the facts about organ and tissue donation, make an informed decision and discuss their wishes with their family.</p>
 <p>As many as 40% of Australians are not aware that even if they are registered as an organ donor, their family will be asked to give consent for organ donation to proceed.</p>
 <p>Thirty five per cent of Australians don't discuss their wishes with their family.</p>
@@ -24,6 +14,4 @@
 <p>"Increasing the number of organ donors will help make transplantation possible for more seriously ill Australians. This now requires a public commitment because transplantation is touching the lives of more and more Australians," he said.</p>
 <p>To support Australians in having this important discussion, the new DonateLife website features a section that provides supporting materials for family discussion, including a downloadable DonateLife Family certificate.</p>
 <p><a href="http://www.donatelife.gov.au">www.donatelife.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

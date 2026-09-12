@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19086</transcript-id>
-    <title>Transcript of Speech at the opening of the Geelong Ring Road</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/02/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Geelong</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19086</transcript-id><title>Transcript of Speech at the opening of the Geelong Ring Road</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/02/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Geelong</p>
 <p>Thank you very much and what an exciting day getting to walk for the first time on this new stretch of road.</p>
 <p>And I'm very pleased so many people have come out to enjoy the experience, coming as it does with face-painting, fairy floss, heavens above there's a lot to do. So it's good to see everyone here.</p>
 <p>I'd like to particularly acknowledge the State Minister, Terry Mulder, and also my federal parliamentary colleagues, Darren Cheeseman, the Member for Corangamite and Richard Marles, the Member for Corio.</p>
@@ -37,6 +27,4 @@
 <p>So, a genuine partnership, one that is making a difference and will continue to make a difference.</p>
 <p>So enjoy your opportunity to saunter back and forth. This will be the only time you get to do that – the sauntering will be over, the vehicles will be on it, the road will be in full operation.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

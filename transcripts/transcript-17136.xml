@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17136</transcript-id>
-    <title>Prime Minister Transcript of interview on 2SM with Leon Delaney 16 March 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DELANEY: The Prime Minister of Australia, Kevin Rudd. Good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17136</transcript-id><title>Prime Minister Transcript of interview on 2SM with Leon Delaney 16 March 2010  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DELANEY: The Prime Minister of Australia, Kevin Rudd. Good morning.</p>
 <p>PM: Good morning, thank you for having me on your program.</p>
 <p>DELANEY: How are you today?</p>
 <p>PM: Really well, thank you.</p>
@@ -84,6 +74,4 @@
 <p>However, these are practical problems which we'll continue to deal with, as are all governments around the region and the world.</p>
 <p>DELANEY: Prime Minister, thank you for your time today.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20577</transcript-id>
-    <title>Appointment Of Secretary Of The Department Of Education, Science And Training </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/02/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the appointment of Dr Jeffrey Harmer as Secretary of the Department of Education, Science and Training.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20577</transcript-id><title>Appointment Of Secretary Of The Department Of Education, Science And Training </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/02/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the appointment of Dr Jeffrey Harmer as Secretary of the Department of Education, Science and Training.</p>
 <p> Dr Harmer will commence a three-year appointment on 10 March 2003. He will fill the vacancy left by the appointment of Dr Peter Shergold AM to my Department.</p>
 <p>Dr Harmer has been Managing Director of the Health Insurance Commission since 1998 and previously held positions at the Deputy Secretary level in the then Departments of Social Security and Housing and Regional Development. After completing a Diploma in Education, he went on to complete a Doctor of Philosophy at the University of New South Wales in the field of Economic/Urban Geography. A copy of Dr Harmer's curriculum vitae is attached.</p>
 <p>I am confident that Dr Harmer's extensive experience in policy development and programme delivery, as well as his work on numerous Commonwealth-State agreements, will fit him well for his new role.</p>
@@ -33,6 +23,4 @@
 <p>Various positions in several Commonwealth departments</p>
 <p>1973-78</p>
 <p>Tutor in Applied Economic Geography, University of New South Wales</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

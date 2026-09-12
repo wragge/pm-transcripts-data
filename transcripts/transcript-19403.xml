@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19403</transcript-id>
-    <title>Transcript of interview with Geoff Hutchison, ABC Perth</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/06/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19403</transcript-id><title>Transcript of interview with Geoff Hutchison, ABC Perth</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/06/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Perth</p>
 <p>E &amp; O E  -  PROOF ONLY</p>
 <p>HOST: Prime Minister, welcome to the program.</p>
 <p>PM: Good morning Geoff.</p>
@@ -104,6 +94,4 @@
 <p>PM: I'm very confident that when people vote on the 14th of September and they are facing such a clear choice between a government led by me with our very, very clear plan for the future.</p>
 <p>The investments that we want to make for the nation's future including particularly this week the investments that we want to make for our children and their future and consequently the future of our economy.</p>
 <p>I'm sure when people make a choice between those plans to invest in the future and the plans for cutbacks on the other side of politics that they will choose Labor.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

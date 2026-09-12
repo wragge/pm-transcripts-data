@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16988</transcript-id>
-    <title>Transcript of interview with Channel 9 news Copenhagen   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/12/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister Kevin Rudd joins us live, from the summit. Mr Rudd, are you disappointed?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16988</transcript-id><title>Transcript of interview with Channel 9 news Copenhagen   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/12/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister Kevin Rudd joins us live, from the summit. Mr Rudd, are you disappointed?</p>
 <p>PM: Of course it would be great to get a perfect agreement straight away. You're dealing with 190 countries around the world with radically different views. What we have landed is a significant global Accord on climate change action. It's the first time that we have the world community agreeing to keep temperature increases within two degrees Celsius. It's the first time the world community agrees, rich and poor countries, to take action to do that-</p>
 <p>HOST: But Prime Minister-</p>
 <p>PM: And the first time we've had the world community agreeing to monitor the actions which are taken.</p>
@@ -19,6 +9,4 @@
 <p>PM: The countries which put together this agreement represent more than 90% of greenhouse gas emissions. The biggest economies in the world. The emerging economies. The developed economies. Put those together, and what you have, therefore, is a way forward. It's not perfect, but for Australia as the hottest and driest continent on the earth, and, therefore, feeling the effects of climate change fastest and earliest and hardest, we need, in our national interest, to get global action- for our country, for our kids, for the Great Barrier Reef. This is important for Australia. It's not perfect, but we've got to take the next step forward, and this is it.</p>
 <p>HOST: Okay, thanks for your time Prime Minister.</p>
 <p>PM: Good to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

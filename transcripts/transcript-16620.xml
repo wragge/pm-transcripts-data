@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16620</transcript-id>
-    <title>Interview with David Koch and Melissa Doyle - Sunrise - Seven Network - Sydney    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DOYLE: Good morning to you, thank you for coming in.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16620</transcript-id><title>Interview with David Koch and Melissa Doyle - Sunrise - Seven Network - Sydney    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DOYLE: Good morning to you, thank you for coming in.</p>
 <p>PM: Good morning to both of you.</p>
 <p>DOYLE: Swine flu is all everyone's talking about. The emails are coming in thick and fast. We've had rugby league players quarantined. We've had a Swimming Australia meet cancelled. A lot of the response at this point seems to be State-based and quite different between the States. Is it time to step in and coordinate a Federal response?</p>
 <p>PM: Can I just say from day one that's what we've been doing. The Chief Medical Officer each day virtually links up with State counterparts and so does the Federal Minister for Health, Nicola Roxon, get on the phone with her State counterparts as well. And the overall response has been driven by the best medical and scientific advice. Our national responsibility is to make sure among other things that we've got an effective supply of antivirals, Tamiflu, Relenza. Per capita we've got the biggest supply probably or one of the biggest supplies in the world and to respond to individual state demands to make sure that's being distributed effectively from the national stockpile.</p>
@@ -103,6 +93,4 @@
 <p>KOCH: Alright mate.</p>
 <p>PM: Thanks.</p>
 <p>DOYLE: No wonder you took him. Thanks guys very much, there you go.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

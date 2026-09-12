@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12256</transcript-id>
-    <title>Human Cloning</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/05/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12256</transcript-id><title>Human Cloning</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/05/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I have informed the Premiers and Chief Ministers attending the meeting of the Council of Australian Governments on the 8th of June 2001 that the issue of human cloning will be listed for discussion.</p>
 <p>Important medical and ethical issues are involved.  It is crucial that a uniform attitude within Australia be achieved if that is possible.  </p>
 <p>For its part the Commonwealth believes that there should be a total prohibition on human cloning throughout Australia.  </p>
 <p>The States and Territories have vital roles and responsibilities in the matter.  I look forward to a constructive discussion with Premiers and Chief Ministers. </p>
 <p>31 May 2001 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

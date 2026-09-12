@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16197</transcript-id>
-    <title>Interview with David Speers, Sky News   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/10/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS: Prime Minister, welcome. Can I start with the hardest question first. Can you explain in simple terms how this financial crisis happened and why it's affecting us in Australia?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16197</transcript-id><title>Interview with David Speers, Sky News   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/10/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS: Prime Minister, welcome. Can I start with the hardest question first. Can you explain in simple terms how this financial crisis happened and why it's affecting us in Australia?</p>
 <p>PM: There are two reasons it happened Kieran. The first is, loans were made in the United States many years ago coming off the period in the early 2000s  -  loans which could never be repaid by lenders and by mortgage holders who simply didn't have the assets or the capital to ever repay them. That's the first problem.</p>
 <p>But the second cause was this  -  that you then had a whole series of other financial institutions around the world who then securitised, that is, spread the risk from those dodgy loans across a whole range of other financial institutions. And that spread right across the world and done in a non-transparent way.</p>
 <p>So when the original mortgage payments couldn't be made the cancer didn't just stay local, it spread across the world to all the other institutions who'd been wrapped up in it, and that created a problem of confidence across the system and that's what we've been dealing with ever since.</p>
@@ -65,6 +55,4 @@
 <p>It is the right policy, it is the responsible course of action and I believe through our conservative economic management in the period that we have been in office, we have demonstrated fundamentally our strong credentials on this matter.</p>
 <p>SPEERS: Alright, Prime Minister, thank you.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

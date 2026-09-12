@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18998</transcript-id>
-    <title>Transcript of Interview with Richard Glover - ABC Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/01/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18998</transcript-id><title>Transcript of Interview with Richard Glover - ABC Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/01/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, welcome.</p>
 <p>PM: Hello.</p>
 <p>HOST: What have you seen today?</p>
@@ -49,6 +39,4 @@ HOST: Prime Minister, welcome.</p>
 <p>Now we've got this differential picture because, you know, high Aussie dollar, it's got some upsides to it, a high Australian dollar, but it's got some big downsides too if you're working in a sector like manufacturing or tourism.</p>
 <p>HOST: And it could all be worse because we could be living in Coonabarabran and going through what our friends there are going through. Prime Minister, thank you very much for your time.</p>
 <p>PM: Thanks Richard.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

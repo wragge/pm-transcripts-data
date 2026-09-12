@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41119</transcript-id>
-    <title>Security and Protection for Tasmanian Forests and Forest Industries</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>18/08/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian and Tasmanian Governments have today agreed to extend the Tasmanian Regional Forest Agreement (RFA) for a further two decades.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41119</transcript-id><title>Security and Protection for Tasmanian Forests and Forest Industries</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>18/08/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian and Tasmanian Governments have today agreed to extend the Tasmanian Regional Forest Agreement (RFA) for a further two decades.</p>
 <p>Tasmania’s forests have long been the lifeblood of the state, providing jobs and economic opportunities to thousands.</p>
 <p>However protecting the state’s unique environment has always been important to ensure that Tasmania’s forests can continue to be enjoyed by the community for generations to come.</p>
 <p>The Tasmanian RFA strikes the right balance between economic development and environmental protection.</p>
@@ -18,11 +8,11 @@
 <p>Critically, this deal ensures the whole community can still continue to enjoy the immeasurable benefits of Tasmania’s forests.</p>
 <p>Threatened species and the rich wilderness of Tasmanian forests continue to be protected through a comprehensive system of reserves covering more than half of Tasmania’s land area, delivering some of the highest biodiversity protection in the world.</p>
 <p>The extended agreement will deliver a number of improvements to the RFA framework, including:</p>
-<ul><li>rolling five-year extensions, subject to performance and review</li>
+<ul>
+<li>rolling five-year extensions, subject to performance and review</li>
 <li>a more outcomes-focused review process—in line with international indicators and consistent with Australian and Tasmanian government State of the Forests Reports</li>
 <li>the inclusion of clauses on matters of national environmental significance, as defined by the Environment Protection and Biodiversity Conservation Act 1999 (Cth).</li>
-</ul><p>The Turnbull and Hodgman Governments are committed to securing and creating job opportunities for all Tasmanians while ensuring the protection of the state’s rich environment.</p>
+</ul>
+<p>The Turnbull and Hodgman Governments are committed to securing and creating job opportunities for all Tasmanians while ensuring the protection of the state’s rich environment.</p>
 <p>For more information visit the Department of Agriculture and Water Resources website.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17521</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/06/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17521</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/06/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much to the assembled throng and their capacity for sound effects, that was very impressive.</p>
 <p>I'm here today with Simon Crean and with Stephen Smith to announce the details of my reshuffled ministry. Obviously I became Prime Minister because I believed it was important to get the Government back on track. I particularly believed it was important to renew our focus on strengthening the economy and delivering the services that hard working Australians need. In order to do this you need a steady hand, hard work and methodical work. So in considering the question of a reshuffle I have determined that it is best to have as limited a reshuffle as possible to keep the maximum stability amongst the team and to keep our focus on the work that Australians need the Government to be doing.</p>
 <p>In that spirit I have invited Simon Crean to take over my portfolios of education, employment and workplace relations and social inclusion.</p>
@@ -127,6 +117,4 @@ PM: Thank you very much to the assembled throng and their capacity for sound eff
 <p>I'm very clear that climate change is caused by human activity; that addressing climate change means that we will need to have a price on carbon. But I'm also very clear in my own mind that there is a lot of work to do to build the kind of lasting and deep community consensus we need to have the kind of transformation in our economy and the way we live that pricing carbon will require.</p>
 <p>In the coming period, I will have more to say about what this nation can do and how Australians can work together to address the challenge of climate change.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

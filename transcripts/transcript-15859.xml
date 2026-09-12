@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15859</transcript-id>
-    <title>Joint Media Release with Penny Wong, Minister for Climate Change and Water: Australia and China Working Together to Tackle Climate Change  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will invest $20 million in an Australia  - China Joint Coordination Group on Clean Coal Technology.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15859</transcript-id><title>Joint Media Release with Penny Wong, Minister for Climate Change and Water: Australia and China Working Together to Tackle Climate Change  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will invest $20 million in an Australia  - China Joint Coordination Group on Clean Coal Technology.</p>
 <p>These funds will mean the Australian Government is now investing $94.6 million in China specific climate change and water programs out to 2015.</p>
 <p>The Australia  -  China Joint Coordination Group on Clean Coal Technology will be funded as part of the Government's $500 million Clean Coal Fund.</p>
 <p>The Prime Minister and Minister for Climate Change and Water today announced funding for three new climate change and water projects in China.</p>
@@ -55,6 +45,4 @@
 <p>            Australia  -  China Environment Development Program (ACEDP)</p>
 <p>            $25 million to support and improve environmental and natural resource management policy development in China.</p>
 <p>            $25,000,000 2007-2012</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

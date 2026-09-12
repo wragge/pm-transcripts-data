@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11855</transcript-id>
-    <title>Doorstop Interview, Alice Springs 3.00pm</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/07/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: business surveys; economy; Aston by-election; Senator Tambling.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11855</transcript-id><title>Doorstop Interview, Alice Springs 3.00pm</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/07/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: business surveys; economy; Aston by-election; Senator Tambling.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, the two business surveys today suggesting confidence is on the way up. Do you see that as a sign the economy is recovering from the GST downturn?</p>
@@ -32,6 +22,4 @@
 <p>PRIME MINISTER:</p>
 <p>That's an organisational matter but I can say this, that he's a very good parliamentary secretary and he's worked hard for the Territory as a Senator.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

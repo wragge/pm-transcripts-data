@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16305</transcript-id>
-    <title>Prime Minister Opens the Bendigo Bank    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today officially opened The Bendigo Centre  -  the first Australian bank headquarters to be sited outside a capital city.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16305</transcript-id><title>Prime Minister Opens the Bendigo Bank    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today officially opened The Bendigo Centre  -  the first Australian bank headquarters to be sited outside a capital city.</p>
 <p>The Rudd Government is determined to invest in rural and regional Australia to keep communities strong, and is pleased to see the business community showing the same commitment to rural jobs.</p>
 <p>Bendigo and Adelaide Bank's decision to open its head office in Bendigo, Victoria, means 850 staff can live and work in regional Victoria.</p>
 <p>The bank's commitment to saving water and energy is also on display at The Bendigo Centre  -  one of the first Five Star Green Star designed buildings to be built in a regional location.</p>
 <p>The Bendigo Centre uses half the energy of a typical office building, with solar panels to reduce black power usage and automated lights which dim or turn themselves off according to the natural light available.</p>
 <p>Its Recycling Water Treatment Plant saves 20,000 litres of waste water a day, cutting potable water use by more than half.</p>
 <p>In its 150th year, Bendigo Bank deserves praise for its commitment to regional Australia, regional jobs and the environment.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

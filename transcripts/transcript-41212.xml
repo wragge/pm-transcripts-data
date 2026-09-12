@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41212</transcript-id>
-    <title>Interview with Karl Stefanovic and Lisa Wilkinson - Today Show</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Security at crowded places; NRL and AFL grand finals; Macklemore; same-sex marriage; Playboy in Australia; footy tips</subjects>
-    <content><![CDATA[<p><strong>LISA WILKINSON: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41212</transcript-id><title>Interview with Karl Stefanovic and Lisa Wilkinson - Today Show</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Security at crowded places; NRL and AFL grand finals; Macklemore; same-sex marriage; Playboy in Australia; footy tips</subjects><content><![CDATA[<p><strong>LISA WILKINSON: </strong></p>
 <p>Now, it is a huge weekend for millions of sports fans across the country as grand finals fever sweeps the nation.</p>
 <p><strong>KARL STEFANOVIC:</strong></p>
 <p>And one of the fans joins us now. Prime Minister welcome. Round of applause for the PM everyone.</p>
@@ -164,12 +154,10 @@
 <p><strong>LISA WILKINSON:</strong></p>
 <p>There you go.</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Handball, righto. Alright. </p>
+<p>Handball, righto. Alright.&nbsp;</p>
 <p><strong>KARL STEFANOVIC:</strong></p>
 <p>Thank you PM.</p>
 <p><strong>LISA WILKINSON:</strong></p>
 <p>Thanks Prime Minister.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

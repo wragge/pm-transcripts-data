@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21579</transcript-id>
-    <title>Interview with David Speers Sky News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/01/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21579</transcript-id><title>Interview with David Speers Sky News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/01/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p>Well Prime Minister you've no doubt seen a lot of the disaster, the pictures on TV... at this summit talking to the leaders of the countries affected... what have you taken away yourself of the extent of this devastation and just what's needed?</p>
 <p>PRIME MINISTER:</p>
 <p>A confirmation of what I believed and a very strong belief that the commitment that's been made by the world in the last few days has to be sustained. It's a terrible human tragedy, an appalling natural disaster, the worst in my lifetime but out of it there is an opportunity to build bridges of trust and cooperation, not only between Australia and countries in the region but the world generally. A huge natural disaster like this brings forth the common human emotion of compassion and it reminds us of the essential decency of mankind and of the willingness of the world to help those who need assistance.</p>
@@ -82,6 +72,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

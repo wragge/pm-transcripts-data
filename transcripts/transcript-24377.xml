@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24377</transcript-id>
-    <title>A message from the Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/04/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This week marks the centenary of the Australian landing at Anzac Cove.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24377</transcript-id><title>A message from the Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/04/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This week marks the centenary of the Australian landing at Anzac Cove.</p>
 <p>On that day, some 750 were killed.</p>
-<p>Nearly 9,000 would lose their lives at Gallipoli before the evacuation eight months later.  Over 61,000 would lose their lives during the Great War.</p>
+<p>Nearly 9,000 would lose their lives at Gallipoli before the evacuation eight months later.&nbsp; Over 61,000 would lose their lives during the Great War.</p>
 <p>Our forebears faced terrible trials, but the worst of times brought out the very best in them.</p>
 <p>Their perseverance, selflessness, courage and compassion came to define us as a nation.</p>
 <p>So this week, around Australia and overseas, we will commemorate this anniversary.</p>
-<p>Tomorrow, I will be in New Zealand for the dedication of the Australian National Memorial in Wellington. </p>
+<p>Tomorrow, I will be in New Zealand for the dedication of the Australian National Memorial in Wellington.&nbsp;</p>
 <p>This Memorial is a reminder of the deep ties between our two nations.</p>
 <p>We are more than friends, we are family.</p>
 <p>On Tuesday, I will travel to Turkey to join our Anzac Day commemorations at Gallipoli.</p>
@@ -26,6 +16,4 @@
 <p>Lest we forget.</p>
 <p>
 19 April 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

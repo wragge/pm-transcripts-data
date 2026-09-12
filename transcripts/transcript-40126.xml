@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40126</transcript-id>
-    <title>First Referendum Council Meeting</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/12/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today marks an important step in the national conversation about the recognition of Aboriginal and Torres Strait Islander peoples in Australia’s Constitution.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40126</transcript-id><title>First Referendum Council Meeting</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/12/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today marks an important step in the national conversation about the recognition of Aboriginal and Torres Strait Islander peoples in Australia’s Constitution.</p>
 <p>We welcome and thank the Co-Chairs of the Referendum Council, Professor Patrick Dodson and Mr Mark Leibler AC, and the other members of the Referendum Council.</p>
 <p>Professor Dodson and Mr Leibler were the Co-Chairs of the Expert Panel on Constitutional Recognition of Indigenous Australians, and their leadership will ensure continuity between the Referendum Council and the important work undertaken by the Expert Panel.</p>
 <p>The meeting today will discuss a number of important matters, including upcoming national consultations that will provide the opportunity for all Australians to have their say on recognition.</p>
@@ -17,6 +7,4 @@
 <p>It is important that any proposal has the broad support of Indigenous Australians, and the Australian community more generally, before proceeding to a referendum.</p>
 <p>The Council will advise us on the progress of the consultations and next steps towards a referendum.</p>
 <p>It is expected the Referendum Council will report to us by 30 June 2016.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

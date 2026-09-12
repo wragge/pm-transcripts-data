@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16591</transcript-id>
-    <title>Historic Purchase of Water for the Environment    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/05/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today completed the single largest purchase of water for the environment in Australia's history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16591</transcript-id><title>Historic Purchase of Water for the Environment    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/05/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today completed the single largest purchase of water for the environment in Australia's history.</p>
 <p>The Government is buying almost 240 gigalitres of water entitlements for $303 million from Twynam Agricultural Group.</p>
 <p>That is equivalent to one half of all of the water used in Sydney each year.</p>
 <p>The water purchased today will be used to restore the rivers and wetlands of the Murray-Darling Basin to health, with the water used exclusively for environmental flows.</p>
@@ -24,6 +14,4 @@
 <p>These major investments in irrigation efficiency will also provide a welcome boost to the economic and employment outlook for these irrigation communities as projects get underway.</p>
 <p>The Commonwealth Environmental Water Holder will manage the water entitlements purchased from Twynam and will determine where allocations will be used, drawing on the best available scientific advice and collaborative input from Basin States. The water entitlements will be exclusively used for environmental flows.</p>
 <p>A number of high-value aquatic ecosystems can be expected to specifically benefit from the water entitlements purchased from Twynam, for example, the Macquarie Marshes, Fivebough and Tuckerbil Swamps in the Murrumbidgee, the Gwydir Wetlands, the Booligal Wetlands in the Lachlan, and Menindee Lakes in the Darling.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

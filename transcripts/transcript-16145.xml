@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16145</transcript-id>
-    <title>Acting Prime Minister Interview with Neil Mitchell, Radio 3AW, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>NEIL MITCHELL: The Acting Prime Minister, Julia Gillard good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16145</transcript-id><title>Acting Prime Minister Interview with Neil Mitchell, Radio 3AW, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>NEIL MITCHELL: The Acting Prime Minister, Julia Gillard good morning.</p>
 <p>JULIA GILLARD: Good morning Neil.</p>
 <p>NEIL MITCHELL: Well the head of the ANZ bank, Mike Smith says that if this US package doesn't go through or doesn't work, the prospect of a depression in the United States. Do you agree?</p>
 <p>JULIA GILLARD: Well the Prime Minister is over in the United States and he's certainly urging the United States to act. What we know Neil, is that here at home in Australia, we can be reassured we've got a well regulated financial market and we are in a very different circumstance to what has happened in the United States. We don't have the same exposure to sub-prime loans. We don't have the same regulatory issues so whilst obviously we're in troubled times and globally there is so much uncertainty abroad. Here we've got a well regulated financial sector and an economy that's showing some resilience in the face of this trouble.</p>
@@ -54,6 +44,4 @@
 <p>JULIA GILLARD: At university; tried it, didn't like it. I think many Australian adults would be able to make the same statement so I don't think it matters one way or the other.</p>
 <p>NEIL MITCHELL: I agree with you. Thank you for speaking with us.</p>
 <p>JULIA GILLARD: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

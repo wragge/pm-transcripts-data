@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22367</transcript-id>
-    <title>Doorstop Interview Sydney Convention Centre, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22367</transcript-id><title>Doorstop Interview Sydney Convention Centre, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, you've set out energy and water as two great visions. Will you be pursuing those to the next election and will you consider appointing dedicated Ministers to each portfolio?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I think that the current administrative arrangements are okay but I keep them under constant review. They are issues that I am sure will be pursued with great vigour by all members of the Government from now, to and beyond the next election if the Australian people are kind enough to re-elect the Coalition.</p>
@@ -64,6 +54,4 @@
 <p>PRIME MINISTER:</p>
 <p>  Well I think you should be a little patient and understand that efforts are being made and it's important that we, in each situation, balance the risk versus the opportunity.</p>
 <p>   [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

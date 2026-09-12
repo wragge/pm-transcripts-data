@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10991</transcript-id>
-    <title>Radio Interview with Neil Mitchell - Radio 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/10/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects> Senior Australian of the Year, East Timor, multinational peacekeeping force, defence spending, cadet training, social security, work-for-the-dole, Kosovar refugees, GST (cigarette packets), Melbourne Storm</subjects>
-    <content><![CDATA[<p>E&amp;OE.........................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10991</transcript-id><title>Radio Interview with Neil Mitchell - Radio 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/10/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Senior Australian of the Year, East Timor, multinational peacekeeping force, defence spending, cadet training, social security, work-for-the-dole, Kosovar refugees, GST (cigarette packets), Melbourne Storm</subjects><content><![CDATA[<p>E&amp;OE.........................................................................................................................</p>
 <p><b>MITCHELL:</b></p>
 <p>Mr Howard, good morning.</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -236,6 +226,4 @@
 <p><b>MITCHELL:</b></p>
 <p>Prime Minister, thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

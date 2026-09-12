@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21568</transcript-id>
-    <title>Press Conference - Pierre Hotel New York City  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/02/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Good afternoon Ladies and Gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21568</transcript-id><title>Press Conference - Pierre Hotel New York City  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/02/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Good afternoon Ladies and Gentlemen.</p>
 <p>I had a meeting with Dr Blix and Kofi Anan.</p>
 <p> Dr Blix will report to the Security Council on Friday and it will be a very important report and a very important event in this unfolding issue. He has certain responsibilities under Resolution 1441. The judgements that have to be made are judgements of the Security Council. He has to report on a factual basis as to his experiences. He said some things publicly which you are aware of. I don't intend to add to those or qualify them or detract from them. I don't think it's helpful at this stage for me to be trying to put some particular interpretation on the discussion I had. I certainly found it very useful and illuminating. He was very helpful and very forthcoming about his experiences. I think I will now leave it to him.</p>
 <p> He's done a very professional job to date and precisely what form his report takes is a matter for him. I can separately, from what he's told me, repeat what I've said earlier and that is that this is an issue that is obviously one that is coming to a head and it's a matter that the Security Council has to deal with. And a point that I made to him, and I've also made to the Secretary General, is that this whole matter involves, represents a very big challenge to the Security Council. It's a test of the Security Council's capacity and determination to deal with a very challenging issue.</p>
@@ -185,6 +175,4 @@
 <p>PRIME MINISTER:</p>
 <p>No, no he didn't. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

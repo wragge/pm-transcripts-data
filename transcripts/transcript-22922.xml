@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22922</transcript-id>
-    <title>Interview on Today Show, Network Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: ALP electoral rorts; Road funding</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22922</transcript-id><title>Interview on Today Show, Network Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: ALP electoral rorts; Road funding</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>PRESENTER:</p>
 <p>First this morning to national matters, the Federal Government has now outlined plans to spend $1.6 billion on roads, while in a separate development allegations of electoral impropriety are continuing to come to light in Queensland for the Labor Party. Joining us now from Parliament House in Canberra, Prime Minister John Howard. Prime Minister good morning to you.</p>
@@ -56,7 +46,7 @@
 <p>But what guarantee…</p>
 <p>PRIME MINISTER:</p>
 <p>For sensible spending of that money.</p>
-<p>PRESENTER:<br />
+<p>PRESENTER:<br>
 But what guarantee is there that State Governments and Local Government don’t just take your money and substitute it for their own spending.</p>
 <p>PRIME MINISTER:</p>
 <p>Well if the Local Governments begin to do that then we will stop sending our money. And as far as the State Governments are concerned, I’ve written to each Premier asking for an assurance that they won’t, as a consequence of this decision, reduce their funding for local roads, and I can promise you this Steve that if any of them start reducing their funding you’ll hear about it and the electors of their states and the electors of the municipalities in their states will hear about it as well.</p>
@@ -67,6 +57,4 @@ But what guarantee is there that State Governments and Local Government don’t 
 <p>PRESENTER:</p>
 <p>Okay well then that being the case I’ll leave it there. Thanks again for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15992</transcript-id>
-    <title>Transcript of Interview with Aaron Stevens, ABC Radio, Mackay   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEVENS: Good morning Prime Minister Rudd. Welcome to Mackay.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15992</transcript-id><title>Transcript of Interview with Aaron Stevens, ABC Radio, Mackay   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEVENS: Good morning Prime Minister Rudd. Welcome to Mackay.</p>
 <p>PM: It's good to be back in Mackay. It's terrific. I've got to say I was up here in February in the floods and it's good to see that so much progress has occurred now in recovering from the flood. Although I still understand there's a lot of work to be done.</p>
 <p>STEVENS: And where are you this morning?</p>
 <p>PM: At the Mackay Marina, and I've got to say, it's stunning. Having flown out of Canberra and Sydney in recent days, this is a beautiful part of the world. People living up here you all know you're in paradise, but those of us who visit know you are.</p>
@@ -83,6 +73,4 @@
 <p>PM: Not predicting the score, but I am predicting who is going to win, and it starts with ‘Q' and ends with ‘D'.</p>
 <p>STEVENS: Fantastic. Prime Minister, thank you very much for your time this morning.</p>
 <p>PM: Good on you, thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

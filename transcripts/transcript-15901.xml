@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15901</transcript-id>
-    <title>Address to Australian Labor Party  NSW Branch State Conference, Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/05/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet and whose culture we celebrate as one of the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15901</transcript-id><title>Address to Australian Labor Party  NSW Branch State Conference, Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/05/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet and whose culture we celebrate as one of the oldest continuing cultures in human history.</p>
 <p>I acknowledge the women and men of the great Australian labour movement.</p>
 <p>And I acknowledge this great branch of the Australian Labor Party  -  this branch so crucial in forming this Australian Labor Government.</p>
 <p>I acknowledge the contribution of our rank and file members and supporters in every division right across this State in adding 10 new members to the Federal Parliamentary Labor Party.</p>
@@ -186,6 +176,4 @@
 <p>And all along, seeking to advance and protect the lives and livelihoods of those families that need us.</p>
 <p>On this our nation depends.</p>
 <p>I thank the conference.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

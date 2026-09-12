@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40542</transcript-id>
-    <title>Cash boost to secure Australia’s Water Future</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/10/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>​​The Commonwealth government is delivering the most significant investment in water infrastructure in Australian history, strengthening the nation’s future resource security, economic growth and prosperity.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40542</transcript-id><title>Cash boost to secure Australia’s Water Future</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/10/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>​​The Commonwealth government is delivering the most significant investment in water infrastructure in Australian history, strengthening the nation’s future resource security, economic growth and prosperity.</p>
 <p>An additional $440 million to break ground on key water projects across Australia has been put on the table with today’s release of the National Water Infrastructure Development Fund (NWIDF) guidelines.</p>
 <p>This investment will ensure our agriculture sector and regional economies are well-placed to capitalise on the opportunities of a transitioning and diversifying economy.</p>
 <p>Under the NWIDF, we have already made available almost $60 million to expedite the planning work needed to get major projects shovel-ready and now we are making $440 million available for capital works to get priority projects built as quickly as possible.</p>
@@ -24,9 +14,9 @@
 <p>Projects will be considered for funding on a case-by-case basis and will be assessed by an independent panel of experts for their economic viability, and ability to provide secure and affordable water to underpin the growth of regional economies and communities.</p>
 <p>For more information, visit the National Water Infrastructure Development Fund</p>
 <p>Fast facts:</p>
-<ul><li>The government has so far approved almost $60 million in funding for 39 feasibility studies under the feasibility component of the NWIDF</li>
+<ul>
+<li>The government has so far approved almost $60 million in funding for 39 feasibility studies under the feasibility component of the NWIDF</li>
 <li>Australia has a total accessible water storage capacity of almost 81,000 GL, which is currently around 68% full at 55,292 GL</li>
 <li>Australia’s largest constructed reservoir is Lake Gordon, held back by Gordon Dam, with a capacity of more than 11,000 GL—that’s 22 Sydney Harbours</li>
-</ul>]]></content>
-  </transcript>
-</transcripts>
+</ul>
+]]></content></item></response>

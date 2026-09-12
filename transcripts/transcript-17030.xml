@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17030</transcript-id>
-    <title>Transcript of interview with Laurie Oakes Weekend Today   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>31/01/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>OAKES: Prime Minister, welcome to the program.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17030</transcript-id><title>Transcript of interview with Laurie Oakes Weekend Today   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>31/01/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>OAKES: Prime Minister, welcome to the program.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>OAKES: This is an election year- you've got a new opponent in Tony Abbott. Various pundits are saying that you haven't quite got his measure yet. Is that how you see it?</p>
 <p>PM: You know something, Laurie? Mr Abbott's the fourth leader of the Liberal Party I've faced in a couple of years. Each person is different, and each deserves to be treated with respect. And I do the same in the case of Mr Abbott. The Australian people will be the judge of this, and they are hard judges, but they are fair judges, and they'll look at our record and look at our plans for the future.</p>
@@ -72,6 +62,4 @@
 <p>OAKES: Final question. When Mr Abbott was on this program at the end of last year, because of his attitude to climate change science and allegations about his religious views, I asked him if he believed in evolution. He said he did, but he said, "Why don't you put the same question to Kevin Rudd?" Do you believe in evolution?</p>
 <p>PM: I'm surprised you put a question like that to me. Laurie, I have always believed in evolution. The reason is it's an empirical science. It's been established. It has been, therefore, fundamental to the great innovations in science and technology for the last two hundred years since Darwin was around. And that's my view- always has been.</p>
 <p>OAKES: Prime Minister, we thank you- and Tony Abbott, I've asked your question.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

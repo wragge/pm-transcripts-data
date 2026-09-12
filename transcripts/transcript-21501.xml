@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21501</transcript-id>
-    <title>Interview with Catherine McGrath AM Programme, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MCGRATH:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21501</transcript-id><title>Interview with Catherine McGrath AM Programme, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MCGRATH:</p>
 <p>Prime Minister, good morning.  You are effectively trying to defy history, aren't you, by winning a fourth term. Only Bob Hawke and Robert Menzies could do it.  The economy is booming but your credibility is under unprecedented attack.</p>
 <p>PRIME MINISTER:</p>
 <p>Well, the Australian people will make decisions about my credibility.  They'll also make a decision about who they better trust to keep their interest rates down, who they better trust to protect their living standards, who they better trust to deliver a strong budget so we can spend more on health and education and who they better trust to lead Australia in the fight against international terrorism.  Every election is different. It's a mistake to draw slavishly on historical comparisons.  The world today and Australia today is very different from what it was in 1990 when Bob Hawke ran and won a fourth election and very different from what it was in 1963, when Sir Robert Menzies ran and won his seventh election.  Everything is different and you have to look at it in the circumstances of the time.  And, in the end, people will make a decision: who is more likely to protect my personal and financial security?  Who is more likely to effectively lead this country in this dangerous, difficult international climate.  That is the fundamental issue of trust in this election campaign.</p>
@@ -78,6 +68,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

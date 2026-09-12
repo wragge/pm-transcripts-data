@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17848</transcript-id>
-    <title>Budget offers greater job security and opportunity for more Australians</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17848</transcript-id><title>Budget offers greater job security and opportunity for more Australians</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister Julia Gillard said reforms unveiled in the Budget will help get more Australians into work and keep our robust economy the envy of the world.</p>
 <p>The Budget reflects the key priorities of the Gillard Labor Government - giving people the security and dignity that comes with a job and maintaining a strong economy.</p>
 <p>The Prime Minister, Treasurer Wayne Swan and Minister for Skills, Jobs and Workplace Relations, Chris Evans today met apprentices at the Fyshwick Trade Skills Centre.</p>
@@ -20,7 +10,7 @@ The Prime Minister Julia Gillard said reforms unveiled in the Budget will help g
 <p>The skills package includes more than $200 million to boost apprentice completion rates, provide mentoring support and enable apprentices to complete their training more quickly.</p>
 <p>These reforms will help create a smarter and faster apprenticeship system to tackle critical skill shortages and maintain Australia's global competitive edge.</p>
 <p>To lift apprenticeship completions and speed up training for experienced workers, the Government will invest:</p>
-<p> * 	$101 million over four years for an Apprenticeship Mentoring package, helping individuals to choose the right training pathway and supporting them to complete their training; and<br />
+<p> * 	$101 million over four years for an Apprenticeship Mentoring package, helping individuals to choose the right training pathway and supporting them to complete their training; and<br>
  * 	$100 million over four years for Accelerated Australian Apprenticeships, to support innovative training models that enable apprentices to move through their training and advance to the next level of learning and pay, provided quality standards are met.</p>
 <p>Skills Councils and peak industry bodies will be encouraged to introduce innovative training models to support the apprenticeship reform measures.</p>
 <p>This will ensure the modern apprenticeship system is flexible and responsive to industry needs.</p>
@@ -30,6 +20,4 @@ The Prime Minister Julia Gillard said reforms unveiled in the Budget will help g
 <p>A further, $21.5 million will be provided over two years to employ 140 Apprenticeship Advisors to strengthen recruitment into apprenticeships, guide applicants into the right trade apprenticeship and provide advice to employers.</p>
 <p>Senator Evans said making sure people choose the right trade and then supporting them in the first years of their training are proven ways of lifting apprenticeship retention rates.</p>
 <p>Increasing the number of Australian apprentices is critical to meeting the growing demand for skilled workers. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

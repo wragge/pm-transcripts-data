@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18336</transcript-id>
-    <title>People of Australia Ambassadors</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18336</transcript-id><title>People of Australia Ambassadors</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today congratulated 40 Australians who have been recognised for their outstanding work in building strong and cohesive local communities.</p>
 <p>The 40 local champions have been independently selected as the new People of Australia Ambassadors following hundreds of nominations from the public.</p>
 <p>Australians were encouraged to nominate inspirational people who have helped to build bridges, promote inclusion and strengthen ties in their communities.</p>
@@ -24,6 +14,4 @@ Prime Minister Julia Gillard today congratulated 40 Australians who have been re
 <p>The inaugural Ambassador program speaks to the strength of our Australian communities and our capacity as a nation to welcome people and make them feel part of our community.</p>
 <p>The 2012 Ambassadors' term commences today and ends on 30 December 2012.</p>
 <p>Further information on the Ambassadors is available at <a href="http://www.amc.gov.au/ambassadors/ambassadors-2012.htm">http://www.amc.gov.au/ambassadors/ambassadors-2012.htm</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

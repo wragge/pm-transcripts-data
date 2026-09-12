@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11212</transcript-id>
-    <title>Radio Interview with Matt Peacock, AM Programme, ABC Radio</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/03/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11212</transcript-id><title>Radio Interview with Matt Peacock, AM Programme, ABC Radio</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/03/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><b>PEACOCK:</b></p>
 <p>Prime Minister, thanks again for joining us. They were nasty comments I thought from women over all with the report card for the Government. I’m not sure if the previous Government would have got a better one.</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -118,9 +108,9 @@
 <p>Prime Minister, thanks for joining us.</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Pleasure.</p>
-<p> [ends]</p>
-<p> </p>
-<p align="CENTER"><b><font size="4">SUPPLEMENTARY QUESTIONS <br />WITH MATT PEACOCK, ABC RADIO</font></b></p>
+<p>&nbsp;[ends]</p>
+<p>&nbsp;</p>
+<p align="CENTER"><b><font size="4">SUPPLEMENTARY QUESTIONS&nbsp;<br>WITH MATT PEACOCK, ABC RADIO</font></b></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p><b>PEACOCK:</b></p>
 <p>Prime Minister, it’s still not clear yet but certainly the citizens of Avalon didn’t want Baywatch. What’s your view on that decision?</p>
@@ -132,6 +122,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Look everybody has those interests and I understand that perfectly well. But you can also understand my position and the Government’s position. We are constantly told to find new ways, new policies, new opportunities to create jobs. Our unfair dismissal law is blocked in the Senate. People are threatening to vote against our proposal to entrench youth wages, and communities appear unwilling to embrace new job opportunities. Now this is a responsibility for all of us. We’ve all got this responsibility to reduce unemployment. And I repeat, if we lose it and I know it’s only a small thing in a sense in its own right, it will be a metaphor for the reason why America’s unemployment rate is three percentage points lower than ours.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

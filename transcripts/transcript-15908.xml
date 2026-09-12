@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15908</transcript-id>
-    <title>Government Reception to Commemorate the 40th Anniversary  of the Battles of Fire Support Bases Coral and Balmoral, Vietnam, Parliament House, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/05/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Acknowledgements</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15908</transcript-id><title>Government Reception to Commemorate the 40th Anniversary  of the Battles of Fire Support Bases Coral and Balmoral, Vietnam, Parliament House, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/05/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Acknowledgements</p>
 <p>The Minister for Veterans' Affairs, the Hon Alan Griffin MP</p>
 <p>The Leader of the Opposition</p>
 <p>General Sir Phillip Bennett and Lady Bennett</p>
@@ -61,6 +51,4 @@
 <p>The political debate around the Vietnam War was great.</p>
 <p>But there can be no debate about the valour of those who fought in that war  -  wearing proudly the uniform of Australia.</p>
 <p>On this the 40th anniversary of the Battles of Coral and Balmoral, the nation salutes you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

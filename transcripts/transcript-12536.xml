@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12536</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP    DOORSTOP INTERVIEW, SYDNEY     </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/02/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: death of an Australian soldier; Governor General; defence photographs.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12536</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER    THE HON JOHN HOWARD MP    DOORSTOP INTERVIEW, SYDNEY     </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/02/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: death of an Australian soldier; Governor General; defence photographs.</p>
 <p>E&amp;OE...........</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister some tragic news from Afghanistan.</p>
@@ -55,6 +45,4 @@
 <p>Prime Minister when you say you acted on advice, you can trust that advice, 100% trust that advice?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I don';t believe anybody set out to mislead me if you';re asking me that and that';s what';s called trust. It doesn';t mean to say that people don';t from time to time, everybody may get some advice wrong. But I don';t think anybody set out to mislead me. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

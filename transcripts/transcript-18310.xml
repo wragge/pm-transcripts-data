@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18310</transcript-id>
-    <title>Resignation of Nick Sherry</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/12/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18310</transcript-id><title>Resignation of Nick Sherry</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/12/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today Nick Sherry has tendered his resignation as Minister for Small Business, Minister Assisting on Deregulation and Public Sector Superannuation and Minister Assisting on Tourism.</p>
 <p>Nick Sherry has made a notable contribution to the Gillard Labor Government in his role as Minister for Small Business ensuring that Australian small business, the backbone of our economy, was well supported during global economic uncertainty of the last year.</p>
 <p>He has worked extensively on the Government's jobs and small business reforms as well as implementing initiatives and being an advocate for the growth of the Australian tourism sector.</p>
@@ -17,6 +7,4 @@ Today Nick Sherry has tendered his resignation as Minister for Small Business, M
 <p>He has served the Labor Party previously as Parliamentary Secretary for Primary Industry, Energy and Resources during the Keating Government and was Deputy Leader of the Opposition in the Senate as well as being member of Labor's tactics, strategy, economic and policy committees, and a member of the Labor Party National Executive and Tasmanian Administrative Committee.</p>
 <p>As Senator for Tasmania, he has and will continue to proudly and tirelessly serve his constituents in the Federal Parliament.</p>
 <p>I thank Nick for remarkable efforts in service to the Labor Ministry and I wish him and his family the very best in the future.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

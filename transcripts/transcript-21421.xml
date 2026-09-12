@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21421</transcript-id>
-    <title>Interview with Liam Bartlett ABC Radio, Perth </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  BARTLETT:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21421</transcript-id><title>Interview with Liam Bartlett ABC Radio, Perth </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  BARTLETT:</p>
 <p>Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning.  Good to be back.</p>
@@ -258,6 +248,4 @@
 <p>PRIME MINISTER:</p>
 <p>I hope so.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

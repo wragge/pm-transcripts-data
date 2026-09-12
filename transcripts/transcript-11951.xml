@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11951</transcript-id>
-    <title>Interview with Larry King, CNN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Australia’s role in fight against terrorism; APEC; anthrax.</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11951</transcript-id><title>Interview with Larry King, CNN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Australia’s role in fight against terrorism; APEC; anthrax.</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p>KING:</p>
 <p>We now welcome to Larry King Live, from Perth, Australia the Prime Minister of Australia, John Howard. John is just back from meeting with President Bush and the others in Shanghai and he’s in Perth to bid farewell to Australian troops joining the war on terrorism, appearing there with Kim Beazley who’s running against him in the election. I guess this is a popular move in your country to send these troops is it not Mr Prime Minister?</p>
 <p>PRIME MINISTER:</p>
@@ -33,6 +23,4 @@
 <p>KING:</p>
 <p>Thanks for spending these moments with us. The Prime Minister of Australia who by the way met with President Bush on September 10th, one day before a day that will live forever in infamy to quote a past president.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

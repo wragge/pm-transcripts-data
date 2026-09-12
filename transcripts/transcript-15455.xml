@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15455</transcript-id>
-    <title>Drought Assistance</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/09/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased today to announce an additional $430 million in drought assistance measures for Australian farming communities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15455</transcript-id><title>Drought Assistance</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/09/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased today to announce an additional $430 million in drought assistance measures for Australian farming communities.</p>
 <p>The funding will extend the 38 areas of agricultural production currently receiving Exceptional Circumstances assistance until March 2008 for a further six months to September 2008.</p>
 <p>The extension will provide confidence to farmers suffering through the worst drought on record. It will allow farmers to plan through to next year's season, knowing that assistance will continue to the end of their next planting opportunity.</p>
 <p>The Australian Government has already provided more than $2.4 billion in drought assistance since 2001 and today's announcement is further evidence of the Coalition's commitment to rural and regional communities.</p>
@@ -25,11 +15,9 @@
 <p>*A list of the eligible Exceptional Circumstances regions is below.</p>
 <p>  EC Area</p>
 <p>NSW -   Armidale,   Braidwood,   Casino,   Central North North-West,   Central Tablelands,   Condobolin,   Condobolin-Narrandera,   Cooma-Bombala-ACT,   Dubbo,   Forbes,   Goulburn-Yass,   Gundagai,   Hay,   Hume,   Majority of Western Division,   Molong,   Mudgee-Merriwa,   Northern New England,   North East Northern New England,   Northern Tablelands Small Areas,   Nyngan,   Riverina,   South Coast Moss Vale,   South West Slopes &amp; Plains,   Walgett-Coonamble,   Young.</p>
-<p>Victoria -   Central Victoria,   Central and East Gippsland,   Goulburn- Loddon-Campaspe,   Mallee East,   Mallee South East,   Mallee - Northern Wimmera,   Murray System,   Northern Victoria,<br />
+<p>Victoria -   Central Victoria,   Central and East Gippsland,   Goulburn- Loddon-Campaspe,   Mallee East,   Mallee South East,   Mallee - Northern Wimmera,   Murray System,   Northern Victoria,<br>
 North East Victoria.   </p>
 <p>South Australia -   Upper North Cropping   </p>
-<p>Western Australia -<br />
+<p>Western Australia -<br>
 North Eastern Wheatbelt,   Southern Rangelands</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10439</transcript-id>
-    <title>Prime Minister&#039;s New Internet Home Page </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/08/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010439.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister's new Home Page has come on line on the Internet this weekend. The Internet address is <a href="http://www.pm.gov.au">www.pm.gov.au</a>.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10439</transcript-id><title><![CDATA[Prime Minister&#039;s New Internet Home Page ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/08/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010439.pdf</document><subjects></subjects><content><![CDATA[<p>The Prime Minister's new Home Page has come on line on the Internet this weekend. The Internet address is <a href="http://www.pm.gov.au">www.pm.gov.au</a>.</p>
 <p>Australians have always been at the forefront in the use of new technologies. The Internet is no exception. There are some 500,000 Internet users in Australia and it is estimated that 1500 businesses and 20,000 other users are joining the web every month throughout our nation.</p>
 <p>The revolution in on-line and information technologies, together with telecommunications advances and deregulation, is dramatically diminishing geographical barriers between Australians.</p>
 <p>Whether it be facts about Australia and our institutions or recent policy announcements and interviews, the new Home Page brings the Government closer to Australians and provides greater direct access to accurate information for users, particularly in regional and rural Australia.</p>
@@ -18,6 +8,4 @@
 <p>Information is also included on the ministerial team, Australia's Constitution and system of government, our flag, our national anthem and other national symbols.</p>
 <p>The new Home Page covers information of use to Australians and overseas users and includes a range of material of interest to organisations, businesses, individuals, students and children.</p>
 <p>3 August 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

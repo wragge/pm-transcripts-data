@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16033</transcript-id>
-    <title>Address at the Opening of the  Nambour RSL Wall of Remembrance, Nambour  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/07/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It's a great pleasure to be back home in Nambour.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16033</transcript-id><title>Address at the Opening of the  Nambour RSL Wall of Remembrance, Nambour  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/07/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It's a great pleasure to be back home in Nambour.</p>
 <p>And it's a great pleasure to be here at the QUOTA Memorial Park with the Wall of Remembrance.</p>
 <p>We are here to celebrate the 90th anniversary of the Nambour RSL.</p>
 <p>It is, I am told, probably the oldest RSL in existence.</p>
@@ -73,6 +63,4 @@
 <p>So today I would like to congratulate the RSL not only for building the Wall of Remembrance, but for its work over the past 90 years in supporting veterans.</p>
 <p>I want to congratulate QUOTA International on the initiative it took more than 10 years ago to establish the Memorial Park.</p>
 <p>This event and this memorial are a fitting and dignified tribute to the members of the RSL who have served their nation with distinction.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

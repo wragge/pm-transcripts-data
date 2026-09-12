@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15581</transcript-id>
-    <title>Interview with Ray Hadley, Radio 2GB, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/08/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15581</transcript-id><title>Interview with Ray Hadley, Radio 2GB, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/08/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Interest rates; federal election; ADF Gap Year Announcement; President Bush;   Iraq. </p>
 <p>E&amp;OE...</p>
 <p>HADLEY: </p>
@@ -19,7 +9,7 @@ Interest rates; federal election; ADF Gap Year Announcement; President Bush;   I
 <p>HADLEY: </p>
 <p>Well anyone who thought the Reserve Bank of Australia was operating at the, I guess, or beholding to the Government, got a shock earlier this week when they lifted those official interest rates. It couldn't have come at a perhaps worse time for you or your Government?</p>
 <p>PRIME MINISTER: </p>
-<p>Well that's right Ray, I didn't want, for the sake of homebuyers, I didn't want interest rates to go up but they are set independently by the Bank and everybody's got to accept the Bank's decision. It was done in the belief that it would help prevent any inflationary outbreak and in the long run that's in everybody's interests. Interest rates are still lower now for housing than at any time under the previous government and if you take the averages, the new rate, as a result of this rise, for housing will be a full four and a half percentage points below the average under the previous government. So our claim during the last election campaign and our slogan that we would always have lower interest rates than Labor Governments remains true.<br />
+<p>Well that's right Ray, I didn't want, for the sake of homebuyers, I didn't want interest rates to go up but they are set independently by the Bank and everybody's got to accept the Bank's decision. It was done in the belief that it would help prevent any inflationary outbreak and in the long run that's in everybody's interests. Interest rates are still lower now for housing than at any time under the previous government and if you take the averages, the new rate, as a result of this rise, for housing will be a full four and a half percentage points below the average under the previous government. So our claim during the last election campaign and our slogan that we would always have lower interest rates than Labor Governments remains true.<br>
  HADLEY: </p>
 <p>Even allowing for that, you've copped a fair hammering over it because one of the features of your Government, led by you and your Treasurer, has been economic stability, discharging debt and making sure that interest rates have remained historically low, and they are creeping up?</p>
 <p>PRIME MINISTER: </p>
@@ -89,6 +79,4 @@ Interest rates; federal election; ADF Gap Year Announcement; President Bush;   I
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40149</transcript-id>
-    <title>Prime Minister to visit the United States</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/01/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Malcolm Turnbull will visit Washington DC on 18 and 19 January. This will be his first trip to the United States as Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40149</transcript-id><title>Prime Minister to visit the United States</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/01/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Malcolm Turnbull will visit Washington DC on 18 and 19 January. This will be his first trip to the United States as Prime Minister.</p>
 <p>The alliance with the United States is fundamental to Australia's national security. Our two countries are closely linked in every way - economically, culturally, historically and above all sharing the same values of freedom, democracy and the rule of law - at home and around the world.</p>
 <p>The United States is Australia’s largest two-way investment partner, and our third-largest two-way trading partner.</p>
 <p>In discussions with President Obama, senior Administration officials and Congressional leaders, the Prime Minister will underline Australia’s enduring commitment to the alliance and in particular Australia's ongoing commitment to an effective response to regional and global challenges, including combatting ISIL in Iraq and Syria.</p>
@@ -18,6 +8,4 @@
 <p>The Prime Minister will deliver a national security address at the Center for Strategic and International Studies and will promote Australia as a trade and investment destination to the US Chamber of Commerce.</p>
 <p>The Prime Minister looks forward to sharing ideas with President Obama about the best policies for promoting innovation, science and research.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11033</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 INTERVIEW WITH PHILIP CLARK, ABC RADIO 2BL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/04/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11033</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 INTERVIEW WITH PHILIP CLARK, ABC RADIO 2BL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/04/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>The major story of the morning is clearly the fate of the two CARE</p>
 <p> Australia workers in Yugoslavia who now, I understand, have been formally</p>
 <p> charged with spying  a most serious fate for them. Have you</p>
@@ -346,6 +336,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well it's in the Senate now and the debate in the Senate will</p>
 <p> commenc</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

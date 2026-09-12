@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11144</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   DOORSTOP INTERVIEW                 OPERA HOUSE, SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/03/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11144</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   DOORSTOP INTERVIEW                 OPERA HOUSE, SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/03/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>[Tape begins] Well the election result is due overwhelmingly to a</p>
 <p> decision made about State political issues. I congratulate Mr Carr.</p>
 <p> I will work constructively with him as Prime Minister and Premier</p>
@@ -66,6 +56,4 @@
 <p> that this was an election fought on State issues, and on entirely</p>
 <p> different issues and you cannot blame the organisation....[inaudible]....</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

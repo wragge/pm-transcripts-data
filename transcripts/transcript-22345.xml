@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22345</transcript-id>
-    <title>Doorstop Interview Shenzhen, China </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/06/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22345</transcript-id><title>Doorstop Interview Shenzhen, China </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/06/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Mr Howard, while you are here in China will you be discussing LNG prices as one of the issues in your talks?</p>
 <p> PRIME MINISTER:</p>
 <p>  Not directly, no, because they are a matter for market negotiations. I would never encourage the idea that governments should negotiate LNG prices. At no stage was the Australian Government directly involved in pricing issues in relation to the $25 billion contract. The first fruits of which, I am here to witness so I haven't changed my mind on that. I am sure the broad issue will come up but it is not for the Government to negotiate LNG prices.</p>
@@ -46,6 +36,4 @@
 <p>PRIME MINISTER:</p>
 <p>  Well I think it's... in the resources sector it's very strong, but we don't want to see the relationship just in terms of resources and if you look at the people who are attending the conference from Australia you see a very wide range of people. The service sector has certainly got enormous opportunities and I think we should see the relationship in a very broad manner and not just see it in terms of coal and iron ore and gas, important though that is. Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

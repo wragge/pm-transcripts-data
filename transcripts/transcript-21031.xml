@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21031</transcript-id>
-    <title>Interview with Sally Sara AM Programme, ABC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRESENTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21031</transcript-id><title>Interview with Sally Sara AM Programme, ABC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRESENTER:</p>
 <p>  The Prime Minister Mr Howard is on his way home from Abuja, Nigeria after one of the most difficult and divisive Commonwealth Heads of Government Meetings in years.  The decision by President Robert Mugabe to pull Zimbabwe out of the Commonwealth has left the group of 54 nations divided and at odds with each other.  The Prime Minister of course has been at the centre of much of the action, having pushed for the continued suspension of Zimbabwe while the country gets its house in order.  Our Africa correspondent Sally Sara spoke with Mr Howard at the end of CHOGM, and began by asking him his reaction to Mr Mugabe';s decision to quit the Commonwealth.</p>
 <p>PRIME MINISTER:</p>
 <p>Well it';s regrettable, but that';s the sort of decision that can always be reversed.  There is no reason why Zimbabwe should have taken that decision.  The Commonwealth handled the issue yesterday very well.  The suspension continues, but there will be a renewed effort to get the parties together in Zimbabwe and hopefully make progress towards those changes that are needed inside the country so that readmission can take place.</p>
@@ -46,6 +36,4 @@
 <p>PRIME MINISTER:</p>
 <p>Our priority is to do the right thing with the people';s money.  It';s not our money.  They want their money spent wisely, and after we';ve spent it on the things that they believe are important, they';d like it back.  They don';t want it to go mouldering in the bank, and they want it back, and that';s fair enough because it';s their money.  It';s not mine or Mr Costello';s.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

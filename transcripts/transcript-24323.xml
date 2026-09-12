@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24323</transcript-id>
-    <title>Post-2020 greenhouse gas emissions reduction target</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>28/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government is inviting submissions on Australia’s next greenhouse gas emissions reduction target for the post-2020 period.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24323</transcript-id><title>Post-2020 greenhouse gas emissions reduction target</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>28/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government is inviting submissions on Australia’s next greenhouse gas emissions reduction target for the post-2020 period.</p>
 <p>We are determined to reduce emissions – but without a carbon tax and without destroying jobs.</p>
 <p>All countries have agreed to propose their national post-2020 emissions reduction target before the United Nations climate change conference in Paris in December 2015.</p>
 <p>This government is committed to tackling climate change through direct action measures and will announce Australia’s post-2020 emission reduction target in mid-2015.</p>
@@ -24,6 +14,4 @@
 <p>The issues paper and further information on the submissions process can be found at <a href="http://www.dpmc.gov.au/">www.dpmc.gov.au</a>.</p>
 <p>Submissions on the issues paper are sought by 24 April 2015.</p>
 <p>28 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

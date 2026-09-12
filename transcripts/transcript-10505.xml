@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10505</transcript-id>
-    <title>Radio Interview with Alan Jones, Radio 2UE </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/09/1997</release-date>
-    <release-type>Interview</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010505.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>25 September 1997</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10505</transcript-id><title>Radio Interview with Alan Jones, Radio 2UE </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/09/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010505.pdf</document><subjects></subjects><content><![CDATA[<p>25 September 1997</p>
 <p>E&amp;OE...............................................</p>
 <p>JONES:</p>
 <p>Good morning. Prime Minister, just because you may not have heard what I just said.</p>
@@ -85,6 +75,4 @@
 <p>JONES:</p>
 <p>Thank you for your time.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

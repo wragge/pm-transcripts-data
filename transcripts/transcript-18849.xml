@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18849</transcript-id>
-    <title>Remarks at Launch of Oz Fest</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/10/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New Delhi, India</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18849</transcript-id><title>Remarks at Launch of Oz Fest</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/10/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New Delhi, India</p>
 <p>Tonight, I have the pleasure to open Oz Fest  -  my country's biggest ever cultural festival in your country.</p>
 <p>Oz Fest will bring a touch of Australia to India's shores.</p>
 <p>Running from the middle of October through to early February next year, Oz Fest will reach out to audiences in 18 locations across India, in the north, the south, the west and the east.</p>
@@ -43,6 +33,4 @@
 <p>Like OzFest itself, this scholarship symbolises everything we have to share and everything we have to learn from each other.</p>
 <p>In that spirit, it gives me great pleasure to formally declare Oz Fest open in the hope it will bring joy to many and strengthen the bonds of affection and respect that exist between our two nations.</p>
 <p>So let the music begin and let's build for the future together.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

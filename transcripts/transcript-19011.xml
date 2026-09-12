@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19011</transcript-id>
-    <title>Australia Day Flag Raising and Citizenship Ceremony</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/01/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19011</transcript-id><title>Australia Day Flag Raising and Citizenship Ceremony</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/01/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>I begin by honouring the traditional owners of this country upon which we gather, and in the same spirit of friendship, I greet all indigenous Australians.</p>
 <p>On this day above all days, I honour and recognise your ancient cultures, your unbroken story of pride and endurance, and your continuing connection to this land.</p>
 <p>And in a spirit of reconciliation, I pledge my untiring efforts to build a nation in which all Australians walk in dignity and equality together.On this day of celebration and affirmation, I acknowledge the outstanding work of the National Australia Day Council in bringing Australia Day festivities to all Australians.</p>
@@ -38,6 +28,4 @@
 <p>Welcome to citizenship.</p>
 <p>Welcome to Australia.</p>
 <p>Welcome home.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

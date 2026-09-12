@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23006</transcript-id>
-    <title>Establishment of the Prime Minister&#039;s Business Advisory Council </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>26/09/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, I announce the appointment of Mr Maurice Newman AC as the Chairman of the Prime Minister’s Business Advisory Council.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23006</transcript-id><title><![CDATA[Establishment of the Prime Minister&#039;s Business Advisory Council ]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>26/09/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, I announce the appointment of Mr Maurice Newman AC as the Chairman of the Prime Minister’s Business Advisory Council.</p>
 <p>Mr Newman is a former Chairman of the Australian Stock Exchange, Deutsche Bank (Asia Pacific), the Australian Broadcasting Corporation as well as a former Chancellor of Macquarie University.</p>
 <p>Government and business have a shared interest in the economic success of Australia.</p>
 <p>We appreciate that a strong economy needs profitable and dynamic businesses to sustain it.</p>
@@ -22,10 +12,8 @@
 <p>Prime Minister’s Business Advisory Council</p>
 <p>Department of Prime Minister and Cabinet</p>
 <p>PO Box 6500</p>
-<p>CANBERRA  ACT  2600</p>
+<p>CANBERRA&nbsp; ACT&nbsp; 2600</p>
 <p>Applications must be received by Friday 11 October 2013.</p>
 <p>I look forward to working with Mr Newman and members of the Advisory Council.</p>
 <p>26 September 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

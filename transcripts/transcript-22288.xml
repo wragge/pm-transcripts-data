@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22288</transcript-id>
-    <title>Address at the Official Arrival Ceremony The White House, Washington </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/05/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Mr. President and Mrs. Bush, Mr. Vice President and Mrs. Cheney, ladies and gentlemen. Can I say to you, Mr. President, for myself and my wife, and I know all of the Australians present here today, how much we welcome and appreciate the warmth and generosity of the hospitality and welcome that you have extended to us.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22288</transcript-id><title>Address at the Official Arrival Ceremony The White House, Washington </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/05/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Mr. President and Mrs. Bush, Mr. Vice President and Mrs. Cheney, ladies and gentlemen. Can I say to you, Mr. President, for myself and my wife, and I know all of the Australians present here today, how much we welcome and appreciate the warmth and generosity of the hospitality and welcome that you have extended to us.</p>
 <p>It is possible, Mr. President, to count on the fingers of our two hands the number of nations that have remained continuously democratic over the last 100 years. And two of those nations are of course the United States of America and the Commonwealth of Australia. Our common history, our common commitment to liberty, and to democracy, has been an important bond that has united the people of America and the people of Australia.</p>
 <p>But it's also been our shared values that have been an important constant in that relationship. A belief that the worth of a person is defined not by his or her race, or religion, or nationality, but rather the worth of that person's character, and his or her commitment to the common future of the nation of which he is a part; a belief that the greatest force for good within any society is stable families, because it's families that bring out the best in people and provide them with the greatest source of emotional support and sustenance; and also, a belief that economic future and economic liberty is best defined by competitive capitalism and the working out of market forces, provided our societies provide an understanding of the need to protect those who, through no fault of their own, may need assistance.</p>
 <p>And they are many of the values that have defined both of our societies, and they are some of the values that have brought our two societies together.</p>
@@ -22,6 +12,4 @@
 <p>I salute your courage and your commitment, your personal decency and your personal leadership of this great democracy, of this great country. And I thank you very warmly for all the Australians present for the grace and dignity and genuineness of your welcome.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

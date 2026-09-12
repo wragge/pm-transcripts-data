@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10967</transcript-id>
-    <title>TRANSCRIPT OF PRIME MINISTER                THE HON JOHN HOWARD MP                ANNOUNCEMENT OF THE SUCCESSFUL PROPONENT TO BUILD THE VERY HIGH SPEED                 TRAIN BETWEEN SYDNEY AND CANBERRA                PARLIAMENT HOUSE, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/08/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10967</transcript-id><title>TRANSCRIPT OF PRIME MINISTER                THE HON JOHN HOWARD MP                ANNOUNCEMENT OF THE SUCCESSFUL PROPONENT TO BUILD THE VERY HIGH SPEED                 TRAIN BETWEEN SYDNEY AND CANBERRA                PARLIAMENT HOUSE, CANBERRA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/08/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.................................................................................................</p>
 <p>Thank you very much Mr Vaile, to Mrs Carnell, the Chief Minister of</p>
 <p> the ACT, to my many Ministerial and Parliamentary colleagues, ladies</p>
 <p> and gentleman.</p>
@@ -102,6 +92,4 @@
 <p> I wish all those involved great success and I assure the project of</p>
 <p> the unrelenting and continuing support of the Federal Government.</p>
 <p> Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

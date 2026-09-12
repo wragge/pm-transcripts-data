@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17991</transcript-id>
-    <title>Transcript of interview with John Stanley, 2UE</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17991</transcript-id><title>Transcript of interview with John Stanley, 2UE</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard, good afternoon to you.</p>
 <p>PM: Good afternoon.</p>
 <p>HOST: Now, the Newspoll today shows primary support for Labor down to 27 per cent, that's a fall of something like 12 per cent on the last election. How are you going to convince, you've got to convince at least 12 per cent of the population, who have deserted you since the last election, to come back, how are you going to do that?</p>
@@ -82,6 +72,4 @@ HOST: Julia Gillard, good afternoon to you.</p>
 <p>PM: -Well, I will let others deal with all of that. My job is to get things done, not to worry about how it's reported the next day.</p>
 <p>HOST: OK, Prime Minister, we have taken a lot of your time, I thank you.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

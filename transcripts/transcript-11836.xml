@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11836</transcript-id>
-    <title>Interview on Radio 2HD, Newcastle</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Newcastle trip; fund raising for cancer treatment; John Fahey; election timing</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11836</transcript-id><title>Interview on Radio 2HD, Newcastle</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Newcastle trip; fund raising for cancer treatment; John Fahey; election timing</p>
 <p>E&amp;OE................................</p>
 <p>GRANT:</p>
 <p>Good morning Prime Minister.</p>
@@ -102,6 +92,4 @@
 <p>PRIME MINISTER:</p>
 <p>Bye bye.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

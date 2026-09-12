@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41418</transcript-id>
-    <title>Speech at the Australian Institute of Marine Science</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/01/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41418</transcript-id><title>Speech at the Australian Institute of Marine Science</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/01/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Well thanks Paul. Well Paul, thank you very much, thank you Penny, thank you Russell.</p>
 <p>Can I just say how appropriate it is, how wonderful it is to be here at the Australian Institute of Marine Science, because science is at the heart of everything we are doing about the Great Barrier Reef. Science is at the heart of the solutions to all of the great challenges we face.</p>
 <p>We’re talking - focusing very much on the challenges that climate change poses to the Reef.</p>
@@ -27,6 +17,4 @@
 <p>We’re honoured to be here, my parliamentary colleagues and I in the presence of so many great scientists. You can’t have great science without great scientists, and we’re glad to be able to provide the additional financial resources to see that you do even more outstanding work over the next 18 months and of course for many years and decades to come.</p>
 <p>Thank you very much, it’s great to be here.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

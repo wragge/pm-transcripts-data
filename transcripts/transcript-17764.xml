@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17764</transcript-id>
-    <title>Review of GST distribution</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/03/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17764</transcript-id><title>Review of GST distribution</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/03/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
  The Gillard Government has commissioned a review of the distribution of revenue from the Goods and Services Tax to the States and Territories.</p>
 <p>We have appointed Nick Greiner, John Brumby and Bruce Carter to conduct the review.</p>
 <p>The review will lead to a simpler, fairer, more predictable and more efficient distribution of the GST to States and Territories.</p>
@@ -17,8 +7,8 @@
 <p>This will build a stronger Australian economy and make for better, more efficient delivery of essential services like schools and hospitals. </p>
 <p>Under any changes that might be considered by the Government, we will ensure that smaller States continue to receive a fair share of GST revenue, and that States with larger economies are not unfairly penalised for success.</p>
 <p>At present, there are a number of elements of the distribution arrangements that could be improved. Under the current arrangements, there is:</p>
-<p> * 	Not enough incentive for reform  -  currently underperformance in service delivery and economic growth can be rewarded. As far as possible, States should not be put in the position where they can be penalised for investing in economic growth and improved service delivery.<br />
- * 	A need for more certainty and predictability  -  currentlyStates can be hit with unexpected shocks to their finances.<br />
+<p> * 	Not enough incentive for reform  -  currently underperformance in service delivery and economic growth can be rewarded. As far as possible, States should not be put in the position where they can be penalised for investing in economic growth and improved service delivery.<br>
+ * 	A need for more certainty and predictability  -  currentlyStates can be hit with unexpected shocks to their finances.<br>
  * 	The potential for greater simplicity -  current arrangements are complex and accordingly not very transparent.</p>
 <p>The incentive for states to pursue reforms which get the best performance from their economies can be excessivelydulled by the current arrangements for distributingrevenue gains away to other states.</p>
 <p>On the other hand, major errors in economic management that lead to sustained slow growth in a way that hurts a state's ongoing ability to raise revenue can be compensated.</p>
@@ -32,6 +22,4 @@
 <p>The Commonwealth Grants Commission will continue to serve as the independent umpire and make recommendations on the distribution of GST revenue.</p>
 <p>The Federal Government will request the CGC to update its methodology to reflect any agreed recommendations from the Review. </p>
 <p>The Review will not affect the distribution of the GST revenue in 2011-12 or 2012-13. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17810</transcript-id>
-    <title>Speech to dinner for Korean War veterans</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/04/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17810</transcript-id><title>Speech to dinner for Korean War veterans</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/04/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 His Excellency Mr Park Sung-choon, Minister for Patriots and Veterans Affairs, and Mrs ParkVeterans of the Korean War, and accompanying family members  -  and I am particularly pleased to see here this evening some of those Korean veterans and family members who fought alongside the Australian forces</p>
 <p>Keith Payne, VC, Lieutenant General Ken Gillespie, Chief of Army.</p>
 <p>Ambassador and Mrs Gerovich, serving members of 3 RAR, other distinguished guests, ladies and gentlemen.</p>
@@ -65,6 +55,4 @@ His Excellency Mr Park Sung-choon, Minister for Patriots and Veterans Affairs, a
 <p>This land where generations of Korean children have grown up in security.</p>
 <p>Hard-fought and hard-won.</p>
 <p>Tomorrow we commemorate ANZAC Day and I know it will be as special for you as it will be for me.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

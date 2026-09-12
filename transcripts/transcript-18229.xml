@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18229</transcript-id>
-    <title>Transcript of joint press conference with Prime Minister Cameron</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18229</transcript-id><title>Transcript of joint press conference with Prime Minister Cameron</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much, I'm delighted to be able to introduce Prime Minister Cameron, who has an important announcement to make.</p>
 <p>Prime Minister.</p>
 <p>CAMERON: Well, thank you very much and I'm grateful to Prime Minister Gillard for hosting the meeting that we've just had today. This has been, I believe, something of an historic moment. This has been the first time that the Queen's 16 realms have acted together as one single group. From the Pacific to the North Atlantic we are diverse countries, united not just by our association through the Commonwealth, but by sharing one head of state.</p>
@@ -64,6 +54,4 @@ PM: Thank you very much, I'm delighted to be able to introduce Prime Minister Ca
 <p>So we've taken the steps that we've taken. We've given some international lead on this, but it's for other countries to make their own decisions in their own way.</p>
 <p>PM: I will be holding a press conference with the Commonwealth Secretary General to discuss the events of the day. But as I indicated a little bit earlier today, the meeting has adopted the recommendations of the Commonwealth Ministerial Action Group on strengthening its role and work in the future to make sure that there are ways of getting involved if a country is starting to experience problems rather than just watching that get to a situation where the only choice that leaders could be confronted with is suspension or expulsion. On the details of that, I'll be canvassing them with the Commonwealth Secretary General at a later event. Thank you very much.</p>
 <p>CAMERON: Thank you very much indeed. Thank you Julia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11266</transcript-id>
-    <title>FATHER WALTER LINI</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/02/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> I have today sent the following message of condolence to the</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11266</transcript-id><title>FATHER WALTER LINI</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/02/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> I have today sent the following message of condolence to the</p>
 <p> Honourable Donald Kalpokas, Prime Minister of Vanuatu, on the death</p>
 <p> of Father Walter Lini. Australia will be represented at his funeral</p>
 <p> tomorrow morning by the Speaker, the Hon. Neil Andrew, MP:</p>
@@ -37,6 +27,4 @@
 <p>Yours sincerely</p>
 <p> (John Howard)</p>
 <p> 21 February 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

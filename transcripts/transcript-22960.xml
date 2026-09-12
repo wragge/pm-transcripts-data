@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22960</transcript-id>
-    <title>Radio Interview with John Miller, 4BC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Queensland politics; school funding; superannuation; Australian Made; illegal immigrants; drug policy; trade; veterans' care; marine fuel; cricket</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22960</transcript-id><title>Radio Interview with John Miller, 4BC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Queensland politics; school funding; superannuation; Australian Made; illegal immigrants; drug policy; trade; veterans' care; marine fuel; cricket</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MILLER:</p>
 <p>And joining me live in the studio now the Prime Minister of Australia, Mr John Howard. Prime Minister good morning.</p>
@@ -124,6 +114,4 @@
 <p>MILLER:</p>
 <p>Prime Minister thanks for being with us this morning.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

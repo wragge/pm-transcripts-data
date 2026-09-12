@@ -1,21 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23966</transcript-id>
-    <title>G20 decisions make global economy more resilient</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>16/11/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>G20 leaders today endorsed a range of measures designed to make the global economy more resilient to future shocks and to protect business and consumer interests.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23966</transcript-id><title>G20 decisions make global economy more resilient</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>16/11/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>G20 leaders today endorsed a range of measures designed to make the global economy more resilient to future shocks and to protect business and consumer interests.</p>
 <p>Australia has focused on four areas to ensure the circumstances that led to the 2008 global financial crisis will never be repeated:</p>
-<ul><li>strengthen financial institutions;</li>
+<ul>
+<li>strengthen financial institutions;</li>
 <li>protect taxpayers from having to fund bailouts if ‘too big to fail’ financial institutions run into difficulty;</li>
 <li>address shadow banking risks; and</li>
 <li>make derivative markets safer.</li>
-</ul><p>The G20 Leaders’ Summit has delivered on this commitment.</p>
+</ul>
+<p>The G20 Leaders’ Summit has delivered on this commitment.</p>
 <p>These important reforms mean the global financial system is far more resilient than it was at the time of the crisis.</p>
 <p>Banks have more and higher quality capital, derivatives markets are more transparent and we have reduced risks in the shadow banking sector.</p>
 <p>We have also agreed to a proposal to protect taxpayers should a large global bank fail.</p>
@@ -25,6 +17,4 @@
 <p>I would like to thank the FSB for its work this year. I welcome Governor Carney’s reappointment as Chairman of the FSB for a further three year term.</p>
 <p>His leadership has been invaluable in progressing this important agenda.</p>
 <p>16 November 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

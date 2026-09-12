@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11843</transcript-id>
-    <title>Interview with Garth Russell and Steve Grahame, Radio NXFM, Newcastle</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  Election timing; visit to Newcastle</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11843</transcript-id><title>Interview with Garth Russell and Steve Grahame, Radio NXFM, Newcastle</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  Election timing; visit to Newcastle</p>
 <p>E&amp;OE..................................</p>
 <p>JOURNALIST:</p>
 <p>Good morning, John.</p>
@@ -88,6 +78,4 @@
 <p>JOURNALIST:</p>
 <p>We might play some music for you to go out to because we know you're in a bit of a rush.  Bit of Benny Hill music to see you off.  Thanks Mr Prime Minister.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

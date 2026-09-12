@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15757</transcript-id>
-    <title>Interview on ABC Radio &#039;AM&#039; Program, with Peta Donald    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: The Prime Minister, Kevin Rudd, spoke this morning to Peta Donald in Canberra.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15757</transcript-id><title><![CDATA[Interview on ABC Radio &#039;AM&#039; Program, with Peta Donald    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: The Prime Minister, Kevin Rudd, spoke this morning to Peta Donald in Canberra.</p>
 <p>PM:  The advice the Government has received this morning is the situation on the streets in Dili remains calm. That the Government of East Timor is in firm control. And also, our own defence assets begin arriving today.</p>
 <p>DONALD:What will they be doing when they get there? Do you think it is essential that they get out and round up supporters of the rebel leader Alfredo Reinado?</p>
 <p>PM: My job is to respond to the request from our friend and partner, the Prime Minister of East Timor.</p>
@@ -34,6 +24,4 @@
 <p>And the reason I've done that is your very point. We're dealing with a matter here which goes to how we as a nation heal and how it is best done if we as a parliament can act in unanimity on this question.</p>
 <p>But the core part of making sure this apology is effective is to make sure it is done right and proper with the Aboriginal people. They are the most important people in this equation today, not politicians, be it Government or Opposition.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

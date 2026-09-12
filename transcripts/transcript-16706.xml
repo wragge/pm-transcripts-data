@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16706</transcript-id>
-    <title>Address to the Labor Party - Tasmanian Branch Hobart   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/07/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16706</transcript-id><title>Address to the Labor Party - Tasmanian Branch Hobart   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/07/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I acknowledge the First Australians on whose land we meet and whose culture we celebrate as one of the oldest continuing cultures in human history.</p>
 <p>And I acknowledge this great branch of the Australian Labor Party  -  the rank and file members and supporters who do some of the hardest jobs in politics.</p>
 <p>Those who do the hard work of keeping our party strong and healthy.</p>
@@ -226,6 +216,4 @@ I acknowledge the First Australians on whose land we meet and whose culture we c
 <p>It will require persistence, patience and perseverance.</p>
 <p>And it will require resolute political will.</p>
 <p>But when the history is written, let us hope they will look back and say this was a Government that made a difference.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18055</transcript-id>
-    <title>Address to the Tasmanian branch of the ALP State Conference, Hobart</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/08/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18055</transcript-id><title>Address to the Tasmanian branch of the ALP State Conference, Hobart</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/08/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Thanks Nick for that warm Tasmanian welcome.</p>
 <p>It's so good to be among so many friends.</p>
 <p>Some friends I've known for so many years that it's best we pass over the detailed chronology, some friends I made here last night and I see again today.</p>
@@ -155,6 +145,4 @@ Thanks Nick for that warm Tasmanian welcome.</p>
 <p>And I know, we know, that these good things will not just happen to our country. </p>
 <p>We must make them so, together.</p>
 <p>Together, I know we will. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

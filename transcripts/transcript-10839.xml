@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10839</transcript-id>
-    <title>BEAZLEY&amp;#146;S TASMANIAN BACKFLIP</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/08/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Kim Beazley's unconditional offer to write off $150 million of</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10839</transcript-id><title><![CDATA[BEAZLEY&amp;#146;S TASMANIAN BACKFLIP]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/08/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Kim Beazley's unconditional offer to write off $150 million of</p>
 <p> Tasmanian State Government debt should be seen for what it is -- a</p>
 <p> desperate backflip in an attempt to win votes.</p>
 <p>Less than a day after pouring scorn on the Government's offer,</p>
@@ -25,6 +15,4 @@
 <p> essential to guaranteeing a future for Tasmanians, especially young</p>
 <p> people.</p>
 <p> 21 August 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

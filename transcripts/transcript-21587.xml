@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21587</transcript-id>
-    <title>Doorstop Interview Manuka Oval, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/01/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21587</transcript-id><title>Doorstop Interview Manuka Oval, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/01/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>There's been the expected upturn of violence in Iraq, are you concerned that average Iraqis may stay away from the poll out of fear?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I certainly hope not.  There's an enormous amount at stake and I admire in an enormous way the courage of the Iraqi people in embracing democracy in the face of these fearful odds.  And if anybody wanted a demonstration of the justness of our cause in Iraq they should look at what is happening.  You're seeing a determined attempt by terrorists and murderers to deny people the opportunity of a democratic way of life.  The worst thing in the world would be to postpone the election.  I hope that there is a big turn out.  Bear in mind that in many democratic countries the turnout is barely 50 per cent, so let's not get too sensorius and moralistic about voter turnouts.  The important thing is that a ballot is being held and from this could emerge the first democratic Arab state and that is a hugely important historic development in the Middle East and of long term significance to the stability of the region.</p>
@@ -79,6 +69,4 @@
 <p>Absolutely.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

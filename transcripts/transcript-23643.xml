@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23643</transcript-id>
-    <title>A message from the Prime Minister - Boosting economic growth</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/07/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Later this year, Brisbane will host the leaders of the world’s biggest economies at the G20 summit.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23643</transcript-id><title>A message from the Prime Minister - Boosting economic growth</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/07/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Later this year, Brisbane will host the leaders of the world’s biggest economies at the G20 summit.</p>
 <p>This year’s summit will focus on boosting economic growth – because stronger economic growth is the key to addressing almost every global problem.</p>
 <p>The outcome should be more jobs, better infrastructure, freer trade and greater co-operation – because these are the foundations of stronger economies.</p>
 <p>As President, Australia is already leading by example.</p>
@@ -21,8 +11,6 @@
 <p>The agreement with Japan will benefit our farmers and our businesses – 97 per cent of Australia’s exports to Japan will receive preferential access or enter duty-free once the Agreement is fully implemented.</p>
 <p>And consumers here will benefit from less expensive Japanese cars and parts, and from lower prices on household items like white goods and electronics.</p>
 <p>This coming week, business leaders from around the world will meet in Sydney.</p>
-<p>My message to them is that Australia is open for business.  Together, we can foster growth and we can and will create more jobs.</p>
+<p>My message to them is that Australia is open for business. &nbsp;Together, we can foster growth and we can and will create more jobs.</p>
 <p>13 July 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17866</transcript-id>
-    <title>Historic launch of NBN in Armidale</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17866</transcript-id><title>Historic launch of NBN in Armidale</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard made history today after officially launching the National Broadband Network for the first time on mainland Australia.</p>
 <p>The Prime Minister and the Minister for Broadband, Senator Stephen Conroy, launched the NBN in the regional city of Armidale today in northern New South Wales.</p>
 <p>Switching on the NBN on mainland Australia will offer unprecedented opportunities.</p>
 <p>It will help create jobs, provide greater training options, support regional growth and improve health and education services across rural and regional Australia.</p>
 <p>The Prime Minister said the NBN will end the tyranny of distance between rural and regional Australia and our capital cities  -  it will literally change the way Australians live and work.</p>
 <p>By delivering a fibre to home connection, the NBN will:</p>
-<p> * 	reduce the need to travel for health services;<br />
- * 	allow local businesses to reach new markets and create new job opportunities; and<br />
+<p> * 	reduce the need to travel for health services;<br>
+ * 	allow local businesses to reach new markets and create new job opportunities; and<br>
  * 	offer better access to education and training resources for young people.</p>
 <p>The Prime Minister said residents and businesses in Armidale were the first on the mainland to get access to the NBN.</p>
 <p>The Armidale NBN footprint will ultimately cover 4,882 premises, including the University of New England. There are around 2,900 premises covered excluding the University.</p>
@@ -35,6 +25,4 @@ Prime Minister Julia Gillard made history today after officially launching the N
 <p>Senator Conroy said today is just the beginning with more and more people coming online over the coming months and enjoying the benefits of the NBN.</p>
 <p>Armidale is one of five first release sites where the NBN is rolling out on mainland Australia.</p>
 <p>The other sites of Kiama Downs and Minnamurra (NSW), Townsville (QLD), Willunga (SA) and Brunswick (Vic) will begin offering services progressively over the coming months.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

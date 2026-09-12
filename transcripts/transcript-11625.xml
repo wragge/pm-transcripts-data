@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11625</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS TO NATIONAL INNOVATION SUMMIT DINNER            GRAND HYATT, MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/02/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11625</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS TO NATIONAL INNOVATION SUMMIT DINNER            GRAND HYATT, MELBOURNE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/02/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.........................................................................................</p>
 <p>Thank you very much Campbell to you and my Ministerial colleagues, Nick</p>
 <p> Minchin in particular, the co-organisers and co-hosts of this very remarkable</p>
 <p> gathering of very dedicated, diverse and distinguished Australians. To</p>
@@ -200,6 +190,4 @@
 <p> and the years unfold. I think this has been a great exercise and I thank</p>
 <p> all of you for being an important part of it.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

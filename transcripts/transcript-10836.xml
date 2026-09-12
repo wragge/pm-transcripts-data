@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10836</transcript-id>
-    <title>ECONOMIC AND FINANCIAL MANAGEMENT INITIATIVE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/11/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> Australia will implement a $50 million initiative over the next</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10836</transcript-id><title>ECONOMIC AND FINANCIAL MANAGEMENT INITIATIVE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/11/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> Australia will implement a $50 million initiative over the next</p>
 <p> three years to assist economies in the region affected by the financial</p>
 <p> crisis.</p>
 <p>The Economic and Financial Management Initiative will help APEC members</p>
@@ -34,6 +24,4 @@
 <p>The package represents new programmes which will be funded from within</p>
 <p> the existing aid budget.</p>
 <p> 16 November 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

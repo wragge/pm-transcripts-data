@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10587</transcript-id>
-    <title>Half Masting of the Australian National Flag -  Death of last Anzac who Landed on 25 April 1915</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/12/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On the occasion of the State Funeral Service for the late Albert Edward (Ted) Matthews on 16 December 1997, the Australian National Flag will be flown at half mast all day, Australia wide, on all Commonwealth buildings as a mark of respect for Mr Matthews and his comrades-in-arms who took part in the first landings at Gallipoli over 72 years ago.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10587</transcript-id><title>Half Masting of the Australian National Flag -  Death of last Anzac who Landed on 25 April 1915</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/12/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On the occasion of the State Funeral Service for the late Albert Edward (Ted) Matthews on 16 December 1997, the Australian National Flag will be flown at half mast all day, Australia wide, on all Commonwealth buildings as a mark of respect for Mr Matthews and his comrades-in-arms who took part in the first landings at Gallipoli over 72 years ago.</p>
 <p>Mr Matthews was the last living survivor of those who stormed the beaches at Anzac Cove on the morning of 25 April 1915 and whose deeds forged the ANZAC legend.</p>
 <p>The legacy of service and sacrifice given by Mr Matthews and his many comrades is deeply appreciated by all Australians and it is fitting to acknowledge the memory of all involved in that campaign and who have now passed away.</p>
 <p>14 December 1997</p>
@@ -25,6 +15,4 @@
 <p> comrades is deeply appreciated by all Australians and it is fitting</p>
 <p> to acknowledge the memory of all involved in that campaign and who</p>
 <p> have now passed away.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

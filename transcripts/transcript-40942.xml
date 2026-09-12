@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40942</transcript-id>
-    <title>Interview with Michael Rowland, ABC News Breakfast</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The Budget</subjects>
-    <content><![CDATA[<p><strong>MICHAEL ROWLAND: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40942</transcript-id><title>Interview with Michael Rowland, ABC News Breakfast</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The Budget</subjects><content><![CDATA[<p><strong>MICHAEL ROWLAND: </strong></p>
 <p>The task now is to sell the budget. I am pleased to say, I am joined by the chief salesman. The Prime Minister of Australia, Malcolm Turnbull, good morning and welcome to Breakfast.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning, good to be with you.</p>
@@ -26,7 +16,7 @@
 <p><strong>MICHAEL ROWLAND:</strong></p>
 <p>Some commentary around this morning that this is payback by the government for the banker’s association appointing former Labor Premier Anna Bligh as the chief executive?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Well that is commentary. The fact is that we need to bring the budget back into balance. That is a fundamental responsibility. This budget is fair, Michael, it is fair at every level. We are bringing it back into balance so we don't burden our children and grandchildren with a mountain of debt. That’s fair.  We are fully funding the National Disability Insurance Scheme. That is fair. Now, Labor couldn't do that. We haven't been able to secure the savings through the Senate to fund it through savings, so we are increasing the Medicare Levy from 2019, to ensure the Disability Insurance Scheme is fully funded.</p>
+<p>Well that is commentary. The fact is that we need to bring the budget back into balance. That is a fundamental responsibility. This budget is fair, Michael, it is fair at every level. We are bringing it back into balance so we don't burden our children and grandchildren with a mountain of debt. That’s fair.&nbsp; We are fully funding the National Disability Insurance Scheme. That is fair. Now, Labor couldn't do that. We haven't been able to secure the savings through the Senate to fund it through savings, so we are increasing the Medicare Levy from 2019, to ensure the Disability Insurance Scheme is fully funded.</p>
 <p>We are guaranteeing Medicare, restoring indexation, creating a Medicare guarantee fund and we are ensuring that schools funding conforms with David Gonski's recommendations. Labor never did that.</p>
 <p>Schools funding will be national, consistent, needs-based, transparent and fair.</p>
 <p>So this is a very fair budget, it’s a responsible budget and it is of course, driving a massive investment in infrastructure. $75 billion in road and rail alone.</p>
@@ -72,6 +62,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Great to be with you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

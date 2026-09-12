@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17348</transcript-id>
-    <title>Prime Minister Transcript of interview with Kerry O&#039;Brien The 7:30 Report 17 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>O'BRIEN: The Prime Minister joins me now from Canberra.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17348</transcript-id><title><![CDATA[Prime Minister Transcript of interview with Kerry O&#039;Brien The 7:30 Report 17 June 2010 ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>O'BRIEN: The Prime Minister joins me now from Canberra.</p>
 <p>Kevin Rudd, when you singled out the mining industry table at the Mid Winter Ball in your speech last night, and said to them, in relation to the current dispute over the resources tax, "We've got a long memory", what exactly did you mean?</p>
 <p>PM: Well, I think it's pretty interesting, Kerry. First of all, it's good to be back in 7:30 Report land. It's great to be back with you.</p>
 <p>The Ball last night is just a fun and frivolous occasion. Last time I heard it was supposed to be, sort of, off the record. It was just a throwaway line, that's all, and I think anyone observing that would know that. The truth is that-</p>
@@ -87,6 +77,4 @@
 <p>PM: -keeping the economy strong, unemployment at 5.2 per cent. That's as important as the other matters we're engaged in right now in the debate.</p>
 <p>O'BRIEN: Kevin Rudd, thanks for talking with us.</p>
 <p>PM: I appreciate it.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

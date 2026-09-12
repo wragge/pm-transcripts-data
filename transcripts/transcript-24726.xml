@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24726</transcript-id>
-    <title>A message from the Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/08/2015</release-date>
-    <release-type></release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Ever since becoming a Member of Parliament, I have tried to get out of the office so that people can tell me about their lives and about the issues they face.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24726</transcript-id><title>A message from the Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/08/2015</field_date><release-type></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Ever since becoming a Member of Parliament, I have tried to get out of the office so that people can tell me about their lives and about the issues they face.</p>
 <p>So, this week, I will be visiting Indigenous communities in the Torres Strait and on the tip of Cape York.</p>
 <p>It will be the first visit by a Prime Minister to this region in 18 years.</p>
 <p>I will be visiting some areas that no Prime Minister has ever been to and on this trip I’ll be joined by Ministers and by senior officials.</p>
@@ -19,6 +9,4 @@
 <p>That is where we must focus if we are to make meaningful progress.</p>
 <p>We are a great country but we won’t be everything we can be until Indigenous people are participating fully in our national life.</p>
 <p>So I do look forward to spending this week in the Torres Strait and the tip of Cape York and to working with Indigenous people on the practical things; the practical things that we can do to help improve their lives.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

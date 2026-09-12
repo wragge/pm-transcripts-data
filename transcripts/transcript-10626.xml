@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10626</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP TELEVISION INTERVIEW WITH KERRY O&amp;#146;BRIEN 7.30 REPORT, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/02/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>O'BRIEN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10626</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP TELEVISION INTERVIEW WITH KERRY O&amp;#146;BRIEN 7.30 REPORT, CANBERRA]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/02/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>O'BRIEN:</p>
 <p>John Howard, I know that you are still hoping for a diplomatic</p>
 <p>   solution, on Iraq, what do you think the odds are of that solution</p>
 <p>   being found diplomatically?</p>
@@ -230,12 +220,10 @@
 <p>   stability and decency and I think it really bodes well for the soul</p>
 <p>   of Australia that we can have a gathering like this conducted in</p>
 <p>   such a simple manner.</p>
-<p>Omanner.</p>
+<p>O&amp;#1manner.</p>
 <p>O'BRIEN:</p>
 <p>John Howard, thanks for talking with us.</p>
 <p>PRIME MINISTER:</p>
 <p>It's a pleasure.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

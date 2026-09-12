@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18305</transcript-id>
-    <title>2011 Prime Minister&#039;s Australian Exporter of the Year announced</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/12/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18305</transcript-id><title><![CDATA[2011 Prime Minister&#039;s Australian Exporter of the Year announced]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/12/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard has named engineering firm Sedgman Limited as the 2011 Australian Exporter of the Year, praising its commitment to innovation and sustainability.</p>
 <p>Sedgman designs, builds and operates coal and metal processing facilities in Asia, the Americas and Africa, as well as Australia.</p>
 <p>It specialises in cleaning coal and has helped implement ecologically sustainable initiatives in many developing countries.</p>
@@ -20,6 +10,4 @@ Prime Minister Julia Gillard has named engineering firm Sedgman Limited as the 2
 <p>It honours the achievements of Australian exporters and celebrates their contribution to national prosperity. </p>
 <p>The Prime Minister's Australian Exporter of the Year is selected from the winners of 12 national categories. Sedgman was also the winner of the Minerals and Energy Award. </p>
 <p>The 49th Australian Export Awards ceremony was hosted in Brisbane tonight by Trade Minister Craig Emerson, and co-presented by the Australian Trade Commission and Australian Chamber of Commerce and Industry. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

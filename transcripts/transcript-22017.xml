@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22017</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/11/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22017</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/11/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, what can you tell us about the death of a Special Forces soldier?</p>
 <p>PRIME MINISTER:</p>
 <p>Let me express my great sorrow at this tragic accident.  I extend my condolences to the man's wife and children and other family members and friends and record the valiant efforts made by a number of his colleagues to give first aid in order to try and save him. As to the details of it, the Chief of the Defence Force has already spoken about that and I don't wish to add anything, except to say that the death of any Australian soldier is a cause of great sadness to me, to the Government and I know to all of the people of Australia.</p>
@@ -23,6 +13,4 @@
 <p>The death of any man or woman in uniform of Australia is felt very keenly.  This man had a wonderful career with the SAS and he was an outstanding serviceman.  The loss of anybody in these circumstances is very tragic and I am very saddened by what's happened.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

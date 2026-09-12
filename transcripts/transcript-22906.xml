@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22906</transcript-id>
-    <title>Radio Interview with John Miller, 4BC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/10/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Minister Reith; Olympic hospitality; interest rates; petrol prices; Kate Carnell; governor-general.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22906</transcript-id><title>Radio Interview with John Miller, 4BC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/10/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Minister Reith; Olympic hospitality; interest rates; petrol prices; Kate Carnell; governor-general.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MILLER:</p>
 <p>Live from Sydney I have the Prime Minister of Australia, Mr John Howard. Prime Minister good morning.</p>
@@ -72,7 +62,7 @@
 <p>MILLER:</p>
 <p>Well do I gather from this then that really what we’re saying here is that you’re going to sit down and do the sums at that half-year review . . .</p>
 <p>PRIME MINISTER:</p>
-<p>Exactly.<br />
+<p>Exactly.<br>
 MILLER:</p>
 <p>And you’re not ruling out the possibility of . . .</p>
 <p>PRIME MINISTER:</p>
@@ -86,7 +76,7 @@ MILLER:</p>
 <p>PRIME MINISTER:</p>
 <p>Well I understand why Kate has done that and it’s a decision that she’s taken in the interests of the Liberal Party and the interests of good government of Canberra. She’s led a very good government and it’s quite wrong that she’s effectively been forced out by some Independents, just as it was wrong many years ago that Independents forced Nick Griener out as Premier of New South Wales. Canberra’s profited a great deal from the Liberal Government of Kate Carnell. I gather that as a result of this there’ll continue to be a Liberal Government in the ACT and that’s a good thing. There’ll be an election in a year’s time. But if you look at the record, it’s a very good one – jobs’ growth, investment, all of these things. She’s done very well, I congratulate her, she’s put the interests of the Liberal Party and the interests of Canberra ahead of her own and I compliment her on the job that she’s done as Chief Minister.</p>
 <p>MILLER:</p>
-<p>And finally this morning Prime Minister, suggestions that our next Governor-General could well be a lady and may well be Jocelyn Newman.<br />
+<p>And finally this morning Prime Minister, suggestions that our next Governor-General could well be a lady and may well be Jocelyn Newman.<br>
 PRIME MINISTER:</p>
 <p>John, I am not going to comment in any way on that issue. Anything anybody reads about this is pure speculation.</p>
 <p>MILLER:</p>
@@ -108,6 +98,4 @@ PRIME MINISTER:</p>
 <p>MILLER:</p>
 <p>Prime Minister we’re going to have to leave it there, thanks for your time this morning.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

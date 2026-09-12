@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22682</transcript-id>
-    <title>Commemorative Address at Hellfire Pass, Thailand</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/04/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As we gather here to face the dawn,</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22682</transcript-id><title>Commemorative Address at Hellfire Pass, Thailand</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/04/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As we gather here to face the dawn,</p>
 <p>We honour those who faced the night.</p>
 <p>Not a night of rest, nor dreams,</p>
 <p>Not a night of shared laughter or the warmth of homefire.</p>
@@ -29,6 +19,4 @@
 <p>On this day most of all, we mourn the fallen - long years of love and talent lost, of potential unrealised, of generations unborn.</p>
 <p>We would have them know of our firm and steadfast belief that they rest not in shades of darkness but bask in the brightness of an Australian sun.</p>
 <p>We would have them know that we will remember them.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

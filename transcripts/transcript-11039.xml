@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11039</transcript-id>
-    <title> DOORSTOP INTERVIEW - WATERFRONT PLACE, BRISBANE </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects> Response to Senator Harradine</subjects>
-    <content><![CDATA[<p>E&amp;OE................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11039</transcript-id><title> DOORSTOP INTERVIEW - WATERFRONT PLACE, BRISBANE </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Response to Senator Harradine</subjects><content><![CDATA[<p>E&amp;OE................................................................................................</p>
 <p>Well, ladies and gentlemen, I just called this short conference to</p>
 <p>say a few things about the statement that Senator Harradine made in</p>
 <p>the Senate this afternoon. Needless to say I'm disappointed that</p>
@@ -204,7 +194,7 @@
 <p>be diminished over time. Will you ever be able to convince him that</p>
 <p>it won't?</p>
 <p>PRIME MINISTER:</p>
-<p>Well there's no guarantee of anything in this life, except death and taxes of some form as they say. I mean I can't....Senator Harradine can't guarantee that wholesale taxes won't go up under a future Labor government, the taxes on clothing  on't be increased under a future Labor government. He couldn't stop that in 1993.</p>
+<p>Well there's no guarantee of anything in this life, except death and taxes of some form as they say. I mean I can't....Senator Harradine can't guarantee that wholesale taxes won't go up under a future Labor government, the taxes on clothing&nbsp; on't be increased under a future Labor government. He couldn't stop that in 1993.</p>
 <p>JOURNALIST:</p>
 <p>Are you prepared to offer Senator Harradine anything else to try and win his vote?</p>
 <p>PRIME MINISTER:</p>
@@ -239,6 +229,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well the budget is in relation to this coming financial year.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

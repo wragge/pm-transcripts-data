@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19005</transcript-id>
-    <title>Australia&#039;s National Security Beyond the 9/11 Decade</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/01/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19005</transcript-id><title><![CDATA[Australia&#039;s National Security Beyond the 9/11 Decade]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/01/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>CHECK AGAINST DELIVERY</p>
 <p>[ACKNOWLEDGMENTS OMITTED]</p>
 <p>In Coonabarabran recently I met a woman who told me with tears in her eyes that she had lost her home.</p>
@@ -180,6 +170,4 @@
 <p>We will ensure that Australia remains secure at home and strong in the world.</p>
 <p>We will keep our nation safe.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

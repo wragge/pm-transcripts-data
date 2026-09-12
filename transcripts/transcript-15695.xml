@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15695</transcript-id>
-    <title>Appointment of Departmental Secretaries    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/12/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the new arrangements for Departmental Secretaries of the Commonwealth Public Service.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15695</transcript-id><title>Appointment of Departmental Secretaries    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/12/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the new arrangements for Departmental Secretaries of the Commonwealth Public Service.</p>
 <p>To reduce unnecessary disruption to my government's program of work, most Secretaries will remain in their existing portfolios. </p>
 <p>In the newly established departments, Mr Mark Paterson will move to head up the Department of Innovation, Industry, Science and Research; Dr Peter Boxall will be Secretary of the Department of Resources, Energy and Tourism and Ms Patricia Scott will head the Department of Broadband, Communications and the Digital Economy.</p>
 <p>Ms Lisa Paul will be Secretary of the Department of Education, Employment and Workplace Relations.  Given its immediate responsibilities, an Associate Secretary for Employment and Workplace Relations will be appointed to this portfolio.</p>
@@ -19,6 +9,4 @@
 <p>I am still considering who will replace Dr Shergold as the Secretary of my Department.  I will make an announcement on this matter prior to Dr Shergold's retirement.</p>
 <p>Canberra</p>
 <p>Press Office (02) 6277 7744</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

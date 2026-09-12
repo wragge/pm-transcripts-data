@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21386</transcript-id>
-    <title>Interview with David Speers Sky News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21386</transcript-id><title>Interview with David Speers Sky News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p>Prime Minister, thanks for your time.  This British independent inquiry has found that Iraq had no stockpiles of chemical or biological weapons, but no deliberate distortion on the part of Tony Blair before the war in making the case for war.  Do you now concede that Saddam Hussein didn't have the weapons you said he did?</p>
 <p>PRIME MINISTER:</p>
 <p>I agree with Lord Butler.  He said it would be, and I quote him, "a rash person to say at this stage that stocks do not exist and will not be found".  That was Lord Butler's conclusion.  This report is not as critical of the intelligence agencies in Britain, and certainly not of Mr Blair, as many people predicted.  The report did find that Saddam had a strategic intent to pursue banned weapons programmes, including nuclear programmes, that he was carrying out illicit research, he was involved in developing ballistic missiles with a range longer than that permitted by the United Nations, and he expressly found that there was no distortion or dishonesty by the British Government.  So whilst the report is critical, yes, of some of the intelligence, certainly he's highly critical of aspects of it, the idea that it was going to find that the intelligence had been, to the use the famous expression, 'sexed up', did not turn out to be the case, and in that sense it's a good report from Mr Blair's point of view.</p>
@@ -162,6 +152,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>   [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24329</transcript-id>
-    <title>More bursaries to help young carers</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>30/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will provide an additional 150 bursaries to help young carers further their education.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24329</transcript-id><title>More bursaries to help young carers</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>30/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will provide an additional 150 bursaries to help young carers further their education.</p>
 <p>The Young Carer Bursary Programme allows carers up to 25 years old to continue study or vocational training.</p>
 <p>These are exceptional Australians. The Abbott Government is delivering on its pre-election commitment to further help them.</p>
 <p>Too often, carers sacrifice their education.</p>
@@ -23,6 +13,4 @@
 <p>The establishment of the Young Carer Bursary Programme was an election commitment that was delivered in the 2014-15 Budget.</p>
 <p>The initial programme was established to help 150 young carers each year with the cost of their tuition.</p>
 <p>30 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

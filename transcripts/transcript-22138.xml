@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22138</transcript-id>
-    <title>Doorstop Interview Adelaide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/02/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22138</transcript-id><title>Doorstop Interview Adelaide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/02/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well do you have any questions?</p>
 <p>JOURNALIST:</p>
 <p>Have you actually seen, at any stage, the 2001 DFAT cable regarding the situation with Iraq?</p>
@@ -120,6 +110,4 @@
 <p>PRIME MINISTER:</p>
 <p> Well I haven't seen that statement but let me say over the years Australia has contributed at least its fair share in the relationship between Australia and Singapore. We have good reasons for the decision we took yesterday, the negotiations and the discussion will continue but the suggestion that Qantas is a protected airline is quite false. If you actually drill down you will find Qantas is one of the least protected airlines in the world.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

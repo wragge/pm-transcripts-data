@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11915</transcript-id>
-    <title>Interview with Kerri-Anne Kennerley, Radio 2GB</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: petrol prices; pensions; Tough on Drugs; Ryan by-election </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11915</transcript-id><title>Interview with Kerri-Anne Kennerley, Radio 2GB</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: petrol prices; pensions; Tough on Drugs; Ryan by-election </p>
 <p>E&amp;OE................................ </p>
 <p>KENNERLEY:</p>
 <p>John Howard, a very good afternoon to you.</p>
@@ -84,6 +74,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks very much Kerri-Anne. It's always nice to talk to you.</p>
 <p>[Ends</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

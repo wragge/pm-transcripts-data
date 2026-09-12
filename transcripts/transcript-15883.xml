@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15883</transcript-id>
-    <title>Interview with Paul Borgiorno, Network Ten News   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BONGIORNO: Good afternoon, Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15883</transcript-id><title>Interview with Paul Borgiorno, Network Ten News   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BONGIORNO: Good afternoon, Prime Minister.</p>
 <p>PM: Good to be with you.</p>
 <p>BONGIORNO: There's no doubt the participants think it's been a successful summit. Did you get one new idea you were after?</p>
 <p>PM: Oh, I think we got more than one - we got a whole bunch of new ideas. We set ourselves a task, which was how do we think long-term, not short-term, shake the tree of the nation to get some new ideas for the future and let's explore a new way of governing with greater exchange between the community and government. I think we have made progress against all three.</p>
@@ -27,6 +17,4 @@
 <p>Some of these proposals are very complex. So I'd much rather we did it thoroughly and give people the courtesy of giving a full answer as to what we can say yes to, what we can't say yes to and the reasons why. But I think we've had a whole lot of good ideas. A whole lot of energy and enthusiasm from the community at large. And it's all about planning for Australia for long term. Not just short term fixes from one election to the next.</p>
 <p>BONGIORNO: Thank you very much.</p>
 <p>PM: Thanks, Paul</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

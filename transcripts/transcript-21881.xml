@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21881</transcript-id>
-    <title>Interview with Matthew Abraham and David Bevan ABC Radio, Adelaide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/08/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21881</transcript-id><title>Interview with Matthew Abraham and David Bevan ABC Radio, Adelaide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/08/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Good morning Prime Minister.</p>
 <p>PRIME MINISTER:</p>
 <p>How are you Matthew, David?</p>
@@ -149,6 +139,4 @@
 <p>JOURNALIST:</p>
 <p>Well I think we'll finish the interview right now.  Prime Minister John Howard, thank you for coming into 891 studios and having a yarn to us this morning.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23660</transcript-id>
-    <title>Interview with Liz Hayes, Nine Network</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/07/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Malaysia Airlines Tragedy </subjects>
-    <content><![CDATA[<p><strong>LIZ HAYES:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23660</transcript-id><title>Interview with Liz Hayes, Nine Network</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/07/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Malaysia Airlines Tragedy</subjects><content><![CDATA[<p><strong>LIZ HAYES:</strong></p>
 <p>Prime Minister, good evening to you. Thank you very much for your time. Do you know any more information about the bodies of the 37 Australians?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Liz, we all woke up this morning to very disturbing imagery of a crash site, an event site, that was being absolutely trampled and we saw bodies being put into bags and carted off to who knows where.</p>
@@ -43,6 +33,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks so much, Liz.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

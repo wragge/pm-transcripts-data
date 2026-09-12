@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17393</transcript-id>
-    <title>Prime Minister visits troops in Afghanistan</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/10/2010</release-date>
-    <release-type>Foreign Affairs</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17393</transcript-id><title>Prime Minister visits troops in Afghanistan</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/10/2010</field_date><release-type>Foreign Affairs</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister, Julia Gillard, has visited Australians serving in Afghanistan at the beginning of her first international trip since becoming Prime Minister and thanked them for their hard work and dedication on behalf of all Australians.</p>
 <p>In Tarin Kot she met with members of Combined Team Uruzgan, including personnel from the Australian Defence Force, Australian diplomats, AusAID officials, Australian Federal Police and the Special Operations Task Group and confirmed the Government's ongoing commitment to the mission in Afghanistan.</p>
 <p>The Prime Minister paid tribute to the professionalism and dedication of Australian personnel and honoured the 21 soldiers who have lost their lives during the deployment.</p>
@@ -23,6 +13,4 @@ The Prime Minister, Julia Gillard, has visited Australians serving in Afghanista
 <p>The Prime Minister will have further discussions on Afghanistan, including the transition to Afghanistan-led security, when she meets NATO Secretary- General Anders Fogh Rasmussen in Brussels on 4 October.</p>
 <p>The visit was part of Ms Gillard's first international trip since becoming Prime Minister. She will also stop briefly in Zurich to meet with FIFA President Sepp Blatter to discuss Australia's bid for the 2018 and 2022 Soccer World Cup.</p>
 <p>Ms Gillard will then travel on to Brussels where she will attend the ASEM conference where she will be among 46 world leaders from Europe and Asia to discuss trade and security.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17892</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/05/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17892</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/05/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you.</p>
 <p>I stood here a week ago to speak to the nation about the tragic loss of Brett Wood. I stand here just a week later at another heart breaking time for our nation.</p>
 <p>We have had news overnight that we have lost two very brave young men in Afghanistan: one 25-year-old, one 27-year-old - very young men.</p>
@@ -70,6 +60,4 @@ PM: Thank you.</p>
 <p>It's not responsible for me to speculate and I'm not intending to do so. What's the right thing to do is to have the incident investigated, and we will be transparent with people about the outcome of those investigations.</p>
 <p>I think everyone will want to understand what this means for us, but as we go through those processes, as I just indicated to Mark, first and foremost on our minds today is the circumstances of these two families: 25-year-old, 27-year-old, very young men, a lot of grief.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

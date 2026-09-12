@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23629</transcript-id>
-    <title>Address to Official Dinner in honour of His Excellency Mr Shinzo Abe, Prime Minister of Japan, The Great Hall, Parliament House</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/07/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Members of Parliament, distinguished guests, ladies and gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23629</transcript-id><title>Address to Official Dinner in honour of His Excellency Mr Shinzo Abe, Prime Minister of Japan, The Great Hall, Parliament House</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/07/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Members of Parliament, distinguished guests, ladies and gentlemen.</p>
 <p>Tonight in this Great Hall of our Parliament, we honour a respected leader, a great friend and as was said by both myself and the Opposition Leader earlier today, our partner in peace and prosperity – Prime Minister Shinzo Abe of Japan.</p>
 <p>I welcome you Sir, I welcome Mrs Akie Abe, I welcome the large, the extraordinarily influential delegation of business leaders that you have brought with you from your country. I thought I had taken a very large and impressive business delegation to Japan, but Prime Minister, your business delegation has trumped mine.</p>
 <p>But I do particularly wish to acknowledge and thank all of those business leaders that have travelled from Japan to Australia as part of this trip, just as I thank again those business leaders who travelled from Australia to Japan as part of my trip in April.</p>
@@ -35,6 +25,4 @@
 <p>We trust each other in a way that very, very few nations do. Trust, trust – that is the foundation of the special relationship that we celebrate tonight.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

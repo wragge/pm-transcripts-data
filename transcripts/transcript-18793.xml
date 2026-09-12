@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18793</transcript-id>
-    <title>Transcript of Interview with Jim Middleton</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/09/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Asia-Pacific Focus, Australia Network</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18793</transcript-id><title>Transcript of Interview with Jim Middleton</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/09/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Asia-Pacific Focus, Australia Network</p>
 <p>HOST: Prime Minister, welcome back to the program.</p>
 <p>PM: Thanks Jim.</p>
 <p>HOST: Let's deal with this first  -  the PNG Prime Minister says he wants asylum seekers processed on Manus Island as speedily as possible. You say they're to get no advantage over other refugees. Your own immigration department says that 75 per cent of applicants for refugee status can expect a visa within 12 months.</p>
@@ -61,6 +51,4 @@
 <p>HOST: Prime Minister, it's been a pleasure talking to you.</p>
 <p>PM: Thanks Jim.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

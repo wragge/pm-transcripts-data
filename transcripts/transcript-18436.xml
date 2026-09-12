@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18436</transcript-id>
-    <title>HECS comes to skills</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18436</transcript-id><title>HECS comes to skills</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Up to 60,000 students per year will no longer have to pay upfront fees to undertake vocational education and training.</p>
 <p>Finally, VET diploma students will get the same rights that university students have had for years:</p>
-<p> * 	No upfront fees<br />
- * 	Access to an interest-free loan to pay for their study.<br />
+<p> * 	No upfront fees<br>
+ * 	Access to an interest-free loan to pay for their study.<br>
  * 	Only having to pay that loan back once their income reaches a certain level.</p>
 <p>For too long, potential students have been deterred from higher level vocational education because of upfront fees. These fees can exceed $3000 per year. Many workers have given up the chance of retraining for the same reason.</p>
 <p>These reforms will break down the cost barrier to higher level vocational education.</p>
@@ -22,6 +12,4 @@ Up to 60,000 students per year will no longer have to pay upfront fees to undert
 <p>Under the Government's offer to the states and territories, interest-free, deferred loans will be available to all students studying publicly subsided diplomas and advanced diplomas. Students seeking to undertake higher level VET qualifications will the choice of an income contingent loan to pay those fees if they are unable or don't want to pay for tuition fees upfront.</p>
 <p>This means the number of workers with a diploma of advanced diploma qualification in the labour market will increase and businesses will have more highly qualified graduates.</p>
 <p>The increased private investment in training also means states and territories will have more financial resources to increase publicly subsidised training places. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

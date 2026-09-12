@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11171</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                       THE HON JOHN HOWARD MP                  INTERVIEW WITH JOHN MILLER &amp;#150; RADIO 4BC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/05/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11171</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                       THE HON JOHN HOWARD MP                  INTERVIEW WITH JOHN MILLER &amp;#150; RADIO 4BC]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/05/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................................................................................</p>
 <p>MILLER:</p>
 <p>Prime Minister good morning.</p>
 <p>PRIME MINISTER:</p>
@@ -224,6 +214,4 @@
 <p>Pleasure.</p>
 <p>MILLER:</p>
 <p>Bye.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

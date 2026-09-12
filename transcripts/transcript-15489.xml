@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15489</transcript-id>
-    <title>Fort Scratchley</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/04/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am very pleased today to announce a further $4 million for the restoration of the historic Fort Scratchley site.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15489</transcript-id><title>Fort Scratchley</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/04/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am very pleased today to announce a further $4 million for the restoration of the historic Fort Scratchley site.</p>
 <p>This extra funding brings the Australian Government's commitment to almost $10 million and will ensure the site is restored in a manner that befits its special place in Australia's military history.</p>
 <p>The Fort was built in the late 1800s in response to fears of Russian naval attacks on Newcastle and fired on a Japanese midget submarine in 1942.</p>
 <p>It is listed on Commonwealth Heritage Register and is a prominent historic landmark and popular tourist attraction at the eastern end of Newcastle Peninsula. The site includes fortifications, gun pits, magazines, underground tunnels and open areas. </p>
@@ -18,6 +8,4 @@
 <p>Vandalism and the requirement for more extensive site decontamination and remediation, has meant the overall project costs have escalated over time. </p>
 <p>I am also pleased to announce today that the Australian Government has signed a contract for the restoration with Kane Constructions Pty Ltd and expects these works to commence before the end of May. Completion is scheduled for early 2008.</p>
 <p>I would encourage the Newcastle City Council to continue to work with the Australian Government to ensure this restoration project is a success.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

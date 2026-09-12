@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16269</transcript-id>
-    <title>Rudd Government invests in Health and Education to boost jobs and stimulate the economy      </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will help create 133,000 jobs, invest $15.1 billion to stimulate the economy and drive significant reform in health, education, housing, business deregulation, and closing the indigenous life expectancy gap.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16269</transcript-id><title>Rudd Government invests in Health and Education to boost jobs and stimulate the economy      </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will help create 133,000 jobs, invest $15.1 billion to stimulate the economy and drive significant reform in health, education, housing, business deregulation, and closing the indigenous life expectancy gap.</p>
 <p>Through COAG, the Australian Government will invest $15.1 billion in a national reform package focused primarily on improving schools and hospitals, and training more quality teachers, nurses and doctors.</p>
 <p>This investment by the Commonwealth Government will deliver a significant stimulus to the Australian economy in the face of the global financial crisis.</p>
 <p>HEALTH</p>
@@ -50,6 +40,4 @@
 <p>The agreement reached today by the Commonwealth and State and Territory Governments has a strong emphasis on reviving our flagging productivity growth, especially in education and infrastructure investment which will boost Australian economic capacity.</p>
 <p>That means this agreement will be crucial in providing ongoing stimulus for economic growth over the medium term, over and above the initial GDP stimulus from the agreement.</p>
 <p>Today marks a new beginning in Federal-State relations and heralds a new era of co-operative federalism, with governments from across the political divide working together to strengthen the economy, protect jobs, and deliver better services to the Australian people.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

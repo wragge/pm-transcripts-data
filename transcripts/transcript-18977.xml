@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18977</transcript-id>
-    <title>Transcript of Interview with Sarah Hawke - ABC News 24</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18977</transcript-id><title>Transcript of Interview with Sarah Hawke - ABC News 24</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: First and foremost people need to keep themselves safe. This is an ongoing situation so listen to local authorities, make sure that you're absorbing all of the local warnings.</p>
 <p>We want to keep people safe.</p>
 <p>For those that have lost their homes, a devastating experience, and we'll be working with them as will the state government to support people through.</p>
@@ -35,6 +25,4 @@ PM: First and foremost people need to keep themselves safe. This is an ongoing s
 <p>JOURNALIST: And obviously monitoring across the other states as well at this stage?</p>
 <p>PM: Well this extreme heat is very widespread and that means there are risks in more areas than Tasmania. The best thing people can do is stay in touch with their local authorities and local community warnings.</p>
 <p>We do have more ways of getting information to people now, and that's a good thing, but it still means people need to take the information on board and respond to it.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

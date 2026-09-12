@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15388</transcript-id>
-    <title>Australia - United States Treaty on Defence Trade Cooperation</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/09/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>President George W. Bush and I today signed the Australia-United States Treaty on Defence Trade Cooperation in Sydney. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15388</transcript-id><title>Australia - United States Treaty on Defence Trade Cooperation</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/09/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>President George W. Bush and I today signed the Australia-United States Treaty on Defence Trade Cooperation in Sydney. </p>
 <p>The treaty will permit the licence-free export of defence goods and services meeting security and regulatory requirements between the Australian and US Governments, and between Australian and US companies.</p>
 <p>It will significantly cut red tape and simplify processes for sharing equipment, information and technology between Australian and US defence companies. </p>
 <p>The treaty will deliver significant new opportunities for Australia's defence industry to work cooperatively on sensitive defence technology projects and to compete jointly for major defence-related global supply chain contracts. It will boost Australian defence exports, supporting jobs and providing greater long-term stability for the Australian defence industry.</p>
@@ -19,6 +9,4 @@
 <p>Attachments</p>
 <p> * Australia - US Treaty on Defence Trade Cooperation - RTF 42KB | PDF 42KB</p>
 <p>* Q&amp;A Australia - US Treaty on Defence Trade Cooperation Factsheet - RTF 130KB | PDF 95KB</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

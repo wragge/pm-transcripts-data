@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12017</transcript-id>
-    <title>Interview with Steve Liebmann, Today Show, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Election 2001; Liberal Party Campaign Launch; illegal immigration; Telstra</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12017</transcript-id><title>Interview with Steve Liebmann, Today Show, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Election 2001; Liberal Party Campaign Launch; illegal immigration; Telstra</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p>LIEBMANN:</p>
 <p>Good morning to you.</p>
 <p>PRIME MINISTER:</p>
@@ -100,7 +90,5 @@
 <p>Steve, I don’t take this for granted, I don’t. Can I just say to people nobody should think for a moment that the Coalition is any kind of shoe in. I remain a person who thinks this could go either way. I really do believe it could go either way and I ask the Liberal supporters watching this program this morning, work your heart out between now and polling day, we need that effort.</p>
 <p>LIEBMANN:</p>
 <p>I’ll send you the bill. Thank you for joining us.</p>
-<p>[ends]   </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>[ends]&nbsp;&nbsp;&nbsp;</p>
+]]></content></item></response>

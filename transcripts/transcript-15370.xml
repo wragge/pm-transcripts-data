@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15370</transcript-id>
-    <title>HMAS Waller - Replacement Combat System</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/04/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I visited HMAS Waller, one of the Royal Australian Navy's six Collins Class submarines, to inspect the successful installation of the Replacement Combat System and new Heavyweight Torpedo.<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15370</transcript-id><title>HMAS Waller - Replacement Combat System</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/04/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I visited HMAS Waller, one of the Royal Australian Navy's six Collins Class submarines, to inspect the successful installation of the Replacement Combat System and new Heavyweight Torpedo.<br>
  The Replacement Combat System enables the submarine to detect, acquire and track targets. The Heavyweight Torpedo allows it to engage both surface vessels and other submarines.  Together these projects - worth a combined $921 million - ensure the Collins Class submarine is one of the most capable conventional submarines in the world.  Both projects are within budget and on schedule.</p>
 <p>The decision to acquire the Collins Class was taken by the previous government in the mid 1980s.  A review in 1999 by John Prescott and the late Dr Malcolm McIntosh found that the submarines could not perform at the level required for naval operations; the underlying cause was </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

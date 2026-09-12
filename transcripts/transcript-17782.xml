@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17782</transcript-id>
-    <title>Documentary captures &#039;The Forgotten Battle of the Forgotten War&#039;</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/04/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17782</transcript-id><title><![CDATA[Documentary captures &#039;The Forgotten Battle of the Forgotten War&#039;]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/04/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today launched the documentary Kapyong: the forgotten battle of the forgotten war to mark the 60th anniversary of the Battle of Kapyong.</p>
 <p>The Prime Minister said the documentary was a fitting tribute to the Australian soldiers, sailors and airmen who fought alongside our allies in this defining battle of the Korean War.</p>
 <p>On 23-24 April 1951, the Battle of Kapyong was fought by Australians of the 3rd Battalion, The Royal Australian Regiment (3 RAR), who helped to stop the Chinese spring offensive. This was crucial in preventing a Chinese breakthrough towards Seoul.</p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard today launched the documentary Kapyong: the forgott
 <p>Thirty-two Australians died in the Battle of Kapyong, 59 were wounded and three were missing (taken prisoner). For its part in the battle, 3 RAR was awarded the United States Presidential Unit Citation.</p>
 <p>Kapyong: the forgotten battle of the forgotten war was funded by the Department of Veterans' Affairs, Foxtel, Film Victoria and Screen Australia and will be broadcasted by Foxtel on The History Channel on at 8:00 pm on Sunday, 24 April 2011.</p>
 <p>Editor's note: Historical images of the Battle of Kapyong are available on the DVA Media centre. Historical audio files and film footage of the Battle of Kapyong can be requested from the Australian War Memorial. Copies of the documentary are available on request  -  email <a href="mailto:dvamedia@dva.gov.au">dvamedia@dva.gov.au</a>.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

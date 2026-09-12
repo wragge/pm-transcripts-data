@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15962</transcript-id>
-    <title>Radio Interview with the Acting Prime Minister, the Hon Julia Gillard, 2GB Alan Jones   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ALAN JONES: Acting Prime Minister Julia Gillard has joined me. Julia, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15962</transcript-id><title>Radio Interview with the Acting Prime Minister, the Hon Julia Gillard, 2GB Alan Jones   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ALAN JONES: Acting Prime Minister Julia Gillard has joined me. Julia, good morning.</p>
 <p>JULIA GILLARD: Good morning, Alan.</p>
 <p>ALAN JONES: Nice to talk to you. I'm sorry, but I must ask you about Belinda Neal. You're running the country now while Kevin Rudd's out of town. Have you spoken to Belinda Neal?</p>
 <p>JULIA GILLARD: I haven't spoken to her directly, Alan. Obviously the Prime Minister's office, which is assisting me with my work this week, has been in contact with Belinda.</p>
@@ -118,6 +108,4 @@
 <p>ALAN JONES: She's going back to hot water. There you are, there's a little lesson. What's the hot water about, she's drinking hot water, she's turned all Bob Carr on us.</p>
 <p>JULIA GILLARD: I'm trying to drink less coffee. I'm not sure that the hot water is the most satisfactory substitute but I'm sure it's doing me some good, Alan.</p>
 <p>ALAN JONES: I would hope so. Good to talk to you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

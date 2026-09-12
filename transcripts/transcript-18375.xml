@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18375</transcript-id>
-    <title>The Queen Elizabeth Diamond Jubilee Trust</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18375</transcript-id><title>The Queen Elizabeth Diamond Jubilee Trust</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government has today pledged up to $5 million to The Queen Elizabeth Diamond Jubilee Trust, as part of Australia's commemoration of the Diamond Jubilee.</p>
 <p>The Prime Minister has written to the Premiers and Chief Ministers encouraging them collectively to match the Commonwealth's contribution.</p>
 <p>The Prime Minister will also appoint an eminent Australian to spearhead private sector fundraising for the Trust.</p>
@@ -19,14 +9,12 @@ The Australian Government has today pledged up to $5 million to The Queen Elizab
 <p>Australia's contribution to the Trust will go to development-related projects that will create a lasting legacy in honour of Her Majesty The Queen's Diamond Jubilee.</p>
 <p>The Trust will undertake fund-raising activities through 2012 and is not expected to begin disbursement of funds until 2013.</p>
 <p>The Government will also recognise the Diamond Jubilee in other ways:</p>
-<p> * 	The Prime Minister will light a Jubilee Beacon on Parliament House on 4 June.<br />
- * 	Australia Post will issue a Jubilee stamp.<br />
- * 	The Royal Mint will issue a Jubilee coin.<br />
- * 	An east-west road in the Parliamentary Zone will be renamed “Queen Elizabeth Terrace”.<br />
- * 	A scholarship will be established focused on women's leadership.<br />
+<p> * 	The Prime Minister will light a Jubilee Beacon on Parliament House on 4 June.<br>
+ * 	Australia Post will issue a Jubilee stamp.<br>
+ * 	The Royal Mint will issue a Jubilee coin.<br>
+ * 	An east-west road in the Parliamentary Zone will be renamed “Queen Elizabeth Terrace”.<br>
+ * 	A scholarship will be established focused on women's leadership.<br>
  * 	A Jubilee essay competition will be staged.</p>
 <p>Their Royal Highnesses The Prince of Wales and The Duchess of Cornwall will visit Australia later this year as part of the Diamond Jubilee celebrations.</p>
 <p>The Governor-General will also visit London in June to coincide with the major celebrations in the United Kingdom. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

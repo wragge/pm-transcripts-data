@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22642</transcript-id>
-    <title>Financial Support for Victorian Bushfire Victims  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/12/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Overnight the devastating bushfires in Victoria's Gippsland and north-east have claimed a life and destroyed a number of homes.  Prime Minister John Howard and Premier Steve Bracks express their sympathies to the family and friends of the man who lost his life fighting the fires.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22642</transcript-id><title>Financial Support for Victorian Bushfire Victims  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/12/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Overnight the devastating bushfires in Victoria's Gippsland and north-east have claimed a life and destroyed a number of homes.  Prime Minister John Howard and Premier Steve Bracks express their sympathies to the family and friends of the man who lost his life fighting the fires.</p>
 <p> The Prime Minister and Premier have agreed to provide more than $800,000 in additional funding to help families, business and primary producers recover from the devastating bushfires.</p>
 <p>The agreement establishes a $700,000 Community Recovery Fund with equal contributions from the State and Commonwealth.  This is over and above the support the Commonwealth government provides under the enhanced Natural Disaster Relief Arrangements.</p>
 <p>The Community Recovery Fund would be used to address the needs of the community as they arise and to assist the region to recover fully from the fires.</p>
@@ -20,6 +10,4 @@
 <p>The Victorian Premier, Steve Bracks welcomed the increased funding which is in addition to the significant commitments the Victorian Government had already made to its bushfire recovery programs.</p>
 <p>The funding will be jointly administered by the State and Federal Governments and both governments are committed to a quick and smooth approval process for the new Community Recovery Fund grants.</p>
 <p>The Commonwealth and Victorian Governments will consider further assistance for the regions once the full extent of the damage from the current bushfire has been assessed.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

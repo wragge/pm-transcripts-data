@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16336</transcript-id>
-    <title>Guantanamo    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/01/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia, along with a number of other friends and allies of the United States, has been approached to consider resettling detainees from Guantanamo Bay.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16336</transcript-id><title>Guantanamo    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/01/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia, along with a number of other friends and allies of the United States, has been approached to consider resettling detainees from Guantanamo Bay.</p>
 <p>This is a request from the Bush administration, and follows President Bush's statement that he would like to see Guantanamo closed. This is not a request from President Elect Obama.</p>
 <p>The Bush Administration first approached Australia in early 2008 with a request to resettle a small group of detainees from Guantanamo in Australia.</p>
 <p>After appropriate consideration, Australia declined to allow resettlement of that small group in Australia.</p>
@@ -17,6 +7,4 @@
 <p>Australia, as an ally of the United States, is examining this second request.</p>
 <p>Notwithstanding that it is unlikely Australia would accept these detainees, given the fact that the Bush Administration has formally approached Australia with this request, the request demands proper consideration.</p>
 <p>The Australian Government makes no apology for taking a very hard line against terrorism, which includes continuing to work closely with the United States and other allies worldwide in the global effort to defeat terrorism.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

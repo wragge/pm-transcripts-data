@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15864</transcript-id>
-    <title>ABC AM Radio Interview Sanya, Hainan   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Prime Minister welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15864</transcript-id><title>ABC AM Radio Interview Sanya, Hainan   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Prime Minister welcome to AM.</p>
 <p>PM: Good to be here.</p>
 <p>UHLMANN: Can you tell us what you said to President Musharruf?</p>
 <p>PM: Well we had a long discussion - obviously about bilateral relations as well and the economic relationship, the political relationship. But the bulk of the conversation was about Afghanistan and about the problems that we, as contributors to the war in Afghanistan, have concerning Al Qaeda and the Taliban and whether there are further things which Pakistan can be doing to assist us in removing that pressure. Not just for ourselves, but for other contributing states. </p>
@@ -54,6 +44,4 @@
 <p>Our Government, the Government that I lead, is committed to the reform of these institutions and we will be out there arguing a strong reform case, because a rules based order suits Australia.</p>
 <p>We are a middle power and we need a rules based order, not just for now but for the next fifty years when who knows who will be the dominant powers in the world.</p>
 <p>UHLMANN: Prime Minister, thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41624</transcript-id>
-    <title>Radio interview with Sabra Lane  ABC AM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/05/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Citizenship; Federal Budget; Malaysian election</subjects>
-    <content><![CDATA[<p><strong>SABRA LANE: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41624</transcript-id><title>Radio interview with Sabra Lane  ABC AM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/05/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Citizenship; Federal Budget; Malaysian election</subjects><content><![CDATA[<p><strong>SABRA LANE: </strong></p>
 <p>Prime Minister Malcolm Turnbull good morning and welcome to the program.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much, Sabra.</p>
@@ -48,7 +38,7 @@
 <p><strong>SABRA LANE:</strong></p>
 <p>You don't have a view?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>You know, the position that we put to the High Court last year - which the High Court didn't accept obviously - is one that we felt would have been a preferable interpretation of the section. </p>
+<p>You know, the position that we put to the High Court last year - which the High Court didn't accept obviously - is one that we felt would have been a preferable interpretation of the section.&nbsp;</p>
 <p>But changing the Constitution is very hard and very hard to get support for that. So I think the best advice, given that the election will be next year, is for everyone to get their act together and make sure they are not a citizen of anywhere else, before they nominate.</p>
 <p><strong>SABRA LANE:</strong></p>
 <p>Alright, on to the Budget. The tax cut package that was introduced into Parliament yesterday - it’s worth $140 billion over a decade - why should Parliament vote for it without knowing the details of exactly how much it’s going to cost each year for those ten years?</p>
@@ -85,7 +75,7 @@
 <p>I have heard governments say: “This is an entire tax package,” and they’ve cut it off and passed what they can.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>And you’ve had one economist after another, Labor, Liberal politicians say: “The problem with our tax system is effective marginal tax rates, it disincentivises people working longer, you know we’ve got to have a flatter tax system”.</p>
-<p>This delivers it. This is the big reform to personal income tax. The rich will continue to pay, or the higher income earners will continue to pay the bulk of the tax. The tax system will remain progressive, right? But you will have in that middle, for the vast bulk of Australians, 94 per cent of Australians, they will know that if they decide to go for a promotion, if they decide to do some overtime, if they decide to boost their business and generate some more income, they will not get slugged by going into a higher tax bracket. They will just continue to pay 32.5 cents in the dollar. It’s a huge reform. It’s a reform that  speaks to aspiration.</p>
+<p>This delivers it. This is the big reform to personal income tax. The rich will continue to pay, or the higher income earners will continue to pay the bulk of the tax. The tax system will remain progressive, right? But you will have in that middle, for the vast bulk of Australians, 94 per cent of Australians, they will know that if they decide to go for a promotion, if they decide to do some overtime, if they decide to boost their business and generate some more income, they will not get slugged by going into a higher tax bracket. They will just continue to pay 32.5 cents in the dollar. It’s a huge reform. It’s a reform that&nbsp; speaks to aspiration.</p>
 <p><strong>SABRA LANE: </strong></p>
 <p>Perceptions are everything.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -116,6 +106,4 @@
 <p>Prime Minister, thanks for your time this morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

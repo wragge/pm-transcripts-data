@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16724</transcript-id>
-    <title>Address to ALP National Conference Sydney Convention Centre   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/07/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16724</transcript-id><title>Address to ALP National Conference Sydney Convention Centre   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/07/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>Two years ago, I stood before you as Labor leader and said that Australia stood at the crossroads.</p>
 <p>That Australia faced a choice between the past and the future.</p>
 <p>Two years later, we gather here as a Federal Labor Government because Australia chose the future.</p>
@@ -199,6 +189,4 @@
 <p>The threats are real, the challenges are great but so too are the opportunities extraordinary.</p>
 <p>As a party, as a government and as a nation, let us seize those opportunities together  -  because, as a nation, we are all in this together.</p>
 <p>Mr President, I formally move Chapter One: “Governing for Australia's long-term future”.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

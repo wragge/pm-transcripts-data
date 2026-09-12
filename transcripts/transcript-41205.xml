@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41205</transcript-id>
-    <title>HMAS Hobart Commissioning</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>23/09/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The safety and security of Australia and our interests around the globe has been significantly strengthened with the commissioning of the first Australian-built Air Warfare Destroyer, HMAS Hobart, today.</p>
-<p>Hobart brings together the best of Australian and global technology to be one of the world’s most potent and lethal warships.  She will provide air defence for accompanying ships, in addition to land forces and infrastructure in coastal areas, and for self-protection against missiles and aircraft.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41205</transcript-id><title>HMAS Hobart Commissioning</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>23/09/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The safety and security of Australia and our interests around the globe has been significantly strengthened with the commissioning of the first Australian-built Air Warfare Destroyer, HMAS Hobart, today.</p>
+<p>Hobart brings together the best of Australian and global technology to be one of the world’s most potent and lethal warships. &nbsp;She will provide air defence for accompanying ships, in addition to land forces and infrastructure in coastal areas, and for self-protection against missiles and aircraft.</p>
 <p>The commissioning of Hobart is the culmination of the hard work of thousands of Australians who built and delivered the future capability of the Royal Australian Navy. The crew and shipbuilders who have brought this new capability into service are to be congratulated on their achievement.</p>
 <p>The Turnbull Government has committed to a continuous sovereign naval shipbuilding program that will keep our Navy equipped with the latest technology for generations to come and Hobart demonstrates our commitment and ability to meet that promise.</p>
 <p>This sovereign continuous naval shipbuilding program will create thousands of jobs across the country and is another example of the Turnbull Government building and strengthening our defence capability and defence industry.</p>
@@ -19,6 +9,4 @@
 <p>Hobart will now undergo her test and evaluation period where she will integrate into the fleet and Navy personnel will train to operate the warship.</p>
 <p>More information on HMAS Hobart (III) is available at <a href="http://www.navy.gov.au/nuship-hobart-iii">http://www.navy.gov.au/nuship-hobart-iii</a></p>
 <p>Imagery of the commissioning ceremony is available at <a href="https://images.defence.gov.au">https://images.defence.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

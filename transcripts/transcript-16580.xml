@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16580</transcript-id>
-    <title>Interview with Simon Beaumont  Radio 6PR - Perth   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: The PM has just turned up in our city and he joins me on the program now on the phone. Mr Rudd good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16580</transcript-id><title>Interview with Simon Beaumont  Radio 6PR - Perth   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: The PM has just turned up in our city and he joins me on the program now on the phone. Mr Rudd good morning to you.</p>
 <p>PM: Morning Simon, in fact I'm with the Premier of Western Australia here in Geraldton, so that's where I've just flown and there's a lot of rain let me tell you which I'm told will be welcomed by the wheat farmers.</p>
 <p>HOST: Yes it's heading from south to north so you'll get more of that throughout the course of the day. Mr Rudd there's a few issues - we have had Mr Turnbull on the program, I should preface our comments with that - and I know there are some issues bumping around nationally today.</p>
 <p>Can I ask you first of all, this $32,000 that all MPs receive, federal MPs receive as an electorate allowance, the Greens are saying today there needs to be more checks and balances on how that 32,000 is spent. Do you agree?</p>
@@ -47,6 +37,4 @@
 <p>That means supporting the $22 billion worth of medium term savings we have outlined in the Budget, because we believe it is important to return the Budget to surplus, that is why those difficult savings are contained there.</p>
 <p>HOST: Mr Rudd, thanks for your time this morning, enjoy Geraldton won't you?</p>
 <p>PM: Good to be back in the West, good to be back again.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

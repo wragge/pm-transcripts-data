@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41679</transcript-id>
-    <title>Radio interview with Sabra Lane - ABC AM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/06/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Tax Relief; Energy</subjects>
-    <content><![CDATA[<p><strong>SABRA LANE: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41679</transcript-id><title>Radio interview with Sabra Lane - ABC AM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/06/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Tax Relief; Energy</subjects><content><![CDATA[<p><strong>SABRA LANE: </strong></p>
 <p>Welcome back to AM.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning Sabra.</p>
@@ -120,7 +110,7 @@
 <p>You’ll hang onto it.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>With the crossbenchers, we are committed to it and again, do you know why? Because we've got to have a competitive tax system.</p>
-<p>We currently have our corporate tax rate, for the larger companies, at 30 per cent, which is the second highest in the OECD. Now, do you want Australian businesses to be competitive? I do, because that delivers more jobs.  It delivers higher wages, more investment, higher productivity and a stronger economy and therefore higher government revenues to put into hospitals and schools and roads and so forth.</p>
+<p>We currently have our corporate tax rate, for the larger companies, at 30 per cent, which is the second highest in the OECD. Now, do you want Australian businesses to be competitive? I do, because that delivers more jobs. &nbsp;It delivers higher wages, more investment, higher productivity and a stronger economy and therefore higher government revenues to put into hospitals and schools and roads and so forth.</p>
 <p><strong>SABRA LANE: </strong></p>
 <p>Prime Minister, a conservative pocket within the Government seems determined to wreck the prospects of any deal on the National Energy Guarantee. How seriously do you take Tony Abbott's threat to cross the floor?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -137,6 +127,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks so much, Sabra.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

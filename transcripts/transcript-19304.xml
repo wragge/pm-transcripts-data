@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19304</transcript-id>
-    <title>2013 Defence White Paper: Australian Defence Industry</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19304</transcript-id><title>2013 Defence White Paper: Australian Defence Industry</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard, Minister for Defence Stephen Smith, Minister for Climate Change, Industry and Innovation Greg Combet and Minister for Defence Materiel Mike Kelly today outlined the Government's plan for Australia's defence industry.</p>
 <p>The 2013 Defence White Paper highlights the critical role that Australia's defence industry plays in supporting the Australian Defence Force (ADF).</p>
 <p>The Defence White Paper further strengthens the Government's commitment to our defence industry  -  with a focus on closer connections between strategic policy directions and defence policy for industry, and enhancing innovation, building competitiveness, and developing skills.</p>
@@ -19,9 +9,9 @@
 <p>The Defense Trade Cooperation Treaty between Australia and the United States that commences in May 2013 will be an important mechanism that will have substantial benefits for Australian industry. </p>
 <p>The Government has also established a Priority Industry Capability Development Fund, with funding of $10 million per year from the Defence Capability Plan (DCP).</p>
 <p>The Government will provide further assistance to Australia's defence industry through:</p>
-<p> * 	the establishment of the Defence Innovation Realisation Fund within the DCP funded at $10 million per year, to help mature innovative defence technologies;<br />
- * 	a strengthened Australian Industry Capability Program, to maximise opportunities for Australian industry to participate in domestic and international supply chains;<br />
- * 	continuation of industry assistance and support programs managed by Defence which provide grants and funding to companies to develop new equipment solutions and pursue export opportunities; and<br />
+<p> * 	the establishment of the Defence Innovation Realisation Fund within the DCP funded at $10 million per year, to help mature innovative defence technologies;<br>
+ * 	a strengthened Australian Industry Capability Program, to maximise opportunities for Australian industry to participate in domestic and international supply chains;<br>
+ * 	continuation of industry assistance and support programs managed by Defence which provide grants and funding to companies to develop new equipment solutions and pursue export opportunities; and<br>
  * 	industry support programs which focus on helping industry to develop skills in critical and new fields, including the Skilling Australia's Defence Industry Program.</p>
 <p>The Government is committed to providing clear guidance to industry on capability intentions and opportunities for local industry to compete for work.</p>
 <p>We will release an updated public Defence Capability Plan (DCP) and Defence Capability Guide in the coming months. </p>
@@ -29,6 +19,4 @@
 <p>Science and technology innovation also underpins this important White Paper and contributes to a strong ADF and an effective defence industry.  The White Paper highlights our pursuit of new international partnerships and continuing investment in our highly skilled and respected Defence Science and Technology Organisation. </p>
 <p>We will continue to enhance the partnership between Defence, industry, and the science and innovation community to deliver results for Australia's defence capability.</p>
 <p>The White Paper reinforces the Government's $1 billionPlan for Australian Jobs.  Innovation remains critically important in delivering leading edge capabilities for the ADF and also in applying existing knowledge and technology in new ways to create value in the delivery of new capabilities and reduce both acquisition and sustainment costs.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

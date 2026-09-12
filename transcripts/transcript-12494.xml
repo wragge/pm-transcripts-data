@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12494</transcript-id>
-    <title>Interview with Richard Carleton, 60 Minutes </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><i>Subjects: Bali Tragedy</i></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12494</transcript-id><title>Interview with Richard Carleton, 60 Minutes </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><i>Subjects: Bali Tragedy</i></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>CARLETON:</p>
 <p>Mr Howard, thank you very much for coming in. Who's responsible, who did it?</p>
@@ -50,7 +40,7 @@
 <p>CARLETON:</p>
 <p>Is there any way we can really stop it?</p>
 <p>PRIME MINISTER:</p>
-<p>Stopping terrorism is very difficult. Terrorism has no respect for true religious belief. None whatsoever. There is nothing in the beliefs of Islam that invokes or warrants or calls upon the indiscriminate destruction of people, it is not like that. It abhors it as much as true Christianity does. Is it easy to stop terrorism?   No, it's not. It certainly won't be stopped by people imagining if they roll into a little ball and go over into the corner, it will go away because it won't.</p>
+<p>Stopping terrorism is very difficult. Terrorism has no respect for true religious belief. None whatsoever. There is nothing in the beliefs of Islam that invokes or warrants or calls upon the indiscriminate destruction of people, it is not like that. It abhors it as much as true Christianity does. Is it easy to stop terrorism?&nbsp;&nbsp;&nbsp;No, it's not. It certainly won't be stopped by people imagining if they roll into a little ball and go over into the corner, it will go away because it won't.</p>
 <p>CARLETON:</p>
 <p>Is it possible to stop?</p>
 <p>PRIME MINISTER:</p>
@@ -68,6 +58,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

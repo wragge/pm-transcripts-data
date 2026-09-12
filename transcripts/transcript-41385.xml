@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41385</transcript-id>
-    <title>Radio interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Royal Commission; Bennelong; Jobs; Immigration; China</subjects>
-    <content><![CDATA[<p><strong>NEIL MITCHELL: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41385</transcript-id><title>Radio interview with Neil Mitchell, 3AW</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Royal Commission; Bennelong; Jobs; Immigration; China</subjects><content><![CDATA[<p><strong>NEIL MITCHELL: </strong></p>
 <p>In his final spot of the year, the Prime Minister Malcolm Turnbull. Good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning Neil. Merry Christmas to you and all of your listeners.</p>
@@ -60,7 +50,7 @@
 <p><strong>NEIL MITCHELL: </strong></p>
 <p>So you don’t know what they are yet obviously?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>No, no, we don’t, we haven’t read it. But  obviously, there’s been recommendations made already which have been acted on, you know, in respect of redress, in respect of background checks and so forth.</p>
+<p>No, no, we don’t, we haven’t read it. But&nbsp; obviously, there’s been recommendations made already which have been acted on, you know, in respect of redress, in respect of background checks and so forth.</p>
 <p>So we will be going through this very carefully. I just want to thank the Commissioners for their dedicated work headed by Peter McClellan of course, the Chief Commissioner, the Chairman in effect.</p>
 <p>I want to just say how much we all admire and how much we should thank the survivors who courageously told their stories.</p>
 <p><strong>NEIL MITCHELL: </strong></p>
@@ -270,7 +260,5 @@
 <p><strong>NEIL MITCHELL:</strong></p>
 <p>Thank you for your help through the year, I look forward to talking next year.</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Yes, thanks a lot Neil. Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>Yes, thanks a lot Neil. Thank you.&nbsp;</p>
+]]></content></item></response>

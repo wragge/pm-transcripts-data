@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17951</transcript-id>
-    <title>Transcript of press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17951</transcript-id><title>Transcript of press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: As Parliament starts this week, inevitably we will be continuing to debate climate change and pricing carbon. That debate will not only happen in Parliament House - it will happen around the nation. Debate is a good thing, but debate needs to be informed by the facts. For our nation to continue to be a nation up to the big reforms, we have to have a public debate informed by the facts.</p>
 <p>That's why, at the start of this sitting week, I wanted to draw - sorry, about that, there's some noise in the back there - that's why, at the start of this sitting week, I wanted to draw peoples' attention to some recently made available information about the science of climate change.</p>
 <p>Addressing climate change all starts with the science. The science is telling us that climate change is real. The Government accepts the science. We accept the science from our own CSIRO. We accept the science from our own weather bureau and I would draw peoples' attention to information released two weeks ago by the CSIRO and by our weather bureau which is available to members of the public in an easily understood form. That data shows that carbon dioxide is now at its highest level in more than a million years. It's an unambiguous fact - carbon dioxide at its highest level in more than a million years, and to tackle climate change we have to cut carbon pollution, we have to cut those carbon dioxide levels, with that carbon dioxide generated overwhelmingly by human activity. </p>
@@ -105,6 +95,4 @@ PM: As Parliament starts this week, inevitably we will be continuing to debate c
 <p>So, we're determined to price carbon the most efficient way possible. That's by putting a price per tonne of carbon pollution, putting it on the businesses that generate the most carbon pollution, the 1,000 biggest polluters, and then acting to protect Australian families and work with them on their cost of living pressures and protect to jobs.</p>
 <p>In terms of the reach of the scheme, you'll need to wait until we're in a position to announce full details. Obviously, petrol is out as I described yesterday. Then, we want to see the price paid by the 1,000 biggest polluters in this country.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18100</transcript-id>
-    <title>President of the European Commission </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18100</transcript-id><title>President of the European Commission </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The President of the European Commission, His Excellency José Manuel Barroso, will visit Australia from 4 to 7 September as a guest of the Australian Government. This will be the first visit to Australia by a Commission President since 1982.</p>
 <p>During the visit, President Barroso will hold formal meetings with Ms Gillard and other members of the Cabinet.</p>
 <p>The European Union is Australia's second largest trading partner and our largest investor.  Australia is cooperating with the European Union on a number of global challenges, particularly through multilateral forums such as the United Nations, G20, the Asia Europe Meeting and the World Trade Organisation.  This visit will be an opportunity to further strengthen this partnership.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20626</transcript-id>
-    <title>Television Interview, ABC Evening News  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRESENTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20626</transcript-id><title>Television Interview, ABC Evening News  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRESENTER:</p>
 <p>Prime Minister thank you very much for your time. Now you have been out and about and seeing first hand the devastation. How has it affected you?</p>
 <p>PRIME MINISTER:</p>
 <p>Well just before I answer that question could I correct the info to that last bit. The Howard Government is not pointing the finger of blame at anybody. There is a case when this is all over, and the people who need help have been helped, for us to ask questions and to continue the legitimate debate about the degree of hazard reduction that ought to go on all over Australia. But I have nothing but admiration for the work of the firefighters and the police in Canberra. And in fairness to Wilson Tuckey his remarks have been taken out of context.</p>
@@ -21,6 +11,4 @@
 <p>Well I'm sure a lot of people will be happy to hear you say that. Mr Howard thank you very much for your time.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

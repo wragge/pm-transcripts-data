@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19330</transcript-id>
-    <title>Speech To Port Moresby Chamber Of Commerce And Industry Breakfast</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/05/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19330</transcript-id><title>Speech To Port Moresby Chamber Of Commerce And Industry Breakfast</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/05/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
 <p>[Acknowledgments omitted]</p>
 <p>It's a great pleasure to be able to join you here this morning.</p>
 <p>Let me thank the Port Moresby Chamber of Commerce and Industry for your invitation today.</p>
@@ -76,6 +66,4 @@
 <p>Australia wants to work with Papua New Guinea as economic partners, as development partners, and as partners in the region, to help you seize that future.</p>
 <p>Everyone here is so important to that work.</p>
 <p>Doing business together  -  united in friendship and respect. Proud of what we've achieved together  -  and certain that even better days lie ahead.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

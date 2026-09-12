@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41213</transcript-id>
-    <title>Radio interview with David Penberthy and Will Goodings - 5AA Breakfast</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>AFL Grand Final; energy; Australian Space Agency; Macklemore</subjects>
-    <content><![CDATA[<p><strong>DAVID PENBERTHY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41213</transcript-id><title>Radio interview with David Penberthy and Will Goodings - 5AA Breakfast</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>AFL Grand Final; energy; Australian Space Agency; Macklemore</subjects><content><![CDATA[<p><strong>DAVID PENBERTHY: </strong></p>
 <p>Take a seat Prime Minister!</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good, I’m ready to go.</p>
@@ -84,7 +74,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah, I know you do – that’s true, I’ve walked there, walked around it. It’s good.</p>
 <p><strong>WILL GOODINGS:</strong></p>
-<p>You have contemplated interventions into other markets of late with gas and others. We just figured, that maybe could we appeal to you to maybe step in, maybe nationalise the AFL? Then we could have this…  </p>
+<p>You have contemplated interventions into other markets of late with gas and others. We just figured, that maybe could we appeal to you to maybe step in, maybe nationalise the AFL? Then we could have this…&nbsp;&nbsp;</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>I think they’re doing a great job. Look, it’s a great code.</p>
 <p><strong>DAVID PENBERTHY: </strong></p>
@@ -115,7 +105,7 @@
 <p>Well, South Australia’s energy, electricity network is under much, much closer supervision from the Australian Energy Market Operator. The reality is – and look, this is a day of football but I’ll just give you the facts. The big mistake that was made was to have such a huge introduction of wind power without providing the backup for it. So there’s nothing wrong with wind or with solar – they’re fantastic – but the wind doesn’t blow all the time and the sun doesn’t shine all the time. So what the state government allowed to happen, was for gas power generators to be closed off, or turned off like Pelican Point which is now back up again, and for coal-fired power stations to be literally decommissioned.</p>
 <p>What that made the state, is it made the state so much more dependent on those interconnectors to Victoria and so it made the state’s electricity network much less reliable.</p>
 <p>Now what AEMO is doing now, is intervening much more. They’ve got South Australia on really, very, very close watch.</p>
-<p>So Pelican Point is back on, that’s good. There’s more gas available. We’ve secured a gas supply guarantee for the summer – critically important to South Australia.  The battery, there’s been a battery acquired. You’ve seen the big - longer term - you’ve seen the pumped hydro program that we’re funding the feasibility work on at Cultana and the Spencer Gulf. So they will literally be pumping water up the hill, when the wind is blowing in the middle of the night and electricity is cheap and then running it downhill, that’s a battery. That’s a really big battery.</p>
+<p>So Pelican Point is back on, that’s good. There’s more gas available. We’ve secured a gas supply guarantee for the summer – critically important to South Australia.&nbsp; The battery, there’s been a battery acquired. You’ve seen the big - longer term - you’ve seen the pumped hydro program that we’re funding the feasibility work on at Cultana and the Spencer Gulf. So they will literally be pumping water up the hill, when the wind is blowing in the middle of the night and electricity is cheap and then running it downhill, that’s a battery. That’s a really big battery.</p>
 <p>So there’s a lot of work going on but the moral of the story is – and this is my approach to energy policy – you’ve got to be focused on engineering and economics. All of the green left ideology and all of the complacency and stupidity that we’ve seen in the past, that has created the mess that we’re in, has got to end. So I’m taking a very hard-headed, business-like approach.</p>
 <p><strong>WILL GOODINGS:</strong></p>
 <p>The Astronautical Congress is on in South Australia at the moment as well.</p>
@@ -135,7 +125,7 @@
 <p>Whilst we’re being entirely parochial, what are the chances that we’ll see that headquartered in Adelaide? We’ve got Woomera just up to the road…</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, look Will – as I think we’ve announced – we’re going to look at where it’s going to be located, but the truth is, it’s a big country. Like with all of these agencies, it will have a role and a presence everywhere.</p>
-<p>The Australian space industry, which is already substantial, and what we’re going to do is provide a national agency which will provide coordination and leadership and support, so that we can secure more jobs and more investment from those, you know, that high tech field.  Adelaide of course, with the big investment we’re making in shipbuilding in South Australia… as I always say, people ask in Adelaide: 'Where is the future?' The future is in South Australia, literally – the cutting-edge high-tech industries of the future are going to be driven by that massive investment we’re making in our 21st century navy in South Australia.</p>
+<p>The Australian space industry, which is already substantial, and what we’re going to do is provide a national agency which will provide coordination and leadership and support, so that we can secure more jobs and more investment from those, you know, that high tech field.&nbsp; Adelaide of course, with the big investment we’re making in shipbuilding in South Australia… as I always say, people ask in Adelaide: 'Where is the future?' The future is in South Australia, literally – the cutting-edge high-tech industries of the future are going to be driven by that massive investment we’re making in our 21st century navy in South Australia.</p>
 <p><strong>DAVID PENBERTHY:</strong></p>
 <p>Just finally Prime Minister, a football-ish question, although one related to the NRL rather than the AFL. Can you understand the furore, particularly by your predecessor, about the fact that the American rapper Macklemore, who is famous for ‘Thrift Shop’ and so on, he’s got this song ‘One Love’ that’s regarded as a bit of a gay anthem, singing that at the NRL Grand Final this weekend?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -155,6 +145,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks a lot, thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

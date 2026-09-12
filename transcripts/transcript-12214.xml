@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12214</transcript-id>
-    <title>Anniversary of National Service 1951-1972 Medal </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/04/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>To mark the 50th anniversary of the introduction of national service in 1951, a new commemorative medal will be created to recognise the service of more than 300,000 National Servicemen between 1951 and 1972.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12214</transcript-id><title>Anniversary of National Service 1951-1972 Medal </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/04/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>To mark the 50th anniversary of the introduction of national service in 1951, a new commemorative medal will be created to recognise the service of more than 300,000 National Servicemen between 1951 and 1972.</p>
 <p>The Anniversary of National Service 1951 - 1972 Medal is a way of publicly acknowledging those who played such an important role in the defence of our nation through the two post-war national service schemes.</p>
 <p>The medal joins the honours and medals awarded to full and part-time members of the Australian Defence Force, both current and former. These include gallantry and bravery decorations; distinguished, conspicuous, and meritorious service decorations; as well as service and campaign medals and commemorative medals.</p>
 <p>Of the 325,800 national servicemen over that 21-year period, 187 gave their lives on active service and some 1500 were wounded.</p>
@@ -17,6 +7,4 @@
 <p>Applications for the medal will be called as soon as it is formally created, which is expected to occur during the second half of this year. The next of kin of those who have died may also apply for the medal.</p>
 <p>The Minister for Veterans' Affairs, the Hon Bruce Scott, will be announcing further details in due course.</p>
 <p>26 April 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

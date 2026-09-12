@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23084</transcript-id>
-    <title>Productivity Commission inquiry into infrastructure costs</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/11/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government will commence a thorough examination of infrastructure costs and financing in Australia with a new Productivity Commission inquiry.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23084</transcript-id><title>Productivity Commission inquiry into infrastructure costs</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/11/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government will commence a thorough examination of infrastructure costs and financing in Australia with a new Productivity Commission inquiry.</p>
 <p>This inquiry delivers on a key Coalition commitment and forms part of the Government’s ambitious infrastructure agenda.</p>
 <p>The Terms of Reference for the inquiry provide scope for the Productivity Commission to analyse and report on the following areas:</p>
-<ul><li>How infrastructure is currently funded and financed in Australia, including by the Commonwealth, the States and the private sector;</li>
+<ul>
+<li>How infrastructure is currently funded and financed in Australia, including by the Commonwealth, the States and the private sector;</li>
 <li>The rationale, role and objectives of alternative funding and financing mechanisms;</li>
 <li>Examine the cost structure of major infrastructure projects in Australia, including where infrastructure project costs have increased considerably, compared with other countries;</li>
 <li>Provide advice on ways to improve decision-making and implementation processes to facilitate a reduction in the cost of public infrastructure projects; and</li>
 <li>Comment on other relevant policy measures, including any non-legislative approaches, which would help ensure effective delivery of infrastructure services over both the short and long term.</li>
-</ul><p>The Government is mindful of the financial risks posed by alternative funding and financing mechanisms.  In this respect, the Terms of Reference also ask the Productivity Commission to consider these risks to the Commonwealth, as well as their possible impact on the Budget and fiscal consolidation goals.</p>
+</ul>
+<p>The Government is mindful of the financial risks posed by alternative funding and financing mechanisms.&nbsp; In this respect, the Terms of Reference also ask the Productivity Commission to consider these risks to the Commonwealth, as well as their possible impact on the Budget and fiscal consolidation goals.</p>
 <p>The Productivity Commission will also have regard to work already underway by the Commission of Audit.</p>
 <p>The overall cost of infrastructure and engagement with the private sector on infrastructure financing are key economic challenges faced by Australia and other countries in our region.</p>
 <p>Australia must ensure that private investment is as attractive as possible by reducing the cost of building infrastructure by driving efficiency and removing red tape.</p>
@@ -26,6 +18,4 @@
 <p>The Terms of Reference for the inquiry are attached.</p>
 <p>More information is available at <a href="http://www.pc.gov.au/">www.pc.gov.au</a></p>
 <p>13 November 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

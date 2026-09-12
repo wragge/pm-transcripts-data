@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11888</transcript-id>
-    <title>Doorstop, Brisbane Airport </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>APEC; relations with Indonesia</subjects>
-    <content><![CDATA[<p>19 October 2001</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11888</transcript-id><title>Doorstop, Brisbane Airport </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>APEC; relations with Indonesia</subjects><content><![CDATA[<p>19 October 2001</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Looking forward to your trip Prime Minister?</p>
@@ -36,6 +26,4 @@
 <p>PRIME MINISTER:</p>
 <p>A strong condemnation of terrorism and a commitment of all of the countries to cooperate in ways they best can to fight it.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

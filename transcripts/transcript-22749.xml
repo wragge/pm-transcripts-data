@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22749</transcript-id>
-    <title>Transcript of National Press Club Address Q&amp;A</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>11/07/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST: Your speech today took some of us of a certain age back to 1983, with talk of productivity pacts and bringing the nation together.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22749</transcript-id><title><![CDATA[Transcript of National Press Club Address Q&amp;A]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>11/07/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST: Your speech today took some of us of a certain age back to 1983, with talk of productivity pacts and bringing the nation together.</p>
 <p>Bob Hawke of course famously talked about reconciliation, recovery and reconstruction, and made the accord the centrepiece of his bid for government and his subsequent governance.</p>
 <p>How formal should this relationship be between the government, business and the unions? Do you’ll be in a position to clearly articulate where those agendas are before the election campaign? And does it provide a way of making unions a positive for Labor rather than a negative?</p>
 <p>PM: Thanks Laura. The bottom line is, back in the 1980s, of course the then accord between the government and the trade union movement and business was based at a time of central wage fixation. We're not at that time now.</p>
@@ -156,6 +146,4 @@
 <p>On the question of unemployment benefits, can I say, that question along with others that have been floated with me, including supporting parents payments will be the subject of further discussion by the Cabinet.</p>
 <p>I don't want to make false promises and create expectations which can't be realised, but obviously we as a government are concerned about these genuine social challenges, and we will be doing what we can in these areas. Thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

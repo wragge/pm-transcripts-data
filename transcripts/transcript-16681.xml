@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16681</transcript-id>
-    <title>Transcript of interview with Lyndal Curtis, PM, ABC Radio    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/07/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16681</transcript-id><title>Transcript of interview with Lyndal Curtis, PM, ABC Radio    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/07/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE</p>
 <p>CURTIS: Mr Rudd, welcome to PM.</p>
 <p>PM: Thank you.</p>
 <p>CURTIS: Have you picked up the phone to talk to anyone in China about the detention of Stern Hu?</p>
@@ -71,6 +61,4 @@
 <p>CURTIS: Prime Minister, thank you very much for your time.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>(Ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

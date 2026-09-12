@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23101</transcript-id>
-    <title>Address to White Ribbon Australia Breakfast - 10 Year Anniversary, Parliament House</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/11/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thanks very much, Ken. Madam Speaker, Opposition Leader, Senator Milne, Parliamentary colleagues.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23101</transcript-id><title>Address to White Ribbon Australia Breakfast - 10 Year Anniversary, Parliament House</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/11/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thanks very much, Ken. Madam Speaker, Opposition Leader, Senator Milne, Parliamentary colleagues.</p>
 <p>I am pleased to be here today on the 10th anniversary of White Ribbon’s formation in Australia.</p>
 <p>I wish I could say that violence against women was no longer a problem in our country but I can’t, because if I tried to say that, it simply wouldn’t be true.</p>
 <p>It is still a problem.</p>
@@ -25,6 +15,4 @@
 <p>So, I am pleased to be here.</p>
 <p>I am pleased to be here today amidst so many of my parliamentary colleagues making the strongest possible statement that the women of Australia, that the women of the world, should be able to live their lives in peace and enjoying the respect of their menfolk.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

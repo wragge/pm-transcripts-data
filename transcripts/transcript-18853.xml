@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18853</transcript-id>
-    <title>Transcript of Remarks Following Meeting with Indian Prime Minister</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/10/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New Delhi, India</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18853</transcript-id><title>Transcript of Remarks Following Meeting with Indian Prime Minister</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/10/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New Delhi, India</p>
 <p>PM: I want to thank the Indian Government and the Indian people for the warmth of the welcome that we received and the very great honour of this state visit.</p>
 <p>Yesterday Prime Minister Singh I was privileged to see some of the human dimensions of the relationships between our two countries.</p>
 <p>I was able to see things like how sport and education are changing the lives of Indian children.</p>
@@ -37,6 +27,4 @@
 <p>So Prime Minister Singh, thank you very much for your hospitality and for the very productive discussions that we have had today.</p>
 <p>I'm looking forward to continuing to work with you as we take this strategic partnership between our two countries into this Asian century.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12132</transcript-id>
-    <title>COMMUNITY-BUSINESS PARTNERSHIP DEVELOPS NEW TAX INITIATIVES         TO PROMOTE PHILANTHROPY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/2002</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that yesterday's meeting of the Prime Minister's</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12132</transcript-id><title>COMMUNITY-BUSINESS PARTNERSHIP DEVELOPS NEW TAX INITIATIVES         TO PROMOTE PHILANTHROPY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/2002</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that yesterday's meeting of the Prime Minister's</p>
 <p> Community-Business Partnership (PMCBP) put the finishing touches on two</p>
 <p> new tax initiatives to encourage greater corporate and personal philanthropy</p>
 <p> in Australia. These initiatives are based on the work of the PMCBP's Taxation</p>
@@ -75,6 +65,4 @@
 <p>Guidelines</p>
 <p> For Prescribed Private Funds (including a Model Trust Deed) - Australian</p>
 <p> Taxation Office</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

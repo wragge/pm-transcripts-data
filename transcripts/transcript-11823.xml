@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11823</transcript-id>
-    <title>Doorstop Interview, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: tariffs; opinion polls, comments by Senator Alston, Andrew Thomson.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11823</transcript-id><title>Doorstop Interview, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: tariffs; opinion polls, comments by Senator Alston, Andrew Thomson.</p>
 <p>E&amp;OE................................</p>
 <p>PRIME MINISTER:</p>
 <p>You all ready? Okay away you go. Who's going to give me the heart starter?</p>
@@ -33,7 +23,7 @@
 <p>What's your reaction to Bob McMullan's comments that the tax cut debate is secondary to health and education funding?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I think, aren't those rolling away from rollback? It changes each day. One minute rollback was number one, they have a look at an opinion poll and say gee we better put health and education at the top of the list. I don't know where they stand. I mean our position is clear, we've already invested very heavily in things like health and education. If there is an available surplus then the priority should be to give income tax cuts. The Labor Party's bobbing around, changing its position every day, one day it's rollback, the next day it's health and education, the next day it will be something else. No wonder people have but a vague idea of what Mr Beazley stands for.</p>
-<p>JOURNALIST:<br />
+<p>JOURNALIST:<br>
 What's your top priority over health, education and the rollover?</p>
 <p>PRIME MINISTER:</p>
 <p>Well we don't favour rollover or rollback.</p>
@@ -44,7 +34,7 @@ What's your top priority over health, education and the rollover?</p>
 <p>JOURNALIST:</p>
 <p>Do you support Senator Alston's comments on Foxtel?</p>
 <p>PRIME MINISTER:</p>
-<p>Well I'm not aware of precisely what Senator Alston says and until I am I'm not going to<br />
+<p>Well I'm not aware of precisely what Senator Alston says and until I am I'm not going to<br>
 comment on that.</p>
 <p>JOURNALIST:</p>
 <p>Do you plan to speak to Andrew Thomson about his comments that he's a private member of the Liberal Party..?</p>
@@ -52,6 +42,4 @@ comment on that.</p>
 <p>Well I haven't seen those comments. He is a private members of the Liberal Party as are all members of the Liberal Party who aren't Cabinet Ministers. As previously he has obligations until he ceases to be a member and I'm sure he'll carry them out.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

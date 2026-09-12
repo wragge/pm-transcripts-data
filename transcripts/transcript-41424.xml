@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41424</transcript-id>
-    <title>Remarks at the Morning Tea with the Australian of the Year Finalists</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/01/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thank you very much.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41424</transcript-id><title>Remarks at the Morning Tea with the Australian of the Year Finalists</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/01/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thank you very much.</p>
 <p>Yoonggu gulanyin ngalawiri, dhunayi, Ngoonawal dhowrrra.</p>
 <p>Wanggarra lin jin yin marunn bulaan boogarabung.</p>
 <p>We’re here gathered together on the land of the Ngunnawal people, and as Paula has just done, we acknowledge their country. We acknowledge all first Australians here and around the country, and we honour their elders, past and present and emerging.</p>
@@ -33,6 +23,4 @@
 <p>Thank you so much, happy Australia Day we look forward to talking with you further today, and of course as I said, the very best of luck tonight.</p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

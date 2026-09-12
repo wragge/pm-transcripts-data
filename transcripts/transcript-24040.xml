@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24040</transcript-id>
-    <title>Address to the 2014 Prime Minister&#039;s Literary Awards</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/12/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is terrific to be here. It’s great to be amongst so many people who are so important in the cultural life of our country.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24040</transcript-id><title><![CDATA[Address to the 2014 Prime Minister&#039;s Literary Awards]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/12/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is terrific to be here. It’s great to be amongst so many people who are so important in the cultural life of our country.</p>
 <p>I do really appreciate your presence. More than that, I really appreciate everything you do for the cultural life of our country to help shape and promote our identity.</p>
 <p>Ladies and gentleman, in February 2012, I received what I thought was an innocuous tweet asking whether I was reading anything at that moment that I’d recommend to others.</p>
 <p>So, I replied: “I've just read Nikki Gemmell's With My Body; a captivating successor to The Bride Stripped Bare!”</p>
@@ -25,7 +15,7 @@
 <p>And my life, like that of so many in this room, has been defined by a love of words.</p>
 <p>Like prime ministers Deakin and Curtin before me, I was a journalist before I entered Parliament.</p>
 <p>As I’ve sometimes said: As a journalist, I was a frustrated politician; as a politician, I am a frustrated journalist – and when I was a trainee priest, for three years in my twenties, I was just frustrated.</p>
-<p>It shouldn’t surprise anyone that most Australian prime ministers over the past half century have, in fact, written books: Menzies, Whitlam, Fraser, Hawke, Keating, Howard and most recently Julia Gillard. </p>
+<p>It shouldn’t surprise anyone that most Australian prime ministers over the past half century have, in fact, written books: Menzies, Whitlam, Fraser, Hawke, Keating, Howard and most recently Julia Gillard.&nbsp;</p>
 <p>They have done so because they understood the power of the written and the spoken word.</p>
 <p>I am reminded of a story by Sir Robert Menzies who during 1941 spent several weekends with Winston Churchill at the British Prime Minister’s retreat “Chequers".</p>
 <p>On one evening, Menzies walked into Churchill’s study and found him pacing up and down, dictating a draft for broadcast.</p>
@@ -66,6 +56,4 @@
 <p>So, I congratulate everyone associated with all of the nominated works and I look forward to spending quality time with some of them over the coming Christmas break.</p>
 <p>Thank you so much. This is a marvellous night and I’m very honoured to be amongst you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

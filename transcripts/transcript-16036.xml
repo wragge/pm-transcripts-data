@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16036</transcript-id>
-    <title>Joint Press Conference with  Attorney General, Robert McClelland, Prime Ministers Courtyard, Parliament House </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/07/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: The Government is today pleased to announce the appointment of Justice Robert French as the new Chief Justice of the High Court of Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16036</transcript-id><title>Joint Press Conference with  Attorney General, Robert McClelland, Prime Ministers Courtyard, Parliament House </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/07/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: The Government is today pleased to announce the appointment of Justice Robert French as the new Chief Justice of the High Court of Australia.</p>
 <p>Justice French will be the first West Australian to be Chief Justice of Australia. The first West Australian to occupy this office, therefore, in 107 years.</p>
 <p>His appointment is made necessary because the retirement of the Honourable Chief Justice Murray Gleason, which takes effect as of Friday the 29th of August, 2008.</p>
 <p>We extend on behalf of the Government our congratulations to Justice French on this important appointment, the most important constitutional office in the land.</p>
@@ -94,6 +84,4 @@
 <p>PM:Well as I have said before Michelle in reference I think to Mayo, maybe in a reference to Lyne as well I can't remember. These are seats which have never been held by Labor and in the history of their having been established as seats in the House of Representatives.</p>
 <p>Secondly unlike various other political parties, we don't have a million bucks to throw at every by-election that comes along. Which is precisely what the other mob threw at the by-election in Gippsland. But we have yet to reach a final decision on that.</p>
 <p>Ok thanks folks</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

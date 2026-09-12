@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23052</transcript-id>
-    <title>Federal Government Delivers Funding for New Medical Research Discoveries</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/10/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Federal Government has announced more than $559 million in funding to help Australian health and medical researchers generate new health discoveries.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23052</transcript-id><title>Federal Government Delivers Funding for New Medical Research Discoveries</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/10/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Federal Government has announced more than $559 million in funding to help Australian health and medical researchers generate new health discoveries.</p>
 <p>The funding will support 963 grants across three National Health and Medical Research Council (NHMRC) research support schemes and five fellowship schemes.</p>
 <p>The investment in these innovative projects is aimed at finding better treatments for many common diseases such as cancer, diabetes, asthma, arthritis and cardiovascular disease as well as finding new ways of tackling mental illness, dementia and indigenous health.</p>
 <p>The Federal Government is committed to ensuring that Australia remains a world leader in medical research.</p>
@@ -22,6 +12,4 @@
 <p>Six partnership projects worth $4.5 million will support researchers and policy makers to identify tailored, evidence-based solutions that improve health practice. Twelve European Union Collaborative Research Grants worth $4 million will also support Australian researchers working in multinational research collaborative projects.</p>
 <p>In addition, 293 fellowships totalling $126.9 million will help to build a strong cohort of future researchers.</p>
 <p>For information on NHMRC grants awarded to successful researchers: <a href="http://www.nhmrc.gov.au/grants/outcomes-funding-rounds">http://www.nhmrc.gov.au/grants/outcomes-funding-rounds</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

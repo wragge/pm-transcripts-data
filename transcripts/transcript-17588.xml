@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17588</transcript-id>
-    <title>Transcript of interview with George Negus, Channel Ten News </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17588</transcript-id><title>Transcript of interview with George Negus, Channel Ten News </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 NEGUS: Prime Minister, thanks for your time. Firstly I -</p>
 <p>PM: Good evening George.</p>
 <p>NEGUS: I noticed that your colleague Anna Bligh actually described this as a grim disaster, an unfolding human tragedy. When you heard about the immensity of it, the shock and horror of what's been happening here in Queensland, what was your own personal reaction?</p>
@@ -23,6 +13,4 @@ NEGUS: Prime Minister, thanks for your time. Firstly I -</p>
 <p>PM: Yes, I will be travelling to Brisbane tonight, I'll be there tomorrow to meet with Premier Bligh and be available for our Defence effort, to be talking to our Defence personnel. They are doing a remarkable job and certainly we will use whatever Defence assets we need to support the people of Queensland and to help them through.</p>
 <p>NEGUS: Prime Minister we'll have to leave it there, but thanks for your time.</p>
 <p>PM: Thanks George.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15227</transcript-id>
-    <title>Tasmanian Hospital Announcement</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/08/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15227</transcript-id><title>Tasmanian Hospital Announcement</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/08/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>Hello there,</p>
 <p>Recently there have been suggestions that Federal Government intervention in traditional areas of state responsibility is a power grab by Canberra.</p>
 <p>Let me make it clear, my government only intervenes in those areas where state or territory governments have not fulfilled their obligations and local communities feel let down, or where a co-operative approach having been patiently tried has clearly failed.</p>
@@ -23,6 +13,4 @@
 <p>The Tasmanian government has announced plans to downgrade the existing hospital which has left the local community deeply unhappy.</p>
 <p>The Commonwealth's true role in this case is one of direct intervention to help the local community.</p>
 <p>Thanks a lot for listening.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

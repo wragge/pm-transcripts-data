@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21380</transcript-id>
-    <title>Interview with Ray Hadley, Radio 2GB   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HADLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21380</transcript-id><title>Interview with Ray Hadley, Radio 2GB   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HADLEY:</p>
 <p>A major announcement about to happen on the programme.  The Prime Minister is about to join us from our Canberra studio and here in our Pyrmont studio Dr Brendan Nelson, the Federal Education Minister, and one of my colleagues Mr Doug Thompson, the chairman of the Slim Dusty Foundation.  And on the phone is Joy McKean.  Hello Joy.</p>
 <p>  MCKEAN:</p>
 <p>  Hello Ray.</p>
@@ -100,6 +90,4 @@
 <p>HADLEY:</p>
 <p>All the best to you Prime Minister, thank you very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

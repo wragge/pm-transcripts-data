@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16401</transcript-id>
-    <title>Australian Government bushfire assistance    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>More than 450 Australian Government personnel will be deployed to Victoria over the coming days to provide emergency services, logistical support and counselling to the hundreds of people who have lost family, friends and property in the devastating fires. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16401</transcript-id><title>Australian Government bushfire assistance    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>More than 450 Australian Government personnel will be deployed to Victoria over the coming days to provide emergency services, logistical support and counselling to the hundreds of people who have lost family, friends and property in the devastating fires. </p>
 <p>The fires have devastated Victoria, causing a massive loss of life and property. The nation is in shock as this disaster continues to unfold.</p>
 <p>Our thoughts and prayers are with the families and communities ravaged by these devastating events.</p>
 <p>Centrelink workers are today arriving in 19 relief centres established around Victoria.</p>
@@ -37,6 +27,4 @@
 <p>     * Victorian Bushfire Hotline  -  1800 240 667</p>
 <p>     * Centrelink assistance information line  -  180 2211</p>
 <p>     * More information on Australian Government assistance is available at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

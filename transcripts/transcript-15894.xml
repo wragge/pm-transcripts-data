@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15894</transcript-id>
-    <title>Opening of the Medical School of Deakin University     </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/05/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is a great pleasure to be here today to open officially the new Medical School at Deakin University.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15894</transcript-id><title>Opening of the Medical School of Deakin University     </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/05/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is a great pleasure to be here today to open officially the new Medical School at Deakin University.</p>
 <p>Before I begin my remarks this morning I want to acknowledge the grief and suffering of those affected by the tragic boat collision on Sydney harbour early this morning.</p>
 <p>The harbour is the centre of so much of Sydney life.</p>
 <p>It is terrible to think of it today as a place of suffering and death.</p>
@@ -90,6 +80,4 @@
 <p>I want to congratulate the staff and faculty and wish you all the best for your first year.</p>
 <p>And I want to congratulate the students of 2008 for being the trailblazers for this new course.</p>
 <p>It is my great pleasure to open formally Deakin University's Medical School.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24192</transcript-id>
-    <title>Joint Remarks with Minister of Foreign Affairs of Iraq</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>12/02/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24192</transcript-id><title>Joint Remarks with Minister of Foreign Affairs of Iraq</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>12/02/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Excellency, it’s terrific to have you here in Australia.</p>
 <p>Obviously, Australia is making a strong contribution to the campaign against the Daesh death cult.</p>
 <p>We’re doing this not just because we want to help Iraq – although we do want to help Iraq – we’re doing this because the death cult is reaching out to people in Australia.</p>
@@ -33,6 +23,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>I look forward to that very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

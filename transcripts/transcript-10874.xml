@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10874</transcript-id>
-    <title>SUPERMARKET TO ASIA COUNCIL MEETING</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister's Supermarket to Asia Council has strongly</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10874</transcript-id><title>SUPERMARKET TO ASIA COUNCIL MEETING</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister's Supermarket to Asia Council has strongly</p>
 <p> endorsed the Government's responsiveness to the current economic</p>
 <p> turmoil in Asia at its meeting in Canberra today.</p>
 <p>Industry representatives expressed the very strong view that the extent</p>
@@ -40,6 +30,4 @@
 <p> these possibilities carefully with a view to taking a more aggressive</p>
 <p> approach in Asia. It is evident that our competitors are already looking</p>
 <p> at such opportunities.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

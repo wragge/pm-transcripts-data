@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17246</transcript-id>
-    <title>Prime Minister Increased civilian effort in Afghanistan 24 April 2010  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will increase the Australian civilian effort in Afghanistan, focused on Oruzgan province.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17246</transcript-id><title>Prime Minister Increased civilian effort in Afghanistan 24 April 2010  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will increase the Australian civilian effort in Afghanistan, focused on Oruzgan province.</p>
 <p>Working alongside the Australian Defence Force, in an integrated civilian-military effort, Australia will increase its diplomatic, development assistance and police contribution to around 50 personnel.</p>
 <p>This represents around a 50 percent increase of Australia's current contribution.</p>
 <p>The additional diplomatic and development assistance staff will be based in Kabul, Kandahar and Tarin Kowt.</p>
@@ -20,6 +10,4 @@
 <p>We are committed to supporting the United States in achieving this, and we are working closely with the Government of Afghanistan and our international partners.</p>
 <p>The new strategy of the International Security Assistance Force in Afghanistan is focused on twin objectives of improving security and governance.</p>
 <p>This increased civilian effort is a prudent and considered additional contribution to support those objectives.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

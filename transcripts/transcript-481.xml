@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>481</transcript-id>
-    <title>PM 29/1962 - Message from President Kennedy</title>
-    <prime-minister>Menzies, Robert</prime-minister>
-    <period-of-service>19491219 - 19660126</period-of-service>
-    <release-date>01/03/1962</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000481.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MESSAGE FROM_ PRESIDENT KENNEDY</p>
-<p><br />Statement by the Prime Minister ( Rt. Hon. R. G. Menzies)</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>481</transcript-id><title>PM 29/1962 - Message from President Kennedy</title><prime-minister>Menzies, Robert</prime-minister><period-of-service>19491219 - 19660126</period-of-service><field_date>01/03/1962</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000481.pdf</document><subjects></subjects><content><![CDATA[<p>MESSAGE FROM_ PRESIDENT KENNEDY</p>
+<p><br>Statement by the Prime Minister ( Rt. Hon. R. G. Menzies)</p>
 <p>I have today received the following letter from the President of the United States:</p>
 <p>"Dear Mr. Prime Minister:</p>
-<p>The Australian Embassy i n Washington has conveyed to me your generous comments on the occasion of Colonel Glenn's flight.</p>
+<p>The Australian Embassy&nbsp;i n Washington has conveyed to me your generous comments on the occasion of Colonel Glenn's flight.</p>
 <p>We are, of course, highly pleased at the success of our first orbital flight. I am confident that this flight is but the beginning of a great new adventure for the peoples of the world in which we will all participate and from which, I sincerely hope, all of us will benefit.</p>
 <p>As you know, the tracking facilities in Australia were a key factor in Mak: ing this historical flight possible. My countrymen and I deely appreciate the valuable assistance of the government and people of Australia in our manned space program and we look forward to our continued close association in the further conquest of the space frontier.</p>
 <p>Thank you for your inspiring comments, and with warmest personal regards,</p>
-<p>Sincerely,<br />John F. Kennedy"</p>
-<p><br />CANBERRA,<br />1st March, 1962.</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>Sincerely,<br>John F. Kennedy"</p>
+<p><br>CANBERRA,<br>1st March, 1962.</p>
+]]></content></item></response>

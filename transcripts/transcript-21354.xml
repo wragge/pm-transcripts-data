@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21354</transcript-id>
-    <title>Interview with Tony Jones, Lateline, ABC TV  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JONES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21354</transcript-id><title>Interview with Tony Jones, Lateline, ABC TV  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JONES:</p>
 <p>Prime Minister, what's at stake for the Middle East and for the world for that matter, if the democratic experiment in Iraq fails?</p>
 <p>PRIME MINISTER:</p>
 <p> Well quite a lot.  If it works, then for the first time there will be a democratic Arab State.  That must be beneficial.  It must improve over time the climate in the Middle East.  It must be an example to other Arab States.  And on the other hand, if it fails, then that will be not only a huge setback for the Middle East but it will be a tremendous victory for terrorism around the world, because they will proclaim that they have won and that will encourage like behaviour in other parts of the world, including our own.</p>
@@ -162,6 +152,4 @@
 <p>PRIME MINISTER:</p>
 <p>It's always a pleasure.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

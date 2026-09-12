@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17359</transcript-id>
-    <title>Prime Minister Remarks to the House of Representatives regarding an incident in Afghanistan Canberra 21 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/06/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is with profound sadness that I inform the House that a helicopter carrying Coalition forces went down in Khandahar province in Afghanistan today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17359</transcript-id><title>Prime Minister Remarks to the House of Representatives regarding an incident in Afghanistan Canberra 21 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/06/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is with profound sadness that I inform the House that a helicopter carrying Coalition forces went down in Khandahar province in Afghanistan today.</p>
 <p>There were ten Australian servicemen on board.</p>
 <p>It's my sad responsibility to inform the House that three Australian Commandos from the Special Operations Task Group have been killed.</p>
 <p>Seven other Australian servicemen are wounded, two of them very seriously.</p>
@@ -30,6 +20,4 @@
 <p>All Australians owe them a debt of gratitude for their service and for their sacrifice.</p>
 <p>Our thoughts and our prayers are with the families and friends of those who have fallen.</p>
 <p>We mourn them, we pay tribute to them, we pay tribute to them having paid the ultimate sacrifice for our nation. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

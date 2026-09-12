@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41401</transcript-id>
-    <title>UTAS relocation given the green light</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/01/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will drive jobs and economic revitalisation in Launceston through the game-changing relocation of the University of Tasmania’s main campus to Central Business District.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41401</transcript-id><title>UTAS relocation given the green light</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/01/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will drive jobs and economic revitalisation in Launceston through the game-changing relocation of the University of Tasmania’s main campus to Central Business District.</p>
 <p>With the Commonwealth funding agreement for the project now settled with the University of Tasmania, construction can commence on this significant boost to education and research in Tasmania’s north.</p>
 <p>The investment to relocate the University of Tasmania’s main campus to Launceston is the centrepiece of the Launceston City Deal agreed with the Tasmanian Government and Launceston City Council in April 2017.</p>
 <p>As part of the City Deal the Turnbull Government is investing $130 million in the project, with the University of Tasmania contributing $64.6 million, the Tasmanian State Liberal Government $60 million and the City of Launceston $5.4 million, bringing the total project funding to $260 million.</p>
@@ -18,10 +8,10 @@
 <p>The initiative is an essential part of the Launceston City Deal and positions Launceston to become one of Australia’s most liveable and innovative regional cities within the next five years.</p>
 <p>The Government’s investment in this project recognises the importance of modern infrastructure in the delivery of quality education, research, science and technology across northern Tasmania.</p>
 <p>Key elements of the project include:</p>
-<ul><li>a new fit-for-purpose campus at Inveresk in Launceston providing modern, world-class teaching, learning and research facilities, particularly in science, technology, engineering and mathematics (STEM) disciplines</li>
+<ul>
+<li>a new fit-for-purpose campus at Inveresk in Launceston providing modern, world-class teaching, learning and research facilities, particularly in science, technology, engineering and mathematics (STEM) disciplines</li>
 <li>establishing a Launceston-based Institute for Applied Science and Design that supports the future of science and research in the region</li>
 <li>an Institute and areas of excellence focussed on sectors where the region has a competitive advantage.</li>
-</ul><p>More information on the Jobs and Growth in Tasmania project is available at <a href="https://cities.dpmc.gov.au/launceston-city-deal">https://cities.dpmc.gov.au/launceston-city-deal</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+</ul>
+<p>More information on the Jobs and Growth in Tasmania project is available at <a href="https://cities.dpmc.gov.au/launceston-city-deal">https://cities.dpmc.gov.au/launceston-city-deal</a>.</p>
+]]></content></item></response>

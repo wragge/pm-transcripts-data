@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40253</transcript-id>
-    <title>Interview with Neil Mitchell, 3AW Melbourne</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/03/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>NEIL MITCHELL:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40253</transcript-id><title>Interview with Neil Mitchell, 3AW Melbourne</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/03/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>NEIL MITCHELL:</strong></p>
 <p>Good morning day two of what is probably a 15 week election campaign. Now it’s daunting for us. Not for politicians they enjoy it. It’s a crucial one. This election must return stability and direction in Australia. We cannot return to the frantic nature of the past nine years. Six Prime Ministers in nine years. Your calls in a moment. On the phone from his Sydney office, the Prime Minister, Mr Turnbull. Good morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning Neil.</p>
@@ -184,6 +174,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks so much, Neil.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

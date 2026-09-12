@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17341</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Perth 10 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: It's good to be down here in Mandurah and good to be here with Alannah and good to be here with Wayne and a number of local workers. We've been talking about the needs of this community, the needs of infrastructure across WA and how do we fund that infrastructure for the future.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17341</transcript-id><title>Prime Minister Transcript of doorstop interview Perth 10 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: It's good to be down here in Mandurah and good to be here with Alannah and good to be here with Wayne and a number of local workers. We've been talking about the needs of this community, the needs of infrastructure across WA and how do we fund that infrastructure for the future.</p>
 <p>The Government is establishing a regional infrastructure fund. The Government is establishing a WA regional infrastructure fund of at least $2 billion, and that's to make a big difference with funding the roads, rail and ports that communities like this and WA overall need for the future. Because we believe that's the best way to make sure that WA gets a fair share of the profits which come from a mining boom, back into the infrastructure needs of WA - road, rail and ports - back into the infrastructure needs of local communities and also to help workers with better super.</p>
 <p>I notice in the debate in the last 24 hours, that our political opponents are saying that mining companies provide all that infrastructure, that's what Mr Abbott I understand has said in effect on 6PR. I just think that shows how out of touch our political opponents are with reality. My experience of this State and my own state of Queensland is, in fact, mining companies have stepped back over the last ten to twenty years from providing all the infrastructure needs associated with their developments, let alone communities like this which support the mining industry in other parts of the State.</p>
 <p>There's a pretty clear choice here. We, the Government, are saying WA deserves a WA infrastructure fund to support the road, rail and ports this great State needs for the future and the local communities of the future, and our political opponents are saying, nope, no one needs to fund that because the mining companies will look after it themselves.</p>
@@ -63,6 +53,4 @@
 <p>JOURNALIST: Will you attend the service if the family wants you to?</p>
 <p>PM: Yeah as I've always done Geof, as I've always done, it's a question of being sensitive to what families want and where that's been the case in the past then I have been there and we would be respectful and responsive to those requests again.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

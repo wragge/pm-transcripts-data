@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18882</transcript-id>
-    <title>Statement to the House of Representatives</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/11/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18882</transcript-id><title>Statement to the House of Representatives</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/11/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The House will now be aware this is a very special day for Australia.</p>
 <p>This morning I attended Government House to witness the award of a Victoria Cross to Corporal Daniel Keighran.</p>
 <p>In Afghanistan, Australia has seen moments of great sorrow and great courage; on the 24th of August 2010 in a single engagement we saw both.</p>
@@ -34,6 +24,4 @@
 <p>Whether they are the ground crew who serve the airfield at Tarin Kot, the workshop supervisors who train the Afghans and manage our equipment, the headquarters staff who plan transition, the development advisers who walk the villages of the south to help the Afghan people; their devotion to their duty is incredible. </p>
 <p>Their presence amongst us is one of the privileges of our generation.</p>
 <p>We are lucky to have them all and we should be proud they are Australians.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

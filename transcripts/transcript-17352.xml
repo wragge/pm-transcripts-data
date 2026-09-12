@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17352</transcript-id>
-    <title>Prime Minister Transcript of joint press conference Parliament House Canberra 20 June 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Today we can announce a major new agreement to build a stronger Australian economy, but also to provide cheaper, better broadband services to Australian families, to Australian small businesses, right across our nation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17352</transcript-id><title>Prime Minister Transcript of joint press conference Parliament House Canberra 20 June 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Today we can announce a major new agreement to build a stronger Australian economy, but also to provide cheaper, better broadband services to Australian families, to Australian small businesses, right across our nation.</p>
 <p>Today, Telstra and the National Broadband Network have signed a Financial Heads of Agreement which provides the way for that cheaper, faster, universal broadband service for all Australians.</p>
 <p>After 20 years, it also achieves fundamental structural reform in the telecommunications sector, separating out wholesalers from retailers, and therefore represents a major reform for the nation.</p>
 <p>The Government committed to building a superfast broadband service for all Australians back in 2007, when the Government was then in Opposition.</p>
@@ -176,6 +166,4 @@
 <p>That was a joke. It was not true.</p>
 <p>JOURNALIST: (inaudible)</p>
 <p>PM: Got to go, folks. We're heading off. Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19203</transcript-id>
-    <title>Australia Week in China</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/04/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Shanghai, People's Republic of China</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19203</transcript-id><title>Australia Week in China</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/04/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Shanghai, People's Republic of China</p>
 <p>A new campaign to promote Australian tourism, trade and investment opportunities to the rapidly growing Chinese market will be brought to Shanghai following the success of the G'Day USA program.</p>
 <p>Australia Week in China will be based in Shanghai  -  China's commercial and financial capital  -  in 2014 to further boost Australia's reputation as a world leading destination and a valuable tourism, trade and investment partner.</p>
 <p>The announcement made today in Shanghai comes during a five day visit by the most senior Australian Government delegation to ever visit China.</p>
@@ -23,6 +13,4 @@
 <p>The Government launched the China 2020 Strategic Plan in June 2011 to help realise the huge tourism opportunity for Australia  -  in 2011, 70 million Chinese travelled overseas, spending US$69 billion.</p>
 <p>We are already seeing increased aviation access between China and Australia  -  half a dozen international carriers currently fly between China and Australia including Qantas, Jetstar, Air China, China Eastern, China Southern and Sichuan Airlines.</p>
 <p>Tourism Australia, Austrade, and the Departments of Resources, Energy and Tourism and Foreign Affairs and Trade will work together with industry and governments to deliver the initiative. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

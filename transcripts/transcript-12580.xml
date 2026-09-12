@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12580</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  DOORSTOP INTERVIEW, SYDNEY   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/12/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: UN Weapons Inspectors' Report.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12580</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  DOORSTOP INTERVIEW, SYDNEY   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/12/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: UN Weapons Inspectors' Report.</p>
 <p>E&amp;OE...........  </p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, what';s your reaction to the report from the weapons inspectors?</p>
@@ -24,6 +14,4 @@
 <p>PRIME MINISTER:</p>
 <p>Once again that is in Iraq';s hands.  If Iraq complies with the United Nations Security Council resolution then we can avoid military conflict and the possibility of weapons of mass destruction falling into the hands of terrorists can also be avoided and that is the ultimate nightmare in this situation. </p>
 <p>   [Ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

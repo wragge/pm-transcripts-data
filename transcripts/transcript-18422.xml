@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18422</transcript-id>
-    <title>Transcript of joint press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/03/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18422</transcript-id><title>Transcript of joint press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/03/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you very much, everybody. I'm joined today by Senator Penny Wong and by Assistant Treasurer David Bradbury, but I'm also joined by Tony Shepherd, the President of the Business Council of Australia, and by Peter Anderson, who is the CEO of the Australian Chamber of Commerce and Industry.</p>
 <p>The Australian economy is strong, but we know that some businesses are under intense pressure as a result of the high Australian dollar. One of the ways that we can address these challenges of change is by lifting productivity in our economy. As a government, we've been focused on lifting productivity. That's why we're focused on skills reform, making sure that working Australians have the skills they need and Australian businesses have the people they need. It's also why we're focused on rolling out the National Broadband Network and other productivity-enhancing infrastructure. It's why we're focused on delivering tax reform that can assist businesses, make investments and be ready for the challenges of change.</p>
 <p>We've also focused on driving up productivity by creating a seamless national economy so that our nation can have one set of rules and regulations for Australian businesses. Now, regulation is important and good regulation matters. It matters so that business knows what the rules are. It matters so we can get the kind of social and environmental outcomes we want in our nation. But poor regulation, too much red tape, holds business back. As a government, we've been focused on working through COAG in creating a seamless national economy, and in that regard we've delivered 16 of 27 regulation reforms. In delivering those 16 reforms, we have delivered changes that make a real difference for Australian business.</p>
@@ -174,6 +164,4 @@ PM: Thank you very much, everybody. I'm joined today by Senator Penny Wong and b
 <p>On the illegal logging issue that you raised, this is an election commitment; it has been the subject of consultation with Indonesia. It's been subject of consultation at the level of officials but it's also been the subject of consultation at ministerial level.</p>
 <p>The relevant Minister, Minister Ludwig was, for example, in Indonesia, I think it was March 2011, working through issues associated with this bill.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

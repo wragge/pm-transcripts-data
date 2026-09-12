@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18650</transcript-id>
-    <title>Transcript of interview with Georgie Gardner, Today</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/06/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18650</transcript-id><title>Transcript of interview with Georgie Gardner, Today</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/06/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: To discuss this further, Prime Minister Julia Gillard joins us now from Canberra. Prime Minister, good morning to you.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Before we get to the deal, there was more tragedy of course about this time yesterday with another boat capsizing off Christmas Island. What's the latest on that situation?</p>
@@ -52,6 +42,4 @@ HOST: To discuss this further, Prime Minister Julia Gillard joins us now from Ca
 <p>This is genuinely a compromise  -  part of what the Government wanted, part of what the Opposition wanted  -  let's just stop the politics and get this done.</p>
 <p>HOST: Alright, a critically important day today in our Parliament. Prime Minister Gillard, we appreciate your time today. Thank you very much.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

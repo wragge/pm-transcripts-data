@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40967</transcript-id>
-    <title>Radio interview with Banksy &amp; Pinky, Triple M Central Queensland</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Cities Deal; Adani Mine; ParentsNext</subjects>
-    <content><![CDATA[<p><strong>BANKSY:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40967</transcript-id><title><![CDATA[Radio interview with Banksy &amp; Pinky, Triple M Central Queensland]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Cities Deal; Adani Mine; ParentsNext</subjects><content><![CDATA[<p><strong>BANKSY:</strong></p>
 <p>Malcolm Turnbull, our Prime Minister is in the area at the moment and is also I believe, on the phone. Good morning Prime Minister Malcolm Turnbull.</p>
 <p><strong>PINKY:</strong></p>
 <p>You’ll just have to pop him through.</p>
@@ -175,6 +165,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>I will, thanks a lot.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18910</transcript-id>
-    <title>Speech to Business Council of Australia Dinner</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/11/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18910</transcript-id><title>Speech to Business Council of Australia Dinner</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/11/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>Throughout my time in Government, I've been struck by the desire of many businesspeople to see a plan for Australia's future. </p>
 <p>That's the purpose of our White Paper. And tonight I want to reflect on the projects over the next couple of years which get it done.</p>
@@ -46,10 +36,10 @@
 <p>We will also maintain the investments in education and skills that spread opportunity to all and that mean all can contribute to wealth creation. </p>
 <p>This is what has brought us twenty one years of growth, a generation of economic sunshine, and it is what gives us a moment of strength when we can shape our future.</p>
 <p>In structure, what the White Paper does is to weave together the policy approach we have been pursuing in government with long-term policy ambitions for the nation's future.</p>
-<p> * 	First, economic strength  -  building a productive and resilient economy.<br />
- * 	Second, strong minds  -  an education and skills plan to build capabilities.<br />
- * 	Third, expanding and integrating regional markets and building the presence of Australian firms in them.<br />
- * 	Fourth, deep and broad relationships with the region at all levels  -  leisure and sport, work and holidays, learning and culture are all being refined and redefined.<br />
+<p> * 	First, economic strength  -  building a productive and resilient economy.<br>
+ * 	Second, strong minds  -  an education and skills plan to build capabilities.<br>
+ * 	Third, expanding and integrating regional markets and building the presence of Australian firms in them.<br>
+ * 	Fourth, deep and broad relationships with the region at all levels  -  leisure and sport, work and holidays, learning and culture are all being refined and redefined.<br>
  * 	And finally, sustaining the security of our diverse region.</p>
 <p>This is a set of specific goals to guide us  -  specific policy measures to start the work  - and a call to action to all parts of Australian society  -  with the business community central to that.</p>
 <p>I know that many of you already lead Asia business strategies  -  and work on the new business models and new ways to engage with these growing regional markets.</p>
@@ -88,6 +78,4 @@
 <p>So that's the work of coming years, that's what preoccupies my thoughts as I think through the agenda for this country.  </p>
 <p>Big opportunities for the future-makers  -  complacency the greatest risk of all. </p>
 <p>I'm looking forward to working with you as we get it done.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

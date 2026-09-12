@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41569</transcript-id>
-    <title>Doorstop - Heathcote Fire Response Centre, NSW</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/04/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Fire response; Syria; Commonwealth Games</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41569</transcript-id><title>Doorstop - Heathcote Fire Response Centre, NSW</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/04/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Fire response; Syria; Commonwealth Games</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good afternoon. I’m joined by Mark Speakman, New South Wales Attorney General and Acting Emergency Services Minister, my federal colleague Craig Kelly, the Member for Hughes and Lee Evans, Member for Heathcote and Melanie Gibbons, Member for Holsworthy. Of course Shane Fitzsimmons the Commissioner for the Rural Fire Service, Paul Baxter, Commissioner for Fire and Rescue New South Wales and Paul Norton, the incident controller.</p>
 <p>We've just been getting a briefing on the fire, and Shane is going to give us an update on the latest developments.</p>
 <p>Clearly, with the wind increasing in strength, the situation is worsening. But there is an outstanding effort to control this fire being undertaken.</p>
@@ -60,7 +50,7 @@
 <p>The areas burning right now? Has that been, have there been hazard-reduction burns been going there? What’s the, sort of, background story in this particular -</p>
 <p><strong>COMMISSIONER, RURAL FIRE SERVICE:</strong></p>
 <p>Yeah there is. Particularly throughout the Sutherland area there is a number of things I would point out. As the Prime Minister indicated, Sutherland Council for many decades led an initiative locally about planning and development with good consideration about bushfire risk. So even before some of the legislative arrangements that came into place in the early 2000s, in the decades passed, there was a lot of work around asset protection zones and design and construction standards, which helped improve the survivability of property. But also, there’s a very active hazard reduction and fuel management program right throughout the Sutherland area, even in the Alfords Point area where we’re quite concerned with the impact of fire at the moment, a large area to the west of Alfords Point - I think it’s Mill Creek just to the west of Alfords Point between Mill Creek and right up to the back of Alfords Point - has been the subject of good hazard reduction burning, only 18 months or two years ago.</p>
-<p>But as we always say, it’s called hazard reduction burning, hazard reduction activity for a reason; it reduces the hazard but doesn't eliminate the hazard. </p>
+<p>But as we always say, it’s called hazard reduction burning, hazard reduction activity for a reason; it reduces the hazard but doesn't eliminate the hazard.&nbsp;</p>
 <p>Under these dry, windy, volatile conditions, fire still carries through, albeit at some reduced intensity. So from what I have seen, there has been some pretty good work in and around the western areas of these at-risk communities right now.</p>
 <p><strong>JOURNALIST: </strong></p>
 <p>Can you give us some more detail about the conditions today and how that’s affecting the fire and also how they’re forecast to change or continue?</p>
@@ -106,6 +96,4 @@
 <p>Congratulations and thank you to everyone who has made these Commonwealth Games possible.</p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

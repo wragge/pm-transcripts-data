@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22314</transcript-id>
-    <title>Press Conference Parliament House, Canberra  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/06/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22314</transcript-id><title>Press Conference Parliament House, Canberra  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/06/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well ladies and gentlemen I've called this news conference to announce that Cabinet has approved the establishment of a Prime Ministerial Taskforce to review uranium mining, processing and nuclear energy in Australia. The Taskforce will be chaired by Dr Ziggy Switkowski, the former managing director of Telstra and a well respected nuclear physicist. It will include five other members, two of them I announce this afternoon, Professor George Dracoulis. Professor Dracoulis is the Professor and the Head of the Department of Nuclear Physics at the Research School of Physical Science and Engineering at the Australian National University and widely recognised as one of Australia's foremost, if not the foremost, nuclear physicist. Professor Warwick McKibbin, well known as an economist on the Board of the Reserve Bank. There'll be two other people who will, I'm sorry three other people who'll be named as members of the task group. We're in the process of establishing their precise availability and their names will be announced tomorrow.</p>
 <p>The Chief Scientist, Dr Jim Peacock, will support the review, including by facilitating a peer review of the scientific aspects of the review carried out by the task group. The terms of reference are very extensive. They recognise that Australia's energy sector has played a key role in our sustained economic growth, and our capacity to reliably access competitively priced power and optimise the value of our energy resources, has been a major element in our economic prosperity.</p>
 <p>Australia does hold up to 40 per cent of the worlds known low-cost, recoverable, uranium reserves. And there is significant potential for Australia to increase and add value to our uranium extraction and exports. A lot of recent developments in global energy markets have renewed international interest in nuclear energy as a technology that might over time meet growing demand for electricity without the fuel and environmental costs associated with oil and gas. I stress over time, I don't expect to have nuclear power stations in Australia within the next two or three years. I do think, however, that we need in an open-minded and as emotionless fashion possible, to have a serious debate about this issue.</p>
@@ -204,6 +194,4 @@
 <p>PRIME MINISTER:</p>
 <p>We have always said, Steve, that we would not be a distressed seller, we would sell at a time when the price was good and right and that will continue to be our position. That hasn't changed as a result of any recent decisions taken by the Government. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

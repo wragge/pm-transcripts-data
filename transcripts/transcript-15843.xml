@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15843</transcript-id>
-    <title>Australia&#039;s Economic Future, Speech to Confederation of British Industry  and Australian Business in London  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/04/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>More than one million Australians were born in the United Kingdom.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15843</transcript-id><title><![CDATA[Australia&#039;s Economic Future, Speech to Confederation of British Industry  and Australian Business in London  ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/04/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>More than one million Australians were born in the United Kingdom.</p>
 <p>Six million Australians have British ancestry.</p>
 <p>And if you add together those with Irish ancestry you account for 8 million Australians.</p>
 <p>I am one of them.</p>
@@ -197,6 +187,4 @@
 <p>Well, in the world today, the old divisions of East and West are becoming blurred.</p>
 <p>...</p>
 <p>[Message clipped]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19130</transcript-id>
-    <title>New Centre to Boost Clean, Green Food Production</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19130</transcript-id><title>New Centre to Boost Clean, Green Food Production</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>Prime Minister Julia Gillard and Minister for Tertiary Education, Skills, Science and Research, Chris Bowen, today opened the new University of Sydney Centre for Carbon, Water and Food at Camden  -  worth more than $20 million and built with Gillard Government support.</p>
 <p>The state-of-the-art teaching and research facility, which received $4.69 million from the Gillard Government, will help Australian agriculture meet the challenges of producing more food, of better quality while using less water and putting less carbon into the atmosphere.</p>
 <p>The Centre for Carbon, Water and Food will help tackle some of the country's largest environmental challenges, including those in the Murray-Darling Basin, issues around interaction between agriculture and mining, and the sustainable management of public and private rural land.</p>
@@ -19,6 +9,4 @@
 <p>An agreement with the Chinese Academy of Agricultural Science will result in a Sino-Australia Joint Laboratory for Sustainable Agro-Ecosystems housed at the centre, with a mirror facility in Beijing.</p>
 <p>The Centre will establish a Sino-Australian Laboratory for Food Security, at the centre and in Nanjing in collaboration with Nanjing Agricultural University.</p>
 <p>The Centre builds on Sydney University's 100-year history of agricultural research and education, by strengthening evidence-based teaching in global change biology, sustainable ecosystems and sustainable agriculture. It is co-located with other university faculties in related agricultural and primary production areas.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18464</transcript-id>
-    <title>Transcript of joint doorstop interview, Gosford</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/03/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18464</transcript-id><title>Transcript of joint doorstop interview, Gosford</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/03/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: [audio break] watching the concrete being poured for the Cancer Centre here at this hospital, so it's a day of achievement, another milestone in bringing a cancer centre here to Gosford.</p>
 <p>And that's going to make a big difference to this community, because at the moment people have to travel to get cancer treatment, go to Newcastle or go to Sydney, with all of the additional stress and strain that means for them, at what is already a difficult time of their lives.</p>
 <p>So, having seen the concrete poured today, we're going to see a centre up and operating next year, something that's been achieved with almost $30 million of Federal Government money and a contribution from the State Government.</p>
@@ -56,6 +46,4 @@ PM: [audio break] watching the concrete being poured for the Cancer Centre here 
 <p>JOURNALIST: Do you feel Mr Abbott overstepped the mark when he said you have a target on your head? Do you accept his apology?</p>
 <p>PM: Look, Mr Abbott's words are a matter for Mr Abbott.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

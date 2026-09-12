@@ -1,21 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23048</transcript-id>
-    <title>Disaster Assistance Announced for Bushfire Affected Communities in New South Wales </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/10/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Tony Abbott and NSW Premier Barry O’Farrell today announced disaster assistance is being made available to communities affected by the bushfires currently burning in the eastern and north coast regions of New South Wales.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23048</transcript-id><title>Disaster Assistance Announced for Bushfire Affected Communities in New South Wales </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/10/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Tony Abbott and NSW Premier Barry O’Farrell today announced disaster assistance is being made available to communities affected by the bushfires currently burning in the eastern and north coast regions of New South Wales.</p>
 <p>The range of assistance measures available include:</p>
-<ul><li>Personal hardship and distress assistance for families and individuals affected by the bushfires, such as emergency food, clothing and accommodation.</li>
+<ul>
+<li>Personal hardship and distress assistance for families and individuals affected by the bushfires, such as emergency food, clothing and accommodation.</li>
 <li>Concessional loans for small business, primary producers and not-for-profit bodies, freight subsidies for primary producers and grants for voluntary not-for-profit bodies that have suffered physical damage are also available.</li>
 <li>Financial assistance for local and state government authorities is also available to assist with the restoration of damaged infrastructure and the provision of counter disaster operations.</li>
-</ul><p>Our thoughts and prayers go out to the people of New South Wales who are suffering at this time. Individuals and families, farmers, small business owners and councils affected by the devastating bushfires can rest assured that assistance is available to help them recover and get back on their feet as soon as possible.</p>
-<p>Disaster assistance is now available in the following local government areas through the New South Wales Disaster Assistance Arrangements and is jointly funded with the Commonwealth under the Natural Disaster Relief and Recovery Arrangements.</p>
+</ul>
+<p>Our thoughts and prayers go out to the people of New South Wales who are suffering at this time. Individuals and families, farmers, small business owners and councils affected by the devastating bushfires can rest assured that assistance is available to help them recover and get back on their feet as soon as possible.</p>
+<p>Disaster assistance is now available in the following local government areas through the New South Wales&nbsp;Disaster Assistance Arrangements and is jointly funded with the Commonwealth under the Natural Disaster Relief and Recovery Arrangements.</p>
 <p><strong>Eastern NSW Bushfires (from 16 October 2013)</strong></p>
 <p>Blue Mountains</p>
 <p>Eurobodalla</p>
@@ -44,6 +36,4 @@
 <p>The Commonwealth and New South Wales governments are committed to supporting bushfire affected communities and ensuring that the necessary assistance is being made available as events unfold.</p>
 <p>Information about the range of assistance measures available can be found at <a href="http://www.mpes.nsw.gov.au/nddassistance">http://www.mpes.nsw.gov.au/nddassistance</a> or on the Australian Government’s Disaster Assist website at <a href="http://www.disasterassist.gov.au/">www.disasterassist.gov.au</a></p>
 <p>19 October 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

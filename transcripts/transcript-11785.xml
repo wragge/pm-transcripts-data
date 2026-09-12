@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11785</transcript-id>
-    <title>Doorstop Interview, Perth</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: petrol prices; American-Chinese relations; Cheryl Kernot; election campaign</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11785</transcript-id><title>Doorstop Interview, Perth</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: petrol prices; American-Chinese relations; Cheryl Kernot; election campaign</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister is the issue (inaudible) that the price of petrol (inaudible) almost nine cents a litre, the oil companies are being accused of Easter profiteering. What's your response to that?</p>
@@ -53,6 +43,4 @@
 <p>Well I know nothing more than what I read in the Australian and I'm not going to comment on that.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

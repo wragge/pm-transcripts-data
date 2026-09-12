@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18168</transcript-id>
-    <title>Arts and Sculpture Park opened in Glenorchy</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18168</transcript-id><title>Arts and Sculpture Park opened in Glenorchy</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 A new arts precinct in the heart of Glenorchy was officially opened by Prime Minister Julia Gillard and Tasmanian Senators Carol Brown and Lisa Singh today.</p>
 <p>Stage One of the $15.9 million Glenorchy Art and Sculpture Park features an open recreation space designed to connect communities and boost tourism.</p>
 <p>The park boasts new lighting and sound infrastructure, a boardwalk, seating, shelters and barbecue facilities.</p>
@@ -21,6 +11,4 @@ A new arts precinct in the heart of Glenorchy was officially opened by Prime Min
 <p>The Federal Government is committed to ensuring all Australians have access to arts and culture, no matter where they live.</p>
 <p>More than 50,000 people are expected to visit the park every year, with that number expected to grow to 100,000 over the next five years.</p>
 <p>Stage One design and construction works created 50 short term jobs and the opening of the park will support 10 long-term positions. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

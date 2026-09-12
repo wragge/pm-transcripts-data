@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23144</transcript-id>
-    <title>First Meeting of the Prime Minister&#039;s Indigenous Advisory Council</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p align="LEFT">The first meeting of the Prime Minister’s Indigenous Advisory Council was held in Canberra today. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23144</transcript-id><title><![CDATA[First Meeting of the Prime Minister&#039;s Indigenous Advisory Council]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p align="LEFT">The first meeting of the Prime Minister’s Indigenous Advisory Council was held in Canberra today. </p>
 <p>Chaired by Warren Mundine, the 12 Council members bring a broad range of views and experience to the table. </p>
 <p>Terms of Reference for the Council were also released with an emphasis on practical advice on policies and programmes that could improve the lives of Indigenous Australians. </p>
 <p>While the Council’s remit is broad, I have asked Council members to focus on improving school attendance and educational attainment, creating lasting employment opportunities for Indigenous Australians in the real economy, and empowering Aboriginal and Torres Strait Islander communities. </p>
@@ -20,10 +10,14 @@
 <p align="center"><strong>First Meeting of the Prime Minister’s Indigenous Advisory Council</strong></p>
 <p align="center"><strong>Terms of Reference</strong></p>
 <p><em>Purpose</em></p>
-<ol><li>The Prime Minister’s Indigenous Advisory Council (the ‘Council’) will provide advice to the Government on Indigenous affairs, and will focus on practical changes to improve the lives of Aboriginal and Torres Strait Islander people.</li>
-</ol><p><em>Role</em></p>
-<ol><li value="2">The Council will provide ongoing advice to the Government on emerging policy and implementation issues related to Indigenous affairs including, but not limited to:
-<ol><li>improving school attendance and educational attainment</li>
+<ol>
+<li>The Prime Minister’s Indigenous Advisory Council (the ‘Council’) will provide advice to the Government on Indigenous affairs, and will focus on practical changes to improve the lives of Aboriginal and Torres Strait Islander people.</li>
+</ol>
+<p><em>Role</em></p>
+<ol>
+<li value="2">The Council will provide ongoing advice to the Government on emerging policy and implementation issues related to Indigenous affairs including, but not limited to:
+<ol>
+<li>improving school attendance and educational attainment</li>
 <li>creating lasting employment opportunities in the real economy</li>
 <li>reviewing land ownership and other drivers of economic development</li>
 <li>preserving Aboriginal and Torres Strait Islander cultures</li>
@@ -33,26 +27,32 @@
 <li>promoting better evaluation to inform government decision-making</li>
 <li>supporting greater shared responsibility and reducing dependence on government within Aboriginal and Torres Strait Islander communities</li>
 <li>achieving constitutional recognition of Aboriginal and Torres Strait Islander people.</li>
-</ol></li>
-<li value="3">The Council will engage with Aboriginal and Torres Strait Islander communities, including existing Indigenous advocacy bodies, to ensure that the Government has access to a diversity of views. The Council will also engage with other individuals and organisations, as relevant to the Government’s agenda.</li>
+</ol>
+</li>
+<li value="3">The Council will engage with Aboriginal and Torres Strait Islander communities, including existing Indigenous advocacy bodies, to ensure that the Government has access to a diversity of views. The Council will also engage with other individuals and organisations, as relevant to the Government’s&nbsp;agenda.</li>
 <li value="4">The Government may request the Council to provide advice on specific policy and programme effectiveness, to help ensure that Indigenous programmes achieve real, positive change in the lives of Aboriginal people.</li>
 <li value="5">The Council will report annually to the Government on its activities, via letter to the Prime Minister.</li>
-</ol><p><em>Membership</em></p>
-<ol><li value="6">The Council will have up to 12 members, including a Chair and Deputy Chair.  Members will be both Indigenous and non-Indigenous.</li>
+</ol>
+<p><em>Membership</em></p>
+<ol>
+<li value="6">The Council will have up to 12 members, including a Chair and Deputy Chair.&nbsp; Members will be both Indigenous and non-Indigenous.</li>
 <li value="7">The Chair will be a part-time paid position. Other members will be paid sitting fees and costs related to meeting attendance.</li>
 <li value="8">Membership will be for a term of up to three years, subject to an annual review of membership by the Prime Minister, following consultation with the Minister for Indigenous Affairs.</li>
 <li value="9">Members will have a strong understanding of Indigenous culture and bring a diversity of expertise in economic development and business acumen, employment, education, youth participation, service delivery and health.</li>
 <li value="10">The membership will include representation from both the private, public and civil society sectors and be drawn from across Australia, with at least one representative from a remote area.</li>
 <li value="11">New members will be appointed by the Prime Minister following consultation with the Minister for Indigenous Affairs.</li>
-</ol><p><em>Meetings</em></p>
-<ol><li value="12">The Council will meet three times annually with the Prime Minister and relevant senior ministers.  One meeting will be held in Canberra, with the location of other meetings to be determined by the Council to support a shared understanding of the issues impacting upon Indigenous communities around Australia.</li>
+</ol>
+<p><em>Meetings</em></p>
+<ol>
+<li value="12">The Council will meet three times annually with the Prime Minister and relevant senior ministers.&nbsp; One meeting will be held in Canberra, with the location of other meetings to be determined by the Council to support a shared understanding of the issues impacting upon Indigenous communities around Australia.</li>
 <li value="13">The deliberation of the Council will be confidential, but the Council may choose to issue a statement after its meetings.</li>
 <li value="14">In addition to minister-level meetings, the Council may decide to meet up to an additional three times per year.</li>
 <li value="15">The Chair of the Council will have monthly meetings with the Prime Minister, the Minister for Indigenous Affairs and the Parliamentary Secretary to the Prime Minister.</li>
 <li value="16">The quorum for Council meetings will be at least six members, including the Chair or Deputy Chair.</li>
 <li value="17">The Council may also convene working groups as necessary, to consider particular issues in depth and report back to the full Council. These working groups may consult external experts in the field to inform their deliberations. Unless otherwise agreed by Government, working groups will meet on a non-remunerated basis.</li>
-</ol><p><em>Secretariat</em></p>
-<ol><li value="18">The Council will be supported by a secretariat from the Department of the Prime Minister and Cabinet.</li>
-</ol>]]></content>
-  </transcript>
-</transcripts>
+</ol>
+<p><em>Secretariat</em></p>
+<ol>
+<li value="18">The Council will be supported by a secretariat from the Department of the Prime Minister and Cabinet.</li>
+</ol>
+]]></content></item></response>

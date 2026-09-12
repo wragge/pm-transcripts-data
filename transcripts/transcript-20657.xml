@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20657</transcript-id>
-    <title>Doorstop Interview, Sydney   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/06/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20657</transcript-id><title>Doorstop Interview, Sydney   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/06/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, the ONA issued a statement today talking about the intelligence that they had on Bali specifically a year before the Bali bombing. Does that contradict anything that the Government has said to you?</p>
 <p>PRIME MINISTER:</p>
 <p>No, no. In fact, it reinforces what the Government has said. What ONA said this morning was that nobody in the Indonesian section has any recollection of that... recollection of Mr Wilkie's last night - now that's ONA speaking, it's not me - and they reinforced the fact that there was no intelligence predicting an attack on Bali.</p>
@@ -30,6 +20,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well, I think you do need to allow more time to go by so that the proper inspection process can proceed and can proceed effectively. Okay.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

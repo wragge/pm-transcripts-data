@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23145</transcript-id>
-    <title>Nelson Mandela</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The world mourns the passing of Nelson Mandela.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23145</transcript-id><title>Nelson Mandela</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The world mourns the passing of Nelson Mandela.</p>
 <p>Nelson Mandela will forever be remembered as more than a political leader, he was a moral leader.</p>
 <p>He spent much of his life standing against the injustice of apartheid.</p>
 <p>When that fight was won, he inspired us again by his capacity to forgive and reconcile his country.</p>
 <p>While the world may never see another Nelson Mandela, he has inspired countless men and women throughout the world to live more courageous and honest lives.</p>
 <p>On behalf of the Australian Government and the Australian community, I extend my condolences to Mr Mandela’s family and to the people of South Africa.</p>
 <p>6 December 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

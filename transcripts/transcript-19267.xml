@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19267</transcript-id>
-    <title>Transcript of Interview with Kallee Buchanan</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/04/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC Capricornia</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19267</transcript-id><title>Transcript of Interview with Kallee Buchanan</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/04/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC Capricornia</p>
 <p>HOST: Good morning Prime Minister.</p>
 <p>PM: Good morning.</p>
 <p>HOST: You've announced $4 billion in funding for the Bruce Highway over the next 10 years this morning. How will this money be spent?</p>
@@ -68,6 +58,4 @@
 <p>HOST: Thank you very much for your time this morning. We do know you're a very busy woman so I do appreciate it.</p>
 <p>Kirsten Livermore and Julia Gillard, thank you very much for your time.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

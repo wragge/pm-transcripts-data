@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16847</transcript-id>
-    <title>New health services for Tasmanians    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/10/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16847</transcript-id><title>New health services for Tasmanians    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/10/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Health services in northern Tasmania will be boosted by the construction of a new Renal Satellite Service for the Launceston Community Health Centre. The $732,400 project was announced today by the Prime Minister, Parliamentary Secretary for Health Mark Butler and local MP Jodie Campbell during the Prime Minister's visit to Launceston.</p>
 <p>The new facility will operate six days a week and have the capacity for 16 renal stations that can treat multiple patients per day.</p>
 <p>The number of Australians being diagnosed with kidney disease is increasing at the rate of six per cent per annum and the burden of treating these patients is already keenly felt in Northern Tasmania.</p>
@@ -18,6 +8,4 @@ Health services in northern Tasmania will be boosted by the construction of a ne
 <p>The delivery of this unit will provide an immediate boost in construction jobs, as well as providing long term health care to locals.</p>
 <p>Maci Constructions has been appointed to build the Unit.</p>
 <p>The funds come from the Rudd Government's $15 million commitment to build an Integrated Care Centre in the local area.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

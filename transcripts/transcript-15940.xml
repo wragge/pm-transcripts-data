@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15940</transcript-id>
-    <title>Interview with Mel and Kochie on the Sunrise Program, Seven Network   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/05/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MEL: The PM joins us in the studio, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15940</transcript-id><title>Interview with Mel and Kochie on the Sunrise Program, Seven Network   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/05/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MEL: The PM joins us in the studio, good morning.</p>
 <p>PM: Good to be here. Good to be back.</p>
 <p>MEL: You've got public servants who are paid to advise you. And you're kind of concerned, albeit, they're saying that it won't work, that we'll be paying more. Why are you going against their advice?</p>
 <p>PM: Well, there is an organisation called the ACCC which is Australia's competition watchdog. It's also there, paid for by the Government, to provide advice. It's the only Government agency which has done the economic modelling on that. And, they gave us a 300 page report with econometric modelling in it, which said that in Perth, after a seven year examination, it lead to an up to two cent a litre reduction.</p>
@@ -45,6 +35,4 @@
 <p>PM: Yeah, the whole lot.</p>
 <p>KOCHIE: Thanks for joining us. Good to see you.</p>
 <p>PM: Thanks for having us on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

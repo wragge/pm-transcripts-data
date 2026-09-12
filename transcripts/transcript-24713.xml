@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24713</transcript-id>
-    <title>Remarks at Vietnam Veterans&#039; Day Remembrance Service, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>18/08/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As someone who has never served in our armed forces, I stand in humble awe of all who have – particularly, the decorated veterans I see before me.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24713</transcript-id><title><![CDATA[Remarks at Vietnam Veterans&#039; Day Remembrance Service, Canberra]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>18/08/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As someone who has never served in our armed forces, I stand in humble awe of all who have – particularly, the decorated veterans I see before me.</p>
 <p>Your Excellencies, Chief of the Defence Force, Opposition Leader, Minister, Parliamentary colleagues, ladies and gentlemen.</p>
 <p>We gather today to remember those who served in the Vietnam War.</p>
 <p>From the arrival of the Australian Army Training Team in 1962 to the final withdrawal of the Embassy guard 11 years later, over 60,000 Australians, including army, air force and navy personnel, served in Vietnam – 521 of them died.</p>
@@ -38,6 +28,4 @@
 <p>You remain an example.</p>
 <p>Your sacrifice should never be forgotten by the country you served.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

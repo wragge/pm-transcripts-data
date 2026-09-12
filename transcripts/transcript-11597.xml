@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11597</transcript-id>
-    <title>Active Australia</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/10/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>All Australians have been inspired by the feats of our athletes at the Olympic and Paralympic Games in Sydney.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11597</transcript-id><title>Active Australia</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/10/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>All Australians have been inspired by the feats of our athletes at the Olympic and Paralympic Games in Sydney.</p>
 <p>Now it is time to put that inspiration into practice and Active Australia Day on Sunday 29th October is a great opportunity for all Australians to get active.</p>
 <p>The enjoyment of participating in sport or physical activity is not just for elite athletes, it is something that we can all benefit from. Active Australia Day is a celebration of sport and physical activity and is a call to all Australians to make regular exercise a part of their lives.</p>
 <p>Developing a fitter nation by encouraging greater participation in sport and physical activity at a grass roots level is just as important as winning Olympic or Paralympic medals.</p>
@@ -18,6 +8,4 @@
 <p>Exercise does make us healthier, happier and more able to cope with the challenges of everyday life. Moderate activity such as a brisk 30-minute walk three times a week, or joining a local sporting team, can be very beneficial.</p>
 <p>Active Australia Day provides Australians with the chance to 'have a go' at a sport or some form of physical activity and I encourage all Australians to get involved.   </p>
 <p>27 October 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17620</transcript-id>
-    <title>Government response to Christmas Island tragedy recommendations </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/01/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17620</transcript-id><title>Government response to Christmas Island tragedy recommendations </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/01/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Labor Government has today accepted all the recommendations of the Customs and Border Protection's internal review into the Christmas Island tragedy.</p>
 <p>The review found that Border Protection Command personnel involved in the rescue effort acted professionally and risked their lives to save others.</p>
 <p>Their skills and bravery saw 41 people rescued from the water and 30 deceased people recovered. One man made it to safety by himself.</p>
@@ -18,8 +8,8 @@ The Gillard Labor Government has today accepted all the recommendations of the C
 <p>The Government accepts all eight of the review's recommendations and several of them have already been progressed. </p>
 <p>The Government will also favourably consider recommendations from the local Christmas Island Emergency Management Committee which is currently conducting a review of emergency response resources on the Island.</p>
 <p>We will also be trialling new surveillance capacity and providing additional safety and rescue arrangements on Christmas Island as soon as possible including:</p>
-<p> * 	a trial of a land based radar surveillance system of the northern approaches beginning at the end of this month<br />
- * 	additional safety and rescue equipment including ‘grenade-style' throwable life jackets, inflatable life rings and hand-held radios at strategic locations<br />
+<p> * 	a trial of a land based radar surveillance system of the northern approaches beginning at the end of this month<br>
+ * 	additional safety and rescue equipment including ‘grenade-style' throwable life jackets, inflatable life rings and hand-held radios at strategic locations<br>
  * 	Australian Federal Police (AFP) and Department of Regional Australia (DORA) vessels.</p>
 <p>The Prime Minister has tasked the existing Border Protection Taskforce to oversee the implementation of the recommendations adopted in response to the tragedy in their entirety and without delay.</p>
 <p>The Taskforce is a senior cross-agency group chaired by the National Security Adviser Duncan Lewis. It will consider actions that could reasonably assist Christmas Island's search and rescue capacity, particularly during periods of dangerous sea conditions and during the monsoon season. The Taskforce will also consider the search and rescue related recommendations of the Christmas Island Emergency Management Committee referred by the Minister for Regional Australia Simon Crean.</p>
@@ -29,6 +19,4 @@ The Gillard Labor Government has today accepted all the recommendations of the C
 <p>The Government wants this Parliamentary Committee process to be transparent and calls on the Opposition, Greens and Independents to resist the urge to play politics on this issue.</p>
 <p>The Acting Minister for Home Affairs has today briefed the cross party Standing Group, established immediately after the incident, about the Customs Internal Review and the Government's response.</p>
 <p>The Government will now start consultations with members of the Standing Group, the Opposition, Greens and Independents on the details of this Committee, such as terms of reference and membership. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

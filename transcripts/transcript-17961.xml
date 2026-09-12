@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17961</transcript-id>
-    <title>Speech at the Prime Minister&#039;s Literary Awards, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/07/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17961</transcript-id><title><![CDATA[Speech at the Prime Minister&#039;s Literary Awards, Canberra]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/07/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I'm delighted to be here today at this haven of books and ideas.</p>
 <p>Earlier on, I was delighted to meet our new National Librarian, Anne-Marie,and on behalf of all Australians, I congratulate her on being appointed to our country's pinnacle role in the care and custodianship of books and information.</p>
 <p>Anne-Marie gave me a quick tour of the Library's online resource, Trove.</p>
@@ -70,6 +60,4 @@ I'm delighted to be here today at this haven of books and ideas.</p>
 <p>Keep thinking.</p>
 <p>Never cease believing in what you do.</p>
 <p>The journey is always, always worth it. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

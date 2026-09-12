@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41563</transcript-id>
-    <title>Local jobs and a new energy industry for the Latrobe Valley</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/04/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government will create 400 local jobs and establish a new energy industry to provide more opportunities for businesses and families in the LaTrobe Valley.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41563</transcript-id><title>Local jobs and a new energy industry for the Latrobe Valley</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/04/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government will create 400 local jobs and establish a new energy industry to provide more opportunities for businesses and families in the LaTrobe Valley.</p>
 <p>These are real jobs being created right now.</p>
 <p>The $50 million investment into a world-first Hydrogen Energy Supply Chain (HESC) pilot project will open up a new global market, grow the local economy and create more jobs.</p>
 <p>The pilot project will turn brown coal into hydrogen as we continue to diversify our energy sources.</p>
@@ -27,6 +17,4 @@
 <p>The world-first Hydrogen Energy Supply Chain pilot project is significant for the cutting-edge science and technology it uses, for the potential it represents for Australian industry in hydrogen production and export, and for the jobs it will create.</p>
 <p>The Australian and Victorian governments are providing a combined $100 million in funding to the $496 million pilot project, co-funded by a Japanese consortium — led by Kawasaki Heavy Industries (KHI) — and the Japanese Government.</p>
 <p>The project is being delivered by a consortium of large Japanese and Australian companies, including Kawasaki Heavy Industries Ltd, J-Power (Electric Power Development Co. Ltd), Iwatani Corporation, Marubeni and AGL.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

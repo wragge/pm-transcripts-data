@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20593</transcript-id>
-    <title>Alleged Drug Boat Captured   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/04/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A foreign vessel allegedly involved in the importation of 50 kg of heroin into Victoria earlier this week, was intercepted by Australian authorities 35 nm south-east of Newcastle at 7.30 am today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20593</transcript-id><title>Alleged Drug Boat Captured   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/04/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A foreign vessel allegedly involved in the importation of 50 kg of heroin into Victoria earlier this week, was intercepted by Australian authorities 35 nm south-east of Newcastle at 7.30 am today.</p>
 <p>The vessel, Pong Su, is registered in Tuvalu and is owned by a North Korean company.</p>
 <p>Despite bad weather and attempts by the vessel to escape Australian authorities, it has been kept under surveillance since shortly after the heroin was dropped off at a beach near Lorne last Wednesday.</p>
 <p>The newly-commissioned Anzac class frigate, HMAS Stuart, with Defence, Australian Federal Police and Customs officers on board, intercepted the vessel and it is now being escorted to Sydney.</p>
@@ -22,6 +12,4 @@
 <p>This sends a clear signal to international drug traffickers that Australian authorities are determined to stop illegal import of drugs and will do whatever is necessary to ensure that the people responsible face the full force of Australian law.</p>
 <p>The vessel will be escorted to Sydney where the master and crew will be questioned by Federal Police officers in relation to the attempt to import drugs into Victoria.</p>
 <p> Four men were arrested late last week and charged by the Australian Federal Police in connection with the drug importation attempt.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

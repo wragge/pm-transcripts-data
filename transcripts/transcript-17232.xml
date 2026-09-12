@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17232</transcript-id>
-    <title>Transcript of interview with John Stanley and Sandy Aloisi 2UE   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17232</transcript-id><title>Transcript of interview with John Stanley and Sandy Aloisi 2UE   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>HOST: That was a fairly large concession, wasn't it, to allow the states to control their own pool funding? You always said the buck would stop with you. Why did you buckle to the Premiers on that?</p>
 <p>PM: Well let's be very clear about it. First of all, we said we'd bring about a new National Health and Hospitals Network which is funded nationally, and run locally. We've delivered on the system being funded nationally, that is, for the first time the Australian Government will be the dominant funder for the system. Secondly, we've also said that local hospital networks, rather than state health bureaucrats, should deliver the system, and that those local hospital networks should have a core and greater role for local clinicians, doctors and nurses, to have their say.</p>
@@ -47,6 +37,4 @@
 <p>But can I just say this on health and hospitals reform- Mr Abbott has already unfortunately come out and opposed the Government's reform plan and our investment plan. I would appeal to him today, to come out and make absolutely clear that he will not use his numbers in the Senate to block these fundamental reforms to our health and hospital system, to deliver the biggest change in health and hospitals in Australia we've seen- since the introduction of Medicare about 30 years ago.</p>
 <p>HOST: Prime Minister, thank you for your time this morning.</p>
 <p>PM: Thanks for having me on the program. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

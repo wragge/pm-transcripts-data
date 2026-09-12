@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41331</transcript-id>
-    <title>2017 Prime Minister&#039;s Literary Awards shortlist announced</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/11/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Malcolm Turnbull and Minister for the Arts Mitch Fifield have today announced the shortlist for the 2017 Prime Minister’s Literary Awards.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41331</transcript-id><title><![CDATA[2017 Prime Minister&#039;s Literary Awards shortlist announced]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/11/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Malcolm Turnbull and Minister for the Arts Mitch Fifield have today announced the shortlist for the 2017 Prime Minister’s Literary Awards.</p>
 <p>Of over 450 entries submitted, the expert judging panels have selected 30 literary pieces across six categories, covering a breadth of topics including; inspiring true stories, lyrical poetry, visual storytelling and undiscovered journeys.</p>
 <p>This year marks the 10-year milestone since the first Prime Minister’s Literary Awards took place in 2008. The Awards celebrate the important contribution Australian writers, poets, illustrators and historians make to our cultural and intellectual landscape, telling engaging stories in distinctive and compelling ways.</p>
 <p>This year’s entries once again reflect the high calibre and creativity of Australia’s emerging and award winning authors and illustrators.</p>
@@ -18,41 +8,51 @@
 <p>For more information about the judges, authors and books visit the Department of Communications and the Arts website.</p>
 <p><strong>The 2017 Prime Minister’s Literary Awards shortlists are:</strong></p>
 <p><strong>Fiction</strong></p>
-<ul><li>The Easy Way Out, Steven Amsterdam (Hachette Australia)</li>
+<ul>
+<li>The Easy Way Out, Steven Amsterdam (Hachette Australia)</li>
 <li>The Last Days of Ava Langdon, Mark O’Flynn (University of Queensland Press)</li>
 <li>Their Brilliant Careers, Ryan O’Neill (Black Inc.)</li>
 <li>Waiting, Philip Salom (Puncher &amp; Wattman)</li>
 <li>Extinctions, Josephine Wilson (UWA Publishing)</li>
-</ul><p><strong>Poetry</strong></p>
-<ul><li>Painting Red Orchids, Eileen Chong (Pitt Street Poetry)</li>
+</ul>
+<p><strong>Poetry</strong></p>
+<ul>
+<li>Painting Red Orchids, Eileen Chong (Pitt Street Poetry)</li>
 <li>Year of the Wasp, Joel Deane (Hunter Publishers)</li>
 <li>Content, Liam Ferney (Hunter Publishers)</li>
 <li>Fragments, Antigone Kefala (Giramondo Publishing)</li>
 <li>Headwaters, Anthony Lawrence (Pitt Street Poetry)</li>
-</ul><p><strong>Prize for Australian History</strong></p>
-<ul><li>A Passion for Exploring New Countries: Matthew Flinders and George Bass, Josephine Bastian (Australian Scholarly Publishing)</li>
-<li>Valiant for Truth: The life of Chester Wilmot, War Correspondent, Neil McDonald  (NewSouth Publishing)</li>
+</ul>
+<p><strong>Prize for Australian History</strong></p>
+<ul>
+<li>A Passion for Exploring New Countries: Matthew Flinders and George Bass, Josephine Bastian (Australian Scholarly Publishing)</li>
+<li>Valiant for Truth: The life of Chester Wilmot, War Correspondent, Neil McDonald&nbsp; (NewSouth Publishing)</li>
 <li>Evatt: A life, John Murphy (NewSouth Publishing)</li>
 <li>Atomic Thunder: The Maralinga story, Elizabeth Tynan (NewSouth Publishing)</li>
 <li>A Handful of Sand: The Gurindji Struggle, After the Walk-off, Charlie Ward (Monash University Publishing)</li>
-</ul><p><strong>Non-fiction</strong></p>
-<ul><li>Mick: A Life of Randolph Stow, Suzanne Falkiner (University of Western Australia Publishing</li>
+</ul>
+<p><strong>Non-fiction</strong></p>
+<ul>
+<li>Mick: A Life of Randolph Stow, Suzanne Falkiner (University of Western Australia Publishing</li>
 <li>The Art of Time Travel: Historians and Their Craft, Tom Griffiths (Black Inc.)</li>
 <li>Our Man Elsewhere: In Search of Alan Moorehead, Thornton McCamish (Black Inc.)</li>
 <li>Quicksilver, Nicolas Rothwell (Text Publishing)</li>
 <li>The Art of Rivalry: Four Friendships, Betrayals, and Breakthroughs in Modern Art, Sebastian Smee (Text Publishing)</li>
-</ul><p><strong>Children’s Fiction</strong></p>
-<ul><li>Home in the Rain, Bob Graham (Walker Books)</li>
+</ul>
+<p><strong>Children’s Fiction</strong></p>
+<ul>
+<li>Home in the Rain, Bob Graham (Walker Books)</li>
 <li>Blue Sky, Yellow Kite, Janet A. Holmes, illustrated by Jonathan Bentley (Little Hare Books)</li>
 <li>My Brother, Dee Huxley, illustrated by Oliver Huxley (Working Title Press)</li>
 <li>Figgy and the President, Tamsin Janu (Scholastic Australia)</li>
 <li>Dragonfly Song, Wendy Orr (Allen &amp; Unwin)</li>
-</ul><p><strong>Young Adult Fiction</strong></p>
-<ul><li>Words in Deep Blue, Cath Crowley (Pan Macmillan Australia)</li>
+</ul>
+<p><strong>Young Adult Fiction</strong></p>
+<ul>
+<li>Words in Deep Blue, Cath Crowley (Pan Macmillan Australia)</li>
 <li>The Bone Sparrow, Zana Fraillon (Hachette Australia)</li>
 <li>The Stars at Oktober Bend, Glenda Millard (Allen &amp; Unwin)</li>
 <li>Forgetting Foster, Dianne Touchell (Allen &amp; Unwin)</li>
 <li>One Would Think the Deep, Claire Zorn (University of Queensland Press)</li>
-</ul>]]></content>
-  </transcript>
-</transcripts>
+</ul>
+]]></content></item></response>

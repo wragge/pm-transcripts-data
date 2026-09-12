@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11294</transcript-id>
-    <title>Media Releases 1999        From the Prime Minister, The Hon John Howard, MP</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/12/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> December 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11294</transcript-id><title>Media Releases 1999        From the Prime Minister, The Hon John Howard, MP</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/12/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> December 1999</p>
 <p>  * CHOGM Venue - 31 December 1999</p>
 <p> * UN Peacekeeping Operation in</p>
 <p>   East Timor - 30 December 1999</p>
@@ -203,6 +193,4 @@
 <p> * Visit to New Zealand - 4 February</p>
 <p>   1999</p>
 <p>January 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

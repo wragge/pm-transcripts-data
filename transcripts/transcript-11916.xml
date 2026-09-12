@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11916</transcript-id>
-    <title>Radio Interview with John Miller, Radio 4BC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Ryan by-election, pension payments, economy, BHP merger, superannuation, dental health, humanitarian programmes</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11916</transcript-id><title>Radio Interview with John Miller, Radio 4BC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Ryan by-election, pension payments, economy, BHP merger, superannuation, dental health, humanitarian programmes</p>
 <p>E&amp;OE................................ </p>
 <p>MILLER:</p>
 <p>Mr Howard, good morning to you, sir.</p>
@@ -169,6 +159,4 @@
 <p>MILLER:</p>
 <p>Fantastic. All right, Prime Minister, thanks for your time again.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

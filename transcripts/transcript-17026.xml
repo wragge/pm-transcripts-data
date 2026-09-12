@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17026</transcript-id>
-    <title>Prime Minister Transcript of interview with David Koch and Melissa Doyle Sunrise 29 January 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/01/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DOYLE: Let's talk to our Prime Minister this morning. Good morning to you. Thank for doing this. Are you nervous?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17026</transcript-id><title>Prime Minister Transcript of interview with David Koch and Melissa Doyle Sunrise 29 January 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/01/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DOYLE: Let's talk to our Prime Minister this morning. Good morning to you. Thank for doing this. Are you nervous?</p>
 <p>PM: Always anxious on a first day. You know that, Mel. I have been from the beginning.</p>
 <p>DOYLE: It'll all be good. Alright, let's go to our first viewer. We've got Liz from South Australia. Liz, good morning to you. Now, what's your question for the PM?</p>
 <p>CALLER: Good morning, Mel. Good morning, Mr Prime Minister.</p>
@@ -70,6 +60,4 @@
 <p>DOYLE: - and Jessica and Liz with some answers.</p>
 <p>PM: I'll improve my score next week.</p>
 <p>DOYLE: Pretty good. Have a good week.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

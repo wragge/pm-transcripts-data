@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22312</transcript-id>
-    <title>Queensland Coalition  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/06/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I congratulate the Liberal and National parties in Queensland for agreeing to end all three-cornered contests at the next state election.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22312</transcript-id><title>Queensland Coalition  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/06/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I congratulate the Liberal and National parties in Queensland for agreeing to end all three-cornered contests at the next state election.</p>
 <p> This is a triumph of Coalition common sense.</p>
 <p> Queenslanders now have, as an alternative to the failed Beattie Government, a united, determined Coalition with a single direction and a focussed campaign.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

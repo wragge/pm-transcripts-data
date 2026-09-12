@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40719</transcript-id>
-    <title>Interview with Stan Grant - ABC 730 Program</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/02/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>STAN GRANT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40719</transcript-id><title>Interview with Stan Grant - ABC 730 Program</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/02/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>STAN GRANT:</strong></p>
 <p>The Prime Minister, Malcolm Turnbull, is with me now. Nice to have you with us.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Great to be with you, Stan.</p>
@@ -73,7 +63,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Your gloominess - you should break out of that Stan. We have fewer seats in the House and fewer seats in the Senate than we did in the last Parliament. But in the last four or five months of last year we got more through the Senate than we had in the previous three years. So I focus on negotiation, I am prepared to compromise, I am prepared to cut deals - I am a pragmatic, practical person, because that's what you need to be if you’re going to deliver for Australians and get the 45th Parliament to work.</p>
 <p><strong>STAN GRANT:</strong></p>
-<p>Crucial today again, Bill Shorten spoke about it yesterday, this integrity in politics and the loss of faith in politics. You spoke about entitlements. You prefer to call them work experiences. </p>
+<p>Crucial today again, Bill Shorten spoke about it yesterday, this integrity in politics and the loss of faith in politics. You spoke about entitlements. You prefer to call them work experiences.&nbsp;</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well they are work expenses.</p>
 <p><strong>STAN GRANT:</strong></p>
@@ -114,6 +104,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks, Stan. It is good to see you.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24182</transcript-id>
-    <title>Interview with Chris Uhlmann, ABC News</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/02/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Party Room Meeting.</subjects>
-    <content><![CDATA[<p><strong>CHRIS UHLMANN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24182</transcript-id><title>Interview with Chris Uhlmann, ABC News</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/02/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Party Room Meeting.</subjects><content><![CDATA[<p><strong>CHRIS UHLMANN:</strong></p>
 <p>Tony Abbott, why should you continue to lead the Liberal Party and the nation?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Chris, the last thing we want is to see another meltdown in government. We had meltdowns under the former government. It was, frankly, a bit embarrassing. It wasn’t right. It wasn’t good for our country, and I think it is very important that we avoid that with this Government. That said, obviously it’s a pretty chastening experience to have a spill motion moved on you after just 16 months in government – a very chastening experience – and I am determined that my Government, if it continues after tomorrow, will learn from this experience, will be different and better this year than we were in every respect last year.</p>
@@ -67,6 +57,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you, Chris.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19413</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/06/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Adelaide</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19413</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/06/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Adelaide</p>
 <p>PM: Thank you very much. It's a great pleasure to be here today.</p>
 <p>Of course I'm joined by the Premier of South Australia, I'm joined by a number of my senate colleagues, Senator Anne McEwen, Senator Penny Wong and Senator Don Farrell.And I'm joined very significantly by the vice-chancellors that you see standing here, South Australia University and the University of Adelaide.</p>
 <p>We have all come together for a very important announcement and I'm very pleased to be here today to make it.</p>
@@ -245,6 +235,4 @@
 <p>JOURNALIST: Prime Minister, there's been some reports that some fishermen were told by authorities not to help an asylum seeker boat in trouble, does this not contravene our obligations at sea?</p>
 <p>PM: Look, I have seen those reports, the Minister for Immigration is actually speaking publicly today and can deal with any of this kind of reporting.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

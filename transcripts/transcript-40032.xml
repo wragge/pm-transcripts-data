@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40032</transcript-id>
-    <title>Government Considers National Ice Taskforce Final Report</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/10/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government welcomes the final report of the National Ice Taskforce which identifies how governments can work with communities to take a systematic, comprehensive and coordinated response to Australia’s ice scourge.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40032</transcript-id><title>Government Considers National Ice Taskforce Final Report</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/10/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government welcomes the final report of the National Ice Taskforce which identifies how governments can work with communities to take a systematic, comprehensive and coordinated response to Australia’s ice scourge.</p>
 <p>The Taskforce, led by Ken Lay APM, former Chief Commissioner of Victoria Police; supported by Professor Richard Murray and Dr Sally McCarthy, received extensive input through 1,300 submissions as well as advice from experts and community members spanning the health, law enforcement and community sectors, all of which informed the final report.</p>
 <p>The Government thanks the Taskforce members for their hard work and careful consideration of community and expert advice on this complex issue.</p>
 <p>The report confirms that ice is a problem which requires a multi-faceted approach through education, health and law enforcement.</p>
@@ -18,6 +8,4 @@
 <p>We need to be smarter, more coordinated and more targeted in our efforts to reduce the demand and supply of ice.</p>
 <p>Australian families, communities and frontline service workers are struggling with the fallout from a growing number of dependent ice users. It is critical that our law enforcement efforts continue, but tackling this scourge must also include education, training and better access to treatment and services.</p>
 <p>The Government will consider the Taskforce’s recommendations carefully and release the report and announce a response in due course. The Prime Minister looks forward to discussing the issues raised in the report with States and Territories.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

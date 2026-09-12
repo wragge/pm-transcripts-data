@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21330</transcript-id>
-    <title>Doorstop Interview, Parliament House, Canberra  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21330</transcript-id><title>Doorstop Interview, Parliament House, Canberra  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Prime Minister, your reaction to the murder of the South Korean man in Iraq?</p>
 <p> PRIME MINISTER:</p>
 <p> Well, it's a sickening example of who we're dealing with, what we're dealing with and my heart goes out to that poor man's family who suffered so much. I say again on behalf of the Australian people that this country will not be intimidated by this callousness, this inhumanity, this inexcusable depravity.</p>
@@ -50,6 +40,4 @@
 <p> PRIME MINISTER:</p>
 <p> Security and taking the necessary precautions is a cost of doing business because if there is an attack, if there is damage done, if there is a security breach which is serious enough then that affects the bottom line, it affects the businesses profit, so therefore it is a cost of doing business and I think by and large business is concerned as everybody else. Everybody has a role to play in this and I found the response that I got this morning very positive.</p>
 <p> Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

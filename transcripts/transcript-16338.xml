@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16338</transcript-id>
-    <title>Acting Prime Minister Julia Gillard Interview with Marius Benson ABC NewsRadio  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/01/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Israel has been continuing its drive into Gaza with land forces in the face of international calls for an end to its attacks. For Australia's view on the latest Israeli action and other political issue in the news today, we're joined by the Acting Prime Minister Julia Gillard. She's speaking with Marius Benson.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16338</transcript-id><title>Acting Prime Minister Julia Gillard Interview with Marius Benson ABC NewsRadio  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/01/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Israel has been continuing its drive into Gaza with land forces in the face of international calls for an end to its attacks. For Australia's view on the latest Israeli action and other political issue in the news today, we're joined by the Acting Prime Minister Julia Gillard. She's speaking with Marius Benson.</p>
 <p>BENSON: Julia Gillard, good morning.</p>
 <p>GILLARD: Good morning Marius.</p>
 <p>BENSON: Now as you heard there, there is a growing number of international voices calling for an immediate end to Israel's action in Gaza. What's the Australian Government's view at this stage?</p>
@@ -34,6 +24,4 @@
 <p>BENSON: Julia Gillard, thank you very much.</p>
 <p>GILLARD: Thank you very much Marius.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

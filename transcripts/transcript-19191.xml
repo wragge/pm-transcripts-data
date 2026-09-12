@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19191</transcript-id>
-    <title>First Sitting Of Royal Commission Of Inquiry Into Institutional Responses To Child Sexual Abuse </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/04/2013</release-date>
-    <release-type>Security, Law and Justice</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19191</transcript-id><title>First Sitting Of Royal Commission Of Inquiry Into Institutional Responses To Child Sexual Abuse </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/04/2013</field_date><release-type>Security, Law and Justice</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The Royal Commission of Inquiry into Institutional Responses to Child Sexual Abuse will hold its first hearing today in Melbourne's County Court.</p>
 <p>The Royal Commission will enable thousands of Australians who suffered as children to recount their experiences and express feelings that many carry to this day as a result of the harm caused to them.</p>
 <p>The formal acknowledgement of these wrongs is enormously important if we are to prevent them from happening again.</p>
@@ -21,9 +11,9 @@
 <p>Contact details for the new service will be advertised nationally in coming weeks.</p>
 <p>Assistance will include advice on the implications of existing confidentiality agreements.</p>
 <p>The service will also provide:</p>
-<p> * 	Advice on legal options in relation to abuse, outside the Royal Commission, including alternate dispute resolution<br />
- * 	Civil law or criminal law options<br />
- * 	Face to face advice services at public hearings (similar to a duty lawyer)<br />
+<p> * 	Advice on legal options in relation to abuse, outside the Royal Commission, including alternate dispute resolution<br>
+ * 	Civil law or criminal law options<br>
+ * 	Face to face advice services at public hearings (similar to a duty lawyer)<br>
  * 	Advice and referral for individuals who require legal representation.</p>
 <p>The Gillard Government believes it is important to ensure that people understand their legal rights and are given every assistance to make their evidence count.</p>
 <p>The National Association of Community Legal Centres has been selected to deliver this important service in recognition of its experience, national presence and existing relationships with community and complementary services providers.</p>
@@ -31,6 +21,4 @@
 <p>The Royal Commission has been set up by the Gillard Government to inquire into how institutions with a responsibility for children have managed and responded to allegations and instances of child sexual abuse and related matters.</p>
 <p>It will investigate where systems failed to protect children and will make recommendations on how to improve laws, policies and practices to prevent and better respond to child sexual abuse in institutions.</p>
 <p>For more information on the Royal Commission into Institutional Responses to Child Sexual Abuse call 1800 099 340 or <a href="http://www.childabuseroyalcommission.gov.au">www.childabuseroyalcommission.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

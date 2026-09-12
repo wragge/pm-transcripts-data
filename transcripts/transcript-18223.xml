@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18223</transcript-id>
-    <title>Transcript of interview with Howard Sattler, 6PR</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18223</transcript-id><title>Transcript of interview with Howard Sattler, 6PR</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Hello Prime Minister, how are you?</p>
 <p>PM: I'm very well, Howard.</p>
 <p>HOST: Good. You've been to enough, probably, parties in recent days, have you? Or cocktail functions and whatever else?</p>
@@ -60,6 +50,4 @@ HOST: Hello Prime Minister, how are you?</p>
 <p>The same people who have provided advice to governments in the past now say in relation to Nauru, that the people smugglers have worked it out that what happened with Nauru last time was that when people's claims were processed there and then people were resettled, many of them in Australia, the people smugglers have seen that happen and they now recognise that Nauru is a weigh station to Australia, so it no longer has a deterrence effect and that is why those same experts that advised the Howard Government are saying the best way forward now is the arrangement with Malaysia.</p>
 <p>HOST: Alright, I've got to leave you there. Time for me to say I appreciate you calling in, enjoy the rest of the stay you're having here in the best city in Australia.</p>
 <p>PM: Thank you very much, I am enjoying myself. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

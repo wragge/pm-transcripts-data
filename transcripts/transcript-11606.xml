@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11606</transcript-id>
-    <title>Olympic Aid Donation</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/09/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Australian Government will make a donation of<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11606</transcript-id><title>Olympic Aid Donation</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/09/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Australian Government will make a donation of<br>
 $1.5 million to Olympic Aid in support of its programmes.</p>
 <p>In providing this donation, the Government recognises the importance of the work of Olympic Aid in raising funds to assist people, especially children, in need. Since it was established, the organisation has demonstrated a strong commitment to international humanitarian assistance.</p>
 <p>The Government supports the initiatives to which Olympic Aid will be directing much of the funding it has raised during the Sydney 2000 Olympic Games, including;</p>
@@ -19,6 +9,4 @@ $1.5 million to Olympic Aid in support of its programmes.</p>
 <p>The commitment to charitable organisations and to cancer treatment and research in Australia is welcomed. At the same time, the sport related initiatives will be valuable in providing young people with an opportunity they might not otherwise be given to learn to play and to participate in sport, and to derive the associated benefits this brings.</p>
 <p>I congratulate everyone involved with Olympic Aid for giving of their time and resources while the Olympic Games are in Australia to contribute in a meaningful and significant way to helping disadvantaged young people.</p>
 <p>30 September 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

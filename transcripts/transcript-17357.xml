@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17357</transcript-id>
-    <title>Prime Minister Launch of &#039;Shitstorm&#039; by Lenore Taylor and David Uren Canberra 21 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/06/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17357</transcript-id><title><![CDATA[Prime Minister Launch of &#039;Shitstorm&#039; by Lenore Taylor and David Uren Canberra 21 June 2010 ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/06/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>Let me first congratulate Lenore Taylor and David Uren for this book.</p>
 <p>This is an important contribution to contemporary political history.</p>
 <p>Just as Laura Tingle wrote a defining account of Australia's recession of the early '90s in Chasing The Future - so Lenore and David have written a defining account of Australia's response to the global recession of the late 2000s.</p>
@@ -118,6 +108,4 @@
 <p>And congratulations to Lenore and David.</p>
 <p>This is an important contribution to Australian political history and Australian political economy.</p>
 <p>I'm delighted to launch Shitstorm.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

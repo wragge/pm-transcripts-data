@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12502</transcript-id>
-    <title>Radio Interview with Alan Jones, 2GB  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Bali tragedy</subjects>
-    <content><![CDATA[<p>E&amp;OE...........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12502</transcript-id><title>Radio Interview with Alan Jones, 2GB  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bali tragedy</subjects><content><![CDATA[<p>E&amp;OE...........</p>
 <p><strong>JONES:</strong></p>
 <p>The Prime Minister's on the line. Prime Minister, good morning.</p>
 <p><strong>PRIME MINSITER:</strong></p>
@@ -63,6 +53,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks Alan.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22576</transcript-id>
-    <title>Blacktown First &#039;Solar City&#039; in NSW  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/11/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today that Blacktown will host the first Solar City in New South Wales.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22576</transcript-id><title><![CDATA[Blacktown First &#039;Solar City&#039; in NSW  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/11/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today that Blacktown will host the first Solar City in New South Wales.</p>
 <p>  The Blacktown Solar City consortium - BP Solar, Integral Energy, Blacktown City Council, Landcom, the ANZ and Big Switch Projects - will receive up to $15 million through the Australian Government's $75 million Solar Cities initiative. The consortium expects to leverage an additional $22 million from industry and other partners.</p>
 <p>The Solar Cities initiative was part of the Australian Government's long-term energy policy announced in 2004.</p>
 <p>Overall, the Australian Government has committed a total of $2 billion to its climate change strategy which aims to develop clean, low-emission technologies; build an effective global response to the issue; increase understanding of climate change science and help communities adapt to the impacts of climate change.</p>
@@ -20,6 +10,4 @@
 <p>Solar Cities will also boost many local industries, not only through the supply of products to consumers, but through energy efficiency and smart metering trials.</p>
 <p> I congratulate the Blacktown community for embracing the Solar Cities concept.</p>
 <p> The Blacktown Solar City project joins Adelaide and Townsville as the first three Australian Solar Cities.  Together these Solar Cities will install 3,000 solar photovoltaic panels on private and public housing and other buildings, conduct 6,000 energy efficiency consultations and assist more than 230,000 residents and businesses to learn how to reduce their energy use and save money. These Solar Cities will also reduce greenhouse gas emissions by 64,000 tonnes each year and save their communities $9 million per year in electricity bills.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19082</transcript-id>
-    <title>Speech to the Australian Education Union National Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/02/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19082</transcript-id><title>Speech to the Australian Education Union National Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/02/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>As a proud graduate of public education, I'm delighted to be with you today.</p>
 <p>As a proud trade unionist, I'm delighted to be with you today.</p>
@@ -179,6 +169,4 @@
 <p>For our kids.</p>
 <p>For our nation.</p>
 <p>For the future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

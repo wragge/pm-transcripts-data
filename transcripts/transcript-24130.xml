@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24130</transcript-id>
-    <title>Interview with Nick McCallum, Radio 3AW</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>14/01/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>A strong and sustainable Medicare,  Iraq,  Daesh death cult,  Paris terror attack,  Racial Discrimination Act,  Khodr Moustafa Taha bail decision,  Prime Minister’s XI Cricket Match.</subjects>
-    <content><![CDATA[<p><strong>NICK MCCALLUM:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24130</transcript-id><title>Interview with Nick McCallum, Radio 3AW</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>14/01/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>A strong and sustainable Medicare, Iraq, Daesh death cult, Paris terror attack, Racial Discrimination Act, Khodr Moustafa Taha bail decision, Prime Minister’s XI Cricket Match.</subjects><content><![CDATA[<p><strong>NICK MCCALLUM:</strong></p>
 <p>From Canberra now, the Prime Minister Tony Abbott joins us. Happy New Year, Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you Nick, and Happy New Year to you and your listeners.</p>
@@ -74,6 +64,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Ok Nick, thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

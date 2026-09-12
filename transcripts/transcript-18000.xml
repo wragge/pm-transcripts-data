@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18000</transcript-id>
-    <title>Transcript of interview with Madonna King, ABC Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18000</transcript-id><title>Transcript of interview with Madonna King, ABC Brisbane</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, good morning and welcome to Brisbane.</p>
 <p>PM: Good morning Madonna.</p>
 <p>HOST: One from me which encapsulates many that have come in overnight, without political speak?</p>
@@ -74,6 +64,4 @@ HOST: Prime Minister, good morning and welcome to Brisbane.</p>
 <p>PM: Yes, we will have people in the Climate Change Authority and the like, this is a big change and of course we're going to have the right people doing the right jobs to make it work, that's the best thing we can do for the nation's future.  I would ask Madonna, next time Tony Abbott's in here, you ask him how many thousands, tens of thousands of public servants is he going to employ to be out there picking their favourite polluter to give taxpayers money to?</p>
 <p>HOST: Happy to do that in the next couple of days when Tony Abbott will do the same thing and take listeners calls here at 612 ABC Brisbane. Prime Minister, thank you for your time.</p>
 <p>PM: Thank you Madonna. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

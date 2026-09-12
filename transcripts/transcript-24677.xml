@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24677</transcript-id>
-    <title>Battle of Lone Pine 100th Anniversary</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/08/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today marks the one hundredth anniversary of the Battle of Lone Pine.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24677</transcript-id><title>Battle of Lone Pine 100th Anniversary</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/08/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today marks the one hundredth anniversary of the Battle of Lone Pine.</p>
 <p>It was on the evening of 6 August 1915 that the ANZACs struck against entrenched Turkish positions at Lone Pine, Gallipoli.</p>
 <p>Within 20 minutes, most of the enemy front line had been captured.</p>
 <p>However, four days of bitter hand-to-hand fighting ensued.</p>
 <p>Some 800 Australians were killed and 1500 were wounded in and around the trenches.</p>
 <p>The Turkish casualties were almost three times ours.</p>
-<p>A century on, the Battle of Lone Pine holds a lasting place in the Australian memory. </p>
+<p>A century on, the Battle of Lone Pine holds a lasting place in the Australian memory.&nbsp;</p>
 <p>Our soldiers fought for their mates; for their country, empire and king; and ultimately for the ideal that people and countries should be free.</p>
 <p>They stood for duty, loyalty, honour and mateship.</p>
 <p>The Battle of Lone Pine was the only success of the August offensive at Gallipoli. Seven Australians earned the Victoria Cross for their actions in the assault.</p>
@@ -24,6 +14,4 @@
 <p>We draw strength from their example and we honour the fallen.</p>
 <p>Lest we forget.</p>
 <p>6 August 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

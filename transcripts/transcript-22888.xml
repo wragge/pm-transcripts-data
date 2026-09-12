@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22888</transcript-id>
-    <title>Radio Interview on Radio National, ABC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/09/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Cathy Freeman; Olympic Games.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22888</transcript-id><title>Radio Interview on Radio National, ABC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/09/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Cathy Freeman; Olympic Games.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>PRESENTER:</p>
 <p>The Prime Minister John Howard has described the experience of watching Freeman’s win as fantastic and a great thrill.</p>
@@ -31,6 +21,4 @@
 <p>And do you think there was a reconciliation message in that for Australia?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh look, I think everybody’s happy for her and very happy for what it represents. She’s a role model to young Australians, Aboriginal Australians and other Australians and I think everybody’s extremely happy and what these Games have done is to dissolve differences and bring Australians closer together. I think that’s the way in which most of the country will see it. And Cathy’s contribution to that has been immense but so have the contributions of so many other people. I mean there’ve been remarkable performances by young men and women in so many events and I’ve had the privilege of witnessing so many of them and I’m very proud of what they’ve done for our country.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

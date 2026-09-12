@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18348</transcript-id>
-    <title>2012 Prime Minister&#039;s Prizes for Science</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18348</transcript-id><title><![CDATA[2012 Prime Minister&#039;s Prizes for Science]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Nominations open today for the Prime Minister's Prizes for Science - Australia's most prestigious science awards.</p>
 <p>The Prizes honour Australians who have made significant contributions to building a more prosperous and progressive society through scientific achievements and science education.</p>
 <p>Prime Minister Julia Gillard and Minister for Tertiary Education, Skills, Science and Research Chris Evans today encouraged the science community to nominate outstanding colleagues for the Prizes.</p>
@@ -20,14 +10,12 @@ Nominations open today for the Prime Minister's Prizes for Science - Australia's
 <p>Past Prime Minister's Prizes for Science recipients Elizabeth Blackburn AC and Brian Schmidt went on to be awarded Nobel Prizes in 2009 and 2011 respectively.</p>
 <p>Other past recipients include Ezio Rizzardo and David Solomon, John Shine AO, John O'Sullivan, Ian Frazer, Graeme Clark AC and the late Frank Fenner AC.</p>
 <p>The prizes are awarded in five categories:</p>
-<p> * 	Prime Minister's Prize for Science ($300,000);<br />
- * 	Malcolm McIntosh Prize for Physical Scientist of the Year ($50,000);<br />
- * 	Science Minister's Prize for Life Scientist of the Year ($50,000);<br />
- * 	Prime Minister's Prize for Excellence in Science Teaching in Secondary Schools ($50,000); and<br />
+<p> * 	Prime Minister's Prize for Science ($300,000);<br>
+ * 	Malcolm McIntosh Prize for Physical Scientist of the Year ($50,000);<br>
+ * 	Science Minister's Prize for Life Scientist of the Year ($50,000);<br>
+ * 	Prime Minister's Prize for Excellence in Science Teaching in Secondary Schools ($50,000); and<br>
  * 	Prime Minister's Prize for Excellence in Science Teaching in Primary Schools ($50,000).</p>
 <p>As well as the cash component, each of the five Prime Minister's Prizes for Science comprise a gold or silver medallion and a lapel pin similar to that presented to recipients of Australian Honours like the AO.</p>
 <p>Nominations close on 27 April and the Prizes will be announced later in the year.</p>
 <p>People can find further information on the Prizes and nominate online by visiting <a href="http://www.innovation.gov.au/scienceprizes">www.innovation.gov.au/scienceprizes</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17591</transcript-id>
-    <title>Transcript of interview, Channel Seven</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17591</transcript-id><title>Transcript of interview, Channel Seven</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard has come to Brisbane to witness this devastation first hand. She joins me now. If I can get an update as far as logistics to help out. I know you have called in extra reinforcements.</p>
 <p>PM: Thanks, Mel, our magnificent Australian Defence Force has been helping every day of the flood crisis. And as the crisis has worsened we've increased assets available, we're doing that again today, there will be seven additional helicopters available. That will bring to 15 the number in Queensland and that will mean that 11 of those helicopters will be available to assist with search and rescue, because we are still so worried about so many people who aren't accounted for yet. We're also making available additional C-130s, they're the planes that can move food and supply and their role will be to make sure that there are supplies particularly in regional Queensland, where townships are cut off and people may need that assistance flown in. And we do have several hundred Defence personnel on a notice to move should that be necessary, in order to assist the people of Queensland. So on the Defence Force side, more is being done, they've been there all along, working hard, but we will keep increasing as necessary to meet the evolving needs of this widespread crisis.</p>
 <p>HOST: Yes, which we are witnessing is requiring more and more every minute as we speak. Just, I guess, run us through, what have you seen in the last 48 hours and some of the pictures and what you've experienced?</p>
@@ -22,6 +12,4 @@ HOST: Prime Minister Julia Gillard has come to Brisbane to witness this devastat
 <p>PM: Thanks Mel and I'm sure you've caught the sentiment, we will all be standing shoulder to shoulder with Queensland for the months and months of recovery ahead as well as in the days of this immediate crisis.</p>
 <p>HOST: Yeah absolutely as you said, it's going to take a long, long time and we certainly are. Thank you so much.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

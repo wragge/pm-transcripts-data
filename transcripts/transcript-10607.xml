@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10607</transcript-id>
-    <title>Commemorative Address on the Occasion of Remembrance Day, Australian War Memorial </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/11/1997</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10607</transcript-id><title>Commemorative Address on the Occasion of Remembrance Day, Australian War Memorial </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/11/1997</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 E&amp;OE...........................................</p>
 <p>These moments, this hour, this day, we dedicate to our dead.</p>
 <p>Young Australians, whose passing into the silent land, we will honour by ourselves becoming silent :</p>
@@ -42,6 +32,4 @@ E&amp;OE...........................................</p>
 <p>Exactly 70 years ago, at another ceremony at a place far from here, the countrymen of our honoured guests, the Buglers of Menin Gate, gathered to unveil their magnificent Memorial to those missing in action, believed killed.</p>
 <p>Field Marshal Plumer, in declaring it opened, spoke words which echo through the decades: "He is not missing. He is here".</p>
 <p>Today, by recognising both what has been lost to us and what has been gained, by renewing our pledge to remember, we declare, of all our fallen: "They are not missing. They are here".</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

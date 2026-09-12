@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18023</transcript-id>
-    <title>Transcript of interview with Chris Coleman, ABC Riverina</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18023</transcript-id><title>Transcript of interview with Chris Coleman, ABC Riverina</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard, good morning to you.</p>
 <p>PM: Good morning, Chris.</p>
 <p>HOST: We've had plenty of questions come into us over the past week and a half, Ms Gillard. Some of them I'll pass onto you, some of them are questions we want to ask here but let me start by saying firstly, welcome to, sort of, the region.</p>
@@ -48,6 +38,4 @@ HOST: Julia Gillard, good morning to you.</p>
 <p>PM: You never know. Thank you.</p>
 <p>HOST: Thank you, good to speak with you.</p>
 <p>PM: Thanks.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

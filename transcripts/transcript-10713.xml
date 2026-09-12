@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10713</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  DOORSTOP INTERVIEW (FOR TVs ONLY)                PARLIAMENT HOUSE, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/12/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10713</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  DOORSTOP INTERVIEW (FOR TVs ONLY)                PARLIAMENT HOUSE, CANBERRA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/12/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>This is a great day for the Australian economy and for the Australian</p>
 <p>   people. And we're introducing into Parliament an historic reform</p>
 <p>   of our taxation system that will build an even stronger Australia</p>
@@ -20,6 +10,4 @@
 <p>   and best run economy Australia has seen for 30 years. It's</p>
 <p>   good news all round and it's certainly a defiant repudiation</p>
 <p>   of the doomsday talk from our political opponents. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

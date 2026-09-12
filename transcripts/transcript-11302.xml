@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11302</transcript-id>
-    <title>Visit to Australia by the Queen and the Duke of Edinburgh </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/08/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><font size="3">As previously indicated, The Queen and The Duke of Edinburgh have accepted my invitation on behalf of the Government and people of Australia to visit Australia next year.</font></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11302</transcript-id><title>Visit to Australia by the Queen and the Duke of Edinburgh </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/08/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><font size="3">As previously indicated, The Queen and The Duke of Edinburgh have accepted my invitation on behalf of the Government and people of Australia to visit Australia next year.</font></p>
 <p><font size="3">I can now confirm that the visit will take place in the second half of March 2000.</font></p>
 <p><font size="3">I am sure that The Queen and The Duke of Edinburgh will receive a warm welcome.</font></p>
 <p><font size="3">State and Territory Governments are being consulted in the preparation of the programme. Details will be announced at a later date.</font></p>
 <p><font size="3">6 August 1999</font></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

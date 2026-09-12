@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11229</transcript-id>
-    <title>PEACE AGREEMENT FOR KOSOVO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/06/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I welcome last night's agreement between NATO and Yugoslavia</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11229</transcript-id><title>PEACE AGREEMENT FOR KOSOVO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/06/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I welcome last night's agreement between NATO and Yugoslavia</p>
 <p> on the conditions for achieving peace in Kosovo.</p>
 <p>The agreement provides for the withdrawal of Yugoslav troops from</p>
 <p> Kosovo and the deployment of an international security force. It is</p>
@@ -26,6 +16,4 @@
 <p> Yugoslavia will be adhered to so that peace can be brought to Kosovo</p>
 <p> as soon as possible.</p>
 <p> 10 June 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

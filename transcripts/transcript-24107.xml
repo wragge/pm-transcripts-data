@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24107</transcript-id>
-    <title>Prime Minister&#039;s New Year Message</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>31/12/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Right around the world, Australia is seen as a beacon of hope and opportunity.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24107</transcript-id><title><![CDATA[Prime Minister&#039;s New Year Message]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>31/12/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Right around the world, Australia is seen as a beacon of hope and opportunity.</p>
 <p>To be an Australian is to win the lottery of life and this is the foundation of our optimism as we enter 2015.</p>
 <p>We should feel confident about our country and its prospects and while 2014 had its challenges, much was achieved.</p>
 <p>The Government will build on these foundations in 2015.</p>
@@ -22,11 +12,9 @@
 <p>So the Government’s priorities for 2015 will be to create more jobs, to reduce costs for families, to build roads, to strengthen national security and to create opportunity for all.</p>
 <p>We can expect 2015 to bring its share of challenges and when they arise we will do what we have always done: we will turn to each other, we will work together and we will make whatever decisions are needed to strengthen our country and its people.</p>
 <p>My commitment to you is to keep our country safe and secure – that’s why the coming months will see updated counter terrorism legislation in the parliament.</p>
-<p>And then in April, we will commemorate the centenary of the Gallipoli campaign.  It will be the most significant commemoration in a generation and I hope that everyone will participate in some way.</p>
+<p>And then in April, we will commemorate the centenary of the Gallipoli campaign.&nbsp; It will be the most significant commemoration in a generation and I hope that everyone will participate in some way.</p>
 <p>In remembering the ANZAC’s sacrifice, we will draw on our own strength and confidence for the future.</p>
 <p>So this New Year’s Day, let us re-dedicate ourselves to building a better Australia – with more opportunity for everyone.</p>
 <p>Happy New Year Australia!</p>
 <p>1 January 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16234</transcript-id>
-    <title>Meeting with Australian Hellenic Council  Canberra    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today met with representatives of Australia's Greek community.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16234</transcript-id><title>Meeting with Australian Hellenic Council  Canberra    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today met with representatives of Australia's Greek community.</p>
 <p>Greece and Australia enjoy a close and constructive relationship, based on strong community ties and one of the largest Greek-speaking populations outside Greece.</p>
 <p>According to the 2006 Census, almost 110,000 Australians were born in Greece, with a further 365,147 children of Greece-born parents living in Australia.</p>
 <p>The Department of Immigration and Citizenship estimates that each summer, there are as many as 100,000 Australians in Greece, many of whom are dual nationals.</p>
@@ -17,6 +7,4 @@
 <p>Representatives of Australian Hellenic Councils from across the country thanked the Prime Minister for his Government's continued support of United Nations Resolutions relating to Cyprus, the provision of federal police to the UN Peacekeeping contingent there and the appointment of a special envoy.</p>
 <p>They also strongly supported the Rudd Government's proposal to establish a national curriculum for primary and secondary education.</p>
 <p>They also discussed the Australia-Greece Social Security Agreement which came into effect on 1 October, 2008, after more than two decades of negotiations.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

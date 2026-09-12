@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12763</transcript-id>
-    <title>Radio Interview with Jeremy Cordeaux, 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Sydney bush fires; market downturn; economy; housing industry; Iraq; United States&#039; dock strike; industrial disputes; foreign debt; drought; Telstra</subjects>
-    <content><![CDATA[<p><strong>9 October 2002</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12763</transcript-id><title>Radio Interview with Jeremy Cordeaux, 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects><![CDATA[Sydney bush fires; market downturn; economy; housing industry; Iraq; United States&#039; dock strike; industrial disputes; foreign debt; drought; Telstra]]></subjects><content><![CDATA[<p><strong>9 October 2002</strong></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>CORDEAUX:</p>
 <p>Prime Minister John Howard, thank you very much for your time.</p>
@@ -154,6 +144,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

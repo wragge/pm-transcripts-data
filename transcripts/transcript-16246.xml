@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16246</transcript-id>
-    <title>Opening Address to Australian Council of Local Government    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/11/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16246</transcript-id><title>Opening Address to Australian Council of Local Government    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/11/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>Welcome to the nation's capital, and welcome to one of the biggest gatherings of elected representatives in Australian history.</p>
 <p>Today we launch the Australian Council of Local Government.</p>
 <p>And today we turn a page and begin a new era in the relationship between Australia's national government and the local governments that represent local communities across our nation.</p>
@@ -229,6 +219,4 @@
 <p>I want today's discussions to be the beginning of a new partnership  -  a partnership that can bring together the expertise and experience of local governments across the nation with the Commonwealth.</p>
 <p>But it is only a beginning.</p>
 <p>If we succeed together it will be one long step forward in reforming the Federation  -  and ending the blame game that has plagued our nation in its first century, a blame game that should have no place in our second century when the challenges the nation faces are far too great to ignore for any longer.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

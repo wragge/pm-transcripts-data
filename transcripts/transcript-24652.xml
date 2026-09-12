@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24652</transcript-id>
-    <title>Interview with Leigh Sales, 7.30</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/07/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Meeting of the Council of Australian Governments,  Reform of the Federation White Paper,  Daesh death cult,  Operation Sovereign Borders,  the Government’s record of achievement.</subjects>
-    <content><![CDATA[<p><strong>LEIGH SALES:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24652</transcript-id><title>Interview with Leigh Sales, 7.30</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/07/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Meeting of the Council of Australian Governments, Reform of the Federation White Paper, Daesh death cult, Operation Sovereign Borders, the Government’s record of achievement.</subjects><content><![CDATA[<p><strong>LEIGH SALES:</strong></p>
 <p>Prime Minister, thank you for your time.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks, Leigh.</p>
@@ -110,6 +100,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks, Leigh.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

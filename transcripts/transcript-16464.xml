@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16464</transcript-id>
-    <title>Online gateway launched to support economic stimulus plan    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/03/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>An online gateway to keep Australians informed about the economy and the Australian Government's Economic Stimulus Plan has been activated today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16464</transcript-id><title>Online gateway launched to support economic stimulus plan    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/03/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>An online gateway to keep Australians informed about the economy and the Australian Government's Economic Stimulus Plan has been activated today.</p>
 <p>The website <a href="http://www.economicstimulusplan.gov.au/">http://www.economicstimulusplan.gov.au/</a> will provide information and updates on the progress of the $42 billion Nation Building-Economic Stimulus Plan as the Australian Government acts to cushion the nation from the worst effects of the global economic recession.</p>
 <p>Subscribers to the website will receive regular economic notes by email from the Treasurer, focussing on the real economic story, without hype or drama, to keep Australians informed of the latest developments.</p>
 <p>The website will also keep Australians up to date with the Government's progress in funding projects which will have lasting benefits for communities across the nation.</p>
@@ -29,6 +19,4 @@
 <p>     * One off cash payments to eligible families, single workers, students, drought affected farmers and others; and</p>
 <p>     * $900 payment to eligible taxpayers. </p>
 <p>The website is <a href="http://www.economicstimulusplan.gov.au/">http://www.economicstimulusplan.gov.au/</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22556</transcript-id>
-    <title>Interview with David Speers Sky News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/11/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22556</transcript-id><title>Interview with David Speers Sky News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/11/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p>Prime Minister, thanks for your time.  This poll out this morning shows that more than 90 per cent of voters think you should be doing more on renewable energies and more than 70 per cent think you should sign Kyoto.  Are you out of step with voters on this?</p>
 <p>PRIME MINISTER:</p>
 <p>No, let's...to start with this was an online poll, it wasn't one where people were rung up and properly sampled so I think we have to discount it to an extent because of that.  However, it is natural with all the focus of the last few days on climate change that everybody when asked say oh yes, we've got to do more.  We are doing a lot and it's very important that we don't over-react to the Stern report.  The Stern report says what most people believe and that is that the science says climate change is a problem.  Whether the doomsday scenarios painted in the Stern report are right or wrong I don't think anybody can assert with great confidence.  I agree that the science says that the globe is getting warmer, I agree that over time we've got to take measures in order to tackle that problem and I think the best way to go in the short term is to clean up the use of fossil fuel and that's very important for Australia.  That means investing in clean coal technologies and things that will ensure that we maintain the natural advantage we have as a country.  We mustn't throw that away, we mustn't by over-reaction and panicky reaction impose burdens on industries that give Australia enormous advantage.</p>
@@ -130,6 +120,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22418</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/05/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22418</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/05/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> The most significant line in Mr Beazley's speech tonight was his acknowledgment that we have a strong and growing economy. His failure was that he did not outline a disciplined coherent plan to keep the economy strong and to keep it growing. Mr Beazley has now had 10 years in Opposition and he still doesn't have a coherent alternative plan to manage Australia's economy and Australia's future. In my view, this reply tonight fell well short of Simon Crean's Budget reply in 2003 when at least Mr Crean outlined a coherent alternative policy in a number of key areas.</p>
 <p> JOURNALIST:</p>
 <p> He did focus on what many Australians are worried and that is childcare for many people and he did have a coherent plan and a spending plan for childcare. Is that something that the Government will at least acknowledge, a quarter of a billion dollars for childcare is more than was promised in the Budget.</p>
@@ -24,6 +14,4 @@
 <p> PRIME MINISTER:</p>
 <p> That's already something which is happening.</p>
 <p> [ends]   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

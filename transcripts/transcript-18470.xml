@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18470</transcript-id>
-    <title>Transcript of press conference, Seoul</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/03/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18470</transcript-id><title>Transcript of press conference, Seoul</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/03/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Good evening. Today I was pleased to participate in the Nuclear Security Summit here in Seoul. This summit has been dealing with a pivotal question for our world, which is nuclear terrorism. Of course, the consequences of a terrorist act, a nuclear terrorist act,are almost unimaginable. When we remember how much 9/11 changed our world, if you imagine how the world would react if a nuclear device went off in a major city, it leads you, takes you to conclusions that you don't want to think about. It wouldn't only be the immediate loss of life, thoughthat would be grave, but also the consequences for the whole world's perceptions of its security. So consequently, this summit has been dealing with issues that are of importance to Australians, of importance to humankind.</p>
 <p>As President Lee has said, the host of our summit, during the course of it, if a terrorist organisation were to acquire or build a nuclear weapon, they would show - his words - neither mercy,nor compromise. And we would all be victims in those circumstances. So it's been important to be here in Seoul as leaders met, and renewed our political commitment to addressing nuclear security issues -  political commitments first made in Washington two years ago. And of course, that commitment add up to saying we will do what is necessary to safeguard nuclear material so that it does not end up in the wrong hands.</p>
 <p>Firstly, this summit has taken stock on progress over the last two years,since the first summit in Washington. And collectively, nations working together in the two years in between, have achieved a great deal.</p>
@@ -70,6 +60,4 @@ PM: Good evening. Today I was pleased to participate in the Nuclear Security Sum
 <p>JOURNALIST: (Inaudible)</p>
 <p>PM: No he did not.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

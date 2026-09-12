@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23100</transcript-id>
-    <title>Statement on Indulgence</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/11/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In the past 24 hours there have been calls for Australia to detail our intelligence operations and to apologise for them.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23100</transcript-id><title>Statement on Indulgence</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/11/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In the past 24 hours there have been calls for Australia to detail our intelligence operations and to apologise for them.</p>
 <p>Madam Speaker, the first duty of every government is to protect the country and to advance its national interests.</p>
 <p>That’s why every government gathers information and why every government knows that every other government gathers information.</p>
 <p>Madam Speaker, there is no greater responsibility for a prime minister than ensuring the safety of Australian citizens and the security our borders and that, indeed, is why we do collect intelligence.</p>
@@ -26,6 +16,4 @@ That’s why, Madam Speaker, I sincerely regret any embarrassment that recent me
 <p>I pledge myself to build the strongest possible relationship with Indonesia.</p>
 <p>After all, due to its size, proximity and potential to be an emerging democratic superpower of Asia, it is the most important single relationship that we have.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

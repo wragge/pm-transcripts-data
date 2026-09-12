@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18880</transcript-id>
-    <title>The Prime Minister&#039;s Prize for Science Speech</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/10/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18880</transcript-id><title><![CDATA[The Prime Minister&#039;s Prize for Science Speech]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/10/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>It's a great pleasure to welcome you all to our nation's parliament and our nation's capital.</p>
 <p>I know you spend your days in labs, classrooms and field stations.</p>
 <p>And often it's not very glamorous being dressed in lab coats and protective glasses.</p>
@@ -81,6 +71,4 @@
 <p>So I trust that these awards confirm the esteem in which all Australians hold you, and the very high hopes they invest in what you do.</p>
 <p>I congratulate the recipients and nominees for the 2012 Prime Minister's Prizes for Science.</p>
 <p>I'm proud to lead a nation that can produce such remarkable individuals.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

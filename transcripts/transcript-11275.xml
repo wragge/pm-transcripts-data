@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11275</transcript-id>
-    <title>ANZAC DAY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/04/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> As we commemorate ANZAC Day on the eve of the new century, we</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11275</transcript-id><title>ANZAC DAY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/04/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> As we commemorate ANZAC Day on the eve of the new century, we</p>
 <p> recognise as a nation that the greatest contribution to the freedom</p>
 <p> and way of life that we will take with us into the new century has</p>
 <p> been made by those who have fought for this country.</p>
@@ -28,6 +18,4 @@
 <p>As well as a day of reflection, ANZAC Day is a time for us all, including</p>
 <p> younger generations, to reflect with humility and gratitude on our</p>
 <p> history and on those great values which unite us all as Australians.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

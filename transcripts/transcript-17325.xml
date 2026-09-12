@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17325</transcript-id>
-    <title>Prime Minister Transcript of interview with Madonna King  ABC Brisbane 4 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister good morning and welcome home.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17325</transcript-id><title>Prime Minister Transcript of interview with Madonna King  ABC Brisbane 4 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister good morning and welcome home.</p>
 <p>PM: Good to be back in Queensland Madonna and good morning to your listeners.</p>
 <p>HOST: And just before we get to the mining issue you may have heard some of the interviews we've just done. A fairly unusual case, a woman who shot and killed her husband freed in a terrible domestic violence case, and we talk about mining taxes, we talk about these big things, but domestic violence, what can politicians or the community do about that?</p>
 <p>PM: The answer is very basic on that one Madonna and that's lead. Because this is a scourge on our society. I'm very much involved and have been for a long time in the White Ribbon campaign and the White Ribbon campaign has men sign up right across Australia, to sign a pledge, never ever, under any circumstances to commit an act of violence against any woman.</p>
@@ -51,6 +41,4 @@
 <p>PM: I think you'd be had for insider trading, if I did that, so I'm very mindful of the laws of the Commonwealth.</p>
 <p>HOST: Prime Minister thank you.</p>
 <p>PM: Thanks very much Madonna.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

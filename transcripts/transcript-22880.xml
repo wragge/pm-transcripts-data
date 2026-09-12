@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22880</transcript-id>
-    <title>Intelligent Island Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/08/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to officially launch the Intelligent Island Programme in Launceston today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22880</transcript-id><title>Intelligent Island Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/08/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to officially launch the Intelligent Island Programme in Launceston today.</p>
 <p>The Federal Government is committing $40m to the Intelligent Island Programme to assist in the development of an internationally competitive information technology and telecommunications industry in Tasmania.</p>
 <p>The funding for this programme is drawn entirely from the $1 billion Social Bonus, that was made possible by the second partial sale of Telstra.</p>
 <p>It is a very tangible and practical example of the benefits that have flowed to Tasmania from the Telstra sale.  A total of $168 million from the Telstra Social Bonus will be invested in Tasmania.</p>
@@ -19,6 +9,4 @@
 <p>These initiatives have been developed in partnership with the Tasmanian Government and draw on the existing strengths of Tasmania’s research infrastructure and on existing Commonwealth funded programmes, such as Building Additional Rural Networks (BARN), Connecting Tasmania Schools and the Launceston Broadband Project.</p>
 <p>It is another example of the Federal Government’s commitment to building new sustainable job opportunities in Tasmania in the emerging IT &amp; T sector.</p>
 <p>11 August 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

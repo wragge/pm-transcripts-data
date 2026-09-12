@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17508</transcript-id>
-    <title>Speech to the St Vincent&#039;s Institute Luncheon</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/12/2010</release-date>
-    <release-type>Health</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Langman Hotel, Melbourne </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17508</transcript-id><title><![CDATA[Speech to the St Vincent&#039;s Institute Luncheon]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/12/2010</field_date><release-type>Health</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Langman Hotel, Melbourne </p>
 <p>Thank you for your warm welcome - and a big "thank you" to the Australian Children's Choir for their outstanding performance here today.</p>
 <p>We're here today because Sue Alberti has chosen to do something very special with an auction win from last year.</p>
 <p>She could have sat down with five friends and enjoyed a luncheon with me.</p>
@@ -79,6 +69,4 @@
 <p>So dig deep and give the gift of hope to those kids living with the challenge of diabetes.</p>
 <p>With special thanks to Sue Alberti, I officially launch the St Vincent's Institute Childhood Diabetes Appeal.</p>
 <p>May the spirit of goodwill that has brought us here today sustain and inspire us in the year ahead.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15852</transcript-id>
-    <title>John Button, Statement by Acting Prime Minister, The Hon Julia Gillard, MP  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A giant of modern Australian politics has sadly passed away overnight.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15852</transcript-id><title>John Button, Statement by Acting Prime Minister, The Hon Julia Gillard, MP  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A giant of modern Australian politics has sadly passed away overnight.</p>
 <p>He was a master parliamentarian, policy maker and politician.</p>
 <p>John Button was a policy reformer in the truest sense.</p>
 <p>John committed his life to Labor politics, improving the lives of those who needed it most and the progression of Australia.</p>
@@ -20,6 +10,4 @@
 <p>John's sharp wit, powerful mind and kind nature will be missed by all who had the privilege of knowing and working with him.</p>
 <p>My condolences go to John's family and all of his many loved ones.</p>
 <p>The Australian Government will be offering John's family a State Funeral.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21316</transcript-id>
-    <title>Doorstop Interview Tahmoor, New South Wales </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21316</transcript-id><title>Doorstop Interview Tahmoor, New South Wales </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, the charges against David Hicks appear to be very serious.  What do you think of the charges?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, I'm not going to make a comment on the severity of the charges.  I'm pleased that the charges have been brought.  It's not appropriate for me to get into a detailed commentary.  I want the military tribunal to be convened as soon as possible.  I've been assured that he'll get a fair trial.  We've been able to bring about some changes in the protocols applying to the military tribunal and I'll leave it to the process and not comment on the merits or otherwise of his behaviour.</p>
@@ -58,6 +48,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I don't talk about what the intelligence agencies advise me on a daily basis.  Let me say this - that the situation in Indonesia remains subject to travel warnings and as far as security arrangements are concerned we have taken very particular security precautions so far as our ambassador and our embassy is concerned and we'll continue to do that and I don't have anything further to add on that issue.  Thank you.</p>
 <p>[ends]   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

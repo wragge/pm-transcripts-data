@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11908</transcript-id>
-    <title>Television Interview with Barrie Cassidy - Insiders, ABC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11908</transcript-id><title>Television Interview with Barrie Cassidy - Insiders, ABC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................</p>
 <p>JOURNALIST::</p>
 <p>Good morning Prime Minister.</p>
 <p>PRIME MINISTER:</p>
@@ -54,6 +44,4 @@
 <p>OK Prime Minister, thank you very much for your time this morning.</p>
 <p>PRIME MINISTER:</p>
 <p>You're welcome.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

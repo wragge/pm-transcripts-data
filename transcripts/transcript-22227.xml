@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22227</transcript-id>
-    <title>Press Conference Phillip Street, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22227</transcript-id><title>Press Conference Phillip Street, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Ladies and gentlemen, I have called this news conference to inform you that I have been asked by the Cole commission of inquiry to provide a statement and I will do so by the requested time, which is 4pm tomorrow afternoon, and if asked I will naturally be happy to appear. I've said all along that I would, as would my Ministers. I've said all along that this is an utterly transparent process which is not protecting the Government, but which is designed to get to the truth of this matter and I am more than happy to comply with the request made by the commission. Naturally, it would not be proper for me to canvass in advance, now that I have been invited to provide a statement, canvass in advance what might be in that statement. I will, however, say this, that I stand by everything that I have so far said about the role and the conduct of the Government. I do not believe on the information known to me, and I don't use that expression in any way designed to give me ground to move later on, I do not believe, on the information known to me that any of my Ministers have been guilty of dereliction of duty and I am very, very happy to provide the statement and, if asked, to appear. Thank you.</p>
 <p> JOURNALIST:</p>
 <p> Would you have a comment about the UN...</p>
@@ -104,6 +94,4 @@
 <p>PRIME MINISTER:</p>
 <p>No. Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

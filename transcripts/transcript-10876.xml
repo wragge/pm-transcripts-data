@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10876</transcript-id>
-    <title>AGREEMENT BETWEEN THE INDONESIAN GOVERNMENT AND THE INTERNATIONAL             MONETARY FUND</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/04/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10876</transcript-id><title>AGREEMENT BETWEEN THE INDONESIAN GOVERNMENT AND THE INTERNATIONAL             MONETARY FUND</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/04/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
   The Australian Government warmly welcomes the conclusion of negotiations</p>
 <p> between the Indonesian government and the International Monetary Fund</p>
 <p> (IMF) on a new programme for the Indonesian economy. I am pleased</p>
@@ -34,6 +24,4 @@
 <p> and the IMF to ensure the successful implementation of the IMF-supported</p>
 <p> programme.</p>
 <p>  8 April 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

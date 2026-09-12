@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10978</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                 ADDRESS AT QUEENSLAND DIVISION OF THE LIBERAL PARTY                 COCKTAIL PARTY - BRISBANE, QUEENSLAND</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/07/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.....................................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10978</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                 ADDRESS AT QUEENSLAND DIVISION OF THE LIBERAL PARTY                 COCKTAIL PARTY - BRISBANE, QUEENSLAND</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/07/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.....................................................................................................................................</p>
 <p>Thank you very much, David, to Bob Carroll, the President of the Queensland</p>
 <p> Division of the Liberal Party, my Cabinet colleague, John Moore, I</p>
 <p> acknowledge the presence of another former federal colleague of mine,</p>
@@ -367,6 +357,4 @@
 <p> federal election is held.</p>
 <p>Thank you.</p>
 <p> [ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

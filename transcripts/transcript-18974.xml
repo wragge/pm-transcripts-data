@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18974</transcript-id>
-    <title>Passing of Tony Greig</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18974</transcript-id><title>Passing of Tony Greig</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>Australia has lost one of the iconic voices of sport with the passing today of Tony Greig.</p>
 <p>A former English cricket captain, Tony Greig went on to become an enduring voice on television as a cricket commentator.</p>
 <p>Greig was a wonderful example of someone who came to Australia from somewhere else in the world and embraced his adopted country as his own.</p>
@@ -19,6 +9,4 @@
 <p>Tony Greig devoted every ounce of his professional life to cricket, and the sport is much greater for his enormous contribution.</p>
 <p>Cricket has lost a giant today, but we're better as a sporting country for the life of Tony Greig.</p>
 <p>The thoughts of the nation are with his wife Vivian and his children Mark, Sam, Beau and Tom as they grieve the loss of their husband and father.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

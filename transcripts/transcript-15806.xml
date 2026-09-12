@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15806</transcript-id>
-    <title>Australia seeks to host 2009 Pacific Islands Forum    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/03/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today announced that Australia will seek to host the 2009 Pacific Islands Forum.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15806</transcript-id><title>Australia seeks to host 2009 Pacific Islands Forum    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/03/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today announced that Australia will seek to host the 2009 Pacific Islands Forum.</p>
 <p>Mr Rudd said the Australian Government is determined to work with its neighbouring countries in the Pacific on building a stronger region.</p>
 <p>“I want Australia to host next year's Pacific Islands Forum to send a clear message to our regional neighbours that Australia is back in business in Pacific affairs,” Mr Rudd said.</p>
 <p>“It's been 14 years since Australia last hosted the Pacific Islands Forum. That's far too long.”</p>
@@ -18,6 +8,4 @@
 <p>“Strengthening Australia's partnerships with our regional neighbours forms the basis of the Port Moresby Declaration that I issued on 6 March.”</p>
 <p>“Australia wants to build new relations with its Pacific neighbours on the basis of mutual trust, mutual responsibility and mutual cooperation.”</p>
 <p>Mr Rudd said during his three day visit to PNG and the Solomon Islands that he had secured the support of Prime Minister Sir Michael Somare and Prime Minister Sikua for Australia to host the Forum.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

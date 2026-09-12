@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17807</transcript-id>
-    <title>Speech to the Korean International Trade Association Dinner</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/04/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17807</transcript-id><title>Speech to the Korean International Trade Association Dinner</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/04/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 It is a great pleasure to be back in Seoul.</p>
 <p>I last visited last November to participate in the G20 Leaders' Summit.</p>
 <p>The success of that Summit was due in large part to the energetic and creative chairing by the host nation and especially the active role played by His Excellency President Lee Myung-bak.</p>
@@ -128,6 +118,4 @@ It is a great pleasure to be back in Seoul.</p>
 <p>As natural partners and close friends, I am committed to building Australia's relationship with Korea.</p>
 <p>This is a partnership full of promise and potential.</p>
 <p>And I look forward to a rich future of Australia-Korea cooperation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

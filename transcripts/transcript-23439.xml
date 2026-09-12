@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23439</transcript-id>
-    <title>A message from the Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>19/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This week the Government continued to deliver on our commitment to build the infrastructure of the 21st century.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23439</transcript-id><title>A message from the Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>19/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This week the Government continued to deliver on our commitment to build the infrastructure of the 21st century.</p>
 <p>We are working with state governments around Australia to deliver major roads – from the Bruce Highway in Queensland to the East West Link in Melbourne to the Swan Bypass in Perth.</p>
 <p>This week, the Government decided finally to build an airport in Western Sydney.</p>
 <p>It is a decision that successive governments have put off for fifty years.</p>
@@ -19,10 +9,8 @@
 <p>Investments in infrastructure are investments in the economy of our future.</p>
 <p>We are delivering on our plan to build a strong and prosperous economy by building better infrastructure, scrapping bad taxes, cutting red tape and encouraging more trade.</p>
 <p>Now this coming week, we celebrate Easter and we commemorate ANZAC Day.</p>
-<p>I hope all Australians are enjoying their Easter break with their family.  It is a time to give thanks and rejoice for the good things in life that we share.</p>
-<p>On ANZAC Day, we honour those who have served our country in war and peace.  We remember the 100,000 men and women who have given their lives in our name.</p>
+<p>I hope all Australians are enjoying their Easter break with their family.&nbsp; It is a time to give thanks and rejoice for the good things in life that we share.</p>
+<p>On ANZAC Day, we honour those who have served our country in war and peace.&nbsp; We remember the 100,000 men and women who have given their lives in our name.</p>
 <p>I hope as many Australians as possible can participate in Anzac Day ceremonies around our country – and ensure that we are a country not only of memorials, but of memory as well.</p>
 <p>19 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

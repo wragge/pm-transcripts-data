@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11786</transcript-id>
-    <title>Doorstop Interview, Challenge Bank - Perth </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Reserve Bank announcement on credit cards; Unemployment figures; Fremantle Barracks; Spy Plane; petrol prices.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11786</transcript-id><title>Doorstop Interview, Challenge Bank - Perth </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Reserve Bank announcement on credit cards; Unemployment figures; Fremantle Barracks; Spy Plane; petrol prices.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister if we could have a quick word about the Reserve Bank?</p>
@@ -56,6 +46,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well, look, I can't give a running commentary on each and every fuel price in each and every outlet in Australia. I really can't do that. The petrol prices are very high because the world price is high and we need as much competition as possible and we are looking at ways of improving competition but I really can't give a commentary on individual petrol prices in the thousands of outlets around the nation.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

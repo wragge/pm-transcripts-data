@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18854</transcript-id>
-    <title>Transcript of Press Conference - New Delhi, India</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/10/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New Delhi, India</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18854</transcript-id><title>Transcript of Press Conference - New Delhi, India</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/10/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New Delhi, India</p>
 <p>PM: I've concluded my discussions with Prime Minister Singh and attended the state dinner that he hosted in my honour. I've had a good set of discussions with the Prime Minister and pleased that we issued a comprehensive joint statement.</p>
 <p>Of the most important things we've agreed; firstly we've agreed that Australia and India's prime ministers will meet once every year, that there will be annual meetings at leaders' level between our two nations.</p>
 <p>This is important because having an annual leaders' level meeting keeps momentum in a relationship, gives high level oversight of how the relationship is developing and what more needs to be done.</p>
@@ -52,6 +42,4 @@
 <p>JOURNALIST: When will it be released?</p>
 <p>PM: I can't give you a scoop on the date today Michelle but we're looking for that paper to be released relatively soon.</p>
 <p>Okay we've got a plane to catch, thank you very much, travel safe.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

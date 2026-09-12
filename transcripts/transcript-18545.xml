@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18545</transcript-id>
-    <title>Transcript of joint press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18545</transcript-id><title>Transcript of joint press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm very pleased to be here today with the Minister for Defence, Stephen Smith, and with the Minister for Defence Materiel, Jason Clare, to make some important announcements about defence policy and defence capability.</p>
 <p>First today we do want to announce that the Government will shortly begin work on a new White Paper and that White Paper will be delivered in the first half of 2013. Now that is around a year earlier than expected. The last defence White Paper was published in 2009 and at that time the Government committed to publishing defence White Papers around about each five years or at intervals no greater than that.</p>
 <p>As the 2009 White Paper underlined, defence planning, by its very nature, is a complex business. You've got to make careful judgements about Australia's long term defence needs but at the same time you need to weigh those judgements against shifting circumstances and changing demands and that's why it is right, periodically, to redo the White Paper.</p>
@@ -196,6 +186,4 @@ PM: I'm very pleased to be here today with the Minister for Defence, Stephen Smi
 <p>Number two, in many parts of the country electricity pricing is regulated, and you have seen the statements of the regulators in New South Wales and Queensland, for example, where the statements they have made about the impact of carbon pricing are bang square with what the Treasury modelling showed which means that the money that will flow into people's hands in coming weeks and months has been designed right to help people with the impact of carbon pricing. </p>
 <p>And we deliberately designed that money so millions and millions of low and middle-income Australians will end up better off. </p>
 <p>Thank you very much.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

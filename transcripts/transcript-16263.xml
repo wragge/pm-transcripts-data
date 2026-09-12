@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16263</transcript-id>
-    <title>Press Conference Blue Room, Parliament House, Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/11/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: I'm deeply saddened today to hear of the death of an Australian soldier this morning in Afghanistan.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16263</transcript-id><title>Press Conference Blue Room, Parliament House, Canberra   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/11/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: I'm deeply saddened today to hear of the death of an Australian soldier this morning in Afghanistan.</p>
 <p>On behalf of the Government, I wish to extend my condolences to the family of this soldier.</p>
 <p>The soldier's name has not yet been released but he was serving with the Special Operations Task Force in Afghanistan.</p>
 <p>I'm sure I'm speaking on behalf of all Australians when I say that our deepest sympathies are with this young man's family, his friends and his colleagues.</p>
@@ -45,6 +35,4 @@
 <p>The response to that, I'm uncertain of at this stage. My overwhelming concern was to make sure that that extension of an offer of assistance was made across the board, and early. Our friends in India have an enormous challenge on their hands. Any unfolding operation of this nature is massively complex.</p>
 <p>The purpose of the decision and the direction taken to the National Security Committee of Cabinet was to make sure that should external assistance be required that our friends in Delhi would know that we would be prepared to provide anything that would be of practical use now.</p>
 <p>Thank-you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

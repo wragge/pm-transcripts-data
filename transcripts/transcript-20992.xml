@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20992</transcript-id>
-    <title>Doorstop Interview Site of the Australian War Memorial Hyde Park Corner, London</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/11/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20992</transcript-id><title>Doorstop Interview Site of the Australian War Memorial Hyde Park Corner, London</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/11/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, your initial reaction to seeing the memorial?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh it's very impressive.  Every Australian who sees this will be immensely proud.  It's not only a great work of craftsmanship by Australians but it's a beautiful rendition, as best you can in a memorial, of the breadth of the Australian contribution to the defence of freedom in two world wars, the scale of the armies and navies and air forces we sent, and therefore a measure of the debt that is owed by Britain and others to Australians in both of those conflicts.</p>
@@ -130,6 +120,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well you know, we have our position and we're working on that and they're working on theirs.  Thank you.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

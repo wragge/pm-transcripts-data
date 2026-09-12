@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41652</transcript-id>
-    <title>National Redress Scheme update</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>31/05/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government welcomes the announcement another four non-government institutions will join the National Redress Scheme for survivors of institutional child sexual abuse.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41652</transcript-id><title>National Redress Scheme update</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>31/05/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government welcomes the announcement another four non-government institutions will join the National Redress Scheme for survivors of institutional child sexual abuse.</p>
 <p>The Anglican Church, the Salvation Army, the Scouts and the YMCA today announced they would join the National Redress Scheme, which will provide access to counselling, a direct personal response from the institution and a monetary payment to survivors of institutional child sexual abuse.</p>
 <p>This announcement comes in the same week the Catholic Church opted into the Scheme and the House of Representatives passed legislation to establish the Scheme from July 1.</p>
 <p>Redress will be made to children who deserved to be safe, but whose lives were shockingly impacted by sexual abuse.</p>
@@ -17,6 +7,4 @@
 <p>The governments and institutions that sign up accept the system failed every single person in Australia who suffered sexual abuse in an institution that was meant to protect them.</p>
 <p>Redress is not compensation, however it will acknowledge the hurt and harm suffered by the individual and ensure institutions take responsibility for the abuse that occurred on their watch, by their people.</p>
 <p>Every state and territory has committed to joining the Scheme except Western Australia and the Government continues to work constructively with the Western Australia government.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

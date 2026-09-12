@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20620</transcript-id>
-    <title>Interview with Steve Price, Radio 2UE   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20620</transcript-id><title>Interview with Steve Price, Radio 2UE   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>The Prime Minister is just walking towards me now Steve and he's just putting on some headphones so he can have a chat to you. I think he can hear us. Prime Minister, have you seen anything like this before in terms of fire damaged areas?</p>
 <p>PRIME MINISTER:</p>
 <p>Tom, no I haven't. This is the worst bushfire devastation I've seen anywhere in the world, certainly anywhere in Australia. What is remarkable, in the worst sense of that expression, about this is that it's devastation of what you can probably describe as an ordinary suburban scene in Australia. The number of houses lost or severely damaged is extraordinary. The other remarkable thing is that there weren't more people seriously injured. It's very much a tribute to the emergency services, the police and the firefighters and everybody else that so great a firestorm, so great a bushfire, didn't claim more lives and didn't damage even more property.</p>
@@ -30,6 +20,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you Steve.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40531</transcript-id>
-    <title>Interview with Steve Austin 612 ABC</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/10/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40531</transcript-id><title>Interview with Steve Austin 612 ABC</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/10/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
 <p>Does Senator George Brandis, Queensland Member of the Cabinet and Australia’s Attorney-General, hold the Prime Ministers full confidence given what occurred overnight with Australia’s Solicitor-General, his resignation? This is the Prime Minister.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>He certainly does, he absolutely does.</p>
@@ -79,7 +69,7 @@
 <p><strong>STEVE AUSTIN: </strong></p>
 <p>Alright so even though the Federal Cabinet is here, you’re not meeting the Premier as such or the Deputy Premier of Queensland.</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>I’m not meeting them today no, but my colleagues will be caught up in our Cabinet meeting for most of the day. </p>
+<p>I’m not meeting them today no, but my colleagues will be caught up in our Cabinet meeting for most of the day.&nbsp;</p>
 <p><strong>STEVE AUSTIN: </strong></p>
 <p>Alright now before I let you go Prime Minister, I can’t help but note it’s the first day of the Sheffield Shield today, NSW vs. Qld. Is the timing of the Federal Cabinet here a coincidence?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -101,6 +91,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks so much.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

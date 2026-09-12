@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20715</transcript-id>
-    <title>Interview with Mike Hosking, TV One, New Zealand   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/03/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOSKING:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20715</transcript-id><title>Interview with Mike Hosking, TV One, New Zealand   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/03/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOSKING:</p>
 <p>Give me your assessment, if you could, of the chances of the US-British resolution going to the UN this week being passed.</p>
 <p>PRIME MINISTER:</p>
 <p>I'm dealing with the issue as it unfolds. I believe the 18th resolution on Iraq, which it will be, should be passed with or without an amendment. I'm not particularly fussed either way because I think it will build further pressure on Iraq and maybe there is a faint hope if it is passed, that Iraq will finally see the light of day and 'fess up and military conflict can be avoided.</p>
@@ -162,6 +152,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

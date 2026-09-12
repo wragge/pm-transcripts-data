@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12199</transcript-id>
-    <title>President George W Bush</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/01/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On behalf of the Government and people of Australia I congratulate President George Bush on his inauguration.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12199</transcript-id><title>President George W Bush</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/01/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On behalf of the Government and people of Australia I congratulate President George Bush on his inauguration.</p>
 <p>I wish him well in the formidable task of leading the most powerful nation on earth.</p>
 <p>The President takes office at a time of great prosperity for the United States but also with some uneven signs emerging in the United States' economy.</p>
 <p>The new Administration assembled by the President is both talented and highly experienced.</p>
@@ -18,6 +8,4 @@
 <p>Inevitably there will be differences on certain issues but overwhelmingly the goals of our governments and our societies are similar.</p>
 <p>We seek a stable, prosperous world based on democratic ideals and expanding equality of opportunities for the peoples of all nations.</p>
 <p>21 January 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

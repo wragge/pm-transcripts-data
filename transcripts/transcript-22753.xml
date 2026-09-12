@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22753</transcript-id>
-    <title>Rudd Government Backs Cairns City Centre Revival</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>14/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Minister for Regional Australia</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22753</transcript-id><title>Rudd Government Backs Cairns City Centre Revival</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>14/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Minister for Regional Australia</p>
 <p>The Rudd Labor Government will deliver up to $4.8 million to help to transform the Cairns central business district ahead of next year’s G20 meeting.</p>
 <p>Prime Minister Kevin Rudd and the Minister for Regional Australia, Catherine King, today announced the funding in Cairns as part of the Government’s continued commitment to the economic development of northern Queensland.</p>
 <p>Improvements to the CBD will make public transport more efficient, and remodel the city centre to link the esplanade, convention centre, cruise liner terminal and city port.</p>
@@ -21,6 +11,4 @@
 <p>Infrastructure, tropical knowledge, agriculture, mining and tourism have been identified as priority areas.</p>
 <p>The northern Queensland region generates approximately $60 billion in gross regional product annually from mining, agriculture, energy, education and tourism.</p>
 <p>The area has an exciting future and Labor is committed to unlocking the region’s future growth through investment and support. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41162</transcript-id>
-    <title>Press Conference with the Hon. Josh Frydenberg MP, Minister for the Environment and Energy</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>06/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>AEMO Report; President Trump phone call</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41162</transcript-id><title>Press Conference with the Hon. Josh Frydenberg MP, Minister for the Environment and Energy</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>06/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>AEMO Report; President Trump phone call</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning.</p>
 <p>I’m here with the Energy Minister, Josh Frydenberg to talk about the Australian Energy Market Operator’s report on the availability of dispatchable generation in the near-term and over the longer term.</p>
 <p>This is a very important piece of work that we commissioned some time ago because it was clear that what has been happening in the Australian energy market is that dispatchable, high-emissions energy, coal-fired generation, coal-fired baseload generation, is being driven out by low-emissions renewables which are not dispatchable.</p>
@@ -18,7 +8,7 @@
 <p>That's why Snowy Hydro 2.0 is such a game-changer, because it provides, it will provide, in its first stage 2,000 megawatts of dispatchable power that will be available on demand. It makes renewables reliable.</p>
 <p>What you have seen is a colossal failure in the planning of our energy system.</p>
 <p>The Labor Party's approach has been one driven by ideology and, I have to say, idiocy.</p>
-<p>I mean, it really does beggar belief that you would - as they did in South Australia - allow their electricity system to be dominated by wind power, see coal-fired power stations close and not put in any measures to back-up that wind power when the wind wasn't blowing. Hence as we know, they were relying on a very long extension cord to the Latrobe Valley. </p>
+<p>I mean, it really does beggar belief that you would - as they did in South Australia - allow their electricity system to be dominated by wind power, see coal-fired power stations close and not put in any measures to back-up that wind power when the wind wasn't blowing. Hence as we know, they were relying on a very long extension cord to the Latrobe Valley.&nbsp;</p>
 <p>So that is the context in which we approach this and asked the question of AEMO - what exactly is happening to dispatchable power? How big is the gap? Is there a gap? How big is it?</p>
 <p>Josh will go into this in a bit more detail but the summary is there are short-term problems which AEMO is addressing. There will be a need for a strategic reserve. Again, Josh will address that. But in particular after 2022, which is when the Liddell power station in the Hunter Valley is scheduled to close, AEMO estimates there will be as much as a 1,000 megawatt gap in necessary baseload dispatchable generation.</p>
 <p>Now, 2022 is a very critical date.</p>
@@ -42,7 +32,7 @@
 <p>Whether it is stopping the energy companies from gaming the system and appealing against the regulator's decision on what they can charge for poles and wires, that legislation is in the Parliament now and Josh is leading the charge on that.</p>
 <p>Whether it's taking action on gas.</p>
 <p>Whether it's building the biggest battery in the Southern Hemisphere with Snowy Hydro 2.0 on a longer-term.</p>
-<p>Whether it's getting the information about what our dispatchable gap is likely to be and then making sure we take action right now - not waiting until 2021 - action right now to start to set in place the measures to ensure that gap doesn't occur. </p>
+<p>Whether it's getting the information about what our dispatchable gap is likely to be and then making sure we take action right now - not waiting until 2021 - action right now to start to set in place the measures to ensure that gap doesn't occur.&nbsp;</p>
 <p>So I’ll hand over to Josh and then we’ll take some questions.</p>
 <p><strong>THE HON. JOSH FRYDENBERG MP, MINISTER FOR ENERGY AND THE ENVIRONMENT:</strong></p>
 <p>Thank you, Prime Minister.</p>
@@ -69,7 +59,7 @@
 <p><strong>JOURNALIST: </strong></p>
 <p>Why can you not use a Clean Energy Target to do the work that's required here which is to set the incentives to get 1,000 megawatts of capacity by 2022? What's wrong with using a clean energy target to do that?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Well, the challenge that you’ve got, David, is actually, if you’re saying building new dispatchable capacity by 2022, that would be a very big stretch. See, that's five years away. So when people talk about new generation capacity, unless you are talking about wind and solar  - and solar, there is a lot more generation coming into the market, wind and solar, and that's good, we need more generation, right - but we also need to ensure that we have got that dispatchibility.</p>
+<p>Well, the challenge that you’ve got, David, is actually, if you’re saying building new dispatchable capacity by 2022, that would be a very big stretch. See, that's five years away. So when people talk about new generation capacity, unless you are talking about wind and solar&nbsp; - and solar, there is a lot more generation coming into the market, wind and solar, and that's good, we need more generation, right - but we also need to ensure that we have got that dispatchibility.</p>
 <p>Now that can be provided by batteries, but they've got limited capacity. It can be provided on a large scale by pumped hydro, but that takes years to build.</p>
 <p>You are talking about 23 - more, actually, 30 plus kilometres of tunnels in Snowy Hydro 2.0. That is not an insignificant civil engineering project. So all of those things take time.</p>
 <p>I think a lot of the debate or discussion about energy policy is not well informed in terms of the time frame of what it takes to put things in place. So that's why I say, our focus is on engineering and economics and getting the expert advice is critical to that.</p>
@@ -153,6 +143,4 @@
 <p>The energy policy of the Australian Government is driven by engineering and economics. That's our focus. And the outcome will be more affordable and more reliable energy for all Australians.</p>
 <p>Thanks a lot.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

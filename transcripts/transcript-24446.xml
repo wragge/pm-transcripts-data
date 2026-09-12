@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24446</transcript-id>
-    <title> Interview with Karl Stefanovic, Today, Nine Network</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/05/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Budget 2015</subjects>
-    <content><![CDATA[<p>KARL STEFANOVIC:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24446</transcript-id><title> Interview with Karl Stefanovic, Today, Nine Network</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/05/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Budget 2015</subjects><content><![CDATA[<p>KARL STEFANOVIC:</p>
 <p>We’re joined now by the Prime Minister Tony Abbott. PM, good morning to you.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning, Karl.</p>
@@ -106,6 +96,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you so much, Karl. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

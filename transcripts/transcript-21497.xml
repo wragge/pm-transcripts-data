@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21497</transcript-id>
-    <title>Interview with Tracey Spicer Channel 10 News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPICER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21497</transcript-id><title>Interview with Tracey Spicer Channel 10 News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPICER:</p>
 <p>And Prime Minister Howard is in our Canberra studio.  Mr Howard you've said this election is about trust, given the recent revelations about the children overboard affair can the Australian people trust you?</p>
 <p>PRIME MINISTER:</p>
 <p>It's a question of who do you trust to keep your living standards safe? Who do you trust more to keep interest rates low?  Who do you trust more to lead Australia in a time of international terrorism?  And who do you trust more to keep the Budget strong so we have more money to spend on health and education?  It's that kind of trust, the trust that people have in me versus Mr Latham to deliver a strong economy, to keep living standards high, to keep interest rates low, to keep the budget strong so we have more money to spend on education and health.  We have a track record, in the past people have trusted us and we have delivered and so it will be in the future.  We can be trusted more to deliver a strong economy and to keep living standards safe and to keep interest rates low.  Labor in the past has always presided over high interest rates, big spending, big Budget deficits. We by contrast have kept the Budget strong and it's because of the strength of that Budget that we can now afford to spend more money on health and more money on education. That's the kind of trust of which I speak.</p>
@@ -29,6 +19,4 @@
 <p>Mr Howard, thanks very much for your time this evening.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

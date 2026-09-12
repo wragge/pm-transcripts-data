@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24340</transcript-id>
-    <title>Interview with Nick McCallum, Radio 3AW </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/04/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>National Ice Taskforce.</subjects>
-    <content><![CDATA[<p><strong>NICK MCCALLUM:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24340</transcript-id><title>Interview with Nick McCallum, Radio 3AW </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/04/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>National Ice Taskforce.</subjects><content><![CDATA[<p><strong>NICK MCCALLUM:</strong></p>
 <p>The Prime Minister Tony Abbott joins us now. Mr Abbott, thanks for your time.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Nick, it is good to be with you.</p>
@@ -54,6 +44,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you, Nick.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

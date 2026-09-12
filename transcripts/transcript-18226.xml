@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18226</transcript-id>
-    <title>Speech to the Commonwealth Heads of Government Meeting Official Opening, Perth</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/10/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18226</transcript-id><title>Speech to the Commonwealth Heads of Government Meeting Official Opening, Perth</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/10/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Your Majesty</p>
 <p>Your Royal Highness</p>
 <p>Her Excellency the Governor General</p>
@@ -55,6 +45,4 @@ Your Majesty</p>
 <p>And ensure our Commonwealth values speak as clearly to future generations as they have to the past.</p>
 <p>On behalf of the Australian people, I am deeply honoured to be your Host.</p>
 <p>And I wish this for our meeting  -  that we each give our best to achieve the best for all of our nations.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

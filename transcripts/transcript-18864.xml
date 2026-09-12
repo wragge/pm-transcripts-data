@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18864</transcript-id>
-    <title>Joint Statement - Prime Minister of Australia and President of Philippines</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/10/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18864</transcript-id><title>Joint Statement - Prime Minister of Australia and President of Philippines</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/10/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Australian Prime Minister Julia Gillard met with Philippine President Benigno S. Aquino III on 24 October 2012 as part of his State Visit to Australia.  Their meeting was followed by discussions between Australian Ministers and Philippine Cabinet Secretaries.</p>
 <p>Since establishing diplomatic relations in 1946, Australia and the Philippines have been enjoying a warm and wide-ranging relationship based on shared democratic values and interests, with important and growing people-to-people links.  The two countries also have a shared desire for regional prosperity, development and security. </p>
 <p>Prime Minister Gillard congratulated President Aquino on the signing on 15 October 2012 of a Framework Agreement on the Bangsamoro with the Moro Islamic Liberation Front, an insurgency movement in Southern Philippines that entered into negotiations with the government in the late 90s.  Both Leaders hoped the Agreement would provide a basis for genuine, lasting peace in Mindanao.  They agreed that it would now be important for the Agreement to be fully implemented, resulting in significant improvements to the security and prosperity of communities across the southern Philippines. </p>
@@ -27,6 +17,4 @@
 <p>Prime Minister Gillard and President Aquino expressed satisfaction that the two countries' strong government to government relations were underpinned by close and growing people-to-people ties.  The Leaders noted that Filipinos are one of the fastest growing immigrant communities in Australia, with some 225,000 currently living in Australia, making an important contribution to the Australian economy and society.  In addition, some 6000 Filipino students are currently enrolled across all sectors of the Australian education system.</p>
 <p>The two Leaders welcomed their deepening and broadening partnership that would further enhance already strong bilateral, regional and multilateral cooperation on shared strategic interests.  They welcomed the inaugural bilateral Strategic Dialogue held in October 2012 and agreed to consider ways to further deepen and broaden the political, security, economic, and people-to-people relationship.</p>
 <p>Finally, the two Leaders welcomed recent high-level bilateral engagements and visits, including the visit to the Philippines by Australia's Governor-General Quentin Bryce AC CVO, and the visits to Australia by a number of Philippine Cabinet Secretaries.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

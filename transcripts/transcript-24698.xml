@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24698</transcript-id>
-    <title>70th Anniversary of Victory in the Pacific</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/08/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On this day seventy years ago, Japan surrendered unconditionally and our then Prime Minister, Ben Chifley, declared: The war is over.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24698</transcript-id><title>70th Anniversary of Victory in the Pacific</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/08/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On this day seventy years ago, Japan surrendered unconditionally and our then Prime Minister, Ben Chifley, declared: The war is over.</p>
 <p>Cities and towns across the country erupted in celebration as people flocked to sing, dance, wave flags and light bonfires.</p>
 <p>Men, women and children shared the relief and elation of a nation.</p>
 <p>Today, in awe and in gratitude, we honour a generation that fought for freedom and prevailed.</p>
@@ -23,8 +13,6 @@
 <p>You stood for what is right and good and decent when it mattered most, and our world is a better place because of you.</p>
 <p>Lest we forget.</p>
 <p>
-15 August 2015<br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+15 August 2015<br>
+&nbsp;</p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18394</transcript-id>
-    <title>Remarks on the 70th anniversary of the bombing of Darwin, Darwin.</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/02/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18394</transcript-id><title>Remarks on the 70th anniversary of the bombing of Darwin, Darwin.</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/02/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Nineteen forty-two was the darkest year in Australia's history.</p>
 <p>And if that darkest year had a darkest day, it was February 19.</p>
 <p>It was the unimaginable day.</p>
@@ -42,6 +32,4 @@ Nineteen forty-two was the darkest year in Australia's history.</p>
 <p>Reminding us how precious is the freedom we enjoy.</p>
 <p>How high a price has been paid to preserve it.</p>
 <p>And how we must never, ever forget. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

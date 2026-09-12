@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22975</transcript-id>
-    <title>Television Interview with Glenn Milne, Sunday Sunrise</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/12/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: economy; budget; Liberal Party leadership; petrol prices; Sydney’s second airport; welfare report; relations with Indonesia; research and development.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22975</transcript-id><title>Television Interview with Glenn Milne, Sunday Sunrise</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/12/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: economy; budget; Liberal Party leadership; petrol prices; Sydney’s second airport; welfare report; relations with Indonesia; research and development.</p>
 <p>E&amp;OE………………………………………………………………………………</p>
 <p>GLENN MILNE:</p>
 <p>Well we're headed into an election year after the Christmas break, but there are some worrying signs on the horizon - home lending is down, unemployment is up, for the moment interest rates are on hold. But do you think the economy could afford to slow any further?</p>
@@ -146,6 +136,4 @@
 <p>PRIME MINISTER:</p>
 <p>I will and merry Christmas to you and your listeners, Glenn.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

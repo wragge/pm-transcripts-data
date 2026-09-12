@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18378</transcript-id>
-    <title>Satellites to deliver high speed broadband to the regions</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18378</transcript-id><title>Satellites to deliver high speed broadband to the regions</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australians in rural and remote areas are a step closer to fast and affordable broadband services with the announcement today of a $620 million agreement to design and build two satellites to deliver high speed broadband.</p>
 <p>The two satellites will deliver, along with the fixed wireless and fibre networks of the National Broadband Network (NBN), universal broadband coverage across the entire Australian continent, and its external territories for the first time.</p>
 <p>This will ensure high speed broadband is delivered to Australia's remotest towns, such as Calvert in the Northern Territory and Bandya in Western Australia.</p>
@@ -24,6 +14,4 @@ Australians in rural and remote areas are a step closer to fast and affordable b
 <p>The contract is part of a total investment of approximately $2 billion over 15 years that is required to deliver the NBN Long Term Satellite Service. Other agreements will cover the ground segment, end-user equipment and the launch vehicles.</p>
 <p>The Long-Term Satellite Service will build on the Interim Satellite Service, which was launched on 1 July, 2011, and is today providing access to enhanced broadband for Australians in rural and remote areas.</p>
 <p>Further information is available on the NBN Co website at <a href="http://www.nbnco.com.au">http://www.nbnco.com.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

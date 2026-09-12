@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22530</transcript-id>
-    <title>Interview with Sally Sara ABC Landline Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/10/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SARA:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22530</transcript-id><title>Interview with Sally Sara ABC Landline Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/10/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SARA:</p>
 <p>Just to begin with, before we get to drought, I want to ask you about AWB, what's the message that you're giving AWB about their performance and their future.</p>
 <p>PRIME MINISTER:</p>
 <p>I'm concerned about the current situation. We're not going to make decisions about the single desk until after we've received the Cole report. There are issues that I want to raise with, and have raised with AWB, concerning the current wheat crop. And we're still in discussion and in those circumstances I can't say more except to emphasise that the first obligation of all of us, including AWB International, is the welfare of the individual wheat grower because that's our core commitment. It's my main concern. It's difficult enough for wheat growers at the moment and if they think that they missing out on a better price because of current arrangements, then you can understand their sense of frustration.</p>
@@ -78,6 +68,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

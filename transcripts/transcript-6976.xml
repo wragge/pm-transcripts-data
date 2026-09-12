@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6976</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>21/07/1986</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006976.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-11 SAE1<br />
-FOR MEDIA21 July 1986<br />
-The Gove: rnor-General, accompanied by Lady Stephen, has<br />
-left Australia to attend the Royal Wedding in London.<br />
-The Goveznor-General will be away for approximately<br />
-one week.<br />
-Sir James Rowland, Governor of New South Wales, will<br />
-serve as Administrator during the Governor-General's<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6976</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>21/07/1986</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006976.pdf</document><subjects></subjects><content><![CDATA[<p>
+11 SAE1<br>
+FOR MEDIA21 July 1986<br>
+The Gove: rnor-General, accompanied by Lady Stephen, has<br>
+left Australia to attend the Royal Wedding in London.<br>
+The Goveznor-General will be away for approximately<br>
+one week.<br>
+Sir James Rowland, Governor of New South Wales, will<br>
+serve as Administrator during the Governor-General's<br>
 absence. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11093</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH EOIN CAMERON &amp;#150; 6WF, ABC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/04/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11093</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH EOIN CAMERON &amp;#150; 6WF, ABC]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/04/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>CAMERON:</p>
 <p>Good afternoon and welcome to the ABC.</p>
 <p>PRIME MINISTER:</p>
@@ -336,6 +326,4 @@
 <p> what has happened in the past, any mistreatment ta da ta da ta da.</p>
 <p> The fear of yours that then the legal fraternity will be saying ripper.</p>
 <p>PRIME MINISTER:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

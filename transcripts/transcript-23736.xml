@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23736</transcript-id>
-    <title>New counter-terrorism measures for a safer Australia - cancelling welfare payments to extremists </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>16/08/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government is committed to ensuring Australians engaged in terrorist activities are not receiving taxpayer funded welfare payments.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23736</transcript-id><title>New counter-terrorism measures for a safer Australia - cancelling welfare payments to extremists </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>16/08/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government is committed to ensuring Australians engaged in terrorist activities are not receiving taxpayer funded welfare payments.</p>
 <p>The Government will introduce legislation to ensure welfare payments can be promptly stopped for people identified by national security agencies as being involved in extremist conduct.</p>
 <p>Currently, welfare payments can only be suspended or cancelled if the recipient no longer meets social security eligibility rules, such as participation requirements, and residence or portability qualifications.</p>
 <p>The new legislation will enable the Department of Human Services to cancel a person’s welfare payment if it receives advice that a person has been assessed as a serious threat to Australia’s national security.</p>
@@ -21,6 +11,4 @@
 <p>Our welfare system already allows payments to be suspended or cancelled if people don’t meet their obligations.</p>
 <p>This measure is based on the same principle. It is designed to make sure taxpayers’ money is not being used to undermine Australia’s national security.</p>
 <p>16 August 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

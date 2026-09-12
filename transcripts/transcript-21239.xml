@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21239</transcript-id>
-    <title>Doorstop Interview, Brisbane  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21239</transcript-id><title>Doorstop Interview, Brisbane  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, did Alan Jones talk to you about David Flint at Kirribilli House?</p>
 <p>PRIME MINISTER:</p>
 <p>As to this suggestion that he tried to heavy me under threat that if I didn';t re-appoint David Flint he wouldn';t support me in the election campaign, that is absurd and wrong. No such conversation at Kirribilli House or anywhere else took place between Mr Jones and myself. Indeed, I can';t recollect Mr Jones ever raising Mr Flint';s position with me, let alone in the threatening terms that have been suggested. I mean, that's never been the sort of conversation that I';ve had with Mr Jones on that subject or any other.</p>
@@ -37,6 +27,4 @@
 <p>  Do you reject the Opposition calls for a full independent inquiry?</p>
 <p>PRIME MINISTER:</p>
 <p>Of course I do.  They do that on everything.  I mean, calling for an inquiry is Mark Latham's substitute for having an alternative policy for running this country.  I'm not going to set up an inquiry every time Mark Latham calls for it.  This is a claim that I reject.  I reject it emphatically and we'll just see how the whole thing plays out.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22513</transcript-id>
-    <title>Interview with Alan Jones Radio 2GB, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/10/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JONES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22513</transcript-id><title>Interview with Alan Jones Radio 2GB, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/10/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JONES:</p>
 <p>So you've announced $837 million and you're going to provide vouchers over five years for workers over 25?</p>
 <p>PRIME MINISTER:</p>
 <p>We're going to provide 30,000 of those vouchers each year so over a period of five years you'll have 150,000 of them and they'll be worth $3000 a voucher and they will enable anybody now in the workforce who wants to lift their skill level to Year 12 or Certificate II equivalent, to do so and one of the problems is that we have a surprisingly large number of people in the workforce whose skills are not adequate to handle computers, to handle some of the new technology and they left school and entered the workforce at a time when there was a lesser premium on or a lesser need for those things and the whole idea is to lift the quality of skills of people in the workforce. This is something that all of the industry groups, particularly the Australian Industry Group that really represents better than any other group the manufacturers of the community, this is something that they've been urging...  JONES:</p>
@@ -153,6 +143,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p> [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

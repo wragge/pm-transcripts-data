@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16782</transcript-id>
-    <title>Transcript of interview 6PR Perth   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>31/08/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Kevin Rudd is in Perth for the next three days. He joins us on the program this morning. Mr Rudd, thanks for your time.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16782</transcript-id><title>Transcript of interview 6PR Perth   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>31/08/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Kevin Rudd is in Perth for the next three days. He joins us on the program this morning. Mr Rudd, thanks for your time.</p>
 <p>PM: Good morning, Simon. Thanks for having me on the program.</p>
 <p>HOST:Mr Rudd, I wanted to ask you about this gas and oil condensate slick off our Northern coast. The stories running around this morning are that it's now 3,000 square kilometres in size, in area. Can the Federal Government do more to assist with the clean up, or to assist with trying to get the gas leak turned off?</p>
 <p>PM: The Federal Resources Minister, Martin Ferguson, in fact as I'm advised, flew over the site last Friday. There are a number of things under way. First, of course, your listeners will be aware of the use of dispersants, both from the air and from the sea, targeted at the oil patches concerned. Secondly, the company, of course, is making various arrangements to drill a relief well. Thirdly, in terms of the investigation and causes, there is of course a National Offshore Petroleum Safety Authority investigation underway.</p>
@@ -67,6 +57,4 @@
 <p>PM: Well I think if you were to put the Superbowl on that day, maybe they'd have a different view.</p>
 <p>HOST: Yeah, I think they would. Mr Rudd, thanks for talking to us today, and thanks for talking to the listeners. We do appreciate your time.</p>
 <p>PM: Simon, it's good to be back in Perth. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

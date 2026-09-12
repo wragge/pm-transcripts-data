@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15500</transcript-id>
-    <title>Climate Change: Emissions Trading Scheme</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/09/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government is responding quickly and comprehensively to the Task Group Report on Emissions Trading, and the decision to establish a national scheme.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15500</transcript-id><title>Climate Change: Emissions Trading Scheme</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/09/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government is responding quickly and comprehensively to the Task Group Report on Emissions Trading, and the decision to establish a national scheme.</p>
 <p>My department is today issuing a discussion paper on maintaining abatement incentives in the lead-up to emissions trading, which we aim to commence in 2011.</p>
 <p>The Government wants to ensure that firms undertaking emissions abatement are not disadvantaged ahead of the scheme commencing.  We also want to explore the scope for positive incentives to undertake new, additional abatement.</p>
 <p>Our decision to establish a national emissions trading scheme entails detailed design on a highly complex issue.  It is a significant economic reform and one which we have to get right through rigorous modelling and analysis.</p>
@@ -17,6 +7,4 @@
 <p>The scheme will now be complemented by the national Clean Energy Target I announced yesterday and on which I have written to Premiers and Chief Ministers seeking their cooperation. </p>
 <p>I encourage industry and other stakeholders to participate in consultations on the discussion paper over coming months.</p>
 <p>The discussion paper is available at:  <a href="http://www.pmc.gov.au/climate_change/emissions/early_action/">http://www.pmc.gov.au/climate_change/emissions/early_action/</a>  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

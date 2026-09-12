@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20732</transcript-id>
-    <title>Interview with Ray Martin, A Current Affair Channel Nine   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/03/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MARTIN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20732</transcript-id><title>Interview with Ray Martin, A Current Affair Channel Nine   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/03/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MARTIN:</p>
 <p>Mr Howard thank you for your time.</p>
 <p>PRIME MINISTER:</p>
 <p>Good evening Ray.</p>
@@ -92,6 +82,4 @@
 <p>MARTIN:</p>
 <p>Alright. We thank you, thank you so much for your time and we wish you well in the decisions that have to be made in the next 24 hours. Thank you for that PM.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

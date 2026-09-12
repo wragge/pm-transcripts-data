@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10755</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON. JOHN HOWARD MP                RADIO INTERVIEW WITH NEIL MITCHELL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/08/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10755</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON. JOHN HOWARD MP                RADIO INTERVIEW WITH NEIL MITCHELL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/08/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................</p>
 <p>MITCHELL:</p>
 <p>Good morning and prepare for 48 hour of election foreplay - pre-election</p>
 <p>   foreplay. The Prime Minister is expected to call the election on</p>
@@ -400,6 +390,4 @@
 <p>We have a 10 year old daughter, and from what I can tell we are</p>
 <p>   going to be worse off. I was ready to vote for the GST a few weeks</p>
 <p>   ago, and now I'm really frightened, but I don't want to</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

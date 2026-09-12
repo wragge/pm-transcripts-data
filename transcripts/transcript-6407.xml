@@ -1,31 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6407</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>06/06/1984</release-date>
-    <release-type>Correspondence</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006407.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-PRIME MINISTER<br />
-FORMEDIA 6 JUNE 1984<br />
-The Prime Minister today sent the following message to the<br />
-Queensland Premier, Mr Bjelke-Petersen;<br />
-" My dear Premier,<br />
-I note that 1984 is a special year in Queensland<br />
-as it marks the 125th Anniversary of Statehood.<br />
-On behalf of the Commonwealth Government, and all<br />
-Australians I extend congratulations to the people<br />
-of Queensland on achieving such a significant<br />
-milestone. This year, in particular, Queensland people can look<br />
-back with pride at the growth and development of the<br />
-State since 1859 and look ahead with anticipation<br />
-to continued achievement in the future.<br />
-Yours sincerly,<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6407</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>06/06/1984</field_date><release-type>Correspondence</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006407.pdf</document><subjects></subjects><content><![CDATA[<p>
+PRIME MINISTER<br>
+FORMEDIA 6 JUNE 1984<br>
+The Prime Minister today sent the following message to the<br>
+Queensland Premier, Mr Bjelke-Petersen;<br>
+" My dear Premier,<br>
+I note that 1984 is a special year in Queensland<br>
+as it marks the 125th Anniversary of Statehood.<br>
+On behalf of the Commonwealth Government, and all<br>
+Australians I extend congratulations to the people<br>
+of Queensland on achieving such a significant<br>
+milestone. This year, in particular, Queensland people can look<br>
+back with pride at the growth and development of the<br>
+State since 1859 and look ahead with anticipation<br>
+to continued achievement in the future.<br>
+Yours sincerly,<br>
 Bob Hawke." </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17148</transcript-id>
-    <title>Prime Minister Transcript of interview with Simon Beaumont 6PR 25 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BEAUMONT: Prime Minister Kevin Rudd is in our city at the moment and he joins me on the morning program this morning. Prime Minister, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17148</transcript-id><title>Prime Minister Transcript of interview with Simon Beaumont 6PR 25 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BEAUMONT: Prime Minister Kevin Rudd is in our city at the moment and he joins me on the morning program this morning. Prime Minister, good morning to you.</p>
 <p>PM: Good morning, Simon. Thanks for having me on your program. You've had some rough weather over here.</p>
 <p>BEAUMONT: We have, and we're still clearing it up as best we can. Mr Rudd, can I ask you, we posed this question yesterday on our program and our listeners were asking, were wondering, why do we need 35 million people in this country by 2050?</p>
 <p>PM: Well, what has happened with the Intergenerational Report, which is put out by the Commonwealth Treasury every several years or so, is they've just projected ahead where natural population growth would go to over the next 40 years. In fact, two of these were put out earlier by Peter Costello. And that's just based on natural fertility rates and our historical rates of migration. In fact, the population growth projected for Australia for the next 30 or 40 years is less than what we've had for the last 30 or 40 years.</p>
@@ -55,6 +45,4 @@
 <p>PM: Anyway, it's good to be on your program, and it's good to be back in the West again, and I'll be back again soon.</p>
 <p>BEAUMONT: Thanks for talking to our listeners today.</p>
 <p>PM: Thanks very much Simon. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

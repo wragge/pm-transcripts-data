@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19206</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/04/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Shanghai, People's Republic of China</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19206</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/04/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Shanghai, People's Republic of China</p>
 <p>PM: I'm absolutely delighted to be here in Shanghai and as you can see I'm joined by two of our banking chiefs, by Gail Kelly from Westpac, by Mike Smith from ANZ, and I'm also joined by my ministerial colleagues Dr Emerson, the Minister for Trade, and Bill Shorten who is here in his capacity as Minister for Superannuation and Financial Services.</p>
 <p>We've already had the opportunity this morning to speak to a number of Australians who live and work here in Shanghai in this amazing city, in this huge financial centre.</p>
 <p>People who are doing all sorts of business in China; they're in resources, they're in agri-business, they're in legal services, in architectural services, they are in financial services too.</p>
@@ -124,6 +114,4 @@
 <p>PM: No.</p>
 <p>Thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16350</transcript-id>
-    <title>Acting Prime Minister Julia Gillard Interview on ABC AM Radio   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/01/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HAYDEN COOPER: Well, Julia Gillard, this week alone, hundreds of jobs have been cut across the mining sector. Are these the unmistakeable symptoms of a recession?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16350</transcript-id><title>Acting Prime Minister Julia Gillard Interview on ABC AM Radio   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/01/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HAYDEN COOPER: Well, Julia Gillard, this week alone, hundreds of jobs have been cut across the mining sector. Are these the unmistakeable symptoms of a recession?</p>
 <p>JULIA GILLARD: This is the global financial crisis hitting our economy. We obviously said last year when the global financial crisis first emerged and shook the world; that our economy wasn't going to be immune, that it would be touched and we would see rising unemployment as a result.</p>
 <p>Obviously every job lost is a real difficulty, a dreadful time for the Australian involved and that's why we've been investing in protecting jobs, in bolstering jobs, and in keeping our economy moving. That's what out $10.4 billion Economy Security Statement was all about as well as our new investments in infrastructure, in local government so that there can be expenditure on local jobs and of course, our car industry plan. In the last three months that totals $36 billion of expenditure which is targeted and focussed on jobs and protecting jobs.</p>
 <p>HAYDEN COOPER: Has it really worked though, given that 44,000 full time jobs were lost in December?</p>
@@ -23,6 +13,4 @@
 <p>HAYDEN COOPER: The unions though, are pushing for a return to pattern bargaining and business in fact says the Fair Work Bill makes that possible. Was that your intention all along?</p>
 <p>JULIA GILLARD: The Fair Work Bill clearly outlaws pattern bargaining. Clearly, directly, section by section...you can pick it up and read it. Pattern bargaining is outlawed and that's how the Fair Work Bill will stay.</p>
 <p>ENDS </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

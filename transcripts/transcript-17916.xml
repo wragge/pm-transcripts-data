@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17916</transcript-id>
-    <title>Improving our lives through medical bionics</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17916</transcript-id><title>Improving our lives through medical bionics</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australian researchers could make many world-first breakthroughs that would treat and heal injured and sick people across the globe thanks to the new Bionics Institute in Victoria.</p>
 <p>Announcing the Institute by video message, Prime Minister Julia Gillard said Australia had a proud history in bionic research and all Australians should be excited by the prospect of more discoveries.</p>
 <p>The Prime Minister said our researchers have contributed significantly to global bionic research discoveries. In particular, our very own Professor Graeme Clark invented the cochlear implant, which is providing the gift of hearing to 200,000 severely or profoundly deaf people world-wide.</p>
@@ -18,6 +8,4 @@ Australian researchers could make many world-first breakthroughs that would trea
 <p>Speaking at the launch, Innovation Minister Senator Kim Carr said he believed the research and development undertaken at the Institute was also inspiring for the future of high-value manufacturing.</p>
 <p>“The commercial outcomes that may be spun out of this institute can potentially lead to high-skill, high-wage jobs.</p>
 <p>“It is hard to imagine what you will create. We set no limits on your ambition. But we know you will help us face the big challenges of our time.”</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

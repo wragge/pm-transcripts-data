@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15770</transcript-id>
-    <title>Joint Media Release with Premier of Queensland, Prime Minister Offers further Assistance  for Mackay Flood Victims  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has agreed to provide additional assistance to help families hit by the impact of severe flooding in Mackay.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15770</transcript-id><title>Joint Media Release with Premier of Queensland, Prime Minister Offers further Assistance  for Mackay Flood Victims  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has agreed to provide additional assistance to help families hit by the impact of severe flooding in Mackay.</p>
 <p>Prime Minister Kevin Rudd and Queensland Premier Anna Bligh made the announcement in Mackay this afternoon.</p>
 <p>The additional assistance will be made available under the Natural Disaster Relief and Recovery Arrangements (NDRRA) after requests from the Queensland Government and briefings from officers on the impact of the floods on local communities.</p>
 <p>The Australian Government will continue to work with the Queensland Government to help families and businesses in Mackay get back on their feet.</p>
@@ -25,6 +15,4 @@
 <p>Under the personal hardship provisions, people affected by flooding in these local government areas can apply for grants of up to $160 per person and $740 per family for essentials such as food, dry clothes and accommodation.</p>
 <p>Assistance for affected producers and small business is in the form of concessional loans of up to $150,000 as well as the new grants announced today.</p>
 <p>Eligible producers can also apply for up to 50 per cent of their total freight costs.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

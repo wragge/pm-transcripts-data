@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16661</transcript-id>
-    <title>Governments working together to protect the Great Barrier Reef    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today marks the start of a new era of cooperation between the Australian and Queensland governments to protect the internationally significant Great Barrier Reef.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16661</transcript-id><title>Governments working together to protect the Great Barrier Reef    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today marks the start of a new era of cooperation between the Australian and Queensland governments to protect the internationally significant Great Barrier Reef.</p>
 <p>The Great Barrier Reef Intergovernmental Agreement, signed by Prime Minister Rudd and Premier Bligh, will underpin efforts by the two governments to protect the Reef from threats such as climate change and declining water quality in the Reef catchment.</p>
 <p>The agreement replaces the 1979 “Emerald Agreement” signed by then Prime Minister Fraser and Premier Bjelke-Petersen.</p>
 <p>The agreement provides a framework for the governments to work together to confront challenges never even contemplated in 1979. Nowhere is this more true than in relation to climate change - now the single most significant threat to the future of the Reef.</p>
@@ -20,6 +10,4 @@
 <p>Implementation of the Agreement will be driven by the Great Barrier Reef Ministerial Council.</p>
 <p>The Council will meet on 3 July 2009 for the first time under the new Agreement to discuss the challenges facing the Reef and set in motion joint action by the Australian and Queensland governments.</p>
 <p>On the agenda for the Council is the new Reef Water Quality Protection Plan, a new agreement between the two Governments on how water quality going into the Great Barrier Reef Lagoon will be improved, and the actions they will take to protect this internationally significant icon.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

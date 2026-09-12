@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15452</transcript-id>
-    <title>Peninsula Development Road</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/05/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to announce today that the Australian Government will formally offer a further $10 million from the AusLink Strategic Regional Program towards the upgrading of the Peninsula Development Road from Lily Creek to Crocodile Gap.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15452</transcript-id><title>Peninsula Development Road</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/05/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to announce today that the Australian Government will formally offer a further $10 million from the AusLink Strategic Regional Program towards the upgrading of the Peninsula Development Road from Lily Creek to Crocodile Gap.</p>
 <p>This particular project is designed to seal around 30 kilometres of road between Lakeland and Laura, and gives a firm practical starting point for the future long-term upgrading of the Peninsula Development Road.</p>
 <p>I wish to commend the Cook Shire Council, who have submitted an AusLink Strategic Regional application for these works. They will shortly be receiving their formal funding offer.</p>
 <p>Our $10 million funding offer is sourced from the $250 million AusLink Strategic Regional road funding announced on Budget night and is aimed at boosting productivity in regional economies.</p>
@@ -18,6 +8,4 @@
 <p>Additionally, following massive damage to the Peninsula Development Road caused by cyclones last year, I announced that the Australian Government would initiate - in conjunction with the Queensland Government - a study of the feasibility and cost of upgrading the Peninsula Development Road.</p>
 <p>While the time taken by Queensland to prepare the actual study document has taken much longer than the Australian Government would like, they have now finally provided us with a draft copy.</p>
 <p>The finalised study will inform any future considerations of the Australian Government on future upgrading of the Peninsula Development Road.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

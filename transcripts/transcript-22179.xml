@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22179</transcript-id>
-    <title>Doorstop Interview Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/03/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22179</transcript-id><title>Doorstop Interview Melbourne </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/03/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>So you had a phone call from George Bush this morning?</p>
 <p>PRIME MINISTER:</p>
 <p>Yes the President rang to express his concern about the Cyclone Larry in North Queensland and to enquire about the extent of the damage and said that if there was any assistance that we needed, the United States would be willing to provide it. Of course we are able ourselves to look after this. But it was a very generous, thoughtful gesture on his part and I thank him for it. We also took the opportunity to discuss a number of issues. We talked about the situation in Iraq. We both agreed that the sooner there was a government formed in Iraq, representative of all of the interests, the better. We also talked about developments in relation to Iran, the recent nuclear power agreement between the United States and India and a number of other issues affecting the world. But most of our non-cyclone discussion related to Iraq and Iran.</p>
@@ -31,6 +21,4 @@
 <p>Well we talked about the nature of the agreements and the reasons why he entered into it and the advantages of India's civil nuclear capacity being placed under international inspection. We both agreed that was a very significant step forward and we both of course agreed that India is going to bulk much larger in the affairs of the region because of the enormous economic growth that country is enjoying.</p>
 <p> Thank you.</p>
 <p> [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

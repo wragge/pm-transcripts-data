@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12189</transcript-id>
-    <title>Prime Minister&#039;s Environmentalist of the Year Award </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/06/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A champion of healthy rivers and leading spokesman on salinity and water issues, Professor Peter Cullen, has won the Prime Minister's Award for Environmentalist of the Year 2001.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12189</transcript-id><title><![CDATA[Prime Minister&#039;s Environmentalist of the Year Award ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/06/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A champion of healthy rivers and leading spokesman on salinity and water issues, Professor Peter Cullen, has won the Prime Minister's Award for Environmentalist of the Year 2001.</p>
 <p>I am delighted to make the award to this eminent Australian.</p>
 <p>Professor Cullen is Chief Executive of the Cooperative Research Centre for Freshwater Ecology and Professor of Resource &amp; Environmental Science at the University of Canberra.</p>
 <p>He has advised many federal and local governments and other decision makers on water issues and has chaired or participated in scores of groups ranging from the Prime Minister's Science, Engineering &amp; Innovation Council and the National Science Forum to the Scientific Advisory Committee, National Parks, Victoria.</p>
@@ -18,6 +8,4 @@
 <p>By making this award, I hope not only to honour his achievements, but also to lend him my support as he helps implement the $1.4 billion National Action Plan for Salinity and Water Quality. The plan is a joint Federal, State and Territory initiative with $700 million in Commonwealth support over seven years.</p>
 <p>The Prime Minister's Award for Environmentalist of the Year 2001 will be presented on my behalf by Environment Minister Robert Hill at the Banksia Environmental Awards at Canberra's National Museum of Australia on 2 June, as part of Australia's celebrations of World Environment Day.</p>
 <p>2 June 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

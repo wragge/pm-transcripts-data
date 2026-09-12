@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20571</transcript-id>
-    <title>Message of Condolence for the Loss of the Shuttle Columbia  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/02/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On behalf of all Australians, I wish to extend to the American people my deepest condolences for the loss of the Space Shuttle Columbia and her crew over the skies of Texas on 1 February. Our thoughts today are with the families and loved ones of those who perished.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20571</transcript-id><title>Message of Condolence for the Loss of the Shuttle Columbia  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/02/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On behalf of all Australians, I wish to extend to the American people my deepest condolences for the loss of the Space Shuttle Columbia and her crew over the skies of Texas on 1 February. Our thoughts today are with the families and loved ones of those who perished.</p>
 <p> This is a tragedy that affects us all. Space exploration is a universal endeavour which the United States has taken forward on behalf of all mankind. In this spirit, Columbia provided a platform for vigorous international scientific collaboration on a number of important projects. Columbia was also carrying an experiment designed by Melbourne schoolchildren, the latest chapter in a long Australian involvement in the shuttle programme.</p>
 <p>Over the past two years the United States has faced unexpected adversity with a steady determination not to be cowed but to overcome. I have no doubt that America's commitment to the exploration of space and its possibilities for all humanity will not be undone by this setback.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

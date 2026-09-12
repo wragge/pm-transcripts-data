@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18102</transcript-id>
-    <title>Nominations open for new People of Australia Ambassadors</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18102</transcript-id><title>Nominations open for new People of Australia Ambassadors</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australians can now nominate their own local champions who have helped to promote inclusion and strengthen community relations under a new ambassador program set up by the Gillard Labor Government.</p>
 <p>The People of Australia Ambassador program will see up to 40 local champions selected from nominations submitted by the public across the country.</p>
 <p>The ambassador program is a key initiative of the Gillard Government's new multicultural policy -The People of Australia - announced earlier this year.</p>
@@ -20,6 +10,4 @@ Australians can now nominate their own local champions who have helped to promot
 <p>Nominations for the Ambassador roles need to be submitted before 7 October.</p>
 <p>All nominations will be considered by the Australian Multicultural Council.</p>
 <p>For more information on the program and nomination process, go to <a href="http://www.amc.gov.au">www.amc.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

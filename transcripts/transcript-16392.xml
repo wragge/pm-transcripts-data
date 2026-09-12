@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16392</transcript-id>
-    <title>Rudd Government helps Queensland supply flood isolated towns   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government has today activated the Commonwealth Disaster Plan, approving the delivery of urgently-needed aviation fuel to flood-affected communities in Far North Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16392</transcript-id><title>Rudd Government helps Queensland supply flood isolated towns   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government has today activated the Commonwealth Disaster Plan, approving the delivery of urgently-needed aviation fuel to flood-affected communities in Far North Queensland.</p>
 <p>The fuel will keep local communities supplied with essential goods.</p>
 <p>Vast areas of Queensland are now flooded, with towns such as Ingham and Karumba cut off completely from ground transport. This situation is likely to continue for some time. </p>
 <p>Given the seriousness of the situation, the Queensland Government has requested this assistance and the Rudd Government has immediately provided it.</p>
@@ -19,6 +9,4 @@
 <p>The Rudd and Bligh Governments are also providing assistance to 35 disaster-declared shires through the Natural Disaster Relief and Recovery Arrangements.</p>
 <p>This includes personal hardship and distress payments of $165 per eligible person and up to $765 per family. Means-tested Essential Household Contents Grants, worth $1635 for individuals or $4910 for a couple or family, are also available.</p>
 <p>Residents in need should call the Queensland Department of Communities on 1800 173 349 to get information on whether the grants apply to them.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

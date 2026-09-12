@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23355</transcript-id>
-    <title>Doorstop Interview, Port Moresby</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/03/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Visit to Port Moresby,  Malaysian Airlines flight.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23355</transcript-id><title>Doorstop Interview, Port Moresby</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/03/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Visit to Port Moresby, Malaysian Airlines flight.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>The visit to PNG is about to conclude. I think it’s been a very successful visit. I’ve been thrilled at the warmth of the welcome at all levels but particularly from Prime Minister Peter O’Neill and his government. This is in fact the longest and the most extensive visit by an Australian Prime Minister in almost a quarter century. The last time we had such a trip was back in 1990 under Bob Hawke.</p>
 <p>Just before I conclude, I think I should give you an update on the search in the Southern Indian Ocean. Over the last 24 hours there have been three significant developments. New satellite imagery, new Chinese satellite imagery does seem to suggest at least one large object down there consistent with the object that earlier satellite imagery discovered which I told the Australian Parliament about last week. Yesterday one of our civilian search aircraft got visuals on a number of objects in a fairly small area in the overall Australian search zone. Finally the search is being joined today by four additional aircraft – two Chinese aircraft and two Japanese Orions.</p>
 <p>I want to say that this is a really big international effort and it does show that many countries are capable of pulling together in a time of trouble. It is a very important humanitarian exercise. We owe it to the almost 240 people on board the plane, we owe it to their grieving families, we owe it to the governments of the countries concerned to do everything we can to discover as much as we can about the fate of MH370.</p>
@@ -31,6 +21,4 @@
 <p>It’s still too early to be definite but obviously we have now had a number of very credible leads and there is increasing hope, no more than hope, no more than hope, that we might be on the road to discovering what did happen to this ill-fated aircraft.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

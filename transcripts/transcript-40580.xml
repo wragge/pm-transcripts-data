@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40580</transcript-id>
-    <title>75th Anniversary of the Australian War Memorial</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>11/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40580</transcript-id><title>75th Anniversary of the Australian War Memorial</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>11/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>The Director Brendan Nelson, Chairman Kerry Stokes and Christine, and of course [inaudible] is here, Michael Jeffrey, our former Governor-General Major General, former Prime Minister Bob Hawke, Kim, who I have mentioned, the Foreign Minister, our very good friend Julie Bishop, Minister for Veterans Affairs Dan Tehan, Richard Marles, defence chiefs, distinguished guests, ladies and gentlemen.</p>
 <p>But above all, those who have served and those who are serving today, we are honoured to be in your company. We are honoured to be in your company tonight.</p>
 <p>Tonight, the night of Remembrance Day, 98 years ago the guns fell silent in the First World War.</p>
@@ -41,6 +31,4 @@
 <p>I am honoured to be here, to join with you and celebrate its 75th anniversary. And invite you all now to rise to toast the Australian War Memorial. 75 years!</p>
 <p>[ENDS]</p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

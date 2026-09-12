@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10902</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS TO INDIAN ASSOCIATION, MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10902</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS TO INDIAN ASSOCIATION, MELBOURNE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.................................................................................................</p>
 <p>Thank you very much Dr Aurora. To my colleagues, Philip Ruddock,</p>
 <p>   the Minister for Immigration and Multicultural Affairs, to Senator</p>
 <p>   Rod Kemp, to Mrs Leonie Bourke, to Mr John Thwaites, other distinguished</p>
@@ -183,6 +173,4 @@
 <p>   which ultimately, in 1971, became three. Thank you again for being</p>
 <p>   such wonderful Australians. Let us all live together in harmony</p>
 <p>   and tolerance and understanding. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

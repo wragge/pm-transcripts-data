@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41313</transcript-id>
-    <title>Press Conference with Senator the Hon. Mathias Cormann, Minister for Finance</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41313</transcript-id><title>Press Conference with Senator the Hon. Mathias Cormann, Minister for Finance</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>The Australian people have spoken in their millions and they have voted overwhelmingly ‘yes’ for marriage equality.</p>
 <p>They voted ‘yes’ for fairness. They voted ‘yes’ for commitment. They voted ‘yes’ for love.</p>
 <p>Now it is up to us, here in the Parliament of Australia, to get on with it. To get on with the job the Australian people have tasked us to do and get this done, this year, before Christmas. That must be our commitment.</p>
@@ -80,6 +70,4 @@
 <p>And what they want us to do is to get on with it and get it done!</p>
 <p>Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

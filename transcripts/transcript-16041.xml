@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16041</transcript-id>
-    <title>Interview with Chris Uhlmann, ABC AM Program   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16041</transcript-id><title>Interview with Chris Uhlmann, ABC AM Program   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Prime Minister good morning.</p>
 <p>PM: Good morning Chris</p>
 <p>UHLMANN:    Is this the slow down we had to have?</p>
 <p>PM: We're facing very difficult global economic conditions. I think we have just got to acknowledge that fact Chris. The bottom line is we have an impact on the global economy flowing through to Australia from the credit crisis coming out of the US sub prime.</p>
@@ -43,6 +33,4 @@
 <p>That will be painful and difficult on the way through as well, but we believe that we have done the right thing. On the question of specific advices from the bureaucracy I'm sure there's a thousand of them, that's the right way to in fact do public policy in Australia, not lock the bureaucracy or anybody else out.</p>
 <p>UHLMANN: Prime Minister thank you</p>
 <p>PM: Thanks very much   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

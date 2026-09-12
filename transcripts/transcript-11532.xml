@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11532</transcript-id>
-    <title>Doorstop Interview at Claridges Hotel, London, England </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:- tax reform, Federation, Wimbledon.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11532</transcript-id><title>Doorstop Interview at Claridges Hotel, London, England </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:- tax reform, Federation, Wimbledon.</p>
 <p>E&amp;OE</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, does the relative ease that which the GST appears to have been changed over vindicate your visit here to London?</p>
@@ -54,6 +44,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well, I thought I might go to Hyde Park. I'd better speak to my advisers on that. Thank you.</p>
 <p>Ends.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41619</transcript-id>
-    <title>Interview with Kieran Gilbert, Sky News</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/05/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Federal Budget; Iran nuclear agreement; North Korea</subjects>
-    <content><![CDATA[<p><strong>KIERAN GILBERT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41619</transcript-id><title>Interview with Kieran Gilbert, Sky News</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/05/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Federal Budget; Iran nuclear agreement; North Korea</subjects><content><![CDATA[<p><strong>KIERAN GILBERT:</strong></p>
 <p>Joining me on First Edition now, the Prime Minister Malcolm Turnbull. Mr Turnbull thanks very much for your time.</p>
 <p>Is the message to Bill Shorten “it’s all or nothing” when it comes to the income tax plan?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -106,6 +96,4 @@
 <p>Prime Minister as always appreciate your time, thanks.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Great to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

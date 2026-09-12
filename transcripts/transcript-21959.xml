@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21959</transcript-id>
-    <title>Australian Nobel Prize Winners  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/10/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is with great pleasure and pride that I congratulate Australian researchers Professor Barry Marshall and Dr Robin Warren on being jointly awarded the 2005 Nobel Prize in Physiology or Medicine.  The award recognises their ground-breaking discovery of  the bacterium Helicobacter pylori and the role it plays in inflammation of the stomach (gastritis) and in ulcers in the stomach or duodenum (peptic ulcer disease).</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21959</transcript-id><title>Australian Nobel Prize Winners  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/10/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is with great pleasure and pride that I congratulate Australian researchers Professor Barry Marshall and Dr Robin Warren on being jointly awarded the 2005 Nobel Prize in Physiology or Medicine.  The award recognises their ground-breaking discovery of  the bacterium Helicobacter pylori and the role it plays in inflammation of the stomach (gastritis) and in ulcers in the stomach or duodenum (peptic ulcer disease).</p>
 <p>Dr Warren and Professor Marshall discovered Helicobacter pylori in 1982 and have since established that this bacterium, and not stress, causes more than 90 per cent of duodenal ulcers and up to 80 per cent of gastric ulcers.  This bacterium colonises the stomach of half the world's population.</p>
 <p>As a result of this remarkable discovery by Professor Marshall and Dr Warren, peptic ulcer disease is no longer a chronic condition and no longer need be a disabling disease.  It can now be treated relatively quickly and effectively using antibiotics and other medications.</p>
 <p>This wonderful achievement, and recognition by the Nobel Assembly at the Karolinska  Institute in Sweden, is testament to the wonderful scientists we have in this country who make such a terrific contribution to our lives and the lives of those around the world.</p>
 <p>This award is something of which all Australians can be immensely proud.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

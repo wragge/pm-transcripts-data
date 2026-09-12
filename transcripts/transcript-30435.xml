@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>30435</transcript-id>
-    <title>Television Interview with Kerry O’Brien, 7:30 Report, ABC TV </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>7 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>30435</transcript-id><title>Television Interview with Kerry O’Brien, 7:30 Report, ABC TV </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>7 September 1999</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p><i>SUBJECTS: East Timor</i></p>
 <p><b>O’BRIEN:</b></p>
@@ -75,6 +65,4 @@
 <p><b>O’BRIEN:</b></p>
 <p>John Howard, thank you very much for talking with us.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

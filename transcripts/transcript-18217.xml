@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18217</transcript-id>
-    <title>Launch of Australian Mining Initiative</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18217</transcript-id><title>Launch of Australian Mining Initiative</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today launched the Australian Government's Mining for Development Initiative to help developing countries use their natural resources to improve their economies in a sustainable manner.</p>
 <p>Australia is an expert in developing mineral commodities using environmentally responsible practices. </p>
 <p>This initiative will draw on expertise from across government, industry and academia in Australia to help more than 30 developing countries in Africa, Asia-Pacific and Latin America address mining-related challenges.</p>
@@ -25,6 +15,4 @@ Prime Minister Julia Gillard today launched the Australian Government's Mining f
 <p>·         $20 million over four years to see Federal and State Government agencies to work more closely with their counterparts in developing countries to improve public sector capacity in mining regulation and administration.</p>
 <p>·         $22 million to support select NGO's already active in social and environmentally sustainable activities in mining.</p>
 <p>Further elements of the package will be announced in coming days.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

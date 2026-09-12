@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41570</transcript-id>
-    <title>Commonwealth Heads of Government Meeting and European Leaders’ meetings</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/04/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This week I will travel to London to attend the Commonwealth Heads of Government Meeting (CHOGM) and then continue onto Europe to meet with leaders in Germany, Belgium and France.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41570</transcript-id><title>Commonwealth Heads of Government Meeting and European Leaders’ meetings</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/04/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This week I will travel to London to attend the Commonwealth Heads of Government Meeting (CHOGM) and then continue onto Europe to meet with leaders in Germany, Belgium and France.</p>
 <p>This trip comes at a crucial time. Chemical weapons attacks in Syria and on the streets of England have sparked a strong and united response from Australia and our allies.</p>
 <p>Alongside Prime Minister Theresa May, I will explore ways to further strengthen our cooperation on intelligence and security.</p>
 <p>We will discuss ongoing threats from terrorism, foreign interference and malicious cyber actors, as well as uncertainty in the Korean Peninsula.</p>
@@ -19,6 +9,4 @@
 <p>The economic and security relationship between Germany and Australia is strong – particularly in our defence industries. Just last month, I announced a $5.2 billion contract with German firm Rheinmetall to manufacture combat reconnaissance vehicles for the Australian Defence Force. This contract is an important part of Australia’s defence modernisation program.</p>
 <p>In Brussels, I look forward to meeting with NATO Secretary General Jens Stoltenberg and the President of the European Commission Jean-Claude Juncker to discuss our security and trade relationships, including the Australia – EU free trade agreement, and Australia’s contribution to NATO operations in Afghanistan.</p>
 <p>My visit will conclude in Villers-Bretonneux, where French Prime Minister Édouard Philippe and I will officially open the Sir John Monash Centre, a new museum honouring those Australians who served on the Western Front during the First World War. While in Villers-Bretonneux, I will also attend the Anzac Day dawn service commemorating one hundred years since Australian units bravely led a counter attack to successfully defend the village.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

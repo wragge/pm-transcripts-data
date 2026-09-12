@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23356</transcript-id>
-    <title>A message from the Prime Minister - Our plan for more jobs</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/03/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This is the last sitting week of Parliament before the Government hands down the Budget.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23356</transcript-id><title>A message from the Prime Minister - Our plan for more jobs</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/03/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This is the last sitting week of Parliament before the Government hands down the Budget.</p>
 <p>So we are focusing on the economic fundamentals: Lower taxes, less red tape, better infrastructure and more trade.</p>
 <p>I’ve just been in Papua New Guinea where I signed an Economic Cooperation Treaty with our nearest neighbour.</p>
-<p>Soon, I’ll be leading the largest ever Australian trade delegation to China, Japan and South Korea with hundreds of large, medium and small Australian businesses represented.  I’ve invited the Premiers and Chief Ministers to join me – because we all know the contribution that trade makes to jobs.</p>
+<p>Soon, I’ll be leading the largest ever Australian trade delegation to China, Japan and South Korea with hundreds of large, medium and small Australian businesses represented.&nbsp; I’ve invited the Premiers and Chief Ministers to join me – because we all know the contribution that trade makes to jobs.</p>
 <p>This week Parliament will also hold the first ever red tape repeal day – over 10,000 regulations and laws are going – and that will save over $700 million a year, every year.</p>
 <p>As we get closer to the Budget, there will be plenty of speculation but I want to make these things clear:</p>
 <p>First, we will honour our commitments and deliver our plan for a strong, prosperous economy.</p>
@@ -20,6 +10,4 @@
 <p>Third, we will be making the decisions needed to strengthen our economy so there are more jobs and less pressure on families.</p>
 <p>You can’t fix the economy without fixing the budget; that’s what you elected us to do.</p>
 <p>23 March 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

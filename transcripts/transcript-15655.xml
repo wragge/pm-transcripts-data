@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15655</transcript-id>
-    <title>Press Conference Parliament House, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/01/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15655</transcript-id><title>Press Conference Parliament House, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/01/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Ministerial Changes, Iraq, David Hicks</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -214,6 +204,4 @@ Ministerial Changes, Iraq, David Hicks</p>
 <p>PRIME MINISTER:  </p>
 <p>I don't think it says anything either way.  I don't think talented women in the Liberal Party do these sums every time there's an adjustment made; I think that is a rather patronising, old fashioned view to take.  Most of the talented women in the Liberal Party take the view that you've got to make decisions. Sometimes they fall in favour of more women, sometimes they don't.  Thank you. </p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

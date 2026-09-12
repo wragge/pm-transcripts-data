@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19199</transcript-id>
-    <title>Applications Open for AsiaBound Study</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/04/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Hainan Island, People's Republic of China</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19199</transcript-id><title>Applications Open for AsiaBound Study</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/04/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Hainan Island, People's Republic of China</p>
 <p>Australian tertiary students will get the opportunity to study in Asia as part of the new AsiaBound program, which opens today to higher education and vocational education and training (VET) institutions.</p>
 <p>Prime Minister Julia Gillard and Tertiary Education Minister Craig Emerson said AsiaBound was part of the Gillard Government's implementation of initiatives flowing from the White Paper on Australian in the Asian Century, released in October last year.</p>
 <p>This innovative program reflects the Gillard Government's commitment to deeper regional engagement, as set out in the Paper.</p>
@@ -26,7 +16,5 @@
 <p>In 2014, around 50 scholars are again expected to travel to or from China under the program, another step toward the 12,000 Asian Century Australia Awards expected over the next five years</p>
 <p>Guidelines for both programs can be found at:</p>
 <p><a href="http://www.aei.gov.au/asiabound">www.aei.gov.au/asiabound</a> </p>
-<p><a href="http://www.innovation.gov.au/InternationalEducation/EndeavourAwards/Pages/default.aspx">www.innovation.gov.au/InternationalEducation/EndeavourAwards/Pages/defau...</a> </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><a href="http://www.innovation.gov.au/InternationalEducation/EndeavourAwards/Pages/default.aspx">www.innovation.gov.au/InternationalEducation/EndeavourAwards/Pages/defa…</a> </p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15963</transcript-id>
-    <title>Press Conference, Imperial Hotel, Tokyo   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Therese and I have been overwhelmed by the positive response which we've received personally in our visit in Japan. And also the positive response which we've received in the name of Australia here in Japan. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15963</transcript-id><title>Press Conference, Imperial Hotel, Tokyo   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Therese and I have been overwhelmed by the positive response which we've received personally in our visit in Japan. And also the positive response which we've received in the name of Australia here in Japan. </p>
 <p>Whether it's in Hiroshima, whether it's in Kyoto, whether it's in Nagoya, whether it's in Yokohama or whether it's here in Tokyo.</p>
 <p>One of the things that we've discussed in the last 24 hours with several groups of Japanese leaders is the absolute importance of expanding the knowledge of Japanese language in Australia.</p>
 <p>I've indicated to our Japanese hosts that we have some 377,000 students of Japanese in Australian schools.</p>
@@ -84,6 +74,4 @@
 <p>JOURNALIST: Does she owe the parliament an explanation as her husband has been required to do in New South Wales?</p>
 <p>PM: I think the important thing here is to deal with the immediacy of what I've described before as what appears to be an unacceptable pattern of behaviour. And then, secondly, look at how that is best dealt with in terms of her personal circumstances. Hence, the question of counselling, and beyond that, to reflect pretty soberly on the implications for all of this.</p>
 <p>As I said, no one, no one, is guaranteed of a future in politics. And I think all MPs, and all of our MPs, need to reflect on that fact.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

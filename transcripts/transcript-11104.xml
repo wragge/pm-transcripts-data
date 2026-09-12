@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11104</transcript-id>
-    <title>23 February 1999                                                   TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   RADIO INTERVIEW                 ALAN JONES, 2UE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/02/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11104</transcript-id><title>23 February 1999                                                   TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   RADIO INTERVIEW                 ALAN JONES, 2UE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/02/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>JONES:</p>
 <p>The Prime Minister is on the line in our studio in Canberra. Prime</p>
 <p> Minister, good morning.</p>
@@ -334,6 +324,4 @@
 <p> careful in talking about summits because no matter what the issue</p>
 <p> is or no matter how well prepared, some people do grandstand at summits.</p>
 <p>JONES:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

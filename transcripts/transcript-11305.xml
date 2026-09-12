@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11305</transcript-id>
-    <title>WORLD HEALTH ORGANISATION INDEPENDENT REPORT RAISES QUESTIONS             OVER SWISS HEROIN TRIAL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/05/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A new World Health Organisation (WHO) commissioned evaluation of the</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11305</transcript-id><title>WORLD HEALTH ORGANISATION INDEPENDENT REPORT RAISES QUESTIONS             OVER SWISS HEROIN TRIAL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/05/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A new World Health Organisation (WHO) commissioned evaluation of the</p>
 <p> Swiss heroin trial has cast significant doubt over previous claims</p>
 <p> about the benefits of the trial.</p>
 <p>The WHO report entitled Report of the External Panel on the Evaluation</p>
@@ -70,6 +60,4 @@
 <p> On Drugs strategy which has already directed more than $60 million</p>
 <p> to treatment and rehabilitation services is of far greater long term</p>
 <p> benefit to drug users and will save far more lives than a heroin trial.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

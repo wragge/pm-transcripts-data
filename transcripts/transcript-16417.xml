@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16417</transcript-id>
-    <title>Australian Government assistance for flood victims in NSW    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has today announced assistance measures for the people of Bourke and surrounding areas following extensive flooding in the region.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16417</transcript-id><title>Australian Government assistance for flood victims in NSW    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has today announced assistance measures for the people of Bourke and surrounding areas following extensive flooding in the region.</p>
 <p>Following the activation of the Natural Disaster Relief and Recovery Arrangements, the Rudd Government will reimburse the New South Wales Government for the following measures that will be provided to eligible people and businesses:</p>
 <p>     * Personal hardship and distress assistance to people who have damaged property; </p>
 <p>     * Concessional interest rate loans to eligible primary producers, small businesses, and voluntary non-profit bodies to restore facilities damaged or destroyed;</p>
@@ -20,6 +10,4 @@
 <p>The Australian Government stands ready to provide additional support to the people of New South Wales if required during this difficult time.</p>
 <p>Approximately 200 mm of rain fell in a 15 hour period on Friday 13 February. This is the equivalent of two-thirds of Bourke's annual rainfall.</p>
 <p>Many people remain seriously affected by the flooding, with predictions of further significant rainfall in the next 24 hours.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

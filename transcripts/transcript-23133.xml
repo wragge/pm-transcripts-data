@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23133</transcript-id>
-    <title>A fairer funding agreement for schools </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Following negotiations with Queensland, Western Australia and the Northern Territory the Government has secured a national agreement on school funding.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23133</transcript-id><title>A fairer funding agreement for schools </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Following negotiations with Queensland, Western Australia and the Northern Territory the Government has secured a national agreement on school funding.</p>
 <p>The Coalition is committed to ensuring a fairer funding arrangement for schools nationally, whether a deal was signed with the former Labor government or not.</p>
 <p>We will restore the $1.2 billion funding cut by Labor – bringing total additional school funding over the next four years to $2.8 billion – ensuring no State or Territory misses out.</p>
 <p>We will implement a funding model that is national, fair and needs based while getting rid of the prescriptive command and control features that removed authority for schools from States, Territories and the non-government sector.</p>
@@ -18,6 +8,4 @@
 <p>The Government will also honour funding promised to non-government representative bodies for four years including $55 million to Catholic Education Commissions and $110 million to the Association of Independent Schools.</p>
 <p>The Government is keeping its commitments on school funding and delivering more funding over the next four years than promised by Labor.</p>
 <p>2 December 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

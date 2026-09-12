@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17189</transcript-id>
-    <title>New national four hour target for hospital emergency departments    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will set a new National Four Hour Target for emergency department access in public hospitals under its new National Health and Hospitals Network.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17189</transcript-id><title>New national four hour target for hospital emergency departments    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will set a new National Four Hour Target for emergency department access in public hospitals under its new National Health and Hospitals Network.</p>
 <p>To help public hospitals reach the new Four Hour Target, the Government will invest $500 million, the equivalent of an additional 1.2 million emergency department services.</p>
 <p>Financial incentives will be attached to these targets - where a state's public hospitals meet or beat the target, hospitals in that state will be eligible for additional health funding.</p>
 <p>Under the new Four Hour Target, public hospitals will be expected to ensure that patients who present to an emergency department are within four hours either:</p>
@@ -35,6 +25,4 @@
 <p>This initiative further builds on the Government's National Health and Hospitals Network reform plan, and our commitment to permanently fund 60 per cent of public hospital costs, 60 per cent of capital projects and 60 per cent of the teaching and research in our public hospitals.</p>
 <p>It also complements our investments in GP Super Clinics and growing the GP workforce to ensure more people can get access to care closer to home, rather than having to rely on emergency departments for less serious conditions.</p>
 <p>Today's announcement underlines the Government's commitment to lifting national standards through the establishment of the National Health and Hospitals Network, and improving access and timely care for all Australians in emergency departments and in public hospitals across Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

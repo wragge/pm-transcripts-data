@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24431</transcript-id>
-    <title>Re-election of Prime Minister Cameron</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I congratulate David Cameron and the British Government on its re-election. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24431</transcript-id><title>Re-election of Prime Minister Cameron</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I congratulate David Cameron and the British Government on its re-election. </p>
 <p>Britain is the home of modern democracy. </p>
 <p>Our close cultural and other ties, mean that many Australians have followed this campaign with a close interest.</p>
 <p>Our ties are deeper than party: Australia and the United Kingdom always work for a better and safer world, no matter who holds government.</p>
@@ -20,6 +10,4 @@
 <p>Britain is now one of the fastest growing major economies in the world.</p>
 <p>It is a unique privilege to serve one’s country and I wish Prime Minister Cameron well for his second term.</p>
 <p>9 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

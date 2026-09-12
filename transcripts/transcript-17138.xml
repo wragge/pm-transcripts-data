@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17138</transcript-id>
-    <title>Prime Minister Speech Launch of the National Compact with the Third Sector Parliament House, Canberra 17 March 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/03/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17138</transcript-id><title>Prime Minister Speech Launch of the National Compact with the Third Sector Parliament House, Canberra 17 March 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/03/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
 <p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>Today is an historic occasion. Today we launch the National Compact: Working Together. Today marks a new era of collaboration between the Australian Government and community and not-for-profit organisations - the groups we often refer to as the Third Sector.</p>
 <p>This compact sets the framework for all of the Government's work with Third Sector organisations as we tackle some of the greatest challenges facing Australia, an era of collaboration that will fundamentally strengthen and improve the way we work together, that will strengthen civil society and that will help the organisations which help many of the most needy and disadvantaged people in Australia.</p>
@@ -65,6 +55,4 @@
 <p>This Compact sets benchmarks for an active partnership between Government and the Third Sector - a true partnership, where those who advocate on the part of the vulnerable and the dispossessed are not silenced and gagged, but where their opinions are heard and respected and they can make an even greater contribution to building Australia's future.</p>
 <p>This is our National Compact.</p>
 <p>I thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

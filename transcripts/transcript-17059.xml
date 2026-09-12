@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17059</transcript-id>
-    <title>Help at hand for homeless Australians wih a mental illness    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/02/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today unveiled details of a $10 million boost to the Personal Helpers and Mentors (PHaMs) program, to give homeless Australians with a severe mental illness greater access to one-on-one support.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17059</transcript-id><title>Help at hand for homeless Australians wih a mental illness    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/02/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today unveiled details of a $10 million boost to the Personal Helpers and Mentors (PHaMs) program, to give homeless Australians with a severe mental illness greater access to one-on-one support.</p>
 <p>Six new services will be established in communities with significant homeless populations in New South Wales, South Australia, Victoria and Western Australia to help people with a mental illness who are homeless, or at risk of homelessness.</p>
 <p>In addition, six new dedicated homelessness workers will be shared among four existing PHaMs sites in Victoria and Queensland to work solely with homeless clients in these areas.</p>
 <p>In total, 36 additional personal mentors will be on the ground by mid 2010 to provide intensive assistance to homeless Australians with a severe mental illness.</p>
@@ -42,6 +32,4 @@
 <p>Rockhampton, QLD $ 438,930</p>
 <p>Inner Brisbane, QLD $ 396,420</p>
 <p>Total $ 1,670,700</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

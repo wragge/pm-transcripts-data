@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>9999</transcript-id>
-    <title>Gun Control</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/05/1996</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00009999.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GUN CONTROL<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>9999</transcript-id><title>Gun Control</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/05/1996</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00009999.pdf</document><subjects></subjects><content><![CDATA[<p>GUN CONTROL<br>
 The Commonwealth and the States and Territories today agreed on a uniform and tougher approach to gun laws which will make Australia a safer place to live. </p>
 <p>The agreement includes a ban on automatic and semi-automatic rifles and shotguns and a nationwide approach to registration and licensing. </p>
 <p>This is an historic moment for all Australians still reeling from the fatal shootings at Port Arthur. </p>
 <p>The Australian community demanded urgent and effective action on tougher gun laws and today all governments have answered that call with a comprehensive action plan which will deliver effective nationwide controls. </p>
 <p>Wc have agreed to prohibit the importation, ownership, sale, resale, transfer, possession, manufacture or use of: </p>
-<p>- all military-style centre-fire rifles including those which substantially duplicate military styles;<br />
-- all other self-loading centre-fire rifles;<br />
-- all self-loading and pump-action shotguns and<br />
+<p>- all military-style centre-fire rifles including those which substantially duplicate military styles;<br>
+- all other self-loading centre-fire rifles;<br>
+- all self-loading and pump-action shotguns and<br>
 - all self-loading rim fire rifles. </p>
 <p>The importation ban will be effective immediately. </p>
 <p>The exceptions will be a limited range of official or occupational purposes certified by a permit. </p>
@@ -29,6 +19,4 @@ The Commonwealth and the States and Territories today agreed on a uniform and to
 <p>Stringent storage requirements and compulsory safety training for first time licence applicants will be introduced in all jurisdictions. </p>
 <p>There will be tight controls on the sale, advertising for sale and transfer of all firearms and ammunition both within jurisdictions and between them. </p>
 <p>10 May 1996 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

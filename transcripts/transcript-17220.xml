@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17220</transcript-id>
-    <title>Transcript of interview Sunrise   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17220</transcript-id><title>Transcript of interview Sunrise   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 KOCH: The PM is with us now. Congratulations.</p>
 <p>PM: That's 'cos Therese tweeted first.</p>
 <p>KOCH: She broke the embargo?</p>
@@ -81,6 +71,4 @@ KOCH: The PM is with us now. Congratulations.</p>
 <p>PM: Okay, sounds good.</p>
 <p>KOCH: Mate, congratulations, and pass on our best to Therese as well.</p>
 <p>PM: Nick will be over the moon. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

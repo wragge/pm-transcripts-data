@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18733</transcript-id>
-    <title>COAG to review counter-terrorism legislation</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/08/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18733</transcript-id><title>COAG to review counter-terrorism legislation</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/08/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard today announced the start of the COAG Review of Counter-Terrorism Legislation.</p>
 <p>The Review will examine the Commonwealth, State and Territory counter-terrorism legislation that was introduced in 2005 after the London terrorist bombings. </p>
 <p>It will look at control orders, preventative detention and certain emergency stop, question and search powers held by police.</p>
@@ -22,6 +12,4 @@
 <p>While the Monitor's role is separate, the Review Committee will liaise with the Monitor, Mr Bret Walker SC, on this review.</p>
 <p>The review has no relationship to the Parliamentary Joint Committee on Intelligence and Security's examination of potential national security reforms.</p>
 <p>More information on the details of the Review, including the legislation the Review will cover and opportunities for public consultation can be found at <a href="http://www.coagctreview.gov.au">www.coagctreview.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

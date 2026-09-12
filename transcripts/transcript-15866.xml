@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15866</transcript-id>
-    <title>Australia&#039;s New Governor General    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that The Queen, on my recommendation as Prime Minister of Australia, has approved the appointment of Her Excellency Ms Quentin Bryce AC as the next Governor-General of Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15866</transcript-id><title><![CDATA[Australia&#039;s New Governor General    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that The Queen, on my recommendation as Prime Minister of Australia, has approved the appointment of Her Excellency Ms Quentin Bryce AC as the next Governor-General of Australia.</p>
 <p>Ms Bryce will succeed His Excellency Major General Michael Jeffery AC CVO MC (Rtd) on 5 September 2008 and be Australia's 25th Governor-General.</p>
 <p>Her Excellency Ms Bryce was appointed in July 2003 as the 24th Governor of Queensland. She has been an inspiring Governor and has served the people of Queensland with great distinction.</p>
 <p>Ms Bryce has an outstanding record of service to the entire Australian community. She is highly qualified for the role of Governor-General. Ms Bryce has enjoyed a rich and dynamic career as a lawyer, academic and senior public office holder.</p>
@@ -18,6 +8,4 @@
 <p>Although the appointment is at The Queen's pleasure, a five-year term is considered usual.</p>
 <p>Ms Bryce and her husband, Adjunct Professor Michael Bryce AM AE, were married in 1964. They have two daughters, three sons and five grandchildren.</p>
 <p>On behalf of the Government and the people of Australia, I extend very sincere congratulations to Ms Bryce.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

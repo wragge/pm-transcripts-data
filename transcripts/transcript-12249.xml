@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12249</transcript-id>
-    <title>Choosing Life: Coalition Commits $66 million to Fighting Suicide </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/11/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Coalition is committed to supporting the Australian community in the fight against the devastation of lives needlessly lost through suicide.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12249</transcript-id><title>Choosing Life: Coalition Commits $66 million to Fighting Suicide </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/11/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Coalition is committed to supporting the Australian community in the fight against the devastation of lives needlessly lost through suicide.</p>
 <p>Nearly 2500 Australians commit suicide every year and this tragedy takes an enormous toll on Australian families and is a great loss to our community.</p>
 <p>Today I am reaffirming the Coalition will continue the fight against suicide by building on the work and achievements to date.</p>
 <p>In 1999 we established the National Suicide Prevention Strategy. The Coalition will commit a further $40 million from 2002-03 to build on this strategy, with funds to help communities build local partnerships to protect their people against suicide. This brings the total funding to fight suicide to $66.4 million.</p>
@@ -27,6 +17,4 @@
 <p>Further details of the community projects being announced today will be provided by Dr Wooldridge.</p>
 <p>The Coalition has started this concerted fight against suicide in the Australian community. These initiatives continue the fight, in partnership with the community, to save Australian lives from the despair and tragedy of suicide.</p>
 <p>3 November 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16935</transcript-id>
-    <title>Centaur search to begin next month    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd and Premier Anna Bligh today announced the deep-sea search equipment to be used in the hunt for the Centaur off Queensland's coast is on its way to Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16935</transcript-id><title>Centaur search to begin next month    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd and Premier Anna Bligh today announced the deep-sea search equipment to be used in the hunt for the Centaur off Queensland's coast is on its way to Australia.</p>
 <p>The project team is now in the final stages of planning for the search, which is expected to begin in mid December.</p>
 <p>Premier Bligh said this was a big step forward in the attempt to resolve the mystery of the Centaur.</p>
 <p>"268 people lost their lives when the World War 2 Hospital ship was sunk by a Japanese submarine off the South-East Queensland coast in May 1943," Ms Bligh said.</p>
@@ -29,6 +19,4 @@
 <p>This submersible vessel will be involved in the second phase of the project once the likely location of the Centaur is identified. This phase will seek to confirm the final resting place of the Centaur using high resolution video equipment.</p>
 <p>Project Manager and Search Director, David Mearns, has indicated that subject to weather and any other significant operational issues, the search is expected to commence mid December 2009 using the sonar at first.</p>
 <p>In the event that the sonar search discloses the likely location of the Centaur, the remotely operated submersible vessel will be used to film the wreck in early January 2010.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

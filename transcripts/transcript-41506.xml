@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41506</transcript-id>
-    <title>Australia and Vietnam relationship enters new era</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/03/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Australia and Vietnam have today established a strategic partnership.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41506</transcript-id><title>Australia and Vietnam relationship enters new era</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/03/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Australia and Vietnam have today established a strategic partnership.</p>
 <p>As new strategic partners, Australia and Vietnam have agreed to work together to realise a vision of a secure, open and prosperous region.</p>
 <p>We will establish annual meetings between our foreign ministers and separately between our defence ministers.</p>
 <p>We have established a new ministerial level economic dialogue to boost trade and investment with one of ASEAN’s fastest-growing economies.</p>
@@ -18,6 +8,4 @@
 <p>We will work across our partnership in defence, development, education, science and research to deepen our links and advance our cooperation.</p>
 <p>Together, including at the forthcoming ASEAN-Australia Special Summit, we will work for our common prosperity and security.</p>
 <p>This announcement is a fitting way to mark 45 years of diplomatic relations and the visit to Australia by Prime Minister Phuc.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22257</transcript-id>
-    <title>Interview with Karl Stefanovic Today Show, Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/04/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22257</transcript-id><title>Interview with Karl Stefanovic Today Show, Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/04/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister thanks for being with us this morning. The shootings began just after midday. How do you recall how you were told and what happened from there?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I was in Sydney. I was at Kirribilli House and the reports started coming through and at first we didn't quite know how many, we knew it was bad and then it seemed to get worse. I turned on the media and I spoke to my press office and I spoke later that day to the Tasmanian Premier who was then Tony Rundle. And by late afternoon it was clear what a terrible tragedy it was and like the rest of the country I was staggered. And our Parliament, our new Parliament was convened a couple of days later and I went to Canberra. I spoke to Tony Rundle again and I had a news conference obviously expressing the sympathy of the whole country to the people who lost so much. But I then said for the first time that I was determined to try and do something about the gun laws of our country which had made this more likely, it didn't cause it, but it made it far more likely.</p>
@@ -72,6 +62,4 @@
 <p>JOURNALIST:</p>
 <p>Appreciate your time today. Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

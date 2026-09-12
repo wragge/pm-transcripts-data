@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12514</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH JOHN LAWS, RADIO 2UE   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/03/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Senator Heffernan; Zimbabwe.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12514</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH JOHN LAWS, RADIO 2UE   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/03/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Senator Heffernan; Zimbabwe.</p>
 <p>E&amp;OE...........  </p>
 <p>LAWS: </p>
 <p>Well it';s been another trying week for Federal Parliament with Bill Heffernan and his allegations creating a whole new set of issues for the Prime Minister.  On the line from the Lodge is the Prime Minister.   Good morning John Howard.</p>
@@ -196,6 +186,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

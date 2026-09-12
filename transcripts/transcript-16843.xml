@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16843</transcript-id>
-    <title>Congratulations to Australia&#039;s first female Nobel laureate Sydney 6 October 2009  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/10/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government congratulates Australian-born and educated biologist, Professor Elizabeth Blackburn, who has been named the Nobel Prize winner for Physiology or Medicine.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16843</transcript-id><title><![CDATA[Congratulations to Australia&#039;s first female Nobel laureate Sydney 6 October 2009  ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/10/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government congratulates Australian-born and educated biologist, Professor Elizabeth Blackburn, who has been named the Nobel Prize winner for Physiology or Medicine.</p>
 <p>Professor Blackburn's Nobel Prize has been awarded "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase".</p>
 <p>Telomeres are the protective caps on the ends of our chromosomes. Research into telomeres and the enzyme telomerase has the potential to deepen our knowledge of ageing and disease.</p>
 <p>Professor Blackburn is Australia's first female Nobel Laureate and our eleventh Nobel Prize winner.</p>
@@ -20,6 +10,4 @@
 <p>Professor Blackburn now stands in great Australian company alongside the likes of Sir Howard Florey, Professor Peter Doherty, and the most recent winners Dr Robin Warren and Professor Barry Marshall.</p>
 <p>The Australian Government recognised Professor Blackburn's extraordinary work with the awarding of the Australia Prize in 1998 - the predecessor to the Prime Minister's Prize for Science.</p>
 <p>Professor Blackburn is joint winner with collaborators Professor Carol W. Greider and Professor Jack W. Szostak. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

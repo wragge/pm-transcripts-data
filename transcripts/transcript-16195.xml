@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16195</transcript-id>
-    <title>Prime Minister&#039;s Science Prize    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/10/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It gives me great pleasure to award the 2008 Prime Minister's Prize for Science to Professor Ian Frazer.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16195</transcript-id><title><![CDATA[Prime Minister&#039;s Science Prize    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/10/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It gives me great pleasure to award the 2008 Prime Minister's Prize for Science to Professor Ian Frazer.</p>
 <p>The award and $300,000 grant recognises Professor Frazer's ground-breaking work in the creation of vaccines which protect against the virus that causes cervical cancer. Two of these, Gardasil and Cervarix, are now available commercially.</p>
 <p>Every year, approximately 230,000 women worldwide die from cervical cancer  -  Professor Frazer's work provides invaluable protection against cervical cancer and makes an enormous contribution to the health of women around the world.</p>
 <p>In collaboration with the late Jian Zhou, Professor Frazer created virus-like particles using proteins from the shell of the human papilloma virus. This breakthrough led to the development of the vaccines which prevent infection from the virus responsible for most cervical cancers.</p>
@@ -22,6 +12,4 @@
 <p>These prizes remind us that Australia's innovation system is driven by great science and great science teachers.</p>
 <p>It is part of the Australian psyche to question the world and to come up with new and better ways of doing things. Science is an integral part of that process.</p>
 <p>Congratulations to all recipients of this year's prizes.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

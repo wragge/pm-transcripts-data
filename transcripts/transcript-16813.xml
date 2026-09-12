@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16813</transcript-id>
-    <title>Interview with Ali Moore, 7.30 Report   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/09/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MOORE: I spoke with the Prime Minister Kevin Rudd a short time ago.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16813</transcript-id><title>Interview with Ali Moore, 7.30 Report   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/09/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MOORE: I spoke with the Prime Minister Kevin Rudd a short time ago.</p>
 <p>Prime Minister, no change in the unemployment rate, which is good news, but if you look behind these numbers, is the picture a little less pretty?</p>
 <p>PM: I think if you look objectively at the numbers, which is what I was saying in the house today, there are areas of concern.</p>
 <p>You see full-time employment coming down, being offset by part-time employment coming up. You see a slight drop in the participation rate, and you see a fairly significant increase in the number of Australians registering their interest in working more hours than they currently are working. In fact, I think that latter figure is something like a 31-year high.</p>
@@ -55,6 +45,4 @@
 <p>And I think it would be good if all Members, whatever side of the House they are, left the phones outside for those purposes. Maybe you need your mobile phone communication to get stuff to be sent in to you, that's a different thing, but to provide a rolling commentary on Question Time, I find that a bit bizarre. I thought that was your job, actually.</p>
 <p>MOORE: Prime Minister, thanks for joining us.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

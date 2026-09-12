@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20698</transcript-id>
-    <title>Doorstop Interview, Townsville   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/05/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20698</transcript-id><title>Doorstop Interview, Townsville   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/05/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Of course the safety of our men and women was always my greatest concern and I feel relieved, and it's nothing like their mums and dads and husbands and wives and sweethearts and their children must feel, so we give thanks that they all came back safely.</p>
 <p>JOURNALIST:</p>
 <p>There is speculation about US bases Prime Minister in Australia. Would you say that Townsville would be in line if that was to happen?</p>
@@ -20,6 +10,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well it's part of a regular pattern of visits to very close friends. We have no greater trading partner than Japan. We have very close relationships with Korea and the Philippines. And it's of a piece with the very strong relationships that Australia has with those three countries. It will also be an opportunity to talk about our mutual mission to combat terrorism in the region. But these visits are another illustration of the very close relationships we have with the three nations concerned. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

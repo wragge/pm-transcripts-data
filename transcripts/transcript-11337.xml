@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11337</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                ADDRESS AT MT SCOPUS COLLEGE FOUNDATION                 GALA JUBILEE                 HER MAJESTY&amp;#146;S THEATRE, MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/03/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11337</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                ADDRESS AT MT SCOPUS COLLEGE FOUNDATION                 GALA JUBILEE                 HER MAJESTY&amp;#146;S THEATRE, MELBOURNE]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/03/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................</p>
 <p>Thank you very much Solomon, to your wife Rosie, to Mr and Mrs Lanzer,</p>
 <p> Mr and Mrs Baker, the School Principal Mr Ruben and his wife and the</p>
 <p> many other guests and friends of the Mt Scopus College.</p>
@@ -127,6 +117,4 @@
 <p> of which Rosie spoke earlier, come to fruition and to be made possible.</p>
 <p>Thank you very much indeed for having me as your guest tonight.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16022</transcript-id>
-    <title>Interview with Rhys Muldoon,  666 AM Radio, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/07/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MULDOON: I'm joined by the Prime Minister, Kevin Rudd.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16022</transcript-id><title>Interview with Rhys Muldoon,  666 AM Radio, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/07/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MULDOON: I'm joined by the Prime Minister, Kevin Rudd.</p>
 <p>PM: Good morning, Rhys. How are you?</p>
 <p>MULDOON: Very well. How are you?</p>
 <p>PM: Not too bad. You're in downtown Canberra, I'm in downtown Sydney.</p>
@@ -91,6 +81,4 @@
 <p>So I would recommend it to people. For a good study of, whenever you think life is going a bit tough, in politics, have a look at Lincoln's presidency during the civil war. Now that's what I call tough.</p>
 <p>MULDOON: Ok, thank you very much for speaking to us today Prime Minister. Have a great flight.</p>
 <p>PM: Thanks Reece, cheers.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

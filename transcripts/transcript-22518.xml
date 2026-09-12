@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22518</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/10/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The drought is having a terrible impact on farming communities across Australia and has serious implications for the whole nation, not just rural and regional areas.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22518</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/10/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The drought is having a terrible impact on farming communities across Australia and has serious implications for the whole nation, not just rural and regional areas.</p>
 <p>   While the economy is still very strong, all members of my Government are acutely aware of the impact of the drought at a personal, family, business and community level.</p>
 <p>  I am very concerned about the drought and want to assure all those affected that they are not alone. Your fellow Australians, through the Federal Government, stand with you, shoulder to shoulder.</p>
 <p>  The Government has already distributed more than $1.2 billion on drought assistance since 2001 and we'll continue to do all we can to help Australia's farmers through this difficult period.</p>
@@ -17,6 +7,4 @@
 <p>  This week the Government will be looking at whether there should be any changes to our drought assistance.  If it can be responsibly enhanced, then that will happen.</p>
 <p>  The Australian bush is part of our history and looms large in our psyche.  There is an obligation on us all, to do all we can to assist those being affected by this very severe drought.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

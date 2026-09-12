@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16718</transcript-id>
-    <title>Interview on ABC 774 Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/07/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FAINE: Kevin Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16718</transcript-id><title>Interview on ABC 774 Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/07/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FAINE: Kevin Rudd, good morning.</p>
 <p>PM: Good morning, Jon. Thanks for having me on the program.</p>
 <p>FAINE: 123 recommendations, I yesterday said this is a bit like a trade union with an ambit claim to an employer.</p>
 <p>PM: (laughter)</p>
@@ -80,6 +70,4 @@
 <p>FAINE: Prime Minister, my time with you is up. I'm grateful to you for taking our call and fitting it in to your busy schedule from Adelaide this morning.</p>
 <p>PM: Thanks Jon. Thanks for having me on the program.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

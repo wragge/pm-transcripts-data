@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23183</transcript-id>
-    <title>2014 Prime Minister&#039;s Literary Awards</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The 2014 Prime Minister’s Literary Awards are now open to entries from Australian authors, poets and historians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23183</transcript-id><title><![CDATA[2014 Prime Minister&#039;s Literary Awards]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The 2014 Prime Minister’s Literary Awards are now open to entries from Australian authors, poets and historians.</p>
 <p>Established in 2008, the Prime Minister’s Literary Awards are Australia’s richest literary prize with a total prize pool of $600,000 to winners and shortlisted authors across six categories.</p>
 <p>These significant awards celebrate and bring recognition to the esteemed role Australian writers play in enlightening and entertaining us, reflecting on our history and taking our stories to the world.</p>
 <p>The six award categories are fiction, non-fiction, Australian history, poetry, young adult fiction and children's fiction. Winners are awarded $80,000 tax-free each and shortlisted authors receive $5,000 tax-free.</p>
@@ -19,6 +9,4 @@
 <p>The Awards are open for books first published and made available for general sale in Australia between 1 January 2013 and 31 December 2013.</p>
 <p>Entries close at 5.00 pm (AEDT) on 28 February 2014. Entry forms and eligibility guidelines are available at <a href="http://www.arts.gov.au/pmliteraryawards">www.arts.gov.au/pmliteraryawards</a>.</p>
 <p>24 December 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

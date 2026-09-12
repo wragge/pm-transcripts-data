@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17517</transcript-id>
-    <title>Transcript of interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2010</release-date>
-    <release-type>Environment</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17517</transcript-id><title>Transcript of interview with Neil Mitchell, 3AW</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2010</field_date><release-type>Environment</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 MITCHELL: Prime Minister Julia Gillard, good morning.</p>
 <p>PM: Neil, good morning.</p>
 <p>MITCHELL: And congratulations on being Prime Minister.</p>
@@ -89,6 +79,4 @@ MITCHELL: Prime Minister Julia Gillard, good morning.</p>
 <p>PM: I am a Victorian. I'm a Victorian now. South Australian girl originally. Victorian now.</p>
 <p>MITCHELL: Thank you very much for your time.</p>
 <p>PM: Thanks Neil.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

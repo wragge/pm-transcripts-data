@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40653</transcript-id>
-    <title>$117 million in new homelessness funding</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/12/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Coalition will deliver $117.2 million to support frontline services addressing homelessness.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40653</transcript-id><title>$117 million in new homelessness funding</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/12/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Coalition will deliver $117.2 million to support frontline services addressing homelessness.</p>
 <p>Around 85,000 people, particularly women and children affected by domestic violence and vulnerable young people, will be supported through 757 frontline services through the Transitional National Partnership Agreement on Homelessness (NPAH).</p>
 <p>The agreement, which has been extended through until June 2018, will provide certainty while state and territory governments continue to work together on long-term homelessness reforms.</p>
 <p>The Government has brought forward this announcement well ahead of the 2017 18 Budget to give providers of frontline homelessness services the certainty they need to get on with their work of helping some of our most vulnerable Australians.</p>
@@ -23,6 +13,4 @@
 <p>The Coalition Government called on the states and territories to now match the Commonwealth’s funding commitment to assist frontline services under the Transitional NPAH and progress the necessary reform to reduce the alarming rise in homelessness.</p>
 <p>The Transitional NPAH will continue to prioritise funding to services providing support to women and children experiencing domestic or family violence, and homeless young people.</p>
 <p>The Government has a strong track record of action on addressing domestic violence and today’s announcement complements our $100 million commitment as part of the Third Action Plan to Reduce Violence against Women and their Children.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

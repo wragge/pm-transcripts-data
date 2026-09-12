@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24171</transcript-id>
-    <title>Joint Press Conference, Melbourne</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/02/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Data Retention Bill,  Joint Standing Committee on Intelligence and Security,  building a strong and prosperous economy for a safe and secure Australia,  address to the National Press Club,  Medicare,  Australians facing execution in Indonesia,  Peter Greste</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24171</transcript-id><title>Joint Press Conference, Melbourne</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/02/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Data Retention Bill, Joint Standing Committee on Intelligence and Security, building a strong and prosperous economy for a safe and secure Australia, address to the National Press Club, Medicare, Australians facing execution in Indonesia, Peter Greste</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>It's terrific to be here at the Australian Federal Police Melbourne headquarters. It’s good to be with the Minister Michael Keenan and with Commissioner Andrew Colvin.</p>
 <p>I want to say thank you to you, Commissioner, and thank you to all of the AFP staff this morning for the briefing that you provided to the Minister and myself on metadata and its importance in fighting crime, whether it be child abuse, whether it be terrorism, whether it be fraud, drug importation. Whatever it is, metadata is vitally important – absolutely critical.</p>
 <p>Now, as we know, technology is changing all the time and telecommunications companies are not keeping these records for as long as they did. We have, if you like, a burning platform and as a result of that burning platform, increasingly, police and other crime fighting agencies are going blind.</p>
@@ -115,6 +105,4 @@
 <p>Now, another subject which you might want to ask me about is Peter Greste. I think we're all thrilled that he's back home. We really are thrilled that he's back home. We'd like to see his colleagues back in their homes as well, but we're really pleased to see Peter Greste back and, as well as congratulating and thanking the Minister for Foreign Affairs for her work, I would acknowledge the work of President al-Sisi of Egypt. I've had several conversations with President al-Sisi about the Peter Greste matter. He has been very sympathetic and understanding from the word go. President al-Sisi is a friend of decency. He is a man of humanity and compassion and I have to say that I think he is someone who Australia can continue to work with on a whole range of issues.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

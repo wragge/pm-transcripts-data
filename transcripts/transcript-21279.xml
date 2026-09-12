@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21279</transcript-id>
-    <title>Doorstop Interview with Local Media Batemans Bay, NSW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21279</transcript-id><title>Doorstop Interview with Local Media Batemans Bay, NSW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, I wanted to ask you about whether you would consider, because it';s the only avenue open to you, injecting a large sum of black spot funding money into the southern part of the Princes Highway?  Because this carnage can';t keep on going on.</p>
 <p>PRIME MINISTER:</p>
 <p>Well, I';m aware of how bad the accident rate is.  But we have to maintain quite properly that it is a state funding responsibility#8230;</p>
@@ -46,6 +36,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

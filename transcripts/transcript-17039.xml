@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17039</transcript-id>
-    <title>Transcript of interview with Jon Faine 774 ABC Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17039</transcript-id><title>Transcript of interview with Jon Faine 774 ABC Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 FAINE: Kevin Rudd, good morning.</p>
 <p>PM: Good morning.</p>
 <p>FAINE: Thank you for joining us up here at Kinglake. There's an air of expectation and anxiety over what's to happen over the next few days. What message do you give to the people who are coming out the other end of a most anguished year?</p>
@@ -40,6 +30,4 @@ FAINE: Kevin Rudd, good morning.</p>
 <p>PM: And, can I just say to you and your listeners how much we, the Australian Government, value the active engagement of all members of the Victorian community in the reconstruction effort.</p>
 <p>Governments can do so much. But frankly - you mentioned Rotary before, who are doing the sausages out there - it's all those community organisations, community leaders who have made it work. So my heartfelt thanks to them, for making this recovery effort what it's been for the year, which has been a hard year for the good people of Victoria.</p>
 <p>FAINE: Thank you for your time, and we'll hear you speaking on Sunday as well.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

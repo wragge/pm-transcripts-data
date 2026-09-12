@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7243</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>15/11/1987</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007243.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 15 November 1987<br />
-His Majesty Baudouin I, King of the Belgians, and Her<br />
-Majesty Queen Fabiola are to make a State Visit to Australia<br />
-from Wednesday 25 November to Tuesday 1 December 1987 at the on)<br />
-invitation ofthe Governor-General.<br />
-The visit will be the first by a Belgian monarch to<br />
-Australia. It is tangible evidence of the development of<br />
-valuable and friendly relations between the two countries.<br />
-Their Majesties will visit Canberra, Brisbane and Sydney<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7243</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>15/11/1987</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007243.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 15 November 1987<br>
+His Majesty Baudouin I, King of the Belgians, and Her<br>
+Majesty Queen Fabiola are to make a State Visit to Australia<br>
+from Wednesday 25 November to Tuesday 1 December 1987 at the on)<br>
+invitation ofthe Governor-General.<br>
+The visit will be the first by a Belgian monarch to<br>
+Australia. It is tangible evidence of the development of<br>
+valuable and friendly relations between the two countries.<br>
+Their Majesties will visit Canberra, Brisbane and Sydney<br>
 before leaving for New Zealand. 0 02 53 8 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

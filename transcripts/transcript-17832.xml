@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17832</transcript-id>
-    <title>Transcript of joint press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17832</transcript-id><title>Transcript of joint press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm joined today by the Minister for School Education, Peter Garrett, and by the local Member for Fraser, Andrew Leigh, and we're here at Harrison School. I'd like to thank Dennis, the school principal, who's made us feel so welcome.</p>
 <p>I'd also like to thank Laura and Tyler, our school prefects who have assisted in showing us around the school today. We were just reflecting we've learnt a bit about colours and shapes that we didn't know before.</p>
 <p>We're here a week away from the Federal Budget, and the Federal Budget is all about keeping our economy strong. It means that as a nation we've got to live within our means, just like families do, which is why the Budget will bring us back to surplus in 2012-13.</p>
@@ -106,6 +96,4 @@ PM: I'm joined today by the Minister for School Education, Peter Garrett, and by
 <p>JOURNALIST: Have you spoken to President Obama since came back from (inaudible)?</p>
 <p>PM: No.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18778</transcript-id>
-    <title>National Press Club Q&amp;A</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/09/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18778</transcript-id><title><![CDATA[National Press Club Q&amp;A]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/09/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>JOURNALIST: Could I be so brutal as to go straight to the money question? Now you have got $8 billion for a National Disability Insurance Scheme, you have got $5 billion extra for asylum seekers, you have got $4 billion extra for dental and now we are talking about $6.5 billion for the Gonski response. </p>
 <p>You say that you want to sort out a deal with the premiers by COAG next year. Is your starting point the 70:30 split that you talked about today or are you going to have to pay a bit more than 30 per cent given the recalcitrant states? </p>
 <p>PM: My starting point is that our nation's children are worth it and we should have a way of funding schools that puts each child's needs at the centre of the funding system and which means that we can improve schools  over time. </p>
@@ -152,6 +142,4 @@
 <p>So if you want to pack your bags I'll make sure you get home Christmas Eve, and I'll be very, very grateful if you write a story across your newspaper group every day in between.</p>
 <p>Thank you.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

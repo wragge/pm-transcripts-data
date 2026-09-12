@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21362</transcript-id>
-    <title>Prime Minister&#039;s Doorstop Interview Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21362</transcript-id><title><![CDATA[Prime Minister&#039;s Doorstop Interview Melbourne ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Mr Howard, what would be the deciding factor in you calling a federal election?</p>
 <p> PRIME MINISTER:</p>
 <p> Oh look, I'm not going to get into speculation about that. There'll be an election sometime this year and I don't have anything to add to what I've said on it before.</p>
@@ -49,6 +39,4 @@
 <p> What game are you going to tomorrow here?</p>
 <p> PRIME MINISTER:</p>
 <p> I think I'll probably go to the match between Carlton and Sydney, but nobody should infer from that that I'm barracking from Sydney. You'd be wrong.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

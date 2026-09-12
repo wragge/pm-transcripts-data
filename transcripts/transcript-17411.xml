@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17411</transcript-id>
-    <title>Transcript of interview with Kyle Sandilands and Jackie-O 2Day FM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/06/2010</release-date>
-    <release-type>Business &amp; Industry</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17411</transcript-id><title>Transcript of interview with Kyle Sandilands and Jackie-O 2Day FM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/06/2010</field_date><release-type><![CDATA[Business &amp; Industry]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Madam Prime Minister, hello madam.</p>
 <p>PM: Hello, I'm not sure madam's necessary.</p>
 <p>HOST: I was going to ask you what are people calling you in interviews?</p>
@@ -97,6 +87,4 @@ HOST: Madam Prime Minister, hello madam.</p>
 <p>PM: You can if you like.</p>
 <p>HOST: Seems very Margaret Thatcher, I love it. Thank you nice to chat.</p>
 <p>PM: Bye bye.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

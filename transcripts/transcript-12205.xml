@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12205</transcript-id>
-    <title>Protecting our Borders</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/10/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As the world changes, so do the threats facing Australia in the protection of its borders. To the old dangers of disease, illegal fishing and crime, have been added drug and people smuggling organised on an international scale, terrorism and sophisticated cyber crime.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12205</transcript-id><title>Protecting our Borders</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/10/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As the world changes, so do the threats facing Australia in the protection of its borders. To the old dangers of disease, illegal fishing and crime, have been added drug and people smuggling organised on an international scale, terrorism and sophisticated cyber crime.</p>
 <p>Australia’s security is in the hands of highly trained and committed professionals within the Australian Defence Force, Australian Federal Police and agencies such as Customs and AQIS. Their border security activities are co-ordinated by a world class coastal surveillance network, known as Coastwatch.</p>
 <p>The Coalition is determined to back their efforts to the full. If re-elected, we will act upon a realistic plan to further strengthen our borders and invest record amounts in defence, law enforcement and other security agencies.</p>
 <p>I am today announcing a comprehensive package of new investments totalling $175.5 million to secure Australia’s borders. In making this investment, we have focussed on the crucial areas of maritime surveillance, enhancing radar and communications capacity and detecting illegal material being smuggled into our ports. In contrast, Labor’s commitment is only $15 million to build a new bureaucracy.</p>
@@ -19,72 +9,96 @@
 <p>The immediate effect would be to strip the Royal Australian Navy of 15 patrol boats, take $430 million dollars from the Defence acquisition budget and transfer the 600 positions of sailors who now crew and maintain the patrol boats – reducing Australia’s overall defence capability and lowering morale within the service.</p>
 <p>Labor’s Coastguard idea will not provide for one single new vessel, plane, radar establishment or patrol day. Their plans are both dangerous and impractical and would jeopardise Australia’s ability to react quickly and efficiently to threats at our border.</p>
 <p>In contrast, a re-elected Coalition Government will:</p>
-<ul><li>Strengthen Australia’s extensive radar network with $12.8 million in additional funding over four years to conduct an operational evaluation of new High Frequency Surface Wave Radar technology. This will significantly increase the surveillance coverage of high threat approaches to Australia;</li>
+<ul>
+<li>Strengthen Australia’s extensive radar network with $12.8 million in additional funding over four years to conduct an operational evaluation of new High Frequency Surface Wave Radar technology. This will significantly increase the surveillance coverage of high threat approaches to Australia;</li>
 <li>Significantly expand Coastwatch surveillance flights monitoring the northern approach routes to Australia. An additional $33.2 million over four years will increase flight surveillance time by 1,600 hours;</li>
 <li>Double Customs’ National Marine Unit’s surveillance and response capability with additional funding of $72.4 million over four years;</li>
 <li>Purchase additional Container X-ray machines for Fremantle and Brisbane ports by providing a further $39.8 million over four years and invest a further $9.2 million over four years for four additional pallet X-ray machines for Customs in Sydney, Perth, Brisbane and Adelaide.</li>
 <li>Provide additional funding of $8.1 million over four years to utilise the latest digital and satellite technologies, enhancing Coastwatch’s communications capability;</li>
-</ul><p>The Protecting our Borders package builds on new initiatives already announced to:</p>
-<ul><li>Replace the Navy’s 15 Fremantle Patrol Boats with a new class of patrol boat to be built in Australia at a cost of $450 million;</li>
+</ul>
+<p>The Protecting our Borders package builds on new initiatives already announced to:</p>
+<ul>
+<li>Replace the Navy’s 15 Fremantle Patrol Boats with a new class of patrol boat to be built in Australia at a cost of $450 million;</li>
 <li>Undertake a major refurbishment or replacement of the RAAF’s P-3C long range maritime surveillance aircraft, at a cost of some $2 billion;</li>
 <li>Allocate $275 million to significantly enhance Australia’s ‘over the horizon’ radar capability;</li>
 <li>Invest $160 million in the development and future purchase of the Global Hawk surveillance aircraft;</li>
 <li>Purchase four Airborne Early Warning Control Aircraft;</li>
-</ul><p>To meet the challenge of people smuggling, the Coalition has introduced:</p>
-<ul><li>Tough new laws to curb trafficking in people, including jail sentences up to 20 years and fines up to $220,000.</li>
+</ul>
+<p>To meet the challenge of people smuggling, the Coalition has introduced:</p>
+<ul>
+<li>Tough new laws to curb trafficking in people, including jail sentences up to 20 years and fines up to $220,000.</li>
 <li>Legislation excising Christmas Island, Ashmore and Cartier Islands and Cocos (Keeling) Islands from the Migration Zone.</li>
 <li>Offshore processing arrangements.</li>
-</ul><p>At this election, the Australian people must make a choice on the issue of border protection - a choice between certain leadership and a realistic future plan and Labor’s wavering position and fanciful claims.</p>
-<table border="0" cellpadding="1" cellspacing="1" style="width:800px;"><tbody><tr><td>(Cash estimate)    </td>
-<td style="text-align: center;">2002-03<br />($m )</td>
-<td style="text-align: center;">2003-04<br />($m )</td>
-<td style="text-align: center;">2004-05<br />($m )</td>
-<td style="text-align: center;">2004-05<br />($m )</td>
-<td style="text-align: center;"> Total<br />($m )</td>
-</tr><tr><td>Increased maritime surveillance  </td>
+</ul>
+<p>At this election, the Australian people must make a choice on the issue of border protection - a choice between certain leadership and a realistic future plan and Labor’s wavering position and fanciful claims.</p>
+<table border="0" cellpadding="1" cellspacing="1" style="width:800px;">
+<tbody>
+<tr>
+<td>(Cash estimate)&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td style="text-align: center;">2002-03<br>($m )</td>
+<td style="text-align: center;">2003-04<br>($m )</td>
+<td style="text-align: center;">2004-05<br>($m )</td>
+<td style="text-align: center;">2004-05<br>($m )</td>
+<td style="text-align: center;">&nbsp;Total<br>($m )</td>
+</tr>
+<tr>
+<td>Increased maritime surveillance&nbsp;&nbsp;</td>
 <td style="text-align: center;">9.8</td>
 <td style="text-align: center;">20.2</td>
 <td style="text-align: center;">2.02</td>
 <td style="text-align: center;">22.2</td>
 <td style="text-align: center;">72.4</td>
-</tr><tr><td>Increased Coastwatch surveillance*</td>
+</tr>
+<tr>
+<td>Increased Coastwatch surveillance*</td>
 <td style="text-align: center;">7.5</td>
 <td style="text-align: center;">9.5</td>
 <td style="text-align: center;">11.5</td>
 <td style="text-align: center;">0.0</td>
 <td style="text-align: center;">33.2</td>
-</tr><tr><td>Enhanced Coastwatch communications capability </td>
+</tr>
+<tr>
+<td>Enhanced Coastwatch communications capability&nbsp;</td>
 <td style="text-align: center;">2.0</td>
 <td style="text-align: center;">2.0</td>
 <td style="text-align: center;">2.0</td>
 <td style="text-align: center;">2.1</td>
 <td style="text-align: center;">8.1</td>
-</tr><tr><td>Additional container X-ray machines  </td>
+</tr>
+<tr>
+<td>Additional container X-ray machines&nbsp;&nbsp;</td>
 <td style="text-align: center;">6.0</td>
 <td style="text-align: center;">10.0</td>
 <td style="text-align: center;">11.0</td>
 <td style="text-align: center;">12.8</td>
 <td style="text-align: center;">39.8</td>
-</tr><tr><td>Additional pallet X-ray machines  </td>
+</tr>
+<tr>
+<td>Additional pallet X-ray machines&nbsp;&nbsp;</td>
 <td style="text-align: center;">2.0</td>
 <td style="text-align: center;">2.0</td>
 <td style="text-align: center;">2.5</td>
 <td style="text-align: center;">2.7</td>
 <td style="text-align: center;">9.2</td>
-</tr><tr><td>High Frequency Surface Wave Radar </td>
+</tr>
+<tr>
+<td>High Frequency Surface Wave Radar&nbsp;</td>
 <td style="text-align: center;">3.0</td>
 <td style="text-align: center;">3.2</td>
 <td style="text-align: center;">3.2</td>
 <td style="text-align: center;">3.4.</td>
 <td style="text-align: center;">12.8</td>
-</tr><tr><td>Total</td>
+</tr>
+<tr>
+<td>Total</td>
 <td style="text-align: center;">30.3</td>
 <td style="text-align: center;">46.9</td>
 <td style="text-align: center;">50.4</td>
 <td style="text-align: center;">43.2</td>
 <td style="text-align: center;">175.5</td>
-</tr></tbody></table><p>*Additional funding of $4.7 million will be provided in 2001-02<br /> </p>
+</tr>
+</tbody>
+</table>
+<p>*Additional funding of $4.7 million will be provided in 2001-02<br>&nbsp;</p>
 <p>23 October 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

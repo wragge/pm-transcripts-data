@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20588</transcript-id>
-    <title>Appointment of Senior Investment Commissioners   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/03/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today the appointment of four new Senior Investment Commissioners.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20588</transcript-id><title>Appointment of Senior Investment Commissioners   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/03/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today the appointment of four new Senior Investment Commissioners.</p>
 <p> The continued ability to win overseas investment into Australia is a critical determinant of our future prosperity and these Commissioners will play an important role in the Government's national investment attraction framework.</p>
 <p> The new Commissioners are Mr Robert Hunt, Ms Joanne Wood, Ms Nicola Watkinson and Mr Tak Adachi. They will spearhead Australia's investment attraction effort in key markets in the United States Europe and Asia, and will be based in San Francisco, Shanghai, Frankfurt and Tokyo respectively.</p>
 <p>Today's announcement comes on top of the recent appointment of Mr Garry Draffin as Chief Executive Officer of the revamped Invest Australia and the launch last December of the Government's national investment framework Global Returns.</p>
@@ -31,6 +21,4 @@
 <p>Mr Adachi has 15 years experience in banking and management consulting with a particular emphasis on Australia-Japan partnerships.</p>
 <p> Mr Adachi joined Anderson Consulting as a summer intern while studying for his MBA, becoming a full-time consultant upon completion of his studies. He was involved in a variety of projects in areas such as organisational strategy and mergers and acquisitions. Mr Adachi has also worked with Jones Lang La Salle, Macquarie Bank and Deutsche Bank where he held the position of Director of global markets.</p>
 <p> Mr Adachi studied in both Japan and Australia, obtaining a Bachelor of Law degree from Tokyo and an MBA from the AGSM at the University of NSW.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

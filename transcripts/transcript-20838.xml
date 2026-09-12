@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20838</transcript-id>
-    <title>Doorstop Interview, Darwin  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20838</transcript-id><title>Doorstop Interview, Darwin  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>[inaudible] the issue of gay marriages fairly outspoken this morning.  Where did those opinions come from?  Why do you reject…?</p>
 <p>PRIME MINISTER:</p>
 <p>Well, this is not in any way an attack on gay people, quite the reverse.  But it's just a strong statement in support of the central role of traditional marriage in our society.  Traditional marriage is one of the bedrock institutions of our society and I don't want anything to occur that further weakens it.  Marriage, as we understand it in our society, is about children, having children, raising them, providing for the survival of the species and I think if the same status is given in our society to gay unions as are given to traditional marriage we will weaken that bedrock institution, that's why I've expressed the views I have.</p>
@@ -43,6 +33,4 @@
 <p>Well, I read a story in the paper this morning.  We have two very good Liberal Senators from New South Wales in Bill Heffernan and John Tierney.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

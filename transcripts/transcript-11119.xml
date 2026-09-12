@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11119</transcript-id>
-    <title>Interview with John Miller – Radio 4BC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Troops in East Timor, football grand finals, Davis Cup</subjects>
-    <content><![CDATA[<p>24 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11119</transcript-id><title>Interview with John Miller – Radio 4BC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Troops in East Timor, football grand finals, Davis Cup</subjects><content><![CDATA[<p>24 September 1999</p>
 <p align="left"><i>Subjects: Troops in East Timor, football grand finals, Davis Cup</i></p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>MILLER:</b></p>
@@ -74,6 +64,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Pleasure.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

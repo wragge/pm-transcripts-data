@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24147</transcript-id>
-    <title>Knights of the Order of Australia </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>26/01/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Her Majesty The Queen has accepted my recommendation that His Royal Highness The Prince Philip, Duke of Edinburgh and Air Chief Marshal Angus Houston AC (Mil) AFC (Retd) be awarded Australia’s highest honour as Knights of the Order of Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24147</transcript-id><title>Knights of the Order of Australia </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>26/01/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Her Majesty The Queen has accepted my recommendation that His Royal Highness The Prince Philip, Duke of Edinburgh and Air Chief Marshal Angus Houston AC (Mil) AFC (Retd) be awarded Australia’s highest honour as Knights of the Order of Australia.</p>
 <p><strong>His Royal Highness The Prince Philip, Duke of Edinburgh</strong></p>
 <p>This honour recognises the contribution of the Duke of Edinburgh to Australia throughout The Queen’s sixty two year reign.</p>
 <p>Prince Philip’s long life of service and dedication should be honoured by Australia.</p>
@@ -20,7 +10,7 @@
 <p>The Award has positively influenced the lives of hundreds of thousands of young Australians.</p>
 <p>There are currently 23,000 young Australians undertaking the Award.</p>
 <p>During Australia’s Bicentenary, Prince Philip was appointed a Companion in the Military Division of the Order of Australia for “<em>service to the Australian Defence Force as Admiral of the Fleet in the Royal Australian Navy, Field Marshal in the Australian Army and Marshal of the Royal Australian Air Force</em>”.</p>
-<p>The Duke of Edinburgh joins The Prince of Wales who was appointed a Knight of the Order of Australia in 1981. </p>
+<p>The Duke of Edinburgh joins The Prince of Wales who was appointed a Knight of the Order of Australia in 1981.&nbsp;</p>
 <p>It is fitting that we pay tribute to an extraordinary life of service.</p>
 <p><strong>Air Chief Marshal Sir Angus Houston AK AC (Mil) AFC (Retd)</strong></p>
 <p>This honour recognises Air Chief Marshal Houston’s extraordinary and pre-eminent achievement and merit in service to Australia over many years.</p>
@@ -33,6 +23,4 @@
 <p>Throughout his life, Sir Angus has put Australia first.</p>
 <p>He immigrated to Australia as an adult, he chose Australia and we are much the better for it.</p>
 <p>26 January 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

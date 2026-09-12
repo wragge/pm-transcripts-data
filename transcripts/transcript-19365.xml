@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19365</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19365</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: I'm delighted to be here at Forrest Primary School.</p>
 <p>Thank you to Chris and the team here who have shown us around today. I'm delighted to be here with Senator Kate Lundy.</p>
 <p>We've had the opportunity to chat about the school as we've moved around. We've had the opportunity to meet with a lot of kids and to do that in their Building the Education Revolution facility.</p>
@@ -145,6 +135,4 @@
 <p>PM: For any responsible decision-maker, the only factor that should ever drive them is what is in the best interests of the children whose education is ultimately their responsibility.</p>
 <p>Thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17837</transcript-id>
-    <title>Tribute to Claude Choules - Last known First World War Veteran</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17837</transcript-id><title>Tribute to Claude Choules - Last known First World War Veteran</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Veterans' Affairs, Warren Snowdon today expressed their sorrow at the passing of Claude Choules, the last known veteran to have served in the First World War.</p>
 <p>Mr Choules was also the last known Royal Navy veteran of the First World War.</p>
 <p>Mr Choules passed away today at his residence in Perth, Western Australia.</p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard and Minister for Veterans' Affairs, Warren Snowdon 
 <p>Mr Choules was the last man known to have served in both world wars, serving the United Kingdom in the First World War and Australia in the Second World War.</p>
 <p>His service history spanned more than 40 years, demonstrating his unwavering dedication and commitment to defending the United Kingdom and Australia.</p>
 <p>Note: The family of Mr Choules have requested privacy at this time. Mr Choules' biography and images are available at <a href="http://www.dva.gov.au/media">www.dva.gov.au/media</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

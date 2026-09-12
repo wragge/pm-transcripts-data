@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40946</transcript-id>
-    <title>Interview with Kieran Gilbert, SKY News</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The Federal budget</subjects>
-    <content><![CDATA[<p><strong>KIERAN GILBERT: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40946</transcript-id><title>Interview with Kieran Gilbert, SKY News</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The Federal budget</subjects><content><![CDATA[<p><strong>KIERAN GILBERT: </strong></p>
 <p>With us now, the Prime Minister Malcolm Turnbull.</p>
 <p>Mr Turnbull thank you for your time, a busy morning for you. The banks, according to some chatter around the markets, they’re already talking about lifting the mortgage rates from 14 to 15 basis points to recover the levy. Is that a bit rich? What do you say to them for that?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -45,7 +35,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>No I wouldn’t put it that way. Obviously it’s 0.5 per cent for people of their income for people that are paying it. You know, it is 0.5 per cent and for many Australian families that will be, they will feel it. They will absolutely feel it but there is a benefit. Because what we are doing is delivering a fully funded National Disability Insurance Scheme, which Julia Gillard did not deliver.</p>
 <p>So rather than saying to parents with a disabled child, in a couple of years’ time: “I’m sorry, the cupboard is bare. We don’t have the funds to support the NDIS anymore,” what we’re doing is looking all Australians in the eye and saying: “We all benefit from this National Disability Insurance Scheme.”</p>
-<p>This is literally an insurance scheme. The premium is now 1 per cent of the 2.5 percent of the Medicare Levy. We all pay it and what that means is, we’re all covered.  So I think this is just, it’s fair, it’s responsible.</p>
+<p>This is literally an insurance scheme. The premium is now 1 per cent of the 2.5 percent of the Medicare Levy. We all pay it and what that means is, we’re all covered.&nbsp; So I think this is just, it’s fair, it’s responsible.</p>
 <p><strong>KIERAN GILBERT: </strong></p>
 <p>Does it reflect your confidence as Prime Minister in the NDIS? There have been all sorts of claims it’s running overtime, over budget and so on. But those claims have been in large part repudiated by those in the sector, do you have confidence in the NDIS and where it is at?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -102,6 +92,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Great to be with you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

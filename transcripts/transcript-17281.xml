@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17281</transcript-id>
-    <title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 7 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister Kevin Rudd joins me now. Good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17281</transcript-id><title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 7 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister Kevin Rudd joins me now. Good morning to you.</p>
 <p>PM: Good morning Mel.</p>
 <p>HOST: Gee, timing. You're five days out from releasing the budget, things seem to be going along quite swimmingly, markets were settling, now this. What effect will this have on the budget? Will you have to do a rethink?</p>
 <p>PM: Mel, we have been very mindful of what's been going on in international financial markets over quite some months now. Our Treasury officials have been monitoring, very carefully, what's been happening in Greece. I've spoken about this in a number of recent speeches I've made on the economy.</p>
@@ -42,6 +32,4 @@
 <p>PM: Not government policy, no advice from any law enforcement agency that this is been recommended by them. I note Cory Bernardi is Mr Abbott's Parliamentary Secretary. He goes out there and says that's what he wants to do. Mr Abbott then says it's not their policy. I think they're walking both side of the street.</p>
 <p>HOST: Thank you very much for that. Alright, good to talk to you. Thank you, we'll see you next week.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

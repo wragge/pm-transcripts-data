@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20932</transcript-id>
-    <title>Medicare - For All Australians  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/10/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20932</transcript-id><title>Medicare - For All Australians  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/10/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
  Today is the 20th anniversary of Medicare - our world-class public health system, which delivers universal health care for all Australians.</p>
 <p>All Australians have the right to universal access to the three pillars of Medicare: a universal Medicare rebate for medical services; a universal Pharmaceutical Benefits Scheme; universal access to free public hospital care.</p>
 <p>The Australian Government remains firmly committed to the principles of Medicare, which have guided it over the past two decades.</p>
@@ -27,6 +17,4 @@
 <p> Since 1996 spending on Medicare has increased by almost $2 billion – from $6 billion to almost $8 billion a year. Australian Government expenditure on General Practice (including Medicare rebates, the Practice Incentive Program and the General Practice Immunisation Incentives) have increased by about 30% over the past six years.</p>
 <p> A record $42 billion funding commitment to State public hospitals to help ensure that all Australians are eligible to free treatment. This is a $10 billion increase and gives the public greater certainty because the States and Territories have for the first time given funding commitments for five years instead of one year and have agreed to at least match the Australian Government';s rate of funding growth.</p>
 <p> Record funding for Australia';s world-leading Pharmaceutical Benefits Scheme. In 1991, the cost of the scheme was $1 billion and it is now nearly $5 billion. The PBS gives affordable access to medicines for all Australians.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

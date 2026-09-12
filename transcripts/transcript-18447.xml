@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18447</transcript-id>
-    <title>Transcript of interview with Lisa Wilkinson, Today</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/03/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18447</transcript-id><title>Transcript of interview with Lisa Wilkinson, Today</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/03/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Good morning to you, Prime Minister.</p>
 <p>PM: Good morning Lisa.</p>
 <p>HOST: Now, the mining tax, this is the one that was part of Kevin Rudd's downfall as Prime Minister. It must make it a particularly sweet victory for you?</p>
@@ -25,6 +15,4 @@ HOST: Good morning to you, Prime Minister.</p>
 <p>PM: I'm not interested in any family matters involving Ms Rinehart. That's her business. What I am interested in is making sure at this time in our nation's history when our economy is undergoing very profound change that we get all of the policies right so everyone benefits and we are building the economy we need for the future. We've got a spectacular resources boom. We know businesses in other sectors of the economy are doing it tough. It makes sense to take some money from the turbo-charged section of the economy and share it more broadly around the nation, and that is what the mining tax does.</p>
 <p>HOST: Prime Minister, we will have to leave it there. Thank you very much for your time this morning.</p>
 <p>PM: Thank you Lisa. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

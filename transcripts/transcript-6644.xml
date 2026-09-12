@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6644</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>07/06/1985</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006644.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 7 JUNE 1985<br />
-The Governor-General, accompanied by Lady Stephen, will leave<br />
-Australia later this month to undertake a State visit to<br />
-New Zealand. The Governor-General will be away for approximately<br />
-one week.<br />
-Sir James Ramsay, Governor of Queensland, will administer the<br />
-Government of the Commonwealth of Australia during the<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6644</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>07/06/1985</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006644.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 7 JUNE 1985<br>
+The Governor-General, accompanied by Lady Stephen, will leave<br>
+Australia later this month to undertake a State visit to<br>
+New Zealand. The Governor-General will be away for approximately<br>
+one week.<br>
+Sir James Ramsay, Governor of Queensland, will administer the<br>
+Government of the Commonwealth of Australia during the<br>
 Governor-General's absence. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

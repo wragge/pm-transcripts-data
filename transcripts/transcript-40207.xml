@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40207</transcript-id>
-    <title>Launch of the Defence White Paper</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/02/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40207</transcript-id><title>Launch of the Defence White Paper</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/02/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Well, thank you very much, Secretary. Senator Marise Payne, the Minister for Defence, the Honourable, Dan Tehan the Minister for Defence Materiel and Minister for Veterans’ Affairs, the Honourable Michael McCormack, the Assistant Minister for Defence, my parliamentary colleagues, Senators Fawcett and Back, Air Chief Marshal Binskin, CDF, Secretary of Defence, who just introduced us here.</p>
 <p>Vice Admiral Griggs, Vice Admiral Barrett, Lieutenant General Campbell, Air Marshal Davies, Deputy Secretary Peter Baxter, who played such a big role in putting this together. The Defence Force Academy Commandant, Alan Clements, and you, the future of the ADF, the Cadets, and ladies and gentlemen -</p>
 <p>The security of Australia and its people is the most fundamental responsibility of Government.</p>
@@ -21,10 +11,12 @@
 <p>This White Paper is a plan to deliver a more potent, agile and engaged Australian Defence Force that is ready to respond whenever our interests are threatened or our help is needed.</p>
 <p>It is a plan to become more powerful on land and in the skies and more commanding both on the seas and beneath them.</p>
 <p>It is a program:</p>
-<ul><li>To be more resilient in the cyberspace;</li>
+<ul>
+<li>To be more resilient in the cyberspace;</li>
 <li>To be more innovative with technology;</li>
 <li>To have greater situational awareness, thanks to our advanced intelligence capabilities.</li>
-</ul><p>For those of you here in this auditorium, this is a document that directly impacts your careers in the Australian Defence Force; it ensures that you will have the resources and the technologies to protect and advance Australia’s interests.</p>
+</ul>
+<p>For those of you here in this auditorium, this is a document that directly impacts your careers in the Australian Defence Force; it ensures that you will have the resources and the technologies to protect and advance Australia’s interests.</p>
 <p>The Government recognises that a strong, competitive and sustainable Australian defence industry is vital to support our armed forces.</p>
 <p>Importantly, this White Paper will also affect the working lives and prospects of many civilian Australians - creating thousands of jobs across the regions and the cities of Australia.</p>
 <p>For the first time for any Defence White Paper, we are releasing today a Defence Integrated Investment Program and a new Defence Industry Policy Statement.</p>
@@ -89,11 +81,13 @@
 <p>That is why we have committed to this ambitious investment program to modernise and enhance the capability of the ADF.</p>
 <p>My Government will continue to invest in enhancing the skills of the men and women of the ADF so that they can continue to work at the very cutting edge of the connected, high technology environment of the modern battlefield.</p>
 <p>This involves an historic modernisation of our Navy including:</p>
-<ul><li>12 regionally superior submarines,</li>
+<ul>
+<li>12 regionally superior submarines,</li>
 <li>3 additional air warfare destroyers,</li>
 <li>9 new anti-submarine warfare frigates and</li>
 <li>12 new offshore patrol vessels</li>
-</ul><p>We will considerably strengthen our cyber capability.</p>
+</ul>
+<p>We will considerably strengthen our cyber capability.</p>
 <p>We will create a more potent air combat and air strike capability, centred around the Joint Strike Fighter.</p>
 <p>We will upgrade our Army’s equipment and armoured vehicle fleet.</p>
 <p>These investments will, in particular, deliver substantial opportunities for remote and regional Australia where so many ADF personnel and their families work and live.</p>
@@ -116,6 +110,4 @@
 <p>A great pleasure in launching the Defence White Paper 2016.</p>
 <p>And I now have great pleasure as well in introducing the Minister for Defence, Senator the Honourable Marise Payne.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

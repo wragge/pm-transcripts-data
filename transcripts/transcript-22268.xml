@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22268</transcript-id>
-    <title>Richard Carleton  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/05/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was shocked and saddened to learn of the sudden death of Richard Carleton today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22268</transcript-id><title>Richard Carleton  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/05/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was shocked and saddened to learn of the sudden death of Richard Carleton today.</p>
 <p>He was a great television personality who had a varied and highly successful career in journalism. Quite literally, he brought us news from the four corners of the globe.</p>
 <p>  He was an aggressive and uncompromising interviewer who strove for fairness and accuracy.</p>
 <p>Richard Carleton always understood the need to keep the viewing audience entertained</p>
@@ -17,6 +7,4 @@
 <p>Most people will remember Richard Carleton for his work in recent years with the Nine Network's 60 Minutes program. Previously, however, he made a great impact on Federal politics as a compere with the ABC's current affairs programs This Day Tonight and the Carleton Walsh Report.</p>
 <p>He will be greatly missed from Australian television.</p>
 <p>I extend my deepest sympathies to his wife Sharon, his three children and colleagues.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

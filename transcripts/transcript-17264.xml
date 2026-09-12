@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17264</transcript-id>
-    <title>Prime Minister Transcript of interview with Simon Beaumont 6PR 3 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: But first up this morning the Prime Minister and the Treasurer have made their response to the Ken Henry taxation reform blueprint. The Prime Minister joins us on the program this morning. Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17264</transcript-id><title>Prime Minister Transcript of interview with Simon Beaumont 6PR 3 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: But first up this morning the Prime Minister and the Treasurer have made their response to the Ken Henry taxation reform blueprint. The Prime Minister joins us on the program this morning. Prime Minister good morning.</p>
 <p>PM: Thanks for having me on the program.</p>
 <p>HOST: A tax grab on mining and resource companies, a resource rent tax, a hike of 40 per cent on Super Profits, many of those companies are West Australian. Why the tax grab?</p>
 <p>PM: Well can I just say first of all that we've got mining companies operating in Queensland where I am today, and in the West, and South Australia and elsewhere. In fact the mining industry is a huge slab of the Queensland economy where I come from, as it is in the West, and I'm a strong supporter of the mining industry. The key thing is, are we getting enough return for the entire needs of building infrastructure in states like Queensland and West Australia in the future? We believe we can do better, and we're on about getting a fair return for local people, that's why we've brought in this Super Profits Tax for the mining industry.</p>
@@ -40,6 +30,4 @@
 <p>PM: Well, Simon, can I say to all your listeners this morning - one of the big things that gets put to me every time I'm in the West, and I'm there every month or two, is people are really concerned about the adequacy of their retirement income. This is a big change for that. Not just for younger people in the workforce, but if you're over 50 we're also providing new tax incentives for people to top up their super as well. But you can't simply pull this out of thin air, it's got to be paid for, as do the changes for small business, and the funding for infrastructure. It's got to be paid for from somewhere, and obviously, big mining companies in the West and in Queensland and elsewhere are going to jump up and down about this. I understand that, and many of them will fund the political campaign against this Government as we head to an election at the end of this year. So for someone to suggest that this is all sort of a lay down misere and there's no problem, frankly, they don't know the mining industry as well as I do, because they're not going to be a happy bunch of campers, at least a number of them.</p>
 <p>HOST: Thanks for your time Prime Minister, thank you for talking to my listeners this morning. We appreciate it.</p>
 <p>PM: Thanks Simon, thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

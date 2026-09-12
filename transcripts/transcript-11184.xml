@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11184</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          INTERVIEW WITH MATT PEACOCK - AM PROGRAMME                                          </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/11/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Referendum, Constitutional Preamble, Defence Minister</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11184</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          INTERVIEW WITH MATT PEACOCK - AM PROGRAMME                                          </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/11/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Referendum, Constitutional Preamble, Defence Minister</p>
 <p>E&amp;OE.............</p>
 <p>  PEACOCK:</p>
 <p>  Prime Minister, thanks for joining us. You've said that we're a good and</p>
@@ -122,6 +112,4 @@
 <p>  PRIME MINISTER:</p>
 <p>  You're welcome.</p>
 <p>  [Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

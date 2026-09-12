@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17485</transcript-id>
-    <title>Transcript of joint press conference </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/11/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17485</transcript-id><title>Transcript of joint press conference </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/11/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: Accompanied by the Leader of Government Business, the Leader of the House and Minister for Infrastructure, Anthony Albanese, and by the Minister for Broadband, Communications and the Digital Economy, Stephen Conroy.</p>
 <p>Today in the Parliament the Government has delivered an historic win for Australian families and businesses, laying the way open for our further delivery of the National Broadband Network and achieving an historic microeconomic reform in this country through the structural separation of Telstra, however before going into that I do want to turn to the Leader of the House to have him explain today's Parliamentary proceedings.</p>
 <p>MINISTER ALBANESE: Thanks, Prime Minister. Today we saw the Parliament resumed in the House of Representatives, quite simply at great cost to the taxpayer so that Tony Abbott could rant and rave.</p>
@@ -102,6 +92,4 @@
 <p>Now, I am going to give frank assessments of how the Opposition is behaving in this parliament. That is making clear to Australians, for example, what we're doing in parliament today.</p>
 <p>It is impossible to explain why the parliament is sitting today without going to Tony Abbott's negativity and wrecking strategy. I've got to come here and tell people the truth. That is the truth.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41734</transcript-id>
-    <title>Press conference with the Minister for the Environment and Energy</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/08/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>National Energy Guarantee</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41734</transcript-id><title>Press conference with the Minister for the Environment and Energy</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/08/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>National Energy Guarantee</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Well the Party Room today has today overwhelmingly supported the National Energy Guarantee, and as a consequence, we are one step closer to cheaper and more reliable energy.</p>
 <p>This policy is part of our suite of measures that are already seeing us turning the corner on electricity prices - but there is a lot more to do.</p>
 <p>We had a very good discussion this morning with Rod Sims, the Chairman of the ACCC and author of that excellent report, whose recommendations we are seeking to implement and above all of course, recommendation #4. Well, there’s a number of them that are of equal merit, but recommendation #4 is of particular merit.</p>
@@ -105,6 +95,4 @@
 <p>Let me explain what it involves, just to be clear. So, the proposition is that a new generator - if they secured a number of commercial and industrial customers for, say, the first five years - then faces the problem of how do they cover themselves or give assurance to their bank for years six to 15? And what Rod Sims recommended was that the Government could provide what he called an ‘off-take’; others would call it a ‘put’. But basically a contract where the Government would say: “we'll take that power from you or cover you for the cost of that at a very low price”, not something the equity investors would want to see. They'd probably have lost all their money by that stage, but something that would cover the banks. And that enables then those long-term investments to be made. It would only be available to entrants other than the big operators, the big gentailers, like AGL and Origin and so forth. So it promotes competition, it promotes more dispatchability - but it's technology agnostic. And as Rod Sims was saying today he's seen expressions of interest from people in gas, in coal, in renewables firmed by gas or hydro or batteries, a whole range of technologies. So it's technology-agnostic and it is designed to get more competition, more generation and lower prices.</p>
 <p>That's what we're about; lower prices for electricity.</p>
 <p>Thank you all very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

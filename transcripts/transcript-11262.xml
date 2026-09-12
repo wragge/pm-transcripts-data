@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11262</transcript-id>
-    <title>MINISTERIAL CHANGES</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/07/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> As a consequence of Tim Fischer's decision to resign as</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11262</transcript-id><title>MINISTERIAL CHANGES</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/07/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> As a consequence of Tim Fischer's decision to resign as</p>
 <p> Deputy Prime Minister and Minister for Trade, I have decided to recommend</p>
 <p> the following Ministerial appointments and changes to His Excellency</p>
 <p> the Governor General.</p>
@@ -23,6 +13,4 @@
 <p>The new  ministerial arrangements</p>
 <p> will take effect from 20 July 1999.</p>
 <p> 5 July 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

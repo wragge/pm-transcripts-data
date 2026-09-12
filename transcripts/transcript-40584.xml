@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40584</transcript-id>
-    <title>Interview on Sunrise Channel 7</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>SAMANTHA ARMYTAGE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40584</transcript-id><title>Interview on Sunrise Channel 7</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>SAMANTHA ARMYTAGE:</strong></p>
 <p>Breaking news this morning, that earthquake in New Zealand. Have you been in touch with your New Zealand counterpart John Key about this quake, this deadly quake?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Yes, I spoke with John Key just a few moments ago. I assured him of absolute solidarity and support from Australia. John appreciated that. He knows that we support the Kiwis and they support us when it comes to emergencies and natural disasters like this.</p>
@@ -42,6 +32,4 @@
 <p>Thank you so much.</p>
 <p><strong>Ends</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

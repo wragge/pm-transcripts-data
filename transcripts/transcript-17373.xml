@@ -1,22 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17373</transcript-id>
-    <title>Governments sign up for Moreton Bay Rail </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/12/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Moreton Bay Regional Council</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17373</transcript-id><title>Governments sign up for Moreton Bay Rail </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/12/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Moreton Bay Regional Council</p>
 <p>Prime Minister Julia Gillard, Queensland Premier Anna Bligh and Moreton Bay Regional Council Mayor Allan Sutherland today signed the Moreton Bay Rail Link Intergovernmental Agreement at North Lakes.</p>
 <p>Prime Minister said the historic signing was a key milestone in the delivery of the Moreton Bay Rail Link - a crucial piece of nation building infrastructure for Queensland.</p>
 <p>Put simply, it means it is all systems go for this much-needed public transport system in one of the fastest growing regions in Australia.</p>
 <p> Key benefits of the project include:</p>
-<p> * 	Reduced travel times; when completed, an express train from Kippa-Ring to Brisbane CBD will take approximately 45 minutes, compared to more than an hour by car in peak traffic conditions.<br />
- * 	A reduction in congestion and carbon emissions; each full train will remove 600 cars and associated carbon emissions from arterial roads including the Bruce Highway.<br />
- * 	Local jobs; the Moreton Bay Rail Link will create over 8,000 new jobs over the life of the project.<br />
+<p> * 	Reduced travel times; when completed, an express train from Kippa-Ring to Brisbane CBD will take approximately 45 minutes, compared to more than an hour by car in peak traffic conditions.<br>
+ * 	A reduction in congestion and carbon emissions; each full train will remove 600 cars and associated carbon emissions from arterial roads including the Bruce Highway.<br>
+ * 	Local jobs; the Moreton Bay Rail Link will create over 8,000 new jobs over the life of the project.<br>
  * 	Greater use of public transport; at present, more than half the region's working population leaves the region for work daily with (83%) commuting by private vehicle.</p>
 <p>The $1.15 billion project is jointly funded by the Australian Government ($742 million), the Queensland Government ($300 million) and Moreton Bay Regional Council ($105 million).</p>
 <p>The Queensland Government will also provide the rail corridor for the project, which had been preserved for three decades and is valued at $120 million.</p>
@@ -30,6 +20,4 @@
 <p>Construction of the Moreton Bay Rail Link is scheduled to be completed by 2016.</p>
 <p>Community consultation is already underway and continues with the third community open day held tomorrow, Saturday December 4, 2010, at the Redcliffe Library, Oxley Avenue, Redcliffe.</p>
 <p>Further community open days are also planned for February 2011.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41287</transcript-id>
-    <title>Press Conference – Parliament House</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>07/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Citizenship</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41287</transcript-id><title>Press Conference – Parliament House</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>07/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Citizenship</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good afternoon.</p>
 <p>I’ve just concluded a meeting of the Cabinet and after having discussed this citizenship issue over the last few days with the Speaker and the Clerk of the House and now of course with my Cabinet colleagues, I can announce that the Government will be proposing, or is proposing that both the House and the Senate should resolve on additional means of transparency and disclosure on matters relating to citizenship.</p>
 <p>I’ll go through the resolution that we propose. It’s cast in terms of the House of Representatives but obviously a similar resolution will be proposed in the Senate and this is what the resolution would say.</p>
@@ -17,9 +7,9 @@
 <p>a) A declaration by the member that at the time the member nominated for election to the House of Representatives, he or she was not, to the best of his or her knowledge and belief, a citizen of any country other than Australia.</p>
 <p>b) A declaration that the member, to the best of his or her knowledge and belief, is not a citizen of any other country other than Australia.</p>
 <p>c) So far as the member is aware, the place and date of the member's birth and citizenship, which the member held at the time of birth</p>
-<p>d) So far as the member is aware, the place and date of the birth of the member's parents.</p>
-<p>e) Whether to the best of the member's knowledge and belief, the member has ever been a citizen of another country and if so, which country or countries.</p>
-<p>f) If the member has answered the previous question in the affirmative, then provide details and evidence of the time and manner in which the member's citizenship of that other country was renounced or otherwise came to an end.</p>
+<p>d)&nbsp;So far as the member is aware, the place and date of the birth of the member's parents.</p>
+<p>e)&nbsp;Whether to the best of the member's knowledge and belief, the member has ever been a citizen of another country and if so, which country or countries.</p>
+<p>f)&nbsp;If the member has answered the previous question in the affirmative, then provide details and evidence of the time and manner in which the member's citizenship of that other country was renounced or otherwise came to an end.</p>
 <p>And there’s a provision that this information would be updated in the usual way. The registrar of member's interests shall upon the expiry of the time period for lodging the statement, provide such statements received to the Speaker who will then publish them.</p>
 <p>What this is doing is using essentially the same process that we have for disclosure of member's interests - that’s financial and pecuniary interests - which you’re all familiar with - for disclosure of this information.</p>
 <p>Now as I’ve said repeatedly over recent times, every member of the House and every member of the Senate has a personal obligation to ensure that they are in compliance with the Constitution. That obligation is continuing and if they have reason to believe they are not, then they should say so and take the appropriate action.</p>
@@ -42,7 +32,7 @@
 <p>Prime Minister are you requiring documentation? One of the points that you made is that documentation would have to be provided.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah, what we’re proposing in f) which is the one relating to renunciation of citizenship, is that the member would provide details and evidence of the time and the manner in which the citizenship came to an end. So for example, if they had been a citizen of the United Kingdom they might say: “Well, I filed my notice of renunciation and I received confirmation from the Home Office at such and such a date and here it is.”</p>
-<p>Of course, there are other countries where the citizenship of a foreign country expires or is terminated upon becoming a citizen of Australia. So, they would say: “By reference to such and such a law of this other country, my citizenship expired.” It's asking for an explanation.</p>
+<p>Of course, there are other countries where the citizenship of a foreign country expires or is terminated upon becoming a citizen of Australia. So, they would say: “By reference to such and such a law of this other country, my citizenship expired.” It's asking&nbsp;for an explanation.</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Prime Minister, how confident are you that every Liberal MP has their affairs in order and you won’t lose more MPs through this process?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -74,7 +64,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well clearly Mark, the reason the House would move that a particular member be referred to the High Court is because it felt that there was - they either weren’t eligible or that there was sufficient doubt about it, that the High Court needed to deal with it.</p>
 <p>A member of the House is always able to resign. If a member resigns then there’s a by-election. In the Senate there has to be a reference because it’s the court that has to decide the method of replacement - which is normally a count back as we’ve just seen recently.</p>
-<p>And then the AEC, as you know, comes back after the count back to the High Court as the Court of Disputed Returns and says right, we’ve done the count back you know, Senator ‘X’ replaces Senator ‘Y’ and the court then affirms that in the normal way. </p>
+<p>And then the AEC, as you know, comes back after the count back to the High Court as the Court of Disputed Returns and says right, we’ve done the count back you know, Senator ‘X’ replaces Senator ‘Y’ and the court then affirms that in the normal way.&nbsp;</p>
 <p><strong>JOURNALIST: </strong></p>
 <p>Is there a role for the Attorney-General in this process at all given that he has had quite a prominent role and the Solicitor General giving advice on Senators and Members?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -135,7 +125,7 @@
 <p>Now, I’m not making any undertakings or statements about him. Just use him as an example.</p>
 <p>Sam Dastyari as I understand it is a citizen of Iran. He says he has done everything he can to renounce that citizenship, but has been unable to do so. This is one of the lines of reasoning that came out earlier of Sykes v Cleary in fact in ‘92. What do you do with somebody who is a citizen of a foreign country but that foreign country simply won’t allow them to renounce their citizenship?</p>
 <p>You know, where does it become, where does the renunciation efforts become reasonable?</p>
-<p>So that’s the sort of case where you may get a situation where somebody's - where somebody is a citizen of another country but it is not disqualifying. </p>
+<p>So that’s the sort of case where you may get a situation where somebody's - where somebody is a citizen of another country but it is not disqualifying.&nbsp;</p>
 <p>But given the literal, the severity, and I don’t say that in the critical term, but the very strict literal interpretation of the court's decision, if people are foreign citizens, then unless there is a proviso of the kind I described, then they should not be sitting in the Parliament.</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Prime Minister, is it a matter of principle now that you have got the High Court ruling, if this process tosses up a frontbencher on either side, minister or a shadow minister, should they retain their ministries or shadow ministries or should they stand down if they’re referred to the High Court?</p>
@@ -185,6 +175,4 @@
 <p>That is absolutely - this is about transparency, it is about confidence, it is about standing up for the Constitution, but as I say, the obligation to comply with the Constitution in terms of being qualified to sit in the House or the Senate is on the shoulders of each and every member and senator. It is their obligation. That's why this will be their declarations and their disclosures.</p>
 <p>Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

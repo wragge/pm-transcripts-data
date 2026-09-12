@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16182</transcript-id>
-    <title>Joint Press Release  with the Treasurer, Wayne Swan Macroeconomic Conditions  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/10/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The global financial system is experiencing its most significant upheaval since the Great Depression.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16182</transcript-id><title>Joint Press Release  with the Treasurer, Wayne Swan Macroeconomic Conditions  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/10/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The global financial system is experiencing its most significant upheaval since the Great Depression.</p>
 <p>More than 25 banks around the world have failed or been bailed out. Global stock markets have suffered significant losses.</p>
 <p>The crisis has buffeted confidence around the world and is contributing to a serious slowdown in the global economy.</p>
 <p>The International Monetary Fund now expects growth of less than 1 per cent in six of the world's largest developed economies next year.</p>
@@ -71,6 +61,4 @@
 <p>The Economic Security Strategy will complement the Reserve Bank's recent moves to reduce official interest rates. It also builds on the measures the Rudd Government announced in the 2008-09 Budget.</p>
 <p>Treasury advises that the Budget will be in surplus after these measures. The Government will publish a full budget update in the Mid-Year Economic and Fiscal Outlook to be released within a month.</p>
 <p>All advice currently available to the Rudd Government is that the Australian economy will continue to experience positive economic growth.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

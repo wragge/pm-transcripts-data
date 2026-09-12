@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11869</transcript-id>
-    <title>Doorstop Interview, Manuka Oval/2 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Interest rates in the United States.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11869</transcript-id><title>Doorstop Interview, Manuka Oval/2 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Interest rates in the United States.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Can I ask you a quick question about the interest rates in the US?</p>
@@ -28,6 +18,4 @@
 <p>PRIME MINISTER:</p>
 <p>Good try Tom.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

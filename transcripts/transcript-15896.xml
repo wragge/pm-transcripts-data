@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15896</transcript-id>
-    <title>Interview with Phil Kafcaloudes, ABC Radio 774, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/05/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KAFCALOUDES: Prime Minister, of course, the news today is very sad news, we've heard about that boat accident that happened on Sydney Harbour. What is your immediate reaction to this?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15896</transcript-id><title>Interview with Phil Kafcaloudes, ABC Radio 774, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/05/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KAFCALOUDES: Prime Minister, of course, the news today is very sad news, we've heard about that boat accident that happened on Sydney Harbour. What is your immediate reaction to this?</p>
 <p>PM: This is terrible news. It's just stunning news. In fact, I had to be told twice about it this morning to make sure I had it right that we'd lost five people overnight on the harbour, and young people. It's one of those appalling tragedies that is every parent's nightmare to wake up and find that one of your kids, who has gone out for a bit of fun the night before, comes home dead. It's just appalling. My heart goes out to the parents of those concerned. It's just horrible.</p>
 <p>KAFCALOUDES: Have you got any more information that you can tell us? What have you been told about the incident?</p>
 <p>PM: No, I haven't as yet. I'm relying effectively on the public reports that we have seen, and plus, as I understand it, a statement by the New South Wales Police. These matters are under investigation, but this is just appalling. In Sydney, as I'm sure your listeners know, so much of that city's life and activity and celebration, recreation, occurs on or around the harbour. And so, when these sort of things happen, it's not just the immediate tragedy which affects the families of those concerned and those who are still in hospital, but, I think all Sydneysiders feel this because the harbour is the centre of their life.</p>
@@ -40,6 +30,4 @@
 <p>The Government welcomes foreign investment in Australia. It's good for the economy and good for jobs. But any significant foreign investment, including this one, has to satisfy the Government's overall national interest test, and they will be applied by the Treasurer in his evaluation of this proposal.</p>
 <p>KAFCALOUDES: Prime Minister, thanks for coming on 774 ABC Melbourne.</p>
 <p>PM: Thanks very much, and good morning to all your listeners.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23140</transcript-id>
-    <title>Address to the Business Council of Australia 30th Anniversary Dinner, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>04/12/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Last week, I attended the Austrade export awards. It was an honour to meet all of the finalists – who were all conquering overseas markets in fields as diverse as high-tech microphones, organic meat, and private sector ship certification.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23140</transcript-id><title>Address to the Business Council of Australia 30th Anniversary Dinner, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>04/12/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Last week, I attended the Austrade export awards. It was an honour to meet all of the finalists – who were all conquering overseas markets in fields as diverse as high-tech microphones, organic meat, and private sector ship certification.</p>
 <p>RODE microphones, for instance, now has a network of 76 distributors and 2,000 retailers in 108 locations worldwide. Last year, it achieved export sales of $33 million – 10 per cent up on the previous year, despite the high dollar.</p>
 <p>Unlike many in this room, it’s not a big company but it’s having a go and succeeding – and building a stronger Australia along the way.</p>
 <p>Tasmanian Quality Meats has gone from nothing to $12 million a year in export sales to new markets in the Middle East. Along the way, it’s tripled its workforce, bringing prosperity and economic activity to a small town in Tasmania.</p>
@@ -37,7 +27,8 @@
 <p>Handled properly, better competition policy is a big micro-economic reform with the Hilmer changes, for instance, adding an estimated 2.5 per cent to Australia’s overall GDP.</p>
 <p>This new review is designed to ensure that businesses big and small are competing on a genuinely level playing field because fierce but fair competition will give every business the best chance to succeed and give every customer the best chance of a good price.</p>
 <p>Also tonight I announce that the Prime Minister’s Business Advisory Council will be chaired by Maurice Newman and will include:</p>
-<ul><li>Jac Nasser, the chairman of BHP and the former global head of Ford;</li>
+<ul>
+<li>Jac Nasser, the chairman of BHP and the former global head of Ford;</li>
 <li>Michael Chaney, the chairman of the National Australia Bank and a University Chancellor;</li>
 <li>Catherine Livingstone, the chairman of Telstra;</li>
 <li>Solly Lew, one of our foremost retailers;</li>
@@ -48,7 +39,8 @@
 <li>Gary Banks, former head of the Productivity Commission;</li>
 <li>Barry Irvin, head of Bega Cheese; and</li>
 <li>John Hart, who heads Catering Australia, and will bring a small business perspective to the Council’s deliberations.</li>
-</ul><p>I thank everyone who expressed interest in joining the Council. Along with the BCA, this Council should be more than capable of guiding, encouraging and, where necessary, warning the new Government, officials, as well as ministers, as we put in place the building blocks of the stronger economy that people voted for.</p>
+</ul>
+<p>I thank everyone who expressed interest in joining the Council. Along with the BCA, this Council should be more than capable of guiding, encouraging and, where necessary, warning the new Government, officials, as well as ministers, as we put in place the building blocks of the stronger economy that people voted for.</p>
 <p>Big new infrastructure projects like WestConnex in Sydney, the East West Link in Melbourne, the Gateway upgrade in Brisbane, the Perth Gateway, the North South Rd in Adelaide, and the Pacific and Bruce Highway upgrades are being accelerated.</p>
 <p>We’re dealing with debt that was spiralling way beyond $400 billion by not continuing payments like the schoolkids bonus that was just a cash splash with borrowed money.</p>
 <p>We’re fixing the NBN which was billions over budget and years behind schedule.</p>
@@ -69,7 +61,7 @@
 <p>Requiring Cabinet submissions to be lodged 10 days before consideration so they can be properly digested by departments and probed for unintended consequences is the tried and true Westminster way of running an effective government.</p>
 <p>Normally, it’s better to get things right than to rush them through.</p>
 <p>So, tax reform starts with abolishing the carbon tax and the mining tax but it doesn’t end there. The coming tax reform white paper will inform the mandate for lower, simpler, fairer taxes that the Government will seek at the next election.</p>
-<p>Workplace relations reform starts with enforcing the rule of law but it doesn’t end there.  The coming Productivity Commission review will inform the mandate for higher wages based on higher productivity that the Government will seek at the next election.</p>
+<p>Workplace relations reform starts with enforcing the rule of law but it doesn’t end there.&nbsp; The coming Productivity Commission review will inform the mandate for higher wages based on higher productivity that the Government will seek at the next election.</p>
 <p>Reform of government starts with the Commission of Audit but it doesn’t end there. The coming white paper on the federation will inform the mandate for less overlap and duplication that the Government will seek at the next election.</p>
 <p>Make no mistake, this Government is determined to be a reforming one, in the tradition of the Hawke and Howard governments, but we will be pragmatic reformers rather than ideological ones.</p>
 <p>Good government does what it can today so that it can get what it wants tomorrow.</p>
@@ -91,6 +83,4 @@
 <p>There has been an intellectual rigour, may I say it, a practical idealism to the work of the BCA over the last 30 years.</p>
 <p>And let’s face it at least 25 years of the last 30 have been very good hears for our country, very good years for public policy in this country thanks in no small measure to the work that you have done.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

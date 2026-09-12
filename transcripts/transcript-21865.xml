@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21865</transcript-id>
-    <title>Address at VP Day Commemorative Ceremony Australian War Memorial, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/2005</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>My fellow Australians, every generation paints the past as a simpler, more certain, more innocent time. But let we who are heirs to the sacrifice of a great generation set aside that conceit today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21865</transcript-id><title>Address at VP Day Commemorative Ceremony Australian War Memorial, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/2005</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>My fellow Australians, every generation paints the past as a simpler, more certain, more innocent time. But let we who are heirs to the sacrifice of a great generation set aside that conceit today.</p>
 <p>There was nothing simple about the lives of those who won a global war and turned the tide of history.</p>
 <p>  Victory over the evils of Nazism, Fascism and militarism could not be certain through dark months of doubt.</p>
 <p>  And innocence offered little to those who died so we could live in peace and freedom.  The Second World War was not just our gravest hour, when Australia was imperilled as never before.  It was the hour when, across oceans and continents, the flame of democratic liberty flickered violently and almost went out.</p>
@@ -38,6 +28,4 @@
 <p>  Yours is a legacy that says freedom must be valued, defended, and, where necessary, fought for.  It reminds each generation that love of country is a noble impulse, calling us to high ideals and causes bigger than ourselves.  It reaffirms our faith in Australia and its future.</p>
 <p> In our time - and for all time - we will remember you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

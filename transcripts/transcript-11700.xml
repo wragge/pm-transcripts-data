@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11700</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT THE COMMUNITY LUNCHEON IN MACLEAN            MACLEAN-LOWER CLARENCE SERVICES CLUB</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/02/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE ..........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11700</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT THE COMMUNITY LUNCHEON IN MACLEAN            MACLEAN-LOWER CLARENCE SERVICES CLUB</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/02/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE ..........................................................................................</p>
 <p>Well, thank you Ian and ladies and gentlemen. It is for all of the reasons</p>
 <p> for which you have been made aware, a particular pleasure for me to address</p>
 <p> this gathering in Maclean. It is as it is described a mighty river and</p>
@@ -291,6 +281,4 @@
 <p> to be in Maclean. It is a beautiful part of the world. Thank you very,</p>
 <p> very much for your very warm welcome.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

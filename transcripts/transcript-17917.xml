@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17917</transcript-id>
-    <title>Australia&#039;s largest solar thermal research hub opens for business</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17917</transcript-id><title><![CDATA[Australia&#039;s largest solar thermal research hub opens for business]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia will be at the forefront of global solar thermal research with the launch of a new facility in Newcastle today.</p>
 <p>Prime Minister Julia Gillard, Minister for Resources and Energy, Martin Ferguson and Member for Newcastle, Sharon Grierson officially opened the CSIRO Solar Tower this morning.</p>
 <p>The world-class facility will be an international hub for solar tower research, development and commercialisation.</p>
@@ -29,6 +19,4 @@ Australia will be at the forefront of global solar thermal research with the lau
 <p>Our support for research and development through the $5 billion Clean Energy Initiative will help commercialise the technologies to take advantage of these opportunities.</p>
 <p>The opening of the solar tower marks an important step in the path to a lower-emissions economy for Australia.</p>
 <p>Images, podcast and video available at <a href="http://www.scienceimage.csiro.au">www.scienceimage.csiro.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

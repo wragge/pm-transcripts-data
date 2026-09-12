@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23149</transcript-id>
-    <title>Statement</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/12/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I’m about to go to South Africa for the funeral of Nelson Mandela. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23149</transcript-id><title>Statement</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/12/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I’m about to go to South Africa for the funeral of Nelson Mandela. </p>
 <p>I’ve asked the Leader of the Opposition to accompany me, in recognition of the fact that governments of both sides of Australian politics campaigned for an end to apartheid and very much supported the new South Africa that Nelson Mandela, more than anyone, brought into being. </p>
 <p>Nelson Mandela was one of the great figures of the last century. He is the father of modern South Africa. He brought forgiveness to a broken country. He was a moral leader, as well as a political leader, and the whole world honours him at this time. </p>
 <p>Obviously this is a very important week here in the Parliament, at home. It’s the last sitting week of the year. It’s the week when the Senate will consider the legislation to repeal the carbon tax and the mining tax. </p>
@@ -17,6 +7,4 @@
 <p>Now is the chance for the Labor Party to get real and to repeal this toxic tax. </p>
 <p>Repealing the carbon tax will mean that every Australian household is $550 a year better off. So, the very best present that the Parliament could give to the Australian people this Christmas - the very best present that the Labor Party could give to the people of Australia this Christmas - is to pass the carbon tax repeal legislation. That is the big challenge that our Parliament faces this week. </p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

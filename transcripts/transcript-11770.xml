@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11770</transcript-id>
-    <title>Doorstop Interview, Perth</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Australian swim team; greenhouse gas emissions; economy; Australian Army.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11770</transcript-id><title>Doorstop Interview, Perth</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Australian swim team; greenhouse gas emissions; economy; Australian Army.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, can I just start by asking you about the VIP Jet fleet? There was an incident this morning on a flight from Perth to Karratha, there was an incident last week. Are you concerned about the safety of those aircraft?</p>
@@ -69,6 +59,4 @@
 <p>Well you will always get some unacceptable behaviour in a large organisation, no matter what it is. But the suggestion that there was some systematic culture was always wrong in my view and I'm just very pleased for the men and women of the ADF that that finding has been made.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

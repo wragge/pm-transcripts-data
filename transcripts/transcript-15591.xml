@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15591</transcript-id>
-    <title>Doorstop Interview, Tenix, Williamstown</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/10/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15591</transcript-id><title>Doorstop Interview, Tenix, Williamstown</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/10/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Capital punishment; cartel operations; Richard Pratt; death of Trooper Pearce   in Afghanistan.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -48,6 +38,4 @@ Capital punishment; cartel operations; Richard Pratt; death of Trooper Pearce   
 <p>Of course I do, and the Australian people will make their own judgements of those decisions according to their assessment of the merits. It's a reminder, a very sad reminder, that when men and women go overseas in our name, wearing our uniform they assume risks that the rest of us don't assume and they are therefore entitled to a special place in our affections and a special place in our regard and our esteem. </p>
 <p>Thank you.</p>
 <p>  [ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

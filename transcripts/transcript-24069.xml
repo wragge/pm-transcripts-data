@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24069</transcript-id>
-    <title>Press Conference, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/12/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Incident in Martin Place, Sydney.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24069</transcript-id><title>Press Conference, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/12/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Incident in Martin Place, Sydney.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>I just want to make a short statement on the hostage incident in Martin Place in Sydney.</p>
 <p>New South Wales Police are responding. They are being strongly supported by Commonwealth agencies.</p>
 <p>We don't yet know the motivation of the perpetrator.</p>
@@ -31,6 +21,4 @@
 <p>I'm going to leave it to the New South Wales Police – who are in operational charge of this incident – to provide those kinds of details. Obviously, in a situation like this, all sorts of reports fly around, all sorts of claims are made, so I do urge everyone to exercise caution in their reporting, but I will leave all of the operational details to the New South Wales police who, as I understand it, will begin providing operational updates shortly.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21864</transcript-id>
-    <title>Interview with John Barron ABC News Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21864</transcript-id><title>Interview with John Barron ABC News Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Looking back to August 15th 1945, you were quite a young lad at the time. Do you have any tangible memories of the day?</p>
 <p>PRIME MINISTER:</p>
 <p>Yes I do. I can remember my older brother Bob, I was six at the time, saying to me if the headlines are big then the war is over. Now that's what he said, that's my recollection, something to that effect... maybe he didn't put it that way but I can still remember him standing at our bedroom window - we shared a bedroom at the time, holding up this copy I guess, it was the Sydney Morning Herald.  Maybe in those days you still had a broadsheet of the old Sydney Sun, I don't know, but maybe you did. And the headlines were certainly very big and I do remember going to something on Sydney Harbour, being on the foreshores of Sydney Harbour and watching some fireworks, and searchlights. One of my very earliest recollections as a child were of searchlights, which probably would've gone up around the time of the Midget  Submarine scare, or a bit later, but these recollections are very vague and unclear aren't they.</p>
@@ -37,6 +27,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

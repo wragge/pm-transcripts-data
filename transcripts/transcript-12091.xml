@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12091</transcript-id>
-    <title>Interview with Liam Bartlett, Radio 6WF</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/06/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: TV coverage of Ashes Series; ABC; foreign debt; politicians' salaries; illegal immigrants; National Drug Strategy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12091</transcript-id><title>Interview with Liam Bartlett, Radio 6WF</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/06/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: TV coverage of Ashes Series; ABC; foreign debt; politicians' salaries; illegal immigrants; National Drug Strategy.</p>
 <p>E&amp;OE................................</p>
 <p>BARTLETT:</p>
 <p>Prime Minister, good morning.</p>
@@ -194,6 +184,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

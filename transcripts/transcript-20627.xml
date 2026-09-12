@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20627</transcript-id>
-    <title>Doorstop Interview, Mount Stromlo, Canberra   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20627</transcript-id><title>Doorstop Interview, Mount Stromlo, Canberra   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>What's the latest update you've had on the situation in the north-east of the city, what's your concerns?</p>
 <p>PRIME MINISTER:</p>
 <p>Well my information is similar to the information that's available to the public and that is that people should be alert and careful and prepared. But things have not turned for the worse and we hope they don't but the danger still exists, I can't really add to the warnings that have been given to the public, everybody's entitled to have the same information at a time like this because our responsibility, or the Government's responsibility, is to make sure that people are properly warned so they can take whatever precautions they're able to.</p>
@@ -31,6 +21,4 @@
 <p>I would encourage people from everywhere to support it.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

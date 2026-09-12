@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17285</transcript-id>
-    <title>Prime Minister A new era for the Australian Public Service and the ANU Speech at the opening of the J.G. Crawford Building at the ANU Canberra 8 May 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/05/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17285</transcript-id><title>Prime Minister A new era for the Australian Public Service and the ANU Speech at the opening of the J.G. Crawford Building at the ANU Canberra 8 May 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/05/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>It is great to be back here at our national university.</p>
 <p>My visits are becoming so regular I'm expecting Ian Chubb will soon renew my old student card.</p>
@@ -185,6 +175,4 @@
 <p>The Australian Institute of Public Policy and the APS reform blueprint will help equip the leaders of the Australian Public Service of today and tomorrow - the policy analysts, advisers and public sector leaders.</p>
 <p>In short, the nation-builders of Australia's future.</p>
 <p>In that context it gives me great pleasure to declare open the home of the Crawford School for Economics and Government, the JG Crawford Building. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

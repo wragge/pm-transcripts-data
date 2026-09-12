@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21409</transcript-id>
-    <title>Doorstop Interview Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21409</transcript-id><title>Doorstop Interview Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Good morning, thank you.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, what have you got planned for the day?</p>
@@ -48,6 +38,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well, it's time that he stopped dithering and made up his mind.  Look, over the last five months since the Free Trade Agreement was signed the Labor Party hasn't been assessing the Australian national interest, they've been assessing the Labor Party's political interest.  And if in the end Labor does support the agreement it won't be because it's concerned about our national interest, it will be have been a political decision and it will be the political interest of the Labor Party that will determine their attitude and whatever that attitude is I think that's pathetic.  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

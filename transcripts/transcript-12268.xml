@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12268</transcript-id>
-    <title>Peter Wilis Centre for Bioinformatics</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/08/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Government will contribute $750,000 towards the establishment of a world class bioinformatics unit within the Garvan Institute of Medical Research in Sydney.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12268</transcript-id><title>Peter Wilis Centre for Bioinformatics</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/08/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Government will contribute $750,000 towards the establishment of a world class bioinformatics unit within the Garvan Institute of Medical Research in Sydney.</p>
 <p>The new bioinformatics facility will be named the Peter Wills Centre for Bioinformatics in recognition of Peter Wills' enormous contribution to Australian medical research over the last decade.</p>
 <p>Bioinformatics is the interface between the biotechnology and information technology "revolutions", and promises to provide the major source of new discoveries in health and disease over the next decade.</p>
 <p>For example, it encompasses the translation of discoveries from the human genome database into novel and highly effective new ways to prevent and treat such disorders as cancer, arthritis, heart disease, osteoporosis, diabetes, asthma , mental illness and dementia.</p>
@@ -18,6 +8,4 @@
 <p>In his capacity as past Chairman of the Garvan Institute and as the architect of the highly successful Strategic Review into Health and Medical Research, Peter Wills has helped reinvigorate and refocus the direction of medical research in Australia. The naming of the Centre is particularly fitting given that the Wills Report highlighted the future importance of bioinformatics in translating today's research into tomorrow's cures.</p>
 <p>In his new role as Chairman of the Australian Research Council, Peter will continue his commitment to further develop Australia's intellectual capital.</p>
 <p>8 August 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

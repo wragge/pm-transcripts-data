@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22774</transcript-id>
-    <title>Transcript of interview with Lisa Wilkinson on the Today Show</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>25/07/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject(s): PNG asylum seeker deal; debate with Opposition Leader<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22774</transcript-id><title>Transcript of interview with Lisa Wilkinson on the Today Show</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>25/07/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject(s): PNG asylum seeker deal; debate with Opposition Leader<br>
 HOST: Good morning to you, Prime Minister.</p>
 <p>PM: Good morning Lisa, from a very chilly Tasmania.</p>
 <p>HOST: Well hopefully this will warm you up, Prime Minister.</p>
@@ -73,6 +63,4 @@ HOST: Good morning to you, Prime Minister.</p>
 <p>Mr Abbott gives us three-word slogans.</p>
 <p>HOST: Ok, Prime Minister. Unfortunately we’ve got to zip. Thanks very much for your time this morning.</p>
 <p>PM: Thanks very much Lisa.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

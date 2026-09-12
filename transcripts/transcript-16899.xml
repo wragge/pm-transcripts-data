@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16899</transcript-id>
-    <title>Transcript of interview on ABC Radio National with Fran Kelly    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KELLY: Prime Minister, welcome to breakfast.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16899</transcript-id><title>Transcript of interview on ABC Radio National with Fran Kelly    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KELLY: Prime Minister, welcome to breakfast.</p>
 <p>PM: Good morning.</p>
 <p>KELLY: Prime Minister, the standoff onboard the Oceanic Viking has dragged into the 19th day now. Beyond, patience, what's your policy?</p>
 <p>PM: Can I say, firstly, in terms of the introduction you just played, the bottom line is our policy, when it comes to challenge of border protection, is hardline when it comes to people smugglers and humane in dealing with asylum seekers. That is the responsible approach that we took to the last election, including how we would reform border protection policy and immigration policy. That is the policy we have implemented since that time, and we've not changed.</p>
@@ -53,6 +43,4 @@
 <p>So I welcome Peter Costello's appointment in this area, on the Future Fund. Similarly with Kim Beazley in the United States and with Brendan Nelson in Brussels and we'll continue to make appropriate appointments into the future. We need to be a Government and a nation which harvests all of our talents, given the future challenges we have.</p>
 <p>KELLY: Prime Minister it's nice to have you on breakfast. Thanks very much for joining us.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

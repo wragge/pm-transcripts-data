@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18196</transcript-id>
-    <title>NBN coming to a town near you</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18196</transcript-id><title>NBN coming to a town near you</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced construction will commence over the next twelve months to connect almost half a million new premises to Australia's world class National Broadband Network, providing massive economic and social benefits.</p>
 <p>In the biggest rollout of the NBN so far, the fibre network will be delivered to 49 sites around Australia in the next 12 months. This includes 28 new locations.</p>
 <p>This rollout builds on the 81,700 premises that are either already connected to the NBN or where connection work is currently underway.</p>
@@ -29,6 +19,4 @@ Prime Minister Julia Gillard today announced construction will commence over the
 <p>The release of the 12 month construction timetable proves this is a reality and well underway.</p>
 <p>NBN Co expects it will take an average of 12 months from the beginning of construction in each location for the owners of premises to receive high speed broadband and telephone services.</p>
 <p>Detailed mapping information is expected to be made available once network design documents for each area are finalised. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

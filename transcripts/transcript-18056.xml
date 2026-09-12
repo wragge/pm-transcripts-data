@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18056</transcript-id>
-    <title>Transcript of joint press conference, Launceston </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/08/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18056</transcript-id><title>Transcript of joint press conference, Launceston </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/08/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here in Tasmania today and I'm joined as you can see by the Premier and the Deputy Premier.</p>
 <p>I came to Tasmania two weeks ago to work with the Premier and Deputy Premier on the future of forestry in Tasmania and on job security for workers in this state. We worked on a heads of agreement and signed it that weekend. That heads of agreement committed us to entering a full and detailed agreement in 14 days. Here we are 14 days later and Premier and I have just signed that agreement.</p>
 <p>What this agreement responds to is changing market conditions, particularly the decision of Gunns to exit the native forestry industry. What that meant was a wave of insecurity for people who work in the industry and also contractors in the industry. It also meant that Tasmania needed to face up to the challenge of further diversifying its economic base and at the same time there was a major opportunity here to secure new forest reserves and better protection for some special areas of the forests in Tasmania.</p>
@@ -71,6 +61,4 @@ PM: I'm here in Tasmania today and I'm joined as you can see by the Premier and 
 <p>JOURNALIST: Prime Minister what did you make of the state of the Labor party here in Tasmania at the moment? We saw all of the protests and fighting yesterday?</p>
 <p>PM: I think probably the best thing is for me to go and address the Labor Party here and have a look.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

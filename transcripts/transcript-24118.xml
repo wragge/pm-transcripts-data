@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24118</transcript-id>
-    <title>Interview with Mike Smithson and Tom Rehn, Radio FIVEaa</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/01/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Paris terror attack,  Daesh death cult,  visit to South Australian bushfire zone,  assistance for people affected by Sampson Flat bushfire,  future submarines project.</subjects>
-    <content><![CDATA[<p><strong>PRESENTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24118</transcript-id><title>Interview with Mike Smithson and Tom Rehn, Radio FIVEaa</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/01/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Paris terror attack, Daesh death cult, visit to South Australian bushfire zone, assistance for people affected by Sampson Flat bushfire, future submarines project.</subjects><content><![CDATA[<p><strong>PRESENTER:</strong></p>
 <p>We’re lucky enough now to have the Prime Minister Tony Abbott on the line. Good morning, Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning, and look, it’s a sad morning in two respects. Obviously, here in South Australia, people are still dealing with the effect of the devastating bushfires and, obviously, there’s shocking news from Paris overnight. This is yet another terrorist atrocity and it demonstrates the extent to which the ISIL – or Daesh as they call it in the Middle East – the Daesh death cult has declared war on the whole world.</p>
@@ -44,6 +34,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

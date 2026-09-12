@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17636</transcript-id>
-    <title>Transcript of interview with David Koch, Sunrise</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17636</transcript-id><title>Transcript of interview with David Koch, Sunrise</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Now, the Prime Minister is with us. Julia Gillard, good morning to you. </p>
 <p>PM: Good morning. </p>
 <p>HOST: We've been running a phone poll on this. We have asked: are you prepared to pay a flood levy to rebuild Queensland? 93 per cent have voted no from 4,500 calls. Are you going to be able to convince people that this is actually necessary, that you don't have the money to pay for it yourself out of our taxes? </p>
@@ -55,6 +45,4 @@ HOST: Now, the Prime Minister is with us. Julia Gillard, good morning to you. </
 <p>HOST: -But you say you can't but a cost on it. You say no-one knows the real cost of it. If you don't need all of that money will you give it back, or, if, for example, you don't dip into your contingency reserve or your revenue receipts are more than expected and your costs are lower and the deficit isn't as big, will you use that money to rebuild Queensland and then reimburse the levy? </p>
 <p>PM: Kochie, I don't see any circumstances where the bill for rebuilding Queensland and the nation is less than the $5.6 billion I outlined yesterday. It could be more, and if it is more then we will cut back other area areas of the Government budget in order to fund more. that's the approach that I'm taking.</p>
 <p>HOST: OK, alright, Prime Minister, we'll have to leave it there, run out of time. Thanks for joining us. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19010</transcript-id>
-    <title>Transcript of Remarks at Morning Tea for Australian of the Year Awards National Finalists</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/01/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Lodge, Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19010</transcript-id><title>Transcript of Remarks at Morning Tea for Australian of the Year Awards National Finalists</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/01/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Lodge, Canberra</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>We're here to honour every finalist, everyone who is here. Some very excited people who are part of the Australian of the Year process.</p>
 <p>You all should be very proud of yourselves and you are very welcome here.</p>
@@ -33,6 +23,4 @@
 <p>Adam will say a few words too and then please feel free to just wander and enjoy.</p>
 <p>That's what it's all for.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

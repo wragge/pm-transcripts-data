@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16302</transcript-id>
-    <title>Australia-Indonesia Conference    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today announced that Australia will host a major conference on the future of the Australia-Indonesia bilateral relationship in Sydney from 19 to 21 February 2009.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16302</transcript-id><title>Australia-Indonesia Conference    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today announced that Australia will host a major conference on the future of the Australia-Indonesia bilateral relationship in Sydney from 19 to 21 February 2009.</p>
 <p>The conference will bring together up to 120 leading Indonesians and Australians from a diverse range of backgrounds, such as government, business, the media, universities, community organisations, faith groups and youth.</p>
 <p>This important conference for the region's future will discuss challenges faced by both countries, including:</p>
 <p>     * strengthening democratic institutions;</p>
@@ -18,6 +8,4 @@
 <p>It will give people from different backgrounds the opportunity to generate ideas about the Australia  -  Indonesia relationship, and to help shape its future.</p>
 <p>Prime Minister Rudd and President Yudhoyono had previously discussed holding such a conference in earlier bilateral meetings.</p>
 <p>Both leaders firmly believe this conference will assist both Indonesian and Australian people to better understand each others' perspectives and priorities which will, in turn, assist in strengthening the already excellent bilateral relationship between the two countries.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

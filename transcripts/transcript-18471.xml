@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18471</transcript-id>
-    <title>NBN fibre rollout ramps up to over 3.5 million homes, businesses, schools and hospitals</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18471</transcript-id><title>NBN fibre rollout ramps up to over 3.5 million homes, businesses, schools and hospitals</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 More than 3.5 million homes, businesses, schools and hospitals will have construction of the National Broadband Network either commenced or completed within the next three years, under a new fibre rollout plan announced today.</p>
 <p>Across Australia, the numbers of homes, businesses, schools and hospitals that will see construction begin or be completed by mid 2015 are:</p>
-<p> * 	1,010,700 in New South Wales<br />
- * 	691,600 in Victoria<br />
- * 	678,600 in Queensland<br />
- * 	429,200 in Western Australia.<br />
- * 	327,300 in South Australia<br />
- * 	135,300 in the ACT<br />
- * 	65,200 in the Northern Territory<br />
+<p> * 	1,010,700 in New South Wales<br>
+ * 	691,600 in Victoria<br>
+ * 	678,600 in Queensland<br>
+ * 	429,200 in Western Australia.<br>
+ * 	327,300 in South Australia<br>
+ * 	135,300 in the ACT<br>
+ * 	65,200 in the Northern Territory<br>
  * 	209,100 in Tasmania</p>
 <p>Construction of the national fibre network rollout will begin between 1 April 2012 and 30 June 2015 in these locations, under NBN Co's indicative three year rollout plan.</p>
 <p>Today's announcement provides certainty to Australians who have been waiting to hear when they will get access to this critical infrastructure. It also shows the NBN rollout is about to go into high gear.</p>
@@ -33,6 +23,4 @@ More than 3.5 million homes, businesses, schools and hospitals will have constru
 <p>The three year rollout plan will be updated each year.</p>
 <p>A summary of NBN Co's three year indicative rollout schedule is available at Attachment A.</p>
 <p>NBN Co has established an interactive searchable map on its website detailing the rollout, available at: <a href="http://www.nbnco.com.au/rollout/rollout-map.html">www.nbnco.com.au/rollout/rollout-map.html</a>.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

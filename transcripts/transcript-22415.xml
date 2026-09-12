@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22415</transcript-id>
-    <title>Doorstop Interview Mosman Medical Practice, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22415</transcript-id><title>Doorstop Interview Mosman Medical Practice, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>  Any questions about that or anything else?</p>
 <p>JOURNALIST:</p>
 <p> What sort of timeframe are you looking at the scheme for starting next year?</p>
@@ -112,6 +102,4 @@
 <p> But in the end, it's the Members of Parliament who decide these things. After all, it's their free vote and their consciences that are involved. It's very easy for somebody out there to tell somebody else in Parliament what his or her conscience should be. In the end we are all masters of our consciences and we all have a right to decide these things, and each person's view on something like this is as valid and worthy as another. And you're dealing with issues here that are not just clinical and technical and scientific. You're dealing with issues that involve a whole range of other considerations as well. And you're also dealing with an issue that is not easy.</p>
 <p> I envy some people in this debate who have such unconditionally strong, clear views, never entertaining any doubts on either side. These issues are rarely as simple as that.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

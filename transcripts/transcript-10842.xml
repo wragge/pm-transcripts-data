@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10842</transcript-id>
-    <title>NEW CHIEF JUSTICE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/05/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that it will be recommended to the Governor-General</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10842</transcript-id><title>NEW CHIEF JUSTICE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/05/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that it will be recommended to the Governor-General</p>
 <p> that the Honourable Justice (Anthony) Murray Gleeson AC, be appointed</p>
 <p> as Chief Justice of the High Court of Australia.</p>
 <p>Justice Gleeson, 59, is currently Chief Justice of the Supreme Court</p>
@@ -32,6 +22,4 @@
 <p> admirably fit him for the task.</p>
 <p>There will be an opportunity, at the time of his retirement, to say</p>
 <p> something of Sir Gerard Brennan's work as Chief Justice.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

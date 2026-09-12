@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11657</transcript-id>
-    <title>Radio Interview with Ben Knight, ABC Regional</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: fuel prices; government spending.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11657</transcript-id><title>Radio Interview with Ben Knight, ABC Regional</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: fuel prices; government spending.</p>
 <p>E&amp;OE................................ </p>
 <p>KNIGHT:</p>
 <p>The Prime Minister of Australia, John Howard is with me in the studio. Welcome to the program once again.</p>
@@ -110,6 +100,4 @@
 <p>KNIGHT:</p>
 <p>Thanks for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

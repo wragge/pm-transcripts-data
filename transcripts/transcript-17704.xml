@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17704</transcript-id>
-    <title>Transcript of interview with Alan Jones, 2GB</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17704</transcript-id><title>Transcript of interview with Alan Jones, 2GB</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: The Prime Minister Julia Gillard is in the studio in Canberra. Prime Minister, good morning.</p>
 <p>PM: Good morning, Alan.</p>
 <p>HOST: Prime Minister, look, can I just make a minor point? I've got my job to do, you've got your job to do. Your people rang here yesterday. It was agreed this interview would take place at 7.10. We accommodated that and cancelled someone who was to be here who'd made very significant personal arrangements as well. 7.10 is 7.10, isn't it?</p>
@@ -205,6 +195,4 @@ HOST: The Prime Minister Julia Gillard is in the studio in Canberra. Prime Minis
 <p>What I don't want to see if that young Australians get left behind and they don't have the jobs of the future whilst people in other countries do.</p>
 <p>HOST: OK. Thank you for your time and you're always welcome, it's just that sometimes we can't get answers from your office. But anytime, as you were in opposition, so to in government, you're welcome to present your views.</p>
 <p>PM: Thank you, Alan. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

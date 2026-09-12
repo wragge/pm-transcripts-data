@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19137</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/03/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19137</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/03/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>PM: It's great to be here in Liverpool. I'm joined by the Minister for Employment Bill Shorten, by Chris Hayes, the Member for Fowler, and by Laurie Ferguson, the Member for Werriwa.</p>
 <p>And we're here at the Whitlam Leisure Centre which today is hosting a Jobs Expo.</p>
 <p>Jobs Expos are held around the country and they have been an incredibly successful way of bringing people with work to people who need work.</p>
@@ -123,6 +113,4 @@
 <p>PM: I understand those concerns. We want to do better by freight movement in Sydney and that does require new infrastructure and the Defence land there at Moorebank has been identified for some period of time including under the former Howard Government.</p>
 <p>But movements of freight always have to be properly planned so that they're not impinging on people's quality of life and we'll want to stay very strongly engaged with local people here as that work rolls out.</p>
 <p>Okay, thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

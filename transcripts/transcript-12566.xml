@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12566</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH KERRY O&#039;BRIEN   7.30 REPORT, ABC TV   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/03/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Justice Kirby; Zimbabwe.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12566</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH KERRY O&#039;BRIEN   7.30 REPORT, ABC TV   ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/03/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Justice Kirby; Zimbabwe.</p>
 <p>E&amp;OE...........  </p>
 <p>O';BRIEN:</p>
 <p>Prime Minister, do you have any regrets about the way the Justice Kirby issue has evolved?</p>
@@ -104,6 +94,4 @@
 <p>PRIME MINISTER:</p>
 <p>A pleasure.</p>
 <p>(ends) </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

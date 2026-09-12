@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12139</transcript-id>
-    <title>Interview with Glenn Milne and Chris Bath, Sunday Sunrise</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: petrol; Ryan by-election; federal budget; Telstra; pensions;  National Party; economy; Shell/Woodside takeover; foot and mouth disease.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12139</transcript-id><title>Interview with Glenn Milne and Chris Bath, Sunday Sunrise</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: petrol; Ryan by-election; federal budget; Telstra; pensions;  National Party; economy; Shell/Woodside takeover; foot and mouth disease.</p>
 <p>E&amp;OE....................................</p>
 <p>BATH:</p>
 <p>Good morning, gentlemen. Thanks very much for joining us.</p>
@@ -215,6 +205,4 @@
 <p>Prime Minister, we thank you.</p>
 <p>BATH:</p>
 <p>Thank you very much for joining us, gentlemen, we'll leave it there.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

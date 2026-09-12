@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18505</transcript-id>
-    <title>COAG signs up to proposals to cut red tape</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18505</transcript-id><title>COAG signs up to proposals to cut red tape</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 COAG has today agreed to fast track the removal of red tape for environmental assessments and approvals, after listening to the requests of business.</p>
 <p>At the inaugural meeting of the Business Advisory Forum yesterday, business leaders raised delays in environmental approvals and assessments as a major cost. These delays, due to duplicative processes across federal and state systems, can take businesses months or even years to resolve.</p>
 <p>Today COAG acted on that concern and the Gillard Government and states and territories agreed to fast track arrangements to use state assessment and approval processes by March 2013.</p>
@@ -20,6 +10,4 @@ COAG has today agreed to fast track the removal of red tape for environmental as
 <p>COAG also directed the Taskforce to prepare a comprehensive report on the red-tape challenge to identify examples of burdensome or unnecessary regulations that frustrate businesses on a day to day basis.</p>
 <p>To ensure that the benefits of these important regulatory reforms are sustained, a National Productivity Compact has also been agreed between the Commonwealth, states and territories and business.</p>
 <p>This Compact will set out a high-level statement on principles for effective regulation and reform, with the plan to finalise this by the next Business Advisory Forum to be held in the second half of 2012. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11980</transcript-id>
-    <title>Interview with Jeremy Cordeaux, 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/01/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Australia Day; General Cosgrove; BAS; Alice Springs to Darwin railway; ANZUS; Medicare; Inflation</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11980</transcript-id><title>Interview with Jeremy Cordeaux, 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/01/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Australia Day; General Cosgrove; BAS; Alice Springs to Darwin railway; ANZUS; Medicare; Inflation</p>
 <p>E&amp;OE................................</p>
 <p>CORDEAUX:</p>
 <p>On this special Australia Day programme, it gives me a great deal of pleasure to introduce the Prime Minister of Australia. Sir, thank you so much for your time.</p>
@@ -69,6 +59,4 @@
 <p>PRIME MINISTER:</p>
 <p>Happy Australia Day to you and your listeners.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

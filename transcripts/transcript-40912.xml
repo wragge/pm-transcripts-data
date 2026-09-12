@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40912</transcript-id>
-    <title>Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/04/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40912</transcript-id><title>Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/04/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Here in the quiet dawn in the desert in the Middle East, over 500 Australians and New Zealanders gathered in quiet remembrance, as we do on Anzac Day at home and around the world to honour the sacrifice and the service of Australians and New Zealanders whose work, whose heroism, whose professionalism, whose courage, whose willingness to put their lives on the line, over generations, has kept us free.</p>
 <p>We remember the Australians and New Zealanders who stormed ashore at Gallipoli in 1915 - the enormous sacrifices in that First World War.</p>
 <p>We remember the sacrifices of the Second World War, in Korea and Vietnam and the conflicts that followed.</p>
@@ -35,6 +25,4 @@
 <p>Well we’ll look forward to announcements being made in due course, but we’ve had very good meetings with Vice President Pence and the Defence Secretary James Mattis just in the last few days. I look forward to continuing those discussions with President Trump and will do so at an early opportunity. But we’ll be making announcements very shortly about that.</p>
 <p><strong>ENDS</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

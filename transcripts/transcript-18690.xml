@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18690</transcript-id>
-    <title>Transcript of doorstop interview, Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18690</transcript-id><title>Transcript of doorstop interview, Brisbane</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: It's a great delight to be here this morning to announce what I think is the best news for Brisbane and that is, in 2014 Brisbane will host the G20.</p>
 <p>The G20 is the body that brings together the leaders of the 20 biggest economies in the world. It is now the premier forum for discussing issues in the global economy.</p>
 <p>It was first brought together after the global financial crisis and the G20 is continuing to play a role in guiding the global economy towards stronger times and better days of growth.</p>
@@ -82,6 +72,4 @@ PM: It's a great delight to be here this morning to announce what I think is the
 <p>I also do think it gives a great opportunity to say to the world that we are a nation of many world-class cities. Brisbane is one of them and for the rest of their lives it does mean that people like the President of the United States, the Prime Minister of India,  the President of China will be able to say to people, ‘I went to Brisbane'.</p>
 <p>They will recall their days here, their time here and feel a sense of connection with this great place.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21863</transcript-id>
-    <title>Search for HMAS Sydney II Wins Funding  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/08/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to announce the Federal Government has approved a   $1.3 million grant to help fund the search for the HMAS Sydney II.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21863</transcript-id><title>Search for HMAS Sydney II Wins Funding  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/08/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to announce the Federal Government has approved a   $1.3 million grant to help fund the search for the HMAS Sydney II.</p>
 <p>The HMAS Sydney II was the battle cruiser lost off the West Australian coast in 1941.</p>
 <p>The financial assistance announced today will be provided to HMAS Sydney Search Pty Ltd.</p>
 <p>A great deal of preparation and research has been undertaken by HMAS Sydney Search Pty Ltd and their partner, Mr David Mearns.</p>
@@ -19,6 +9,4 @@
 <p>The finding of the HMAS Sydney II would close a significant chapter in Australia's wartime history and bring a long awaited closure to the suffering of the families, as well as allowing the proper recognition of the sacrifice made by the 645 crew.</p>
 <p>The funding will be used to conduct the sonar search of the seabed of the identified area with a suitable vessel, state of the art sonar equipment and experienced personnel.</p>
 <p>  It is timely as we commemorate the 60th Anniversary of the end of World War II that we endeavour to locate the wreck of one of our great battleships.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

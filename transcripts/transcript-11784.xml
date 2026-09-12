@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11784</transcript-id>
-    <title>Radio Interview wtih Paul Murray, 6PR</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: GST; pension payments; Veterans' Gold Card; Artillery Barracks; GST; immigration; first home owners scheme.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11784</transcript-id><title>Radio Interview wtih Paul Murray, 6PR</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: GST; pension payments; Veterans' Gold Card; Artillery Barracks; GST; immigration; first home owners scheme.</p>
 <p>E&amp;OE................................</p>
 <p>MURRAY:</p>
 <p>Good morning, Prime Minister.</p>
@@ -227,6 +217,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

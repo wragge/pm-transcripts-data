@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20616</transcript-id>
-    <title>Press Conference, Parliament House, Canberra   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Good afternoon. Happy New Year to you all. Good to be back albeit briefly on this occasion.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20616</transcript-id><title>Press Conference, Parliament House, Canberra   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Good afternoon. Happy New Year to you all. Good to be back albeit briefly on this occasion.</p>
 <p> As you know the National Security Committee of Cabinet met this morning principally to talk about the latest situation regarding the weapons inspections in Iraq. We also discussed the situation in North Korea, and later this afternoon the Foreign Minister will announce an important Australian initiative in relation to North Korea.</p>
 <p>Australia remains very supportive of the United Nations weapons inspection process in Iraq. We argued as far back as early September directly to the United States Administration at the President's level that this matter should be dealt with through the councils of the United Nations and we remain very supportive of what the United Nations is doing. It is worth remembering that the United Nations would not now be reinvolved in this issue had it not been for what the United States did and in particular the views put to the General Assembly of the United Nations by President Bush on the 12th of September.</p>
 <p> The weapons inspections should be given a proper opportunity to work and a proper opportunity to succeed. For this to happen you not only need the support and the confidence of the international community but you also need the full willing cooperation of Iraq. And the onus remains on Iraq to address the concerns of the international community regarding its weapons program.</p>
@@ -159,6 +149,4 @@
 <p>PRIME MINISTER:</p>
 <p>I would have to get very precise advice on that but I think you're looking at something in the broad order of those involved in Afghanistan. There might be 100 or so either way, I'm not certain. I'd have to get exact figures on that but that's the broad picture. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

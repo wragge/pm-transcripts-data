@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18520</transcript-id>
-    <title>More choice, easier access and better care for older Australians</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18520</transcript-id><title>More choice, easier access and better care for older Australians</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Under landmark changes to the aged care system, more people will get to keep their home, and more people will get to stay in their home as they receive aged care.</p>
 <p>Prime Minister Julia Gillard and the Minister for Ageing, Mark Butler, today announced a 10 year plan to reshape aged care, beginning 1 July 2012.</p>
 <p>The Gillard Labor Government will deliver the $3.7 billion Living Longer Living Better plan to deliver more choice, easier access and better care for older Australians and their families.</p>
 <p>To make it easier for older Australians to stay in their home while they receive care, we will:</p>
-<p> * 	Increase the number of Home Care Packages- from 59,876 to almost 100,000 (99,669).<br />
- * 	Provide tailored care packages to people receiving home care, and new funding for dementia care.<br />
+<p> * 	Increase the number of Home Care Packages- from 59,876 to almost 100,000 (99,669).<br>
+ * 	Provide tailored care packages to people receiving home care, and new funding for dementia care.<br>
  * 	Cap costs, so that full pensioners pay no more than the basic fee.</p>
 <p>To make sure more people get to keep their family home, and to prevent anyone being forced to sell their home in an emergency fire sale, we will:</p>
-<p> * 	Provide more choice about how to pay for care. Instead of a bond which can cost up to $2.6 million and bears no resemblance to the actual cost of accommodation, you will be able to pay through a lump sum or a periodic payment, or a combination of both.<br />
- * 	Give families time to make a decision about how to pay, by introducing a cooling-off period.<br />
+<p> * 	Provide more choice about how to pay for care. Instead of a bond which can cost up to $2.6 million and bears no resemblance to the actual cost of accommodation, you will be able to pay through a lump sum or a periodic payment, or a combination of both.<br>
+ * 	Give families time to make a decision about how to pay, by introducing a cooling-off period.<br>
  * 	Cap care costs, with nobody paying more than $25,000 a year and no more than $60,000 over a lifetime.</p>
 <p>For the first time, we will also introduce fairness into the payment system. Right now, pensioners often pay more than people with hundreds of thousands of dollars in assets and a private income. As a result, pensioners are subsidising the accommodation and care costs of millionaires.</p>
 <p>From now on the system will be fairer, based on capacity to pay. The amount you pay for aged care services will be capped and underpinned by tightened means testing, meaning older Australians will not be forced into a fire sale of the family home in order to get access to aged care.</p>
@@ -27,8 +17,8 @@ Under landmark changes to the aged care system, more people will get to keep the
 <p>To ensure there are immediate improvements as well, the government will also:</p>
 <p>·         Increase residential aged care places from 191,522 to 221,103</p>
 <p>·         Fund $1.2 billion to improve the aged care workforce through a Workforce Compact.</p>
-<p> * 	Provide more funding for dementia care in aged care, and more support for services.<br />
- * 	Establish a single gateway to all aged care services, to make them easier to access and navigate.<br />
+<p> * 	Provide more funding for dementia care in aged care, and more support for services.<br>
+ * 	Establish a single gateway to all aged care services, to make them easier to access and navigate.<br>
  * 	Set stricter standards, with greater oversight of aged care.</p>
 <p>This package reflects in large part what older Australians, their families and carers, and aged care providers have told us is wrong with the system, along with the valuable input of the Productivity Commission report, Caring for Older Australians.</p>
 <p>These reforms will enable older Australians to get the help they both need and deserve so they can remain living in their own homes for as long as possible. Labor's plan will help older Australians keep their own home for as long as they want.</p>
@@ -36,11 +26,11 @@ Under landmark changes to the aged care system, more people will get to keep the
 <p>Implementation of the reforms will be overseen by a new Aged Care Reform Implementation Council. The new reform package will be implemented in stages to enable providers and consumers to gain early benefits of key changes and have time to adapt and plan for further reform over the 10 years.</p>
 <p>Further details:</p>
 <p>Under Living Longer Living Better the Gillard Government will invest:</p>
-<p> * 	$1.9 billion to deliver better access to aged care services;<br />
- * 	$1.2 billion over five years to tackle critical shortages in the aged care workforce;<br />
- * 	$80.2 million to improve aged care linkages with the health system;<br />
- * 	$54.8 million to support carers;<br />
- * 	$268.4 million to tackle the nation's dementia epidemic;<br />
+<p> * 	$1.9 billion to deliver better access to aged care services;<br>
+ * 	$1.2 billion over five years to tackle critical shortages in the aged care workforce;<br>
+ * 	$80.2 million to improve aged care linkages with the health system;<br>
+ * 	$54.8 million to support carers;<br>
+ * 	$268.4 million to tackle the nation's dementia epidemic;<br>
  * 	$192 million to support the diverse care of Australia's ageing population.</p>
 <p>Home care</p>
 <p>Older Australians want to receive care in their own home. Over the next five years, the number of operational Home Care packages will increase from 59,876 to 99,669. This will mean less waiting time for people who need care.</p>
@@ -65,6 +55,4 @@ Under landmark changes to the aged care system, more people will get to keep the
 <p>Nearly a million Australians are estimated to have dementia by 2050.</p>
 <p>The Government is making significant investments to better support people, families and carers living with dementia. A new Dementia Supplement will provide financial assistance of $164.3 million to people receiving Home Care packages and in residential care.</p>
 <p>There will be increased support for primary health care providers to undertake more timely dementia diagnosis, and a stronger focus on people with younger onset dementia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41586</transcript-id>
-    <title>Presentation of the Sadlier Stokes Prize</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/04/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41586</transcript-id><title>Presentation of the Sadlier Stokes Prize</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/04/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Dr Patrick Simon, Mayor of Villers-Bretonneux. Members of the Sadlier, Stokes, McGowan and Bovington families. Mr Guillaume Fournet and students from Ecole Victoria. Mr Franck Bommelaer and students from Houtland College. Mr Christophe Decayeux, Ms Isabelle Galipaud and students from Lycée Sacré Coeur. Ladies and gentlemen.</p>
 <p>Today we have been commemorating the brave men and women who risked and lost their lives in the First World War so that we may live today in freedom and in peace.</p>
 <p>Today, children, Villers-Bretonneux is full of Australians. 100 years ago, it was also full of Australians but they were fighting hand to hand in the most brutal conflict to free your town and keep France free.</p>
@@ -23,6 +13,4 @@
 <p>Lest we forget.</p>
 <p>I now have the pleasure of presenting the 2018 Sadlier Stokes prizes to the laureates.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

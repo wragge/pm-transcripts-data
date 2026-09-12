@@ -1,21 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12239</transcript-id>
-    <title>Carers Benefit From $80 million Coalition Commitment</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/10/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I announce today that the Coalition will provide $80 million over four years in new funding to support Australia’s 2.3 million carers, with special attention being given to carers of people with dementia and ageing carers of people with disabilities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12239</transcript-id><title>Carers Benefit From $80 million Coalition Commitment</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/10/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I announce today that the Coalition will provide $80 million over four years in new funding to support Australia’s 2.3 million carers, with special attention being given to carers of people with dementia and ageing carers of people with disabilities.</p>
 <p>The Coalition's election commitments to providing more resources for residential and community care now exceed half a billion dollars following today's announcement.</p>
 <p>The Coalition's commitments are specifically designed to give people the choice to be cared for at home, close to family and friends.</p>
 <p>The $80 million Carers Package is a recognition of the significant contribution made by Australia's 2.3 million carers.</p>
 <p>The package will provide additional support to carers by providing expanding respite services, targeting support for carers of people with dementia and support for ageing carers of people with disabilities.</p>
 <p>The Coalition's package includes:-</p>
-<ul><li>$10 million to expand the number of respite services, with a particular priority given to respite services for carers in rural and remote areas;</li>
+<ul>
+<li>$10 million to expand the number of respite services, with a particular priority given to respite services for carers in rural and remote areas;</li>
 <li>$10 million to assist with the cost of equipment and transport;</li>
 <li>$10 million for emotional and psychological support for carers;</li>
 <li>$30 million targetted to supporting ageing carers of people with disabilities, including:</li>
@@ -25,38 +16,51 @@
 <li>$20 million targetted to supporting carers of people with dementia, including:</li>
 <li>assistance with the cost of residential respite</li>
 <li>expansion of Psychogeriatric Care Units</li>
-</ul><p><br />These initiatives provide direct and practical benefits to Australia’s carers.</p>
-<table border="0" cellpadding="1" cellspacing="1" style="width:800px;"><tbody><tr><td>Impact on the Forward Estimates<br />(Cash estimate) </td>
-<td>2002-03<br />$m  </td>
-<td> 2003-04<br />$m  </td>
-<td>2004-05<br />$m  </td>
-<td>2005-06<br />$m  </td>
-<td> Total<br />$m  </td>
-</tr><tr><td>Carers of Older Australians </td>
+</ul>
+<p><br>These initiatives provide direct and practical benefits to Australia’s carers.</p>
+<table border="0" cellpadding="1" cellspacing="1" style="width:800px;">
+<tbody>
+<tr>
+<td>Impact on the Forward Estimates<br>(Cash estimate)&nbsp;</td>
+<td>2002-03<br>$m&nbsp;&nbsp;</td>
+<td>&nbsp;2003-04<br>$m&nbsp;&nbsp;</td>
+<td>2004-05<br>$m&nbsp;&nbsp;</td>
+<td>2005-06<br>$m&nbsp;&nbsp;</td>
+<td>&nbsp;Total<br>$m&nbsp;&nbsp;</td>
+</tr>
+<tr>
+<td>Carers of Older Australians&nbsp;</td>
 <td>5.0</td>
 <td>7.5</td>
 <td>7.5</td>
 <td>10.0</td>
 <td>30.0</td>
-</tr><tr><td>More Support for Carers of people with Dementia </td>
+</tr>
+<tr>
+<td>More Support for Carers of people with Dementia&nbsp;</td>
 <td>3.0</td>
 <td>5.0</td>
 <td>6.0</td>
 <td>6.0</td>
 <td>20.0</td>
-</tr><tr><td>More support for Ageing carers of people with Disabilities     </td>
+</tr>
+<tr>
+<td>More support for Ageing carers of people with Disabilities&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td>5.5</td>
 <td>7.0</td>
 <td>7.5</td>
 <td>10.</td>
 <td>30.0</td>
-</tr><tr><td>Total</td>
+</tr>
+<tr>
+<td>Total</td>
 <td>13.5</td>
 <td>19.5</td>
 <td>21.0</td>
 <td>26.0</td>
 <td>80.0</td>
-</tr></tbody></table><p>29 October 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+</tr>
+</tbody>
+</table>
+<p>29 October 2001</p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20625</transcript-id>
-    <title>Interview with Naomi Robson Today Tonight, Channel 7   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/01/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ROBSON:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20625</transcript-id><title>Interview with Naomi Robson Today Tonight, Channel 7   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/01/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ROBSON:</p>
 <p>Now the heartache felt by the families who've lost everything here in Canberra has touched the nation. And Prime Minister John Howard who toured the fire devastated areas says he's never seen anything like it and has promised government help to those in need. Prime Minister, thank you so much for your time tonight, it's a very busy time for you. It's been a harrowing 48 hours hasn't it?</p>
 <p>PRIME MINISTER:</p>
 <p>This is the worst property devastation from a bushfire in Australia that I've ever seen. To put it in perspective for many of your viewers it's the equivalent of three to four thousand homes being destroyed in Sydney or Melbourne and that gives you some idea of the dimension, or perhaps close to a couple of thousand in Brisbane. So it is major destruction of ordinary dwellings in a suburban environment, cheek by jowl with the bush, but a lot of us live cheek by jowl with the bush in many parts of the major cities of Australia. So it is something that in that way we can all relate to although we can't of course know the particular experience through which these people passed.</p>
@@ -36,6 +26,4 @@
 <p>ROBSON:</p>
 <p>Prime Minister thank you so much for your time tonight.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

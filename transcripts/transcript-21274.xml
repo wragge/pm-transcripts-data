@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21274</transcript-id>
-    <title>Danish Royal Wedding  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am very pleased to send my personal congratulations and those of the Government and the people of Australia to His Royal Highness Crown Prince Frederik of Denmark and Miss Mary Donaldson on the occasion of their marriage in Copenhagen today.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21274</transcript-id><title>Danish Royal Wedding  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am very pleased to send my personal congratulations and those of the Government and the people of Australia to His Royal Highness Crown Prince Frederik of Denmark and Miss Mary Donaldson on the occasion of their marriage in Copenhagen today.</p>
 <p>This happy event will complement the strong cooperative bonds which already exist between Australia and Denmark.  Australia will be officially represented at the ceremony by the Governor-General and Mrs Jeffery.</p>
 <p>  I would like to wish Crown Prince Frederick and Miss Donaldson a lifetime of happiness together.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

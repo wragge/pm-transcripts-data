@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41247</transcript-id>
-    <title>Press Conference with the Minister for the Environment and Energy and Members of the Energy Security Board</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/10/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>National Energy Guarantee;</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41247</transcript-id><title>Press Conference with the Minister for the Environment and Energy and Members of the Energy Security Board</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/10/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>National Energy Guarantee;</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much. The Energy Minister Josh Frydenberg and I are here today with members of the Energy Security Board - the Chair, Kerry Schott, the Chief Executive of the Australian Energy Market Operator, Audrey Zibelman, the Chair of the Australian Energy Market Commission, John Pierce, and the Chair of the Australian Energy Regulator, Paula Conboy.</p>
 <p>Now what we have today is a game changer.</p>
 <p>This is a National Energy Guarantee that will ensure that we have affordable power. That it is reliable - we keep the lights on and we can afford to keep them on - and that we meet our international commitments under the Paris Agreement to cut our emissions.</p>
@@ -69,7 +59,7 @@
 <p><strong>JOURNALIST:</strong></p>
 <p>Do you regard that the Government has now settled the energy policy? I note that for the emissions reduction trajectory, that will require legislation to be passed through the Parliament. Do you regard that you've now settled your energy policy, or will the emissions reduction that’s imposed in electricity come back to the Party Room for further discussion? Because I gather this morning that various protagonists said that they weren't happy with the emissions reduction component.</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Well, the Party Room was overwhelmingly in support of the policy, I might say, but we have an emissions abatement task under the Paris Agreement - 26 to 28 per cent from 2005 levels. </p>
+<p>Well, the Party Room was overwhelmingly in support of the policy, I might say, but we have an emissions abatement task under the Paris Agreement - 26 to 28 per cent from 2005 levels.&nbsp;</p>
 <p>As I think Kerry mentioned, the electricity market is around a third - I think it was a little more than a third of our total emissions. So on the basis that the electricity market bears its pro rata share, you can derive from that an amount of tonnes that needs to be abated then and that would then be the decision of the federal government.</p>
 <p>Then, through the mechanism, the Energy Security Board, AMC, AEMO, AER, working together, work out the least cost trajectory of achieving that amount of abatement. And clearly, there is the potential for back-ending a fair bit of it because of declining costs.</p>
 <p>So these are all assessments that have got to be taken into account.</p>
@@ -216,6 +206,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Question Time calls. Thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

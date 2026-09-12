@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15922</transcript-id>
-    <title>Government to Tackle Congestion and Improve Liveability for Melbourne    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/05/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will immediately provide $12 million towards a joint Commonwealth and Victorian Government $30 million study of projects that improve East West connections across Melbourne.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15922</transcript-id><title>Government to Tackle Congestion and Improve Liveability for Melbourne    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/05/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will immediately provide $12 million towards a joint Commonwealth and Victorian Government $30 million study of projects that improve East West connections across Melbourne.</p>
 <p>The study will assess the projects identified in the recent report, Investing in Transport: East West Link Needs Assessment, that proceed to the feasibility stage following the current consultation process.</p>
 <p>These projects have the potential to keep Melbourne's mantle as one of the world's most liveable cities.</p>
 <p>Rapid population growth and increasing travel in the city outstrip current and planned infrastructure capacity  -  increasing congestion and undermining Melbourne's liveability edge.</p>
@@ -35,6 +25,4 @@
 <p>     * $25 million to start the Westgate Bridge rehabilitation;</p>
 <p>     * $6.5 million to start the 4A section of the Geelong Ring Road; and</p>
 <p>     * $5 million to start the Western Highway duplication planning.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

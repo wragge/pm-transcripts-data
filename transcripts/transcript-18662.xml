@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18662</transcript-id>
-    <title>Transcript of interview with Richard Margetson, ABC Darwin</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18662</transcript-id><title>Transcript of interview with Richard Margetson, ABC Darwin</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Joining me in the studio, the Prime Minister of the country, Julia Gillard, welcome once again to Darwin.</p>
 <p>PM: Thank you very much it's great to be here and I am welcoming President Yudhoyono here a little bit later today and he will be here overnight and into tomorrow. </p>
 <p>So Darwin is where it all happens. President Obama, now President Yudhoyono.</p>
@@ -75,6 +65,4 @@ HOST: Joining me in the studio, the Prime Minister of the country, Julia Gillard
 <p>HOST: You should have reported that immediately to the police, you know they're supposed to shut down by 10pm?</p>
 <p>Prime Minister, thanks for coming in. No doubt we'll hear more on the carbon tax particularly I would think and in terms of asylum seekers and the policies there.</p>
 <p>PM: Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

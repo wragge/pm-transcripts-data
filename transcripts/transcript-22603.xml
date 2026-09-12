@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22603</transcript-id>
-    <title>Doorstop Interview Holsworthy Barracks, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/11/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22603</transcript-id><title>Doorstop Interview Holsworthy Barracks, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/11/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>The ceremony this morning, very important for the troops returned home from Afghanistan?</p>
 <p>PRIME MINISTER:</p>
 <p>Well it's very important to say thank you, to honour those who have been conspicuously brave and to thank the families because it's always stressful when your loved ones are overseas. They're a great body of men and women and I am very proud of them and the whole country is.</p>
@@ -82,6 +72,4 @@
 <p>PRIME MINISTER:</p>
 <p>I don't think I will do it at a doorstop under a tree. I have made it very clear in the past that we don't intend to precipitately withdraw in circumstances that would be seen as a victory for terrorists and that position won't alter. Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24125</transcript-id>
-    <title>75th Anniversary of the Departure of the Second Australian Imperial Force </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>10/01/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On the 10th of January 1940, the first convoy of the Second Australian Imperial Force departed for war.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24125</transcript-id><title>75th Anniversary of the Departure of the Second Australian Imperial Force </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>10/01/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On the 10th of January 1940, the first convoy of the Second Australian Imperial Force departed for war.</p>
 <p>Over 5,000 men aboard the liners <em>Otranto</em>, <em>Orcades</em>, <em>Orford</em> and <em>Strathnaver</em> left Sydney Harbour to a chorus of whistles and cheers.</p>
 <p>Some men would have felt fear, others anticipation. Most, perhaps, a measure of both.</p>
 <p>In the years to come, the Second AIF would be deployed to every corner of the world: to the Middle East, the Mediterranean, North Africa, Britain, Southeast Asia, and the southwest Pacific.</p>
@@ -19,6 +9,4 @@
 <p>Between 1939 and 1945, from a population of around seven million, almost a million Australians enlisted in the military and over half a million served overseas. Some 50,000 were wounded and more than 30,000 were taken as prisoners of war.</p>
 <p>The names of the more than 40,000 that never came home are commemorated on the Australian War Memorial’s Roll of Honour and Commemorative Roll.</p>
 <p>On days such as this, we do not glorify war but we do acknowledge the selflessness and comradeship of shared struggle. In the darkest of times, our soldiers, serving in our name, were at their best.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

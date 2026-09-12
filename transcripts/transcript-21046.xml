@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21046</transcript-id>
-    <title>Fuel Excise Reforms   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/12/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announce an overhaul of the fuel excise system.  These reforms will result in a more consistent and neutral tax regime for fuels used in vehicles.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21046</transcript-id><title>Fuel Excise Reforms   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/12/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announce an overhaul of the fuel excise system.  These reforms will result in a more consistent and neutral tax regime for fuels used in vehicles.</p>
 <p>The government announced in the 2003-04 Budget that excise rates will be set for all fuels capable of being used in an internal combustion engine.  It has been decided that no excise will apply to new fuels until 1 July 2008.  Excise will then be introduced in five equal annual steps to a final rate on 1 July 2012.</p>
 <p>For administrative simplicity, a banded excise system will be adopted, with differing rates for high, medium and low energy fuels.  Excise on diesel and petrol remains unchanged under the banded system.</p>
 <p> Alternative fuels entering the excise net will receive a discount of 50% on the full energy content rate.  Excise on petrol and diesel will remain at 38.143 cents per litre (cpl).  Excise on LPG and ethanol will be 12.5 cpl - half their energy content value.</p>
@@ -102,6 +92,4 @@
 <p> 11.4</p>
 <p> 15.2</p>
 <p> 19.0</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

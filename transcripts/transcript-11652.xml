@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11652</transcript-id>
-    <title>Doorstop Interview - Melbourne</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/08/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: possible protests at World Economic Forum; school funding</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11652</transcript-id><title>Doorstop Interview - Melbourne</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/08/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: possible protests at World Economic Forum; school funding</p>
 <p>E&amp;OE................................ </p>
 <p>JOURNALIST:</p>
 <p>Are you concerned about the recruitment of children to protest outside the World Economic Forum?</p>
@@ -49,6 +39,4 @@
 <p>PRIME MINISTER:</p>
 <p>You have to look at the total package and you will find that in aggregate there is a shift of resources to the less endowed independent schools.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23459</transcript-id>
-    <title>NDIA Headquarters officially opened in Geelong</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>30/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government welcomes the opening of the National Disability Insurance Agency headquarters in Geelong.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23459</transcript-id><title>NDIA Headquarters officially opened in Geelong</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>30/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government welcomes the opening of the National Disability Insurance Agency headquarters in Geelong.</p>
 <p>The Government is fully committed to the successful rollout of the National Disability Insurance Scheme and today is a significant milestone in its development.</p>
 <p>The refurbished office at Level 1, 43-45 Brougham Street, Geelong will be the national headquarters of the NDIA as it implements the Scheme.</p>
 <p>The NDIS is currently operating in four trial sites and has helped more than 2,500 people with disability and their families by funding individualised support plans.</p>
@@ -18,6 +8,4 @@
 <p>The new headquarters will employ more than 100 further staff across a diverse range of fields, including allied health, finance, community engagement and administration.</p>
 <p>This is in addition to the 120 staff already employed by the Barwon NDIS trial site.</p>
 <p>30 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

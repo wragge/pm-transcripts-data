@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21710</transcript-id>
-    <title>Pope Benedict XVI&#039;s Inaugural Mass  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/04/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>His Holiness Pope Benedict XVI will celebrate his Inaugural Mass in Vatican City on Sunday, 24 April 2005.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21710</transcript-id><title><![CDATA[Pope Benedict XVI&#039;s Inaugural Mass  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/04/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>His Holiness Pope Benedict XVI will celebrate his Inaugural Mass in Vatican City on Sunday, 24 April 2005.</p>
 <p>Senator the Hon Helen Coonan will represent Australia at this celebration.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

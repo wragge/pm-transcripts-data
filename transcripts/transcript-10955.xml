@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10955</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT THE LAUNCH OF FOODCONNECT AUSTRALIA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/11/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10955</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT THE LAUNCH OF FOODCONNECT AUSTRALIA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/11/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................</p>
 <p>Well thank you very much Gary Ringwood, to my ministerial colleagues</p>
 <p>   John Anderson and Mark Vaile, to all of the representatives of Telstra</p>
 <p>   who are here today, the other members of the Supermarket Council,</p>
@@ -64,6 +54,4 @@
 <p>I'm therefore delighted to be here. I'm delighted to</p>
 <p>   be part of the launch and to formally launch it. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17846</transcript-id>
-    <title>Transcript of joint press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/05/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17846</transcript-id><title>Transcript of joint press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/05/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: When I became Prime Minister I made clear the Australian Government's views and priorities when it came to people smuggling and asylum seekers. I made it very clear that what I wanted to do was to break the back of the people smuggling model, to take away from them the very product that they sell, to stop people risking their lives at sea and to stop people profiting from human misery. I wanted to see us do something to end the profitability of people smuggling.</p>
 <p>Now I'm a migrant myself, and I've always believed in an orderly migration program for this nation. Certainly that's been my personal experience here in Australia, coming to this land and respecting its laws.</p>
 <p>As Prime Minister I won't tolerate people smugglers attempting to bend and break the will of the Government to protect our borders and also our will to do the right thing as a country and to provide safe haven for those in need.</p>
@@ -127,6 +117,4 @@ PM: When I became Prime Minister I made clear the Australian Government's views 
 <p>JOURNALIST: So Tony Abbott might ask ‘will this stop the boats?'</p>
 <p>PM: Well you should ask Tony Abbott has he ever had a policy to back his slogan in.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16099</transcript-id>
-    <title>Address at Battle for Australia Commemorative Ceremony Australia War Memorial, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/09/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today we gather to commemorate the Battle for Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16099</transcript-id><title>Address at Battle for Australia Commemorative Ceremony Australia War Memorial, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/09/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today we gather to commemorate the Battle for Australia.</p>
 <p>But before I begin I want to acknowledge our Australian Defence Force personnel who are currently serving in theatres abroad.</p>
 <p>We have had news this morning that Australian forces serving in Afghanistan have been engaged again in heavy fighting against the Taliban.</p>
 <p>This fighting has seen nine Australian troops injured, some seriously.</p>
@@ -143,6 +133,4 @@
 <p>On Bluey Truscott's grave in the Perth War Cemetery are the following words:</p>
 <p>“In loving memory of our darling Keith, his duty nobly done.”</p>
 <p>Today we honour all those who served and sacrificed their lives in the Battle for Australia, their duty was nobly done.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

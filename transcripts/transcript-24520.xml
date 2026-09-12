@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24520</transcript-id>
-    <title>A message from the Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/06/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I can report to you that the Australian economy is stronger than it has been for some time.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24520</transcript-id><title>A message from the Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/06/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I can report to you that the Australian economy is stronger than it has been for some time.</p>
 <p>Last week’s national accounts showed that our economy grew by 0.9 per cent in the March quarter.</p>
 <p>This means that Australia has been growing faster than nearly all of the economies in the developed world.</p>
 <p>Exports were up five per cent in the first three months of this year – the best result in 15 years.</p>
@@ -22,6 +12,4 @@
 <p>In the coming couple of weeks, the Senate should pass our Small Business and Jobs Package as well as other economic reforms.</p>
 <p>The Government will continue to implement our plan to create jobs, to support families and to make the economy stronger.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

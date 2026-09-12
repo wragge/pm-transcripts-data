@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18083</transcript-id>
-    <title>COAG commits to delivery of mental health reform</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18083</transcript-id><title>COAG commits to delivery of mental health reform</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Mental Health and Ageing Mark Butler today welcomed the Council of Australian Governments' decision to develop a National Partnership Agreement on Mental Health to help address major gaps in our mental health system.</p>
 <p>The Gillard Government will deliver major reforms in mental health through our $2.2 billion mental health package, announced in the 2011-12 Federal Budget.</p>
 <p>The States and Territories have a vital role to play in the provision of this record mental health package.</p>
@@ -18,14 +8,12 @@ Prime Minister Julia Gillard and Minister for Mental Health and Ageing Mark Butl
 <p>In order to achieve lasting reform in mental health we must look beyond our immediate priorities.</p>
 <p>The roadmap will chart what Australia's mental health system should look like in ten years, setting out the priorities and sequencing of reforms across a range of government services.</p>
 <p>The Gillard Government's mental health package, the largest ever delivered by a Federal Government, will:</p>
-<p> * 	identify and treat mental illness in the early years;<br />
- * 	support young people who struggle with it in their teens; and<br />
+<p> * 	identify and treat mental illness in the early years;<br>
+ * 	support young people who struggle with it in their teens; and<br>
  * 	help those who have severe and persistent mental illness with intensive support in the community.</p>
 <p>The National Partnership and the roadmap will help achieve these crucial reforms.</p>
 <p>As part of the meeting, the First Ministers' had an opportunity to hear from leading mental health experts Pat McGorry, David Cappo and Frank Quinlan about the challenges facing mental health in Australia. </p>
 <p>The experts talked about their involvement in the Mental Health Expert Working Group which informed the development of the Commonwealth Government's $2.2 billion mental health package.</p>
 <p>COAG also acknowledged the leadership of Premier Rann in driving improvements to Australia's mental health system.</p>
 <p>Both the National Partnership and the Roadmap will be considered again by COAG towards the end of 2011.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

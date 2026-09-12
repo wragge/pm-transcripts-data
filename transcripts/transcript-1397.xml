@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>1397</transcript-id>
-    <title>PM NO 91/1966 - Prime Ministers Health</title>
-    <prime-minister>Holt, Harold</prime-minister>
-    <period-of-service>19660126 - 19671219</period-of-service>
-    <release-date>23/09/1966</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00001397.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM 91/1966</p>
-<p>Apart  from a dealing with a few pressing ceremonial matters from his sick bed, the Prime Minister has had a restful day.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>1397</transcript-id><title>PM NO 91/1966 - Prime Ministers Health</title><prime-minister>Holt, Harold</prime-minister><period-of-service>19660126 - 19671219</period-of-service><field_date>23/09/1966</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00001397.pdf</document><subjects></subjects><content><![CDATA[<p>PM 91/1966</p>
+<p>Apart &nbsp;from a dealing&nbsp;with a few pressing ceremonial matters from his sick bed, the Prime Minister has had a restful day.</p>
 <p>His doctor examined him again this evening and found that the virus was taking its normal course.</p>
 <p>He has prescribed sedatives to ease the chest pains that are a sympton of viral pleurisy.</p>
 <p>23rd September 1966</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

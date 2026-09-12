@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12241</transcript-id>
-    <title>New Fellowships Back Australia&#039;s Research Ability and Bring Top Researchers Home</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/04/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to announce that six Australian researchers holding prestigious positions overseas will be returning to Australia after being named among the first recipients of the Federal Government's Federation Fellowships.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12241</transcript-id><title><![CDATA[New Fellowships Back Australia&#039;s Research Ability and Bring Top Researchers Home]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/04/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to announce that six Australian researchers holding prestigious positions overseas will be returning to Australia after being named among the first recipients of the Federal Government's Federation Fellowships.</p>
 <p>A further eight of our best researchers will be retained in Australia under this important initiative announced earlier this year as part of the $3 billion Backing Australia's Ability innovation action plan.</p>
 <p>These Fellowships help ensure Australian ideas translate into Australian jobs and a higher standard of living.</p>
 <p>Our researchers are vital to Australia's future in an increasingly competitive and technologically advanced world.</p>
@@ -18,6 +8,4 @@
 <p>Under the Fellowship scheme, each recipient will receive a salary of $1.125 million over five years, or $225,000 a year, making it the most prestigious and richest publicly-funded research Fellowship ever offered in Australia. It is awarded on the advice of the Australian Research Council (ARC).</p>
 <p>The Government will award a total of up to 125 Federation Fellowships over the next five years. The next round of recipients will be announced in the early part of 2002. The funding is part of an extra $736 million for the Australian Research Council over the next five years.</p>
 <p>25 September 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17751</transcript-id>
-    <title>Transcript of interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/03/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17751</transcript-id><title>Transcript of interview with Neil Mitchell, 3AW</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/03/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, good morning.</p>
 <p>PM: Good morning, Neil.</p>
 <p>HOST: Prime Minister, before the election you promised no carbon tax, but you also promised you wouldn't act until the economy was ready and the Australian people were ready. Now, is that part of the promise still operative? Is the economy ready? Are the people ready?</p>
@@ -174,6 +164,4 @@ HOST: Prime Minister, good morning.</p>
 <p>HOST: Very quickly, the polls are very good today. Are you winning this fight?</p>
 <p>PM: Look, I'm not a great studier of polls, Neil. They'll go up, they'll go down. I'm pursuing this because it's the right thing for the nation's future and I'll be out there persuading. Others, Mr Abbott and his team, will be out there raising fear. I'll be out there talking to people about the facts.</p>
 <p>HOST: Thank you very much for your time.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

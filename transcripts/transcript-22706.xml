@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22706</transcript-id>
-    <title>Radio Interview with Karen Durante on ABC Radio’s ‘Speaking Out’ Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/04/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Mandatory sentencing, United Nations, stolen generation, practical reconciliation</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22706</transcript-id><title>Radio Interview with Karen Durante on ABC Radio’s ‘Speaking Out’ Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/04/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Mandatory sentencing, United Nations, stolen generation, practical reconciliation</p>
 <p>E&amp;OE………………………………………………………………………………………………</p>
 <p>DURANTE:</p>
 <p>A lot has since happened since that particular Sunday night anyway. Do you still stand by the Herron submission given the latest revelation from historian Dr Peter Read from the ANU that the claim of only 10 percent is based on suspect data that this data collected in the Northern Territory in 1993 only included those Aboriginal people of full blood descent and not those of part descent.</p>
@@ -58,6 +48,4 @@
 <p>DURANTE:</p>
 <p>The Prime Minister John Howard, in an interview we recorded with him on Friday.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

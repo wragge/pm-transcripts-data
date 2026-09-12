@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21480</transcript-id>
-    <title>Interview with Steve Liebmann Today Show, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>LIEBMANN:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21480</transcript-id><title>Interview with Steve Liebmann Today Show, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>LIEBMANN:</p>
 <p>Overnight the Prime Minister has released a 12 page document refuting claims by the Opposition that he has lied to the Australian public on 27 occasions since 1996.  That comes as a new poll shows that almost half of all voters surveyed believe the Prime Minister lied about the so-called children overboard affair, but the rider is they wouldn't change the way they voted.  Well Prime Minister Howard joins us in the studio this morning.  Good morning to you.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Steve.</p>
@@ -94,6 +84,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

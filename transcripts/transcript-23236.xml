@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23236</transcript-id>
-    <title>A Message from the Prime Minister - Our Plan to build a strong prosperous economy</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/02/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As Parliament comes back, I want to stress our plan to build a strong, prosperous economy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23236</transcript-id><title>A Message from the Prime Minister - Our Plan to build a strong prosperous economy</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/02/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As Parliament comes back, I want to stress our plan to build a strong, prosperous economy.</p>
 <p>That plan is about creating more jobs with lower taxes, less red tape and policies that encourage everyone to “have a go”.</p>
 <p>These are our commitments and we are implementing them.</p>
 <p>Already the Government has given environmental approval to $400 billion in new projects and that means more jobs and more exports.</p>
@@ -21,6 +11,4 @@
 <p>We don’t want honest workers to be ripped off by dishonest union bosses.</p>
 <p>So that’s the plan that the Parliament should support and it’s a plan that will strengthen the economy and allow families and small businesses to plan their future with confidence.</p>
 <p>9 February 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

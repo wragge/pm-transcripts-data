@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15870</transcript-id>
-    <title>Radio Interview with Jon Faine on 774 ABC, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FAINE: Kevin Rudd good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15870</transcript-id><title>Radio Interview with Jon Faine on 774 ABC, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FAINE: Kevin Rudd good morning to you.</p>
 <p>PM: Good Morning and thanks for having me on your program.</p>
 <p>FAINE: What do these talkfests achieve?</p>
 <p>PM: Well there are two things I'd say. The first is that since becoming Prime Minister of the country I've formed a conclusion that neither the Government nor the Public Service has any monopoly on wisdom and you need a way therefore of harnessing the ideas out there in the community. </p>
@@ -43,6 +33,4 @@
 <p>FAINE: Well we will see whether or not it's raised as a priority at your summit coming up. I'm grateful to you for your time this morning. </p>
 <p>PM: Thanks very much and all the best to your summit participants there in Melbourne</p>
 <p>FAINE: Thank you, Kevin Rudd Australia's Prime Minister joining us from Canberra.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

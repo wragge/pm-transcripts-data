@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10840</transcript-id>
-    <title>RETIREMENT OF CHIEF JUSTICE          THE HON SIR GERARD BRENNAN AC KBE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/05/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10840</transcript-id><title>RETIREMENT OF CHIEF JUSTICE          THE HON SIR GERARD BRENNAN AC KBE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/05/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
   Today marks the retirement of Chief Justice the Hon Sir Gerard Brennan</p>
 <p> AC KBE from the High Court of Australia.</p>
 <p>  I would like to thank Sir Gerard for his service to the Court and</p>
@@ -24,6 +14,4 @@
 <p> belief in human dignity. These values have consistently been reflected</p>
 <p> in his contribution to the nation.</p>
 <p>  I wish Sir Gerard well upon his retirement.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

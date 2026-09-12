@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22889</transcript-id>
-    <title>Interview with Steve Liebmann, Today Show, Channel 9 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/09/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Olympics and international business investment; fuel prices; olympic attendence</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22889</transcript-id><title>Interview with Steve Liebmann, Today Show, Channel 9 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/09/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Olympics and international business investment; fuel prices; olympic attendence</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>LIEBMANN:</p>
 <p>The Prime Minister joins us this morning. Good to see you.</p>
@@ -58,6 +48,4 @@
 <p>LIEBMANN:</p>
 <p>Thanks Prime Minister.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

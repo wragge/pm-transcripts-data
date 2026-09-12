@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16943</transcript-id>
-    <title>Prime Minister Speech for White Ribbon Day Parliament House, Canberra 25 November 2009 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/11/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16943</transcript-id><title>Prime Minister Speech for White Ribbon Day Parliament House, Canberra 25 November 2009 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/11/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>I also acknowledge the excellent work of everyone involved with White Ribbon Day, particularly the White Ribbon Ambassadors here today, in raising the profile of the battle to end violence against women and children.</p>
 <p>It's not often that a Prime Minister is asked to swear - in public.</p>
@@ -63,6 +53,4 @@
 <p>That night I swore the oath.</p>
 <p>I applaud all the White Ribbon Day Ambassadors across Australia who swore this oath.</p>
 <p>And I applaud the men who have come here today to swear the oath - every Aussie man should.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

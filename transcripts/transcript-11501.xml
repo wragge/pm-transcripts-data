@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11501</transcript-id>
-    <title>Doorstop Interview, Childers, Queensland</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Childers fire tragedy.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11501</transcript-id><title>Doorstop Interview, Childers, Queensland</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Childers fire tragedy.</p>
 <p>E&amp;OE....</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, what were your feelings like after going into the Hostel?</p>
@@ -37,6 +27,4 @@
 <p>Well, as I said a moment ago, it is a scene of great devastation. Fire is a very cruel agent.</p>
 <p>Good night.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

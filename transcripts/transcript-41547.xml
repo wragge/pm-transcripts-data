@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41547</transcript-id>
-    <title>Radio interview with Jacquie Mackay, ABC Capricornia</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/04/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Jobs; water security; investment in Rookwood Weir</subjects>
-    <content><![CDATA[<p><strong>JACQUIE MACKAY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41547</transcript-id><title>Radio interview with Jacquie Mackay, ABC Capricornia</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/04/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Jobs; water security; investment in Rookwood Weir</subjects><content><![CDATA[<p><strong>JACQUIE MACKAY: </strong></p>
 <p>A little earlier, the Prime Minister spoke with me before he hopped on a plane to head north, to give confirmation that the Federal Government has committed half of the funding for the construction of the Weir.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>We committed to it nearly two years ago actually, in May 2016 and it took a long time for the Queensland Government to come on board. But you know, no hard feelings.</p>
@@ -31,6 +21,4 @@
 <p>That's the plan.</p>
 <p><strong>JACQUIE MACKAY: </strong></p>
 <p>Prime Minister Malcolm Turnbull.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17146</transcript-id>
-    <title>Prime Minister Attorney-General Minister for Families, Housing and Community Services Additional assistance for Queensland flood victims 22 March 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced it would contribute $500,000 to the Queensland Premier's Disaster Relief Appeal Fund to assist the victims of the recent Queensland floods.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17146</transcript-id><title>Prime Minister Attorney-General Minister for Families, Housing and Community Services Additional assistance for Queensland flood victims 22 March 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced it would contribute $500,000 to the Queensland Premier's Disaster Relief Appeal Fund to assist the victims of the recent Queensland floods.</p>
 <p>The donation will match the Queensland Government's contribution which was announced by Premier Bligh on 4 March 2010 and is in addition to assistance already being provided by the Commonwealth through the Natural Disaster Relief and Recovery Arrangements (NDRRA) and the Australian Government Disaster Recovery Payment (AGDRP).</p>
 <p>The Australian Government is already providing assistance to Queensland through personal hardship and distress payments, clean up and recovery grants for small businesses and primary producers as well as through the restoration of essential public infrastructure and counter disaster operations.</p>
 <p>Individuals requiring assistance through the NDRRA should contact the Queensland Department of Communities' Disaster Relief Assistance Scheme hotline on 1800 173 349.</p>
@@ -17,6 +7,4 @@
 <p>Information about the AGDRP can be obtained through the Australian Government's south-west Queensland floods hotline on 180 2122.</p>
 <p>The Australian Government will continue to work closely with Queensland authorities, local government and community organisations to ensure that affected communities have all the support they need during this period.</p>
 <p>Individuals seeking to contribute to the Queensland Premier's Disaster Relief Appeal Fund can make donations by calling 1800 173 349.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

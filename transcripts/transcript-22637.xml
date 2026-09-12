@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22637</transcript-id>
-    <title>Joint Media Statement Financial Support for Bushfire Victims </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/12/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister John Howard and Premier Paul Lennon today announced more than $800,000 in additional funding to help families, business and primary producers recover from the devastating East Coast bushfires.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22637</transcript-id><title>Joint Media Statement Financial Support for Bushfire Victims </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/12/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister John Howard and Premier Paul Lennon today announced more than $800,000 in additional funding to help families, business and primary producers recover from the devastating East Coast bushfires.</p>
 <p> The agreement would see a $700,000 Community Recovery Fund established with equal contributions from the State and Commonwealth.</p>
 <p>Both Governments have also agreed to contribute $50,000 to the bushfire relief appeal set up by the Red Cross.</p>
 <p>The Prime Minister and Premier Lennon have agreed to provide this urgent assistance to help those Tasmanians who have been so badly affected by the bushfires on the East Coast.</p>
@@ -25,6 +15,4 @@
 <p>This assistance is in addition to support already made available to families who had lost their homes.</p>
 <p>The Prime Minister and Premier acknowledge that the recovery of the families that have lost their homes and the local communities would take some time.</p>
 <p>They will continue working with local communities to identify their needs and provide assistance where possible.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

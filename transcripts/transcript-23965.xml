@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23965</transcript-id>
-    <title>G20 leaders discuss global energy issues</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>16/11/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>G20 leaders will work together to ensure access to affordable and reliable energy for all following a plenary session dedicated to global energy issues.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23965</transcript-id><title>G20 leaders discuss global energy issues</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>16/11/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>G20 leaders will work together to ensure access to affordable and reliable energy for all following a plenary session dedicated to global energy issues.</p>
 <p>Leaders endorsed landmark energy principles which will ensure energy institutions are more inclusive of emerging and developing economies, will strengthen energy markets, enhance energy security, phase out inefficient fossil fuel subsidies that encourage wasteful consumption and support sustainable growth and development.</p>
 <p>The Brisbane Summit is the first time G20 leaders have had a session dedicated to global energy issues.</p>
 <p>Energy is now at the heart of the G20’s agenda and G20 Energy Ministers will meet for the first time next year to take this work forward.</p>
@@ -23,6 +13,4 @@
 <p>Strong and well-functioning energy markets are important for the world and for Australia.</p>
 <p>They are essential to resilient economies and are also critical to energy security.</p>
 <p>16 November 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

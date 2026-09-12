@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21532</transcript-id>
-    <title>Interview with Metro TV, Jakarta  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/10/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21532</transcript-id><title>Interview with Metro TV, Jakarta  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/10/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister Howard, thank you very much for joining us this morning on Metro this morning.</p>
 <p>  PRIME MINISTER:</p>
 <p>Thank you.</p>
@@ -74,6 +64,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I can say to the Australian public, as I'm saying now through this, indirectly through this interview, that I don't see Indonesia as in any way a threat to Australia.  I see Indonesia as our nearest neighbour, a very large country, a country that is very different in history and composition from Australia, but nonetheless a country that over the years has developed very close links with Australia, and I see it as my task as Prime Minister to build the relationship and make it closer, but it's got to be a relationship based on mutual respect and realism and understanding of both of our points of difference and also the things that we have in common.  I think in a relationship between two countries like Australia and Indonesia, we should try and build and develop those things that we have in common, rather than dwell too much on imaginary relationships that can't be achieved simply because our societies are different.  I think if you focus on the things that we can achieve together, we won't be surprised at how close the relationship can become.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

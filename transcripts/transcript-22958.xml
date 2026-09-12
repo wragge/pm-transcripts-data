@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22958</transcript-id>
-    <title>Doorstop Interview, State Library of NSW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Sydney airport decision; Very Fast Train; GDP figures.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22958</transcript-id><title>Doorstop Interview, State Library of NSW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Sydney airport decision; Very Fast Train; GDP figures.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister Badgery’s Creek decision, it’s been put off for another ten years, doesn’t that just leave a whole heap of uncertainty?</p>
@@ -152,6 +142,4 @@
 <p>PRIME MINISTER:</p>
 <p>Senator Newman will be making a detailed directional statement on welfare tomorrow. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

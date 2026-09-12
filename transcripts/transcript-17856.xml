@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17856</transcript-id>
-    <title>Visit of New Zealand Prime Minister Key</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17856</transcript-id><title>Visit of New Zealand Prime Minister Key</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister of New Zealand, John Key, will visit Australia from 19 to 21 June as a guest of the Australian Government.</p>
 <p>During the visit Prime Minister Key will become the first New Zealand Prime Minister to address the Australian Parliament.</p>
 <p>Ms Gillard became the first Australian Prime Minister to address the New Zealand Parliament earlier this year.</p>
 <p>Prime Minister Key will hold formal meetings with Ms Gillard and other members of the Cabinet.</p>
 <p>Australia's relations with New Zealand are the closest and most comprehensive we have with any country. The relationship is built on a firm foundation of strong government, business and people-to-people links and shared values and history. Prime Minister Key's visit will provide an opportunity to further strengthen and energise the trans-Tasman relationship. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

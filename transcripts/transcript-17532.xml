@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17532</transcript-id>
-    <title>Transcript of joint press conference, Brussels</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/10/2010</release-date>
-    <release-type>Defence</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17532</transcript-id><title>Transcript of joint press conference, Brussels</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/10/2010</field_date><release-type>Defence</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 SECRETARY GENERAL RASMUSSEN: Good morning. I am very grateful for the opportunity to meet Prime Minister Gillard today. Welcome to NATO Headquarters.</p>
 <p>As the largest non-NATO contributor of troops in Afghanistan, and indeed one of the largest contributors overall, Australia remains an important partner in our joint endeavour and I'm glad to have the opportunity to thank you for the commitment and bravery of Australian troops and civilians deployed there.</p>
 <p>We share a common view that the mission in Afghanistan is vital for our own security interests. We face global threats to our security, as the tragic events in London, Madrid and Bali have shown us. These threats require a concerted and collective response. This means helping the Afghans to develop the capacity to run their own affairs.</p>
@@ -42,6 +32,4 @@ SECRETARY GENERAL RASMUSSEN: Good morning. I am very grateful for the opportunit
 <p>It is important that we step up our cooperation in the border region. We must, together, prevent militants from crossing the border to attack and kill Afghans and international soldiers.</p>
 <p>And finally, I expressed my hope that the border will be open for supplies as soon as possible. The Foreign Minister committed work on that, for which I am very grateful.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

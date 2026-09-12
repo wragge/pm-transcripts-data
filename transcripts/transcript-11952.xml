@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11952</transcript-id>
-    <title>Radio Interview wtih Alan Jones, 2UE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Sports policy; drugs in sport; health; war widows' pension</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11952</transcript-id><title>Radio Interview wtih Alan Jones, 2UE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Sports policy; drugs in sport; health; war widows' pension</p>
 <p>E&amp;OE................................</p>
 <p>JONES:</p>
 <p>Prime Minister, good morning.</p>
@@ -20,7 +10,7 @@
 <p>PRIME MINISTER:</p>
 <p>Yes, it is. I made it plain after the Olympics that we were going to do more. We were going to increase the funding, not only for the elite sportsmen and women but, importantly, also to increase participation at a grassroots level. Now, I do believe very strongly in getting as many young people playing sport as possible. It is the great antidote against bad behaviour, to use plain language, you get more young people involved in sport, you have fewer social problems, and that's why - we're putting an additional $161 million into Australian sport over the next four years and 122 of that goes for the high performance sporting system. But an additional $32 million goes to get greater numbers of people participating in sport at the grassroots level.</p>
 <p>JONES:</p>
-<p>You're talking about creating, and I quote your words, a climate in which school facilities will be made more widely available after school hours. Very important, how do you do it?<br />
+<p>You're talking about creating, and I quote your words, a climate in which school facilities will be made more widely available after school hours. Very important, how do you do it?<br>
 PRIME MINISTER:</p>
 <p>Well, you need to enlist the assistance of State governments. In the main, of course, they own the schools, they own 70% of the schools and I'm sure they'll be cooperative. We'll need to discuss that with them but it is a great under-utilised asset, those schools buildings, many of them with playing fields. I mean, a lot of them are used now. Through informal arrangements we have to expand that. We also intend to put an additional $7.4 million for anti-drugs research.</p>
 <p>JONES:</p>
@@ -34,7 +24,7 @@ PRIME MINISTER:</p>
 <p>JONES:</p>
 <p>And unifies us.</p>
 <p>PRIME MINISTER:</p>
-<p>And unifies us. I mean.and that's a good thing and it's something that we should not be the least bit reluctant to talk about. I mean, we put.at the beginning of the year we announced a programme of $2.9 billion to back our scientific and inventive ability. Now, every last dollar of that was well spent. Equally, it's important to look to the impact of sport on our daily lives and the unifying element in the Australian character that sport provides. It's something that breaks barriers, it's something that brings us together, it's something that.<br />
+<p>And unifies us. I mean.and that's a good thing and it's something that we should not be the least bit reluctant to talk about. I mean, we put.at the beginning of the year we announced a programme of $2.9 billion to back our scientific and inventive ability. Now, every last dollar of that was well spent. Equally, it's important to look to the impact of sport on our daily lives and the unifying element in the Australian character that sport provides. It's something that breaks barriers, it's something that brings us together, it's something that.<br>
 JONES:</p>
 <p>It's also a big industry, isn't it? I mean, I saw a recent study by the Confederation of Australian Sport, for them, by Ernst &amp; Young, which indicated that household expenditure on sport totalled $5.9 billion, and close to a billion dollars on equipment and fees to participate - 220,000 employees generating $350 million in annual goods exports and close to a billion in taxation revenue. It's a big industry.</p>
 <p>PRIME MINISTER:</p>
@@ -72,6 +62,4 @@ JONES:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

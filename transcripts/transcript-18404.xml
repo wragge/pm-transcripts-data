@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18404</transcript-id>
-    <title>My School gives parents more information than ever</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australian parents and teachers can now track how children have improved over time in the key areas of literacy and numeracy with the launch of the newest version of the My School website.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18404</transcript-id><title>My School gives parents more information than ever</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australian parents and teachers can now track how children have improved over time in the key areas of literacy and numeracy with the launch of the newest version of the My School website.</p>
 <p>The updated website measures the progress of students who have sat NAPLAN tests over the past four years, allowing parents to identify schools that have helped their students noticeably improve in comparison with other students who started at the same level.</p>
 <p>This new version also includes the latest information on the funding available per student for every school in the country in 2010.</p>
 <p>Speaking at Bethany Primary School in Werribee North, the Prime Minister said the My School website was now more powerful than ever before, shining a spotlight on Australia's schools to help lift the performance of every student.</p>
@@ -24,6 +14,4 @@
 <p>Minister Garrett said that the information provided on My School was essential for the development of the new national school funding model.</p>
 <p>Without the information provided by My School and the NAPLAN tests introduced by the Gillard Government, we would have no clear national picture of student performance and improvement.</p>
 <p>The Gonski Report showed that Australia's education performance is being overtaken by other nations and that we must overcome the effects of disadvantage on student achievement.  Greater transparency is a vital part of our agenda to improve Australian schools and fund them effectively.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

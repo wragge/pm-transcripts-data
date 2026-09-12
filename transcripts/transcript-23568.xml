@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23568</transcript-id>
-    <title>Address to the United States Chamber of Commerce, Washington</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>12/06/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Two months ago, I visited Pearce air force base near Perth to thank the aviators involved in the search for missing Malaysian Airlines flight MH370.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23568</transcript-id><title>Address to the United States Chamber of Commerce, Washington</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>12/06/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Two months ago, I visited Pearce air force base near Perth to thank the aviators involved in the search for missing Malaysian Airlines flight MH370.</p>
 <p>There was a collective photograph with all the air crew: involving personnel from Australia, the United States and New Zealand – and also from China, Japan and South Korea.</p>
 <p>Because of my impending trip to North Asia, I then sought a second, smaller photo.</p>
 <p>But the Chinese and the Japanese were a little awkward standing close to each other – so, to secure the picture, I placed myself between them with my arms on the shoulders of the Japanese and Chinese officers.</p>
@@ -63,6 +53,4 @@
 <p>Occasionally, America will have more useful friends.</p>
 <p>But America will never have a more dependable friend…than Australia.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

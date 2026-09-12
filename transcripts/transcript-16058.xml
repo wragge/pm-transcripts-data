@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16058</transcript-id>
-    <title>Radio Interview with the Acting Prime Minister,  the Hon Julia Gillard, ABC NewsRadio  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GLEN BARTHOLOMEW: Here at home, Education Minister Julia Gillard has called for Australian schools to open their doors to public scrutiny so parents can get a clear idea of what's happening in the classroom. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16058</transcript-id><title>Radio Interview with the Acting Prime Minister,  the Hon Julia Gillard, ABC NewsRadio  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GLEN BARTHOLOMEW: Here at home, Education Minister Julia Gillard has called for Australian schools to open their doors to public scrutiny so parents can get a clear idea of what's happening in the classroom. </p>
 <p>Ms Gillard says local schools should follow an American model, which allows parents to track the academic achievements of schools and to know the social and economic background of other students.</p>
 <p>Julia Gillard, who is currently the Acting Prime Minister as Kevin Rudd continues his tour of Asia, is speaking here to Marius Benson.</p>
 <p>MARIUS BENSON: Julia Gillard, you seem to be suggesting that schools around Australia are being a bit too secretive at the moment. Is that fair?</p>
@@ -29,6 +19,4 @@
 <p>MARIUS BENSON: Julia Gillard, thank you very much.</p>
 <p>JULIA GILLARD: Thank you.</p>
 <p>GLEN BARTHOLOMEW: That's the Acting Prime Minister and the Education Minister, Julia Gillard, speaking to Marius Benson</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

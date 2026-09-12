@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20614</transcript-id>
-    <title>Science To Help Safeguard Australia  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/06/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia's scientists have an important role to play in providing solutions to the more complex security environment facing the nation since the events of September 11 2001 and the Bali atrocity of October 2002.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20614</transcript-id><title>Science To Help Safeguard Australia  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/06/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia's scientists have an important role to play in providing solutions to the more complex security environment facing the nation since the events of September 11 2001 and the Bali atrocity of October 2002.</p>
 <p>To that end, I announce today that a Science, Engineering and Technology Unit will be established in the new National Security Division of my department to coordinate scientific support for counter-terrorism.</p>
 <p>Staff will be seconded to the coordination unit from a range of relevant agencies including the Defence Science and Technology Organisation, the Department of Science, Education and Training, the CSIRO, ASIO and the Australian Federal Police. A high level steering committee will oversight the strategic direction of the unit.</p>
 <p>The unit's first tasks will include providing a strategic view of Australian counter-terrorism requirements in the short, medium and long term and to provide a focal point for international collaboration, particularly with the USA Technical Support Working Group.</p>
@@ -18,6 +8,4 @@
 <p>Safeguarding Australia is one of the four National Research Priorities. It is a key research area that will contribute to protecting Australia from terrorism, crime, invasive diseases and pests and threats to our civil infrastructure.</p>
 <p>There is a great deal of research being conducted in Australian universities, academies, government agencies and industry, in fields as diverse as detection of biohazards, robotics, cryptography and surveillance systems, that has the potential to support counter-terrorism.</p>
 <p>As the nature of the terrorist threat has changed we need to look beyond traditional methods of deterrence and protection to be more innovative in our approach to counter-terrorism. The establishment of the Science Engineering and Technology coordination Unit will enhance the national counter-terrorism effort. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

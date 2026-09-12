@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24390</transcript-id>
-    <title>Doorstop Interview, Istanbul, Turkey</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/04/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Visit to Turkey,  Australia-Turkey relations,  Anzac Day commemorations,  New South Wales storms,  Daesh death cult.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24390</transcript-id><title>Doorstop Interview, Istanbul, Turkey</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/04/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Visit to Turkey, Australia-Turkey relations, Anzac Day commemorations, New South Wales storms, Daesh death cult.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>It’s good to be here in Turkey. It’s good to be here in the extraordinary city of Istanbul.</p>
 <p>Obviously, I am going to end this week on the Gallipoli peninsula for some very important commemorations of the historic landings of the Australians and the New Zealanders on 25 April 1915, but I’m beginning this trip with some important discussions with the government of Turkey about contemporary issues of great interest to our country, to Turkey, and to the wider world.</p>
 <p>Yesterday, as you know, I met with the Turkish prime minister and the Turkish president. As well, I had briefings from their security people about the efforts that Turkey is making to ensure that foreign terrorist fighters do not access the conflict in Iraq and Syria through Turkey.</p>
@@ -40,6 +30,4 @@
 <p>No, I just note that it has taken place.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6011</transcript-id>
-    <title>General Election</title>
-    <prime-minister>Fraser, Malcolm</prime-minister>
-    <period-of-service>19751111 - 19830311</period-of-service>
-    <release-date>04/02/1983</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006011.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Governor-General has today dissolved both Houses of the Parliament in preparation for the General Election to be held on 5 March 1983.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6011</transcript-id><title>General Election</title><prime-minister>Fraser, Malcolm</prime-minister><period-of-service>19751111 - 19830311</period-of-service><field_date>04/02/1983</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006011.pdf</document><subjects></subjects><content><![CDATA[<p>The Governor-General has today dissolved both Houses of the Parliament in preparation for the General Election to be held on 5 March 1983.</p>
 <p>Writs for the House of Representatives elections and for the Senate elections in the Territories are being issued by the Governor-General today. The States have been asked to take complementary action for the election of the State Senators.</p>
 <p>The closing date for nomination for both Houses will be 19 February 1983.</p>
-<p> </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>&nbsp;</p>
+]]></content></item></response>

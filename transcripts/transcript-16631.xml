@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16631</transcript-id>
-    <title>Interview on Today Tonight    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Let's ask the Prime Minister, good evening to Mr Rudd. It has been an extraordinary day of accusations, of threats and mud-slinging on both sides. What do you think today has achieved? </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16631</transcript-id><title>Interview on Today Tonight    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Let's ask the Prime Minister, good evening to Mr Rudd. It has been an extraordinary day of accusations, of threats and mud-slinging on both sides. What do you think today has achieved? </p>
 <p>PM: Well can I just say Matt, there has been one set of accusations here and that is by Mr Turnbull, against myself. Last Friday, he accused the Prime Minister of Australia, myself and the Treasurer, of being corrupt. There can be no more serious allegation against the head of Government of a country. What we discovered today and confirmed today, as I indicated over the weekend, was that this entire allegation by Mr Turnbull is based on an email which is a fake, a fraud, a fabrication, in fact, a forgery.</p>
 <p>Yet, on the basis of that forgery, and Mr Turnbull, seeking to put it around the Australian community, he went out into the public debate, and sought to bring down a Government. He sought to not just accuse me of corruption, but call upon me to resign. For such a grave error of judgement to occur from someone who will put themself up as the alternative leader of the country, it is quite clear to all fair minded people, that he has no option now himself but to stand up, apologise and to resign.</p>
 <p>He does not have the quality of leadership about him.</p>
@@ -31,6 +21,4 @@
 <p>Australians want us to get on with the business of providing this strategy for the future to support our jobs and our families in these really tough times around the world.</p>
 <p>HOST: Mr Rudd we appreciate your time tonight.</p>
 <p>PM: Thank you for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

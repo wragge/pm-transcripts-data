@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17547</transcript-id>
-    <title>Transcript of press conference, Parliament House, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/07/2010</release-date>
-    <release-type>Education</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17547</transcript-id><title>Transcript of press conference, Parliament House, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/07/2010</field_date><release-type>Education</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Today I would like to announce a policy about extending the Education Tax Refund to school uniforms. The Government introduced the Education Tax Refund to help families with cost of getting the kids to school. The costs covered by the Education Tax Refund at the moment includes the cost of books, of stationary, of computer items that support kids in their learning at school.</p>
 <p>Our experience with the Education Tax Refund is that not all families have claimed it and not all families have claimed the full amount. The full amount at the moment is $390 for primary school students and up to $780 for secondary school students, and obviously that amount is indexed year by year.</p>
 <p>Eligible families are families who receive Family Tax Benefit A. That means that the Education Tax Refund is a benefit for 1.3 million families and around 2.7 million students. I have determined that if the Government is re-elected, we will extend the coverage of the Education Tax Refund to school uniforms.</p>
@@ -97,6 +87,4 @@ PM: Today I would like to announce a policy about extending the Education Tax Re
 <p>JOURNALIST: Prime Minister, is it your intention to announce the process for that consultation to occur?</p>
 <p>PM: Well, the Government is working on these things now. When I've got something more to say, then I will. But we will work on these things methodically. We will work on these things so that the policies are right, right for the Australian nation, right for the future and take us forward.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

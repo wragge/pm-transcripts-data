@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22764</transcript-id>
-    <title>Australia and Papua New Guinea Regional Settlement Arrangement</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>19/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Brisbane</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22764</transcript-id><title>Australia and Papua New Guinea Regional Settlement Arrangement</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>19/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Brisbane</p>
 <p>As of today asylum seekers who come here by boat without a visa will never be settled in Australia.</p>
 <p>Under the new arrangement signed with Papua New Guinea today – the Regional Settlement Arrangement - unauthorised arrivals will be sent to Papua New Guinea for assessment and if found to be a refugee will be settled there.</p>
 <p>Arriving in Australia by boat will no longer mean settlement in Australia.</p>
@@ -29,6 +19,4 @@
 <p>The people smugglers themselves are constantly changing the way they operate and we need to be flexible enough to anticipate and match their actions to avoid the terrible consequences of this trade.</p>
 <p>No doubt there will be some people smugglers who now encourage asylum seekers to test our resolve.</p>
 <p>Be in no doubt. If people are paying thousands and thousands of dollars to a people smuggler they are buying a ticket to a country other than Australia. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

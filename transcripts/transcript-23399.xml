@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23399</transcript-id>
-    <title>New Australian Defence Force Command Team</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>04/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government will recommend to the Governor-General a number of senior Australian Defence Force appointments.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23399</transcript-id><title>New Australian Defence Force Command Team</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>04/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government will recommend to the Governor-General a number of senior Australian Defence Force appointments.</p>
 <p>Air Marshal Mark Binskin AC will become Chief of the Defence Force when General David Hurley AC, DSC completes his tenure on 3 July 2014.</p>
 <p>Air Marshal Binskin has demonstrated outstanding leadership in his current role as the Vice Chief of the Defence Force and previously as a former Chief of Air Force.</p>
 <p>He has held a range of command positions and is a strong choice to guide the Australian Defence Force over the next four years as we wind down operations in Afghanistan and introduce a range of new military capabilities.</p>
@@ -19,6 +9,4 @@
 <p>The Government will recommend that the Chief of Army, Lieutenant General David Morrison, AO, and the Chief of Air Force, Air Marshal Geoff Brown, AO, remain in their current positions until July 2015.</p>
 <p>These 12 month extensions to their appointments bring these positions into line with new four year tenure arrangements for statutory appointments and ensure continuity and stability in these key leadership positions.</p>
 <p>4 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

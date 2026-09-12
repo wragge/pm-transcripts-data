@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21043</transcript-id>
-    <title>Interview with Eddy Meyer Channel 10 news </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21043</transcript-id><title>Interview with Eddy Meyer Channel 10 news </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  PRIME MINISTER:</p>
 <p>I saw the press conference like everybody else and then about half past one this morning President Bush rang me to fill me in on some of the other details and we talked for a few minutes about how significant an event it was.  It really is a tremendous morale boost and a quite decisive moment in the long struggle for the Iraqi people for their liberty.</p>
 <p>MEYER:</p>
 <p>So what was your first reaction?  What was your first reaction when you heard?</p>
@@ -24,6 +14,4 @@
 <p>PRIME MINISTER:</p>
 <p>It's a matter of Iraqi law.  If it's judged by the Iraqi people, then I won't raise any objection.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23938</transcript-id>
-    <title>Asia Pacific Economic Cooperation and The East Asia Summit</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>07/11/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This Sunday I will travel to Beijing to attend the Asia Pacific Economic Cooperation (APEC) leaders’ meeting.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23938</transcript-id><title>Asia Pacific Economic Cooperation and The East Asia Summit</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>07/11/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This Sunday I will travel to Beijing to attend the Asia Pacific Economic Cooperation (APEC) leaders’ meeting.</p>
 <p>APEC has promoted regional economic integration and fostered free trade and investment since its inception in Canberra 25 years ago.</p>
 <p>APEC brings together leaders from 21 economies that account for more than half of global GDP; are home to more than 2.7 billion people and represent more than two-thirds of Australia’s trade in goods and services.</p>
 <p>The theme for this year’s APEC meeting is <em>Shaping the Future through Asia-Pacific Partnership.</em></p>
@@ -22,6 +12,4 @@
 <p>I will return on Friday November 14 to welcome UK Prime Minister David Cameron to Australia and attend his formal address to a joint-sitting of the Parliament in Canberra.</p>
 <p>We will then join other leaders in Brisbane for the G20 Leaders’ Summit on November 15 and 16.</p>
 <p>7 November 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

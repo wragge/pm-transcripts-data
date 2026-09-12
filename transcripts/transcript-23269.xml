@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23269</transcript-id>
-    <title>Interview with Brig and Lehmo, Radio Gold 104.3, Melbourne</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/02/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>East West Link,  Sochi.</subjects>
-    <content><![CDATA[<p><strong>BRIG:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23269</transcript-id><title>Interview with Brig and Lehmo, Radio Gold 104.3, Melbourne</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/02/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>East West Link, Sochi.</subjects><content><![CDATA[<p><strong>BRIG:</strong></p>
 <p>Lehmo, there’s a man who’s been in Melbourne for a couple of days and we’ve managed to find him on the phone. It is our Prime Minister Tony Abbott. Good morning, Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Brig, it’s lovely to be with you and Lehmo this morning, and yes it is a beautiful Melbourne morning.</p>
@@ -53,6 +43,4 @@
 <p><strong>BRIG:</strong></p>
 <p>Alright, well thank you very much for joining us this morning, Prime Minister. That is Tony Abbott in Melbourne, on his way to Sydney.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

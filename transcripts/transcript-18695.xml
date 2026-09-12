@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18695</transcript-id>
-    <title>Transcript of doorstop interview, Townsville</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: I'm very pleased to be here in Townsville. I'm joined by our Senator for Queensland, Jan McLucas who's very well known in this part of Queensland, and also by the CEO of our National Broadband Network Company, Mike Quigley.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18695</transcript-id><title>Transcript of doorstop interview, Townsville</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: I'm very pleased to be here in Townsville. I'm joined by our Senator for Queensland, Jan McLucas who's very well known in this part of Queensland, and also by the CEO of our National Broadband Network Company, Mike Quigley.</p>
 <p>We've had the opportunity just over there to watch some of the National Broadband Network fibre being rolled out. We've had the opportunity too to speak to some local business people and the local University about the difference the National Broadband Network is making here in Townsville.</p>
 <p>We've had the opportunity too to chat to a few people who are just moving around including a number of people who have the good sense to come and holiday in Townsville.</p>
 <p>So I am glad to be here today and of course Townsville has benefited from being amongst the first to see the rollout of the National Broadband Network and we know from international studies, from our own experience that having broadband makes a difference to productivity, to the economy and to jobs.</p>
@@ -109,6 +99,4 @@
 <p>A number of the family members of those who lost their lives will want to be in Bali at the commemorative events there, and as a Government we will be providing some assistance for family members.</p>
 <p>The details of that are still being worked through and determined. But as soon as they're available, they will be made available to family members.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

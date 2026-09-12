@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22478</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/09/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>One of the challenges I will address today in a speech on skilling the workforce is the need to improve the basic skills of those now in the workforce. The high demand for skilled workers in Australia is the product of a booming economy now in its 16th year of growth.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22478</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/09/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>One of the challenges I will address today in a speech on skilling the workforce is the need to improve the basic skills of those now in the workforce. The high demand for skilled workers in Australia is the product of a booming economy now in its 16th year of growth.</p>
 <p>Job growth is strong, unemployment is low and labour force participation is at an all-time high. In a strong economy, skills shortages sometimes emerge as part of the normal working of the labour market.</p>
 <p> It should be remembered that many Australians aged between 25 and 64 did not finish high school, leaving them, in some cases, without good literacy and numeracy skills.</p>
 <p>These are now basic requirements in most jobs.</p>
@@ -17,6 +7,4 @@
 <p>More flexible and responsive training services will be crucial in up-skilling our workforce.</p>
 <p>This is especially the case for small and medium-sized enterprises which often face great difficulty in restructuring work arrangements to allow their employees to learn and earn at the same time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

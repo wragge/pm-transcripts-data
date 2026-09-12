@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16702</transcript-id>
-    <title>Address to Australian Housing Industry Awards Brisbane   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/07/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to be here today to address you at these prestigious annual awards.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16702</transcript-id><title>Address to Australian Housing Industry Awards Brisbane   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/07/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to be here today to address you at these prestigious annual awards.</p>
 <p>These are the Academy Awards of the housing industry.</p>
 <p>Congratulations to the Housing Industry Association, whose Australian Home of the Year Award is now in its 20th year.</p>
 <p>The Australian Government strongly values the relationship it has built with the HIA.</p>
@@ -153,6 +143,4 @@
 <p>We must build future growth from productivity gains rather than from a mining boom and an endless rise in consumer debt.</p>
 <p>I am confident that Australians will pull together  -  workers, employers, unions, community organisations and governments to ensure that we pull through this crisis, and the tough recovery phase to emerge with a stronger more prosperous economy for the future.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

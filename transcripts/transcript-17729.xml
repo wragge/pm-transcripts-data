@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17729</transcript-id>
-    <title>Transcript of press conference, New York</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/03/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17729</transcript-id><title>Transcript of press conference, New York</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/03/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Good morning, thank you very much and it was good to be able to give you a wave from the trading floor.</p>
 <p>I'm here at the New York Stock Exchange and I've been here this morning meeting with a number of leading business figures to talk about the Australian economy; the government's reform agenda; our plans to price carbon; and the Minerals Resource Rent Tax.</p>
 <p>The feedback I've received from these leading business people is they understand the strength of the Australian economy and that it's a great place to do business.</p>
@@ -93,6 +83,4 @@ PM: Good morning, thank you very much and it was good to be able to give you a w
 <p>When I've had discussions on earlier occasions a while back, many people were speculating about a ‘double dip' recession, all of that speculation is gone now. People are seeing signs of growth and change. Indeed the amount of growth I think has pleased people, it was ‘on the upside', to use the language of economists.</p>
 <p>I think the reduction in unemployment also pleased people and was more than was expected, so these are good signs for the future.</p>
 <p>Well yes, these are good signs for the future, there's a long road ahead when you've just got your unemployment rate under nine per cent, there's a long road ahead but there is a sense that things are going in the right direction. Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

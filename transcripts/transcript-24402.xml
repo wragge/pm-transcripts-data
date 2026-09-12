@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24402</transcript-id>
-    <title>Joint Statement with President Francois Hollande</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>28/04/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>We have agreed to deepen the security aspects of our bilateral relationship, including our counter-terrorism cooperation and our shared efforts to deal with the threat posed by foreign terrorist fighters.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24402</transcript-id><title>Joint Statement with President Francois Hollande</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>28/04/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>We have agreed to deepen the security aspects of our bilateral relationship, including our counter-terrorism cooperation and our shared efforts to deal with the threat posed by foreign terrorist fighters.</p>
 <p>We recognise the challenges we both face on national security, as demonstrated by the terrorist attacks in Sydney in December 2014 and in Paris in January 2015.</p>
 <p>We acknowledge that ISIL, or Daesh, poses a significant threat to global security and to both our countries.</p>
 <p>We reaffirm our commitment to working with our international coalition partners to disrupt, degrade and ultimately destroy it.</p>
 <p>Our renewed efforts will focus on counter-terrorism and national security policy.</p>
 <p>Building on the Security Cooperation elements of our Strategic Partnership of 2012, we have decided to:</p>
-<ul><li>enhance our high-level dialogue on global security and terrorism;</li>
+<ul>
+<li>enhance our high-level dialogue on global security and terrorism;</li>
 <li>deepen our exchanges on national security policy, including responses to terrorism, countering violent extremism and on-line radicalisation;</li>
 <li>extend our dialogue on the challenges posed by the phenomenon of foreign fighters;</li>
 <li>further strengthen intelligence cooperation; and</li>
 <li>establish a program of exchanges in counter-terrorism policing, including on tactical response policing.</li>
-</ul><p>28 April 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+</ul>
+<p>28 April 2015</p>
+]]></content></item></response>

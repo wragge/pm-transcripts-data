@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41315</transcript-id>
-    <title>Radio interview with Hughesy and Kate – KIIS 101.1FM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage survey</subjects>
-    <content><![CDATA[<p><strong>DAVE HUGHES: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41315</transcript-id><title>Radio interview with Hughesy and Kate – KIIS 101.1FM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage survey</subjects><content><![CDATA[<p><strong>DAVE HUGHES: </strong></p>
 <p>That is a nation breathing a sigh of relief. Most of the people, the majority of the nation, is breathing a sigh of relief. I believe you were one of the people who was breathing a sigh of relief – is that right Mr Turnbull?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yes, absolutely. This is such a great day. It’s such a joyful day.</p>
@@ -84,6 +74,4 @@
 <p><strong>DAVE HUGHES: </strong></p>
 <p>Prime Minister of Australia, Malcolm Turnbull.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

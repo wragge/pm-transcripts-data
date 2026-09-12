@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12071</transcript-id>
-    <title>Doorstop Interview, Parliament House</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: IRC Decision</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12071</transcript-id><title>Doorstop Interview, Parliament House</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: IRC Decision</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>What did you think of the IRC decision this afternoon?</p>
@@ -19,6 +9,4 @@
 <p>What should happen if they don't go back to work tomorrow after...?</p>
 <p>PRIME MINISTER:</p>
 <p>I'm not going to pre-empt that, I'm not going to speculate about that. Let's take one step at a time. The IRC, the body that the union movement and the Labor Party extols above all other bodies in industrial relations, has said go back to work, men and women. They should listen to the umpire they themselves seek to be injected into every industrial issue.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

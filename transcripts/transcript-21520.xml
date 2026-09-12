@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21520</transcript-id>
-    <title>Australian Prime Minister Attends Signing of Mining Agreements  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/11/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was delighted today to attend a ceremony in Vientiane commemorating the contribution of the Australian mining sector to Laos.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21520</transcript-id><title>Australian Prime Minister Attends Signing of Mining Agreements  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/11/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was delighted today to attend a ceremony in Vientiane commemorating the contribution of the Australian mining sector to Laos.</p>
 <p>The ceremony involved the Chief Executive Officers of three Australian companies, together with Lao Deputy Prime Minister Thongloun Sisoulith and other senior Lao Ministers and officials.</p>
 <p>Laos presents exciting opportunities in the mining sector, particularly in commodities such as gold and copper, where Australian companies are able to bring world class expertise and technologies.</p>
 <p> Australian mining companies are the largest private foreign investors in the Lao economy, and have excellent cooperation with their Lao partners and the Government of Laos.</p>
@@ -19,6 +9,4 @@
 <p>Recently a third Australian company, Argonaut Resources Pty Ltd, has signed an agreement with the Government of Laos to develop a gold and copper project near the capital Vientiane.</p>
 <p>All three companies are committed to bringing Australian expertise and technologies, and to applying world's best practice in environmental protection and social programs, to their projects.</p>
 <p>The companies enjoy the solid support of the Government of Laos, which has made significant strides in recent years to develop an open and transparent foreign investment regime.  They also enjoy wide recognition amongst the Lao people for bringing development to Laos.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

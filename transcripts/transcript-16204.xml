@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16204</transcript-id>
-    <title>Interview with Mel and Kochie, Sunrise Program, Seven Network  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/10/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MEL: We are joined by Prime Minister Kevin Rudd, good morning to you. Thanks for joining us Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16204</transcript-id><title>Interview with Mel and Kochie, Sunrise Program, Seven Network  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/10/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MEL: We are joined by Prime Minister Kevin Rudd, good morning to you. Thanks for joining us Prime Minister.</p>
 <p>PM: Good morning to both of you.</p>
 <p>MEL: Will there be any more changes do you think to the Bank Deposit Guarantee?</p>
 <p>PM: Well the fundamentals of course is to maintain the stability of the banking system and there are millions and millions of people watching this program, mums and dads with their deposits in banks who want to know whether those deposits are secure.</p>
@@ -43,6 +33,4 @@
 <p>PM: Which is like regulating the price of bread  -  you don't do that. But what you do is maximise the consumer power pressure back. It's what we're trying to do.</p>
 <p>KOCHIE: Good to see you, and good to see you supporting Pink Ribbon Day.</p>
 <p>PM: Well, good to see you guys supporting it. Very important day, important to be out there supporting a very important cause.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

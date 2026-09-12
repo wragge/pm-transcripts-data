@@ -1,41 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7865</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>28/12/1989</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007865.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-PRIME MINISTER<br />
-FOR MEDIA 28 DECEMBER 1989<br />
-The Prime Minister flew to Newcastle late this afternoon to<br />
-assess first hand the situation resulting from today's<br />
-earthquake. He earlier sent the following two messages:<br />
-" 1MESSAGE TO NEWCASTLE WORKERS' CLUB<br />
-I would like to extend my deepest sympathy to the families<br />
-and friends of those affected by the earthquake damage to<br />
-the Workers' Club. The loss of life and the injuries in<br />
-this appalling event are truly tragic and the thoughts of<br />
-all Australians will be with you and with all the citizens<br />
-of Newcastle today."<br />
-" ALDERMAN JOHN MC NAUGHTON<br />
-LORD MAYOR OF NEWCASTLE<br />
-Like all Australians I was most distressed to hear the news<br />
-today of the devastating earthquake in the Newcastle area<br />
-and the loss of life, injuries and extensive damage to<br />
-property which resulted.<br />
-I wish to express my deepest sympathy to all involved.<br />
-Lionel Bowen, the Attorney-General will be visiting<br />
-Newcastle to assess the situation and to advise me on it,<br />
-but I want to let you know straight away that the full<br />
-resources of the Australian Defence Force will be available<br />
-through the National Disasters Organisation to assist the<br />
-State Emergency Services in handling the situation should<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7865</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>28/12/1989</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007865.pdf</document><subjects></subjects><content><![CDATA[<p>
+PRIME MINISTER<br>
+FOR MEDIA 28 DECEMBER 1989<br>
+The Prime Minister flew to Newcastle late this afternoon to<br>
+assess first hand the situation resulting from today's<br>
+earthquake. He earlier sent the following two messages:<br>
+" 1MESSAGE TO NEWCASTLE WORKERS' CLUB<br>
+I would like to extend my deepest sympathy to the families<br>
+and friends of those affected by the earthquake damage to<br>
+the Workers' Club. The loss of life and the injuries in<br>
+this appalling event are truly tragic and the thoughts of<br>
+all Australians will be with you and with all the citizens<br>
+of Newcastle today."<br>
+" ALDERMAN JOHN MC NAUGHTON<br>
+LORD MAYOR OF NEWCASTLE<br>
+Like all Australians I was most distressed to hear the news<br>
+today of the devastating earthquake in the Newcastle area<br>
+and the loss of life, injuries and extensive damage to<br>
+property which resulted.<br>
+I wish to express my deepest sympathy to all involved.<br>
+Lionel Bowen, the Attorney-General will be visiting<br>
+Newcastle to assess the situation and to advise me on it,<br>
+but I want to let you know straight away that the full<br>
+resources of the Australian Defence Force will be available<br>
+through the National Disasters Organisation to assist the<br>
+State Emergency Services in handling the situation should<br>
 they judge that necessary." </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

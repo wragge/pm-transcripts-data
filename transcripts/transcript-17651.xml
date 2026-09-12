@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17651</transcript-id>
-    <title>Transcript of interview, ABC Far North Queensland </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17651</transcript-id><title>Transcript of interview, ABC Far North Queensland </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister good morning.</p>
 <p>PM: Good morning.</p>
 <p>HOST: What are you expecting when you arrive in the far north?</p>
@@ -34,6 +24,4 @@ HOST: Prime Minister good morning.</p>
 <p>As a Federal Government we particularly focus on rebuilding the critical infrastructure, the roads, the rail, the ports, the things that mean communities can run, farmers can get their product to market, all of that kind of absolutely vital infrastructure, and we focus on a helping hand for individuals, families, small business and primary producers and I can say to everyone listening, and I'm sure people have been clutching their radios close during the hours of the cyclone and beyond, I can say to everyone listening we will be doing what we need to rebuild here.</p>
 <p>HOST: Prime Minister I do appreciate your time, thank you.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

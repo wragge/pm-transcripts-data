@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19392</transcript-id>
-    <title>Prime Minister&#039;s Environment Awards Winners For 2013</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/06/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19392</transcript-id><title><![CDATA[Prime Minister&#039;s Environment Awards Winners For 2013]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/06/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>Australian Conservation Foundation chief executive Don Henry has tonight been named the Prime Minister's Environmentalist of the Year.</p>
 <p>Mr Henry was awarded the title this evening for his outstanding commitment to environmental advocacy over many years.</p>
 <p>The Parliamentary Secretary for Sustainability and Urban Water presented the award on the Prime Minister's behalf at the United Nations Association of Australia's World Environment Day awards ceremony in Melbourne.</p>
@@ -29,6 +19,4 @@
 <p>·         Ms Emma Hamilton-Foster, UTS</p>
 <p>·         Ms Amelia Telford, Australian Youth Climate Coalition</p>
 <p>Details about the award winners and finalists can be found at: <a href="http://www.unaavictoria.org.au/awards-programs/world-environment-day-awards">www.unaavictoria.org.au/awards-programs/world-environment-day-awards</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

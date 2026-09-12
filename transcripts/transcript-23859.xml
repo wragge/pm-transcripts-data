@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23859</transcript-id>
-    <title>The Link is inked - Building the infrastructure that Melbourne needs</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/10/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government welcomes the Victorian Government’s signing of contracts to build Melbourne’s much-needed East West Link.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23859</transcript-id><title>The Link is inked - Building the infrastructure that Melbourne needs</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/10/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government welcomes the Victorian Government’s signing of contracts to build Melbourne’s much-needed East West Link.</p>
 <p>The East West Link will improve productivity, decrease business costs and ease traffic congestion.</p>
 <p>The project will ensure that people spend less time on congested roads and more time being productive or with their family.</p>
 <p>Congestion is a massive problem for Melbourne. It erodes peoples’ quality of life, it makes travel times longer, and it undermines investment and job creation.</p>
@@ -23,6 +13,4 @@
 <p>The time for talk is over.</p>
 <p>The time to build the East West Link is here.</p>
 <p>2 October 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

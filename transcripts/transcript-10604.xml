@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10604</transcript-id>
-    <title>Carr&#039;s Baseless Contribution </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/12/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10604</transcript-id><title><![CDATA[Carr&#039;s Baseless Contribution ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/12/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The New South Wales Premier, Mr Carr, has deliberately inflamed the native title debate.</p>
 <p>His baseless attempt to liken the Federal Government's Native Title Amendment Bill to the discredited practices of the former white regime in South Africa is not only completely irresponsible but clearly demonstrates that it is the Labor Party which seeks to generate a debate on racial grounds in relation to the Wik issue.</p>
 <p>There is absolutely no similarity between the Government's fair and just native title proposals and the discriminatory policies which once prevailed in South Africa.</p>
@@ -17,6 +7,4 @@ The New South Wales Premier, Mr Carr, has deliberately inflamed the native title
 <p>That he has done so highlights the fact that it is members of the Labor Party, from Mr Beazley down, and some of the Government's other critics who are desperate to inject racial overtones into the debate.</p>
 <p>Mr Carr's cheap contribution will be dismissed with derision by most Australians.</p>
 <p>7 December 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

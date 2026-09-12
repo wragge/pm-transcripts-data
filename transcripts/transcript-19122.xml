@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19122</transcript-id>
-    <title>Death of Peter Harvey</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19122</transcript-id><title>Death of Peter Harvey</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Our nation's media has lost a giant today with the death of Peter Harvey.</p>
 <p>He was a true newsman to his bootstraps, starting his career as a cadet at the Sydney Telegraph and going on to cover all the big stories of the past half century including the Vietnam War, the Dismissal, the fall of Marcos and the Gulf War, along with Australian political life from  Menzies to Gillard.</p>
 <p>It was, by any measure, a remarkable five decade career.</p>
@@ -17,6 +7,4 @@
 <p>He was well known to Australians, and he was well loved.</p>
 <p>Peter Harvey was one of the greats and so will be greatly missed.</p>
 <p>On behalf of the nation, my sincere condolences go Peter's widow Anne, to their children Claire and Adam who have continued Peter's proud tradition in journalism, to Peter's colleagues at Channel 9 and his mates across the media landscape.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

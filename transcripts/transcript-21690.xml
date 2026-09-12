@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21690</transcript-id>
-    <title>Interview with David Speers Sky News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/04/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21690</transcript-id><title>Interview with David Speers Sky News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/04/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p>Prime Minister thanks for your time. Cabinet meets tomorrow to finalise some of the budget details, can you say whether or not  they'll be changes to the Medicare Safety Net which was a central plank of your election campaign?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I can certainly say that the Medicare Safety Net will be retained. I think it's reasonable to expect though that there'll be an increase in the threshold, probably to the levels of 500 instead of 300 and a 1000 instead of 700 for people like you and I. It will still be an extremely generous safety net. The truth is that in order to maintain its sustainability we do need to have a higher threshold. Those two figures were originally our policy. We thought 500 and 1000 were the right levels when we announced the policy. We were forced by the minor parties and the opposition in the Senate in order to get it through to bring the levels down to 300 and 700 but we believe that taking them to 500 and 1000 will maintain the sustainability. It will still be a very generous safety net. The Labor Party's policy is to abolish it altogether, so if they come racing out and saying this is terrible, they should be reminded they don't believe in having any safety net. So I can assure people however that the safety net will be retained, there will be an increase announced by the Treasurer of that order in the thresholds but there won't be any change to the entitlement of people to get 80 percent of their out of pockets over the thresholds or indeed to the items that are eligible for capture by the safety net.</p>
@@ -134,6 +124,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20782</transcript-id>
-    <title>Honorary Awards - Order of Australia  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/07/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce honorary appointments within the Order of Australia to five prominent Japanese men and women for their service to Australian-Japan relations.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20782</transcript-id><title>Honorary Awards - Order of Australia  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/07/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce honorary appointments within the Order of Australia to five prominent Japanese men and women for their service to Australian-Japan relations.</p>
 <p>I am delighted that my visit to Tokyo next week will allow me the opportunity to personally present these awards to the distinguished recipients at a special ceremony in Tokyo on 17 July.</p>
 <p>These awards reflect the depth of the bilateral relationship and expecially the strong links that exist between the people of Japan and the people of Australia.</p>
 <p>Mr Takashi Imai, Honorary Chairman of the Nippon Steel Corporation and Chairman of the Japan-Australia Business Cooperation Committee, will be appointed as an Honorary Companion (AC) in the General Division for service to Australia-Japan business relations.</p>
@@ -17,6 +7,4 @@
 <p>Mr Tadashi Yamamoto, President of the Japan Centre for International Exchange will be appointed as an Honorary Officer (AO) in the General division for service to Australian-Japan relations, particularly the young political leaders exchange programme.</p>
 <p>Mrs Masako Endo, author of five books, numerous essays and newspaper articles on historical aspects of Australia-Japan relations has enlightened both Japanese and Australians about the long history, dating back to 1831, of their history. She will be appointed a Medal (OAM) in the General Division for service to Australia-Japan relations.</p>
 <p>Professor Shunsuke Takahashi, Professor of Physical Culture, Komazawa University and Chief Instructor of the Japan Karate Association of Australia, will be appointed a Medal (OAM) in the General Division for service to the sport of Karate.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

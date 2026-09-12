@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16888</transcript-id>
-    <title>$69 million social housing investment in Townsville    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today announced that Townsville has received approval for 257 new homes worth nearly $69 million under the Stage Two of the Nation Building Economic Stimulus Plan Social Housing Initiative.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16888</transcript-id><title>$69 million social housing investment in Townsville    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today announced that Townsville has received approval for 257 new homes worth nearly $69 million under the Stage Two of the Nation Building Economic Stimulus Plan Social Housing Initiative.</p>
 <p>This brings the total of new social housing in the Townsville region to 304 homes worth $83 million following the announcement of Stage One projects earlier this year.</p>
 <p>The Prime Minister made the announcement with Federal Member for Dawson James Bidgood and Senator for Queensland Jan McLucas at the site of a $2.9 million project in West End that will deliver eight two-bedroom units.</p>
 <p>The building work - funded under Stage One - is providing work for 30 roofers, electricians, carpenters and renderers, including 11 apprentices, and is expected to be completed by the end of 2009.</p>
@@ -19,6 +9,4 @@
 <p>The stimulus plan also sees an $80.1 million investment in maintenance and repair work for 9,458 homes in Queensland. Renovation and repainting jobs increase the quality of the housing stock and lengthen its life.</p>
 <p>Locations, numbers of dwellings and funding under the social housing initiative are current and are subject to variations during the tender process.</p>
 <p>Construction has also begun on all 118 new Defence houses funded under the Stimulus Plan, supporting 82 direct and 205 indirect local jobs. 56 properties are complete.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

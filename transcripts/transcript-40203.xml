@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40203</transcript-id>
-    <title>Joint Media Release - Turnbull Government backing FinTech</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/02/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Malcolm Turnbull and Treasurer Scott Morrison today announced the establishment of an expert advisory group to help make Australia the leading market for financial technology – or FinTech – in the Asia Pacific region.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40203</transcript-id><title>Joint Media Release - Turnbull Government backing FinTech</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/02/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Malcolm Turnbull and Treasurer Scott Morrison today announced the establishment of an expert advisory group to help make Australia the leading market for financial technology – or FinTech – in the Asia Pacific region.</p>
 <p>Financial services is the largest sector of our economy, employing around 450,000 people and contributing over $140 billion to the economy last financial year.</p>
 <p>Although Australia is a leading financial services market in the region, the sector is becoming increasingly globalised and exposed to technological disruption. Many traditional financial products are being disrupted by the FinTech sector, which is well positioned to become a leading player in the Asia-Pacific.</p>
 <p>FinTech is at the cutting edge of innovation and will help to deliver more efficient financial markets and more customer focussed outcomes for consumers.</p>
@@ -29,6 +19,4 @@
 <p>Jonny Wilkinson, Co-Founder and Managing Director, Equitise</p>
 <p>Scott Farrell, Partner, King &amp; Wood Mallesons.</p>
 <p>The FinTech advisory group will complement the Innovation Collaboration Committee being established under the Financial System Program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

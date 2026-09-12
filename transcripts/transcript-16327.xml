@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16327</transcript-id>
-    <title>Australia provides support for Afghanistan Elections    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today announced Australia will provide $5 million to support the 2009/2010 Afghanistan elections.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16327</transcript-id><title>Australia provides support for Afghanistan Elections    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today announced Australia will provide $5 million to support the 2009/2010 Afghanistan elections.</p>
 <p>The Prime Minister made the announcement after returning from his visit to Tarin Kowt in the Oruzgan province, where he met Australian personnel on deployment to Afghanistan. </p>
 <p>The Australian Government will provide $3 million to the United Nations Development Program to help the Afghanistan Independent Election Commission (AIEC) build a national voter registration campaign which will sign up more than 2 million new voters. </p>
 <p>Further, the Government will provide $2 million towards the Asia Foundation's work with the AIEC and civil society partners to implement electoral education and public outreach programs in Afghanistan. </p>
@@ -23,6 +13,4 @@
 <p>     * Providing direct support to AIEC offices.</p>
 <p>The Australian Government, through the Australian Agency for International Development (AusAID), will continue to provide assistance to Afghanistan in partnership with the Afghanistan Government.</p>
 <p>In 2008-09, AusAID will provide an estimated $62 million of much needed development assistance to Afghanistan.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

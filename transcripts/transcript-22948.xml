@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22948</transcript-id>
-    <title>Interview with Piers Ackerman, Radio 2GB, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Centenary of Federation; the year in review; Ministerial re-suffle; Williamstown Naval base; Australian self-confidence</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22948</transcript-id><title>Interview with Piers Ackerman, Radio 2GB, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Centenary of Federation; the year in review; Ministerial re-suffle; Williamstown Naval base; Australian self-confidence</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>ACKERMAN:</p>
 <p>Good morning Mr Howard.</p>
@@ -101,6 +91,4 @@
 <p>ACKERMAN:</p>
 <p>Thank you very much Prime Minister.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15263</transcript-id>
-    <title>Weekly Radio Message</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/07/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15263</transcript-id><title>Weekly Radio Message</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/07/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>  Listen to this Speech (MP3 -   0.95Mb - 87secs)</p>
 <p>Since December 27, 2002, when the National Security Hotline was activated, it has received more than 96,000 calls.</p>
 <p>The number of calls increases whenever an incident occurs. Sometimes people are simply seeking re-assurance, sometimes looking for information, and critically, sometimes they are passing on information.</p>
@@ -21,6 +11,4 @@
 <p>No one can ever do that.</p>
 <p>But we are doing everything in our power to try to prevent one occurring, and we rely critically on ordinary Australians to help us in that very important task.</p>
 <p>  Listen to this Speech (MP3 -   0.95Mb - 87secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

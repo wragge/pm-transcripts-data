@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10635</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW                PETER KENNEDY ABC RADIO - 6WF, PERTH</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/06/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.........................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10635</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  RADIO INTERVIEW                PETER KENNEDY ABC RADIO - 6WF, PERTH</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/06/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.........................................................</p>
 <p> PRESENTER: </p>
 <p>The Prime Minister, John Howard, is in Perth today. In fact, he</p>
 <p>   has joined me in the ABC studios and he'll also take your calls.</p>
@@ -403,6 +393,4 @@
 <p>PRIME MINISTER:</p>
 <p>That's all right I don't mind that at all, I was just</p>
 <p>   wondering if you'd finished, that's all.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

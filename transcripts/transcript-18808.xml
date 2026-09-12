@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18808</transcript-id>
-    <title>Speech to the Asia Society and the Economic Club - &quot;The Real Task of National Preparedness&quot;</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/09/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New York City, USA</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18808</transcript-id><title><![CDATA[Speech to the Asia Society and the Economic Club - &quot;The Real Task of National Preparedness&quot;]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/09/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New York City, USA</p>
 <p>Your two societies, rich with history, perform a vital contemporary role.</p>
 <p>One way I describe today's environment for decision-makers is this: almost every hand on the lens is tightening the focus.</p>
 <p>Flattening our perspective, simplifying our picture  -  and missing complexity.</p>
@@ -160,6 +150,4 @@
 <p>Rather, it is a tribute to the history and values of this city, this nation, a tribute to your remarkable people  -  and to the history and values we share.</p>
 <p>We are two free peoples of the New World, two young nations born of the Age of Reason, two friends and allies still in a century of change.</p>
 <p>You are generous and far-sighted hosts and I look forward to our conversation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

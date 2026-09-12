@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11143</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   TELEVISION INTERVIEW WITH STEVE LIEBMANN                 TODAY SHOW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/06/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11143</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   TELEVISION INTERVIEW WITH STEVE LIEBMANN                 TODAY SHOW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/06/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................................................................................</p>
 <p>SUBJECTS: Coastwatch, US style coastguard, voluntary student unionism,</p>
 <p> GST legislation, Senator Meg Lees.</p>
 <p>LIEBMANN:</p>
@@ -168,6 +158,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks, Steve.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

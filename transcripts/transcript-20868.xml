@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20868</transcript-id>
-    <title>Doorstop Interview on arrival to Beijing, China </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20868</transcript-id><title>Doorstop Interview on arrival to Beijing, China </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, what do you hope to achieve by the visit?</p>
 <p>PRIME MINISTER:</p>
 <p>Most importantly get to know the new leadership of China, the most populace country in the world, a hugely important trading and political partner of Australia';s, and in particular to talk about not only the bilateral relationship but also North Korea. So I couldn';t be coming here at a more important time and the value of a quick visit like this is enormous.</p>
@@ -54,6 +44,4 @@
 <p>PRIME MINISTER:</p>
 <p>Yes, yes I would have.  I in fact had planned to go to the Boao Forum but that had to be put off. But I gather I';m amongst the first batch of leaders to meet the new Chinese leadership and that';s from my point of view an important mark and an important symbol of the significance that we attach to the relationship.  Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

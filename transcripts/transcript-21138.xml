@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21138</transcript-id>
-    <title>Joint Press Conference with Danna Vale Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/03/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21138</transcript-id><title>Joint Press Conference with Danna Vale Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/03/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  PRIME MINISTER:</p>
 <p>Are we right?  Well, ladies and gentlemen, I want to announce that the Government has decided on a package of measures which will enhance by a minimum of $267 million over a five-year period the benefits currently available to Australia';s veterans.</p>
 <p>This package follows extensive consultations with representatives of the veterans'; community, including but not only the RSL, and also extensive discussions between the Government and many Government members who have an intense interest in matters relating to veterans.</p>
 <p>  The Minister will be providing detailed statements later, but the principal measures that I want announce are eight.</p>
@@ -207,6 +197,4 @@
 <p>JOURNALIST:</p>
 <p>I';m not sure about that.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

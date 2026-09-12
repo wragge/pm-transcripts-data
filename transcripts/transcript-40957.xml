@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40957</transcript-id>
-    <title>Radio interview with Matthew Abraham and David Bevan, ABC Radio Adelaide</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Naval Ship Building Plan; South Australian infrastructure; Cyber Security</subjects>
-    <content><![CDATA[<p><strong>HOST:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40957</transcript-id><title>Radio interview with Matthew Abraham and David Bevan, ABC Radio Adelaide</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Naval Ship Building Plan; South Australian infrastructure; Cyber Security</subjects><content><![CDATA[<p><strong>HOST:</strong></p>
 <p>Welcome to our studio Prime Minister, take a seat.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>How are you?</p>
@@ -74,7 +64,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Certainly not. No, what we’re proposing, what’s been presented in the budget is a levy that represents a fair contribution from the big banks which are among the most profitable banks in the world, to budget repair. Now we have sought to bring the budget back into balance through savings and cutting spending. We’ve had a fair bit of success I have to say, about $25 billion we’ve been able to get through the Senate. But we haven’t been able to get everything we sought to through. So in order to ensure we don’t throw a mountain of debt on the shoulders of our children and grandchildren, we have to raise revenue. So this bank levy is pretty conventional. You know, I can see there’s obviously complaints about it from the big banks. You’d expect that. But it’s very similar to levies of this kind in other countries including of course, the United Kingdom.</p>
 <p><strong>HOST: </strong></p>
-<p>Well Mia Davies, the quote from you from last September was: “It’s a state issue of course, but we view with great concern, as does the business community, the imposition of substantially increased taxes on particular nominated companies.” So you’ve picked out five banks. </p>
+<p>Well Mia Davies, the quote from you from last September was: “It’s a state issue of course, but we view with great concern, as does the business community, the imposition of substantially increased taxes on particular nominated companies.” So you’ve picked out five banks.&nbsp;</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well this is a situation where you have the big banks have the benefit of very substantial financial and commercial benefit from the security that is provided by the very stable financial system in Australia backed up by government regulation and leadership and so it is fair that they make a contribution to budget repair and I think most Australians would agree with that.</p>
 <p><strong>HOST: </strong></p>
@@ -140,6 +130,4 @@
 <p><strong>HOST: </strong></p>
 <p>We appreciate it, Prime Minister Malcolm Turnbull on ABC Radio Adelaide.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

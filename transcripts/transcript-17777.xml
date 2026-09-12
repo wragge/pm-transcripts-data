@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17777</transcript-id>
-    <title>Transcript of interview, 4BC</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/04/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17777</transcript-id><title>Transcript of interview, 4BC</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/04/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, good morning and welcome.</p>
 <p>PM: Thank you very much, Greg. Good to be with you.</p>
 <p>HOST: Yeah, and a busy day ahead, an important day ahead. You would have seen footage of the community forum on the insurance and other matters held in Ipswich yesterday  -  profoundly emotional and you can understand how the residents were feeling, no doubt, and your Government's calling for clearer definitions of flood and what flood is from insurers in the future. I'm wondering, though, Prime Minister, how does it help people who were there yesterday and all the others who weren't there yesterday? What is your Government going to do now to help those people now?</p>
@@ -70,6 +60,4 @@ HOST: Prime Minister, good morning and welcome.</p>
 <p>Of course, I am passionate about doing this, passionate about doing it and that's what's driving me to make sure I'm around the country explaining it to Australians.</p>
 <p>HOST: You've got a busy day ahead. It's a very important day talking to a lot of people who want to see their Prime Minister, so we'll let you at it and good luck.</p>
 <p>PM: Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

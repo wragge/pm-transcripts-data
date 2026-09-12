@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22630</transcript-id>
-    <title>Interview with Tim Cox 936 ABC Radio, Hobart </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/12/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22630</transcript-id><title>Interview with Tim Cox 936 ABC Radio, Hobart </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/12/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>What I've been told is essentially publicly known, the loss of property, the continued threat, the change in the wind which, of course, altered the course of things yesterday, with the renewed concern. It's one of those situations where the public is entitled to know everything that's known by the authorities because it can affect their safety. The workers, the men and women in the fire authorities, not only in Tasmania but all around the country, have been amazing and I just want to go there to tell the communities that their fellow Australians are thinking of them and supporting them and they admire the people who are defending their lives and their properties.</p>
 <p>COX:</p>
 <p>We learnt a lot about that Australian spirit that you talk about at times like this. Is it an interesting exercise for you as Prime Minister to meet the men and women that are actually in the front line fighting these fires?</p>
@@ -28,6 +18,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you, bye bye.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

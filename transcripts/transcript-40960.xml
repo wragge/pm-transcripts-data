@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40960</transcript-id>
-    <title>Radio interview with Bianca, Terry &amp; Bob 97.3FM Brisbane</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>HOST: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40960</transcript-id><title><![CDATA[Radio interview with Bianca, Terry &amp; Bob 97.3FM Brisbane]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>HOST: </strong></p>
 <p>Welcome to Brisbane, the Prime Minister of Australia, Malcolm Turnbull. Good morning Prime Minister.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, how are you?</p>
@@ -76,7 +66,7 @@
 <p><strong>HOST: </strong></p>
 <p>Okay yeah.</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>Some time ago, not long after I’d become Prime Minister I was in Canberra and it was a cold morning. I got up -  Lucy was there - and I pulled on a football jumper out of drawer in our bedroom.</p>
+<p>Some time ago, not long after I’d become Prime Minister I was in Canberra and it was a cold morning. I got up -&nbsp; Lucy was there - and I pulled on a football jumper out of drawer in our bedroom.</p>
 <p><strong>HOST: </strong></p>
 <p>Yeah.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -207,7 +197,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well the answer is the first thing is, when you’re overseas, obey the laws of the country you’re in., I’ll say that again. When you’re overseas, obey the laws of the country you’re in. You know, they’re often very different to Australia and often much harsher than Australia, particularly with respect to drugs. So that is the absolutely vital message.</p>
 <p>Secondly, take advice from the Department of Foreign Affairs and Trade website, the Smartraveller website. Always make sure you’re up to date on that. They go to a lot of trouble to provide updated advice on security and other matters.</p>
-<p>Now as to what we do. Well, we provide consular assistance, but if people break the law in other countries, they will face the legal process there. Just like foreigners who break the law in Australia, face legal process here. Do we contact other Governments? Yes we do. Our consular officials do that and we, you know, we’ve often made representations, particularly when Australians are subject to sentenced to or threatened with a death penalty. You know, there have been a number of cases of that. But the fundamental message guys  –</p>
+<p>Now as to what we do. Well, we provide consular assistance, but if people break the law in other countries, they will face the legal process there. Just like foreigners who break the law in Australia, face legal process here. Do we contact other Governments? Yes we do. Our consular officials do that and we, you know, we’ve often made representations, particularly when Australians are subject to sentenced to or threatened with a death penalty. You know, there have been a number of cases of that. But the fundamental message guys&nbsp; –</p>
 <p><strong>HOST: </strong></p>
 <p>Don’t stuff up in the first place.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -243,6 +233,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Okay, it’s great to be with you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

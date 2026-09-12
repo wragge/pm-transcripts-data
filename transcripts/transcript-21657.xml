@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21657</transcript-id>
-    <title>Interview with Mark Ferguson Channel Nine News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/03/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MARK FERGUSON:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21657</transcript-id><title>Interview with Mark Ferguson Channel Nine News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/03/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MARK FERGUSON:</p>
 <p>And joining us now from Canberra is Prime Minister, John Howard.  Prime Minister, you've just been speaking to Indonesian President Yudhoyono, what help have you been able to offer him?</p>
 <p>PRIME MINISTER:</p>
 <p>We've offered him not only some initial emergency aid of $1 million but also some medical facilities and as you heard those facilities are now on the way.  And also medical evacuation facilities and both of these will be provided by the resources of the Australian military, who again of course are there to do an absolutely magnificent job.  And as the situation unfolds if further help is needed then it will certainly be made available.</p>
@@ -26,6 +16,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

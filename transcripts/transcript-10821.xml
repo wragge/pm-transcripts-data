@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10821</transcript-id>
-    <title>INDIAN NUCLEAR TESTS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/05/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> India's action in conducting three underground nuclear</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10821</transcript-id><title>INDIAN NUCLEAR TESTS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/05/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> India's action in conducting three underground nuclear</p>
 <p> tests is an ill-judged step which could have most damaging consequences</p>
 <p> for security in South Asia and globally.</p>
 <p>Australia has a direct security interest in preventing the proliferation</p>
@@ -30,6 +20,4 @@
 <p> consultations. Further action will be decided in light of those consultations</p>
 <p> and discussions with other countries which share our concern.</p>
 <p> 12 May 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

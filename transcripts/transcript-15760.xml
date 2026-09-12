@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15760</transcript-id>
-    <title>Joint Media Release with Damian Hale MP Naval Fuel Installation Upgrade, Darwin Protecting Australia, Protecting our Heritage, Protecting our Environment </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today announced that the Australia Government had approved a $6.4 million dollar upgrade for the Naval Fuel Installation at Stokes Hill, Darwin.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15760</transcript-id><title>Joint Media Release with Damian Hale MP Naval Fuel Installation Upgrade, Darwin Protecting Australia, Protecting our Heritage, Protecting our Environment </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today announced that the Australia Government had approved a $6.4 million dollar upgrade for the Naval Fuel Installation at Stokes Hill, Darwin.</p>
 <p>The Installation is a key facility for the Australian Navy and our allies, supporting operations from Northern Australia.  </p>
 <p>The project is a major upgrade of the Installation to lift its occupational health and safety standards and to guard against environmental damage from accidental spills.</p>
 <p>The Installation contains a registered sacred site. From the early design stages of the project, the Department of Defence has worked with the Aboriginal Areas Protection Authority (AAPA) to ensure that the area's traditional owners are comfortable with the project proceeding.  </p>
@@ -18,6 +8,4 @@
 <p>The site also holds national significance because part of it was destroyed by the air attacks on Darwin during World War Two - the first of which occurred 66 years ago on 19 February.  </p>
 <p>Defence will ensure that heritage requirements are properly considered during the project.</p>
 <p>DARWIN</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

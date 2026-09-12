@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17298</transcript-id>
-    <title>Prime Minister Minister for Health Tasmanian Minister for Health Member for Braddon $4.78 million new cancer services boost for Burnie</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/05/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Burnie will receive $4.78 million to establish a new cancer care centre at the North West Regional Hospital.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17298</transcript-id><title>Prime Minister Minister for Health Tasmanian Minister for Health Member for Braddon $4.78 million new cancer services boost for Burnie</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/05/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Burnie will receive $4.78 million to establish a new cancer care centre at the North West Regional Hospital.</p>
 <p>The centre will include a patient support centre and a new chemotherapy treatment service, with 12 chemotherapy treatment chairs. A million dollars will also go towards a magnetic resonance imaging (MRI) unit.</p>
 <p>When fully operational this new facility at Burnie will provide an estimated extra 6,000 chemotherapy treatments per year.</p>
 <p>The Rudd Government funding announced today is part of a $47.67 million state-wide partnership with the Tasmanian Government and private contributors to enable a balanced and coordinated project across Tasmania. The Tasmanian Government will provide almost $24 million towards this project, with $3.95 million in other contributions.</p>
@@ -27,6 +17,4 @@
 <p>Since coming into office, the Government has committed more than $2.3 billion in cancer infrastructure, medicines, screening and research.</p>
 <p>Under the National Health and Hospitals Network, the Government provides 60 per cent of the funding for capital upgrades for public hospitals.</p>
 <p>The Australian Government's plan will see health services funded nationally and run locally through local hospital networks to deliver better outcomes for local communities.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

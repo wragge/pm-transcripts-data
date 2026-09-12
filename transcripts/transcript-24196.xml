@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24196</transcript-id>
-    <title>Faith Bandler AC</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>14/02/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our country has lost a champion of Aboriginal and Torres Strait Islander Australians, Faith Bandler AC.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24196</transcript-id><title>Faith Bandler AC</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>14/02/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our country has lost a champion of Aboriginal and Torres Strait Islander Australians, Faith Bandler AC.</p>
 <p>Ms Bandler was a tireless social activist, best known for leading the political campaign which resulted in the landmark 1967 referendum that ensured Indigenous Australians were counted as full citizens and gave the Federal Government responsibility for Indigenous Affairs.</p>
 <p>Ms Bandler served in the Australian Women's Land Army in World War II.</p>
 <p>She helped form the Aboriginal Australian Fellowship and served as General-Secretary of the Federal Council for the Advancement of Aboriginal and Torres Strait Islanders.</p>
@@ -18,6 +8,4 @@
 <p>Ms Bandler is survived by her daughter, Lilon Gretl.</p>
 <p>Her family has been offered a state funeral in recognition of her service to our country.</p>
 <p>14 February 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

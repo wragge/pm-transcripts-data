@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18699</transcript-id>
-    <title>Transcript of doorstop interview, Fremantle</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18699</transcript-id><title>Transcript of doorstop interview, Fremantle</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: It's a great pleasure to be here today at Carnegie Wave, which is showing the way to a clean energy future.</p>
 <p>We know that the temperature of our world is rising and that that is climate change. We know that the last decade was the hottest one on record, and that climate change is being caused by an increase of carbon pollution in our atmosphere. That causes warming of our planet; it also causes more extreme weather events  -  cyclones, hurricanes and the like.</p>
 <p>We've in fact seen a 300 per cent increase in such events since the 1960s. So, we have to tackle climate change, we have to cut carbon pollution.</p>
@@ -74,6 +64,4 @@ PM: It's a great pleasure to be here today at Carnegie Wave, which is showing th
 <p>JOURNALIST: Prime Minister, will you meet Mark McGowan while you're here in Western Australia?</p>
 <p>PM: Look I won't have the opportunity on this trip.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

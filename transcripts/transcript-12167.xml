@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12167</transcript-id>
-    <title>Doorstop Interview, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: homelessness and housing; M-1 demonstrations; comments by Justice Kirby; Government support; dingo attack.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12167</transcript-id><title>Doorstop Interview, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: homelessness and housing; M-1 demonstrations; comments by Justice Kirby; Government support; dingo attack.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister given the St Vincent de Paul report and the with the other report out today can you give an indication whether or not homelessness and housing will be addressed in this month's budget?</p>
@@ -52,6 +42,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think that's a matter, look it's a very very sad, a tragic event. Awful. I just feel so sorry for that poor boy's parents. I mean it's just a terrible experience for them. What is the appropriate response I will leave to the relevant state authorities. I don't think the prime minister should give advice on every single thing that's around. But that's an awful tragic event.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

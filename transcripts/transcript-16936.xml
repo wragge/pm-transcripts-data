@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16936</transcript-id>
-    <title>Address to the National Disability Awards Ceremony Great Hall, Parliament House Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/11/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16936</transcript-id><title>Address to the National Disability Awards Ceremony Great Hall, Parliament House Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/11/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>I also acknowledge the excellent work of everyone involved with tonight's awards in raising the profile of the concerns of people with disabilities across the nation.</p>
 <p>And I'd particularly like to thank the Minister, Jenny Macklin, and the Parliamentary Secretary for Disabilities, Bill Shorten, who are both extremely dedicated to real improvements for people with disabilities and those who care for them.</p>
@@ -106,6 +96,4 @@ I acknowledge the First Australians on whose land we meet, and whose cultures we
 <p>I thank you all for the work you do in addressing the inadequacies in the Australian disability system.</p>
 <p>To all the National Disability Awards finalists and nominees - I applaud you.</p>
 <p>And to those who receive awards today - congratulations and keep up the fine work that is being recognised here today.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

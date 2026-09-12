@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15511</transcript-id>
-    <title>National School Chaplaincy Program</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/06/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It gives me great pleasure to announce the outcome of Round One of the National School Chaplaincy Program.  </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15511</transcript-id><title>National School Chaplaincy Program</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/06/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It gives me great pleasure to announce the outcome of Round One of the National School Chaplaincy Program.  </p>
 <p>The overwhelming majority of schools made a strong case for the benefits that new or enhanced school chaplaincy services could provide to students in those schools.  Accordingly, I have decided to allocate an extra $25 million to the program, enabling the Government to provide funding to 1392 schools in Round One, a total of almost $77 million over three years.</p>
 <p>This commitment brings the total value of the program to $115 million over three years and allows for $38 million to be allocated in Round Two.  </p>
 <p>More than over 1500 applications from individual school communities were received for funding under this program of up to $20,000 for three years.  This high demand for chaplaincy services indicates that there is a real desire for pastoral care and spiritual guidance in Australian schools.  </p>
@@ -17,6 +7,4 @@
 <p>Round Two will commence in early July and schools who have not yet applied will have an opportunity to seek funding.  I know that a number of schools who have not yet applied have been consulting with their communities in preparation for this second funding round, and I expect there will again be an enthusiastic response.  Those schools whose applications were unsuccessful in Round One will also have an opportunity to strengthen their applications for reconsideration in Round Two.  </p>
 <p>I would like congratulate all the schools that have been successful in obtaining funding in Round One.  </p>
 <p>National School Chaplaincy Program</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40302</transcript-id>
-    <title>Shipbuilding announcement with Defence Minister and Chief of Navy</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>18/04/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40302</transcript-id><title>Shipbuilding announcement with Defence Minister and Chief of Navy</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>18/04/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Well, good afternoon everyone. I am here with the Defence Minister Senator Payne and the Chief of Navy Vice Admiral Barrett and what we are announcing today is the build locations for 12 offshore patrol vessels and up to 21 Pacific Patrol Boats in addition to the nine Future Frigates previously announced.</p>
 <p>As you know the largest part of the Defence White Paper is the re-equipment of the Australian Navy. We are an island nation and our security depends upon a modern and effective Navy.</p>
 <p>Now during the six years of the Labor Government, not one new naval vessel was ordered from an Australian yard and so putting our Navy in the right situation to keep us safe and putting our naval ship building industry in the right place to build the ships we need for the future is a great national endeavour.</p>
@@ -97,6 +87,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>We're talking about surface vessels today.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

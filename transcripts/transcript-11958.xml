@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11958</transcript-id>
-    <title>Interview with Alexandra Kirk, AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/01/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Australian economy; Labor's contradictions on budget surpluses; policy development; cricket</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11958</transcript-id><title>Interview with Alexandra Kirk, AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/01/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Australian economy; Labor's contradictions on budget surpluses; policy development; cricket</p>
 <p>E&amp;OE................................</p>
 <p>KIRK:</p>
 <p>You're predicting that the Australian economy will come off the boil. Are we headed for a recession?</p>
@@ -83,6 +73,4 @@
 <p>PRIME MINISTER:</p>
 <p>You're welcome.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16554</transcript-id>
-    <title>Interview with David Koch Seven Network - Sunrise   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH: Kevin Rudd, Prime Minister is with us this morning. You have heard the editorials, we have heard what Wayne Swan has said. What do you think of the reaction so far? </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16554</transcript-id><title>Interview with David Koch Seven Network - Sunrise   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH: Kevin Rudd, Prime Minister is with us this morning. You have heard the editorials, we have heard what Wayne Swan has said. What do you think of the reaction so far? </p>
 <p>PM: I think it is normal that you are going to have a complete mix of reactions across the country. If you listen to one of those newspapers, they are saying we were too tough. Others are saying we're not tough enough. I believe we have got the balance right.</p>
 <p>You know why? Because we have got to deal with the reality of this recession now, pump as much into the economy right now, but provide a sustainable Budget over the period ahead.</p>
 <p>That is what we have tried to do. I believe we got the balance right. </p>
@@ -44,6 +34,4 @@
 <p>KOCH: Yep, absolutely we are a lot better off than the rest of the world. Good to see you. </p>
 <p>PM: Hey when you talk to Joe, ask him how much debt he supports. How much deficit he supports. He's a mate of you, you put it right on him.</p>
 <p>KOCH: He is coming in at 8:00, I will put it to him. Good to see you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

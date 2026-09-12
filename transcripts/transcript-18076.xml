@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18076</transcript-id>
-    <title>Vietnam Veterans&#039; Remembrance Day, Canberra </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/08/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18076</transcript-id><title><![CDATA[Vietnam Veterans&#039; Remembrance Day, Canberra ]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/08/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Their Excellencies Ms Quentin Bryce, Governor-Generalof the Commonwealth of Australia and Mr Michael Bryce.</p>
 <p>Former Governor-General Michael Jeffrey.</p>
 <p>His Excellency, Major General Martyn Dunne, High Commissioner for New Zealand.</p>
@@ -75,6 +65,4 @@ Their Excellencies Ms Quentin Bryce, Governor-Generalof the Commonwealth of Aust
 <p>That is war.</p>
 <p>And so we gather.</p>
 <p>And so we remember. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

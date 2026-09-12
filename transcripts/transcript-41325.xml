@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41325</transcript-id>
-    <title>Radio interview with Clairsy, Matt and Kymba – Mix 94.5, Perth</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same-sex marriage</subjects>
-    <content><![CDATA[<p><strong>DEAN CLAIRS:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41325</transcript-id><title>Radio interview with Clairsy, Matt and Kymba – Mix 94.5, Perth</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same-sex marriage</subjects><content><![CDATA[<p><strong>DEAN CLAIRS:</strong></p>
 <p>Good morning, Malcolm Turnbull.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, wasn’t it a great day and isn’t it a great day today to know that the Australian people have spoken. 80 per cent of them took the opportunity to have their say and just under 62 per cent said ‘yes’.</p>
@@ -58,6 +48,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

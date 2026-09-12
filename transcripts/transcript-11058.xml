@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11058</transcript-id>
-    <title>Interview with Ron Wilson, Channel Ten Evening News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Indonesia cancels four-year security pact with Australia</subjects>
-    <content><![CDATA[<p>16 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11058</transcript-id><title>Interview with Ron Wilson, Channel Ten Evening News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Indonesia cancels four-year security pact with Australia</subjects><content><![CDATA[<p>16 September 1999</p>
 <p><i>Subject: Indonesia cancels four-year security pact with Australia</i></p>
 <p>E&amp;OE………………………………………………………………………………………</p>
 <p><b>WILSON:</b></p>
@@ -39,6 +29,4 @@
 <p><b>WILSON:</b></p>
 <p>Prime Minister thanks for your time this afternoon.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

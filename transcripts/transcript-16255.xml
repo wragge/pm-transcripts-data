@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16255</transcript-id>
-    <title>First Year of Government    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/11/2008</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>When the Government was elected just one year ago, we committed to building a modern Australia equipped to face the challenges of the 21st century. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16255</transcript-id><title>First Year of Government    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/11/2008</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>When the Government was elected just one year ago, we committed to building a modern Australia equipped to face the challenges of the 21st century. </p>
 <p>In our first year in office we have been delivering on that commitment.</p>
 <p>Just a few of our achievements include:</p>
 <p>Cut taxes in the last budget for working families and low income earners;</p>
@@ -29,6 +19,4 @@
 <p>Together we will steer our economy through these rough waters and at the same time deliver on our commitments to take Australia confidently forward into the future.</p>
 <p>Thank you for listening.</p>
 <p>A video of this speech is also available.  The Goverment's One Year Progress Report is also available.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

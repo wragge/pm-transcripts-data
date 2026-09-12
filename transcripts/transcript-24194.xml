@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24194</transcript-id>
-    <title>Changes to Government Whips </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/02/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I have made some changes to the Whip arrangements for the Government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24194</transcript-id><title>Changes to Government Whips </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/02/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I have made some changes to the Whip arrangements for the Government.</p>
 <p>I have appointed Mr Scott Buchholz MP as Chief Government Whip. Scott is a strong local member and is highly regarded within the party room.</p>
 <p>Ms Nola Marino MP will continue in her role as Government Whip. Nola has been an effective Whip as well as a committed local member and strong contributor to the government.</p>
 <p>Mr Andrew Nikolic AM CSC MP will also become a Government Whip. Andrew has made an outstanding start as a member of parliament. He has a distinguished military career and will take on this new role with enthusiasm.</p>
@@ -18,6 +8,4 @@
 <p>I look forward to his future contribution to the government and to our country. He remains an important counsellor for Coalition members of parliament and will continue to serve as Member for Berowra with distinction.</p>
 <p>These changes will be in place for the next parliamentary sitting period.</p>
 <p>13 February 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

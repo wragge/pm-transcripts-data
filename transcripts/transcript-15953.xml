@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15953</transcript-id>
-    <title>Interview with Paul Bongiorno, Meet the Press, Channel 10  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PAUL BONGIORNO: Good morning, Prime Minister, and welcome back to the program.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15953</transcript-id><title>Interview with Paul Bongiorno, Meet the Press, Channel 10  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PAUL BONGIORNO: Good morning, Prime Minister, and welcome back to the program.</p>
 <p>PM: Good morning, Paul, good to be here.</p>
 <p>PAUL BONGIORNO: Let's just go to Hillary Clinton for a moment. You met her in Washington a month and a half ago. Are you sad to see her defeat?</p>
 <p>PM: Well, she's an extraordinary human being. She shows in America what modern women in politics can do. This is a very tough game, politics in the United States, and for her to have run so close and run so well and so strongly for so long, I think she's right when she says it proves now what women in American politics can do.</p>
@@ -83,6 +73,4 @@
 <p>PM: Look, it's a democracy. Everyone's got a pretty fair chance to have their say in this country. Good on them. And I say good on anyone who's got a different point of view. I go back to what I said earlier on. We actually don't push a debate to one side. Let's have a debate. Let's have a discussion and as soon as I'm across all the detail I'll be in it as well. It's one of the things which is part of how you govern the country - being open to challenge rather than saying any challenge to us represents some sort of threat to our political authority. Not our approach.</p>
 <p>PAUL BONGIORNO: Prime Minister, thank you very much for being with us and safe trip.</p>
 <p>PM: Thanks very much, Paul.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

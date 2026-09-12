@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16094</transcript-id>
-    <title>Interview with Leon Byner, Radio 5AA, Adelaide  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BYNER: Prime Minister, thanks for your time.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16094</transcript-id><title>Interview with Leon Byner, Radio 5AA, Adelaide  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BYNER: Prime Minister, thanks for your time.</p>
 <p>PM: Good to be with you Leon.</p>
 <p>BYNER: Your education revolution is based, to a large extent on a New York model that Julia Gillard investigated. Can you explain to the people of this state how it will, work bearing in mind that the education union find any notion of any comparison - and this is their word - “odious”?</p>
 <p>PM: Well we think it's time for the union to get into the 21st century. Because what's at stake here is the future quality school education of our kids. And the people who deserve transparency, public reporting on this, are our kids and their parents, that's what this is all about.</p>
@@ -49,6 +39,4 @@
 <p>The Liberals would preach about quality but do nothing about the quantity of how much has been put in. We intend to do both.</p>
 <p>BYNER: Prime Minister thank you for your time.</p>
 <p>PM: Thanks Leon.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

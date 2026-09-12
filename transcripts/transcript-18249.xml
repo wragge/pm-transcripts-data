@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18249</transcript-id>
-    <title>Transcript of press conference, Cannes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/11/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18249</transcript-id><title>Transcript of press conference, Cannes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/11/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Good afternoon. We've just concluded the G20 meeting, and this G20 meeting came in uncertain circumstances for the global economy given the concerns in Europe.</p>
 <p>Over the past two days the G20 has made significant progress to send a signal of confidence to markets. Most importantly the G20 has begun the work of putting in place firewalls to protect contagion from Greece spreading throughout other parts of the global economy. </p>
 <p>Now this is an important result and should be viewed that way. If I can take you to four aspects of the result which I believe are important.</p>
@@ -112,6 +102,4 @@ PM: Good afternoon. We've just concluded the G20 meeting, and this G20 meeting c
 <p>JOURNALIST:Prime Minister, the US President looked very pleased to see you on the summit floor. What did he say to you about his upcoming visit to Australia?</p>
 <p>PM:Well, I was pleased to see him as well and we're going to be pleased to see him in Australia in not too many days time.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

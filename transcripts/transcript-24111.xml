@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24111</transcript-id>
-    <title>Remarks at BBQ lunch with ADF personnel </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>04/01/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thanks, everyone.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24111</transcript-id><title>Remarks at BBQ lunch with ADF personnel </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>04/01/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thanks, everyone.</p>
 <p>It is a real honour for me to be here at this time.</p>
 <p>I was hoping to come to say 'Happy Christmas' to you. That opportunity was closed off by unfortunate events in Sydney, but I'm pleased to be here today to say 'Happy New Year' to you.</p>
 <p>I am incredibly proud of you and your work.</p>
@@ -26,6 +16,4 @@
 <p>I look forward to the chance to say g'day to most of you and I also want to have the chance to get your feedback on the work you've been doing over the last couple of months.</p>
 <p>Thanks so much, team.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

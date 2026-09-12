@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15768</transcript-id>
-    <title>Community Cabinet Meeting in Queensland    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will hold its second Community Cabinet meeting in Queensland on Sunday March 2, at Narangba Valley State High School.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15768</transcript-id><title>Community Cabinet Meeting in Queensland    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will hold its second Community Cabinet meeting in Queensland on Sunday March 2, at Narangba Valley State High School.</p>
 <p>Community Cabinet meetings are a terrific opportunity for mums and dads, small business operators, retirees and local leaders to put forward a range of fresh ideas on local and national issues.</p>
 <p>Our first Community Cabinet meeting in Perth last month provided my cabinet colleagues with some valuable insights and ideas.</p>
 <p>All interested members of the public living in and around the Narangba area are welcome to attend. Please register your attendance in advance. The registration period is from Wednesday 20 February to Tuesday 26 February 2008.</p>
@@ -29,6 +19,4 @@
 <p>Department of the Prime Minister and Cabinet</p>
 <p>1 National Circuit</p>
 <p>BARTON ACT 2600</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

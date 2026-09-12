@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15178</transcript-id>
-    <title>Australian Water Fund Projects</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/01/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I have approved funding from the Australian Government Water Fund of more than $220 million for projects that will improve Australia's water infrastructure and the management of Australia's scarce water resources.  </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15178</transcript-id><title>Australian Water Fund Projects</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/01/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I have approved funding from the Australian Government Water Fund of more than $220 million for projects that will improve Australia's water infrastructure and the management of Australia's scarce water resources.  </p>
 <p>Appropriate arrangements will be made for the joint announcement of projects with the relevant states and territories.</p>
 <p>In recent days claims have been made by the states regarding insufficient attention by the Commonwealth in response to funding requests submitted by the states for large projects.</p>
 <p>I attach an information sheet outlining the status of these projects.</p>
@@ -22,6 +12,4 @@
 <p>   * Central Coast Water Recycling Proposal (funding request to be confirmed)</p>
 <p>  * Newnes Plateau Mine Water Recycling Scheme (funding request to be confirmed)</p>
 <p>The Premier's letter of 24 August states:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

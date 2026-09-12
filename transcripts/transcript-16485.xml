@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16485</transcript-id>
-    <title>Government establishes Jobs and Training Compact     </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced a Jobs and Training Compact with Australians affected by the global recession promising training, support and local initiatives to help them get back to work.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16485</transcript-id><title>Government establishes Jobs and Training Compact     </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced a Jobs and Training Compact with Australians affected by the global recession promising training, support and local initiatives to help them get back to work.</p>
 <p>The Compact is the next step in the Government's response to the global recession following earlier action to stabilise financial markets, stimulate demand through direct stimulus, measures to boost housing and nation building through infrastructure investments.</p>
 <p>The Jobs and Training Compact will have three elements:</p>
 <p>     * Retrenched workers - $300 million to provide immediate access to employment support, an additional 20,000 Productivity Places for retrenched workers and financial assistance including a new agreement with the big four banks to assist those with mortgages.</p>
@@ -19,6 +9,4 @@
 <p>The Government cannot prevent the global recession from impacting on communities across Australia, but it can cushion the impact by taking local action to support training and jobs.</p>
 <p>The Jobs and Training Compact provides an opportunity for the Government to work in partnership with employers, local government, non-profit organisations and communities to tackle the common foe of unemployment.</p>
 <p>The Rudd Government's Jobs and Training Compact with Australians who have been hit hardest by the global recession builds on Rudd Government's $42 billion Nation Building Economic Stimulus Plan. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

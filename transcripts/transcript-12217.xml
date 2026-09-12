@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12217</transcript-id>
-    <title>New Japanese Prime Minister </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/04/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On behalf of the Government and people of Australia I congratulate Japan's new Prime Minister Junichiro Koizumi.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12217</transcript-id><title>New Japanese Prime Minister </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/04/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On behalf of the Government and people of Australia I congratulate Japan's new Prime Minister Junichiro Koizumi.</p>
 <p>Australia counts Japan among its very best friends. We are democracies that have shared interests in a stable and prosperous Asia-Pacific region. In recent years, Australia and Japan have worked together during the financial crisis and in East Timor for the benefit of the region.</p>
 <p>Japan and Australia have very strong economic ties. This country has great interests at stake in Japan's economic future. I welcome Mr Koizumi's proposals for economic reform, while acknowledging the difficult decisions that this course will require.</p>
 <p>I wish Mr Koizumi every success as he takes on the ambitious programme of economic and political reform that he has foreshadowed.</p>
@@ -17,6 +7,4 @@
 <p>I will be writing to Mr Koizumi to give him my personal congratulations, and I look forward to meeting him personally in the near future.</p>
 <p>I also record my thanks to the outgoing Prime Minister Mr Mori for his contribution to the bilateral relationship.</p>
 <p>26 April 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

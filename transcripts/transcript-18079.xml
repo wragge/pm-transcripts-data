@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18079</transcript-id>
-    <title>Transport regulation reform brings seamless national economy closer </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18079</transcript-id><title>Transport regulation reform brings seamless national economy closer </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Three agreements signed at the Council of Australian Governments today reduced the number of Australian transport regulators from 23 to just three.</p>
 <p>After nearly a century of competing standards and regulations, intergovernmental agreements on heavy vehicles, maritime safety and rail safety reform have reduced the number of regulators to just one for each industry.</p>
 <p>The financial benefit to the economy is expected to be up to $30 billion over 20 years for heavy vehicles alone.</p>
@@ -17,9 +7,7 @@ Three agreements signed at the Council of Australian Governments today reduced t
 <p>For railways it will mean getting rid of seven separate regulatory authorities, 46 pieces of State and Territory and Commonwealth legislation, including seven rail safety Acts, nine OHS Acts and seven dangerous goods Acts. </p>
 <p>For maritime there will be one regulator and law replacing 50 pieces of maritime legislation and seven State and Territory regulators, allowing the seamless movement of domestic commercial vessels and crew around the country.</p>
 <p>The agreements make a significant cut to the red tape faced by our $61 billion transport industry. For instance:</p>
-<p> * 	A rail operator running services from Melbourne to Brisbane will no longer be required to have three different accreditations and pay three separate sets of fees to Victorian, NSW and Queensland regulators.<br />
- * 	A truck driver transporting cattle from Queensland to NSW will no longer have to unload some of the livestock at the border or transfer them to a second truck in order to meet the lower mass limits in NSW. This is stressful for the livestock and inefficient, adding up to $9 per head to freight costs.<br />
+<p> * 	A rail operator running services from Melbourne to Brisbane will no longer be required to have three different accreditations and pay three separate sets of fees to Victorian, NSW and Queensland regulators.<br>
+ * 	A truck driver transporting cattle from Queensland to NSW will no longer have to unload some of the livestock at the border or transfer them to a second truck in order to meet the lower mass limits in NSW. This is stressful for the livestock and inefficient, adding up to $9 per head to freight costs.<br>
  * 	A Tasmanian shipping company which builds catamarans to the national standard, and is subject to survey during construction, can sell them around the world with the supporting documentation accepted without question. However, when they sell the vessels domestically to a buyer in Queensland or SA, additional documentary and physical inspections may be required by maritime authorities in those states. This will no longer be the case under these reforms.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

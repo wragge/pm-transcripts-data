@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22813</transcript-id>
-    <title>Doorstop at Sydney Convention Centre</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/05/2000</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Fijian Prime Minister</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22813</transcript-id><title>Doorstop at Sydney Convention Centre</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/05/2000</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Fijian Prime Minister</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister what is your reaction to the proposal for the Great Council of Chiefs was put forward to try to resolve the crisis in Fiji?</p>
 <p>PRIME MINISTER:</p>
@@ -39,6 +29,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I would be concerned about the matter over the past few days, yes.  Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

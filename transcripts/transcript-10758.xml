@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10758</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH DAVID HOOKES RADIO 3AW, MELBOURNE BROADCAST 6.00 PM - 8.00 PM AEST</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/01/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOOKES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10758</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER THE HON JOHN HOWARD MP RADIO INTERVIEW WITH DAVID HOOKES RADIO 3AW, MELBOURNE BROADCAST 6.00 PM - 8.00 PM AEST</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/01/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOOKES:</p>
 <p>Welcome back to Sports Today. Well today in Adelaide, on the eve</p>
 <p>   of Ian Healy's 100th Test match, the Prime Minister of Australia,</p>
 <p>   the Right Honourable Mr John Howard opened the Bradman Collection</p>
@@ -138,6 +128,4 @@
 <p>Thanks, th</p>
 <p>Thanks, thanks a lot.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

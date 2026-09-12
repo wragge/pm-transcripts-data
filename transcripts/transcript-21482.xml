@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21482</transcript-id>
-    <title>The Facts  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/08/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Yesterday, the ALP released a document alleging that the Prime Minister had on 27 occasions deliberately misled the Australian people.  The following is a detailed rebuttal of each of these false claims.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21482</transcript-id><title>The Facts  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/08/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Yesterday, the ALP released a document alleging that the Prime Minister had on 27 occasions deliberately misled the Australian people.  The following is a detailed rebuttal of each of these false claims.</p>
 <p>  23 August 2004</p>
-<p>------------------------------------------------------------------<br />
+<p>------------------------------------------------------------------<br>
   LABOR'S LIES</p>
 <p> Mark Latham's document "Truth Overboard" released yesterday is both false and misleading.</p>
 <p> In seeking to portray the Prime Minister as untruthful it uses selective quotes out of context.</p>
@@ -147,6 +137,4 @@
 <p> The Government always made clear the eligibility conditions that applied in relation to the granting of the aged persons savings bonus and self-funded retirees supplementary bonus.</p>
 <p> In the Prime Minister's Address to the Nation of 13 August 1998, the Prime Minister made it clear that "people over 60 years old with investment income will receive a one-off income tested savings bonus of up to $1,000. For self-funded retirees of pensionable age, the savings bonus will be up to $3,000."</p>
 <p> The Address to the Nation on 13 August 1998 was the context for the Prime Minister's comments in subsequent interviews which are now cited by the ALP.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

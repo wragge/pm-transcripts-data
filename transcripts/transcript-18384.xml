@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18384</transcript-id>
-    <title>Transcript of doorstop interview, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18384</transcript-id><title>Transcript of doorstop interview, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Great to see so many of you here to celebrate the launch of the National Year of Reading. I'm here today with ministerial colleagues Simon Crean and Peter Garrett.</p>
 <p>This is the launch of this Year of Reading. It's a way that we want Australians around the country to get involved in reading books. So whether you're a parent reading to a child or a grandparent reading to a grandchild, whether you're reading for yourself, whether you're someone who wants to upgrade your literacy skills and unlock a love of reading, this is the year for you.</p>
 <p>Right around the nation libraries will be throwing their doors open and there will be all sorts of celebrations and activity for the National Year of Reading. We will be investing resources into adult literacy because we're disturbed that too many adult Australians don't have the literacy skills that they need for work and for pleasure in modern Australia.</p>
@@ -47,6 +37,4 @@ PM: Great to see so many of you here to celebrate the launch of the National Yea
 <p>JOURNALIST: (inaudible)</p>
 <p>PM: I've seen polling undertaken by the ALP over a long period of time, I particularly saw polling in my capacity as Deputy Opposition Leader and then Deputy Prime Minister. But the important point here is my decision was not motivated by the polling.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

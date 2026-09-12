@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21099</transcript-id>
-    <title>Interview with Steve Mills Radio West, Top FM </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/02/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  MILLS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21099</transcript-id><title>Interview with Steve Mills Radio West, Top FM </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/02/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  MILLS:</p>
 <p>In the studio is the Prime Minister of Australia, Mr John Howard, back in the Goldfields.  Good morning and welcome to Radio West.</p>
 <p>PRIME MINISTER:</p>
 <p>Well, good to be back, Steve.  I think it';s the third of fourth time I';ve been to Kalgoorlie over the last few years, it';s great to be back with Barry Haase.</p>
@@ -78,6 +68,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

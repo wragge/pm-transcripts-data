@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15440</transcript-id>
-    <title>Welfare Payments Reform</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/07/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am announcing the next steps in the Government's welfare reform program.  The Government will implement two new welfare measures nationally to help address child neglect and encourage school attendance.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15440</transcript-id><title>Welfare Payments Reform</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/07/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am announcing the next steps in the Government's welfare reform program.  The Government will implement two new welfare measures nationally to help address child neglect and encourage school attendance.</p>
 <p>The Australian Government believes that all Australian children deserve to be well cared for and to fulfil their potential.  Significant income support is provided to families to assist them to meet their basic responsibilities and care for their children.  The vast majority of parents do the right thing and spend these payments on the needs of their children, however a small number do not. </p>
 <p>Consistent with the principle of mutual obligation, I am announcing two new measures which will apply nationally to families receiving income support who are not meeting their responsibilities to their children.</p>
 <p>The central feature of these reforms is to introduce a more targeted form of income management for these families.  This will involve Centrelink or an approved non government service provider directing the income support and family payments of some parents to meet essential expenses such as food, clothing and shelter. </p>
@@ -50,22 +40,22 @@
 <p>Parents will not lose any government payments as a result of these measures.</p>
 <p>Who will this affect?</p>
 <p>Income management will affect parents receiving Australian Government income support payments where a state or territory child welfare authority notifies the Australian Government that income management should be enforced.   This includes parents in receipt of one of the following payments:</p>
-<p>   * Age Pension<br />
-   * ABSTUDY<br />
-   * Austudy<br />
-   * Bereavement Allowance<br />
+<p>   * Age Pension<br>
+   * ABSTUDY<br>
+   * Austudy<br>
+   * Bereavement Allowance<br>
    * Carer Payment</p>
-<p>* Disability Support Pension<br />
-   * Department of Veterans Affairs Pensions<br />
-   * Mature Age Allowance<br />
-   * Parenting Payment (single and partnered)<br />
-   * Partner Allowance<br />
-   * Newstart Allowance<br />
+<p>* Disability Support Pension<br>
+   * Department of Veterans Affairs Pensions<br>
+   * Mature Age Allowance<br>
+   * Parenting Payment (single and partnered)<br>
+   * Partner Allowance<br>
+   * Newstart Allowance<br>
    * Sickness Allowance</p>
-<p>* Special Benefit<br />
-   * Youth Allowance<br />
-   * Widow Allowance<br />
-   * Widow B Pension<br />
+<p>* Special Benefit<br>
+   * Youth Allowance<br>
+   * Widow Allowance<br>
+   * Widow B Pension<br>
    * Wife Pension. </p>
 <p>How many people will this affect?</p>
 <p>The number of families affected will depend on state and territory child protection case management decisions.</p>
@@ -77,10 +67,10 @@
 <p>Who will make the decision?</p>
 <p>State and territory child welfare authorities, which are responsible for child protection, will identify parents with children at risk of neglect whose children may benefit from income management and advise Centrelink to apply income management. </p>
 <p>Can a parent appeal against a decision?</p>
-<p>Appropriate appeal arrangements will be established.<br />
+<p>Appropriate appeal arrangements will be established.<br>
   Can a parent receive vouchers or food stamps instead?</p>
 <p>An electronic card, loaded with the relevant amount of money, may be provided for the purchase of food and groceries.</p>
-<p>For how long will income management be applied?<br />
+<p>For how long will income management be applied?<br>
  As part of the notification process, state and territory child welfare authorities will specify the time period for income management to apply. </p>
 <p>What help will be provided to parents?</p>
 <p>In addition to the services currently offered by state and territory governments, parents will have access to Centrelink social workers and money management education. </p>
@@ -112,22 +102,22 @@
 <p>Parents will not lose any government payments as a result of these measures.</p>
 <p>Who will this affect? </p>
 <p>The new measure will apply nationally to parents receiving income support whose children are not enrolled at or regularly attending school.  This includes parents in receipt of one of the following payments:</p>
-<p>   * Age Pension<br />
-   * ABSTUDY<br />
-   * Austudy<br />
-   * Bereavement Allowance<br />
-   * Carer Payment<br />
-   * Disability Support Pension<br />
-   * Department of Veterans Affairs Pensions<br />
-   * Mature Age Allowance<br />
-   * Parenting Payment (single and partnered)<br />
-   * Partner Allowance<br />
-   * Newstart Allowance<br />
-   * Sickness Allowance<br />
-   * Special Benefit<br />
-   * Youth Allowance<br />
-   * Widow Allowance<br />
-   * Widow B Pension<br />
+<p>   * Age Pension<br>
+   * ABSTUDY<br>
+   * Austudy<br>
+   * Bereavement Allowance<br>
+   * Carer Payment<br>
+   * Disability Support Pension<br>
+   * Department of Veterans Affairs Pensions<br>
+   * Mature Age Allowance<br>
+   * Parenting Payment (single and partnered)<br>
+   * Partner Allowance<br>
+   * Newstart Allowance<br>
+   * Sickness Allowance<br>
+   * Special Benefit<br>
+   * Youth Allowance<br>
+   * Widow Allowance<br>
+   * Widow B Pension<br>
    * Wife Pension.</p>
 <p>How many people will this affect?</p>
 <p>This measure will affect parents receiving income support with a child of compulsory school age.  Only a small number of the several hundred thousand parents who receive Australian Government income support payments are expected to be affected by income management as a result of these school enrolment and attendance requirements.  </p>
@@ -155,6 +145,4 @@
 <p>Yes, this initiative applies to all children of compulsory school age including students receiving approved home schooling and distance education.</p>
 <p>How does this measure fit with the emergency measures in the Northern Territory?</p>
 <p>A transition strategy will be developed for moving people from the emergency measures to these Australia-wide arrangements once the situation in communities has been appropriately stabilised.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

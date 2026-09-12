@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40558</transcript-id>
-    <title>Radio interview with Matt &amp; Dave ABC 891 Adelaide</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>MATT ABRAHAM:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40558</transcript-id><title><![CDATA[Radio interview with Matt &amp; Dave ABC 891 Adelaide]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>MATT ABRAHAM:</strong></p>
 <p>Prime Minister Malcolm Turnbull joined us on 891 Breakfast.</p>
 <p>Welcome to the programme Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -89,8 +79,6 @@
 <p>Thanks very much.</p>
 <p><strong>MATT ABRAHAM:</strong></p>
 <p>We thank you for joining us from Umuwa in the APY Lands. He’s now to head back to Fregon. So he’s in parts of the most isolated remote parts of this nation. Prime Minister Malcolm Turnbull on 891 ABC Adelaide Breakfast.</p>
-<p><strong>[Ends]</strong><br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><strong>[Ends]</strong><br>
+&nbsp;</p>
+]]></content></item></response>

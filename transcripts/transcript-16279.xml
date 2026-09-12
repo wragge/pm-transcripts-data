@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16279</transcript-id>
-    <title>Joint Media Release with Deputy Prime Minister - Additional $635 Million for Government Primary Schools   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Government primary schools will receive an additional $635 million over five years as part of the new National Education Agreement agreed at COAG yesterday.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16279</transcript-id><title>Joint Media Release with Deputy Prime Minister - Additional $635 Million for Government Primary Schools   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Government primary schools will receive an additional $635 million over five years as part of the new National Education Agreement agreed at COAG yesterday.</p>
 <p>Primary schools are a vital part of the nation's education system and play a crucial role in preparing young Australians for the future.</p>
 <p>The Rudd Government's new investment will see the end of an unfair funding practice where government primary schools received a smaller proportion of funding per student than government secondary schools.</p>
 <p>Under the previous schools funding agreement between the Commonwealth and the States and Territories, government primary schools were awarded only 8.9 per cent of the Average Government School Recurrent Cost (AGSRC) index, while government secondary schools received 10 per cent of the AGSRC.</p>
@@ -21,6 +11,4 @@
 <p>Primary schools represent a crucial stage for developing the knowledge and attitudes to learning that will shape future life chances.</p>
 <p>Children who do not achieve basic standards of literacy and numeracy at primary school have a far lower chance of completing year 12 and making a positive transition to further study and work.</p>
 <p>That is why the Rudd Government is prepared to make this significant additional investment in primary schools as part of the new National Education Agreement.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

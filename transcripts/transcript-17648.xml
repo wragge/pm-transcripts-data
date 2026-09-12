@@ -1,27 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17648</transcript-id>
-    <title>Commonwealth assistance for Queenslanders impacted by Tropical Cyclone Yasi</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17648</transcript-id><title>Commonwealth assistance for Queenslanders impacted by Tropical Cyclone Yasi</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Attorney-General Robert McClelland today announced Commonwealth Government assistance for people in Far North Queensland affected by the impact of Tropical Cyclone Yasi.</p>
 <p>Financial assistance that will be provided includes:</p>
-<p> * 	Assistance under the Natural Disaster Relief and Recovery Arrangements;<br />
- * 	The Australian Government Disaster Recovery Payment; and<br />
+<p> * 	Assistance under the Natural Disaster Relief and Recovery Arrangements;<br>
+ * 	The Australian Government Disaster Recovery Payment; and<br>
  * 	The Disaster Income Recovery Subsidy.</p>
 <p>Overnight, the Queensland Government declared 19 Local Government Areas across Far North Queensland natural disaster zones - Burdekin, Burke, Cairns, Carpentaria, Cassowary Coast, Charters Towers, Croydon, Doomadgee, Etheridge, Flinders, Hinchinbrook, Mackay, Mont Isa, Palm Island, Tablelands, Townsville, Whitsunday Wujal Wujal and Yarrabah.</p>
 <p>Assistance under the Natural Disaster Relief and Recovery Arrangements</p>
 <p>Assistance from the Australian Government will be provided to the Queensland Government through the jointly funded Natural Disaster Relief and Recovery Arrangements (NDRRA).</p>
 <p>Funding will be provided to Queensland for the cost of counter disaster operations as well as for Personal Hardship and Distress Payments.</p>
 <p>Payments available through the Queensland Government include:</p>
-<p> * 	Emergency Assistance grants - a grant of $170 per person, up to a maximum of $780 for a family of five or more is available. This grant is available to people experiencing hardship due to the disaster who require assistance to meet their basic needs.<br />
- * 	Essential Household Contents grants - assistance of up to $1,660 for individuals and $4,980 for families.<br />
+<p> * 	Emergency Assistance grants - a grant of $170 per person, up to a maximum of $780 for a family of five or more is available. This grant is available to people experiencing hardship due to the disaster who require assistance to meet their basic needs.<br>
+ * 	Essential Household Contents grants - assistance of up to $1,660 for individuals and $4,980 for families.<br>
  * 	Repairs to Dwelling grants - assistance of up to $10,250 for individuals and $13,800 for families can be provided.</p>
 <p>The Australian Government Disaster Recovery Payment</p>
 <p>The Australian Government Disaster Recovery Payment (AGDRP) will be available to people in these areas significantly affected by the impact of Tropical Cyclone Yasi.</p>
@@ -44,6 +34,4 @@ Prime Minister Julia Gillard and Attorney-General Robert McClelland today announ
 <p>For more information or to claim the Australian Government Disaster Payment or Disaster Income Recovery Subsidy, people should contact the Australian Government Emergency Information line on 180 22 66 or visit their local Centrelink office.</p>
 <p>Information about Australian Government assistance is also available by visiting <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a> or <a href="http://www.centrelink.gov.au">www.centrelink.gov.au</a>.</p>
 <p>Information about Personal Hardship assistance is available through the Queensland Department for Community Services on 1800 173 349. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

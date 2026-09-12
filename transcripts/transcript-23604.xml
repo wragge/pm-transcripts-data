@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23604</transcript-id>
-    <title>Address to the 57th Liberal Party Federal Council, Melbourne</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>28/06/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>President Alan Stockdale, Premier Napthine, Premier Newman, Premier Hodgman, fellow Liberals.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23604</transcript-id><title>Address to the 57th Liberal Party Federal Council, Melbourne</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>28/06/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>President Alan Stockdale, Premier Napthine, Premier Newman, Premier Hodgman, fellow Liberals.</p>
 <p>On this the 70th anniversary of our party, my colleagues and I stand before you proud of our history, humbled and honoured by the responsibility of government and determined to keep faith with our values that have shaped modern Australia.</p>
 <p>We are the party of Menzies and Fraser and Howard – determined to do the right thing by the forgotten people, by the battlers and by everyone who is making a contribution – or who is yearning to make a contribution to our great country.</p>
 <p>As Liberals, we stand for the people who work hard, pay their taxes, volunteer in their local community and save for their retirement.</p>
@@ -22,27 +12,29 @@
 <p>It is the Liberal Party that always has to clean up the mess our opponents create: to end the waste, pay back the debt, scrap the big new taxes and stop the boats.</p>
 <p>And because people turn to us to clean up the messes we did not create, we can take credit for our country’s best years, under Howard and under Menzies, when millions of jobs were created and wages went up and up.</p>
 <p>It is the Liberal Party that oversaw the post-war explosion of home ownership – putting the keys of a home within the grasp of most families.</p>
-<p>It is the Liberal Party that rejected sectarianism and backed parents – providing  funding for independent schools.</p>
+<p>It is the Liberal Party that rejected sectarianism and backed parents – providing&nbsp; funding for independent schools.</p>
 <p>It is the Liberal Party that created the modern university system and built our national capital.</p>
 <p>It is the Liberal Party that has always supported small business with lower tax, less regulation, and a hand up rather than a hand out.</p>
 <p>It is the Liberal Party that delivered child endowment, family allowances and the baby bonus.</p>
 <p>It is the Liberal Party that drove the post war migration programme and ended the white Australia policy – and it’s the Liberal Party that welcomes immigrants from the four corners of the Earth eager to join our Australian team.</p>
 <p>It is the Liberal Party that doesn’t just announce the infrastructure of the future – we build it!</p>
 <p>We built the Snowy Mountains Scheme, completed the Alice Springs to Darwin railway, created national highways and are now building the roads of the 21st century:</p>
-<ul><li>East West Link stages one and two here in Melbourne;</li>
+<ul>
+<li>East West Link stages one and two here in Melbourne;</li>
 <li>WestConnex and NorthConnex in Sydney;</li>
 <li>the Gateway upgrade in Brisbane;</li>
 <li>the North-South Road in Adelaide;</li>
 <li>the Swan bypass in Perth, and</li>
 <li>the Midland Highway in Tasmania.</li>
-</ul><p>It is the Liberal Party that put forward the 1967 Referendum; that selected the first Indigenous members of the Senate and the House of Representatives – and that will sponsor a referendum acknowledging the first Australians in the Constitution.</p>
+</ul>
+<p>It is the Liberal Party that put forward the 1967 Referendum; that selected the first Indigenous members of the Senate and the House of Representatives – and that will sponsor a referendum acknowledging the first Australians in the Constitution.</p>
 <p>It is the Liberal Party that kept Australia strong by signing the ANZUS Treaty, by properly funding our defence force and by stopping the boats – not once but twice!</p>
 <p>But we don’t do this on our own: we have had the National Party by our side and I honour them today.</p>
 <p>As John Howard has often reminded us, we succeed in Coalition – and only in Coalition.</p>
 <p>He also reminded us that our party is the political custodian in Australia of the liberal and the conservative traditions.</p>
 <p>As Liberals we support lower taxes, smaller government and greater freedom.</p>
 <p>As conservatives we support the family and values that have stood the test of time.</p>
-<p>And as patriots  we assess our actions not against ideology but against common sense – does this make our people and our country stronger?</p>
+<p>And as patriots&nbsp; we assess our actions not against ideology but against common sense – does this make our people and our country stronger?</p>
 <p>While much has changed since 1944, our yearning is undimmed: to leave our children richer than ourselves, to come closer to our best selves individually and collectively and to leave our country a better place.</p>
 <p>A better Australia needs a government that values long-term respect ahead of short-term popularity.</p>
 <p>That’s why we are taking action now to repair the Budget.</p>
@@ -61,7 +53,7 @@
 <p>We are deregulating higher education – because universities, of all institutions - should be capable of running themselves.</p>
 <p>And we’re spreading Commonwealth support to more institutions of higher learning and to diploma courses.</p>
 <p>We are charging a modest co-payment for visits to the doctor – to make Medicare sustainable - because what’s fair for the PBS is fair for Medicare.</p>
-<p>The Budget is not about what’s easy or popular in the short-term.  It’s about what’s right for the long-term.</p>
+<p>The Budget is not about what’s easy or popular in the short-term.&nbsp; It’s about what’s right for the long-term.</p>
 <p>It’s about clear principle and sound practice – the clear principle and sound practice that has marked the nine months since the election.</p>
 <p>There is still work to do but there has not been one single successful people smuggling venture this year.</p>
 <p>Handouts to shaky business have stopped because you can’t subsidise your way to prosperity.</p>
@@ -103,17 +95,15 @@
 <p>There are many people to thank for last September’s win and the leadup to it.</p>
 <p>I thank all my parliamentary team – in particular, my Deputy Julie Bishop and our Deputy Prime Minister Warren Truss.</p>
 <p>I could not ask for more steadfast colleagues.</p>
-<p>New Liberal Senators will join us next week – and if anyone has earned a place it is Senator-Elect Linda Reynolds from Western Australia – who didn’t win just one election, but two.  Congratulations!</p>
-<p>I thank outgoing party president Alan Stockdale – a former Treasurer of Victoria as well as President of the Party who took the job when no one wanted it and steered us back to victory.  Thank you Alan. </p>
+<p>New Liberal Senators will join us next week – and if anyone has earned a place it is Senator-Elect Linda Reynolds from Western Australia – who didn’t win just one election, but two.&nbsp; Congratulations!</p>
+<p>I thank outgoing party president Alan Stockdale – a former Treasurer of Victoria as well as President of the Party who took the job when no one wanted it and steered us back to victory.&nbsp; Thank you Alan.&nbsp;</p>
 <p>I thank the incoming President, Richard Alston – a former state president, cabinet minister and high commissioner in London who then took on the presidency of the Kooyong F.E.C – a true and selfless servant of our party.</p>
 <p>I thank Brian Loughnane – Our Federal Director is the finest political analyst and best political organiser in a generation.</p>
 <p>I thank my own office, headed by Peta Credlin, the fiercest political warrior I’ve ever worked with.</p>
 <p>I thank our state leaders – back in 2010 our only State Premier was Colin Barnett.</p>
 <p>Now we have Liberal Governments in NSW, Victoria, Queensland, Tasmania and the Northern Territory thanks to you, the Liberal family right around Australia.</p>
-<p>At our 70th anniversary our party is strong.  It is united.  It is delivering the leadership and policies that our country needs.</p>
+<p>At our 70th anniversary our party is strong.&nbsp; It is united.&nbsp; It is delivering the leadership and policies that our country needs.</p>
 <p>We are guarding and guiding the destiny of a nation that’s as free, fair and prosperous as any on earth and may God guide us as we go about this task.</p>
 <p>Finally, I say to the Australian people that we will strive to be worthy of the faith you have placed in us and to give you ever more reason to be proud of our country.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

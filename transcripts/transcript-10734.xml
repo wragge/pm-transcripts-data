@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10734</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  INTERVIEW WITH JOHN LAWS                RADIO 2UE, SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/02/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10734</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  INTERVIEW WITH JOHN LAWS                RADIO 2UE, SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/02/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................</p>
 <p>LAWS:</p>
 <p>Allow me to welcome the Prime Minister of Australia, John Howard,</p>
 <p>   good day John, good to see you.</p>
@@ -409,6 +399,4 @@
 <p>   on it is really an attack on the Fund.</p>
 <p>LAWS:</p>
 <p>Well, you've only given t</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

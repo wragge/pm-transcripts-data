@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10986</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          INTERVIEW WITH CNBC ASIA                          </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/11/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Trade deficit figures, republic referendum, President Gus Dur</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10986</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          INTERVIEW WITH CNBC ASIA                          </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/11/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Trade deficit figures, republic referendum, President Gus Dur</p>
 <p>E&amp;OE.............</p>
 <p>  PHAN:</p>
 <p>  To kick-off a series of interviews with newsmakers in Australia we have</p>
@@ -115,6 +105,4 @@
 <p>  PHAN:</p>
 <p>  Australian Prime Minister John Howard.</p>
 <p>  [Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

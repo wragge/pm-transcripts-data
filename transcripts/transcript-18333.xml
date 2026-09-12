@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18333</transcript-id>
-    <title>State-of-the-art Marine Research Institute on track for 2014</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18333</transcript-id><title>State-of-the-art Marine Research Institute on track for 2014</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today visited the site of University of Tasmania's new state-of-the-art institute, which will provide a new research hub for marine scientists in Tasmania.</p>
 <p>The construction of the institute is funded by a $45 million investment provided by the Gillard Government under the Education Investment fund.</p>
 <p>Due for completion in early 2014, the new Institute for Marine and Antarctic Studies will house 290 marine scientists, students and staff in 2014, providing opportunities for collaborative research of national and international significance.</p>
@@ -22,11 +12,9 @@ Prime Minister Julia Gillard today visited the site of University of Tasmania's 
 <p>Under the Super Science initiative, the Federal Government has provided $387 million in marine, Antarctic and climate research infrastructure including $120 million for a new, state-of-the-art research vessel to replace the Southern Surveyor. </p>
 <p>The RV Investigator is due to arrive in Hobart in June 2013 and will be able to accommodate four times the number of scientists on voyages for almost twice as long. It is anticipated the new vessel will operate out at sea for up to 300 days a year - some 120 days more than the Southern Surveyor. </p>
 <p>Other funding to ensure Australia's continuing leadership in marine, Antarctic and climate science and research includes:</p>
-<p> * 	$102 million for the Australian Antarctic Division in 2011 - 12<br />
- * 	$73 million for the Antarctic research through the Cooperative Research Centres program<br />
- * 	$102 million for the Integrated Marine Observing System (including $52 million Super Science funding)<br />
+<p> * 	$102 million for the Australian Antarctic Division in 2011 - 12<br>
+ * 	$73 million for the Antarctic research through the Cooperative Research Centres program<br>
+ * 	$102 million for the Integrated Marine Observing System (including $52 million Super Science funding)<br>
  * 	A total of $100 million from the Education Investment Fund to support three major marine research facilities: the Sydney Institute of Marine Science; the Indian Ocean Marine Research Centre in Perth - including $45 million for the Institute for Marine and Antarctic Studies.</p>
 <p>For further information on the Education Investment Fund, please visit <a href="http://www.deewr.gov.au/eif/">www.deewr.gov.au/eif/</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

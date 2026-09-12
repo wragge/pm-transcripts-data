@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15930</transcript-id>
-    <title>Joint Media Release with the Minister for Health, $150 Million to Slash Elective Surgery Waiting Lists by Delivering Structural Reform  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/05/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced a further $150 million to slash elective surgery waiting lists.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15930</transcript-id><title>Joint Media Release with the Minister for Health, $150 Million to Slash Elective Surgery Waiting Lists by Delivering Structural Reform  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/05/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced a further $150 million to slash elective surgery waiting lists.</p>
 <p>This funding builds upon the Government's initial investment of $150 million for an immediate blitz on elective surgery waiting lists, announced earlier this year.</p>
 <p>This new funding will deliver structural reform in the delivery of elective surgery, to ensure that there is lasting change in our hospitals. For example, this funding could be used to buy new, state-of-the-art surgical equipment and construct dedicated elective surgery units.</p>
 <p>The allocation of this funding, and what it will be invested in, has now been agreed to between the Commonwealth and the States and Territories:</p>
@@ -31,6 +21,4 @@
 <p>     * Stage One (January 2008-December 2008) provides $150 million to conduct an immediate blitz on elective surgery waiting lists and reduce the backlog of people waiting longer than clinically recommended for elective surgery, such as hip replacements.</p>
 <p>     * Stage Two provides $150 million for equipment and capital upgrades as outlined above.</p>
 <p>     * Stage Three (2009-10 to 2010-11) will provide up to $300 million in dividend payments to reward improved performance by those states and territories that meet elective surgery waiting list reduction targets.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

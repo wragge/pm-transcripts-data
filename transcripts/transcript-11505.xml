@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11505</transcript-id>
-    <title>Radio Interview with Lisa McGregor, World Today, ABC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  private health insurance; welfare.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11505</transcript-id><title>Radio Interview with Lisa McGregor, World Today, ABC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  private health insurance; welfare.</p>
 <p>E&amp;OE..................................</p>
 <p>COMPERE:</p>
 <p>The Prime Minister John Howard has condemned a proposal by the Australian Democrats to scrap the 30% rebate on private health insurance.  The Democrats' leader, Senator Meg Lees, told our morning program AM today that she thought the rebate was a waste of money, and the Prime Minister says that's a ridiculous idea though.  John Howard also this morning raised the idea of extending the principle of mutual obligation to single parents on government benefits.  After speaking on Sydney local ABC radio this morning on his 61st birthday, Mr Howard told our reporter Lisa Macgregor his government would be keeping the private health rebate.</p>
@@ -45,6 +35,4 @@
 <p>Well, I am not saying that at this stage, I'm not.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

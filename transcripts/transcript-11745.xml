@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11745</transcript-id>
-    <title>Television Interview with John Mangos, SkyNews </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Petrol excise; Telstra; discussions with President Bush; Minister Kelly; Fiji; Sir Donald Bradman; national apology to indigenous Australians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11745</transcript-id><title>Television Interview with John Mangos, SkyNews </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Petrol excise; Telstra; discussions with President Bush; Minister Kelly; Fiji; Sir Donald Bradman; national apology to indigenous Australians.</p>
 <p>E&amp;OE................................ </p>
 <p>MANGOS:</p>
 <p>Now a number of economists have labelled this petrol tax cut reckless. Now some are saying you've gone into policy panic mode, not least of which your opponents. Have you?</p>
@@ -108,6 +98,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

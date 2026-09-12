@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16972</transcript-id>
-    <title>National Security College    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/12/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia's first National Security College will be established, providing world class education and training in national security policy issues.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16972</transcript-id><title>National Security College    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/12/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia's first National Security College will be established, providing world class education and training in national security policy issues.</p>
 <p>The College will be a joint venture between the Australian Government and the Australian National University.</p>
 <p>The College will provide executive development programs for senior national security officials and provide access to ANU teaching and research programs, with the aim of better preparing national security personnel for the increasingly complex challenges they face.</p>
 <p>The creation of the National Security College follows the success of a pilot executive development course, overseen this year by the National Security Adviser, Mr Duncan Lewis.</p>
@@ -22,6 +12,4 @@
 <p>The first chairman of the board will be the National Security Adviser, Duncan Lewis.</p>
 <p>The College will be a critical element in preparing Australia's future national security leadership, and safeguarding our national security.</p>
 <p>A safe and secure Australia is the Government's first priority, and the National Security College will play a key role in ensuring this.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16523</transcript-id>
-    <title>COAG secures a Compact with Young Australians    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>COAG today agreed to establish a Compact with Young Australians.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16523</transcript-id><title>COAG secures a Compact with Young Australians    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>COAG today agreed to establish a Compact with Young Australians.</p>
 <p>This will ensure that as we recover from the global recession, young Australians have the skills required to realise their potential.</p>
 <p>Under the terms of the Compact agreed today, every Australian under the age of 25 will have a guaranteed education or training place.</p>
 <p>This education and training guarantee will ensure anyone under the age of 25, including those who lose their job, will be able to take part in further education or training.</p>
@@ -37,6 +27,4 @@
 <p>As a result of these investments, a total of $62.1 billion will flow to schools from 2009-2012. </p>
 <p>This represents an 85 per cent increase, or getting close to double the $33.5 billion invested by the previous Government in the last four years on recurrent funding and infrastructure.</p>
 <p>Today's Compact puts education and training front and centre to ensure Australia's future productivity.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

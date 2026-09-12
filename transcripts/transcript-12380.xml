@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12380</transcript-id>
-    <title>Visit of President Wahid Parliamentary Luncheon - Great Hall Parliament House, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/06/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12380</transcript-id><title>Visit of President Wahid Parliamentary Luncheon - Great Hall Parliament House, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/06/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................</p>
 <p>Mr President, Madame Wahid, Leader of the Opposition, my parliamentary colleagues, your excellencies, ladies and gentlemen.</p>
 <p>Mr President, I've already had the pleasure of meeting you on three occasions at international events - in Tokyo, New York and in Brunei. </p>
 <p>But now I am delighted indeed to welcome you and your wife and your party on your first visit to Australia as the President of the Republic of Indonesia.</p>
@@ -56,6 +46,4 @@
 <p>I also wish to invite you and the government of Indonesia to join us in a renewed effort to forge ever closer ties between our two peoples and our two economies.  There is much to be gained should we succeed.  But there is much to lose should we fail.</p>
 <p>Mr President, you and your wife and your party are very welcome indeed in Australia.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

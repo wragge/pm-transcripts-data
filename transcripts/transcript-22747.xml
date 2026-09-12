@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22747</transcript-id>
-    <title>PM Calls for New Productivity Pact</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>10/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22747</transcript-id><title>PM Calls for New Productivity Pact</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>10/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The Prime Minister wants to broker closer co-operation between business, unions and government as part of a new national competitiveness agenda designed to smooth the nation’s economic transition out of the resources boom.</p>
 <p>The Prime Minister has also rejected myths created by Tony Abbott about the Australian economy, saying the Opposition Leader is attempting to scare Australians over their economic well-being rather than producing serious alternative policy.</p>
 <p>In a speech to the National Press Club today, the Prime Minister also called on the business sector to use the existing Fair Work Act to drive productivity gains and to sharpen its engagement with Asia, particularly Indonesia.</p>
@@ -25,6 +15,4 @@
 <p>Mr Abbott failed to attend.</p>
 <p>Mr Abbott’s ongoing attacks on the Government’s record are not based in fact and he has failed to produce any new policy beyond a daily diatribe of negative politics designed to make Australians feel the nation is on the verge of falling apart.</p>
 <p>The objective facts do not support his claims. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

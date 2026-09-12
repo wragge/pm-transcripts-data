@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16016</transcript-id>
-    <title>Interview with Chris Uhlmann ABC AM Program   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/07/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16016</transcript-id><title>Interview with Chris Uhlmann ABC AM Program   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/07/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Prime Minister good morning.</p>
 <p>PM: Good morning Chris.</p>
 <p>UHLMANN: Now you have dubbed this the Carbon Pollution Reduction System so by 2015 will it have delivered a cut in greenhouse gas emissions?</p>
 <p>PM: We will know the precise impact over time once we set the mid term targets, once we set what is called within this debate, the trajectory. That is, the stages to be reached over time. And that in turn will obviously inform us and the country as to what reduction will occur at particular year points.</p>
@@ -59,6 +49,4 @@
 <p>Who knows what their position is. But I would appeal to the Liberals to either adopt a responsible course of action for the Australian economy and be partners in getting this right for the long term future as opposed to just playing short term irresponsible politics, because frankly, it is not going to get us anywhere.</p>
 <p>UHLMANN: Prime Minister thank you.</p>
 <p>PM: Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

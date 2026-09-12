@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18328</transcript-id>
-    <title>Speech at the unveiling of the &#039;Pillar of Courage&#039;, Goodna</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/01/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18328</transcript-id><title><![CDATA[Speech at the unveiling of the &#039;Pillar of Courage&#039;, Goodna]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/01/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Many ceremonies are being held this week, with countless words written and said.</p>
 <p>But there are times when symbols are needed to carry us beyond words.</p>
 <p>To tell a story each hour of the day to assemblies as big and formal as this.</p>
@@ -65,6 +55,4 @@ Many ceremonies are being held this week, with countless words written and said.
 <p>We rescued and cared for each other.</p>
 <p>We rebuilt with pride.</p>
 <p>And we never, ever forgot.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

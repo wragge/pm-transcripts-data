@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15494</transcript-id>
-    <title>National Clean Energy Target</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/09/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will introduce a new national Clean Energy Target, requiring that 30,000 gigawatt hours each year come from low emissions sources by 2020.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15494</transcript-id><title>National Clean Energy Target</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/09/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will introduce a new national Clean Energy Target, requiring that 30,000 gigawatt hours each year come from low emissions sources by 2020.</p>
 <p>  Low emissions sources are those technologies that emit less than 200 kilograms of greenhouse gases per megawatt hour of electricity generated. This includes renewable energy, such as solar and wind, as well as fossil fuel fired electricity generation where carbon capture and storage is used.</p>
 <p>Introduction of the CET is intended to replace existing and proposed state and territory schemes with a single national scheme.  The CET is sufficient to absorb those schemes.</p>
 <p>This will reduce costs for business, and ultimately for households.  It will reduce the red tape from the current multitude of schemes, and ensure low emission technologies are developed in the lowest cost locations, without being restricted by state and territory boundaries. </p>
@@ -17,6 +7,4 @@
 <p>The CET will be based on the Government's existing Mandatory Renewable Energy Target, which has already stimulated $3.5 billion of investment in renewable energy.</p>
 <p>The Australian Government will consult with state and territory governments and industry in designing and implementing the CET.  Our intention is for legislation to be introduced next year, and for the CET to come into effect no later than 1 January 2010. </p>
 <p>The new CET is an integral part of the Australian Government's comprehensive $3.5 billion climate change strategy, keeping Australia at the forefront of international efforts to address global warming.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

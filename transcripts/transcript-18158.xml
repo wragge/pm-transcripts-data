@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18158</transcript-id>
-    <title>Speech to the Industry Super Network Luncheon, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/09/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18158</transcript-id><title>Speech to the Industry Super Network Luncheon, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/09/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Can I acknowledge today:</p>
 <p>David Whitely, Chief Executive, Industry Super Network.</p>
 <p>Ged Kearney, President of the ACTU.</p>
@@ -179,6 +169,4 @@ Can I acknowledge today:</p>
 <p>Still spreading opportunity to all, still working to make sure no one is left behind.</p>
 <p>Still working for the good guys.</p>
 <p>Still walking the reform road. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

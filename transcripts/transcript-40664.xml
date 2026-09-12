@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40664</transcript-id>
-    <title>Australia and France Sign Future Submarine Inter-Governmental Agreement</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>20/12/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia and France today finalised the Inter-Governmental Agreement (IGA) to build Australia’s future submarine fleet.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40664</transcript-id><title>Australia and France Sign Future Submarine Inter-Governmental Agreement</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>20/12/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia and France today finalised the Inter-Governmental Agreement (IGA) to build Australia’s future submarine fleet.</p>
 <p>The agreement, signed by the Prime Minister, Malcolm Turnbull, and the French Minister for Defence, Jean-Yves Le Drian, will underpin the largest capital project in Australia’s history.</p>
 <p>Our agreement will further strengthen the long and proud Australia-France defence relationship, which was forged more than a century ago on the battlefields of World War I.</p>
 <p>The Future Submarine Program will generate thousands of jobs in Australia and will be a significant part of our Defence capability well into the second half of this century. The submarines will be built in Australia, by Australians using Australian steel.</p>
@@ -17,6 +7,4 @@
 <p>The IGA is the last foundation stone needed to ensure Australia is able to develop a cutting edge sovereign submarine capability. It follows the selection of French company DCNS as Australia’s Future Submarine design and mobilisation partner and Lockheed Martin Australia as the combat system integrator.</p>
 <p>The build of the future submarines in Australia, along with the Government's continuous naval shipbuilding strategy starting with offshore patrol vessels and future frigates, will create more than 5,000 jobs across Australia.</p>
 <p>The Turnbull Government’s continuous naval shipbuilding program will deliver state of the art naval capability for our long term security, providing certainty for the naval shipbuilding workforce and industry.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

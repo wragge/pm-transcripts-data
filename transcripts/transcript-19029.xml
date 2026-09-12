@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19029</transcript-id>
-    <title>Transcipt of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19029</transcript-id><title>Transcipt of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here in Bundaberg today. I've had the opportunity to not only see the damage in Bundaberg itself, in North Bundaberg, I've had the opportunity to see the damage at the port, to see it in Burnett Heads, to see it at Bagara.</p>
 <p>I want to thank everybody who has come around with me today.</p>
 <p>Of course I'm accompanied by the Deputy Prime Minister Wayne Swan. I was accompanied by Premier Newman at a briefing this morning, and it was good for the two of us to be in a briefing together and to get more information together about the situation here.</p>
@@ -113,6 +103,4 @@ PM: I'm here in Bundaberg today. I've had the opportunity to not only see the da
 <p>But everything I saw on display at that time, of the sort of spirit that's here, I'm seeing on display today and it is a great tribute to the local people.</p>
 <p>Thanks very much.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

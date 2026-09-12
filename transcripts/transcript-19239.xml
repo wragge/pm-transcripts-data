@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19239</transcript-id>
-    <title>Transcript of Interview with Steve Austin</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/04/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC Brisbane</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19239</transcript-id><title>Transcript of Interview with Steve Austin</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/04/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC Brisbane</p>
 <p>HOST: Keeping the Prime Minister of Australia on hold for the golf, Prime Minister Gillard good morning to you. Sorry about keeping you waiting.</p>
 <p>PM: That's fine, I well and truly understand and big news, and lots of nail-biting around.</p>
 <p>HOST: Correct. Now Queensland would receive an extra $3.8 billion for education over six years in the Gonski funding that you've offered the state.</p>
@@ -95,6 +85,4 @@
 <p>Now I want to make sure that that happens in every school, not just today but for all the decades to come.</p>
 <p>HOST: I'll speak to you again Prime Minister, thank you.</p>
 <p>PM: Thanks Steve. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11422</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          OFFICIAL LAUNCH OF THE MILLENNIUM FORUM          THE WESTIN SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/11/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11422</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          OFFICIAL LAUNCH OF THE MILLENNIUM FORUM          THE WESTIN SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/11/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................</p>
 <p>  Thank you very much your eminence, your grace, my many friends and all of</p>
 <p>   you who have come along tonight particularly to demonstrate your support</p>
 <p>   for the cause of liberalism not only here in New South Wales but throughout</p>
@@ -146,6 +136,4 @@
 <p>   contribution to the cause in which we all believe here in New South Wales</p>
 <p>   and all around Australia. Thank you very much for your support.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

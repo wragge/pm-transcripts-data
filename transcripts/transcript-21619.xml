@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21619</transcript-id>
-    <title>Doorstop Interview Kirribilli House, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/02/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21619</transcript-id><title>Doorstop Interview Kirribilli House, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/02/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> I have something to say, to start off with, I will be leaving shortly to go to New Zealand for the regular bilateral discussions I have with the New Zealand Prime Minister.  I go to New Zealand one year, she comes to Australia the other.  Although the relationship is in very good shape and the countries are very close, we must always keep our close friendships in good repair as we are reminded by the famous diarist, so that's the spirit in which these discussions take place.  We'll talk about trade, economic matters, I'll meet not only the Prime Minister, but also the full Cabinet on Monday morning, address a parliamentary lunch, meet the Leader of the Opposition, Dr Don Brash, and senior business figures tomorrow evening at a reception in Auckland.</p>
 <p> JOURNALIST:</p>
 <p>Is there anything specific you are hoping get out of trip?</p>
@@ -67,6 +57,4 @@
 <p>PRIME MINISTER:</p>
 <p>  Well I do worry that some are finding it harder, and that's why some moderation in the price of housing is a good thing and something that I welcome, as does the Governor.  Thankyou.</p>
 <p> [ends]   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

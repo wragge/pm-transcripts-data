@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11878</transcript-id>
-    <title>Interview with Alexandra Kirk, AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Ryan by-election.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11878</transcript-id><title>Interview with Alexandra Kirk, AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Ryan by-election.</p>
 <p>E&amp;OE................................ </p>
 <p>KIRK:</p>
 <p>Prime Minister, how much responsibility are you willing to accept for the result in Ryan?</p>
@@ -34,7 +24,7 @@
 <p>KIRK:</p>
 <p>Well, say, give an example where you think.</p>
 <p>PRIME MINISTER:</p>
-<p>Alexandra, I'm stating a generic proposition. You know that when particular issues come up you can come back and ask me about the cushioning arrangements that the Government will put in place.<br />
+<p>Alexandra, I'm stating a generic proposition. You know that when particular issues come up you can come back and ask me about the cushioning arrangements that the Government will put in place.<br>
  KIRK:</p>
 <p>Well, what do you say to your troops now? One of your troops told me last week that if the Liberals lost Ryan on top of the losses in Queensland and Western Australia he didn't know how the Government could stop the ball rolling to defeat. Now, obviously MPs are going to be feeling demoralised and edgy and that's a recipe for greater instability, isn't it?</p>
 <p>PRIME MINISTER:</p>
@@ -56,6 +46,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

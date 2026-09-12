@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24262</transcript-id>
-    <title>$2 billion Asset Recycling deal to rebuild NSW</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>08/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New South Wales will receive $2 billion in incentive payments from the Commonwealth for investment in crucial infrastructure projects.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24262</transcript-id><title>$2 billion Asset Recycling deal to rebuild NSW</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>08/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New South Wales will receive $2&nbsp;billion in incentive payments from the Commonwealth for investment in crucial infrastructure projects.</p>
 <p>The incentive payments will be made under the Asset Recycling Initiative and used to support the NSW Government’s infrastructure plan to create jobs, reduce congestion and boost growth.</p>
 <p>The agreement is based on the NSW Government’s plan to reinvest the proceeds from the leasing of 49 per cent of the State’s electricity network into major road and rail projects.</p>
 <p>Traffic queues and crowded trains are costing the NSW economy up to $8.8 billion a year. Better infrastructure means less time spent commuting and more time spent productively at work or at home with family.</p>
@@ -19,52 +9,72 @@
 <p>The Initiative is expected to generate close to $40 billion of additional infrastructure investment across Australia, with states and territories receiving 15 per cent of any asset sale as a bonus payment from the Commonwealth Government if the money goes into new infrastructure. It forms an important part of the Commonwealth Government’s $50 billion Infrastructure Growth Package.</p>
 <p>Only Coalition Governments in Sydney and Canberra have the will and the vision to deliver these crucial infrastructure projects.</p>
 <p>Below are the projects that are part of the NSW infrastructure plan:</p>
-<table><tbody><tr><th>Project/ Program</th>
+<table>
+<tbody>
+<tr>
+<th>Project/ Program</th>
 <th>Estimated value of lease proceeds reinvested</th>
 <th>Commonwealth 1st milestone payment</th>
 <th>Commonwealth 2nd milestone payment</th>
 <th>Commonwealth incentive payment</th>
-<th> </th>
-</tr><tr><td>Sydney Rapid Transit</td>
+<th>&nbsp;</th>
+</tr>
+<tr>
+<td>Sydney Rapid Transit</td>
 <td>$9.043 billion</td>
 <td>$678 million</td>
 <td>$678 million</td>
 <td>$1.356 billion</td>
-</tr><tr><td>Western Sydney Rail Upgrade</td>
+</tr>
+<tr>
+<td>Western Sydney Rail Upgrade</td>
 <td>$870 million</td>
 <td>$65 million</td>
 <td>$65 million</td>
 <td>$130 million</td>
-</tr><tr><td>Parramatta Light Rail</td>
+</tr>
+<tr>
+<td>Parramatta Light Rail</td>
 <td>$522 million</td>
 <td>$39 million</td>
 <td>$39 million</td>
 <td>$78 million</td>
-</tr><tr><td>Pinch Points and Clearways</td>
+</tr>
+<tr>
+<td>Pinch Points and Clearways</td>
 <td>$348 million</td>
 <td>$26 million</td>
 <td>$26 million</td>
 <td><span style="line-height: 20.7999992370605px;">$52 million</span></td>
-</tr><tr><td>Smart Motorways Program</td>
+</tr>
+<tr>
+<td>Smart Motorways Program</td>
 <td>$348 million</td>
 <td>$26 million</td>
 <td>$26 million</td>
 <td>$52 million</td>
-</tr><tr><td>Gateway to the South Project</td>
+</tr>
+<tr>
+<td>Gateway to the South Project</td>
 <td>$261 million</td>
 <td>$20 million</td>
 <td>$20 million</td>
 <td>$39 million</td>
-</tr><tr><td>Regional Road Freight Corridor</td>
+</tr>
+<tr>
+<td>Regional Road Freight Corridor</td>
 <td>$1.708 billion</td>
 <td>$128 million</td>
 <td>$128 million</td>
 <td>$256 million</td>
-</tr><tr><th>TOTAL</th>
+</tr>
+<tr>
+<th>TOTAL</th>
 <th>$13.1 billion</th>
 <th>$983 million</th>
 <th>$983 million</th>
 <th>$1.965 billion</th>
-</tr></tbody></table>]]></content>
-  </transcript>
-</transcripts>
+</tr>
+</tbody>
+</table>
+]]></content></item></response>

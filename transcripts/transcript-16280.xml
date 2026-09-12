@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16280</transcript-id>
-    <title>Joint Media Release with Deputy Prime Minister - Historic Education Reform Agreement   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Through the Council of Australian Governments, the Rudd Government will make an unprecedented investment in schooling to drive long term education reform.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16280</transcript-id><title>Joint Media Release with Deputy Prime Minister - Historic Education Reform Agreement   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Through the Council of Australian Governments, the Rudd Government will make an unprecedented investment in schooling to drive long term education reform.</p>
 <p>As promised, the Australian Government will deliver critical transparency measures in a four year $42.4 billion National Education Agreement from 1 January next year.</p>
 <p>The National Education Agreement will include $14 billion for government schools over the next four years, plus $807million for digital education revolution on-costs.</p>
 <p>In addition, the Australian Government will deliver a National Partnership on Teacher Quality worth $550 million, a National Partnership on Literacy &amp; Numeracy worth $540 million and a National Partnership on Low SES School Communities worth $1.1 billion over five years.</p>
@@ -55,6 +45,4 @@
 <p>     * Strong school leadership and whole school engagement with literacy and numeracy; and</p>
 <p>     * Monitoring student and school literacy and numeracy performance to identify where support is needed.</p>
 <p>The National Partnership with States and Territories will, overtime, ensure there are more students achieving above the national minimum standard in literacy and numeracy, allowing Australian students to progress successfully through their schooling and actively participate in the workforce and contribute to their community in future years.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23151</transcript-id>
-    <title>Doorstop Interview, Pretoria, South Africa</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>10/12/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Nelson Mandela</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23151</transcript-id><title>Doorstop Interview, Pretoria, South Africa</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>10/12/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Nelson Mandela</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>I’m here in South Africa for the Nelson Mandela memorial service. This is going to be a sad day for South Africa and the world. We mourn the passing of a great leader but we celebrate a great life. This is the paradox of a day like today - we're sad because he's gone but we're thrilled because he's lived.</p>
 <p><strong>QUESTION:</strong></p>
 <p>As Australia’s representative, what’s your thought process going into this public memorial?</p>
@@ -24,6 +14,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>I think on occasions such as this, important international occasions where we mark something which is inevitably a milestone for the world, I think it's important that our country be represented and that’s why I'm pleased to have the Leader of the Opposition here too because all of Australia mourns the passing of Nelson Mandela but all of Australia celebrates the life of Nelson Mandela.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

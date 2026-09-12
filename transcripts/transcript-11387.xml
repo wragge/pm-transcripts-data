@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11387</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT OPENING OF WESTERN MINING CORPORATION&amp;#146;S OLYMPIC DAM                 EXPANSION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/03/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11387</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT OPENING OF WESTERN MINING CORPORATION&amp;#146;S OLYMPIC DAM                 EXPANSION]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/03/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>Your Excellency, the Premier of South Australia, John Olsen, to my</p>
 <p> ministerial colleagues, Senator Nick Minchin, Sir Arvi Parbo the Chairman</p>
 <p> of the Board, Mr Hugh Morgan the Managing Director, the leader of</p>
@@ -124,6 +114,4 @@
 <p> on that note I have very great pleasure in declaring open the Olympic</p>
 <p> Dam extension. Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

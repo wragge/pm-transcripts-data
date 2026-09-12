@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16979</transcript-id>
-    <title>Transcript of interview ABC AM   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/12/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, good morning. Welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16979</transcript-id><title>Transcript of interview ABC AM   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/12/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, good morning. Welcome to AM.</p>
 <p>PM: Good morning.</p>
 <p>HOST: You're off to Copenhagen. You are one of the Friends of the chair. Have you been busy? You've had some late nights over the weekend phoning world leaders to try and increase the chances of a deal happening at Copenhagen?</p>
 <p>PM: Well Australia has been active for many months and certainly since the UN special session on climate change in September. We've been active with leaders around the world including most recently and the reason is - Australia is among the hottest and driest continents on Earth. We are feeling the impact of climate change fastest and hardest, and we have an Australian national interest at stake in strong and decisive action on emissions reductions here in Australia and strong action through a global agreement where everyone is pulling their weight. That's why we're active, because it is in Australia's national interest that we get a strong deal.</p>
@@ -30,6 +20,4 @@
 <p>That's why both developed and developing countries, including China, have to be part and parcel of this deal so whether it is a five per cent target reduction that we achieve in Copenhagen for a 15 percent, or a 25 percent, we are going to have to see action from developed countries, action from developing countries as well. But for Australia, we'll be doing no more or no less than the rest of the world.</p>
 <p>HOST: Okay, Mr Rudd, Thanks for your time this morning.</p>
 <p>PM: Good to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

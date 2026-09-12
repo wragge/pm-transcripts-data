@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15939</transcript-id>
-    <title>FIFA 58th Congress Opening Ceremony, Sydney Opera House, Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/05/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Acknowledgements</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15939</transcript-id><title>FIFA 58th Congress Opening Ceremony, Sydney Opera House, Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/05/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Acknowledgements</p>
 <p>Sepp Blatter [FIFA President] </p>
 <p>Frank Lowy [Chairman, Football Federation Australia] </p>
 <p>Distinguished delegates distinguished observers </p>
@@ -69,6 +59,4 @@
 <p>Sydney is a wonderful city, but Australia doesn't end here.</p>
 <p>I wish you a successful Congress, and an enjoyable time in Australia.</p>
 <p>You are truly welcome visitors to our country, for this, the 58th FIFA Congress.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15814</transcript-id>
-    <title>Interview with Neil Mitchell Radio 3AW Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/03/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL:  Prime Minister, Good Morning</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15814</transcript-id><title>Interview with Neil Mitchell Radio 3AW Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/03/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL:  Prime Minister, Good Morning</p>
 <p>PM:  G'day Neil, you're out there at the Grand Prix, having fun?</p>
 <p>MITCHELL: Working very hard. The Formula One cars have just hit the track..</p>
 <p>PM:  Oh, good on you. Big event for Melbourne.</p>
@@ -121,6 +111,4 @@
 <p>PM: I thought you were doing the interview in the back of one. But I don't suppose there is a back of a Formula One car. But I think in terms of tourist promotion for Australia and for Melbourne it has been fantastic. On the ins and outs of the debate about, you know when the race should be held and all the rest of it, I'll leave that to the locals.</p>
 <p>MITCHELL: I appreciate your time, thanks very much.</p>
 <p>PM: Thanks Neil.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

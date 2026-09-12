@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40455</transcript-id>
-    <title>Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/09/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40455</transcript-id><title>Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/09/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Very good, good morning.</p>
 <p>Lucy and I were very keen to visit the 9/11 Memorial this morning, we’d not been to the Museum before.</p>
 <p>As you know it is a very moving place. It reminds us of tragedy and loss. It reminds us of a day 15 years ago which changed the world - an attack, an Islamist terrorist attack, which changed the world. But it did not change the resolute solidarity of free people, of freedom-loving peoples. It did not change the solidarity we have with the people of the United States and all our allies around the world in this battle against terrorism.</p>
@@ -61,6 +51,4 @@
 <p>But it is the key, you can see actually in this city how important a good metro system is to enabling people to live with the type of density and amenity that you have here. Otherwise it’s impossible to move around.</p>
 <p>Thank you.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

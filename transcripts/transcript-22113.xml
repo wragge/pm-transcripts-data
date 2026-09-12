@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22113</transcript-id>
-    <title>Visit by the Prime Minister of the Netherlands  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/01/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am very pleased to announce that The Hon. Dr Jan Peter Balkenende, Prime Minister of the Netherlands, will visit Australia in April this year.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22113</transcript-id><title>Visit by the Prime Minister of the Netherlands  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/01/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am very pleased to announce that The Hon. Dr Jan Peter Balkenende, Prime Minister of the Netherlands, will visit Australia in April this year.</p>
 <p>Dr Balkenende's visit, from 1-7 April, will commemorate the 400th anniversary of contact between Australia and the Netherlands.</p>
 <p>   In March 1606 the crew of the Duyfken, a Dutch East India Company ship under the command of Captain Willem Janszoon, landed on Cape York Peninsula becoming the first recorded Europeans to set foot on Australian soil.</p>
 <p>  The Foreign Minister, The Hon. Alexander Downer MP, will this week participate in the launch in The Hague of "Netherlands - Australia 1606-2006", a year long celebration of relations between our two countries.</p>
@@ -19,6 +9,4 @@
 <p>Each year some 60,000 Dutch people visit Australia including about 4700 young workers who visit under a bilateral Working Holiday Scheme. Annually, between 60,000 and 80,000 Australians visit the Netherlands.</p>
 <p>I look forward to discussing a wide range of issues with Dr Balkenende and exploring new opportunities to expand trade and investment.</p>
 <p> I wish every success to the commemorations that will take place during the next 12 months marking 400 years of contact between Australia and the Netherlands.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

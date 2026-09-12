@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16987</transcript-id>
-    <title>Transcript of interview with Channel 10 news Copenhagen   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/12/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: And we're now joined live by Prime Minister Kevin Rudd, live from Copenhagen. Good evening Prime Minister, thanks for your time tonight.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16987</transcript-id><title>Transcript of interview with Channel 10 news Copenhagen   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/12/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: And we're now joined live by Prime Minister Kevin Rudd, live from Copenhagen. Good evening Prime Minister, thanks for your time tonight.</p>
 <p>PM: Good morning from Copenhagen.</p>
 <p>HOST: Now Prime Minister, we're hearing this deal has been voted down on the conference floor. Can you clarify exactly what the situation is with this deal right now?</p>
 <p>PM: This Copenhagen Accord on climate change has received the support from more than 90% of the national economies, the vast majority of the 190 states here- the fact that you'll have a few radical states out there arguing against it is not surprising. This is what normally happens at conferences of this type. But the bottom line is this. There is a significant global agreement on climate change, for the first time globally agreeing for temperature increases to be kept within two degrees Centigrade. Globally agreeing for the first time that both rich and poor countries will act to bring down their greenhouse gas emissions. And globally agreeing for the first time on national and international systems of measuring both these sets of greenhouse gas emissions.</p>
@@ -20,6 +10,4 @@
 <p>PM: Well these have been enormously tough negotiations. 190 countries representing the richest and poorest countries around the world- framing an agreement through the middle of that has been really tough. And that's why 25 countries, including Australia, from this great grouping of 190, got together to push an agreement through. It's not perfect, but the alternative is complete collapse, and total climate change inaction. For Australia, we need climate change action internationally, but also backed up by national action through a Carbon Pollution Reduction Scheme- because we have a deep national interest in Australia, as I said before, being among the hottest and driest continents on earth, where we feel the effects of climate change first and hardest, to make sure we get those greenhouse gas emissions down. It's hard work, but the alternative is simple continuation of inaction.</p>
 <p>Bad for our kids, bad for our grandkids, bad for Australia.</p>
 <p>HOST: Thanks for your time tonight, Prime Minister Kevin Rudd joining us there live from Copenhagen.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

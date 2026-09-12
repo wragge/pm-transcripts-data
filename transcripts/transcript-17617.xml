@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17617</transcript-id>
-    <title>Resignation of Premier Bartlett</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/01/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17617</transcript-id><title>Resignation of Premier Bartlett</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/01/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today thanked David Bartlett for his service to the people of Tasmania as Premier, following the announcement of his resignation from the position today.</p>
 <p>The Prime Minister acknowledged the tremendous contribution David has made for his state, particularly in his roles as Premier and Education Minister. </p>
 <p>The Prime Minister and the former Premier have a shared passion for education and the right for all students to have access to a first-class education, which they jointly pursed in their respective roles of Education Ministers in the Federal and State Governments.</p>
@@ -19,6 +9,4 @@ Prime Minister Julia Gillard today thanked David Bartlett for his service to the
 <p>The Prime Minister also welcomed and congratulated the incoming Premier of Tasmania Lara Giddings.</p>
 <p>Lara has been an active and valued member of the state cabinet since 2004 and is well placed to take on the role of Premier.</p>
 <p>The Prime Minister looks forward to working with Premier Giddings and her government in the delivery of crucial resources and reform including the provision of disaster relief for flood affected residents, small businesses and farmers in the north of Tasmania, the continued rollout of the NBN, the implementation of national health reform and the delivery of the next generation of the Education Revolution. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

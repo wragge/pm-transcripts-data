@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19181</transcript-id>
-    <title>Community Cabinet coming to Ringwood</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19181</transcript-id><title>Community Cabinet coming to Ringwood</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Perth</p>
 <p>Prime Minister Julia Gillard will host the Government's 40th Community Cabinet meeting in Ringwood on Wednesday 17 April.</p>
 <p>This meeting will be the fifth Community Cabinet to be held in Victoria, and will provide a unique opportunity for members of the community to meet federal government ministers face-to-face.</p>
 <p>The Prime Minister and Member for Deakin Mike Symon today encouraged local residents to register to attend the meeting, which will be held at the Norwood Secondary College.</p>
@@ -18,6 +8,4 @@
 <p>Registrations open from Tuesday 2 April to Friday 5 April, but may close earlier if capacity is reached.</p>
 <p>If people want to attend the public forum only, they can register online at <a href="http://www.pm.gov.au">http://www.pm.gov.au</a> or by calling 1800 088 323.</p>
 <p>Further information can be found at: <a href="http://www.pm.gov.au">http://www.pm.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

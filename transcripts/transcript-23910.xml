@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23910</transcript-id>
-    <title>Statement, Parliament House, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/10/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australians woke this morning to further confirmation that the threat to free countries and free institutions is very real indeed.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23910</transcript-id><title>Statement, Parliament House, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/10/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australians woke this morning to further confirmation that the threat to free countries and free institutions is very real indeed.</p>
 <p>I want to express on behalf of the Australian Parliament and people our solidarity with the Parliament and people of Canada on this grim day.</p>
 <p>I also want to assure Australians that security was upgraded at this Parliament about six weeks ago in response to credible intelligence of a possible threat to this Parliament.</p>
 <p>We believe that we are in a good position to respond to any hostile acts in this building. We are constantly reviewing the security of this and other public buildings. We are constantly reviewing the security of our military bases and our military personnel.</p>
@@ -17,6 +7,4 @@
 <p>All of our anti-terror activities are directed against crime and terrorism – not against religion – and I do want to assure people and remind people that they should go about their normal lives because the fundamental objective of the terrorists is to scare us from being ourselves.</p>
 <p>I will be making a statement to the Parliament at 2pm.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

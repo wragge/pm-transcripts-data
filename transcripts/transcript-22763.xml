@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22763</transcript-id>
-    <title>Transcript of Joint Press Conference - Brisbane</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>19/07/2013</release-date>
-    <release-type>Press Conference</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Prime Minister of Papua New Guinea, Minister for Immigration, Attorney-General</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22763</transcript-id><title>Transcript of Joint Press Conference - Brisbane</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>19/07/2013</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Prime Minister of Papua New Guinea, Minister for Immigration, Attorney-General</p>
 <p>PM RUDD: First of all, Prime Minister, thank you so much for travelling to Brisbane from Moresby. Brisbane we see as the northern capital of Australia and it's good to have you here.</p>
 <p>To your ministerial colleagues, including of course the Foreign Minister of Papua New Guinea and the Attorney-General of Papua New Guinea, and my parliamentary and ministerial colleagues as well and I believe we have a member from West Britain, good to see you as well.</p>
 <p>Today the Prime Minister of Papua New Guinea and I are announcing a major initiative to combat the scourge of people smuggling.</p>
@@ -155,6 +145,4 @@
 <p>That's just completely wrong. I said before our international convention for visits is four.</p>
 <p>I appreciate the lateness of the day and I'm sorry for those who have been inconvenienced by that but the PM has just arrived from PNG. Thank you for your time.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

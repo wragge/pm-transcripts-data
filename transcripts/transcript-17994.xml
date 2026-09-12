@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17994</transcript-id>
-    <title>Transcript of interview with Paul Murray, 6PR</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17994</transcript-id><title>Transcript of interview with Paul Murray, 6PR</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: I'm joined now by the Prime Minister Julia Gillard. Good morning Prime Minister.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Prime Minister one of the men who put you in your job, Paul Howes from the Australian Workers Union says that if one job goes as a result of this package, he'll oppose the carbon tax. Can you guarantee now that not one job will be lost?</p>
@@ -60,6 +50,4 @@ HOST: I'm joined now by the Prime Minister Julia Gillard. Good morning Prime Min
 <p>PM: Look we've taken a Government decision that we want to include heavy vehicles and we've said the start up time for that would be 1 July 2014.</p>
 <p>HOST: Okay, I know you're pushed for time, thanks for your time this morning Prime Minister.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

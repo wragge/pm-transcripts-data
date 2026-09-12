@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17869</transcript-id>
-    <title>Transcript of interview with John Morrison, ABC Statewide</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/05/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17869</transcript-id><title>Transcript of interview with John Morrison, ABC Statewide</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/05/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: I'm pleased to say Ms Gillard joins us on the line this afternoon. Prime Minister, good afternoon, welcome to Statewide.</p>
 <p>PM: Good afternoon and thank you for having me on.</p>
 <p>HOST: How's Tamworth at the moment?</p>
@@ -46,6 +36,4 @@ HOST: I'm pleased to say Ms Gillard joins us on the line this afternoon. Prime M
 <p>PM: Terrific, and having spent some time in Canberra-</p>
 <p>HOST: -You'll know all about it-</p>
 <p>PM:-I know all about it. That's right. Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

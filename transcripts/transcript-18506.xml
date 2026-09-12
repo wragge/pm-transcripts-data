@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18506</transcript-id>
-    <title>COAG signs up to Skills for All Australians</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18506</transcript-id><title>COAG signs up to Skills for All Australians</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The nation's training system will be transformed after the states and territories signed up to a $1.75 billion package to accelerate skills reform at COAG today.</p>
 <p>This skills package will ensure our national training system is able to respond to the needs of our economy, and will help to lift productivity and competitiveness.</p>
 <p>Around an additional 375,000 students will be able to complete qualifications over the next five years under the package signed up to at COAG.</p>
 <p>This will help more Australians get the training they need to get a job, to change careers or to up-skill and get a better-paying job.</p>
 <p>The key elements of the $1.75 billion package signed up to today are:</p>
-<p> * 	The creation of a National Training Entitlement, giving working age Australians guaranteed access to a government subsidised training place;<br />
- * 	The expansion of income-contingent loans to subsidised higher level qualifications in the vocational education and training (VET) system;<br />
- * 	Launch of the MySkills website, to ensure students and industry can make an informed choice about the training that suits them, and a student identifier for the VET system; and<br />
+<p> * 	The creation of a National Training Entitlement, giving working age Australians guaranteed access to a government subsidised training place;<br>
+ * 	The expansion of income-contingent loans to subsidised higher level qualifications in the vocational education and training (VET) system;<br>
+ * 	Launch of the MySkills website, to ensure students and industry can make an informed choice about the training that suits them, and a student identifier for the VET system; and<br>
  * 	Measures to raise the quality of skills training and outcomes.</p>
 <p>This $1.75 billion package is in addition to the $7.2 billion the Government will provide to states and territories through the National Agreement for Skills and Workforce Development over the next five years (see separate release).</p>
 <p>In total, that means the Government isproviding almost $9 billion of funding to the states and territories over the next five years. This is a $1 billion increase over the previous 5 years under the National Agreement and Productivity Places Program National Partnership.</p>
@@ -36,6 +26,4 @@ The nation's training system will be transformed after the states and territorie
 <p>States and territories will have to set strict criteria to ensure only quality providers with an established record can access public funding.</p>
 <p>Skills Australia estimates that in the five years to 2015, Australia will need an additional 2.1 million people in the workforce with VET qualifications.</p>
 <p>This skills package is a significant breakthrough for business and employees as we shape the new economy. It sits alongside our reforms in clean energy, broadband and tax redesign as the building blocks to equip our nation for the challenges ahead. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

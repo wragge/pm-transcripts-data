@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16089</transcript-id>
-    <title>Joint Media Release with the Deputy Prime Minister, Julia Gilliard, An Education Revolution in our Schools  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/08/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today launched the next chapter in its Education Revolution to help build a stronger economy for Australia's future.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16089</transcript-id><title>Joint Media Release with the Deputy Prime Minister, Julia Gillard, An Education Revolution in our Schools  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/08/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today launched the next chapter in its Education Revolution to help build a stronger economy for Australia's future.</p>
 <p>Australia needs a world class education system to face the challenges presented by a rapidly changing world.</p>
 <p>The Rudd Government's Quality Education plan represents the biggest school reform agenda in recent history.</p>
 <p>Boosting the quality of education in Australia's 9581 schools builds on Labor's $19.3 billion commitment to education in the last budget.</p>
@@ -55,6 +45,4 @@
 <p>     * create robust networks of parents, other schools, local communities and businesses to help students in transitioning successfully to work or further education, and</p>
 <p>     * provide incentives for individual schools to extend their reach through longer opening hours, after-school study support, sports and other activities to help keep students engaged in their studies.</p>
 <p>To make a real difference, we anticipate that governments will need to commit to investments of around $500,000 per year for an average sized school.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

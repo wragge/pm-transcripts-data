@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41480</transcript-id>
-    <title>Changes to the Ministry</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/03/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I’m pleased to announce changes to the Ministry that I will be recommending to His Excellency the Governor General.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41480</transcript-id><title>Changes to the Ministry</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/03/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I’m pleased to announce changes to the Ministry that I will be recommending to His Excellency the Governor General.</p>
 <p>The Hon Darren Chester MP will return to the Ministry as Minister for Veterans' Affairs, Minister for Defence Personnel and Minister Assisting for the Centenary of ANZAC.</p>
 <p>The Hon Keith Pitt MP returns to the Ministry as Assistant Minister to the Deputy Prime Minister.</p>
 <p>Mark Coulton MP will join the Ministry as Assistant Minister for Trade, Tourism and Investment.</p>
@@ -17,6 +7,4 @@
 <p>The Deputy Prime Minister, the Hon Michael McCormack MP, and I congratulate the new Ministers and look forward to working with them as part our strong Coalition Ministerial team.</p>
 <p>The Government is committed to continuing to deliver on its commitment to ensure a safer and more prosperous nation for all Australians.</p>
 <p>The new Ministers will be sworn in by the Governor-General on Monday in Canberra.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

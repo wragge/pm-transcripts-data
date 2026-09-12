@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41149</transcript-id>
-    <title>Western Sydney Airport to create Jobs and Investment Boom</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>31/08/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Western Sydney Airport will generate tens of thousands of jobs - thousands more than previously estimated - according to new modelling from Ernst and Young.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41149</transcript-id><title>Western Sydney Airport to create Jobs and Investment Boom</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>31/08/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Western Sydney Airport will generate tens of thousands of jobs - thousands more than previously estimated - according to new modelling from Ernst and Young.</p>
 <p>By 2031 - five years after the airport is scheduled to open - Western Sydney Airport will have delivered an estimated 28,000 additional jobs both inside the airport and in surrounding areas. This number of new jobs in the region increases to 47,000 by 2041. Importantly, these new jobs are in addition to the 11,000 construction jobs during the period the airport is being built.</p>
 <p>The first of these jobs will be on the ground within months. Last week’s announcement that Western Sydney Airport Corporation (WSA Co), the Government-owned company building the airport, will open its head office at Scott Street in Liverpool. Staff will be located there before the end of this year.</p>
 <p>Every direct job building the airport will support another 2.5 jobs down the supply chain. This includes jobs like delivering building materials to the site.</p>
@@ -20,6 +10,4 @@
 <p>Work is already underway through negotiations on the Western Sydney City Deal to build a strong and capable pipeline of local, skilled workers to meet jobs demand.</p>
 <p>For more information on the airport visit <a href="http://www.westernsydneyairport.gov.au">www.westernsydneyairport.gov.au</a></p>
 <p>The Ernst and Young research can be viewed here - <a href="http://www.westernsydneyairport.gov.au/jobs">www.westernsydneyairport.gov.au/jobs</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

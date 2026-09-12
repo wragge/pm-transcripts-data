@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11811</transcript-id>
-    <title>Radio Interview with Narelle Hooper, Radio National </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: corporate philanthropy, charities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11811</transcript-id><title>Radio Interview with Narelle Hooper, Radio National </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: corporate philanthropy, charities.</p>
 <p>E&amp;OE................................</p>
 <p>HOOPER:</p>
 <p>Well lets talk about philanthropy, it's one of your favourite topics, why is that?</p>
@@ -79,6 +69,4 @@
 <p>Prime Minister we'll have to leave it there. Thanks for joining us on the Business Report, Happy Easter.</p>
 <p>PRIME MINISTER:</p>
 <p>Happy Easter to you, thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

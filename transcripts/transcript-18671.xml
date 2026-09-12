@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18671</transcript-id>
-    <title>Transcript of interview with Tim Cox, ABC Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18671</transcript-id><title>Transcript of interview with Tim Cox, ABC Brisbane</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, good to talk to you again. Good afternoon.</p>
 <p>PM: Hi Tim.</p>
 <p>HOST: Can you tell me first of all about your anticipated agenda meeting with the Indonesian President Susilo Bambang Yudhoyono who's just arrived Darwin and of course the much-discussed, much-vexed topic of asylum seekers. Will that be on the agenda?</p>
@@ -66,6 +56,4 @@ HOST: Prime Minister, good to talk to you again. Good afternoon.</p>
 <p>PM: I'm not going to make any false promises!</p>
 <p>HOST: Thank you for that, nice to talk to you again.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

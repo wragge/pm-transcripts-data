@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40113</transcript-id>
-    <title>National Innovation and Science Agenda</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>07/12/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government’s National Innovation and Science Agenda will help to create a modern, dynamic, 21st century economy for Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40113</transcript-id><title>National Innovation and Science Agenda</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>07/12/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government’s National Innovation and Science Agenda will help to create a modern, dynamic, 21st century economy for Australia.</p>
 <p>The opportunities for Australia have never been greater.</p>
 <p>Australian businesses have unprecedented access to the global economy through our new trade agreements with China, Japan and Korea. More than half the world’s middle class already live in our region.</p>
 <p>Our businesses, universities and research organisations like the CSIRO are also among the best in the world.</p>
@@ -18,12 +8,12 @@
 <p>Our appetite for risk is lower than in comparable countries, which means Australian startups and early stage businesses often fail to attract capital to grow.</p>
 <p>And participation in science, maths and computing at high school is declining.</p>
 <p>Through the National Innovation and Science Agenda, the Government will invest $1.1 billion to incentivise innovation and entrepreneurship, reward risk taking, and promote science, maths and computing in schools by focusing on four priority areas:</p>
-<ul><li>Culture and capital, to help businesses embrace risk and incentivise early stage investment in startups;</li>
+<ul>
+<li>Culture and capital, to help businesses embrace risk and incentivise early stage investment in startups;</li>
 <li>Collaboration, to increase the level of engagement between businesses, universities and the research sector to commercialise ideas and solve problems;</li>
 <li>Talent and skills, to train Australian students for the jobs of the future and attract the world’s most innovative talent to Australia; and</li>
 <li>Government as an exemplar, to lead by example in the way Government invests in and uses technology and data to deliver better quality services.</li>
-</ul><p>The Agenda is part of the Government’s commitment to establishing Australia as a leading innovation system.</p>
+</ul>
+<p>The Agenda is part of the Government’s commitment to establishing Australia as a leading innovation system.</p>
 <p>More information on the NISA is available at <a href="http://www.innovation.gov.au">www.innovation.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

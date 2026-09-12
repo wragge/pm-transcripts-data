@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17665</transcript-id>
-    <title>COAG adopts National Disaster Resilience Strategy</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17665</transcript-id><title>COAG adopts National Disaster Resilience Strategy</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Attorney-General Robert McClelland today welcomed the Council of Australian Governments' adoption of a National Disaster Resilience Strategy.</p>
 <p>Recent natural disasters have had a profound impact on the lives of hundreds of thousands of Australians and devastated communities across the country.</p>
 <p>COAG adopted the new national strategy and agreed jurisdictions would take immediate steps to implement its measures. </p>
@@ -18,16 +8,14 @@ Prime Minister Julia Gillard and Attorney-General Robert McClelland today welcom
 <p>To achieve this, the emergency management sector must be involved in the development of public policy in the areas of climate change, land-use planning, building codes and development standards.</p>
 <p>COAG also agreed on the importance of insurance in disaster recovery and the provision and construction of resilient infrastructure. </p>
 <p>Measures to be taken by governments as part of the strategy include: </p>
-<p> * 	All jurisdictions should undertake disaster risk assessments for priority hazards over the next three years.<br />
- * 	Jurisdictions should maintain registers of significant risks to inform decision making at all levels of government and by the private sector and communities.<br />
- * 	Heads of Treasuries will report to the National Emergency Management Committee (NEMC) on strategies for maximising the role of insurance in fostering greater community and individual resilience.<br />
- * 	Planning officials from the Ministerial Council responsible for planning and local government will work with NEMC to ensure that land use zoning and planning decisions integrate consideration of priority hazards<br />
- * 	The Australian Building Codes Board will continue its work on risk-based building codes for priority hazards, and<br />
+<p> * 	All jurisdictions should undertake disaster risk assessments for priority hazards over the next three years.<br>
+ * 	Jurisdictions should maintain registers of significant risks to inform decision making at all levels of government and by the private sector and communities.<br>
+ * 	Heads of Treasuries will report to the National Emergency Management Committee (NEMC) on strategies for maximising the role of insurance in fostering greater community and individual resilience.<br>
+ * 	Planning officials from the Ministerial Council responsible for planning and local government will work with NEMC to ensure that land use zoning and planning decisions integrate consideration of priority hazards<br>
+ * 	The Australian Building Codes Board will continue its work on risk-based building codes for priority hazards, and<br>
  * 	NEMC will review all funding arrangements associated with relief in the resilience context, including the delivery of individual grants, public appeals and insurance, in shaping recovery policy, including provisions for betterment and mitigation.</p>
 <p>Natural disasters will continue to be an inevitable part of our continent so it is imperative we have the ability to prevent, prepare, respond to and recover from them.</p>
 <p>This National Disaster Resilience Strategy is the first step in a long-term process to move towards an approach that is focused on prevention, mitigation and resilience.</p>
 <p>COAG acknowledged the challenges facing many communities as rebuilding gets underway and the need for Commonwealth, State and local governments to work together as part of the reconstruction process.</p>
 <p>COAG also endorsed the establishment of the Australian Government Reconstruction Inspectorate to ensure accountability and rigour in the use of substantial public funding to be committed to the rebuilding. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

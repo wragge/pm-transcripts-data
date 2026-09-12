@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16265</transcript-id>
-    <title>Interview with Don Burke and Sandy Aloisi Radio 2UE   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/11/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SANDY: Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16265</transcript-id><title>Interview with Don Burke and Sandy Aloisi Radio 2UE   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/11/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SANDY: Prime Minister good morning.</p>
 <p>PM:Good morning.</p>
 <p>SANDY: Are we offering help to the Indian authorities to try and find out exactly how this occurred?</p>
 <p>PM: Yes. Yesterday the national security committee of the cabinet directed the Department of Foreign Affairs to tell the Indian High Commissioner here that we would provide any form of assistance necessary, either to deal with the current circumstances in Mumbai, or beyond that, to track down perpetrators.</p>
@@ -45,6 +35,4 @@
 <p>PM: It's been a busy time and there has been a lot going on. I was at the APEC Summit which dealt with global financial crisis matters last weekend in Latin America. And we have had parliament now, we've got the Council of Australian Government meeting on the future of health and education coming up tomorrow in Canberra, and we've had these tragedies both in Afghanistan and Mumbai to deal with. But, that's what you're in this job to do.</p>
 <p>SANDY: Not much sleep probably in the next couple of days. Thanks Prime Minister for your time this morning.</p>
 <p>PM: Thanks for having me on your program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

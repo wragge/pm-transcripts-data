@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40915</transcript-id>
-    <title>Radio interview with Steve Austin, ABC Radio Brisbane</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/04/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Securing Australian gas; Northern Australia Infrastructure Fund; NBN; Budget 2017</subjects>
-    <content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40915</transcript-id><title>Radio interview with Steve Austin, ABC Radio Brisbane</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/04/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Securing Australian gas; Northern Australia Infrastructure Fund; NBN; Budget 2017</subjects><content><![CDATA[<p><strong>STEVE AUSTIN:</strong></p>
 <p>Prime Minister Malcolm Turnbull, good morning to you.</p>
 <p><strong>PRIME MINISTER</strong>:</p>
 <p>Good morning, great to be with you.</p>
@@ -18,7 +8,7 @@
 <p><strong>PRIME MINISTER</strong>:</p>
 <p>Well, the market has not been working as it should. I mean, the reality is that, as you said, we are a massive gas producer, we are about to become the biggest exporter of LNG – liquefied natural gas - and yet we are in a position where the east coast market has been short of gas, and there have been bigger shortages forecast.</p>
 <p>So that’s just not acceptable.</p>
-<p>Our Australian families, businesses, employers, industries they have to come first.  We must protect those Australian jobs.</p>
+<p>Our Australian families, businesses, employers, industries they have to come first.&nbsp; We must protect those Australian jobs.</p>
 <p>There's about 65,000 jobs at risk right at the moment unless action is taken. So we're taking this decisive action today and what this will mean is that if there is a shortage of gas for the domestic market forecast then export controls will be imposed so that Australian families and Australian businesses and Australian jobs come first.</p>
 <p><strong>STEVE AUSTIN:</strong></p>
 <p>What will be the trigger for that? For the big move if you do it.</p>
@@ -185,6 +175,4 @@
 <p><strong>PRIME MINISTER</strong>:</p>
 <p>No they'd be very gentle, I assure you. Thanks very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

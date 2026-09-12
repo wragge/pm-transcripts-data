@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10830</transcript-id>
-    <title>INDONESIA&amp;#146;S AGREEMENT WITH THE IMF</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/01/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I welcome the agreement announced today between Indonesia and the</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10830</transcript-id><title><![CDATA[INDONESIA&amp;#146;S AGREEMENT WITH THE IMF]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/01/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I welcome the agreement announced today between Indonesia and the</p>
 <p> IMF on a strengthened package of reforms to restore market confidence</p>
 <p> in Indonesia.</p>
 <p>By signing the Letter of Intent with IMF Managing Director, Mr Camdessus,</p>
@@ -17,6 +7,4 @@
 <p> economic programme.</p>
 <p>Full and timely implementation is fundamental to Indonesia's</p>
 <p> strengthened economic programme.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

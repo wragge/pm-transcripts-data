@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18003</transcript-id>
-    <title>Statement on the Mumbai terror attacks</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/07/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18003</transcript-id><title>Statement on the Mumbai terror attacks</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/07/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I condemn the deadly terrorist attacks over night in Mumbai, which have killed more than 20 people and injured many more. </p>
 <p>Our thoughts are with the Indian people and in particular with the families who have lost loved ones and who are grieving today.  Our thoughts are also with the many injured.  </p>
 <p>Mumbai is a brave city that has already known great sorrow at the hands of terrorists, including in the 2008 attacks in which two Australians lost their lives.  </p>
 <p>Australia stands with Mumbai and the people of India today. </p>
 <p>We know their strength and are confident they will meet this latest challenge with courage and determination to stand against such senseless acts of violence. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

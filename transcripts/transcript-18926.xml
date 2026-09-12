@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18926</transcript-id>
-    <title>Palestinian UN Observer Status</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18926</transcript-id><title>Palestinian UN Observer Status</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>This week, the member nations of the United Nations are expected to vote on the Palestinian observer status resolution.</p>
 <p>Should the Question of Palestine resolution come forward, Australia will abstain.</p>
 <p>The Government's position balances our long-standing support for the right of the Palestinian people to self-determination and their own state with our concern that the only durable basis for resolution of this conflict is direct negotiations between Israel and the Palestinians.</p>
@@ -17,6 +7,4 @@
 <p>It reaffirms the rights of the Palestinian people to self-determination but does not confer statehood.</p>
 <p>Australia strongly supports a negotiated two-state solution that allows a secure Israel to live side-by-side with a secure and independent future Palestinian state.</p>
 <p>We urge both sides to return to negotiations in good faith.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

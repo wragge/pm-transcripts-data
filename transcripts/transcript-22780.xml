@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22780</transcript-id>
-    <title>Transcript of joint doorstop interview - Sydney</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>31/07/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Minister for Health, Minister for Medical Research</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22780</transcript-id><title>Transcript of joint doorstop interview - Sydney</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>31/07/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Minister for Health, Minister for Medical Research</p>
 <p>Sydney</p>
 <p>Subject(s): Chris O’Brien Lifehouse; Health funding; ICAC; Asylum seekers</p>
 <p>MINISTER PLIBERSEK: Thank you everyone for gathering this morning. I want to start by acknowledging the traditional owners of the land that we’re meeting on today, the Cadigal people of the Eora nation, and I pay my respects to their elders past and present.</p>
@@ -164,6 +154,4 @@
 <p>I’m sure there’ll be legal hurdles as well, we’ll cross each of those hurdles as we come to it.</p>
 <p>But that’s our core policy.</p>
 <p>The alternative is not much better than a three-word slogan and when Mr Abbott utters his immortal phrase ‘stop the boats’, the Australian people want to hear the six-word phrase ‘how will you stop the boats?’ That’s what we need to hear the answer on.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

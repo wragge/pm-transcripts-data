@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15717</transcript-id>
-    <title>Interview with the Acting Prime Minister the Hon Julia Gillard, MP, Sky News  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/01/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KEIRAN GILBERT: Ms Gillard, thanks for your time this morning. Can I start by getting your reaction to the death of New Zealand icon, Sir Edmund Hillary?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15717</transcript-id><title>Interview with the Acting Prime Minister the Hon Julia Gillard, MP, Sky News  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/01/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KEIRAN GILBERT: Ms Gillard, thanks for your time this morning. Can I start by getting your reaction to the death of New Zealand icon, Sir Edmund Hillary?</p>
 <p>JULIA GILLARD: Certainly Sir Edmund's name is synonymous with adventure, with achievement, with dreaming and then making those dreams come true. I am sure there will be many Australians today who reflect on his death. It was obviously a long life well lived. People always looked at him as a man of achievement and I think people today will mark his passing with regret. But for generations to come people will study what Sir Edmund achieved by being of course, the first to get to the top of the world, and to successfully conquer Everest.</p>
 <p>KIERAN GILBERT:And as part of the New Zealand national identity I suppose one of their proudest and greatest heroes.</p>
 <p>JULIA GILLARD:  I think the statement today from Prime Minister Helen Clark captures that well. Obviously Helen Clark, as the leader of New Zealand is reflecting the views of the New Zealand people. Sir Edmund Hillary was one of New Zealand's giants, of course a name known around the world and someone of whom they were so rightly proud.</p>
@@ -28,6 +18,4 @@
 <p>KIERAN GILBERT: Julia Gillard, thank you for your time today.</p>
 <p>JULIA GILLARD: Thank you very much.</p>
 <p>ends</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

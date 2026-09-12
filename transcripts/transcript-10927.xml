@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10927</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON. JOHN HOWARD MP                ADDRESS TO THE FEDERATION OF ETHNIC COMMUNITIES COUNCIL                NATIONAL CONFERENCE, BRISBANE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/11/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10927</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON. JOHN HOWARD MP                ADDRESS TO THE FEDERATION OF ETHNIC COMMUNITIES COUNCIL                NATIONAL CONFERENCE, BRISBANE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/11/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................................................................</p>
 <p>Thank you very much, Randolph, can I commence my address by congratulating</p>
 <p>   you for your re-election as chairman of this organisation, and I</p>
 <p>   would like to acknowledge the presence this morning of representatives</p>
@@ -298,6 +288,4 @@
 <p>I thank you for inviting me, I wish you and your deliberations</p>
 <p>   well and I look forward to three years of constructive co-operation.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

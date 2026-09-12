@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24065</transcript-id>
-    <title>A message from the Prime Minister</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/12/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A lot of good things have happened in 2014.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24065</transcript-id><title>A message from the Prime Minister</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/12/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A lot of good things have happened in 2014.</p>
 <p>The boats have stopped, the carbon tax is gone, red tape is being cut, free trade agreements have been finalised and the largest roads programme ever is now underway.</p>
 <p>Since the end of last year, over 160,000 new jobs have been created – and this is helping families and small businesses right around Australia.</p>
 <p>But we’ve also listened to the Australian people.</p>
@@ -24,6 +14,4 @@
 <p>The Government is listening and it’s delivering.</p>
 <p>Our policies are creating jobs, helping families and bringing the Budget back under control.</p>
 <p>13 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

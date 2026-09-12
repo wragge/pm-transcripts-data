@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22267</transcript-id>
-    <title>Doorstop Interview Ford Australia, Campbellfield </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/05/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22267</transcript-id><title>Doorstop Interview Ford Australia, Campbellfield </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/05/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>  Any questions you want to ask me about the announcement I've just made, or anything else?</p>
 <p> JOURNALIST:</p>
 <p> Can I ask one about cars?</p>
@@ -60,6 +50,4 @@
 <p> PRIME MINISTER:</p>
 <p>It's a big task, but nothing is impossible in politics. Would you 20 weeks out from the Victorian State election in 1999 have given Mr Bracks a chance of winning? Perhaps you did, I don't know. But not many people did, and I think we've got to bear that in mind.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

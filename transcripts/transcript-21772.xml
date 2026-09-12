@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21772</transcript-id>
-    <title>Taskforce on Biofuels  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/05/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today the appointment of a taskforce to examine the latest scientific evidence on the impacts of ethanol and other biofuel use on human health, environmental outcomes and automotive operations.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21772</transcript-id><title>Taskforce on Biofuels  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/05/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today the appointment of a taskforce to examine the latest scientific evidence on the impacts of ethanol and other biofuel use on human health, environmental outcomes and automotive operations.</p>
 <p>On this basis, and taking into account the most recent economic analyses of fuel supply in Australia, the Taskforce will assess the costs and benefits of biofuel production.</p>
 <p>The Taskforce will examine:</p>
 <p> the findings of the December 2003 CSIRO/ABARE/BTRE desktop study into the appropriateness of a 350 million litre biofuels target;</p>
@@ -19,6 +9,4 @@
 <p>The Taskforce will comprise Dr Conall O'Connell, Deputy Secretary, Department of Environment and Heritage; Dr David Brockway, Chief, Division of Energy Technology, CSIRO; Dr John Keniry, Chairman Ridley Corporation Limited; and Mr Max Gillard, Vice President and Chief Operating Officer, Toyota Technical Centre, Asia Pacific Australia.</p>
 <p>The Taskforce will report to the Government by the end of July 2005.</p>
 <p> It will be supported by a small whole-of-government secretariat based in the Department of Prime Minister and Cabinet.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

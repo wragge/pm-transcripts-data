@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22902</transcript-id>
-    <title>Radio Interview with Alan Jones, 2UE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/10/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Paralympics; Badgery’s Creek; very fast train; Telecards; business activity statements.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22902</transcript-id><title>Radio Interview with Alan Jones, 2UE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/10/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Paralympics; Badgery’s Creek; very fast train; Telecards; business activity statements.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JONES:</p>
 <p>Prime Minister good morning.</p>
@@ -52,7 +42,7 @@
 <p>PRIME MINISTER:</p>
 <p>No I’m not telling you that yet. I’m not telling you anything yet. Not because I’m holding back on you. It’s just that we haven’t taken a decision.</p>
 <p>JONES:</p>
-<p>Did the Olympic Games demonstrate that there is a far greater capacity at the new Kingsford Smith Airport than previously had been understood? They seemed to handle magnificently increased volumes of traffic.<br />
+<p>Did the Olympic Games demonstrate that there is a far greater capacity at the new Kingsford Smith Airport than previously had been understood? They seemed to handle magnificently increased volumes of traffic.<br>
 PRIME MINISTER:</p>
 <p>They certainly did that. As to whether that has longer term implications is something that I am still pondering and the Government is pondering. Certainly the airport performed magnificently at the time of the Olympic Games. Bear in mind that that was a concentrated period. There was a complete public involvement in the Games and you can’t automatically extrapolate that to every day of the year. I think that would be an error. However you are right to say that. The airport coped very well.</p>
 <p>JONES:</p>
@@ -98,6 +88,4 @@ PRIME MINISTER:</p>
 <p>JONES:</p>
 <p>Thank you for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

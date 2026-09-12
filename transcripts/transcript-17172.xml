@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17172</transcript-id>
-    <title>Prime Minister Minister for Health Minister for Rural and Regional Health Delivering regional cancer centres 7 April 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $560 million in new or upgraded cancer centres in regional and rural communities across Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17172</transcript-id><title>Prime Minister Minister for Health Minister for Rural and Regional Health Delivering regional cancer centres 7 April 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $560 million in new or upgraded cancer centres in regional and rural communities across Australia.</p>
 <p>With some cancers, patients from rural areas are up to three times more likely to die within five years of diagnosis than their urban counterparts.</p>
 <p>Regional Cancer Centres will enable regional Australians to receive care closer to home and their community.</p>
 <p>This initiative is central to the Government's $1.3 billion investment in improving cancer infrastructure announced in the 2009-10 Budget.</p>
@@ -33,6 +23,4 @@
 <p>Today's announcement reinforces the benefit of the Federal Government stepping up to the plate and providing funding for health services across Australia.</p>
 <p>Under the National Health and Hospitals Network, the Rudd Government would provide 60 per cent of the funding for capital upgrades for public hospitals.</p>
 <p>The Rudd Government's plan will see health services funded nationally and run locally to deliver better health for local communities. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

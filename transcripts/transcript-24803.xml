@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24803</transcript-id>
-    <title>Australia to extend air operations against Daesh into Syria</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/09/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government has decided to extend Australia’s air strikes against Daesh into Syria.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24803</transcript-id><title>Australia to extend air operations against Daesh into Syria</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/09/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government has decided to extend Australia’s air strikes against Daesh into Syria.</p>
 <p>This marks the next phase of Australia’s contribution to the international coalition effort to disrupt, degrade and ultimately defeat the Daesh death cult.</p>
 <p>The decision to expand air operations into Syria has been given careful consideration.</p>
 <p>It follows Iraq’s requests for international assistance to strike Daesh strongholds, and a formal request from the Obama Administration.</p>
@@ -25,7 +15,5 @@
 <p>As the Government has stated before, the size and nature of Australia’s overall commitment to defeat Daesh will remain under regular review.</p>
 <p>This is a decision that is firmly in Australia’s national interest.</p>
 <p>It reflects the Government’s steadfast commitment to keeping Australians safe from terrorism, preventing the spread of violent extremism to our shores and responding to a deepening humanitarian crisis.</p>
-<p>9 September 2015 </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>9 September 2015&nbsp;</p>
+]]></content></item></response>

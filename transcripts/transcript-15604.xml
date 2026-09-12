@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15604</transcript-id>
-    <title>Doorstop Interview, SES Headquarters, Metford</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/06/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15604</transcript-id><title>Doorstop Interview, SES Headquarters, Metford</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/06/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 New South Wales floods</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -24,6 +14,4 @@ New South Wales floods</p>
 <p>PRIME MINISTER:</p>
 <p>Well I'm going to meet some more families, I've met just a few but I'll be meeting some more later and look, I always find in these situations that people are very, how shall I put it, very positive  and they're optimistic and they're willing to cooperate and recognise it's one of those things where everybody has got to work together.  Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

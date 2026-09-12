@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24151</transcript-id>
-    <title>The Honourable Tom Uren AC</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>26/01/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia mourns the passing of The Honourable Tom Uren AC.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24151</transcript-id><title>The Honourable Tom Uren AC</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>26/01/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia mourns the passing of The Honourable Tom Uren AC.</p>
 <p>He was a prisoner of war, a parliamentarian, a minister, a deputy leader of his party and served our country throughout his adult life.</p>
 <p>He was an aspiring boxer and outstanding athlete who joined the army at the age of 20 and deployed to Timor.</p>
 <p>He spent his 21st birthday – and the following three – as a prisoner of war.</p>
@@ -17,7 +7,7 @@
 <p>Despite these experiences, he rejected hatred.</p>
 <p>Tom Uren devoted his life to serving what he called ‘the human family’.</p>
 <p>He taught a generation of Australians to forgive and to forge new friendships with our former enemy.</p>
-<p>In 1958, he entered the Federal Parliament as the Member for Reid and represented the electorate for 31 years.</p>
+<p>In 1958, he entered the Federal Parliament as the Member for Reid and&nbsp;represented the electorate for 31 years.</p>
 <p>He became Minister for Urban and Regional Development in the Whitlam Government, and pioneered the protection of Australia’s historic and natural heritage.</p>
 <p>He also served as a minister in the first two Hawke Governments.</p>
 <p>When Mr Uren retired from Parliament in 1990, he was the Father of the House.</p>
@@ -25,6 +15,4 @@
 <p>I have instructed that flags fly at half-mast on the day of Mr Uren’s State Memorial Service.</p>
 <p>On behalf of all Australians, I extend to Mr Uren’s widow, Christine, and to his family the condolences of the Government and the Australian people.</p>
 <p>26 January 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

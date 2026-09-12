@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16162</transcript-id>
-    <title>The Australian Response to the Global Financial Crisis Address to the Federal Labor Business Forum, Sofitel Wentworth Hotel Sydney </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/10/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16162</transcript-id><title>The Australian Response to the Global Financial Crisis Address to the Federal Labor Business Forum, Sofitel Wentworth Hotel Sydney </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/10/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as the oldest continuing cultures in human history.</p>
 <p>Tonight, here in Australia we wait, watch and listen with our heads turned towards Washington and those legislators who will determine the America's national response to this most dire financial crisis.</p>
 <p>When events the magnitude of which we have witnessed in the last week take place, we sometimes struggle to find a sense of proportion.</p>
 <p>But if we lose that sense of proportion and perspective, we may misjudge and overreact.</p>
@@ -238,6 +228,4 @@
 <p>That is why the Government is acting responsibly to support the stability of the Australian financial sector.</p>
 <p>That is why we are acting with our partners around the world to assist in restoring stability to global financial markets.</p>
 <p>And these are responsibilities that this Australian Government is determined to discharge.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

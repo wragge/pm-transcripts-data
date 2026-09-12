@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17980</transcript-id>
-    <title>Transcript of joint press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/07/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17980</transcript-id><title>Transcript of joint press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/07/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Thank you.</p>
 <p>I'm joined today by the Deputy Prime Minister, Wayne Swan, and by the Minister for Climate Change, Greg Combet, and I'm here today to announce how Australia will seize its clean energy future. My focus will be on explaining how we will build that clean energy future, but I want to talk about two things that have brought us to this moment today.</p>
 <p>First, the avalanche of science that tells us our climate is changing. The science is in. We know that our planet is warming. We know that that warming is changing our climate: causing sea levels to rise; meaning that there will be more days of extreme heat; meaning that we are at risk of more bushfires and droughts; meaning that great icons like the Great Barrier Reef are at risk.</p>
@@ -166,6 +156,4 @@ PM: Thank you.</p>
 <p>In terms of supporting jobs, this has got new initiatives in it for steel, for metal forging and the foundry industries, and of course this has got a tax reform associated with it.</p>
 <p>We believe in work, we value work, this package values work. I want to see a nation with a clean energy future and higher workforce participation. This is the package that is going to drive both of those things - cleaner energy, more people in work. That's the Labor way</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

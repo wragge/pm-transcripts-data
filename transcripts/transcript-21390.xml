@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21390</transcript-id>
-    <title>Doorstop Interview, Melbourne  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21390</transcript-id><title>Doorstop Interview, Melbourne  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JOURNALIST:</p>
 <p> ...I want to check on... there's reports that there's a split in the Cabinet on the issue of a nuclear waste dump in South Australia...</p>
 <p>PRIME MINISTER:</p>
@@ -35,6 +25,4 @@ JOURNALIST:</p>
 <p>PRIME MINISTER:</p>
 <p>Oh, dear oh me, Mr Latham.  Mr Latham's got too much on his plate in relation to Iraq to start pitching in on other policies. The man who's trying to walk both sides of the street on Iraq and who's cobbled something together to smooth things over for the election because he shot his mouth off without thinking things through a few months ago.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22917</transcript-id>
-    <title>Interview with Fran Kelly ABC Radio National Breakfast</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/10/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Olympic Games; Cathy Freeman; Reconciliation; Sports funding</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22917</transcript-id><title>Interview with Fran Kelly ABC Radio National Breakfast</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/10/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Olympic Games; Cathy Freeman; Reconciliation; Sports funding</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister thanks for joining us. Have you come down from that Olympic cloud yet?</p>
@@ -83,6 +73,4 @@
 <p>PRIME MINSTER:</p>
 <p>Thank you Fran.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

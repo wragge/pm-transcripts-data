@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18441</transcript-id>
-    <title>Speech to launch &quot;Skills for All Australians&quot;, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/03/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18441</transcript-id><title><![CDATA[Speech to launch &quot;Skills for All Australians&quot;, Canberra]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/03/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia stands at the cross roads.</p>
 <p>We've witnessed a shift in our economic interests from America and Europe to Asia in a single generation.</p>
 <p>We're seeing shares of employment and activity move towards services and high tech production</p>
@@ -77,8 +67,8 @@ Australia stands at the cross roads.</p>
 <p>The next wave of reform must be in the area of skills.</p>
 <p>This is the missing piece of the puzzle.</p>
 <p>Since 2008, our nation has been committed to ambitious targets for skilling Australians:</p>
-<p> * 	Doubling the number of qualification completions at diploma and advanced diploma levels<br />
- * 	Halving the proportion of Australians of working age  without a Certificate III qualification or higher by 2020, and<br />
+<p> * 	Doubling the number of qualification completions at diploma and advanced diploma levels<br>
+ * 	Halving the proportion of Australians of working age  without a Certificate III qualification or higher by 2020, and<br>
  * 	Increasing the proportion of young Australians aged 20 to 24 attaining Year 12 or Certificate II to 90 per cent by 2015.</p>
 <p>Already we have 460,000 doing a trade apprenticeship or a traineeship  -  with more people studying a trade than ever before in Australia's history.</p>
 <p>But we need to go further to make our training goals a reality.</p>
@@ -124,8 +114,8 @@ Australia stands at the cross roads.</p>
 <p>So today I can announce a new plan to bring to our vocational sector the benefits that interest-free deferred loans have long brought to university participation.</p>
 <p>Think of it as being like HECS for Skills.</p>
 <p>At last, VET diploma students will get the same rights that university students have had for years:</p>
-<p> * 	No upfront fees<br />
- * 	Access to an interest-free loan to pay for their study<br />
+<p> * 	No upfront fees<br>
+ * 	Access to an interest-free loan to pay for their study<br>
  * 	Only having to pay that loan back once their income reaches a certain level.</p>
 <p>Remember university students have enjoyed the benefits of HECS for 23 years.</p>
 <p>With these reforms, VET will no longer be the poor relation.</p>
@@ -193,6 +183,4 @@ Australia stands at the cross roads.</p>
 <p>They are reforms that will shape and sustain our nation for decades to come.</p>
 <p>Reforms that position us to be winners in the Asian Century.</p>
 <p>A race our nation cannot afford to lose. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

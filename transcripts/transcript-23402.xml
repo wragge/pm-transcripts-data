@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23402</transcript-id>
-    <title> Sir Rod moves on, new Infrastructure Australia Chair appointed</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>05/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Mark Birrell will succeed Sir Rod Eddington as the new Chairman of Infrastructure Australia when his term expires on 8 April 2014.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23402</transcript-id><title> Sir Rod moves on, new Infrastructure Australia Chair appointed</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>05/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Mark Birrell will succeed Sir Rod Eddington as the new Chairman of Infrastructure Australia when his term expires on 8 April 2014.</p>
 <p>Sir Rod has agreed to take up a role with the APEC Business Advisory Council at the request of the Prime Minister and recommended Mr Birrell as his replacement.</p>
 <p>Mr Birrell is currently a member of Infrastructure Australia.</p>
 <p>He plays a leading role in the transport and construction sectors as Chairman of the Port of Melbourne and founding Chairman of Infrastructure Partnerships Australia. He was a Victorian State Cabinet Minister responsible for major projects.</p>
@@ -36,6 +26,4 @@
 <p>Sir Rod maintains non-executive directorships with News Corporation, Lion, CLP (China Light &amp; Power) Holdings and John Swire &amp; Sons.</p>
 <p>Sir Rod also serves as President of the Australia Japan Business Cooperation Committee and Chairman of Victorian Major Events Company.</p>
 <p>5 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17333</transcript-id>
-    <title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 8 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/06/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ALOISI: Mr Rudd good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17333</transcript-id><title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 8 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/06/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ALOISI: Mr Rudd good morning.</p>
 <p>PM: Good morning, thanks for having me on your program.</p>
 <p>ALOISI: Another disastrous poll result for the Government yesterday, your personal approval ratings are through the floor and the Government facing a possible annihilation at the next election. You've lost 1.1 million voters in three months, what's gone wrong?</p>
 <p>PM: Well we have a huge challenge ahead of us, which is to explain very carefully what our record is, and it's a good record of achievement across the economy and across health and across education, what our plans are for the future, but you know you're right Sandy, and that is those polls produced yesterday would see Mr Abbott as Prime Minister, but let's be very clear about this, an election is about alternatives and it puts into very stark contrast what we stand for in terms of keeping the economy strong, delivering tax cuts to working families, getting rid of WorkChoices, boosting hospital funding by 50 per cent, big reforms in education, a new national curriculum, against Mr Abbott who says he'd bring back WorkChoices, slash health funding, and slash education funding.</p>
@@ -69,6 +59,4 @@
 <p>The key thing is to focus on the challenge of keeping the economy strong for the future, and for families, making a difference in their hospitals and in their schools. That story I saw, I think on the front page of the Herald this morning about people waiting for cancer treatment. This is basic for people, getting that right. That's why I spent so much of the last month or so announcing our investment, about a quarter of a billion dollars throughout New South Wales, for enhanced cancer diagnosis and treatment services right across the state. That's what people are also talking about at their kitchen tables this morning.</p>
 <p>ALOISI: Alright, Prime Minister, enjoy your trip to Western Australia. Maybe you'll come back with a new bag of tricks for us to talk about.</p>
 <p>PM: It'll be exciting.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6180</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>12/08/1983</release-date>
-    <release-type>Correspondence</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006180.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-PRIME MINISTER 12 August 1983<br />
-The Following telegram was today sent to Robert de Castella<br />
-by the Prime Minister:<br />
-" The best wishes of all Australians go with you<br />
-for success in the marathon in Helsinki on<br />
-Sunday. We know that as always you will give<br />
-your utmost, and will be a great representative<br />
-of Australia.<br />
-Bob Hawke". I<br />
-LIA<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6180</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>12/08/1983</field_date><release-type>Correspondence</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006180.pdf</document><subjects></subjects><content><![CDATA[<p>
+PRIME MINISTER 12 August 1983<br>
+The Following telegram was today sent to Robert de Castella<br>
+by the Prime Minister:<br>
+" The best wishes of all Australians go with you<br>
+for success in the marathon in Helsinki on<br>
+Sunday. We know that as always you will give<br>
+your utmost, and will be a great representative<br>
+of Australia.<br>
+Bob Hawke". I<br>
+LIA<br>
 A&gt;! </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

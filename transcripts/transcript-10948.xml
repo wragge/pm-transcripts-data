@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10948</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT THE COMMUNITY LUNCH                 ANGLICAN PARISH HALL                 MARYBOROUGH, QUEENSLAND</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/06/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10948</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT THE COMMUNITY LUNCH                 ANGLICAN PARISH HALL                 MARYBOROUGH, QUEENSLAND</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/06/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
 <p>Well, thank you very much, Mr Mayor, for your very warm words of welcome;</p>
 <p> to Warren Truss, David MacGibbon, Ian Macdonald, Mr Kingston, other</p>
 <p> distinguished guests, ladies and gentlemen.</p>
@@ -371,6 +361,4 @@
 <p> But it's been very great, it's been very nice being amongst</p>
 <p> you and I wish you all well. Thank you very much.</p>
 <p> [ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

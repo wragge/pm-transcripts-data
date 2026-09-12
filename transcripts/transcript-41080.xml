@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41080</transcript-id>
-    <title>Media Statement</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/07/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Major Joint Counter Terrorism Team operations by the Australian Federal Police, ASIO and NSW Police are occurring in Sydney.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41080</transcript-id><title>Media Statement</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/07/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Major Joint Counter Terrorism Team operations by the Australian Federal Police, ASIO and NSW Police are occurring in Sydney.</p>
 <p>These operations are designed to disrupt and prevent plans to undertake terrorist attacks in Australia.</p>
 <p>I have been kept closely briefed on the progress of the operations by the heads of our relevant security agencies.</p>
 <p>However, as the operations are ongoing, it is inappropriate to provide further detail at this stage.</p>
 <p>My number one priority, and that of my Government, is the safety and security of all Australians.</p>
 <p>The public should be reassured that our security and intelligence agencies are working tirelessly to keep us safe.</p>
 <p>In the meantime remain alert, follow the advice given by police and if you do see or hear something suspicious call the National Security Hotline on 1800 123 400.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

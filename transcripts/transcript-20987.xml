@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20987</transcript-id>
-    <title>Interview with David Spears Sky News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/11/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20987</transcript-id><title>Interview with David Spears Sky News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/11/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p>Well Prime Minister thanks for your time.  If I can start with what have just been released, some job figures that are very impressive, 5.6 per cent.  What's your initial reaction to what appear to be the lowest figures in more than 20 years?</p>
 <p>PRIME MINISTER:</p>
 <p>They're fantastic, they're lower than most people expected, 69,000 new jobs created in October.  This is the human dividend, this is the human reward for good economic policy, good economic policy in the end should be about making people feel more secure, more contented, and giving them hope and aspiration in life and that is what we're doing, I am really proud of the fact that under this Government we've been able to drive unemployment down to this level and it could be even lower if the opposition parties in the Senate would get out of the way and let us pass those unfair dismissal laws that could create on independent assessments 50,000 to 80,000 more jobs in the small business sector.  So we've come a long way, we could go further but this is a great day for the workers of Australia.  I mean this is what it's all about, it's about giving people the opportunity of a job and giving people the opportunity of bettering their lives, it's not about arid statistics, it's about human opportunity.</p>
@@ -92,6 +82,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

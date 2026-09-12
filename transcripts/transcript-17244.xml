@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17244</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Australian National University, Canberra 24 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: An important day for Canberra and for the nation, and hence the remarks I have made inside.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17244</transcript-id><title>Prime Minister Transcript of doorstop interview Australian National University, Canberra 24 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: An important day for Canberra and for the nation, and hence the remarks I have made inside.</p>
 <p>One or two other things I would just like to say briefly about the Government's position in relation to the new foreign investment rules on residential housing. You will have seen the Government's statement today.</p>
 <p>I want to be absolutely clear cut about this, and that is, we want to make sure that Australian working families are not being priced out of their own family homes. That is why we have acted in the way in which we have done.</p>
 <p>We want to make sure that foreign speculators are not going to force up prices for Australians seeking to buy their own home, buy their first home and we think this is the right course of action.</p>
@@ -20,6 +10,4 @@
 <p>I understand the Premier, the Treasurer has indicated a timeframe for that. And the Government's response to that independent review of taxation will be clear and we believe that that is the right course of action.</p>
 <p>We think it is going to provide ample opportunity for appropriate public debate, as it should.</p>
 <p>Future arrangements for our tax system are important for all participants</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

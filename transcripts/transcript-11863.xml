@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11863</transcript-id>
-    <title>Press Conference, Parliament House </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Ryan by-election; value of the dollar; Shell/Woodside takeover; situation in PNG.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11863</transcript-id><title>Press Conference, Parliament House </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Ryan by-election; value of the dollar; Shell/Woodside takeover; situation in PNG.</p>
 <p>E&amp;OE................................ </p>
 <p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, whatever the final outcome is there has been a very big swing against the Government in the Ryan by-election. There's no beating about the bush about that and it does contain a number of lessons for the government. It is not however another Bass or another Canberra and it's important in the political analysis, which I'm sure will occur over the days ahead, that that be kept in mind. If you're reaching for a historical comparison this is more akin to the setbacks the Hawke Government suffered in 1988 and '89 in the by-elections in Adelaide, Port Adelaide and Oxley where the two party preferred swings were equivalent to or in excess of what happened in Ryan yesterday.</p>
@@ -278,6 +268,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay, see you later.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

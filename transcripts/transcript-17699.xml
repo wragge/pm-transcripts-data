@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17699</transcript-id>
-    <title>Climate change framework announced</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17699</transcript-id><title>Climate change framework announced</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister Julia Gillard today outlined the Government's plan to cut pollution, tackle climate change and deliver the economic reform Australia needs to move to a clean energy future. </p>
 <p>This is an essential economic reform, and it is the right thing to do.</p>
 <p>The two-stage plan for a carbon price mechanism will start with a fixed price period for three to five years before transitioning to an emissions trading scheme.</p>
@@ -17,8 +7,8 @@ The Prime Minister Julia Gillard today outlined the Government's plan to cut pol
 <p>A carbon price is a price on pollution. It is the cheapest and fairest way to cut pollution and build a clean energy economy. The best way to stop businesses polluting and get them to invest in clean energy is to charge them when they pollute.</p>
 <p>The businesses with the highest levels of pollution will have a very strong incentive to reduce their pollution.</p>
 <p>The Government will then use every cent raised to:</p>
-<p> * 	Assist families with household bills<br />
- * 	Help businesses make the transition to a clean energy economy<br />
+<p> * 	Assist families with household bills<br>
+ * 	Help businesses make the transition to a clean energy economy<br>
  * 	Tackle climate change</p>
 <p>The Government will not shy away from this difficult but vital economic reform to move Australia to a clean energy nation.</p>
 <p>The global economy is shifting.</p>
@@ -29,11 +19,9 @@ The Prime Minister Julia Gillard today outlined the Government's plan to cut pol
 <p>The framework has been agreed by Government and Greens members of the Multi-Party Climate Change Committee (MPCCC). The other members, Mr Tony Windsor and Mr Robert Oakeshott, have agreed that the proposal should be released for community consultation.</p>
 <p>The Committee will continue to discuss other important elements of the proposal including the starting level of the fixed price, any phasing in of sectors of the economy, and assistance for both households and industry.</p>
 <p>The document outlining the proposed carbon price mechanism is available below.</p>
-<p> * 	Multi-Party Climate Change Committee - Carbon Price Mechanism (RTF 83Kb)<br />
+<p> * 	Multi-Party Climate Change Committee - Carbon Price Mechanism (RTF 83Kb)<br>
  * 	Multi-Party Climate Change Committee - Carbon Price Mechanism (PDF 135Kb)</p>
 <p>Members of the public and interested parties who wish to provide input on this approach should contact: <a href="mailto:MPCCC@climatechange.gov.au">MPCCC@climatechange.gov.au</a>, or write to:</p>
 <p>The Multi-Party Climate Change Committee SecretariatGPO Box 854Canberra ACT 2601Australia</p>
 <p>Further information in relation to this proposed approach is available at <a href="http://www.climatechange.gov.au">www.climatechange.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

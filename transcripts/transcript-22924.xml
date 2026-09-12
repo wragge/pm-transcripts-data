@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22924</transcript-id>
-    <title>Radio Interview with Jon Faine, Radio 3LO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ubjects: The Australian Dollar; Business Activity Statements; Petrol prices; attack on Ambassador McCarthy; Heroin Addiction.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22924</transcript-id><title>Radio Interview with Jon Faine, Radio 3LO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ubjects: The Australian Dollar; Business Activity Statements; Petrol prices; attack on Ambassador McCarthy; Heroin Addiction.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>FAINE:</p>
 <p>The Prime Minister of Australia, John Howard, joins me in the studio. Good morning to you Mr Howard.</p>
@@ -162,7 +152,7 @@
 <p>FAINE:</p>
 <p>Have you got a question for the Prime Minister at all Brian?</p>
 <p>CALLER:</p>
-<p>These new roads you’re going to upgrade.<br />
+<p>These new roads you’re going to upgrade.<br>
 Do you realise 90% of the people that should be using them won’t be? Talk to tourism people around Ballarat, how it’s fallen. And also why in the hell can’t we get research back? We’ve got Australian scientists trying to get flu things out and you won’t even open the purse strings and give them a bit of money.</p>
 <p>FAINE:</p>
 <p>All right, look there’s a whole lot of things there Prime Minister, but the most important is the connection between your attitude and Jeff Kennett’s.</p>
@@ -195,7 +185,7 @@ Do you realise 90% of the people that should be using them won’t be? Talk to t
 <p>PRIME MINISTER:</p>
 <p>What sort of business Geoff?</p>
 <p>CALLER:</p>
-<p>I do bookwork, bookkeeping.<br />
+<p>I do bookwork, bookkeeping.<br>
 Okay, now I invoice my customers, I am fully registered, charge them GST. My customer gets my invoice and he claims my GST. Now at the end of the day for all this work that we do, there is a zero result. I pay my $200 for example on the invoice, they claim $200 in the invoice.</p>
 <p>FAINE:</p>
 <p>So the issue for the Prime Minister Geoff?</p>
@@ -280,6 +270,4 @@ Okay, now I invoice my customers, I am fully registered, charge them GST. My cus
 <p>FAINE:</p>
 <p>Thanks Prime Minister we have to go.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15201</transcript-id>
-    <title>Interview with Neil Mitchell, Interview with Neil Mitchell,</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/02/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15201</transcript-id><title>Interview with Neil Mitchell, Interview with Neil Mitchell,</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/02/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 AFL broadcasting deal; National Plan for Water Security; anti-terrorism laws;   David Hicks; education</p>
 <p>E&amp;OE...</p>
 <p>Labor governments, the extreme green position has dominated their thinking and there's a danger, of course, that that will happen in relation to climate change. That's why I think the coal industry has every reason to be concerned about some of the implications of what Labor is saying on climate change. </p>
@@ -137,6 +127,4 @@ AFL broadcasting deal; National Plan for Water Security; anti-terrorism laws;   
 <p>PRIME MINISTER: </p>
 <p>Okay. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

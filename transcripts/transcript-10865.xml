@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10865</transcript-id>
-    <title>TCF PACKAGE: KEY ELEMENTS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/06/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10865</transcript-id><title>TCF PACKAGE: KEY ELEMENTS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/06/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Tariffs</p>
 <p> 1997</p>
 <p>1998</p>
@@ -129,6 +119,4 @@ Tariffs</p>
 <p>Review</p>
 <p>There will be a review in 2005 which will take account of our APEC</p>
 <p> commitments and progress on market access.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

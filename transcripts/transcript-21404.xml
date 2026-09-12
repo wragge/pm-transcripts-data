@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21404</transcript-id>
-    <title>Press Conference Brisbane </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21404</transcript-id><title>Press Conference Brisbane </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well ladies and gentlemen, I'd like to welcome you to this news conference.  At the conclusion of the conference I'll make available to you a copy of the unclassified version of the Flood Report, and it is being simultaneously released in Canberra together with a covering statement.</p>
 <p>I would like to start by thanking Mr Philip Flood for the very good job that he's done. He was given terms of reference in line with the recommendations of the Jull committee and he has carried out a very thorough and professional and comprehensive elevation of our intelligence services.</p>
 <p>His principal finding is that the Australian intelligence community is serving the nation very well and is a potent force for the Government, though his major finding is a very positive one about the role and the performance of our intelligence agencies. His report contains an extensive list of recommendations and I can announce this afternoon that with the exception of one recommendation, which I will come to in a moment, the Government proposes to accept all of Mr Flood's recommendations.  The only recommendation the Government will not accept is a recommendation for changing the name of ONA.  So all of the recommendations of substance have been accepted by the Government and this acceptance includes an increase in the annual budget for ONA from $13.1 million to $25 million.  In addition there will be a reallocation from the Department of Foreign Affairs and Trade of a sum of $2.5 million and this will all effectively mean that ONA's size will double from 74 to 145.</p>
@@ -99,6 +89,4 @@
 <p>It is.  Well, $13 million is not going to send us broke and it's a very high priority and I'm very strongly in favour of it being given.  Okay anything else?</p>
 <p>  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19251</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/04/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19251</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/04/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: What you can see behind is Federal Parliament House, and it's tomorrow that here in Federal Parliament House premiers and chief ministers will come from all around the country to talk about a range of important issues.</p>
 <p>But one is the most vital for our country's future, for the future of our kids, for the future of our economy, is making sure that we are properly resourcing every school and that we are improving every school  -  a better resourced and a better quality education for all of our children.</p>
 <p>I am very determined to get this done and I will make that determination very clear in the room when premiers and chief ministers meet tomorrow.</p>
@@ -77,6 +67,4 @@
 <p>PM: Well, Minister Macklin has worked long and hard on this and in consultation with states and territories. </p>
 <p>This is unambiguously in our nation's interests and in the interests of Indigenous Australians, so I'd certainly hope that that agreement gets endorsed all around the country.</p>
 <p>Alright, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

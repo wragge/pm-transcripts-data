@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18428</transcript-id>
-    <title>Anniversary of Japan&#039;s 11 March earthquake and tsunami</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18428</transcript-id><title><![CDATA[Anniversary of Japan&#039;s 11 March earthquake and tsunami]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today we pause to remember the thousands of people who lost their lives in the terrible earthquake and tsunami of 11 March 2011, the most powerful earthquake on record to hit Japan.</p>
 <p>This is a day of painful memories for the Japanese people and on behalf of all Australians, I express my heartfelt condolences to those who lost loved ones in this terrible tragedy.</p>
 <p>As the first foreign leader to visit the disaster zone, I saw the appalling scale of damage for myself in the coastal community of Minami-Sanriku, a whole town washed away with devastating loss of life.</p>
@@ -18,6 +8,4 @@ Today we pause to remember the thousands of people who lost their lives in the t
 <p>I am very proud of our nation's generous and compassionate response to the tragedy, including the exceptional work of our emergency workers such as the Urban Search and Rescue Team deployed to the Miyagi region of Japan.</p>
 <p>Their efforts, and the generous donations made by millions of Australians, reflect and honour the spirit of friendship between our two countries.</p>
 <p>Today our Ambassador to Japan Bruce Miller is representing Australia at the national Memorial Service in Tokyo, attended by Their Majesties the Emperor and Empress.The Vice Chief of the Defence Force Air Marshal Mark Binskin AO, together with Rob McNeil,Chief Superintendent, NSW Fire Brigade, who led the Australian Search and Rescue Team, are also representing Australia at the memorial service in Minami Sanriku, showing our solidarity with the Japanese people at this time of remembrance.As a close friend and partner of Japan, Australia will continue working closely with the Japanese government and people as they continue along the path of recovery and reconstruction. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

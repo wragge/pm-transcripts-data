@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22647</transcript-id>
-    <title>APEC Australia 2007 Sponsors  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/12/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to announce the sponsors for the APEC Australia 2007 year.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22647</transcript-id><title>APEC Australia 2007 Sponsors  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/12/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to announce the sponsors for the APEC Australia 2007 year.</p>
 <p>Our two Exclusive Partners are Microsoft (Exclusive Technology Partner) and Thales Australia (Exclusive Accreditation Partner). The Major Sponsors are Commonwealth Bank of Australia and Qantas Airways.</p>
 <p>These organisations have realised the value of Australia's investment in the Asia-Pacific region. Together we will work to increase the profile of APEC and deliver outcomes that will benefit Australia and our partners across this region.</p>
 <p>I welcome these organisations to the APEC Australia 2007 family of sponsors and acknowledge the value of their participation to this event.</p>
@@ -18,6 +8,4 @@
 <p>The APEC Australia 2007 year will be the most significant series of international meetings ever hosted by Australia and on 15 January we will welcome the first delegation of senior officials from the 21 APEC Member Economies to Canberra.</p>
 <p>In supporting the continued development of our region and recognising the importance of Australia's ongoing collaboration with the other APEC member economies, the theme for the APEC Australia 2007 year is 'strengthening our community, building a sustainable future'. This focus aims to provide a framework to explore issues around this regional growth such as energy security and demand, governance, climate change and trade liberalisation to name a few.</p>
 <p>One of the APEC traditions of engaging business is being supported through the whole-of-year sponsorship program. Cooperation and engagement with the business community is essential to achieving sustainable growth and development in the region.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

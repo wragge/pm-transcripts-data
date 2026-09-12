@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15207</transcript-id>
-    <title>Doorstop Interview, The Lodge, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/02/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15207</transcript-id><title>Doorstop Interview, The Lodge, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/02/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 New Zealand visit; Iraq; David Hicks</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER: </p>
@@ -67,6 +57,4 @@ New Zealand visit; Iraq; David Hicks</p>
 <p>PRIME MINISTER: </p>
 <p>Daniel, I'm not going to start hypothesising about time. I'm simply saying that asked what our goal, what our strategy is, our goal, our strategy is to create a situation where the Iraqis are reasonably able to provide for their own security. They can't at the present time and for us, speaking collectively of the coalition, to go now or in the near future, which includes the early part of next year, would be to condemn them to the very circumstances described by Baker-Hamilton and it would also be seen as a defeat for the United States, and that would be a catastrophe for the Western cause not only in the Middle East but around the world. Thank you. </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21639</transcript-id>
-    <title>Appointment of Commissioners to the National Water Commission </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/03/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce today the names of the inaugural Chairman and Commissioners of the National Water Commission.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21639</transcript-id><title>Appointment of Commissioners to the National Water Commission </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/03/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce today the names of the inaugural Chairman and Commissioners of the National Water Commission.</p>
 <p>I am also pleased to announce that all the original State and Territory signatories to the National Water Initiative have confirmed their full commitment to the Initiative.</p>
 <p>The task of implementing the National Water Initiative is both substantial and important for all Australians.  The Australian Government and the State and Territory signatories will now be working to meet all their commitments under last year's historic intergovernmental agreement and the National Water Commission will be a most important contributor to this process.</p>
 <p>  The inaugural Chairman of the National Water Commission will be Mr Ken Matthews, who brings to the position relevant experience as a former Secretary of the Commonwealth Departments of Transport and Regional Services and Agriculture, Fisheries and Forestry.  Mr Matthews has also been appointed as Chief Executive Officer of the Commission.</p>
@@ -17,6 +7,4 @@
 <p>The three Commissioners nominated by the States and Territories are Ms Chloe Munro, Dr John Radcliffe, and Dr Walter Cox.</p>
 <p>Each Commissioner has been selected for the contribution they can make as individuals to the work of the National Water Commission.</p>
 <p>I am sure all Australians would join with me in wishing the Commission every success in implementing its charter.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18566</transcript-id>
-    <title>Retirement of Nick Sherry</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/05/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18566</transcript-id><title>Retirement of Nick Sherry</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/05/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today Nick Sherry has announced he will retire from Parliament, after almost 22 years as a Senator for Tasmania.</p>
 <p>Nick has made a tremendous contribution to the Labor team.</p>
 <p>He served as a Parliamentary Secretary in the Keating Government and subsequently spent many years working tirelessly on the Opposition frontbench. He then served as a Minister from 2007 until his retirement from the Ministry in December last year.</p>
@@ -20,6 +10,4 @@ Today Nick Sherry has announced he will retire from Parliament, after almost 22 
 <p>Nick overcame some personal tough times and is much admired for his determination.</p>
 <p>I'm sure he's looking forward to spending more time with his three young children in his post-Parliament days, and that they will be equally thrilled to have him home.</p>
 <p>Nick will spend his final day in the Senate on June 1. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

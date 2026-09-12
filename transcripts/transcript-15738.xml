@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15738</transcript-id>
-    <title>Interview  Network Seven Sunrise Program    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/01/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MEL: The Prime Minister joins us now from Canberra. Good morning to you, Mr Rudd.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15738</transcript-id><title>Interview  Network Seven Sunrise Program    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/01/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MEL: The Prime Minister joins us now from Canberra. Good morning to you, Mr Rudd.</p>
 <p>PM:   Good morning Kochie, good morning Mel. Happy New Year and to your viewers. </p>
 <p>MEL: To you too</p>
 <p>PM: Did you have a good break?</p>
@@ -47,6 +37,4 @@
 <p>KOCHIE:  Exactly right, exactly. Alright Kevin. Thanks for joining us.</p>
 <p>PM: Thank you for having us on the program.</p>
 <p>ends</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19331</transcript-id>
-    <title>Remarks At Official Dinner Hosted By Prime Minister Peter O’Neill</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19331</transcript-id><title>Remarks At Official Dinner Hosted By Prime Minister Peter O’Neill</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Port Moresby, Papua New Guinea</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>It is a great honour for me to be here in this beautiful land.</p>
 <p>Like Australia, this is a land of the Southern Cross.</p>
@@ -80,6 +70,4 @@
 <p>The potential conceived at independence will continue to unfold.</p>
 <p>And as you grow, our fortunes and futures will be connected, as two hands are joined, in friendship and respect.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

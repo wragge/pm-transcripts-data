@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17390</transcript-id>
-    <title>Prime Minister establishes Climate Change Committee</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/09/2010</release-date>
-    <release-type>Environment</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17390</transcript-id><title>Prime Minister establishes Climate Change Committee</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/09/2010</field_date><release-type>Environment</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard has today announced the membership and terms of reference for the new Multi-Party Climate Change Committee to help build consensus on how Australia will tackle Climate Change.</p>
 <p>The Multi-Party Climate Change Committee will explore options for the introduction of a carbon price. It will report to Cabinet, through the Minister for Climate Change and Energy Efficiency, Greg Combet, with a range of possible policy positions informed by discussions with independent experts, the public and industry.</p>
 <p>The Committee will start from the position that a carbon price is an economic reform that is required to reduce carbon pollution, to encourage investment in low emissions technologies and complement other measures including renewable energy and energy efficiency.</p>
@@ -56,6 +46,4 @@ Prime Minister Julia Gillard has today announced the membership and terms of ref
 <p>Rod Sims</p>
 <p>Rod Sims is a Director of Port Jackson Partners Limited (PJPL), Chairman of the Independent Pricing and Regulatory Tribunal in NSW, and Chairman of InfraCo Asia Development Limited which is based in Singapore. He is also a Commissioner with the National Competition Council, and a Director of Ingeus Limited. His previous roles include Principal Economic Adviser to Australia's Prime Minister from 1988-90, Deputy Secretary responsible for all domestic policy in the Commonwealth Department of Prime Minister and Cabinet from 1990-93, and Chairman of the Rail Infrastructure Corporation and State Rail Authority in NSW from 1996-2003. He was also a member of the 2002 COAG Energy Market Review.</p>
 <p>With PJPL Rod has for over 16 years advised leading Australian companies on issues to do with corporate strategy and governance. Rod has in recent years also advised the Business Council of Australia (BCA) on appropriate policies to deal with the greenhouse challenge and infrastructure policy. In relation to the former he has advised the Business Council of Australia on Emissions Trading Scheme (ETS) design and on the implications for specific companies of particular ETS design issues.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

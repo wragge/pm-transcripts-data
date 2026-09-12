@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21737</transcript-id>
-    <title>Visit to Australia by Her Majesty the Queen and His Royal Highness the Duke of Edinburgh  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/05/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Her Majesty The Queen and His Royal Highness The Duke of Edinburgh will visit Australia in March next year.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21737</transcript-id><title>Visit to Australia by Her Majesty the Queen and His Royal Highness the Duke of Edinburgh  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/05/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Her Majesty The Queen and His Royal Highness The Duke of Edinburgh will visit Australia in March next year.</p>
 <p>  The main focus of the visit will be the Commonwealth Games in Melbourne, where it is planned that Her Majesty will attend the Opening Ceremony on the evening of Wednesday 15 March.  Her Majesty has indicated that she would be delighted to accept our invitation to officially open the Games.</p>
 <p>Further details of the visit will be released closer to the time.</p>
 <p>I know that all Australians will welcome Her Majesty and His Royal Highness with the warmth for which they are renowned.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

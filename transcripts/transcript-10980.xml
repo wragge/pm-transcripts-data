@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10980</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 INTERVIEW WITH JEREMY CORDEAUX, RADIO 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/04/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10980</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 INTERVIEW WITH JEREMY CORDEAUX, RADIO 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/04/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>CORDEAUX:</p>
 <p>...The Prime Minister of Australia and we welcome you sir?</p>
 <p>PRIME MINISTER:</p>
@@ -353,6 +343,4 @@
 <p>Prime Minister, I've just got about 45 seconds left, a lot of</p>
 <p> people, some people are screaming for you to ban Lolita. Did you see</p>
 <p> t</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

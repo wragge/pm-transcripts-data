@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20873</transcript-id>
-    <title>Interview with Paul Bongiorno Meet the Press </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BONGIORNO:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20873</transcript-id><title>Interview with Paul Bongiorno Meet the Press </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BONGIORNO:</p>
 <p> Hello and welcome to this special edition of Meet the Press coming from Brisbane International Airport, where the Prime Minister is stopping over from his few days at the South Pacific Forum in Auckland on his way to Beijing, where he'll have his first meeting with the new Chinese President. Today John Howard meets the press. Welcome back, Prime Minister.</p>
 <p> PRIME MINISTER:</p>
 <p>  Thanks, a very brief back.</p>
@@ -146,6 +136,4 @@
 <p> BONGIORNO:</p>
 <p> Prime Minister, thanks very much for joining us today. I wish you a safe return from China. And that's it for Meet the Press. Until next week, it's goodbye from Meet the Press.</p>
 <p> [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

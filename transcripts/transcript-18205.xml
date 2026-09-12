@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18205</transcript-id>
-    <title>Transcript of interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18205</transcript-id><title>Transcript of interview with Neil Mitchell, 3AW</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard, good morning.</p>
 <p>PM: Good morning Neil.</p>
 <p>HOST: I've got to ask you, meeting the Queen last night, did you consider curtseying?</p>
@@ -86,6 +76,4 @@ HOST: Prime Minister Julia Gillard, good morning.</p>
 <p>PM: Well, I'm telling you as well.</p>
 <p>HOST: Thank you for your time.</p>
 <p>PM: Thanks Neil, bye-bye.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

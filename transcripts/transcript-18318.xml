@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18318</transcript-id>
-    <title>Speech to South Australia Proclamation Day Ceremony, Adelaide</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/12/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18318</transcript-id><title>Speech to South Australia Proclamation Day Ceremony, Adelaide</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/12/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Can I say to the crowd assembled here  -  I love this time of year.</p>
 <p>I love it because it means I get to come home to South Australia. I get to come home and spend some time with family and friends, a very precious thing to do.</p>
 <p>But I've also made it part of my annual calendar, as I come home to South Australia, to attend here, for Proclamation Day.</p>
@@ -43,6 +33,4 @@ Can I say to the crowd assembled here  -  I love this time of year.</p>
 <p>Proud of the past and unafraid of our future.</p>
 <p>Always ready to make those founding hopes our own.</p>
 <p>Thank you for welcoming me on Proclamation Day.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

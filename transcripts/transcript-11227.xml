@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11227</transcript-id>
-    <title>Taxation Reform</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to announce that an agreement has been concluded between the Government and the Australian Democrats which will secure passage of the coalition's historic proposals to reform Australia's taxation system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11227</transcript-id><title>Taxation Reform</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to announce that an agreement has been concluded between the Government and the Australian Democrats which will secure passage of the coalition's historic proposals to reform Australia's taxation system.</p>
 <p>This agreement follows lengthy discussions between myself, the Treasurer, Senator Meg Lees, the Leader of the Australian Democrats, and Senator Andrew Murray, Democrat spokesman on economic matters.</p>
 <p>My colleagues, Senator Robert Hill and the Hon John Anderson, have also been involved in discussions at critical phases.</p>
 <p>All major elements of the original plan have been kept.</p>
@@ -28,6 +18,4 @@
 <p>It has been agreed between the Government and the Australian Democrats that we will work to secure passage of the government's legislation, with appropriate amendments, by 30 June 1999.</p>
 <p>When that occurs, Australia will have a new tax system for a new century.</p>
 <p> 28 May 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

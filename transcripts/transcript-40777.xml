@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40777</transcript-id>
-    <title>Speech at the luncheon in honour of His Excellency Benjamin Netanyahu, Prime Minister of the State of Israel</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/02/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>What a wonderful occasion. What a historic occasion. Prime Minister, welcome.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40777</transcript-id><title>Speech at the luncheon in honour of His Excellency Benjamin Netanyahu, Prime Minister of the State of Israel</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/02/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>What a wonderful occasion. What a historic occasion. Prime Minister, welcome.</p>
 <p>Shalom Chaverim.</p>
 <p>This demonstrates the deep friendship between our two countries.</p>
 <p>And we have among us so many leading Australians, and you have brought a delegation of your colleagues from the Government of the State of Israel and business leaders but I want to particularly acknowledge former Prime Minister John Howard, Leader of the Opposition Bill Shorten, many state and federal ministerial and parliamentary colleagues, the Australian Ambassador to Israel Dave Sharma, Israel’s Ambassador to Australian Shmuel Ben-Shmuel – welcome all.</p>
@@ -55,7 +45,7 @@
 <p>Australian venture capital firm Square Peg Capital set up an office in Israel in late 2015, to lead a $60 million investment round into Tel Aviv-based Fiverr, a global online marketplace.</p>
 <p>And we’ve already, Bibi and I, have already spoken to a number of Australian business leaders who are investing in Israel and who are bringing Israeli partners to invest here.</p>
 <p>Many Israeli companies are playing an increasing role in our technology ecosystem.</p>
-<p>Checkpoint—inventors of the firewall. </p>
+<p>Checkpoint—inventors of the firewall.&nbsp;</p>
 <p>Business intelligence specialists, Verint.</p>
 <p>And of course, with water, one of my great passions, Netafim, who pioneered drip irrigation.</p>
 <p>Solar hot water company, Chromagen and water conservation and management experts, Takadu.</p>
@@ -74,6 +64,4 @@
 <p>And I will add just one final word from the 122nd Psalm - Pray for the peace of Jerusalem: “May those who love you be secure. May there be peace within your walls and security within your citadels.”</p>
 <p>Thank you</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

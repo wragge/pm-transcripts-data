@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22886</transcript-id>
-    <title>Radio Interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/09/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ubjects: sports funding; Olympic Games; reconciliation; Australian dollar; Conrad Kalejs; petrol prices; school funding; former President Suharto; Australian citizenship; New Zealand’s commitment in East Timor; MRI investigation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22886</transcript-id><title>Radio Interview with Neil Mitchell, 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/09/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ubjects: sports funding; Olympic Games; reconciliation; Australian dollar; Conrad Kalejs; petrol prices; school funding; former President Suharto; Australian citizenship; New Zealand’s commitment in East Timor; MRI investigation.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MITCHELL:</p>
 <p>On the line first is the national cheerleader, the Prime Minister, Mr Howard, good morning.</p>
@@ -225,6 +215,4 @@
 <p>MITCHELL:</p>
 <p>Thank you Prime Minister.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

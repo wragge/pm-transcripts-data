@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>30438</transcript-id>
-    <title>Television Interview with Steve Liebmann, The Today Show</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>East Timor</subjects>
-    <content><![CDATA[<p>16 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>30438</transcript-id><title>Television Interview with Steve Liebmann, The Today Show</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>East Timor</subjects><content><![CDATA[<p>16 September 1999</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p><i>SUBJECTS: East Timor</i></p>
 <p><b>JOURNALIST:</b></p>
@@ -85,6 +75,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Pleasure.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

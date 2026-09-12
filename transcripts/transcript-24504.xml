@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24504</transcript-id>
-    <title>Delivering the infrastructure Victoria needs </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>29/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will commit $150 million to complete the M80 Ring Road upgrade between Sunshine Avenue and the Calder Freeway.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24504</transcript-id><title>Delivering the infrastructure Victoria needs </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>29/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will commit $150 million to complete the M80 Ring Road upgrade between Sunshine Avenue and the Calder Freeway.</p>
 <p>This project will deliver a fully upgraded M80 between the Western Highway and Sydney Road – and will create around 1,000 jobs.</p>
 <p>This M80 Ring Road project is shovel-ready, it is endorsed by Infrastructure Australia, and it is essential to the future operation and linkage to the proposed Western Distributor project – or the East West Link.</p>
 <p>A third lane in each direction will be built to improve traffic flows. Improvements will also include new overhead electronic lane signals, variable speed limit signs, CCTV cameras and upgrades to communication networks and central control systems.</p>
@@ -22,6 +12,4 @@
 <p>We look forward to working with the Victorian Government to deliver a consistent pipeline of infrastructure that Victorian commuters desperately want and need.</p>
 <p>
 29 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

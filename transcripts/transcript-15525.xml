@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15525</transcript-id>
-    <title>Australia to Lead the World:  Global Initiative on Forests and Climate</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/03/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Joint Press Release  The Hon. John Howard MP, Prime Minister of Australia  The Hon. Alexander Downer MP, Minister for Foreign Affairs  The Hon. Malcolm Turnbull MP, Minister for the Environment and Water Resources</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15525</transcript-id><title>Australia to Lead the World:  Global Initiative on Forests and Climate</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/03/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Joint Press Release  The Hon. John Howard MP, Prime Minister of Australia  The Hon. Alexander Downer MP, Minister for Foreign Affairs  The Hon. Malcolm Turnbull MP, Minister for the Environment and Water Resources</p>
 <p>Today the Australian Government launched a Global Initiative on Forests and Climate. This represents a material advance in the global effort to tackle climate change and protect the world's forests.</p>
 <p>The Australian Government has committed $200 million to kickstart this world leading initiative that will reduce significantly global greenhouse gas emissions.  </p>
 <p>Almost 20 per cent of global greenhouse gas emissions come from clearing the world's forests - second only to emissions from burning fossil fuels to produce electricity, and more than all of the world's emissions from transport.</p>
@@ -17,6 +7,4 @@
 <p>If the world could halve the rate of global deforestation we could reduce greenhouse gas emissions by three billion tonnes a year - more than five times Australia's total annual emissions and about ten times the emissions reductions that will be achieved during the first commitment period of the Kyoto Protocol.</p>
 <p>Reducing deforestation, planting new forests, and investing in sustainable forest management practice are among the best ways to reduce global emissions now.  </p>
 <p>Working with both developed and developing countries the Australian Government's $200 million investment will:</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

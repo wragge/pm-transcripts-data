@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17595</transcript-id>
-    <title>Transcript of interview with Karl Stefanovic, Today </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17595</transcript-id><title>Transcript of interview with Karl Stefanovic, Today </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 STEFANOVIC: PM, good morning to you.</p>
 <p>PM: Good morning Karl.</p>
 <p>STEFANOVIC: Tough morning isn't it?</p>
@@ -38,6 +28,4 @@ STEFANOVIC: PM, good morning to you.</p>
 <p>At the same time Ipswich, Brisbane, people are preparing for these flood waters, there are evacuation centres, there is the access to the emergency payments and I just think from a human point of view we'd be saying to everybody keep calm, we're going to get through this but maybe go check on your neighbours, just make sure everybody is OK, maybe there's the old lady down the end of the street and you haven't seen her for a while, just go and check, make sure people are doing it OK.</p>
 <p>STEFANOVIC: Good advice on any day of the week in fact, but particularly poignant now. Prime Minister thank you very much, we'll let you go I know you've got a busy day ahead too.</p>
 <p>PM: Thanks for the opportunity Karl.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

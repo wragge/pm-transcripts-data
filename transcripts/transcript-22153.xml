@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22153</transcript-id>
-    <title>Interview with Richard Pullin Reuters Television </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/03/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22153</transcript-id><title>Interview with Richard Pullin Reuters Television </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/03/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Foreign policy has played a key role in your 10 years in office. Do you believe Australia is now more confident about its place in the world?</p>
 <p> PRIME MINISTER:</p>
 <p> Yes, I think most Australians were always confident about our place in the world, we went through a period of having a perpetual seminar about our identity and whether we were European or Western or Asian or whatever; we've always been identifiably Australian. What I've tried to do has been in no way to downgrade our relations with Asia, rather to further improve them, but to bring back into proper perspective, our relations with the United States, Britain, other European countries, because Australia is in every sense of the word a citizen of the world and it's very important that we remember that.</p>
@@ -86,6 +76,4 @@
 <p> PRIME MINISTER:</p>
 <p> Well when I am asked that, and I am from time to time, I indicate what is the case and that is I will continue in this position for so long as my party wants me to and it's in the party's best interests that I do.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

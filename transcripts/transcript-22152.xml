@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22152</transcript-id>
-    <title>$50 Million to fund the Walter and Eliza Hall Institute of Medical Research  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/03/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Australian Government will provide $50 million for the expansion of the Walter and Eliza Hall Institute of Medical Research.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22152</transcript-id><title>$50 Million to fund the Walter and Eliza Hall Institute of Medical Research  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/03/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Australian Government will provide $50 million for the expansion of the Walter and Eliza Hall Institute of Medical Research.</p>
 <p> The funding will contribute towards a seven-storey extension of the Institute that will double the floor space available for medical research.</p>
 <p>This will allow the Institute to significantly expand its research activities, particularly in the areas of cancer and infectious diseases.</p>
 <p>   The Institute, established in 1915, is regarded as one of Australia's foremost medical research organisations.  It has an international reputation for the high quality of its basic and applied research.</p>
@@ -17,6 +7,4 @@
 <p>Since 2000, the Australian Government has provided $104 million to the Walter and Eliza Hall Institute of Medical Research through the National Medical Research Council.  Today's commitment of a further $50 million this year builds on this commitment to the Institute's outstanding work.</p>
 <p>   The Australian Government is committed to ensuring that Australia remains a world leader in health and medical research.</p>
 <p>  The Australian Government provided about $460 million in health and medical research funding in 2005 through the National Health and Medical Research Council, more than double the funding provided in 1999.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

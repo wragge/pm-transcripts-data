@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12040</transcript-id>
-    <title>Doorstop Before Departure from Brisbane </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Telstra</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12040</transcript-id><title>Doorstop Before Departure from Brisbane </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Telstra</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>What’s your reaction to Kim Beazley’s admission this afternoon?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -23,6 +13,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>It matters on the score of credibility. This is credibility, this is hypocrisy. This is somebody saying one thing and doing another. I repeat, don’t listen to what he says, remember what he did. He says he won’t sell Telstra, he now admits he was involved in a discussion about the sale of it.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19276</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/04/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Darwin</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19276</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/04/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Darwin</p>
 <p>PM: It's fantastic to be here in Darwin and I'm joined by Nova Peris, our candidate for the Senate, and by Luke Gosling our candidate for Solomon.</p>
 <p>We've just had the opportunity to talk to some wonderful kids here at this fantastic school, and thank you very much to David, the principal, for making our visit possible.</p>
 <p>I'm here in the Northern Territory today and I want to make one point very clearly, which is I want to see every child in every school in the Northern Territory get a great education.</p>
@@ -73,6 +63,4 @@
 <p>JOURNALIST: On education, how close do you think you are to reaching an agreement with the Northern Territory Government?</p>
 <p>PM: I've made clear my determination here, so I'll take that determination with me to the next event that we've got to attend.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

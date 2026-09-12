@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10514</transcript-id>
-    <title>Radio Interview with Matt Peacock , AM Programme, ABC Radio</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/10/1997</release-date>
-    <release-type>Interview</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010514.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>6 October 1997</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10514</transcript-id><title>Radio Interview with Matt Peacock , AM Programme, ABC Radio</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/10/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010514.pdf</document><subjects></subjects><content><![CDATA[<p><strong>6 October 1997</strong></p>
 <p>E&amp;OE..........................................................................................................................</p>
 <p><b>PEACOCK:</b></p>
 <p>Mr Howard I’d like to discuss the new Ministry, in a minute, but you, like everybody else, I guess, would still be a little shell shocked by the events of the last fortnight, are you?</p>
@@ -110,6 +100,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>It’s a pleasure.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

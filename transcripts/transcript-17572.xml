@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17572</transcript-id>
-    <title>Transcript of interview with Cameron Williams &amp; Alicia Gorey Today Show </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17572</transcript-id><title><![CDATA[Transcript of interview with Cameron Williams &amp; Alicia Gorey Today Show ]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 GOREY: Prime Minister, we've of course been speaking about the devastating floods in Queensland this morning and a lot of that water is of course on the way to Northern New South Wales and your government has got another funding package to announce we understand?</p>
 <p>PM: That's right and I know we're having a lot of fun here today, but people's thoughts I think will also be on those who are battling flood waters. We know Queensland's doing it tough, but so are other parts of the country and here in New South Wales. We've got communities that are recovering from floods, so with the New South Wales Government, the Federal Government has today announced grants of up to $15,000 to help out small businesses and our primary producers recover.</p>
 <p>WILLIAMS: All right Julia, who is eligible for those Category C grants?</p>
@@ -26,6 +16,4 @@ GOREY: Prime Minister, we've of course been speaking about the devastating flood
 <p>WILLIAMS: Yes, that's so true.</p>
 <p>GOREY: Enjoy the day Prime Minister.</p>
 <p>PM: Thank you very much </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

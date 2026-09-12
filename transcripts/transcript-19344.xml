@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19344</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Darwin</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19344</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Darwin</p>
 <p>JOURNALIST: So are you aware of the latest breakout of 18 Vietnamese asylum seekers from the Northam Immigration Detention Centre?</p>
 <p>PM: Yes I am, I've been briefed by the Minister for Immigration and the Department is making inquiries of Serco, the company that runs the detention centre, about this incident.</p>
 <p>JOURNALIST: Does it concern you to hear?</p>
@@ -26,6 +16,4 @@
 <p>We properly detain people, there's no excuse for poor conduct, never any excuse for poor conduct.</p>
 <p>JOURNALIST: Do you think the border protection needs to be beefed up in the Territory given we are getting more boats?</p>
 <p>PM: We deal with all of this; as you know I answer these questions a lot, and as you would be aware we received a very expert report and we've been stopped from implementing all of its recommendations because of the negativity of the Opposition.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

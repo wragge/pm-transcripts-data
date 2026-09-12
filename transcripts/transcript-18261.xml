@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18261</transcript-id>
-    <title>Address to the Business Council of Australia Annual Dinner, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/11/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18261</transcript-id><title>Address to the Business Council of Australia Annual Dinner, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/11/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Our economy is not perfect  -  there's pressure on many sectors from the strong dollar and pressure arising because of cautious consumers and competition from overseas.</p>
 <p>But believe me, the leaders who I sat with at the G20 table last weekend would dearly like to swap these challenges for their own.  And many would view an unemployment rate of 5.2 per cent as a distant dream.</p>
 <p>This meeting of the G20 came at a very important time for the international economy, especially for Europe.</p>
@@ -130,6 +120,4 @@ Our economy is not perfect  -  there's pressure on many sectors from the strong 
 <p>Turning a mining investment boom into an opportunity boom.</p>
 <p>Great opportunities are there for us when we work together well.</p>
 <p>My Government will do its part to be sure we do that. I'm sure you will too. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

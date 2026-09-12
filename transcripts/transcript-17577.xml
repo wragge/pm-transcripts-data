@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17577</transcript-id>
-    <title>Helping Australian families with Back-to-School expenses</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/01/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17577</transcript-id><title>Helping Australian families with Back-to-School expenses</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/01/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 As kids prepare to head back to school, the Gillard Labor Government is encouraging an estimated 1.3 million Australian families to take advantage of the Education Tax Refund to help parents with the pressure of back-to-school costs.</p>
 <p>Eligible families can claim refunds on a range of back to school items including computer equipment and textbooks.</p>
 <p>The beginning of the school year can be tough for parents facing education costs, but the Education Tax Refund means eligible parents know they will receive a refund for half of claimable expenses come tax time.</p>
@@ -22,6 +12,4 @@ As kids prepare to head back to school, the Gillard Labor Government is encourag
 <p>An education campaign starting this weekend will ensure eligible families know what and how much can be claimed and remind parents to hang on to their receipts.</p>
 <p>The information campaign will reach eligible families through TV, print, radio and online.</p>
 <p>For more information visit <a href="http://www.australia.gov.au/educationtaxrefund">www.australia.gov.au/educationtaxrefund</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16864</transcript-id>
-    <title>Seven new locations to receive superfast broadband in Tasmania    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/10/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Seven new regional, urban and outer urban locations across Tasmania will receive superfast optical fibre broadband connections with speeds of 100 megabits per second under Stage 2 of the National Broadband Network rollout in Tasmania.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16864</transcript-id><title>Seven new locations to receive superfast broadband in Tasmania    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/10/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Seven new regional, urban and outer urban locations across Tasmania will receive superfast optical fibre broadband connections with speeds of 100 megabits per second under Stage 2 of the National Broadband Network rollout in Tasmania.</p>
 <p>The seven locations are:</p>
 <p>- Sorell</p>
 <p>- Deloraine</p>
@@ -24,6 +14,4 @@
 <p>In partnership, the State and Federal Governments are connecting the homes, businesses and schools of the island state to the digital economy and the world, which will foster the creation of new industries and clever jobs.</p>
 <p>In July 2009, the communities of Smithton, Midway Point and Scottsdale were announced for Stage 1 NBN rollout in Tasmania. Construction works for Stage 1 are underway and the first services are expected to be available mid 2010.</p>
 <p>The NBN in Tasmania will connect 200,000 Tasmanian premises to speeds of 100 megabits per second. The remainder of the state will be served by next generation wireless and satellite networks offering minimum speeds of 12 megabits per second.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

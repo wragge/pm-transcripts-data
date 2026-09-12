@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19281</transcript-id>
-    <title>Address To Per Capita Reform Agenda Series</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/04/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19281</transcript-id><title>Address To Per Capita Reform Agenda Series</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/04/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>It's a great sign of the growing recognition of Per Capita's work that your Executive Director David has been in such good company at the international Policy Network's Progressive Governance and Global Progress conference in Denmark.</p>
 <p>Congratulations to you on the fine contribution Per Capita is making in the world of ideas.</p>
@@ -22,8 +12,8 @@
 <p>The Budget will outline the fiscal path for the coming four years, one designed both to take account of the nation's current circumstances and to shape the nation's future.</p>
 <p>Our key long term objective, the progressive purpose of this Government's fiscal policy is enduring. </p>
 <p>It is:</p>
-<p> * 	to maximise jobs and economic growth;<br />
- * 	to ensure sustainable funding over the long-term for the investments that strengthen our economy and the services our whole community relies on; and<br />
+<p> * 	to maximise jobs and economic growth;<br>
+ * 	to ensure sustainable funding over the long-term for the investments that strengthen our economy and the services our whole community relies on; and<br>
  * 	to keep inflation in check and give the Reserve Bank maximum opportunity to keep interest rates low.</p>
 <p>The Government's medium-term fiscal strategy  -  to deliver fiscal surpluses on average over the economic cycle  -  is designed to give effect to this purpose in practice.</p>
 <p>It commits us to support jobs and economic growth when private sector demand is weak.</p>
@@ -182,6 +172,4 @@
 <p>We govern for all Australians, we govern to strengthen the economy and to spread the benefits to all.</p>
 <p>Those values illuminate modern Labor every day we govern. </p>
 <p>I thank you for the opportunity to discuss them with you today.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

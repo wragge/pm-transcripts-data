@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21177</transcript-id>
-    <title>Interview with Ray Hadley Radio 2GB, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/03/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HADLEY:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21177</transcript-id><title>Interview with Ray Hadley Radio 2GB, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/03/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HADLEY:</p>
 <p>My next guest is fairly frustrated, he's in the studio in Canberra with no access to Pay TV so he's got to rely upon me. I'm pleased to say the Prime Minister is there to talk to us about a range of issues but most importantly Prime Minister, Adam Scott with his shot to the 18th green to take victory in The Players' Championship.  Good morning to you.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning, has he wedged it up to the green?</p>
@@ -82,6 +72,4 @@
 <p> PRIME MINISTER:</p>
 <p>Okay.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21935</transcript-id>
-    <title>Government Support for the Biofuels Industry  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/09/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to release the report of the Biofuels Taskforce.  I commissioned the Taskforce in May of this year to examine the latest evidence on the impacts and benefits of ethanol and other biofuels.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21935</transcript-id><title>Government Support for the Biofuels Industry  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/09/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to release the report of the Biofuels Taskforce.  I commissioned the Taskforce in May of this year to examine the latest evidence on the impacts and benefits of ethanol and other biofuels.</p>
 <p>  The Taskforce found that:</p>
 <p>  there are potentially significantly greater health benefits from ethanol use than previously thought; and</p>
 <p> greenhouse and regional benefits are similar to previous research undertaken; but that</p>
@@ -35,6 +25,4 @@
 <p>   The package I announce today is in addition to the Australian Government's existing significant support of biofuels, which includes a generous 50% excise concession for alternative fuels, a $37.6 million capital fund to support new biofuels production capacity and a total of $41.2 million in production grants to fuel ethanol producers, demonstrating the Government's firm commitment to the development of a viable Australian biofuels industry.</p>
 <p> I would like to thank the Taskforce, Dr Conall O'Connell, Dr David Brockway, Dr John Keniry, and Mr Max Gillard for their report.</p>
 <p>A copy of the report can be downloaded from:  <a href="http://www.dpmc.gov.au/biofuels/final_report.cfm">http://www.dpmc.gov.au/biofuels/final_report.cfm</a>   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

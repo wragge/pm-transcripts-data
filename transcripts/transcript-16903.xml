@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16903</transcript-id>
-    <title>$144 million social housing investment for the Gold Coast    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister today announced that the Gold Coast has received approval for 543 new homes worth $144 million under Stage Two of the Nation Building Economic Stimulus Plan Social Housing Initiative.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16903</transcript-id><title>$144 million social housing investment for the Gold Coast    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister today announced that the Gold Coast has received approval for 543 new homes worth $144 million under Stage Two of the Nation Building Economic Stimulus Plan Social Housing Initiative.</p>
 <p>This brings the total number of new social housing dwellings on the Gold Coast to 571 homes, worth $152 million, following the announcement of Stage One projects earlier this year.</p>
 <p>The 28 new homes under Stage One have started construction and are expected to be completed by the end of 2009.</p>
 <p>The Prime Minister made the announcement during his address to the Master Builders' Australia annual national conference at the Gold Coast.</p>
@@ -18,6 +8,4 @@
 <p>For Queensland, the Social Housing Initiative involves 4,038 new properties at a cost of $1.085 billion.</p>
 <p>The stimulus plan also includes a $5 million investment in maintenance and repair work for 1,217 homes on the Gold Coast. Renovation and repainting jobs increase the quality of the housing stock and lengthen its life.</p>
 <p>Locations, numbers of dwellings and funding under the Social Housing Initiative are current and are subject to variations during the tender process.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

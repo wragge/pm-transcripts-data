@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40675</transcript-id>
-    <title>Prime Minister’s 2016 Christmas Message</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/12/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40675</transcript-id><title>Prime Minister’s 2016 Christmas Message</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/12/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Christmas is a time of love.</p>
 <p>The embrace of our family, old friendships refound, the delight of children, the mystery and joy of the divine - surely this is a wondrous time of year.</p>
 <p>Christians celebrate the birth of Jesus - and his message of unconditional love and sacrifice.</p>
@@ -25,7 +15,5 @@
 <p>From Lucy and me, and our family, to you and yours, we wish you a very Merry Christmas and a relaxing and safe holiday.</p>
 <p>And may 2017 be filled with peace, happiness and love.</p>
 <p><strong>[ENDS]</strong></p>
-<p>Video of the Prime Minister’s 2016 Christmas Message</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>Video of the&nbsp;Prime Minister’s 2016 Christmas Message</p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41720</transcript-id>
-    <title>Radio Interview, Triple M Grill Team</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>06/08/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRESENTER: </strong>Welcome to the Grill Team, Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41720</transcript-id><title>Radio Interview, Triple M Grill Team</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>06/08/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRESENTER: </strong>Welcome to the Grill Team, Prime Minister.</p>
 <p><strong>PRIME MINISTER: </strong>Yeah, thank you very much. Great to be with you.</p>
 <p><strong>PRESENTER: </strong>Now farmers have been calling out for help for months now. Do you feel that you've been sort of quick enough to give them what they need?</p>
 <p><strong>PRIME MINISTER: </strong>Well absolutely we've been on top of this, really from the outset. I'm very keenly aware of the drought. It's a developing situation, I was out in central western New South Wales and western Queensland in early June we extended the Farm Household Allowance which is the equivalent of Newstart financially but it's more farm households who are obviously struggling to pay the bills because of the drought and we extended that from three years to four years.</p>
@@ -31,7 +21,7 @@
 <p><strong>PRESENTER: </strong>Mr Turnbull before we let you go, I must ask you this, I'm curious. Have you ever heard of a man called Lawrence Mooney?</p>
 <p><strong>PRIME MINISTER: </strong>Oh, yes I have, he's the impersonator. I've not met him.</p>
 <p><strong>PRESENTER: </strong>What do you think?</p>
-<p><strong>PRIME MINISTER: </strong> Well I guess I'm a hard one to judge. I don't think it's a great impersonation, but obviously others do otherwise he wouldn’t get a gig anywhere.</p>
+<p><strong>PRIME MINISTER: </strong>&nbsp;Well I guess I'm a hard one to judge. I don't think it's a great impersonation, but obviously others do otherwise he wouldn’t get a gig anywhere.</p>
 <p><strong>PRESENTER: </strong>I'd like to compare, I mean could you say "Point Piper" just to compare how he does it?</p>
 <p><strong>PRIME MINISTER: </strong>Point Piper is how I would say it.</p>
 <p><strong>PRESENTER: </strong>It's not bad.</p>
@@ -46,6 +36,4 @@
 <p><strong>PRESENTER: </strong>Well, Mr Turnbull thank you so much for your time, you're doing great stuff out there. Please let all the farmers know that we're thinking of them, we're doing as much as we can here at Triple M and just look after them and give them a cuddle. They need a bit of kindness face to face, and that connection, eye contact I think is important too for our own mental health.</p>
 <p><strong>PRIME MINISTER: </strong>It is. I’ve got to say, you're right. I’ve got to say the love and support that is being provided by people in the city to farmers doing it tough is so appreciated. I want to thank all your listeners for their generosity. It is a very, very harsh and capricious climate we have in Australia. We are the land of droughts and flooding rains and our farmers manage that but sometimes you get these especially bad droughts and that's when they need special additional help.</p>
 <p><strong>PRESENTER: </strong>Well, we appreciate your time this morning Prime Minister Malcolm Turnbull. Thank you very much for coming on the Grill Team.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

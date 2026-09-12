@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24043</transcript-id>
-    <title>A strong and sustainable Medicare</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/12/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The $7 Medicare co-payment measure announced in the 2014-15 Budget will no longer proceed.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24043</transcript-id><title>A strong and sustainable Medicare</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/12/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The $7 Medicare co-payment measure announced in the 2014-15 Budget will no longer proceed.</p>
 <p>The Government will instead implement a package of measures that will strengthen Medicare and help make it sustainable, ensuring Australians will continue to have access to affordable, world-class health care.</p>
 <p>The Government has listened to the views of the community.</p>
 <p>This new package ensures the Government can make Medicare sustainable, improve the quality of care for patients and continue its repair of the Budget.</p>
@@ -34,6 +24,4 @@
 <p>These changes will contribute more than $3 billion to the Medical Research Future Fund which will fund the research needed to find cures to the health problems of today.</p>
 <p>In six years the returns from the MRFF will provide a billion dollars to be invested in medical research annually – doubling our national funding commitments to researchers.</p>
 <p>9 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17797</transcript-id>
-    <title>Transcript of doorstop interview, Tokyo</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/04/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17797</transcript-id><title>Transcript of doorstop interview, Tokyo</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/04/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Well, I'm pleased to be here in Japan. This is the first leg of a visit to North Asia. On this visit I will be in Japan, in South Korea and then in China.</p>
 <p>These are some of our most important bilateral relationships. We look at these three countries  -  China, Japan, and South Korea  -  and they are our three top export destinations. Indeed, in total, more than 50 per cent of Australian exports go to these three countries, so on the visits to these three nations in North Asia I will of course be talking about our economic relationships; about our economic relationships for trade and for freer trade.</p>
 <p>With these three countries, too, we participate in the G20. The G20 has done a lot of good work fostering economic growth following the global financial crisis, and I will, in each country, be speaking about the outlook for the G20 meeting later this year.</p>
@@ -37,6 +27,4 @@ PM: Well, I'm pleased to be here in Japan. This is the first leg of a visit to N
 <p>Of course, this visit has taken on a new and particular significance, coming as it now does after Japan has had to face this tremendous natural disaster.</p>
 <p>Thank you very much.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

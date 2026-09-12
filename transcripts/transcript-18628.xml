@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18628</transcript-id>
-    <title>States receive first rewards payment for productivity enhancing reforms</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/06/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18628</transcript-id><title>States receive first rewards payment for productivity enhancing reforms</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/06/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Federal Government has paid $200 million to the states and territories in recognition of the 15 Seamless National Economy reforms which have been assessed as completed by the COAG Reform Council.</p>
 <p>The 2011-12 reward payment recognises the 15 completed reforms up to the end of 2011, including the delivery of a national consumer law, standard business reporting, consumer credit reforms and a national health professionals registration and accreditation scheme, and provides an incentive to the states and territories to complete the remaining reforms in line with COAG agreed outcomes and timeframes.</p>
 <p>These reforms are a key element of the Government's competitiveness and productivity agenda, which will help drive investment, jobs, innovation and growth in Australia's economy.</p>
@@ -29,6 +19,4 @@ The Federal Government has paid $200 million to the states and territories in re
 <p>TAS                            $4.533 million</p>
 <p>VIC                             $49.554 million</p>
 <p>WA                              $20.683 million</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18583</transcript-id>
-    <title>Transcript of joint doorstop interview, Darwin</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/05/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18583</transcript-id><title>Transcript of joint doorstop interview, Darwin</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/05/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: It's great to be here today in the Northern Territory. I'm joined by Chief Minister Paul Henderson. And we're here for an incredibly important event, for the Northern Territory and for our nation.</p>
 <p>Today we have turned the first sod, broken the ground for the Inpex Project. $34 billion of project right here in the Northern Territory, making sure that the LNG here can be mined for the next 40 years.</p>
 <p>This is fantastic news for the Northern Territory. It's about jobs, not only in construction but jobs over the next 40 years, and it's fantastic news for our nation. It's part of the resources boom which is changing the Australian economy.</p>
@@ -77,6 +67,4 @@ PM: It's great to be here today in the Northern Territory. I'm joined by Chief M
 <p>JOURNALIST: Just quickly, should Bob Carr have refrained from making comments about James Ashby. </p>
 <p>PM: The matter is actually before the Federal Court today so I'm not making any comments on it.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

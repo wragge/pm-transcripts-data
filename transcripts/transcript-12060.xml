@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12060</transcript-id>
-    <title>Radio Interview with Alexandra Kirk, AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/02/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Petrol prices, roads funding, One Nation, economy</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12060</transcript-id><title>Radio Interview with Alexandra Kirk, AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/02/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Petrol prices, roads funding, One Nation, economy</p>
 <p>E&amp;OE................................</p>
 <p>KIRK:</p>
 <p>Prime Minister, your MPs have spent the last couple of months in their electorates. You ventured into regional New South Wales and Victoria last week. Do you accept that despite your best efforts voters are still demanding you take action to knock off last week's automatic excise increase on petrol?</p>
@@ -81,6 +71,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

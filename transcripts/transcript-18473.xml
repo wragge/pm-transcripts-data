@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18473</transcript-id>
-    <title>Joint statement with the President of Gabon</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18473</transcript-id><title>Joint statement with the President of Gabon</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Gillard today warmly welcomed President Bongo and his delegation to Australia.</p>
 <p>Leaders agreed that the visit, the first by a President of Gabon, was a clear sign of the growing friendship between the two countries and reflected the growth of opportunities, political and commercial, in the bilateral relationship.</p>
 <p>They welcomed growing bilateral contact, including recent visits to Gabon by the Prime Minister's Special Envoy and to Australia by Gabon's Permanent Representative to the United Nations.</p>
@@ -26,6 +16,4 @@ Prime Minister Gillard today warmly welcomed President Bongo and his delegation 
 <p>Leaders discussed a range of common security challenges, including piracy in the Indian Ocean and Gulf of Guinea and the situation in Somalia.</p>
 <p>President Bongo acknowledged the valuable contribution Australia was making to address peace and security issues in Africa and welcomed Australia's increased engagement in Africa more broadly.</p>
 <p>Prime Minister Gillard and President Bongo agreed to take further steps to strengthen the bilateral relationship, including increased consultations and contact between Ministers and officials on bilateral issues and issues of international interest. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

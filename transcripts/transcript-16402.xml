@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16402</transcript-id>
-    <title>North Queensland Floods    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/02/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Flooding in North Queensland continues to overwhelm communities such as Ingham, where more than 3,000 homes have been affected.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16402</transcript-id><title>North Queensland Floods    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/02/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Flooding in North Queensland continues to overwhelm communities such as Ingham, where more than 3,000 homes have been affected.</p>
 <p>I am committed to ensuring that the available services are delivered quickly and effectively to those Queenslanders seriously affected by these floods.</p>
 <p>I have today asked Craig Emerson, the Minister for Small Business, Independent Contractors and the Service Economy to travel to North Queensland to oversee the delivery of Commonwealth support to people who have suffered as a result of widespread flooding in the region.</p>
 <p>Mr Emerson will work from North Queensland to make sure help gets to those in need as quickly as possible.</p>
@@ -23,6 +13,4 @@
 <p>I have also asked Mr Emerson to continue to work closely with the Queensland Government to ensure any additional requests for help receive a timely response.</p>
 <p>The Commonwealth Government through Emergency Management Australia continues to monitor conditions across North Queensland closely.</p>
 <p>More information on Australian Government assistance will be available at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a> </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15740</transcript-id>
-    <title>Joint Media Release with the  Deputy Prime Minister, First Steps towards a National Curriculum  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/01/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and Minister for Education, today announced the appointment of Professor Barry McGaw as Chair of the government's new National Curriculum Board.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15740</transcript-id><title>Joint Media Release with the  Deputy Prime Minister, First Steps towards a National Curriculum  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/01/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and Minister for Education, today announced the appointment of Professor Barry McGaw as Chair of the government's new National Curriculum Board.</p>
 <p>The Board will be established by 1 January 2009, and will oversee the development of a world-class curriculum for all Australian students from kindergarten to Year 12, starting with the key learning areas of English, mathematics, the sciences and history.</p>
 <p>There has been a longstanding need for a single, high quality national curriculum in Australia. The Rudd Government is today acting on this need.</p>
 <p>Australia currently has 34 separate organisations contributing to the development of curricula and more than 18 different senior History and English courses.</p>
@@ -30,6 +20,4 @@
 <p>Professor McGaw has expressed his enthusiasm at the opportunity to work collaboratively with the education community to ensure all young Australians are equipped with the essential skills, knowledge and capabilities to thrive and compete in a globalised world.</p>
 <p>Canberra</p>
 <p>Contact: 02 6277 7744 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

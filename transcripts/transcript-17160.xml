@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17160</transcript-id>
-    <title>Prime Minister Minister for Climate Change, Energy Efficiency and Water Minister for Resources and Energy Prime Minister appoints energy efficiency advisory group 30 March 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Nine industry and non-government sector experts have today been announced as advisers to the Prime Minister's Task Group on Energy Efficiency.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17160</transcript-id><title>Prime Minister Minister for Climate Change, Energy Efficiency and Water Minister for Resources and Energy Prime Minister appoints energy efficiency advisory group 30 March 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Nine industry and non-government sector experts have today been announced as advisers to the Prime Minister's Task Group on Energy Efficiency.</p>
 <p>Energy efficiency is a key plank of the Rudd Government's climate change agenda. Improvements in energy efficiency will help to reduce our emissions and move Australia to a low-carbon economy.</p>
 <p>The Task Group comprises representatives from the Department of Climate Change and Energy Efficiency, the Department of Prime Minister and Cabinet, the Treasury, and the Department of Resources, Energy and Tourism.</p>
 <p>The role of the Task Group is to:</p>
@@ -29,6 +19,4 @@
 <p>Rob Murray-Leach Energy Efficiency Council</p>
 <p>Cameron O'Reilly Energy Retailers Association of Australia</p>
 <p>Brian Spalding Australian Energy Market Commission</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

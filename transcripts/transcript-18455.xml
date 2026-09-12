@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18455</transcript-id>
-    <title>Scholarships launched in memory of Sir Zelman Cowen</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18455</transcript-id><title>Scholarships launched in memory of Sir Zelman Cowen</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Two young Australians will be given the ability to study at the top universities in the world each year, through scholarships announced in honour of Sir Zelman Cowen.</p>
 <p>Sir Zelman understood the power of education to change people's lives for the better.</p>
 <p>His own academic achievements were substantial: he completed two Honours degrees in arts and law at Melbourne University, and enjoyed a life-changing experience as a Rhodes Scholar at Oxford in the 1940s.</p>
@@ -20,6 +10,4 @@ Two young Australians will be given the ability to study at the top universities
 <p>The Government has worked with the General Sir John Monash Foundation to create the scholarships, following the death of Sir Zelman in December. The Foundation currently runs the Monash Awards for postgraduate study at non-Australian universities.</p>
 <p>The Government has made a special one-off grant of $6 million to the Foundation Endowment Fund to provide for the two Zelman Cowen scholarships in perpetuity.</p>
 <p>These scholarships will allow the nation to lastingly remember the work and life of this great Australian. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

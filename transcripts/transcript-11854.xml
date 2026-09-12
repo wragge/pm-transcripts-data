@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11854</transcript-id>
-    <title>Doorstop Interview, Alice Springs </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/07/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Aston by-election; Kim Beazley; the 'Brain Drain'; the Alice Springs to Darwin rail link.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11854</transcript-id><title>Doorstop Interview, Alice Springs </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/07/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Aston by-election; Kim Beazley; the 'Brain Drain'; the Alice Springs to Darwin rail link.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard are you prepared to declare victory in Aston?</p>
@@ -28,6 +18,4 @@
 <p>PRIME MINISTER:</p>
 <p>I'm used to protests.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

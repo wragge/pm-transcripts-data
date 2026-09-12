@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23945</transcript-id>
-    <title>A message from the Prime Minister - G20 Summit</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/11/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>This week Brisbane will host the G20 Summit.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23945</transcript-id><title>A message from the Prime Minister - G20 Summit</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/11/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>This week Brisbane will host the G20 Summit.</p>
 <p>It’s the most important meeting ever held in Australia.</p>
 <p>It won’t be a talkfest. It’s an economic summit – so it will focus on what can be done to create jobs, identify tax cheats and improve the world economy.</p>
 <p>As this year’s President of the G20, Australia has set an agenda based on three themes:</p>
@@ -26,6 +16,4 @@
 <p>It will be a big week for Brisbane with thousands of delegates and the international spotlight.</p>
 <p>It will also be a big week for Australia – and I am confident that the G20 Summit will make a real difference to the lives of people right around the world.</p>
 <p>9 November 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

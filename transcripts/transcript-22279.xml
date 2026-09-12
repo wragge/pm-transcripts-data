@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22279</transcript-id>
-    <title>Doorstop Interview Blair House, Washington </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/05/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22279</transcript-id><title>Doorstop Interview Blair House, Washington </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/05/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well I think the important thing is, about this visit, is the wide range of extensive discussions starting on Monday, that I'll have first of all with the new Chairman of the Fed and then with all the senior members of the administration-and they will be the most extensive I think I've had with the administration in all of the visits I've paid. And they'll be with the Secretary of State, the Secretary of Defense, the special trade representative and his successor, and I'll also have a formal meeting with the Cabinet after my discussion with President Bush. So it will be an unparalleled opportunity to not only touch on issues such as Iraq and Afghanistan, but also all the other aspects of the bilateral relationship.</p>
 <p>JOURNALIST:</p>
 <p>Is there anything of substance to report from your lunch tody with Vice President Cheney?</p>
@@ -81,6 +71,4 @@
 <p>Oh did he, I'm sorry to hear that, I extend my sympathy to his family. I knew that he'd been ill for a long time. He played a very significant role in relation to indigenous issues and also of course was for a long time the Director of the National Farmers Federation. I'm very sorry to hear that.</p>
 <p> Thank you.</p>
 <p>  [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

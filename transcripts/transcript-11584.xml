@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11584</transcript-id>
-    <title>Joint Statement with Premiers of NSW &amp; Vic re Corporations Agreement </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/12/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Premiers of New South Wales and Victoria, together with their Attorneys-General, today reached agreement on a compromise proposal to facilitate a referral of power by the States to the Commonwealth in relation to corporations legislation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11584</transcript-id><title><![CDATA[Joint Statement with Premiers of NSW &amp; Vic re Corporations Agreement ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/12/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Premiers of New South Wales and Victoria, together with their Attorneys-General, today reached agreement on a compromise proposal to facilitate a referral of power by the States to the Commonwealth in relation to corporations legislation.</p>
 <p>The essential elements of the agreement are:</p>
 <p>? The objects clause in the State referral legislation will include a provision to the effect that the referred powers are not to be used for the purpose of the Commonwealth regulating industrial relations.</p>
 <p>? The Corporations Agreement will specifically prohibit the use of the referred powers for the purposes of regulating industrial relations, the environment or any other matter unanimously agreed on by the parties to the agreement as a prohibited matter.</p>
@@ -17,6 +7,4 @@
 <p>? The Corporations Agreement will provide that if four States vote to terminate the amendment reference (that is reference of the matter of amending the corporations legislation) all States will terminate the amendment reference.</p>
 <p>? The new Corporations Act will provide that if any State individually terminates the amendment reference, it will cease to be part of the new scheme.</p>
 <p>21 December 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

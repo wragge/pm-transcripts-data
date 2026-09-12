@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11910</transcript-id>
-    <title>Radio Interview with Neil Mitchell, 3AW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: gambling; Ansett and CASA; tax minimisation schemes; petrol prices; beer excise; Shell-Woodside; Governor General; reduction in US interest rates; Kyoto treaty; seizing assets of criminals; Australian Democrats.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11910</transcript-id><title>Radio Interview with Neil Mitchell, 3AW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: gambling; Ansett and CASA; tax minimisation schemes; petrol prices; beer excise; Shell-Woodside; Governor General; reduction in US interest rates; Kyoto treaty; seizing assets of criminals; Australian Democrats.</p>
 <p>E&amp;OE................................</p>
 <p>MITCHELL:</p>
 <p>And in the Canberra studio is the Prime Minister. Mr Howard good morning.</p>
@@ -18,7 +8,7 @@
 <p>MITCHELL:</p>
 <p>Well thanks for your time. There's a meeting today of state and federal officials on the issue of gambling. Do you support the idea of restricting withdrawals from ATMs at gambling venues?</p>
 <p>PRIME MINISTER:</p>
-<p>I would be supportive of anything that discouraged people from gambling. The question of the practicality of that is something I would need to get advice on, but generally of course restricting the growth of gambling is something that the states have control over. Our direct constitutional power is limited to things like the internet and we've taken a strong stand on that. But I would encourage states generally to implement workable measures which discourage people from gambling.<br />
+<p>I would be supportive of anything that discouraged people from gambling. The question of the practicality of that is something I would need to get advice on, but generally of course restricting the growth of gambling is something that the states have control over. Our direct constitutional power is limited to things like the internet and we've taken a strong stand on that. But I would encourage states generally to implement workable measures which discourage people from gambling.<br>
 MITCHELL:</p>
 <p>Got any other ideas? Restricting withdrawals at ATM's is one thing, what else can you do?</p>
 <p>PRIME MINISTER:</p>
@@ -46,7 +36,7 @@ MITCHELL:</p>
 <p>MITCHELL:</p>
 <p>All right, well look what stage, does that mean that he'll be looking at any argument for new resources?</p>
 <p>PRIME MINISTER:</p>
-<p>Well you always look at them but I don't want to be heard to say that just because an agency puts up its hand and says 'can we have more money', I say yes. I repeat, every agency by nature always wants more resources. I don't know any agency either part of or associated with the government that won't say yes, we could do with more money if you ask them.<br />
+<p>Well you always look at them but I don't want to be heard to say that just because an agency puts up its hand and says 'can we have more money', I say yes. I repeat, every agency by nature always wants more resources. I don't know any agency either part of or associated with the government that won't say yes, we could do with more money if you ask them.<br>
 MITCHELL:</p>
 <p>Well you're happy with the way they've handled it? CASA.</p>
 <p>PRIME MINISTER:</p>
@@ -62,7 +52,7 @@ MITCHELL:</p>
 <p>MITCHELL:</p>
 <p>Yes but we've also seen a situation where people were flying around in planes that it was later decided they shouldn't have been flying in.</p>
 <p>PRIME MINISTER:</p>
-<p>That is true and that is something that shouldn't happen again.<br />
+<p>That is true and that is something that shouldn't happen again.<br>
 MITCHELL:</p>
 <p>Can we be confident of that?</p>
 <p>PRIME MINISTER:</p>
@@ -90,7 +80,7 @@ MITCHELL:</p>
 <p>MITCHELL:</p>
 <p>But it went up on the eve of Easter and the crude price didn't go up.</p>
 <p>PRIME MINISTER:</p>
-<p>Well we don't control the market forces that influence the price paid when the crude is purchased and it can sometimes because of leads and lags there can sometimes be a disconnect between a movement in the crude price and the domestic price. I have seen situations where the crude price has gone up overseas but that hasn't been directly reflected in the bowser. It bounces around.<br />
+<p>Well we don't control the market forces that influence the price paid when the crude is purchased and it can sometimes because of leads and lags there can sometimes be a disconnect between a movement in the crude price and the domestic price. I have seen situations where the crude price has gone up overseas but that hasn't been directly reflected in the bowser. It bounces around.<br>
 MITCHELL:</p>
 <p>The other excise issue is beer and there's certainly been a lot of attention on that this week because it's not being passed on. Do you think that you've been, or that people have been dudded on beer prices?</p>
 <p>PRIME MINISTER:</p>
@@ -123,7 +113,7 @@ MITCHELL:</p>
 <p>MITCHELL:</p>
 <p>Presumably if it goes ahead there'll be conditions on Shell will there not?</p>
 <p>PRIME MINISTER:</p>
-<p>Well I don't want to talk about what the decision might be.<br />
+<p>Well I don't want to talk about what the decision might be.<br>
 MITCHELL:</p>
 <p>There has been extensive reporting of some disagreements between yourself and the Treasurer on this. Is that correct?</p>
 <p>PRIME MINISTER:</p>
@@ -177,6 +167,4 @@ MITCHELL:</p>
 <p>PRIME MINISTER:</p>
 <p>Okay.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

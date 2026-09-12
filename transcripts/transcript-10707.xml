@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10707</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  PRESS CONFERENCE - PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/05/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10707</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                  THE HON JOHN HOWARD MP                  PRESS CONFERENCE - PARLIAMENT HOUSE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/05/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................</p>
 <p>  Ladies and Gentlemen, good afternoon. The Australian Government</p>
 <p>   very warmly welcomes the announcement that was made by President</p>
 <p>   Soeharto in Jakarta a short while ago. In our view, the President</p>
@@ -284,6 +274,4 @@
 <p>   that of a Statesman who cared about the future of his people. Thank</p>
 <p>   you.</p>
 <p>   ends</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

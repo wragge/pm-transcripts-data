@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22313</transcript-id>
-    <title>Review of Uranium Mining Processing and  Nuclear Energy in Australia </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/06/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announce the establishment of a Prime Ministerial Taskforce to undertake an objective, scientific and comprehensive review into uranium mining, processing and the contribution of nuclear energy in Australia in the longer term.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22313</transcript-id><title>Review of Uranium Mining Processing and  Nuclear Energy in Australia </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/06/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announce the establishment of a Prime Ministerial Taskforce to undertake an objective, scientific and comprehensive review into uranium mining, processing and the contribution of nuclear energy in Australia in the longer term.</p>
 <p>Australia's energy sector has played a key role in our sustained economic growth. Australia's ability to reliably access competitively priced power and optimise the value of our energy resources has underpinned our economic prosperity while at the same time providing an effective response to our domestic and international environmental responsibilities.</p>
 <p>Australia holds 40 per cent of the world's known low-cost recoverable uranium reserves. There is significant potential for Australia to increase and add value to our uranium extraction and exports.</p>
 <p> Recent developments in global energy markets have renewed international interest in nuclear energy as a technology that can help meet growing demand for electricity without the fuel and environmental costs associated with oil and gas. This also comes at a time when energy prices and energy security are key considerations for future economic growth in a lower emissions future.</p>
@@ -52,6 +42,4 @@
 <p>(d) The health and safety implications relating to nuclear energy.</p>
 <p>Timing of the Review</p>
 <p>The Review will commence in June 2006 with a draft report to be available for public consultation by November 2006. A final report will be completed by the end of 2006.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

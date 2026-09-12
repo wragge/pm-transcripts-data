@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22961</transcript-id>
-    <title>Radio Interview with Neil Mitchell, 3AW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: GST; economy; petrol prices; ABC; electoral rorting; defence</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22961</transcript-id><title>Radio Interview with Neil Mitchell, 3AW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: GST; economy; petrol prices; ABC; electoral rorting; defence</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MITCHELL:</p>
 <p>Mr Howard, good morning.</p>
@@ -50,7 +40,7 @@
 <p>MITCHELL:</p>
 <p>World oil prices have come down. Are you expecting lower petrol prices as a result next year?</p>
 <p>PRIME MINISTER:</p>
-<p>Yes. All the indications are, both because of the fall that we expect in the first half of next year, it may take a few months to occur, and also if the exchange rate of the Australian dollar against the American dollar remains firmer, then that should produce a reduction. I notice even that the, in the last week the weighted average of petrol prices in Melbourne is 91 cents a litre against 97 a week ago. Now that could move around as you know, it bounces around, several cents a litre during the week. But there’s already been just a little bit of softening. I naturally hope that softening becomes a big bit of softening and I hope it comes sooner rather than later because I don’t like these high petrol prices. I know that the motorists of Australia find them difficult and I would like to see the price come down. But as you can see and as you<br />
+<p>Yes. All the indications are, both because of the fall that we expect in the first half of next year, it may take a few months to occur, and also if the exchange rate of the Australian dollar against the American dollar remains firmer, then that should produce a reduction. I notice even that the, in the last week the weighted average of petrol prices in Melbourne is 91 cents a litre against 97 a week ago. Now that could move around as you know, it bounces around, several cents a litre during the week. But there’s already been just a little bit of softening. I naturally hope that softening becomes a big bit of softening and I hope it comes sooner rather than later because I don’t like these high petrol prices. I know that the motorists of Australia find them difficult and I would like to see the price come down. But as you can see and as you<br>
 acknowledge with your question it’s being very much driven by what happens with world crude oil prices. But all the indications are that they will be lower by the middle of next year than they are now.</p>
 <p>MITCHELL:</p>
 <p>Well that doesn’t do much I guess for the chances of you reviewing your decision on excise?</p>
@@ -212,6 +202,4 @@ acknowledge with your question it’s being very much driven by what happens wit
 <p>MITCHELL:</p>
 <p>Thank you for your time, have a good holiday and we’ll speak to you next year.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

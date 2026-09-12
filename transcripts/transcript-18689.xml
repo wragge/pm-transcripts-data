@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18689</transcript-id>
-    <title>Rockhampton Community Celebrates new school facilities</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/07/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18689</transcript-id><title>Rockhampton Community Celebrates new school facilities</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/07/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Member for Capricornia Kirsten Livermore today officially opened the Rockhampton State High School Agricultural Science and Languages Centre and the Engineering and Manufacturing Trade Training Centre.</p>
 <p>The Federal Government has invested around $3.5 million towards these facilities to deliver first class science, language and trades training facilities for the students at Rockhampton High.</p>
 <p>It is facilities like these that will help students get the skills they need for the jobs of the future.</p>
@@ -20,6 +10,4 @@ Prime Minister Julia Gillard and Member for Capricornia Kirsten Livermore today 
 <p>The Centre will also provide unique language-learning opportunities such as video links with other schools and universities, including sister schools in Japan.</p>
 <p>Between the Engineering and Manufacturing Trade Training Centre and the Agricultural Science and Languages Centre, all of the school's 1050 students are benefiting from world-class facilities.</p>
 <p>And many more students will benefit in the years to come.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

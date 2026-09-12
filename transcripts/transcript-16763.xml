@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16763</transcript-id>
-    <title>Address to the Vietnam Veterans&#039; Remembrance Day Service Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/08/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today we gather to recognise courage.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16763</transcript-id><title><![CDATA[Address to the Vietnam Veterans&#039; Remembrance Day Service Canberra   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/08/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today we gather to recognise courage.</p>
 <p>Today we gather to recognise sacrifice.</p>
 <p>Today we gather to recognise mateship.</p>
 <p>We honour the service of all 60,000 Australians who served in the Vietnam War.</p>
@@ -37,6 +27,4 @@
 <p>This family study, this family survey, will allow the scientific evaluation of the impacts on the children and other family members of your service in Vietnam.</p>
 <p>This is the right thing to do for Australia, because you the soldiers of Australia, were sent abroad in all our names - sent abroad in all our names</p>
 <p>Our single, our great, and our important purpose today is to honour you, to honour those who did not return, and to honour those who continue today to bear the scars of war in Australia's name.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

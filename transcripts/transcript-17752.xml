@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17752</transcript-id>
-    <title>Prime Minister meets Australian Oscar winner</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/03/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17752</transcript-id><title>Prime Minister meets Australian Oscar winner</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/03/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Arts Minister Simon Crean today conveyed their congratulations to Emile Sherman, co-producer of The King's Speech, which won the Best Picture Oscar at this year's Academy Awards.</p>
 <p>The Prime Minister and Mr Crean met Emile Sherman today during a visit to Parliament House with representatives of the Screen Producers Association of Australia.</p>
 <p>The Prime Minister said the nation's success at the 83rd Academy Awards demonstrated the strong creative pool of talent in Australia.</p>
@@ -19,6 +9,4 @@ Prime Minister Julia Gillard and Arts Minister Simon Crean today conveyed their 
 <p>Australia's success at the Academy Awards is another positive sign for the Australian film industry, which is benefiting from the Government's investment in local screen productions.</p>
 <p>A recent review of the independent screen production sector showed Government investment in the local Australian film industry has increased three-fold in the past three years.</p>
 <p>A Film and Television Drama Survey for 2009-10 conducted by Screen Australia shows total production expenditure in Australia was a record $731 million. The latest ABS figures reveal that almost 24,000 Australians are employed in the film and television sectors. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

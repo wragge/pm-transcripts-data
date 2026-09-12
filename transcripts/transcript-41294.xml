@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41294</transcript-id>
-    <title>Remarks at Business Leaders Reception - APEC</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41294</transcript-id><title>Remarks at Business Leaders Reception - APEC</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you very much Craig. His Excellency Ngoc Anh, Minister for Science and Technology, representing the Prime Minister, Steven Ciobo, our Trade Minister, provincial leaders, Vice Ministers, ladies and gentlemen.</p>
 <p>We all understand the extraordinary economic progress that has been made in Vietnam.</p>
 <p>Over the last 30 years Vietnam has developed into a dynamic, middle-income country with one of the fastest growing economies in the world.</p>
@@ -49,6 +39,4 @@
 <p>It will continue to deliver as long as we are committed to free trade, investment, open markets; allowing people to use their enterprise and initiative to get ahead and bring us all ahead as our economies grow together.</p>
 <p>[Applause]</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

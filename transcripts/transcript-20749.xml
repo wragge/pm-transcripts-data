@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20749</transcript-id>
-    <title>Interview with Larry King,   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/03/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KING:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20749</transcript-id><title>Interview with Larry King,   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/03/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KING:</p>
 <p>Mr Prime Minister, thank you very much for being with us, give us first your perspective as to how the war is going?</p>
 <p>PRIME MINISTER:</p>
 <p>Larry, I believe it's going very well. It's got to be remembered that this is a war in which unprecedented steps are being taken by the United States, Britain, Australia and other participants to minimise the impact on civilian populations. There's been a scrupulous regard for the interests of civilians, of the non-combatants, and people who perhaps were running around saying it should have been over by now, or should, in prospect, be over in a few days time, would have to pay some regard to the way in which it's being conducted and to recognise that it is being conducted by nations that do have a proper regard for human life and it's been fought against an opponent that has no regard for human life and they are factors that are affecting the way in which in the war is being conducted.</p>
@@ -35,6 +25,4 @@
 <p>We did indeed and we're very happy about it.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

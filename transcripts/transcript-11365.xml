@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11365</transcript-id>
-    <title>ADDRESS AT THE PRESENTATION OF 80TH ANNIVERSARY ARMISTICE                 REMEMBRANCE DAY MEDALS TO WORLD WAR I VETERANS &amp;#150; BULLCREEK, WA                                                                  SUBJECTS: World War I; 80th Anniversary Armistice Remembrance                 Day Medals</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/04/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.............................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11365</transcript-id><title><![CDATA[ADDRESS AT THE PRESENTATION OF 80TH ANNIVERSARY ARMISTICE                 REMEMBRANCE DAY MEDALS TO WORLD WAR I VETERANS &amp;#150; BULLCREEK, WA                                                                  SUBJECTS: World War I; 80th Anniversary Armistice Remembrance                 Day Medals]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/04/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.............................................................................................</p>
 <p>Thank you very much Mr Dalton. To my colleague Wilson Tuckey, to Mr</p>
 <p> Ken Wilkie the Federal Member for Swan representing the Leader of</p>
 <p> the Federal Opposition, to Mike Board representing the Premier, to</p>
@@ -140,6 +130,4 @@
 <p> of Australians so richly enjoy and are so deeply grateful that you</p>
 <p> have given to us. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18462</transcript-id>
-    <title>Jim Stynes Achievement Scholarships for young Australians</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>23/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18462</transcript-id><title>Jim Stynes Achievement Scholarships for young Australians</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>23/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Young Australians will be given help to achieve their education, community and sporting goals, through the creation of new scholarships in honour of Jim Stynes.</p>
 <p>Jim Stynes was a man who inspired AFL fans across the nation. But off the football field, Jim was also a man who fought for a better life for thousands of Australian kids.</p>
 <p>Today we honour that legacy, with the creation of the Jim Stynes Achievement Scholarships.</p>
@@ -19,6 +9,4 @@ Young Australians will be given help to achieve their education, community and s
 <p>We want to see kids reach for their dreams.</p>
 <p>The Gillard Government will provide $3 million to establish the Jim Stynes Achievement Scholarships. As a partner in the program, the AFL will provide an annual contribution of $150,000 a year for the next five years. The scholarships will be administered by Reach and the AFL in partnership with the Government.</p>
 <p>Through these scholarships, Jim will continue to inspire some of our most disadvantaged children to gain confidence and find their place in the world.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18898</transcript-id>
-    <title>Growing Democracy In Our Region </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18898</transcript-id><title>Growing Democracy In Our Region </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Foreign Minister Bob Carr today announced Australia will support a program to help emerging leaders and officials put democratic ideas into practice.</p>
 <p>Announced at the Bali Democracy Forum in Denpasar, the program includes training, visits and dialogue between Asia-Pacific nations. It also supports the independent non-profit Institute for Peace and Democracy which was launched by Indonesian President Yudhoyono in 2008. </p>
 <p>It is fitting that the Institute, which promotes human rights, political party reform and the participation of women in politics, is located in Indonesia, now the world's third largest democracy.</p>
@@ -19,6 +9,4 @@ Prime Minister Julia Gillard and Foreign Minister Bob Carr today announced Austr
 <p>Mentors have previously worked with 15 young political party leaders and activists from countries including Afghanistan, Fiji, Iraq, Pakistan and Solomon Islands in areas including increasing women's political participation in conflict areas and party reform.</p>
 <p>Australia's support will also enable the design of a program of activities to increase women's engagement in politics and expand the successful dialogue between Egypt's emerging democratic leaders and the leaders of Indonesia's Reformasi movement to include Tunisia.</p>
 <p>Australia provided approximately $800,000 to the Institute from 2008-2012 and has supported the placements of an Australian Business Volunteer and a staff member of the Centre for Democratic Institutions from the Australian National University to the Institute. Australia will provide $1.75 million to the Institute from 2013 to 2015.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

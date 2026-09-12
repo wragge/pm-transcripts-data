@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24075</transcript-id>
-    <title>Joint Press Conference, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>16/12/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Martin Place siege.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24075</transcript-id><title>Joint Press Conference, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>16/12/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Martin Place siege.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>This has obviously been a very testing and taxing and troubling 36 hours for the people of Sydney, New South Wales and Australia. This is an incident which has echoed around the world and not only millions of people here in Australia, but tens, if not hundreds of millions of people right around the world have been focused on the city of Sydney which has been touched by terrorism for the first time in more than 35 years.</p>
 <p>This has been an absolutely appalling and ugly incident. That's the only way to describe it: an appalling and ugly incident.</p>
 <p>Our hearts go out to the families of Katrina Dawson and Tori Johnson. These were decent, good people, who were going about their ordinary lives. It's about as innocent a thing as anyone can do to go and grab a cup of coffee before the working day has fully started. Decent, innocent people who got caught up in the sick fantasy of a deeply disturbed individual and we have seen the consequences of this play out over the last 36 hours.</p>
@@ -84,6 +74,4 @@
 <p>Any further questions?</p>
 <p>Thank you so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

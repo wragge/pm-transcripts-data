@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11121</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH JOHN FAINE, RADIO 3LO                                                  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/04/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: ANZAC Day, Meeting with President Habibe</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11121</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 RADIO INTERVIEW WITH JOHN FAINE, RADIO 3LO                                                  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/04/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: ANZAC Day, Meeting with President Habibe</p>
 <p>E&amp;OE................................................................................................</p>
 <p>Good morning John, good to be with you.</p>
 <p>FAINE:</p>
@@ -244,6 +234,4 @@
 <p>Good luck. Thank you for your time this morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Thanks John.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

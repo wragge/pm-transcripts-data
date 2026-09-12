@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22269</transcript-id>
-    <title>Afghanistan: Reconstruction Taskforce  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/05/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has now settled the composition of its contribution to the Netherlands-led Provincial Reconstruction Team (PRT) in Afghanistan.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22269</transcript-id><title>Afghanistan: Reconstruction Taskforce  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/05/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has now settled the composition of its contribution to the Netherlands-led Provincial Reconstruction Team (PRT) in Afghanistan.</p>
 <p>  Following extensive consultation with the Governments of the Netherlands and Afghanistan, Australia will contribute approximately 240 ADF personnel.</p>
 <p> Australia's contribution, to be known as the Reconstruction Task Force (RTF), will work on reconstruction and community-based projects as part of Australia's commitment to assisting Afghanistan achieve a stable and secure future.</p>
 <p>  The Australian contribution will also include skills training for the local population to ensure the benefits of the deployment continue long after our personnel have returned home.</p>
@@ -17,6 +7,4 @@
 <p>I am also pleased to announce that the deployment of two Chinook (CH-47D) helicopters will be extended until April 2007 to support the RTF and the Netherlands-led PRT.  The Chinooks will conduct airlift support and aeromedical evacuations in support of the ISAF mission.</p>
 <p>These announcements further demonstrate the Australian Government's continuing commitment to Afghanistan's reconstruction and stabilisation and are in addition to development-aid funding.</p>
 <p>Australia has contributed  $110 million since 2001 to assist reconstruction and development in Afghanistan.  Earlier this year, the Minister for Foreign Affairs, The Hon. Alexander Downer MP announced an additional $55 million in aid through to June 2007, which is part of an indicative $150 million that Australia has committed over the next five years.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

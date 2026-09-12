@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41544</transcript-id>
-    <title>Radio interview with Craig Zonca and Rebecca Levingston,  ABC Brisbane</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/04/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Rookwood Weir; Commonwealth Games; Royal Family; Adani and National Energy Guarantee</subjects>
-    <content><![CDATA[<p><strong>CRAIG ZONCA: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41544</transcript-id><title>Radio interview with Craig Zonca and Rebecca Levingston,  ABC Brisbane</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/04/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Rookwood Weir; Commonwealth Games; Royal Family; Adani and National Energy Guarantee</subjects><content><![CDATA[<p><strong>CRAIG ZONCA: </strong></p>
 <p>Malcolm Turnbull good morning to you.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning, great to be with you.</p>
@@ -51,7 +41,7 @@
 <p><strong>REBECCA LEVINGSTON:</strong></p>
 <p>But it’s also about the energy future of this country. Certainly, members of your party have been very up front, everyone from Tony Abbott saying “coal is good for humanity”, to more recent reports about a group of people who are championing coal. I guess what people are seeking from you as Prime Minister is, your vision for the future of energy in Australia. How big a role does coal play and how big a role do renewables play?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>I set all this out in a speech 18 months ago. Our future, the future for energy is Australia is one that includes all technologies; coal, wind, solar, gas, hydro, they are neither good nor bad. They have no moral characteristics, they have got certain physical characteristics. All of them have a role to play. Technology is moving very rapidly. The cost of solar in particular is coming down all the time, as indeed is the cost of wind and as you have more solar and wind in the system - particularly solar, which Queensland has got plenty of potential there as you know - you need to have more storage. That’s why I set out that, for the first time as a national leader, set out the importance of storage. </p>
+<p>I set all this out in a speech 18 months ago. Our future, the future for energy is Australia is one that includes all technologies; coal, wind, solar, gas, hydro, they are neither good nor bad. They have no moral characteristics, they have got certain physical characteristics. All of them have a role to play. Technology is moving very rapidly. The cost of solar in particular is coming down all the time, as indeed is the cost of wind and as you have more solar and wind in the system - particularly solar, which Queensland has got plenty of potential there as you know - you need to have more storage. That’s why I set out that, for the first time as a national leader, set out the importance of storage.&nbsp;</p>
 <p><strong>REBECCA LEVINGSTON:</strong></p>
 <p>Do you think that Queensland should pick up the reigns from Elon Musk and his commitment to South Australia? Annastacia Palaszczuk has flagged that Queensland would be keen to talk more about battery storage, would you like to see more of that development here in Queensland?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -66,6 +56,4 @@
 <p>Thanks so much for your time.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well let’s just hope that, okay thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

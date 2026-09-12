@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11867</transcript-id>
-    <title>Radio Interview with Alan Jones, 2UE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/04/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Ansett and CASA; first home owners grant; HIH insurance, deeming rates.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11867</transcript-id><title>Radio Interview with Alan Jones, 2UE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/04/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Ansett and CASA; first home owners grant; HIH insurance, deeming rates.</p>
 <p>E&amp;OE................................</p>
 <p>JONES:</p>
 <p>Prime Minister, good morning.</p>
@@ -186,6 +176,4 @@
 <p>JONES:</p>
 <p>You've done well. Thank you for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

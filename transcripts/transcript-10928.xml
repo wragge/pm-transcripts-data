@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10928</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON. JOHN HOWARD MP                ADDRESS AT LAUNCH OF THE                SBS BROADCAST VAN, BRISBANE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/11/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10928</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON. JOHN HOWARD MP                ADDRESS AT LAUNCH OF THE                SBS BROADCAST VAN, BRISBANE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/11/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>Well thank you very much Quang and to Nigel Milan the Managing Director</p>
 <p> of SBS. I'm here today to do two things, to express the Government's</p>
 <p> ongoing support for SBS. SBS was created by a Government of which</p>
@@ -47,6 +37,4 @@
 <p> particularly appreciated by Australians who speak a language other</p>
 <p> than English.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

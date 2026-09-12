@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17893</transcript-id>
-    <title>New Chiefs for the Australian Defence Force</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17893</transcript-id><title>New Chiefs for the Australian Defence Force</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Government is today announcing new command arrangements for the Australian Defence Force.</p>
 <p>Prime Minister Julia Gillard and Defence Minister Stephen Smith are pleased to announce the following appointments to be recommended to the Governor-General in Council.</p>
 <p>All appointments are to be recommended for three years and to take effect from 4 July 2011.</p>
@@ -37,6 +27,4 @@ The Government is today announcing new command arrangements for the Australian D
 <p>Major General David Morrison promoted to Lieutenant General.</p>
 <p>Air Vice-Marshal Geoff Brown promoted to Air Marshal.</p>
 <p>Biographical details of the new appointments are available on the defence website <a href="http://www.defence.gov.au">www.defence.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

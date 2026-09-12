@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17276</transcript-id>
-    <title>Prime Minister Transcript of interview ABC Adelaide 5 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: The Prime Minister Kevin Rudd joins us now on 891 mornings. Good morning Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17276</transcript-id><title>Prime Minister Transcript of interview ABC Adelaide 5 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: The Prime Minister Kevin Rudd joins us now on 891 mornings. Good morning Prime Minister.</p>
 <p>PM: Good morning. Sorry for not making your program yesterday morning, guys. I was delayed with various things in Sydney.</p>
 <p>HOST: Please don't apologise, there's a lot on your plate, you're running a country. Now, a lot of people this morning -</p>
 <p>PM: I'm in Perth at the moment so it's bright and early.</p>
@@ -102,6 +92,4 @@
 <p>Mr Abbott's habit is simply to criticise, to criticise and to criticise.</p>
 <p>HOST: Kevin Rudd, Prime Minister, thank you for giving us your time this morning. You've been very generous.</p>
 <p>PM: Thanks for having us on the programme.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

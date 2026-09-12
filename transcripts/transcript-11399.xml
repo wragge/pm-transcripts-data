@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11399</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          ADDRESS TO AUSTRALIAN TROOPS          BATUGADE, EAST TIMOR</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/11/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11399</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          ADDRESS TO AUSTRALIAN TROOPS          BATUGADE, EAST TIMOR</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/11/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..................</p>
 <p>  [Tape starts]</p>
 <p>  General Cosgrove has proved to be an inspiration not only to the men and</p>
 <p>   women of the Australian Defence Force, but also to the men and women of</p>
@@ -71,6 +61,4 @@
 <p>  But just again, thank you very much. You've done a superb job and the entire</p>
 <p>   Australian nation is very proud of all of you. Thanks.</p>
 <p>  [Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

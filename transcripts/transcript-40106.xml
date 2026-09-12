@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40106</transcript-id>
-    <title>New headquarters for the Australian Crime Commission</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/12/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government is ensuring its intelligence and law enforcement agencies have the resources they require to keep us safe.</p>
-<p>Today the Australian Crime Commission’s (ACC) new headquarters in Canberra was opened by Prime Minister Malcolm Turnbull.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40106</transcript-id><title>New headquarters for the Australian Crime Commission</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/12/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government is ensuring its intelligence and law enforcement agencies have the resources they require to keep us safe.</p>
+<p>Today the Australian Crime Commission’s (ACC) new headquarters in Canberra was opened by Prime&nbsp;Minister Malcolm Turnbull.</p>
 <p>The new headquarters forms part of the law enforcement and national security hub in Canberra and will provide the ACC with the facilities and increased staff security which is paramount for law enforcement personnel undertaking critical work.</p>
 <p>The relocation follows the recent in-principle agreement by the Law, Crime and Community Safety Council to merge two of Australia’s most important law enforcement and criminal information agencies – CrimTrac and the ACC.</p>
 <p>This will deliver greater access, insight and capability for law enforcement, justice and national security. It will deliver police with increased accurate, up to date and complete information when engaging with members of the public.</p>
@@ -18,6 +8,4 @@
 <p>The ACC is dedicated to detecting and disrupting serious and organised crime and is also home to the Government’s Foreign Fighter Task Force, which is working to identify Australian citizens involved in the Syria and Iraq conflict.</p>
 <p>Terrorist attack planning is becoming more frequent, warning times are reducing and the perpetrators are becoming younger.</p>
 <p>Our law enforcement and protection agencies are increasingly dependent on accurate information and intelligence to not only respond to threats, but to ensure that police on the ground can do their job safely.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

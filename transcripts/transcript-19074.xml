@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19074</transcript-id>
-    <title>Defence Precinct for Adelaide</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Adelaide</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19074</transcript-id><title>Defence Precinct for Adelaide</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Adelaide</p>
 <p>Adelaide will be home to a key manufacturing precinct, as part of the Gillard Government's $1 billion jobs plan.</p>
 <p>The Adelaide Defence Precinct will service the state's strong defence industry.</p>
 <p>The Precinct is scheduled to be fully operation by August 2013 with initial services delivered from May this year, Prime Minister Julia Gillard announced today in Adelaide.</p>
@@ -20,12 +10,10 @@
 <p>The Precinct will complement the Melbourne- based Enterprise Connect Defence Industry Innovation Centre and will work closely with defence focused organisations such as the Defence Materials Technology Centre and Defence SA.</p>
 <p>It will foster greater collaboration across SA and the nation's diverse defence sector and will assist the state in realising its vision of employing over 37,000 workers and contributing $2.5 billion to the economy by 2020.</p>
 <p>Nationally, A Plan for Australian Jobs - announced on Sunday - will help Australian businesses seize the opportunities for growth in our region and adapt successfully to changing economic conditions.</p>
-<p>The plan has three key elements:<br />
-•           Backing Australian industry to win more work at home;<br />
-•           Supporting Australian industry to win new business abroad; and<br />
+<p>The plan has three key elements:<br>
+•           Backing Australian industry to win more work at home;<br>
+•           Supporting Australian industry to win new business abroad; and<br>
 •           Helping Australian small and medium businesses to grow and create new jobs.</p>
 <p>The location of the Adelaide Defence Precinct is expected to be announced in coming months.</p>
 <p>The remaining precincts will be selected in 2013.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

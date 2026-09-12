@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22532</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/10/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>We're all affected in some way by climate change.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22532</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/10/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>We're all affected in some way by climate change.</p>
 <p>  We must respond on a number of fronts.  There is no one single solution that will reduce greenhouse gas emissions over the years ahead.</p>
 <p>A major part of the Government's policy on climate change is to accelerate the development of new technologies which reduce greenhouse gas emissions from the use of fossil fuels.</p>
 <p>This is very important to Australia.  Our country is the largest coal exporter in the world.  We have an abundance of fossil fuels.  It is therefore in our interests to find ways in which these fuels can be used with lower emissions.</p>
@@ -18,6 +8,4 @@
 <p>There will be support for exciting new technologies, including those designed to ensure that the use of our abundant fossil fuel reserves will in the future occur in a cleaner, greener fashion, thus reducing the process of climate change.</p>
 <p>This new expenditure by the Federal Government is part of our $2 billion commitment to a range of initiatives designed to reduce climate change.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15873</transcript-id>
-    <title>Australia 2020 - Setting our Nation&#039;s Sights for the Future, Address to the Sydney Institute Annual Dinner 2008, Grand Habour Ballroom, Star City, Sydney </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/04/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thank you for the invitation to address the annual dinner of the Sydney Institute.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15873</transcript-id><title><![CDATA[Australia 2020 - Setting our Nation&#039;s Sights for the Future, Address to the Sydney Institute Annual Dinner 2008, Grand Habour Ballroom, Star City, Sydney ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/04/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thank you for the invitation to address the annual dinner of the Sydney Institute.</p>
 <p>Since 1989, the Institute has been a platform for public policy debate on Australia's future.</p>
 <p>The nation should always embrace such debate  -  with genuine intellectual passion and with genuine intellectual rigour.</p>
 <p>Great challenges lie ahead of us.</p>
@@ -246,6 +236,4 @@
 <p>A nation with a key role in expanding global markets  -  perhaps clean energy technologies; the biosciences; agricultural innovation and across our service industries.</p>
 <p>A nation that leads in its response to climate change.</p>
 <p>A nation that has become a great force for good in its region and the world.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

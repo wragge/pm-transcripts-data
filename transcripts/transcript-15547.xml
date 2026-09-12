@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15547</transcript-id>
-    <title>Doorstop Interview Braddon Community Luncheon, LaTrobe</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/05/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15547</transcript-id><title>Doorstop Interview Braddon Community Luncheon, LaTrobe</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/05/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 workplace reform, Senator Heffernan, road funding, mental health funding</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -102,6 +92,4 @@ workplace reform, Senator Heffernan, road funding, mental health funding</p>
 <p>Sir, last time you were in the north west the Vestas wind turbine factory closed.  The state government is now demanding that you look at further expanding the renewable energy targets.  What plans do you have on that front?</p>
 <p>PRIME MINISTER:</p>
 <p>Well we don't have plans to do that for the reasons I explained three years ago when the energy white paper was released. The costs involved in the recommendations that Mr Lennon is supporting are not sustainable and that's why we had the policy we did then.  Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

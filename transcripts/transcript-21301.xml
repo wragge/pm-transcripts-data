@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21301</transcript-id>
-    <title>Doorstop Interview Regent Beverly Wilshire  Los Angeles</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21301</transcript-id><title>Doorstop Interview Regent Beverly Wilshire  Los Angeles</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> JOURNALIST:</p>
 <p>What did you think of the penalty handed down to Jack Roche?  What sort of message does that send to...</p>
 <p>PRIME MINISTER:</p>
 <p>I don't have anything to add to what Mr Ruddock has said on that. He's spoken for the Government and I don't have anything to add to what he's said.</p>
@@ -79,6 +69,4 @@
 <p>Well there is a big change when the provisional government takes over and assumes sovereignty, and that is obviously a big change and the important thing is to keep the momentum going forward and to support the progress towards a democratic Iraq, remembering that the terrorists and others will do everything they can to stop that happening.</p>
 <p>See you later.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

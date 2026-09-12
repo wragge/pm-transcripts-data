@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15730</transcript-id>
-    <title>Joint Media Release with the  Premier of Queensland, Prime Minister offers further assistance for flood victims  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/01/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd and Queensland Premier Anna Bligh today announced further financial assistance to help families hit by the impact of severe flooding in regional Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15730</transcript-id><title>Joint Media Release with the  Premier of Queensland, Prime Minister offers further assistance for flood victims  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/01/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd and Queensland Premier Anna Bligh today announced further financial assistance to help families hit by the impact of severe flooding in regional Queensland.</p>
 <p>Mr Rudd said he had signed off on a special level of assistance under the Natural Disaster Relief and Recovery Arrangements (NDRRA) after a recommendation from Ms Bligh.</p>
 <p>“I saw the impact of the floods first hand when I visited Charleville and have been in regular contact with Anna Bligh everyday to be briefed on the latest developments,” Mr Rudd said.</p>
 <p>“Although areas such as Rockhampton are yet to experience the worst of the flooding, waters are beginning to subside in many other areas of the State and the full extent of damage is being revealed.</p>
@@ -30,6 +20,4 @@
 <p>Items for transport may include emergency fodder, building and fencing materials associated with primary production, machinery and equipment, water, and animals purchased for restocking. The maximum combined freight subsidy payment per property is $5000.</p>
 <p>Prime Minister's Office  (02) 6277 7744 </p>
 <p>QLD Premiers Office    (07) 3224 4500</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

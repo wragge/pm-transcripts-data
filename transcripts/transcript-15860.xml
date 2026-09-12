@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15860</transcript-id>
-    <title>Radio Interview 3AW     </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>NEIL MITCHELL: And straight to it today, standing in for Kevin Rudd in his regular spot, the Acting Prime Minister Julia Gillard, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15860</transcript-id><title>Radio Interview 3AW     </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>NEIL MITCHELL: And straight to it today, standing in for Kevin Rudd in his regular spot, the Acting Prime Minister Julia Gillard, good morning.</p>
 <p>JULIA GILLARD: Good morning Neil.</p>
 <p>NEIL MITCHELL: Will Australia send security personnel with our team to the Olympics given the latest news of terror threats to the Games?</p>
 <p>JULIA GILLARD: Well of course Chinese authorities are predominately responsible for securing the Olympics. But we'll be making the necessary arrangements to ensure our athletes are safe.</p>
@@ -80,6 +70,4 @@
 <p>NEIL MITCHELL: Thank you very much for your time.</p>
 <p>JULIA GILLARD: Thanks Neil. Bye, bye.</p>
 <p>NEIL MITCHELL: Bye, bye. Acting Prime Minister, Julia Gillard.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

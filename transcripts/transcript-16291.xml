@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16291</transcript-id>
-    <title>Joint Press Release with the Premier of Victoria - Rudd and Brumby kick-start work on Western Ring road upgrade   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Six months ahead of schedule, the Prime Minister and the Premier of Victoria turned the first sod on the $2.25 billion upgrade of Melbourne's Western Ring Road.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16291</transcript-id><title>Joint Press Release with the Premier of Victoria - Rudd and Brumby kick-start work on Western Ring road upgrade   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Six months ahead of schedule, the Prime Minister and the Premier of Victoria turned the first sod on the $2.25 billion upgrade of Melbourne's Western Ring Road.</p>
 <p>The Western Ring Road upgrade will support up to 6,500 jobs during construction and 5,500 flow-on jobs.</p>
 <p>By acting early and decisively to bring construction forward on projects that are ready to go, we are creating jobs and boosting the national economy during the global financial crisis.</p>
 <p>Once complete, the construction works will add extra lanes and enhance traffic management systems to improve traffic flow on the 38 kilometre road between Princes Freeway in Laverton North and the Greensborough Freeway, Greensborough.</p>
@@ -30,6 +20,4 @@
 <p>     * $25 million to start the Westgate Bridge rehabilitation;</p>
 <p>     * $6.5 million to start the 4A section of the Geelong Ring Road; and</p>
 <p>     * $5 million to start the Western Highway duplication planning.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

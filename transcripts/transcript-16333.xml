@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16333</transcript-id>
-    <title>Transcript of Prime Minister&#039;s New Year Message    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>31/12/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New year is a time for us to reflect on the year that's just past and of course, to look to the year that lies ahead. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16333</transcript-id><title><![CDATA[Transcript of Prime Minister&#039;s New Year Message    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>31/12/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New year is a time for us to reflect on the year that's just past and of course, to look to the year that lies ahead. </p>
 <p>2008 saw some outstanding and memorable achievements around the world, including in the Beijing Olympics in August, the Paralympics in September and at the year's end, the historic election of an African-American as President of the United States.</p>
 <p>At home, Australians came together as we made the historic apology to the Stolen Generations and pledged to work together to close the gap on indigenous disadvantage.</p>
 <p>We hosted around 150,000 young people from around the world for the remarkable World Youth Day celebrations in July. And this year we showed again the great strength of Australia's democracy with the smooth transition to a new Federal Government.</p>
@@ -23,6 +13,4 @@
 <p>Let us each have a restful break this holiday season and let us enter 2009 with optimism and with renewed energy.</p>
 <p>In this spirit I extend to all Australians, country and city, big towns, small towns, our biggest cities to the distant outback my best wishes for a happy, healthy and fulfilling new year.</p>
 <p>[Ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

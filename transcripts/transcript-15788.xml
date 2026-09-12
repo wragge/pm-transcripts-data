@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15788</transcript-id>
-    <title>Press Conference, Blue Room, Ministerial Wing, Parliament House, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/02/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Thanks for coming this morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15788</transcript-id><title>Press Conference, Blue Room, Ministerial Wing, Parliament House, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/02/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Thanks for coming this morning.</p>
 <p>We have been, as of next week, elected for three months as the new Government of Australia. And, the purpose of this gathering with the representatives of the media today is to speak about the achievements that we have made in those first three months of Government. And those are outlined in this document which we have circulated to you just now.</p>
 <p>We were elected on the basis of providing new leadership for the country. We said also that we intended to be upfront with the Australian people. That means, upfront about the commitments we made prior to the election. Upfront about our implementation of those commitments. And up front in our accountability to the Australian people about what progress we made.</p>
 <p>That's why we've produced this document.</p>
@@ -136,6 +126,4 @@
 <p>So, in answer to your question, these are very big challenges. What I'm determined to do is have a clear cut direction about where we want to take this government in dealing with these challenges for the future. Open the doors of Government as much as possible to get as many ideas from outside about how we deal with them, hence the 2020 Summit, and get on with the business of Government.</p>
 <p>We're not going to be a perfect Government, but we intend to have a pretty dammed good go at it against some clearly key set directions for the future. And our organising principle is building a modern Australia to meet the challenge of the future, but always with the object in mind of securing the future for working families.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

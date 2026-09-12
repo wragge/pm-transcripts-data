@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19163</transcript-id>
-    <title>Speech at Migration and Settlement Awards</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/03/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19163</transcript-id><title>Speech at Migration and Settlement Awards</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/03/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>My Government looks forward to working in partnership with the Migration Council on this important plan.</p>
 <p>Work like that matters because one in every four Australians was born somewhere else.</p>
 <p>We are a nation of migrants.</p>
@@ -64,6 +54,4 @@
 <p>Thank you for proving, by your example, that we are a nation of welcome and a place of opportunity.</p>
 <p>Australia has given us everything, so we give everything in return.</p>
 <p>That means no matter how far we've come, our best days still always lie ahead.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

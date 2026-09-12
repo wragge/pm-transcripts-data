@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18493</transcript-id>
-    <title>Liveable cities program comes to Parramatta</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18493</transcript-id><title>Liveable cities program comes to Parramatta</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The community around Parramatta will soon have access to a healthier, more sustainable commute along the northern foreshore of the Parramatta River.</p>
 <p>Prime Minister Julia Gillard today announced that a separate cycling and walking link will be built between the University of Western Sydney, housing developments in the area and key employment precincts of the Parramatta city centre.</p>
 <p>This will link areas of the northern Parramatta River foreshore to each other, and will ensure residents have access to a safe, healthy and sustainable way to get to work or university.</p>
@@ -20,6 +10,4 @@ The community around Parramatta will soon have access to a healthier, more susta
 <p>The Gillard Government has committed up to $3.75 million, Parramatta City Council has committed $4.4 million and the NSW Government has committed $7.9 million to the Parramatta River City Renewal project.</p>
 <p>The project is expected to be completed by mid 2015.</p>
 <p>The other successful applicants under the Liveable Cities Program will be announced in the very near future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

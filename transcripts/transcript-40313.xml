@@ -1,22 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40313</transcript-id>
-    <title>Exciting next step for quantum computing</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In the race to build the world’s first super-powerful quantum computer, Prime Minister Malcolm Turnbull and Minister for Industry, Innovation and Science Christopher Pyne today opened a new cutting edge quantum computing lab at the University of New South Wales (UNSW).</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40313</transcript-id><title>Exciting next step for quantum computing</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In the race to build the world’s first super-powerful quantum computer, Prime Minister Malcolm Turnbull and Minister for Industry, Innovation and Science Christopher Pyne today opened a new cutting edge quantum computing lab at the University of New South Wales (UNSW).</p>
 <p>This follows the Turnbull Government’s $26 million investment in the Centre of Excellence for Quantum Computation &amp; Communication Technology (CQC2T) as part of the National Innovation and Science Agenda.</p>
-<p>Quantum computing has the potential to revolutionise computing. Today’s digital computers have finite processing power whereas a commercial quantum computer will deliver a significant speed-up in power, including over a supercomputer.</p>
-<p>More jobs than ever before in Australia’s modern 21st century economy are digital. The enormous power of quantum computing will create many more opportunities for new and higher wage jobs, particularly those involving analysis, forecasting and modelling.</p>
+<p>Quantum computing has the potential to revolutionise computing. Today’s digital computers have finite processing power whereas a commercial quantum computer will deliver&nbsp;a significant speed-up in&nbsp;power, including over a supercomputer.</p>
+<p>More jobs than ever before in Australia’s modern 21st&nbsp;century economy are digital. The enormous power of quantum computing will create many more opportunities for new and higher wage jobs, particularly those involving analysis,&nbsp;forecasting and modelling.</p>
 <p>The new labs will double the productive capacity of the CQC2T at UNSW, helping Australian researchers remain global leaders by building a 10-qubit prototype quantum integrated circuit.</p>
 <p>This is the technology that will underpin the development of a commercial quantum computing device.</p>
 <p>CQC2T’s unique approach of using silicon has given researchers at the UNSW lab a two to three year lead over the rest of the world.</p>
 <p>The Turnbull Government’s $26 million investment, supported by $10 million each from Telstra and the Commonwealth Bank of Australia (CBA), will help the CQC2T remain world-leaders.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

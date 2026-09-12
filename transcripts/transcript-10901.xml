@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10901</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                SPEECH TO ROCKHAMPTON                COMMUNITY LUNCH</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/04/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10901</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                SPEECH TO ROCKHAMPTON                COMMUNITY LUNCH</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/04/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
 <p>Thank you very much my Parliamentary colleague, Paul Marek, to Councillor</p>
 <p> McRae the Mayor of Rockhampton, to Senator Ian Macdonald, to Vince</p>
 <p> Lester, other councillors, other distinguished guest, ladies and gentlemen.</p>
@@ -370,6 +360,4 @@
 <p> when I asked about their experiences for working for the dole, they</p>
 <p> say it's much better than doing nothing at home. And I think</p>
 <p> that is something that expresses a sentiment because no</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

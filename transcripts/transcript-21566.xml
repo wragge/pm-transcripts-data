@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21566</transcript-id>
-    <title>Interview with Peter Cave AM Programme, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/12/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CAVE:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21566</transcript-id><title>Interview with Peter Cave AM Programme, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/12/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CAVE:</p>
 <p>Joining me now is Prime Minister John Howard from Kirribilli House in Sydney. Prime Minister thanks for joining us on AM. Are you convinced that Australia is doing all it can to help?</p>
 <p>PRIME MINISTER:</p>
 <p>Yes I am. We will of course do a lot more than we have to date, but it's important to remember that when something of this magnitude occurs it does sadly take time to work out exactly how we can best assist because there is so much disorganisation and chaos on the ground. I'm very proud of the fact that we've got Australians on the ground already through those 4 Hercules transport plus one also from the New Zealand Government that has been made available, so we have 5 altogether. There are also two medical teams now in Sumatra and in addition today, at the request of the Government of the Maldives, a medical team will go to the Maldives. The plane that drops that team will then go on with another medical team to Colombo where that second medical team will be embedded in the World Health Organisation group that will be fighting the real problem of contagious disease which is the next real threat following a disaster of this magnitude.</p>
@@ -40,6 +30,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

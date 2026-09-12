@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22591</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/11/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Pharmaceutical Benefits Scheme is world-class and the envy of other countries. It gives all Australians a wide range of essential medicines at affordable prices.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22591</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/11/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Pharmaceutical Benefits Scheme is world-class and the envy of other countries. It gives all Australians a wide range of essential medicines at affordable prices.</p>
 <p>Last year the Government paid more than $6 billion in PBS subsidies on 600 medicines, filling the gap between the standard co-payment outlaid by patients and the actual cost of the medicines.</p>
 <p>The PBS is a very important part of the social security safety net that makes Australia better placed to protect the vulnerable in the community.</p>
 <p>However, the Government has been paying too much for many medicines where there are other brands available for lower prices.</p>
@@ -22,6 +12,4 @@
 <p>This is another example of the how the Government's responsible economic management can provide better services to taxpayers.</p>
 <p>Good economic policies mean nothing if the benefits are not passed on to families and individuals. These changes will make the PBS an even stronger system, meaning patients, pharmacists, doctors and the taxpayer will be better off.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

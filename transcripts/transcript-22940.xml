@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22940</transcript-id>
-    <title>Radio Interview with Paul Murray, Radio 6PR</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Petrol prices; private health insurance rebate; Savings bonus; Premiers’ Conference; Minister Reith; banks; ADF Personnel</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22940</transcript-id><title>Radio Interview with Paul Murray, Radio 6PR</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Petrol prices; private health insurance rebate; Savings bonus; Premiers’ Conference; Minister Reith; banks; ADF Personnel</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MURRAY:</p>
 <p>Good morning Prime Minister.</p>
@@ -58,7 +48,7 @@
 <p>MURRAY:</p>
 <p>Well I know but you’ve done a fairly good job on that already.</p>
 <p>PRIME MINISTER:</p>
-<p>Yes, but you have to and the last thing we should be doing at the moment if you want to keep interest rates down is running down the surplus. And can I say to the Labor Party, can I say to the AAA, can I say to every premier anywhere in Australia, any call you make to run down the Budget surplus you are effectively opting to put upward pressure on interest rates. And if I have got to make a choice as prime minister between a minor adjustment to indexation, to the excise on petrol and putting upward pressure on interest rates, I will always do what I can to keep downward pressure on interest rates. I mean premiers have the luxury of calling on the Federal Government to dip into its surplus and thereby put upward pressure on interest rates . . .<br />
+<p>Yes, but you have to and the last thing we should be doing at the moment if you want to keep interest rates down is running down the surplus. And can I say to the Labor Party, can I say to the AAA, can I say to every premier anywhere in Australia, any call you make to run down the Budget surplus you are effectively opting to put upward pressure on interest rates. And if I have got to make a choice as prime minister between a minor adjustment to indexation, to the excise on petrol and putting upward pressure on interest rates, I will always do what I can to keep downward pressure on interest rates. I mean premiers have the luxury of calling on the Federal Government to dip into its surplus and thereby put upward pressure on interest rates . . .<br>
 MURRAY:</p>
 <p>But Prime Minister increased transport costs put upward pressure on interest rates and a 3 cent a litre increase in excise in February will do just that.</p>
 <p>PRIME MINISTER:</p>
@@ -205,6 +195,4 @@ MURRAY:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

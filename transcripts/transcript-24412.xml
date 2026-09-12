@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24412</transcript-id>
-    <title>Interview with Ben Fordham, Radio 2GB</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>01/05/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Drought assistance,  domestic violence, executions of Andrew Chan and Myuran Sukumaran,  Budget 2015,  National Memorial Service for the Australasian Fire and Emergency Service Authorities Council.</subjects>
-    <content><![CDATA[<p><strong>BEN FORDHAM:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24412</transcript-id><title>Interview with Ben Fordham, Radio 2GB</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>01/05/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Drought assistance, domestic violence, executions of Andrew Chan and Myuran Sukumaran, Budget 2015, National Memorial Service for the Australasian Fire and Emergency Service Authorities Council.</subjects><content><![CDATA[<p><strong>BEN FORDHAM:</strong></p>
 <p>Prime Minister, good afternoon.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Ben, it’s fantastic to be with you and it’s nice to be Scott’s stand in just for once.</p>
@@ -95,6 +85,4 @@ OK, in the last six days in New South Wales, two women have been killed allegedl
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good on you, Ben. Nice to be with you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21303</transcript-id>
-    <title>Doorstop Interview Willard Hotel, Washington </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21303</transcript-id><title>Doorstop Interview Willard Hotel, Washington </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Prime Minister, can you tell us what you're going to discuss with the President...?</p>
 <p>PRIME MINISTER:</p>
 <p> Well I'll talk about the free trade agreement.  We'll obviously talk about Iraq and I'm very pleased that the provisional government has been named.  I think this a real step forward.  Things have been difficult there and everybody knows that and there's no point in pretending otherwise, but the transfer of authority on the 30th June is a very significant development.  And to see Iraqi figures stepping up to the crease and assuming responsibility is a very good thing and we will want to work very closely with them but it marks a new chapter.</p>
@@ -71,6 +61,4 @@
 <p> I think I'd better.  That sounds too much of a minefield just after I've arrived Laurie, I know you.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21157</transcript-id>
-    <title>Joint Press Conference with Brendan Nelson Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/03/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21157</transcript-id><title>Joint Press Conference with Brendan Nelson Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/03/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Good afternoon ladies and gentlemen.  Dr Nelson and I have called this news conference to announce the aggregate Commonwealth Government funding provision to government, Catholic and independent schools throughout Australia for the 2005-2008 quadrennium.</p>
 <p>  As you are aware, we have already announced the component going to Catholic systemic schools and that amount is included here in the record $31.3 billion of Commonwealth Government funding to all categories of schools throughout Australia over the period 2005 to 2008.  This aggregate amount represents an increase of 25 per cent in Commonwealth Government funding to those three categories of schools over the 2001 to 2004 quadrennium.  It does, as I mentioned, include the additional amounts that are going to Catholic schools.</p>
 <p>  As part of this new quadrennium funding package, there will be $2 billion provided for a new literacy, numeracy and special learning needs programme, and this programme will target the most disadvantaged schools, including those with disabilities.  I should mention a number of specific points.</p>
@@ -137,6 +127,4 @@
 <p>PRIME MINISTER:</p>
 <p>The economy remains powerful and robust.  There has been a tiny rise in the unemployment level, but there has been some reclassification carried out by the ABS.  But it remains under six per cent.  It has been so since September.  We have a very strong employment outlook, fuelled and supported by a very strongly growing economy.  Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

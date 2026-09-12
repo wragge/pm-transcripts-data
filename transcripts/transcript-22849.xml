@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22849</transcript-id>
-    <title>Interview with Neil Mitchel, Radio 3AW </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Tax reform; John Della Bosca’s comments; travel costs; Fiji; London trip</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22849</transcript-id><title>Interview with Neil Mitchel, Radio 3AW </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Tax reform; John Della Bosca’s comments; travel costs; Fiji; London trip</p>
 <p>E &amp; OE…………………………………………………………………………</p>
 <p>MITCHELL:</p>
 <p>Mr Howard, welcome back, good morning.</p>
@@ -249,6 +239,4 @@
 <p>MITCHELL:</p>
 <p>Thank you very much for your time</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41160</transcript-id>
-    <title>Doorstop — Great Hall, Canberra</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>05/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Liddell power station</subjects>
-    <content><![CDATA[<p><strong>JOURNALIST: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41160</transcript-id><title>Doorstop — Great Hall, Canberra</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>05/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Liddell power station</subjects><content><![CDATA[<p><strong>JOURNALIST: </strong></p>
 <p>[Inaudible]</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>I spoke to him earlier today and I’ve spoken to him several times about this matter. He says AGL wants to get out of coal, but he has said that he is prepared to sell to a responsible party and that’s what we’re talking about.</p>
@@ -21,6 +11,4 @@
 <p>Mr Vesey has obligations to his shareholders, my commitment is to all Australians - families, businesses big and small - to deliver affordable and reliable electricity.</p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

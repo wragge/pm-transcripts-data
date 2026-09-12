@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18193</transcript-id>
-    <title>Transcript of interview with Nick Rheinberger, ABC Illawarra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18193</transcript-id><title>Transcript of interview with Nick Rheinberger, ABC Illawarra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard joins us now, good morning.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Can you confirm that the NBN is coming to the Illawarra and we're going to be the first major metropolitan area to be wired with fibre optic cable?</p>
@@ -42,6 +32,4 @@ HOST: Julia Gillard joins us now, good morning.</p>
 <p>PM: Well, Tony Abbott is continuing to play a wrecking game. That's his style of politics: no policies, just say no. But for businesses we, as a Government, are providing the certainty that businesses need. The legislation will be the law of this country from 1 July next year.</p>
 <p>HOST: Alright Julia Gillard, thank you very much for joining us this morning on the morning show.</p>
 <p>PM: Thanks very much, Nick. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

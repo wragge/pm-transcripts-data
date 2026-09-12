@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11907</transcript-id>
-    <title>Interview with Charles Woolley, 60 Minutes </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: illegal immigrants.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11907</transcript-id><title>Interview with Charles Woolley, 60 Minutes </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: illegal immigrants.</p>
 <p>E&amp;OE................................</p>
 <p>WOOLLEY:</p>
 <p>Prime Minister, would it be fair to say that it's all gone to plan?</p>
@@ -132,6 +122,4 @@
 <p>PRIME MINISTER:</p>
 <p>I don't have time to think about that. I mean, I might in six months time or twelve months time or something but when you have a situation like this it moves so rapidly from one episode to the next that you never stop and think, oh gee, why didn't I do that. You don't have enough time, you don't have the luxury of lamenting whether you should have done something differently. You just move on to the next thing and you keep driving hard towards getting a resolution and that's what I've been trying to do. I mean, I've been on the phone talking to people so that we can actually get an outcome that is good for Australia.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

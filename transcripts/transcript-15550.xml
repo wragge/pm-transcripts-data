@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15550</transcript-id>
-    <title>Doorstop Interview Oakden, South Australia</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/04/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15550</transcript-id><title>Doorstop Interview Oakden, South Australia</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/04/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Solomon Islands, nuclear power; polls</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -55,6 +45,4 @@ Solomon Islands, nuclear power; polls</p>
 <p>PRIME MINISTER:</p>
 <p>Well I think it is the most delightful spot; there is no better walk in Australia than around the Torrens. You've got the magnificent Adelaide Oval in the background, I mean what more could you want in life?</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

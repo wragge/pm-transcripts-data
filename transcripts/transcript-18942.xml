@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18942</transcript-id>
-    <title>Leaders to attend Business Advisory Forum</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>04/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18942</transcript-id><title>Leaders to attend Business Advisory Forum</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>04/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Business leaders will meet with the Prime Minister and First Ministers in Canberra on Thursday to discuss ways to seize the opportunities of the Asian Century by lifting productivity through regulatory and competition reform.</p>
 <p>The Gillard Government's plan to secure the nation's economic future is underpinned by a broad productivity agenda centred on five pillars  -  tax reform, skills and education, innovation, infrastructure and broadband and, the focus of this meeting, regulatory and competition reform.</p>
 <p>This will be the second meeting of the Business Advisory Forum (BAF), ahead of the COAG meeting on Friday.</p>
@@ -22,6 +12,4 @@ Business leaders will meet with the Prime Minister and First Ministers in Canber
 <p>This agenda included energy market reform, streamlining environmental regulation, major projects and development assessments and rationalising carbon reduction and energy efficiency schemes.</p>
 <p>Progress on these issues will be discussed, along with ways in which all Governments can lift regulatory performance.</p>
 <p>Leaders will also discuss Seamless National Economy reform priorities to reduce red-tape for business, increase productivity and enable an efficient economy where resources can move to where they can make the greatest economic contribution. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

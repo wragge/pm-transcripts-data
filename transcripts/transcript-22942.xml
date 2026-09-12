@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22942</transcript-id>
-    <title>Radio Interview with Liam Bartlett, ABC 6WS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Petrol prices, interest rates, Minister Tuckey; Richard Court; Centenary of Federation; second hand cars; Mal Colston; POWs;</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22942</transcript-id><title>Radio Interview with Liam Bartlett, ABC 6WS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Petrol prices, interest rates, Minister Tuckey; Richard Court; Centenary of Federation; second hand cars; Mal Colston; POWs;</p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p>BARTLETT:</p>
 <p>The Prime Minister joins us this morning. Prime Minister good morning to you.</p>
@@ -69,7 +59,7 @@
 <p>Well Liam, big debt hurts people a lot because you have to pay it off.</p>
 <p>BARTLETT:</p>
 <p>But there’s always a trade off.</p>
-<p>PRIME MINISTER:<br />
+<p>PRIME MINISTER:<br>
 Well there is a trade off, yes, and if you have a higher debt there’s a negative flowing out of that. These are judgements and our judgement is that having a surplus which enables you to pay off debt, I mean the surplus doesn’t sit there, it’s not as if we’ve collected more than we’ve spent and we hang onto it and don’t do anything with it, when you have a surplus that’s only a statement of the annual excess of the revenue over expenditure. You use it to pay off debt, and we still have $40-$50 billion of debt that Mr Beazley left us with in 1996 and we have to pay it off. And it’s the debt of the Australian public…</p>
 <p>BARTLETT:</p>
 <p>I thought you said you wanted to keep the politics out of it.</p>
@@ -228,6 +218,4 @@ Well there is a trade off, yes, and if you have a higher debt there’s a negati
 <p>PRIME MINISTER:</p>
 <p>Okay, thanks.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

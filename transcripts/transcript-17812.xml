@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17812</transcript-id>
-    <title>Joint press statement with the President of the Republic of Korea</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/04/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17812</transcript-id><title>Joint press statement with the President of the Republic of Korea</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/04/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 1. On 25 April 2011, the President of the Republic of Korea, Lee Myung-bak, and the Prime Minister of Australia, Julia Gillard, held bilateral talks at the Blue House. Prime Minister Gillard paid an official visit to Korea on April 23-25, 2011, in commemoration of the Golden Jubilee of the establishment of Korea-Australia diplomatic relations, as well as the 60th anniversary of Australia's participation in the Battle of Gapyeong.</p>
 <p>2. The two leaders agreed that the Korea-Australia partnership had developed over the last 50 years into a broad-based partnership including significant commercial ties, strong security cooperation and wide-ranging people-to-people links. They renewed their commitment to further strengthen this partnership in the next 50 years on the basis of shared values, mutual respect and genuine friendship.</p>
 <p>3. President Lee paid tribute to the sacrifices made by Australian soldiers to protect the democracy and freedom of the Republic of Korea and expressed gratitude for the Australian Government's unwavering support on issues concerning the Korean Peninsula. Prime Minister Gillard affirmed her support for the Korean Government's efforts to establish peace and security on the peninsula through positive progress in inter-Korean relations. She said Australia would continue to work closely with, and in support of, the Republic of Korea on this issue.</p>
@@ -25,6 +15,4 @@
 <p>13. In celebration of the Korea-Australia Year of Friendship, the two leaders expressed the hope that 2011 would serve as a new benchmark to bring the two countries and peoples even closer together through numerous cultural events and exchange programs.</p>
 <p>14. President Lee encouraged the Australian Government to participate in the Yeosu Expo in 2012. The two leaders also agreed to work closely for the success of the upcoming Fourth High Level Forum on Aid Effectiveness to be held late this year in Busan.</p>
 <p>15. President Lee and Prime Minister Gillard also expressed a desire to intensify collaboration and information sharing on international issues of mutual concern and interest. They expressed their deep condolences to the people of Japan in the wake of the recent earthquake and tsunami disaster and affirmed their readiness to continue to support Japan's recovery efforts. They also agreed to work together in international fora on nuclear safety issues.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

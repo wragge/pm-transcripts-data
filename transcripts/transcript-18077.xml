@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18077</transcript-id>
-    <title>Transforming industry for a greener future</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18077</transcript-id><title>Transforming industry for a greener future</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Australia's leading clean technology companies were showcased today at an event launched by Prime Minister Julia Gillard and Innovation Minister Senator Kim Carr.</p>
 <p>The Clean Technology Showcase presented work from innovative Australian companies who are already at the cutting edge of new green technologies.</p>
 <p>The Gillard Government is helping Australian businesses develop clean energy technologies as part of our Plan for a Clean Energy Future.</p>
@@ -23,6 +13,4 @@ Australia's leading clean technology companies were showcased today at an event 
 <p>This Australian company is commercialising the world's first one piece carbon fibre automotive wheel, which offer huge weight savings and therefore efficiency and performance benefits to the global automotive industry.</p>
 <p>Carbon Revolution is now collaborating directly with the world's largest and most sophisticated vehicle manufacturers in Europe to bring this technology to the market in large volumes.</p>
 <p>This is just one example of how embracing clean technology can open up huge global opportunities. Through Clean Energy Future and the innovation agenda, the Gillard Labor Government will help many more Australian firms transform and access these opportunities. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

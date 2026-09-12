@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12627</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  RADIO INTERVIEW WITH JON FAINE, 3LO   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/04/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: ACCC; fuel prices; medical insurance; Telstra; detention centres; Denis Napthine.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12627</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  RADIO INTERVIEW WITH JON FAINE, 3LO   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/04/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: ACCC; fuel prices; medical insurance; Telstra; detention centres; Denis Napthine.</p>
 <p>E&amp;OE...........  </p>
 <p>FAINE:</p>
 <p>Prime Minister, good morning.</p>
@@ -157,7 +147,7 @@
 <p>Well that is them and then on the other hand you have the Immigration consultative group chaired by John Hodges that goes there and reports a very different point of view.</p>
 <p>FAINE:</p>
 <p>Isn';t this becoming a running sore…</p>
-<p>PRIME MINISTER:<br />
+<p>PRIME MINISTER:<br>
 Well no I don';t believe it is … I mean there is a very strong campaign being run against the Government and particularly may I say by the organisation that employs you, that seems to have nothing else on Lateline except this issue. And you know, I have the impression the ABC has now become an advocate, a participant in the debate, rather than a reporter of the debate. I guess that';s something for the ABC itself to examine. </p>
 <p>FAINE:</p>
 <p>Well now it';s something more because you';ve just put it to me…</p>
@@ -218,6 +208,4 @@ Well no I don';t believe it is … I mean there is a very strong campaign being 
 <p>FAINE:</p>
 <p>Prime Minister thank you for your time. The Prime Minister of Australia John Howard. </p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20900</transcript-id>
-    <title>Doorstop Interview, Melbourne  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/09/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20900</transcript-id><title>Doorstop Interview, Melbourne  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/09/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  JOURNALIST:</p>
 <p>Mr Howard, what';s your reaction to the news today of the “Fair Go Alliance” and suggestions of…</p>
 <p>PRIME MINISTER:</p>
 <p>Well there';s a lot of explaining to be done, I mean here';s a fund that clearly was targeting the Liberal Party and it wasn';t disclosed.  They now say that they';ve had a routine letter and they';re going to put their return in but I thought the last Federal election was about 20 months ago. Anyway, the AEC is dealing with the matter, it';s really got nothing to do with the Government.</p>
@@ -27,6 +17,4 @@
 <p>I think what';s happened with the economy is that everything';s going extremely well except the export sector and that';s largely as a result of the drought and as a result of the fall in world economic activity.  I think they';re the explanations.  But if you look at it you';ve really got two economies, you';ve got the export sector which is quite flat because of the drought, and the rest of the economy, the domestic economy is still growing very very strongly indeed.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

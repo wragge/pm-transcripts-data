@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21264</transcript-id>
-    <title>Interview with Catherine McGrath AM Programme, ABC </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MCGRATH:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21264</transcript-id><title>Interview with Catherine McGrath AM Programme, ABC </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MCGRATH:</p>
 <p>Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning.</p>
@@ -64,6 +54,4 @@
 <p>MCGRATH:</p>
 <p>Prime Minister, thank you very much for speaking to the AM programme.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

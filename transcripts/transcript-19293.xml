@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19293</transcript-id>
-    <title>Tasmanian freight and maritime package</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Launceston</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19293</transcript-id><title>Tasmanian freight and maritime package</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Launceston</p>
 <p>The Gillard Labor Government will invest more than $22 million to boost the future freight capacity of northern Tasmania and improve the skills base of the state's maritime workforce.</p>
 <p>Tasmania has great opportunities to export its high quality produce and products to growing markets across our region.</p>
 <p>Demand for premium Tasmanian products in key sectors like cheese, wine, cherries and minerals is growing as Asian markets are transformed by the growth of the world's largest middle class.</p>
@@ -27,6 +17,4 @@
 <p>On top of that, $20 million has been provided for direct and immediate assistance for exporters, infrastructure improvements at the Port of Burnie to increase container handling capacity and the establishment of a freight logistics coordination team.</p>
 <p>The Freight Logistics Coordination Team will deliver its first report in June this year which will guide a comprehensive industry-led solution to address the state's freight challenges. </p>
 <p>The Federal Labor Government is committed to growing jobs and opportunities for all Australians. The measures announced today will provide a better environment for Tasmanian exporters to compete internationally and help secure jobs and growth future for Tasmania's future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

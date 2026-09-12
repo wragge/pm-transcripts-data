@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17483</transcript-id>
-    <title>Transcript of joint press conference </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/11/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17483</transcript-id><title>Transcript of joint press conference </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/11/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: I'm here with the Minister for Broadband, Communications and the Digital Economy, and we are here predominately to talk about the National Broadband Network, and of course the Telstra structural separation Bill in the Senate, but I do, before making those statements, want to make a brief statement relating to North Korea and tensions on the Korean Peninsula.</p>
 <p>Of course I am, and the Government is, deeply concerned by yesterday's artillery attack on the Republic of Korea, which is a great friend of Australia. I condemn this attack and I send my condolences to the people of Korea, the Republic of Korea, following this attack.</p>
 <p>Yesterday's events, of course, follow the incident in March where a North Korean submarine attacked a vessel of the South Korean Navy. This incident also follows recent reports that North Korea is developing a sophisticated uranium enrichment program in complete defiance of UN Security Council resolutions.</p>
@@ -78,6 +68,4 @@
 <p>PM: Look, our terminology, I'll allow Senator Xenophon to use whatever words he wishes to use.</p>
 <p>We are facilitating important decision making on a transformative piece of microeconomic reform for this country 30 years in the making. There are only so many moments in a nation's history where you get the opportunity to make a decision to get something as big as your telecommunications system right. The moment has been missed in the past. It was missed with the privatisation of Telstra. We are determined that it will not be missed again and that is why we have put this information into the public domain - to support the decision making of this Parliament, which we're due in very shortly.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

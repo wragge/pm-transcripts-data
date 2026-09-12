@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10521</transcript-id>
-    <title>Doorstop Interview, Hotel Grand Chancellor, Hobart </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/10/1997</release-date>
-    <release-type>Interview</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010521.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p><b>JOURNALIST:</b></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10521</transcript-id><title>Doorstop Interview, Hotel Grand Chancellor, Hobart </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/10/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010521.pdf</document><subjects></subjects><content><![CDATA[<p><b>JOURNALIST:</b></p>
 <p>Mr Howard, when can Australians start paying, or expect to be paying cheaper CD prices?</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Well, Senator Alston is making an announcement this afternoon and it’s the right decision in the interests of the consumers of Australia and I hope the legislation has speedy passage through the Parliament, and is not obstructed and delayed, because if it is obstructed and delayed then people can blame the Labor Party and the Australian Democrats for paying higher CD prices than might otherwise be the case. This decision is of particular benefit to young Australians, but not only young Australians. There is no reason why there shouldn’t be significant falls in the price of CDs as a result of this pro-consumer decision by my government.</p>
@@ -54,7 +44,7 @@
 <p>Warwick Smith was speaking for the Government when he called upon Athletics Australia to review the decision and to look again as to whether everything was taken into account. That’s my position, and that’s the position of the Government.</p>
 <p><b>JOURNALIST:</b></p>
 <p>When will you expect the RSA to be signed?</p>
-<p> </p>
+<p>&nbsp;</p>
 <p><b>PRIME MINISTER:</b></p>
 <p>Very soon.</p>
 <p><b>JOURNALIST:</b></p>
@@ -104,6 +94,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Well, I haven’t got a report on that. The Minister is examining it and she will be responding on behalf of the government. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11200</transcript-id>
-    <title>TRANSCRIPT OF THE ACTING PRIME MINISTER                   THE HON TIM FISCHER MP                   RADIO INTERVIEW WITH SALLY SARA                 AM PROGRAMME</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/01/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11200</transcript-id><title>TRANSCRIPT OF THE ACTING PRIME MINISTER                   THE HON TIM FISCHER MP                   RADIO INTERVIEW WITH SALLY SARA                 AM PROGRAMME</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/01/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................................................................................</p>
 <p>ACTING PRIME MINISTER:</p>
 <p>It is time the Democrats stopped fudging on these issues and faced</p>
 <p> up to their responsibilities on the floor of the Senate when we come</p>
@@ -87,6 +77,4 @@
 <p>It's too early to say that but these are matters which have been</p>
 <p> denied by someone who should know after all, and that is head of UNSCOM,</p>
 <p> Richard Butler.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

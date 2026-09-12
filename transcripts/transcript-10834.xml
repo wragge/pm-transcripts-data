@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10834</transcript-id>
-    <title>ADF DEPLOYMENT TO THE GULF</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/02/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Agreement has been reached with the United States that Australia will</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10834</transcript-id><title>ADF DEPLOYMENT TO THE GULF</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/02/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Agreement has been reached with the United States that Australia will</p>
 <p> contribute a unit from the Special Air Services Regiment and two Boeing</p>
 <p> 707s for transport/air-to-air refuelling to support the international</p>
 <p> coalition against Iraq being formed in the Persian Gulf.</p>
@@ -40,6 +30,4 @@
 <p> would have preferred not to have to face. But we cannot ignore the</p>
 <p> threat to stability posed by Saddam Hussein's possession of weapons</p>
 <p> of mass destruction and his flouting of the United Nations.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19047</transcript-id>
-    <title>Australian Memorial to be built in New Zealand</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Queenstown, New Zealand</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19047</transcript-id><title>Australian Memorial to be built in New Zealand</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Queenstown, New Zealand</p>
 <p>Prime Minister Julia Gillard today announced plans to build an Australian Memorial in Wellington, New Zealand, to be completed in time for the Centenary of Anzac on 25 April 2015.</p>
 <p>The Australian Memorial will be located in Wellington in the National War Memorial precinct, a park being developed by the New Zealand Government as the centrepiece of New Zealand‘s Centenary of Anzac commemorations in 2015.</p>
 <p>The memorial will commemorate the shared efforts of both countries in both war and peace, and will complement the Australia-New Zealand Memorial opened on Canberra's Anzac Parade in 2001.</p>
@@ -23,6 +13,4 @@
 <p>The Australian Government has funded the $5 million cost of the memorial.</p>
 <p>The memorial will be completed in time for the Centenary of Anzac on 25 April 2015.</p>
 <p>High resolution architect's impressions of the images are available at <a href="http://www.dva.gov.au/media">www.dva.gov.au/media</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

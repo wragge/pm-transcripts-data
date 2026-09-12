@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40574</transcript-id>
-    <title>Interview with Leigh Sales ABC 730</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>LEIGH SALES:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40574</transcript-id><title>Interview with Leigh Sales ABC 730</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>LEIGH SALES:</strong></p>
 <p>With me now from Parliament House in Canberra is the Australian Prime Minister Malcolm Turnbull who thanks to the time difference between the US and Australia is one of the first world leaders to react to Donald Trump's election. Prime Minister, what is your reaction?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>We congratulate Donald Trump on his election win. And as I said, President-elect Trump has sought to heal the wounds of the campaign which, of course, was a very hard fought one. We offer our good wishes to Secretary Hillary Clinton for her hard fought campaign as well, but it's notable that despite the bitterness of the campaign and the intensity of it, which was confronting for many Australians - a much more bitter fought campaign than we are used to. But nonetheless, the first thing President-elect Trump has done is sought to bring Americans together. He's paid tribute to Secretary Clinton. He sought to set out how he will govern for all Americans, whether they voted for him or not.</p>
@@ -39,6 +29,4 @@
 <p>It’s always a pleasure, thank you Leigh.</p>
 <p><strong>Ends</strong></p>
 
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

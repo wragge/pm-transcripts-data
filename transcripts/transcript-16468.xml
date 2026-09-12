@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16468</transcript-id>
-    <title>Interview with Laurie Oakes Today on Sunday, Nine Network   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/03/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>OAKES: Mr Rudd welcome to the program.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16468</transcript-id><title>Interview with Laurie Oakes Today on Sunday, Nine Network   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/03/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>OAKES: Mr Rudd welcome to the program.</p>
 <p>PM: It's good to be on the program Laurie.</p>
 <p>OAKES: Now there's good news for you from the Queensland election yesterday, were you relieved and surprised by the result?</p>
 <p>PM: I think this goes down to a gutsy performance by a very gutsy leader, Anna Bligh. It's full marks to her. I mean she was up against a cyclone, an oil slick, a conservative billionaire throwing billions at the Liberals and Nationals campaign but she came through.</p>
@@ -93,6 +83,4 @@
 <p>OAKES: Prime Minister, we thank you.</p>
 <p>PM: Thanks very much Laurie.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

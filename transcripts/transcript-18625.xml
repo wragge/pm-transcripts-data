@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18625</transcript-id>
-    <title>Australia welcomes Mexico to Trans-Pacific Partnership</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/06/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18625</transcript-id><title>Australia welcomes Mexico to Trans-Pacific Partnership</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/06/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Minister for Trade and Competitiveness Craig Emerson today warmly welcomed Mexico as a new member of the Trans-Pacific Partnership (TPP).</p>
 <p>The country's inclusion in the negotiations, announced during the G20 Leaders' Summit in Los Cabos, brings the number of parties seeking to conclude a wide-ranging accord on trade and economic integration across the Asia-Pacific region to 10. </p>
 <p>Speaking from Los Cabos, the Prime Minister said Mexico was an important partner to have at the table in the development of a modern, comprehensive trade agreement across Asia and the Pacific.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard and Minister for Trade and Competitiveness Craig Em
 <p>Minister Emerson said Australia looked forward to working with Mexico on this ambitious project.</p>
 <p>The expansion of the TPP group translates into greater opportunities for Australian businesses and farmers to engage with the fastest-growing region on earth.</p>
 <p>Mexico's inclusion was agreed by consensus among TPP members and reflects the country's commitment to trade liberalisation. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

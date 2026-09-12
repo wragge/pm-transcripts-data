@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17290</transcript-id>
-    <title>Prime Minister Transcript of interview with Steve Price MTR 12 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17290</transcript-id><title>Prime Minister Transcript of interview with Steve Price MTR 12 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister, good morning.</p>
 <p>PM: Good morning, Steve. Thanks for having me on your program.</p>
 <p>HOST: Pleasure. When was the last time you sat down at spoke with a real working family and do you think they would thank you for last night's Budget?</p>
 <p>PM: I think I've spoken to a lot of working families during my recent tour of the nation's public hospitals. I got a very clear idea then that one of their priorities was making sure we had a decent health and hospital system for the future. This is one of the reasons why in the Budget last night you see such a large investment in the future of our hospital system, some $7 billion-plus of additional investment for more hospital beds, more doctors, more nurses, more GPs. I think that's a pretty basic delivery point for people listening to your program.</p>
@@ -40,6 +30,4 @@
 <p>As for his successor, David Cameron, I've just spoken to him within the last hour on the phone, congratulated him on being elected to the high office of Prime Minister of the United Kingdom, and the thing about the Australia-UK relationship is that it's pretty much beyond party politics and I'm looking forward to working with Mr Cameron's Government as well.</p>
 <p>HOST: Thanks for finding some time with a busy diary. I appreciate it.</p>
 <p>PM: Thanks very much, Steve.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

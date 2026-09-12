@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11619</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT THE RICHMOND ELECTORATE DINNER            SOUTH TWEED HEADS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/02/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE ......................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11619</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT THE RICHMOND ELECTORATE DINNER            SOUTH TWEED HEADS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/02/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE ......................................................................................</p>
 <p>Thank you very much Larry for that very generous introduction. To your</p>
 <p> wife Jenny, to Don Page, to councillor Lyn Beck, Dr Brian Pezutti MLC,</p>
 <p> many other distinguished guests, ladies and gentlemen.</p>
@@ -333,6 +323,4 @@
 <p> can over the next couple of years.</p>
 <p>Thank you.</p>
 <p>[End]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

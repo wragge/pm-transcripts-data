@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16655</transcript-id>
-    <title>COAG Compact with Retrenched Workers    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has agreed with State and Territory governments to establish a Compact with Retrenched Workers.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16655</transcript-id><title>COAG Compact with Retrenched Workers    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has agreed with State and Territory governments to establish a Compact with Retrenched Workers.</p>
 <p>This is part of the Government's ongoing commitment to provide assistance to people who have lost their job as a result of the global recession.</p>
 <p>From 1 July 2009, retrenched workers aged over 25 years will be entitled to a training place for a government-subsidised Vocational Education and Training qualification.</p>
 <p>The Compact with Retrenched Workers complements the Compact with Young Australians agreed by COAG on 30 April 2009, under which under 20 year olds are guaranteed an education or training place and 20-24 years olds are guaranteed a place to upskill.</p>
@@ -20,6 +10,4 @@
 <p>Today's announcement builds on the Australian Government's investment of almost $300 million to provide retrenched workers with immediate access to intensive employment support.</p>
 <p>The Government cannot stop the global recession from bearing down on communities across Australia, but it can reduce the impact by taking local action to support training and jobs.</p>
 <p>The Compact with Retrenched Workers will help to create a highly skilled workforce which provides individuals with greater job opportunities in the future</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

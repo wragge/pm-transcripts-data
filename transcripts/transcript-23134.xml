@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23134</transcript-id>
-    <title>Joint Press Conference </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/12/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>A fairer funding agreement for schools,  national security,  GrainCorp,  debt ceiling,  Qantas.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23134</transcript-id><title>Joint Press Conference </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/12/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>A fairer funding agreement for schools, national security, GrainCorp, debt ceiling, Qantas.</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>As all of you know shortly before the last election, Minister Shorten ripped $1.2 billion out of school funding. And what that meant was that schools in Queensland, in Western Australia, and in the Northern Territory were being very seriously short-changed.</p>
 <p>Our problem with the deal as it stood at the time of the election was that it was neither fair nor national. I'm pleased to say that Minister Pyne has been talking to the non-signatory states and territory over the last few days and has secured an in principle agreement to a system which is fair and national – a system which no longer involves the Canberra command and control procedures of Labor's bad deal.</p>
 <p>Given that we now have a fair and national deal, the Government will put the $1.2 billion that Labor took out back into school funding over the next four years.</p>
@@ -76,7 +66,7 @@
 <p><strong>MINISTER PYNE:</strong></p>
 <p>The funding is obviously guaranteed, in fact we've added to the $1.2 billion for the three non-funded states. We've always said that we would reduce the command and control features in the Australian Education Act, and we will do that, which will obviously impact on all the signatory states and the non-signatory states, and I think that will be welcomed by the states and territories, but there is no plan to alter the way that the model will be delivered in the signatory states into the future.</p>
 <p>There was conditionality attached to that of course, that won't apply to Western Australia, the Northern Territory and Queensland and we would expect the signatory states to keep the promises that they've made, but at the end of the day, that is a matter for those sovereign jurisdictions.</p>
-<p>But in the model there is an inbuilt review of course in 2015 to make sure that that model is operating effectively and we will adopt that. And, can I just add that this now allows us to focus on the things that matter in education, beyond funding, like teacher quality, more local decision making, the curriculum and parental engagement, in other words, the debate should now shift to quality and standards, rather than simply always being mired in funding.</p>
+<p>But in the model there is an inbuilt review of course in 2015 to make sure that that model is operating effectively and we will adopt that. And, can I just add&nbsp;that this now allows us to focus on the things that matter in education, beyond funding, like teacher quality, more local decision making, the curriculum and parental engagement, in other words, the debate should now shift to quality and standards, rather than simply always being mired in funding.</p>
 <p><strong>QUESTION: </strong></p>
 <p>How will the funding actually be applied in those no-one signatory states? I mean will they be an extension of the basic Gonski model, or are you going to be using an SES model? How is it actually going to be worked out?</p>
 <p><strong>PRIME MINISTER</strong></p>
@@ -116,6 +106,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks, but we have to go, sorry Question Time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19342</transcript-id>
-    <title>Transcript of Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Bomana War Cemetery, Port Moresby, Papua New Guinea</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19342</transcript-id><title>Transcript of Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Bomana War Cemetery, Port Moresby, Papua New Guinea</p>
 <p>PM: It's a very moving experience to be here and to see the rows of Australian war dead.</p>
 <p>I've come here to PNG to commemorate our past and to build for our future.</p>
 <p>I'm very pleased I had the opportunity today to come and pay my respects and the respects of the Australian nation to those who sacrificed so much for the freedom that we enjoy today.</p>
@@ -25,6 +15,4 @@
 <p>I think the setting here in PNG, the tropical setting, the lush setting, is such a stark contrast to the headstones that we see behind us.</p>
 <p>So the brutal simplicity of it really brings the message home for everybody.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

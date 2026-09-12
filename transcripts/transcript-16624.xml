@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16624</transcript-id>
-    <title>Rudd Government to Deliver on Election Commitment on Australian Building and Construction Commission    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/06/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will honour its election commitment to ensure there is a tough cop on the beat in the building and construction industry.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16624</transcript-id><title>Rudd Government to Deliver on Election Commitment on Australian Building and Construction Commission    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/06/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will honour its election commitment to ensure there is a tough cop on the beat in the building and construction industry.</p>
 <p>Tomorrow the Government will introduce legislation which responds to the Wilcox Review by amending the Building and Construction Industry Improvement (BCII) Act.</p>
 <p>The legislation will honour our promise to abolish the Australian Building and Construction Commission and replace it with the Fair Work  -  Building Industry Inspectorate.</p>
 <p>The existing coercive powers will be maintained, alongside new safeguards recommended by Federal Court Judge Murray Wilcox.</p>
@@ -29,6 +19,4 @@
 <p>This will enable compliance to be focussed on those parts of the industry where it is needed most.</p>
 <p>The Government has also accepted and implemented the Wilcox recommendations to equalise penalties for building workers with other workers and to sunset the coercive powers in five years' time.</p>
 <p>Prior to the sunset there will be a review of compliance in the building and construction industry.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23776</transcript-id>
-    <title>A Message from the Prime Minister - Counter-Terrorism measures</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>30/08/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I want to update you about what the Government is doing to make our country as safe and secure as possible.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23776</transcript-id><title>A Message from the Prime Minister - Counter-Terrorism measures</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>30/08/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I want to update you about what the Government is doing to make our country as safe and secure as possible.</p>
 <p>Events in Syria, Iraq and elsewhere and the rise of violent extremism have reminded us that our country is not isolated from potential threats.</p>
 <p>We’ve all seen the horrific images: the beheadings, the crucifixions and the mass executions.</p>
 <p>Appallingly, at least 60 Australians are known to be fighting with terrorist groups in Syria and Iraq and about 100 Australians are known to be funding or facilitating these groups.</p>
@@ -25,6 +15,4 @@
 <p>I want to stress that these efforts are not directed against any particular community or religion; they’re against terrorists and potential terrorists.</p>
 <p>In an increasingly uncertain world, this Government is determined to keep our people safe and our country secure. </p>
 <p>30 August 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

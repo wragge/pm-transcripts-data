@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15366</transcript-id>
-    <title>Coalition Government: Eleven Years of Achievement</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/03/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15366</transcript-id><title>Coalition Government: Eleven Years of Achievement</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/03/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today marks the eleventh anniversary of the election of the  Coalition Government.</p>
 <p>Australia  today is a more prosperous, optimistic and outward-looking nation than it was  on March 2, 1996. We are more confident about who we are and what we stand for.</p>
 <p>Since the election of the Coalition Government, the Australian  economy has grown by 40 per cent into a $1 trillion powerhouse, a model economy  and the envy of the developed world.</p>
@@ -23,6 +13,4 @@ Today marks the eleventh anniversary of the election of the  Coalition Governmen
 <p>My Government has also introduced major social reforms, including  strengthening of the health system through the support for Medicare and private  health insurance, entrenching the principle of mutual responsibility through  such programs as Work-for-the-Dole and beneficial changes to family law through  the introduction of Family Relationship Centres.</p>
 <p>The Government's economic management and reforms and the commitment  and effort of Australian workers has delivered a national economy in far better  shape than in 1996:</p>
 <p>   * </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

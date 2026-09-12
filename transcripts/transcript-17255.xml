@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17255</transcript-id>
-    <title>Anti-smoking action    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced a comprehensive package targeting smoking and its harmful effects, including an increase in the tobacco excise of 25 per cent.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17255</transcript-id><title>Anti-smoking action    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced a comprehensive package targeting smoking and its harmful effects, including an increase in the tobacco excise of 25 per cent.</p>
 <p>This increase in tobacco excise will provide an extra $5 billion over four years, which along with existing revenues from tobacco, will be directly invested in better health and hospitals through the National Health and Hospitals Network Fund.</p>
 <p>The Government's anti-smoking action includes:</p>
 <p>- The first increase in tobacco excise (above inflation) in more than a decade, an increase of 25 per cent.</p>
@@ -53,6 +43,4 @@
 <p>- A record $872 million investment in preventative health including programs in schools, workplaces and community settings</p>
 <p>- $103.5 million under the National Binge Drinking Strategy</p>
 <p>- The decision to establish the Australian National Preventative Health Agency which is currently being blocked by the Opposition in the Senate.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

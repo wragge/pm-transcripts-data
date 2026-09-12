@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19180</transcript-id>
-    <title>Special Operations Units Awarded Battle Honour</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19180</transcript-id><title>Special Operations Units Awarded Battle Honour</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Prime Minister Julia Gillard and Minister for Defence Stephen Smith today announced that the Australian Army's Special Operations Command will receive the first Army Battle Honour since the end of the Vietnam War.</p>
 <p>The Battle Honour is for outstanding performance during the Shah Wali Kot Offensive in Afghanistan from May to June 2010.</p>
 <p>The Battle Honour, titled Eastern Shah Wali Kot, has been awarded in recognition of the operational actions of the Special Air Service Regiment (SASR) and 2nd Commando Regiment (2 Cdo Regt) from the Australian Special Operations Task Group Rotation XII.</p>
@@ -21,6 +11,4 @@
 <p>The Chief of Army, Lieutenant General David Morrison, recommended that the SASR and 2 Cdo Regt. receive formal recognition for their outstanding performance during the offensive.</p>
 <p>The Chief of Army directed the Battle Honour Committee to examine all Army engagements since the Vietnam War to determine whether actions since then are eligible for formal recognition under the revised guidelines. </p>
 <p>The Battle Honour will be formally presented to the Regiments later this year. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

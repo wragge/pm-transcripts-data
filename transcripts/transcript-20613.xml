@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20613</transcript-id>
-    <title>Australia&#039;s New Governor-General  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/06/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that Her Majesty The Queen has accepted my recommendation to appoint Major-General Michael Jeffery, AC,CVO,MC as Australia's next Governor-General.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20613</transcript-id><title><![CDATA[Australia&#039;s New Governor-General  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/06/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that Her Majesty The Queen has accepted my recommendation to appoint Major-General Michael Jeffery, AC,CVO,MC as Australia's next Governor-General.</p>
 <p> While the appointment, when formally made, will be at royal pleasure, it is expected that General Jeffery will serve between three and four years.</p>
 <p>General Jeffery has a long and distinguished record of public service. He was Governor of Western Australia from 1993 to 2000, during which period he twice served as Administrator of the Commonwealth. General Jeffery is currently Chairman of the not-for-profit public policy think-tank, Future Directions International.</p>
 <p>He was born in Wiluna, Western Australia in 1937 and was educated at Cannington and East Victoria Park State Schools and Kent Street High School.</p>
@@ -22,6 +12,4 @@
 <p>I am sure that this appointment will be warmly welcomed throughout the Australian community.</p>
 <p> The swearing in of General Jeffery as Governor-General will take place in the Senate Chamber on 11 August 2003. Further details of the ceremony will be announced later.</p>
 <p>Sir Guy Green, Governor of Tasmania, will continue to administer the Commonwealth of Australia until the swearing in of the new Governor-General. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

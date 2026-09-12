@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19391</transcript-id>
-    <title>Automotive Leaders Dialogue Joint Communique</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/06/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Melbourne</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19391</transcript-id><title>Automotive Leaders Dialogue Joint Communique</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/06/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Melbourne</p>
 <p>Representatives from the Australian, Victorian and South Australian Governments met with automotive industry leaders, including representatives from Holden, Toyota and Ford, component manufactures, industry associations and union leaders to discuss the future of Australia's automotive industry.</p>
 <p>All parties acknowledged the shared responsibility in ensuring a viable, innovative and efficient automotive industry. The meeting expressed a shared commitment and optimism about the future of automotive manufacturing in Australia.Today's meeting agreed on the importance of cooperation and community involvement in implementing the $76 million package of measures announced in response to Ford's recent decision to cease manufacturing operations in Australia in October 2016, noting that Ford will remain in local production until then and will continue as a significant employer in design, engineering and sales.</p>
 <p>The meeting of key industry, union and government representatives welcomed the measures and agreed to work closely on implementation of the package.</p>
@@ -33,6 +23,4 @@
 <p>Minister Combet indicated that following the meeting, he will be discussing prospective policy arrangements, including supply chain arrangements, with motor vehicle producers, component manufacturers, unions and other industry stakeholders.</p>
 <p>The meeting noted that the Manufacturing Leaders Group will continue a tripartite discussion on these matters.</p>
 <p>All parties will be consulted in this policy work over coming months, addressing issues facing motor vehicle producers, and associated companies engaged in the supply chain through component manufacturing.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

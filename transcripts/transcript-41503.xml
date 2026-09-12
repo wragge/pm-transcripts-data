@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41503</transcript-id>
-    <title>Radio interview with Craig Zonca and Rebecca Levingston, ABC Brisbane</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>14/03/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Land 400; Dora the Explorer</subjects>
-    <content><![CDATA[<p><strong>REBECCA LEVINGSTON: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41503</transcript-id><title>Radio interview with Craig Zonca and Rebecca Levingston, ABC Brisbane</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>14/03/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Land 400; Dora the Explorer</subjects><content><![CDATA[<p><strong>REBECCA LEVINGSTON: </strong></p>
 <p>Prime Minister, Good morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning, great to be with you.</p>
@@ -69,6 +59,4 @@
 <p><strong>REBECCA LEVINGSTON:</strong></p>
 <p>Malcolm Turnbull, the Prime Minister of Australia in town today to announce a $5 billion dollar defence contract.</p>
 <p><strong>[ENDS] </strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

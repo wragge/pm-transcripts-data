@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22053</transcript-id>
-    <title>Doorstop Interview Corinthia Palace Hotel, Malta </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/11/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22053</transcript-id><title>Doorstop Interview Corinthia Palace Hotel, Malta </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/11/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well here I am in Malta, it's very nice.  I haven't been here for 25 years, it's very nice to be back.</p>
 <p> JOURNALIST:</p>
 <p> Prime Minister, how relevant is CHOGM in today's environment and what are you hoping to achieve from this meeting?  Are you hoping to get the support of Commonwealth nations to put increased pressure on through the WTO process?</p>
@@ -53,6 +43,4 @@
 <p> In time, yes. But on the sub-continent it's cricket.</p>
 <p> Thank you.</p>
 <p> [ends]   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

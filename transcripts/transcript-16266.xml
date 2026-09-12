@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16266</transcript-id>
-    <title>Interview with Neil Mitchell Radio 3AW   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/11/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Mr Rudd, good morning. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16266</transcript-id><title>Interview with Neil Mitchell Radio 3AW   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/11/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Mr Rudd, good morning. </p>
 <p>PM: Good morning.</p>
 <p>MITCHELL: It's the sort of incident isn't it, in Mumbai, that really just shakes the whole world, shakes you up?</p>
 <p>PM: It does. I mean, there's this whole range of emotions from fear, anger, disbelief. Many people I'm sure listening to your program have been to Mumbai or had friends who have either lived there or have studied there or have been through. But because it's such a cosmopolitan centre, people are there from all over the world, and it's this horrible reminder that terrorism is no respecter of international political boundaries.</p>
@@ -104,6 +94,4 @@
 <p>PM: Mate, I would happily not get on a plane again in my life. I really would. I mean, I used to be a diplomat and I have seen as much of the world as I would actually like to. But if in the national interest, I've got to travel  -  in the global financial crisis you've got to - and I will do so.</p>
 <p>MITCHELL: Thank you very much for your time.</p>
 <p>PM: Thanks Neil.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

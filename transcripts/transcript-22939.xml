@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22939</transcript-id>
-    <title>Doorstop Interview, Paralympic Dinner</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/11/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Paralympic Games</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22939</transcript-id><title>Doorstop Interview, Paralympic Dinner</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/11/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Paralympic Games</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>How would you describe the achievements of this Paralympic team?</p>
@@ -28,6 +18,4 @@
 <p>PRIME MINISTER:</p>
 <p>We are a can-do country and the fact that we’re such an egalitarian, fair minded country. We have the motto of the fair go. We don’t have that for nothing. We do give people a fair go, it’s one of our great qualities and we should be very pleased about it.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

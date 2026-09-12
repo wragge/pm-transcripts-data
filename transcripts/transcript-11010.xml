@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11010</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP AND                   GENERAL BARRY MCCAFFREY                   (DIRECTOR, OFFICE OF NATIONAL DRUG POLICY)                   JOINT PRESS CONFERENCE                 WILLARD INTER-CONTINENTAL HOTEL, WASHINGTON</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/07/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE.........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11010</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP AND                   GENERAL BARRY MCCAFFREY                   (DIRECTOR, OFFICE OF NATIONAL DRUG POLICY)                   JOINT PRESS CONFERENCE                 WILLARD INTER-CONTINENTAL HOTEL, WASHINGTON</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/07/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE.........</p>
 <p>PRIME MINISTER:</p>
 <p>Well, the General and I have just had a very valuable meeting. I've</p>
 <p> extended an invitation to him to visit Australia. Nobody has a greater</p>
@@ -225,6 +215,4 @@
 <p> relation to marijuana and other drugs and I find that puzzling. Anyway,</p>
 <p> I really, I must go.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

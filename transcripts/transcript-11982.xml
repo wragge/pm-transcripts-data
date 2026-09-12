@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11982</transcript-id>
-    <title>Interview with Tracy Grimshaw, Today Show </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: National Drugs' Campaign Launch; Memorial Service for Sir Donald Bradman.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11982</transcript-id><title>Interview with Tracy Grimshaw, Today Show </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: National Drugs' Campaign Launch; Memorial Service for Sir Donald Bradman.</p>
 <p>E&amp;OE................................ </p>
 <p>GRIMSHAW:</p>
 <p>Good morning. Clearly you think that parents are an under-utilised resource in fighting the drug problem, but I guess most parents would say that they do as much as they possibly can.</p>
@@ -44,6 +34,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

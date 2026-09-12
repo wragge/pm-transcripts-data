@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15215</transcript-id>
-    <title>Doorstop Interview, Lakes City Church, Wangara</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/02/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15215</transcript-id><title>Doorstop Interview, Lakes City Church, Wangara</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/02/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 National Plan for Water Security; David Hicks; Iraq.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:  </p>
@@ -99,6 +89,4 @@ National Plan for Water Security; David Hicks; Iraq.</p>
 <p>What was your feeling about, and I know you would've read the local paper, of coming back and seeing Noel Crichton-Brown and Brian Burke plastered over all....</p>
 <p>PRIME MINISTER:</p>
 <p>I run a very disciplined campaign Matt.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

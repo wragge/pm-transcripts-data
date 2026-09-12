@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22756</transcript-id>
-    <title>Transcript of Joint Press Conference - Townsville</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>16/07/2013</release-date>
-    <release-type>Press Conference</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Treasurer , Minister for Climate Change, Environment, Heritage and Water</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22756</transcript-id><title>Transcript of Joint Press Conference - Townsville</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>16/07/2013</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Treasurer , Minister for Climate Change, Environment, Heritage and Water</p>
 <p>PM: Thanks very much for coming. It is great to be back in Townsville. I have been to this great city in Queensland’s north many, many times over the years.</p>
 <p>As I travel around North Queensland and the rest of the nation it's clear to me that many Australians are feeling cost of living pressures.</p>
 <p>This is real, not just in Queensland's north, but around the nation.</p>
@@ -243,6 +233,4 @@
 <p>So I would draw everyone's attention to what the Indonesian Foreign Minister had to say this morning.</p>
 <p>Thanks very much folks.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

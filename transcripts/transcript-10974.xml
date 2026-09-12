@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10974</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT LUNCHEON IN HONOUR OF HIS EXCELLENCY                MR OSCAR LUIGI SCALFARO                PRESIDENT OF THE REPUBLIC OF ITALY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/12/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10974</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT LUNCHEON IN HONOUR OF HIS EXCELLENCY                MR OSCAR LUIGI SCALFARO                PRESIDENT OF THE REPUBLIC OF ITALY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/12/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>Your Excellency, President Scalfaro; to your daughter, Marianna;</p>
 <p>   Excellencies; my ministerial and parliamentary colleagues; ladies</p>
 <p>   and gentlemen.</p>
@@ -150,6 +140,4 @@
 <p>   honour your country and I thank you for visiting us. I now invite</p>
 <p>   the Leader of the Opposition, Mr Beazley, to support my remarks.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

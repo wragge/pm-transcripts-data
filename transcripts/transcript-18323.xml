@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18323</transcript-id>
-    <title>Federal and State Govt&#039;s honour SCG&#039;S 100th Test with $186m upgrade</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18323</transcript-id><title><![CDATA[Federal and State Govt&#039;s honour SCG&#039;S 100th Test with $186m upgrade]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and NSW Premier Barry O'Farrell today celebrated the 100th test match at the Sydney Cricket Ground (SCG) by announcing a $186 million upgrade to the Bradman, Noble and Messenger Stands.</p>
 <p>The NSW Government will contribute $86 million to the project, while the Australian Government and the Sydney Cricket and Sports Ground Trust will contribute $50 million each.</p>
 <p>Work will start shortly after the Australia v India One Day International in February with the project scheduled to be completed before the 2014 Ashes test match between Australia and England.</p>
@@ -24,6 +14,4 @@ Prime Minister Julia Gillard and NSW Premier Barry O'Farrell today celebrated th
 <p>Replacement of the Noble, Bradman and Messenger stands is aimed at improving spectator enjoyment and also providing state-of-the-art facilities for corporate and media interests.</p>
 <p>Plans also include the largest video screen at any Australian sports ground, 700 person dining room, three new bar areas and secure player facilities.</p>
 <p>Once construction is complete the capacity of the SCG will increase from 45,000 to 48,000.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

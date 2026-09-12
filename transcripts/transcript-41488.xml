@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41488</transcript-id>
-    <title>Countdown to Australia’s Commonwealth Games</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>05/03/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In 30 days, Australia will host the Commonwealth Games for the fifth time.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41488</transcript-id><title>Countdown to Australia’s Commonwealth Games</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>05/03/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In 30 days, Australia will host the Commonwealth Games for the fifth time.</p>
 <p>From 4–15 April, we will welcome more than 6600 athletes and team officials from 70 Commonwealth nations and territories in the largest sporting event that our nation has hosted this decade.</p>
 <p>The 2018 Gold Coast Games will feature the largest integrated sports program in Commonwealth Games history, comprising 18 sports and seven para-sports. There are also a number of new sports in women’s rugby sevens, beach volleyball and para triathlon.</p>
 <p>Significantly, these Games will see for the first time ever, an equal number of men’s and women’s medal events contested.</p>
@@ -17,6 +7,4 @@
 <p>The focus of the Commonwealth’s investment has been on infrastructure and development projects that leave a lasting legacy for the Gold Coast and broader Queensland.</p>
 <p>The Australian team will number more than 700 with our largest contingent of athletes in Games history to be supported by an army of coaches, officials and support staff.</p>
 <p>We wish them the very best and look forward to cheering them on with their families and friends.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

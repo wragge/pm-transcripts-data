@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15776</transcript-id>
-    <title>Joint Media Release with the Minister for Health and Ageing, National Health and Hospitals Reform Commission  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Federal Cabinet today formally approved the establishment of the National Health and Hospitals Reform Commission.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15776</transcript-id><title>Joint Media Release with the Minister for Health and Ageing, National Health and Hospitals Reform Commission  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Federal Cabinet today formally approved the establishment of the National Health and Hospitals Reform Commission.</p>
 <p>Cabinet today directed the National Health and Hospitals Reform Commission to develop a long-term health reform plan for a modern Australia.</p>
 <p>The Commission has been tasked by Cabinet to provide an interim report on a long-term health reform plan to the Commonwealth Government by the end of 2008, and a final plan in mid 2009.</p>
 <p>Following formal appointment by Cabinet, Dr Christine Bennett has today been appointed to Chair the National Health and Hospitals Reform Commission.</p>
@@ -37,6 +27,4 @@
 <p>This experienced team of Commissioners will undertake an intensive work plan, with every member having committed one or two days a week to this important project.</p>
 <p>The Commission will report to the Commonwealth Minister for Health and Ageing, and, through her to the Prime Minister, and to the Council of Australian Governments and the Australian Health Ministers' Conference.</p>
 <p>The Commission will advise the Government on the key aspects of the framework for the next health care agreements between the Commonwealth and the States and Territories.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12272</transcript-id>
-    <title>Scoresby Freeway</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/10/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Motorists will be able to travel toll-free along the $890 million Scoresby Freeway linking Ringwood, Dandenong and Frankston from mid-2008.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12272</transcript-id><title>Scoresby Freeway</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/10/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Motorists will be able to travel toll-free along the $890 million Scoresby Freeway linking Ringwood, Dandenong and Frankston from mid-2008.</p>
 <p>Construction should begin in 2002, subject to Victoria advancing the planning processes.</p>
 <p>The Commonwealth and Victorian Governments have signed a Memorandum of Understanding confirming the Federal Government’s requirement that each government contribute to the construction of the Scoresby Freeway on a 50:50 basis.</p>
 <p style="margin-left: 40px;">The Commonwealth will be contributing $445m.</p>
@@ -19,6 +9,4 @@
 <p>The Scoresby Freeway between Ringwood and Frankston will deliver major national economic benefits and will be a catalyst for industrial and commercial development.</p>
 <p>The new freeway will provide better links from major industrial areas along the Scoresby Corridor to ports, airports and other major freight routes. More than 350,000 jobs – representing 28 per cent of Melbourne’s total workforce – are located in the Scoresby Transport Corridor.</p>
 <p>9 October 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

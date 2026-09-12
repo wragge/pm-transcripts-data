@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12700</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  PRESS CONFERENCE, PARLIAMENT HOUSE   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/04/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: stem cell research; COAG; death of constable McEnallay;</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12700</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  PRESS CONFERENCE, PARLIAMENT HOUSE   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/04/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: stem cell research; COAG; death of constable McEnallay;</p>
 <p>E&amp;OE...........  </p>
 <p>PRIME MINISTER:</p>
 <p>[tape starts]….inform you that I am today writing to the Premiers and Chief Ministers with a proposed approach to the issue of stem cell research. This is a very difficult but very important issue and it';s one that challenges the governments all around Australia to strike the correct balance between the evident research potential that';s involved, the capacity that research might have in the future to both prolong human life and also to relieve human suffering, and also most particularly to provide research and medical science breakthroughs in relation to the most debilitating of human afflictions and human diseases.</p>
@@ -39,7 +29,7 @@
 <p> JOURNALIST:</p>
 <p>If the premiers and territory leaders agree when would you expect to put the legislation into parliament?</p>
 <p>PRIME MINISTER:</p>
-<p>Well, we would want to put it in place as soon as possible.  The idea would be that we'd try and have it in place by the end of June, that would be the goal.  And that's what I've said in my letter to the premiers.<br />
+<p>Well, we would want to put it in place as soon as possible.  The idea would be that we'd try and have it in place by the end of June, that would be the goal.  And that's what I've said in my letter to the premiers.<br>
 JOURNALIST:</p>
 <p>What is your view - ?</p>
 <p>PRIME MINISTER:</p>
@@ -201,6 +191,4 @@ JOURNALIST:</p>
 <p>PRIME MINISTER:</p>
 <p>You';re asking me to speculate about interest rates? You know Prime Ministers can never do that. Okay? Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

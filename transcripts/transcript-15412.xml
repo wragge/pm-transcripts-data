@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15412</transcript-id>
-    <title>Central Coast and Hunter Region Natural Disaster</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/06/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The violent storm and subsequent flooding in the Central Coast and Hunter regions of New South Wales has caused extensive property damage and a significant number of fatalities. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15412</transcript-id><title>Central Coast and Hunter Region Natural Disaster</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/06/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The violent storm and subsequent flooding in the Central Coast and Hunter regions of New South Wales has caused extensive property damage and a significant number of fatalities. </p>
 <p>On behalf of the Government, I express my deepest sympathy to the families and friends of those who have lost loved ones in this terrible event. </p>
 <p>Our thoughts and prayers are with the communities who have suffered and are continuing to feel the impact of this natural disaster. </p>
 <p>Given the devastation, I have authorised Commonwealth support in the form of cash payments to people who have suffered serious injury, or lost their principal place of residence or had that residence rendered uninhabitable for a period of 48 hours as a direct result of this disaster. </p>
@@ -18,6 +8,4 @@
 <p>The recovery operation will take time and I am committed to working with the NSW Premier, Mr Morris Iemma, to support the ongoing relief effort. I spoke last night to Premier Iemma offering any additional practical Commonwealth assistance that might be needed. </p>
 <p>The rescue, recovery and relief operation so far has been exemplary and on behalf of the Government I extend my gratitude and thanks to all those involved in the response. </p>
 <p>The police, state emergency service personnel, rescue crews and all other people involved in the storm and flood response rightfully deserve our admiration and respect. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

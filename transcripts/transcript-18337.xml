@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18337</transcript-id>
-    <title>Eric Ripper</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18337</transcript-id><title>Eric Ripper</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I would like to thank Eric Ripper for his service to Western Australia and Australia.</p>
 <p>He has served on the front bench of WA's parliamentary Labor Party for more than 20 years, including as a loyal and effective Deputy Premier in a two-term Labor Government.</p>
 <p>During eight years as Treasurer from 2001 to 2008, Eric inherited an economy in recession and went on to deliver eight budget surpluses.</p>
@@ -18,6 +8,4 @@ I would like to thank Eric Ripper for his service to Western Australia and Austr
 <p>Following the defeat of Labor in 2008, Eric accepted the role as Party Leader at his colleagues' request. For three years, he has led the WA Labor Party through turbulent times, fostering unity and purpose at a time when both could have been in short supply.</p>
 <p>Eric is a proud West Australian and a true believer in the Labor cause. He has supported and assisted the development of WA's next generation of Labor politicians, and I know his commitment to the Party has never wavered.</p>
 <p>I understand that the WA Party will meet next week to elect a new leader, and I look forward to working closely with them in the interests of Western Australia and the nation. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

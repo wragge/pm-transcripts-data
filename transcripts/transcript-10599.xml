@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10599</transcript-id>
-    <title>Expo 2000</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/10/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The decision of State and Territory Governments to meet half the cost of an Australian pavilion at Expo 2000 in Hannover has ensured that Australia will now attend.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10599</transcript-id><title>Expo 2000</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/10/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The decision of State and Territory Governments to meet half the cost of an Australian pavilion at Expo 2000 in Hannover has ensured that Australia will now attend.</p>
 <p>Australia's participation at Hannover was discussed with Premiers and Chief Ministers at the recent meeting of the Council of Australian Governments. Premiers and Chief Ministers were very supportive of Australia attending the Expo and agreed to consider a contribution towards the substantial costs of a world class pavilion.</p>
 <p>I subsequently received an offer from the Premier of Queensland, Mr Borbidge, to arrange a contribution of $8.5 million from the States and Territories towards the cost of an Australian pavilion. The Commonwealth will match this contribution.</p>
 <p>The offer from Mr Borbidge addresses the Commonwealth's concerns about the costs of attending the Expo, particularly with Australia hosting a number of major international events in 2000 including the Olympics, the Paralympics and the World Economic Forum, as well as preparations for the Centenary of Federation and the Commonwealth Heads of Government meeting in 2001.</p>
@@ -19,6 +9,4 @@
 <p>The decision to attend Expo 2000 is a boost for Queensland's bid to host Expo 2002 as our participation at Hannover will significantly improve the prospects for a successful Queensland bid.</p>
 <p>Federal-state cooperation can lead to benefits for all Australians, and I appreciate the States' contribution to Australia's participation at Expo 2000.</p>
 <p>1 December 1997</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

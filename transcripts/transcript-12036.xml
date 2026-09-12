@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12036</transcript-id>
-    <title>Doorstop Interview, Parliament House</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12036</transcript-id><title>Doorstop Interview, Parliament House</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Where to from here?</p>
 <p>PRIME MINISTER:</p>
@@ -29,6 +19,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well I'm not going to start talking or speculating about that. As far as the Indonesian President is concerned I've indicated to her office I wish to speak to her today. She's been tied up in a Cabinet meeting. I guess she'll ring me later tonight bear in mind there's a three hour time difference.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

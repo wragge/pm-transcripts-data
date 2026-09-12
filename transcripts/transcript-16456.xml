@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16456</transcript-id>
-    <title>Meeting with the Prime Minister of Iraq    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/03/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today the Prime Minister met with Prime Minister Nouri Al-Maliki of Iraq.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16456</transcript-id><title>Meeting with the Prime Minister of Iraq    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/03/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today the Prime Minister met with Prime Minister Nouri Al-Maliki of Iraq.</p>
 <p>Mr Al-Maliki is the first Prime Minister of Iraq to visit Australia and his visit is of historic importance.</p>
 <p>The Prime Minister congratulated Mr Al-Maliki on the significant improvement in Iraq's security situation over the past year and on Iraq's continued economic and political progress, reflected in successful provincial elections in January.</p>
 <p>Prime Minister Al-Maliki conveyed his and the people of Iraq's deep appreciation for Australia's continued strong commitment to a secure, prosperous and democratic Iraq.</p>
@@ -29,6 +19,4 @@
 <p>• a $9 million initiative on quarantine and border control training, and</p>
 <p>• a $4 million initiative to create rural businesses through rural finance.</p>
 <p>As a start to building international mechanisms to underpin this growing relationship, the leaders agreed to a bilateral Memorandum of Understanding on Education and Training to facilitate people-to-people links between the two countries.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

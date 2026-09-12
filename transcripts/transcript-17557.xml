@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17557</transcript-id>
-    <title>Prime Minister’s New Year message</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/01/2011</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17557</transcript-id><title>Prime Minister’s New Year message</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/01/2011</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Happy New Year.</p>
 <p>As the fireworks fade and the cricket moves from Melbourne to Sydney, I'm proud to be Australian and excited about the year ahead.</p>
 <p>Australia can look forward to 2011 confident in our future as a fair and prosperous nation.</p>
@@ -24,6 +14,4 @@ Happy New Year.</p>
 <p>Australia is a wonderful country, the greatest country on earth.</p>
 <p>I know this year we can do great things together.</p>
 <p>I hope you enjoy the rest of your break, and come back full of energy and excitement - but not too soon. Happy New Year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

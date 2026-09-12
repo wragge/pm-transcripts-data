@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12045</transcript-id>
-    <title>Television Interview with Rosemary Church, CNN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>31/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12045</transcript-id><title>Television Interview with Rosemary Church, CNN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>31/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................</p>
 <p>CHURCH:</p>
 <p>Joining us now from Melbourne is Australia's Prime Minister, John Howard. Mr Howard thanks for talking with us. Now if we can just start, you have said that Australia is neither morally nor legally obliged to accept these refugees. The United Nations has said that Australia has primary responsibility, what's your reaction to that?</p>
 <p>PRIME MINISTER:</p>
@@ -32,6 +22,4 @@
 <p>CHURCH:</p>
 <p>Prime Minister John Howard thanks for talking to us on CNN.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

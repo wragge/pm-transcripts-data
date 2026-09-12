@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11405</transcript-id>
-    <title>29 June 1999                                                  TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT 1999 GRADUATION PARADE FOR                 GENERAL SERVICE OFFICERS                 ROYAL MILITARY COLLEGE, DUNTROON                                              SUBJECTS: Armed services of Australia, Royal Military College</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/06/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11405</transcript-id><title>29 June 1999                                                  TRANSCRIPT OF THE PRIME MINISTER                 THE HON JOHN HOWARD MP                 ADDRESS AT 1999 GRADUATION PARADE FOR                 GENERAL SERVICE OFFICERS                 ROYAL MILITARY COLLEGE, DUNTROON                                              SUBJECTS: Armed services of Australia, Royal Military College</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/06/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>General Hickling the Chief of the Australian Army, Brigadier Pursey,</p>
 <p> other distinguished guests, ladies and gentlemen.</p>
 <p>It is a special privilege for me on this stunning Canberra morning</p>
@@ -64,6 +54,4 @@
 <p> all of you every happiness and every success in your professional</p>
 <p> career in the future. Thank you and good luck.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21344</transcript-id>
-    <title>Doorstop Interview, Sydney  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21344</transcript-id><title>Doorstop Interview, Sydney  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Prime Minister ... Australian troops [inaudible]...</p>
 <p>PRIME MINISTER:</p>
 <p>Well very much so, it's a reminder that they're doing dangerous, very important work. We admire their bravery and their professionalism and think of them very much. It just brings home to us that this is not a picnic - it's very hard and it's very dangerous and they're very brave.</p>
@@ -21,6 +11,4 @@
 <p>As you say, seeing that confrontation come so close to the Australians it really does ram home the dangers - are you quite happy with all the logistical support and all the hardware that our troops do have over there at moment.... considering the stress.....</p>
 <p>PRIME MINISTER:</p>
 <p>I am, they are very well trained. They are superbly trained but like all soldiers, they put their bodies and their lives on the line and when they go on duty and that's why we should support them and admire them and compliment them for their bravery and professionalism.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10837</transcript-id>
-    <title>$1 MILLION FOR MANUKA OVAL UPGRADE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/12/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to announce today the provision of $1 million towards</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10837</transcript-id><title>$1 MILLION FOR MANUKA OVAL UPGRADE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/12/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to announce today the provision of $1 million towards</p>
 <p> the re-development of Manuka Oval.</p>
 <p>While Manuka Oval is undoubtedly one of the most picturesque grounds</p>
 <p> in Australia, the ACT Government and ACT Cricket Association have</p>
@@ -35,6 +25,4 @@
 <p> sporting infrastructure for first class cricket and high standard</p>
 <p> Australian Football League games.</p>
 <p> 17 December 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

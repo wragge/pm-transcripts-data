@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19040</transcript-id>
-    <title>Statement to the House of Representatives - Closing the Gap</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/02/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19040</transcript-id><title>Statement to the House of Representatives - Closing the Gap</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/02/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Speaker,</p>
 <p>On behalf of the nation, I present the fifth annual Closing the Gap Statement.</p>
 <p>I am here today because the Indigenous and non-Indigenous people of this country have decided to walk the path of Reconciliation together.</p>
@@ -180,6 +170,4 @@
 <p>The oldest and the newest Australians alike.</p>
 <p>In that hope, I present the fifth annual Closing the Gap Statement to the Parliament and people of the nation, proud of our successes, more determined than ever to remedy our failings and cautiously optimistic for the long road ahead.</p>
 <p>[CHECK AGAINST DELIVERY]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

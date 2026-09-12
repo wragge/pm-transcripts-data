@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18175</transcript-id>
-    <title>Transcript of doorstop interview, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18175</transcript-id><title>Transcript of doorstop interview, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JOURNALIST: Can I just ask you a very important question first up on jobs and yours in particular. Let's talk about Mark Bishop and Alan Griffin, have you spoken to them, do you believe the (inaudible)?</p>
 <p>PM: I'll let the ex-Labor politicians and the commentators all chatter about that, the focus here is on Australian jobs, jobs today and the jobs of the future.</p>
 <p>JOURNALIST: Do you think that's all it is, just chatter?</p>
@@ -27,6 +17,4 @@ JOURNALIST: Can I just ask you a very important question first up on jobs and yo
 <p>JOURNALIST: PM, just quickly, do you have any comment on the death of Steve Jobs  -  Apple CEO. It is confirmed that he has passed away.</p>
 <p>PM: I've been saddened to hear that news, I mean here we are at a Future Jobs Forum and the jobs of the future are going to be shaped by innovation and we hear the news of the loss of an incredible global innovator. I mean it's not too much to say he literally changed our world. All of us would be touched everyday in our daily lives by products that he was the creative genius behind. So this is very sad news and my condolences go to his family and friends.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16970</transcript-id>
-    <title>Prime Minister Realising our broadband future University of New South Wales Sydney 10 December 2009</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/12/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am delighted to be here today at this important forum, joining both those gathered here in person, and those online.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16970</transcript-id><title>Prime Minister Realising our broadband future University of New South Wales Sydney 10 December 2009</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/12/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am delighted to be here today at this important forum, joining both those gathered here in person, and those online.</p>
 <p>Thank you to Paul Twomey for his warm introduction, and my thanks to Stephen Conroy for organising this event and for all those who have assisted.</p>
 <p>Stephen and others have brought together people with both vision and the capacity to turn vision into reality - dreamers and experts, pragmatists and digital warriors.</p>
 <p>Earlier this year the Australian Government made a historic commitment to the future of broadband, jobs and the future of the Australian economy, the commitment to build the National Broadband Network.</p>
@@ -118,6 +108,4 @@
 <p>With these commitments, it then turns to industry to take the lead to ensure that Australia realises the full potential of the digital economy. Your task at this forum is to identify the first level of applications, services and business models and the steps required to make them happen.</p>
 <p>Today marks the beginning of a nation-wide conversation of how we turn the digital vision to reality.</p>
 <p>We have never pretended this mammoth project is easy. We need your input, your support and your vision. This is important work and I look forward to the results of the time you spend together. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22777</transcript-id>
-    <title>Transcript of interview with Andrew Bolt</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>28/07/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject(s): Asylum seekers; PNG asylum seeker policy; Carbon tax; Climate change; Budget surplus</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22777</transcript-id><title>Transcript of interview with Andrew Bolt</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>28/07/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject(s): Asylum seekers; PNG asylum seeker policy; Carbon tax; Climate change; Budget surplus</p>
 <p>HOST: Prime Minister, thank you for coming on the show.</p>
 <p>PM: Thanks for having me, Andrew.</p>
 <p>HOST: Prime Minister, in 2008 you scrapped our tough border laws.</p>
@@ -139,6 +129,4 @@
 <p>And we have among the lowest debt and deficit levels in the world, with an AAA credit rating. Despite what Mr Abbott may say on your program.</p>
 <p>HOST: Prime Minister, thank you so much for joining me. I hope you didn’t regret it.</p>
 <p>PM: No, no. I'm happy to come back.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

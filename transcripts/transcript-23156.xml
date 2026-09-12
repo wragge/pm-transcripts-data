@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23156</transcript-id>
-    <title>Launch of the Anzac Centenary Public Fund</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>12/12/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government is pleased to launch the Anzac Centenary Public Fund with Mr Lindsay Fox AC.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23156</transcript-id><title>Launch of the Anzac Centenary Public Fund</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>12/12/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government is pleased to launch the Anzac Centenary Public Fund with Mr Lindsay Fox AC.</p>
 <p>This Fund will enable all Australians to contribute to important projects such as the national travelling exhibition, as well as major state and territory initiatives which will take place between 2014 and 2018.</p>
 <p>Mr Lindsay Fox has led the fundraising efforts and we thank him for his dedication to ensuring this important period of national commemoration is appropriately marked.</p>
 <p>The Government thanks the confirmed corporate donors and calls on Australia’s other corporate leaders to follow their lead and get behind this important national project.</p>
@@ -20,6 +10,4 @@
 <p>The Australian Government committed $150 million to support Anzac Centenary commemorations and the Anzac Centenary Public Fund has been granted Deductible Gift Recipient Status.</p>
 <p>For further information on the Anzac Centenary and the Public Fund, visit the Department of Veterans’ Affairs Anzac Centenary website: <a href="http://www.anzaccentenary.gov.au/">www.anzaccentenary.gov.au</a></p>
 <p>12 December 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

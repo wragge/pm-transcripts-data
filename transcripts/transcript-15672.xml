@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15672</transcript-id>
-    <title>Doorstop Interview Fraser Shores, Hervey Bay</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/06/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15672</transcript-id><title>Doorstop Interview Fraser Shores, Hervey Bay</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/06/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Indigenous emergency</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -35,6 +25,4 @@ Indigenous emergency</p>
 <p>PRIME MINISTER:</p>
 <p>Oh look I don't want to get into that sort of debate, that's irrelevant, what matters is the substance of what we are trying to do, not some kind of scale of activity. Thank you.  </p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

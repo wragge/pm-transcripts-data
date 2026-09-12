@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20860</transcript-id>
-    <title>Doorstop, Sheraton Hotel Auckland, New Zealand </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20860</transcript-id><title>Doorstop, Sheraton Hotel Auckland, New Zealand </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>The capture of Hambali, variously described as al Qaeda's point man in South-East Asia.  It has to be a good get doesn't it?</p>
 <p>PRIME MINISTER:</p>
 <p>This is a huge breakthrough. This man is a very big fish. He's the main link between al Qaeda and JI. He was almost certainly the ultimate mastermind of the Bali attack. So to those relatives and friends of the 88 Australians who died in that outrage almost a year ago this is I hope some further measure of justice. I congratulate the Americans and I'm sure that psychologically this capture will inflict a very heavy blow on the worldwide terrorist network. He's not quite the biggest fish you can catch but he's pretty close to it and he's been on the run for a long time and it's a major breakthrough which I very warmly welcome.</p>
@@ -54,6 +44,4 @@
 <p>PRIME MINISTER:</p>
 <p>We hope it has an adverse effect but I can't measure how much effect.  Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

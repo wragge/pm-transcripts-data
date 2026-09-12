@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22377</transcript-id>
-    <title>Australian Government Support for Beaconsfield Gold Mine  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/07/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to announce the first grant to be offered under the $8 million Beaconsfield Community Fund which I announced on 29 May 2006.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22377</transcript-id><title>Australian Government Support for Beaconsfield Gold Mine  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/07/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to announce the first grant to be offered under the $8 million Beaconsfield Community Fund which I announced on 29 May 2006.</p>
 <p>A grant of $4.873 million has been approved to Allstate Explorations NL on behalf of the Beaconsfield Gold Mine.</p>
 <p>This assistance will support the mine, the miners and their families over the next few months to support care and maintenance activities while the state inquiries are underway.</p>
 <p>Subject to the outcome of state inquiries and in the event that the mine may be allowed to re-open later this year, the assistance will also allow the mine to undertake a number of critical investment activities over the next 12 months to help secure its longer term future.</p>
@@ -18,6 +8,4 @@
 <p>The Fund will also provide support to a range of community projects with further announcements to be made shortly.</p>
 <p>The Fund is one part of a suite of measures I announced on 29 May to honour the memory of Larry Knight and to help Beaconsfield get back on its feet.</p>
 <p>  The other measures include $1 million to establish a Larry Knight equity scholarship at the University of Tasmania and tax deductibility to the AWU Beaconsfield Miners' Support Fund which has been provided. As foreshadowed the Commonwealth will contribute $25,000 to the Fund. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

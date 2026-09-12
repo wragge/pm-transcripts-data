@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11155</transcript-id>
-    <title>Doorstop Interview, Eugowra, NSW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/10/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Catholic Church; legal injecting rooms; regional transaction centre; Darwin to Alice Springs railway; Olympic Games; preamble; referendum;</subjects>
-    <content><![CDATA[<p>E&amp;OE…………………………………………………………………………….</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11155</transcript-id><title>Doorstop Interview, Eugowra, NSW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/10/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Catholic Church; legal injecting rooms; regional transaction centre; Darwin to Alice Springs railway; Olympic Games; preamble; referendum;</subjects><content><![CDATA[<p>E&amp;OE…………………………………………………………………………….</p>
 <p><b>JOURNALIST: </b></p>
 <p>Can I ask you about the legal injecting rooms in Sydney. Do you think it is the role of the Vatican to become involved in Australia’s affairs?</p>
 <p><b>HOWARD: </b></p>
@@ -95,6 +85,4 @@
 <p><b>HOWARD: </b></p>
 <p>I don’t know. I don’t know what will happen on either. But my position is very clear, I’m voting no to the republic and I’m voting yes to the preamble and I encourage all Australians to do likewise, but I can’t imagine that everyone is going to agree with me.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15995</transcript-id>
-    <title>Joint Media release with the Minister for Finance &amp; Deregulation, Lindsay Tanner, A National Electronic Conveyancing System  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>02/07/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>COAG has agreed to the establishment of a national platform to settle all property transactions electronically.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15995</transcript-id><title><![CDATA[Joint Media release with the Minister for Finance &amp; Deregulation, Lindsay Tanner, A National Electronic Conveyancing System  ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>02/07/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>COAG has agreed to the establishment of a national platform to settle all property transactions electronically.</p>
 <p>A single national electronic conveyancing system is a significant step towards creating a seamless national economy in Australia.</p>
 <p>Australia's first national electronic conveyancing system - to be operational by March 2010 - will provide an efficient online national platform to:</p>
 <p>     * Settle property transactions electronically;</p>
@@ -35,6 +25,4 @@
 <p>Victoria is the only jurisdiction that currently has an electronic conveyancing system that allows you to complete property transactions online.</p>
 <p>The entity is to assess the Victorian electronic conveyancing system ECV and, to the extent it is suitable, use it as the basis for the underlying software for the new national e-conveyancing system.</p>
 <p>The Council of Australian Governments has agreed that the COAG Business Regulation and Competition Working Group will oversee the implementation of a new e-conveyancing system.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23085</transcript-id>
-    <title>Launch of Australia Indonesia Centre</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/11/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I was very pleased to join Indonesian Vice President, His Excellency Professor Dr Boediono, today to launch the Australia-Indonesia Centre.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23085</transcript-id><title>Launch of Australia Indonesia Centre</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/11/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I was very pleased to join Indonesian Vice President, His Excellency Professor Dr&nbsp;Boediono, today to launch the Australia-Indonesia Centre.</p>
 <p>The Centre will strengthen Australians’ knowledge and understanding of this vitally important neighbour and will strengthen business, education and research links between the two countries.</p>
 <p>The Australian Government will contribute $15 million towards the Centre, which will also receive support from participating institutions and the private sector.</p>
 <p>The Centre will be based at Monash University and will initially be a partnership with the Australian National University, the University of Melbourne, the University of Sydney and the CSIRO.</p>
@@ -17,6 +7,4 @@
 <p>Australia and Indonesia are great friends, and I hope this Centre, which I announced during my first visit to Indonesia as Prime Minister in September, will contribute to that friendship.</p>
 <p>Along with the New Colombo Plan, the Centre is another sign of the Government’s commitment to strengthen links with Indonesia.</p>
 <p>13 November 2013</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

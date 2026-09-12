@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40110</transcript-id>
-    <title>National Institute of Dramatic Art Graduate School opens</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>06/12/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The opening of the National Institute of Dramatic Arts (NIDA) Graduate School provides a much needed ‘creative and cultural hub’ for mid-career and upskilling artists.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40110</transcript-id><title>National Institute of Dramatic Art Graduate School opens</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>06/12/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The opening of the National Institute of Dramatic Arts (NIDA) Graduate School provides a much needed ‘creative and cultural hub’ for mid-career and upskilling artists.</p>
 <p>The Graduate School will lead Australia into a new era of training in performing arts ensuring we remain productive, creative and competitive in a global market.</p>
 <p>The Australian Government provided $6.8 million in capital works funding to NIDA, which included support for the Graduate School. This funding was complemented by business and philanthropic support leveraged by NIDA.</p>
 <p>NIDA is one of Australia’s seven national elite performing arts training institutions and is regarded as one of the world’s top 10 actor training schools.</p>
@@ -17,6 +7,4 @@
 <p>The NIDA Graduate School directly ensures Australia invests in our artistic talent and helps develop our next generation of actors, policy makers, festival and artistic directors.</p>
 <p>NIDA has produced some of Australia’s most successful and recognised performing artists, whether on our screens and stages, or taking leading roles behind the scenes.</p>
 <p>More information about NIDA go to <a href="https://www.nida.edu.au/">https://www.nida.edu.au/</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

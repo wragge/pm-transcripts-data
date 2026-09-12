@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17672</transcript-id>
-    <title>Transcript of interview with Heather Ewart, 7.30 Report</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17672</transcript-id><title>Transcript of interview with Heather Ewart, 7.30 Report</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard you got your deal but you needed did you not, were you feeling that your credibility was at stake, that you needed a positive and decisive policy outcome to kick off this political year?</p>
 <p>PM: I thought the nation needed a deal, I though the nation needed an arrangement which meant we were going to get a better health system and a lot of work had been done last year on health reform by the then Prime Minister Kevin Rudd, he was the first Prime Minister to step up and say ‘this is all going to go very badly if we let health costs eat State government financing.' So we needed health reform, clearly we weren't going to secure the reform Kevin had looked for with the GST, so I focussed on health reform rather than GST financing reform, and the nation needed to see its leaders come together yesterday and make an agreement for change and reform and that's exactly what we did.</p>
 <p>HOST: Well we'll look at the details, some of the details of that package in moment, but are you concerned about a public perception that's emerging in opinion polls too, that this Government isn't delivering enough policy outcomes, and for example, the Australian Workers Union's released a survey showing that 27 per cent of its workers think this Government has their interests at heart; that's Labor heartland, is that good enough?</p>
@@ -50,6 +40,4 @@ HOST: Julia Gillard you got your deal but you needed did you not, were you feeli
 <p>We are there to deny terrorist trainers their ability to use Afghanistan for that deadly purpose.</p>
 <p>HOST: Julia Gillard we'll leave it there, thank you very much for joining us.</p>
 <p>PM: Thank you </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

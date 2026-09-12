@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21196</transcript-id>
-    <title>Doorstop Interview, The Lodge, Canberra  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21196</transcript-id><title>Doorstop Interview, The Lodge, Canberra  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>I just wanted to start by saying how concerned we are and how much we feel for the three Japanese hostages in Iraq and hostages potentially of other countries. We can only begin to understand the anxiety of their families and I';ve sent a message of concern and support to the Japanese Prime Minister. The stance he';s taken though is absolutely correct, this is a deliberate tactic, it';s designed to break the will of nations, its designed to force nations to rethink their commitment in Iraq and it';s doubly important that that tactic not be allowed to succeed. And at the present time, any talk of withdrawal, any talk of weakening of resolve or commitment will only encourage a repetition and an extension of this kind of behaviour.</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard, is there an elevated risk for Australian troops now in Iraq?</p>
@@ -68,6 +58,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well, I think we just leave it, you know, one step at a time. I';m not going to start running ahead in a general way, she said that they';ll be looked at on a case by case basis.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

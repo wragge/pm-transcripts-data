@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41143</transcript-id>
-    <title>Remarks at Energy Retailers Meeting</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>30/08/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41143</transcript-id><title>Remarks at Energy Retailers Meeting</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>30/08/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you all for joining us again today.</p>
 <p>As you know, too many Australians are paying more for their electricity than they need to. It's our commitment to ensure, working with you, that no Australians pay any more for energy than they need to. But we need your help.</p>
 <p>We're very focused on putting downward pressure on energy prices. It's one of the reasons we're working on long-term projects like Snowy Hydro 2.0 but that's years away, six years away Paul promised, and we’ll hold him to that by the way.</p>
@@ -31,6 +21,4 @@
 <p>We look forward to having a very good and constructive discussion that will ensure we're all working together to make sure Australians get the best deal on energy that they can.</p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

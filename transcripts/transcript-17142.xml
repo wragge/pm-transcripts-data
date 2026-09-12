@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17142</transcript-id>
-    <title>Speech at the launch of the GenerationOne campaign    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/03/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17142</transcript-id><title>Speech at the launch of the GenerationOne campaign    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/03/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>Tonight is much more than the launch of the GenOne ad campaign.</p>
 <p>Tonight is a snapshot of the changing times in our country.</p>
@@ -75,6 +65,4 @@ I acknowledge the First Australians on whose land we meet, and whose cultures we
 <p>If you have never participated in a movement, you can make a start now and play a simple role to create real change.</p>
 <p>I applaud the captains of industry throughout our nation who are passionate about effecting change.</p>
 <p>I wish Generation One every success in inspiring that passion in others.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

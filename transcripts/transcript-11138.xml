@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11138</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   DOORSTOP INTERVIEW                 NATIONAL GALLERY OF AUSTRALIA, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/05/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11138</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   DOORSTOP INTERVIEW                 NATIONAL GALLERY OF AUSTRALIA, CANBERRA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/05/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...................................................................................................</p>
 <p>PRIME MINISTER:</p>
 <p>[Tape begins]...I hope and pray that they receive a fair and proper</p>
 <p> trial. I'm disturbed that there will be no Australian representative</p>
@@ -29,6 +19,4 @@
 <p>I hope it goes fairly. I don't, for reasons I ask you to understand,</p>
 <p> want to say any more than that.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

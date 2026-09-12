@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17734</transcript-id>
-    <title>New Zealand Earthquake Memorial Service</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/03/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17734</transcript-id><title>New Zealand Earthquake Memorial Service</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/03/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard will attend New Zealand's National Memorial Service in Christchurch this Friday to commemorate the lives lost in the Christchurch earthquake on 22 February.</p>
 <p>The Prime Minister will be accompanied by the Governor-General, Ms Quentin Bryce AC, and the Leader of the Opposition, the Hon Tony Abbott MP.</p>
 <p>They will convey the deepest sympathies of the Australian people to those affected by the earthquake.</p>
@@ -17,6 +7,4 @@ Prime Minister Julia Gillard will attend New Zealand's National Memorial Service
 <p>The Prime Minister will reiterate her offer of Australian Government support as New Zealand begins the reconstruction of Christchurch.</p>
 <p>The overall Australian effort at the height of the crisis involved more than 600 people.</p>
 <p>The Australian Government has also donated $5 million to the New Zealand Red Cross Earthquake Appeal, following advice from the New Zealand Government. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

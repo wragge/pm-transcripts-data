@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24583</transcript-id>
-    <title>Joint Press Conference with Prime Minister Lee, Singapore</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>29/06/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Visit to Singapore,  Singapore-Australia relationship,  Singapore Free Trade Agreement,  Daesh death cult,  South China Sea,  Indonesia,  counter-terrorism.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER LEE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24583</transcript-id><title>Joint Press Conference with Prime Minister Lee, Singapore</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>29/06/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Visit to Singapore, Singapore-Australia relationship, Singapore Free Trade Agreement, Daesh death cult, South China Sea, Indonesia, counter-terrorism.</subjects><content><![CDATA[<p><strong>PRIME MINISTER LEE:</strong></p>
 <p>Prime Minister Tony Abbott, Ministers, distinguished guests, ladies and gentlemen.</p>
 <p>I give a very warm welcome to Prime Minister Abbott and his delegation to Singapore.</p>
 <p>Your visit comes at a significant moment because this is not just our 50th year of independence, but also 50 years of bilateral relations with Australia – and the relations are worth celebrating because of how close our two countries have grown over the years.</p>
@@ -93,6 +83,4 @@
 <p><strong>PRIME MINISTER ABBOTT:</strong></p>
 <p>Thank you so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17441</transcript-id>
-    <title>Prime Minister&#039;s overseas trip extended to Malaysia and Indonesia</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/10/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17441</transcript-id><title><![CDATA[Prime Minister&#039;s overseas trip extended to Malaysia and Indonesia]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/10/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister will travel to Kuala Lumpur, Malaysia and Jakarta, Indonesia following the East Asian Summit in Vietnam at the end of this month.</p>
 <p>From 31 October to 1 November the Prime Minister will make an official visit to Kuala Lumpur, Malaysia to hold meetings with Prime Minister Najib Razak and attend an official lunch.</p>
 <p>Australia's relationship with Malaysia is significant and growing.</p>
@@ -21,6 +11,4 @@ The Prime Minister will travel to Kuala Lumpur, Malaysia and Jakarta, Indonesia 
 <p>As previously announced the Prime Minister's international trip will begin by attending the East Asia Summit (EAS) and the inaugural ASEAN-Australia Leaders' Summit in Hanoi, Vietnam on 29 to 31 October.</p>
 <p>The EAS brings together the leaders of Australia's regional partners, including the 10 ASEAN countries plus Japan, Korea, China, India and New Zealand.</p>
 <p>The summit's focus will be on building political, security and economic cooperation in the region and strengthening education, environmental and energy sector linkages. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

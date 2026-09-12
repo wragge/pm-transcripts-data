@@ -1,67 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40385</transcript-id>
-    <title>Press Conference with the Treasurer</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/08/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>Bureau of Statistics for the Census, Banks</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong><br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40385</transcript-id><title>Press Conference with the Treasurer</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/08/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bureau of Statistics for the Census, Banks</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong><br>
 Good morning. Since the outage on the Census website last night, the Treasurer and I have had extensive discussions with our colleagues at the ABS and with the Australian Signal Directorate and indeed with IBM, the systems provider to the Bureau of Statistics for the Census.</p>
 <p>I want to assure Australians that the unequivocal advice we have received from IBM, from the Bureau of Statistics, from the Australian Signal Directorate, is that their Australian Census data is safe, it has not been compromised. The site has not been hacked, it has not been interfered with - their data is safe.</p>
 <p>I want to thank the millions of Australians who have already completed the Census and I want to assure those Australians who are yet to complete the Census that they will be able to do so based on the expert advice we have received, safely and with confidence - that their information that they record, whether it's on paper or online, will be secure. I also want to thank Australians for their patience and last night after the site was taken down by the ABS – or to thank them for their patience and the ABS director Mr Kalisch has of course apologised for that, for the inconvenience caused and the Treasurer and I and the Government share his regret that that inconvenience was caused but, as you know, the decision was taken out of an abundance of caution.</p>
 <p>There was, and I won't go through the extensive description of events that was given earlier today by the Minister and Mr Kalisch, supplemented by Mr MacGibbon in Canberra. As you know, there was a confluence of events which caused Mr Kalisch at around 7:45 last night to make the decision to take the site down out of an abundance of caution, to ensure that there was no risk that data could be compromised, that the site could be further interfered with.</p>
 <p>I want to say also that the site will be restored as soon as the Australian Signals Directorate and of course the ABS and IBM are satisfied that it can be restored with all of the necessary defences against denial of service and other attacks. The public will be advised as soon as that is done. I should also add that there will be, as there is after every Census, but there will be, especially after the events of last night, there will be a very thorough review of the events that will be headed by the Government Cyber Security Adviser, Alastair MacGibbon, who, as I noted earlier, you saw in the press conference in Canberra earlier this morning, and he will of course be supported in that inquiry, in that review, by the Australian Signals Directorate and of course the Treasury and the ABS itself. Scott</p>
-<p><strong>TREASURER: </strong><br />
+<p><strong>TREASURER: </strong><br>
 Thanks, Prime Minister. Minister McCormack and statistician Mr Kalisch have already given a very detailed account of events of the last night and this morning. The point I particularly want to stress is this – that is the Census is a critical collection to support economic planning, to support Government policy and planning, not just by the Commonwealth Government, by state governments, by local governments, by other agencies working out there in the community to properly plan their services. That is why it is so important that we are able to provide these assurances today and I encourage Australians as soon as the clearance is given and the website is up and running again, that they can go and participate in that way. If they wish to do it by paper-based format, then that option remains for them. These processes run through until the 23rd of September. There are no fines being issued as a result of things last night and people can rest assured on those issues.</p>
 <p>The other issue I want to assure Australians about is there is no compromise I am advised to the integrity of the collection of the Census itself. There is no requirement of any means or any statistical reasons and credibility of those statistical collections for any re-run of this Census. That is the clear advice by the statistician and so the Census can proceed as it always has and the collections have always been done over a period of time referencing a particular date and I would just simply remind people, as the Minister has, to complete that form as of August 9 because that is the Census date. There is the opportunity to do that and the opportunity will be there in the not too distant future, later, when we have the advice of when that site can go up.</p>
 <p>The integrity of this Census itself has not been compromised by the events of the last 24 hours, just as the integrity of the data itself has not been compromised in the last 24 hours. The Australian Bureau of Statistics has, I'm advised, an unblemished record when it comes to the protection of the security of that data and that is a highly enviable record in the world today. They took every step, last night, to protect that reputation.</p>
-<p><strong>JOURNALIST:</strong><br />
+<p><strong>JOURNALIST:</strong><br>
 Will heads roll as a result of the failure of the Census collection last night?</p>
-<p><strong>PRIME MINISTER: </strong><br />
+<p><strong>PRIME MINISTER: </strong><br>
 There will certainly be a review of the events that occurred last night. I think you have heard what the nature of those events were - there were some failures in the equipment, frankly, hardware failures in some of the protections that were put in place, the so-called geo-blocking protections and obviously that will be the subject of examination. But really - the one thing that is clear, the one thing that is absolutely crystal clear, is that there was no penetration of the ABS website. This is based on the advice we have. We are not just relying on the ABS and IBM, I want to stress that. The Australian Signals Directorate are the finest, most professional organisation of their kind anywhere in the world. They are extraordinary. They are the experts of the experts. They have been looking at this issue since the events of last night, all through the night and Scott and I have spent with Michael and others, we've spent a lot of time talking to them this morning. So their advice, unequivocal advice, is that the data was not compromised. That's to say the ABS server was not compromised at all, but what you saw was a denial of service attack or a denial of service attempt which, as you know, is designed to prevent access to a website as opposed to getting into the server behind it, some of those defences failed, frankly.</p>
-<p><strong>JOURNALIST:</strong><br />
+<p><strong>JOURNALIST:</strong><br>
 I understand that but you used the word "failed". Somebody has to be responsible for that. Somebody’s got to carry the can. If it was a private enterprise – heads would roll as a result.</p>
-<p><strong>PRIME MINISTER:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
 Let's get the Census completed. The Census is a very important document. Your Census form is a very important document. It's a very important piece of data collection. As Scott was saying earlier, it's critical to enable governments to plan services, infrastructure, schools in the right places, roads to the right places that is absolutely critical and every Australian who completes their Census is making a contribution to the secure future of our own country. So it is a very important effort. Now, the concerns have been expressed about security of data and that's legitimate to express those concerns. But the assurance that Scott and I are here to give you, just as the Minister gave earlier today, with the statistician, is that the data has not been compromised and it is safe and as Scott says the ABS has an unblemished record in that regard.</p>
-<p><strong>JOURNALIST:</strong><br />
+<p><strong>JOURNALIST:</strong><br>
 Isn't it a concern that after the event like last night, participation will be so low, the Census will be rendered statistically useless?</p>
-<p><strong>PRIME MINISTER:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
 It is important to encourage participation. I think we all recognise how important it is to complete the Census. I would say to other political leaders, other politicians and commentators in this area, that it is important to encourage Australians to complete the Census. Trying to undermine the Census for political gain, trying to use it as a means of point scoring and in so doing undermine confidence in the Census or undermine participation in the Census, is really working against the national interest because it is plainly in the national interest to have a very high level of participation. Ideally, as you know, everyone is obliged to complete it and that's what you want to achieve.</p>
-<p><strong>JOURNALIST:</strong><br />
+<p><strong>JOURNALIST:</strong><br>
 But has the value of the census been compromised this year because of their [inaudible]</p>
-<p><strong>PRIME MINISTER:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
 No not at all. We’ve had that assurance from the statistician.</p>
-<p><strong>TREASURER:</strong><br />
+<p><strong>TREASURER:</strong><br>
 That’s exactly right. The issue the ABS has been criticised for is being over-cautious last night. They chose to place people's data security and any possible – possible - compromise to that as being more important than convenience last night.</p>
 <p>Now that is a judgement they made, as the independent statistician that is their call to make at that time and they made it. If we were standing here today talking about something different, about the compromise of people's data security, that would be a different issue. But we are not talking about that today. The ABS set out very clearly - not just today, but on previous days - the stress testing that was done of the system, as the statistician pointed out in his own press conference earlier today, it was built to take much more of a disruption than that, up to 260 per second attempts to access the site and it was only around about 150.</p>
-<p><strong>PRIME MINISTER:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
 The site was scaled for mass participation as the Treasurer said. There was a maximum of only 150 forms a second and it scaled to - it's built for 260. So they had it built to high scale. But of course these denial of service attacks are designed to impede access to websites. They are not new, obviously. All government sites, in fact all of your websites, your news websites and banking websites get attacked in this way. It's an attempt to deny access, that’s exactly what it is. There were defences in place, but there was a failure in a portion of those defences, a failure, a hardware failure is how it’s been described to us.</p>
-<p><strong>JOURNALIST:</strong><br />
+<p><strong>JOURNALIST:</strong><br>
 Prime Minister the Guardian has published more than 2000 reports from Nauru today that show that show child abuse incidents and sexual assaults continue well beyond the Nauru Senate inquiry and Moss Inquiry commissioned by the Treasurer. Why has the Government allowed these sorts of incidents to continue?</p>
-<p><strong>PRIME MINISTER:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
 As you know - and Scott is a former Immigration Minister, may want to add to this - but we continue to support the Nauru Government to provide for the health, welfare and safety of all transferees and refugees on Nauru. The material that's been published will be examined. It's not clear over what time period it relates, at least not in the report that I saw. It will be carefully examined to see if there are any complaints there or issues there that were not properly addressed.</p>
-<p><strong>TREASURER:</strong><br />
+<p><strong>TREASURER:</strong><br>
 I’d just note the incidents reports, as you know Paul, are reports of allegations. They are not findings of fact in relation to an incident. The reporting system that was put in place was to monitor what those allegations are and provide an opportunity to follow up and discussion both at the centre level and between governments and that's their purpose. It's important to stress that incident reports of themselves aren't a reporting of fact, they are just a reporting that an allegation has been made.</p>
-<p><strong>JOURNALIST:</strong><br />
+<p><strong>JOURNALIST:</strong><br>
 Prime Minister you commissioned a royal commission into the Don Dale events within hours. What will it take you to shock, to be shocked about what is happening on the detention centres on Nauru, when you have primary evidence from guards and case workers saying children are being abused?</p>
-<p><strong>PRIME MINISTER:</strong><br />
-Well as I said - and just to reiterate what Scott said as well - the matters that are referred to here in these incidents reports will be reviewed to see whether and to what extent they have been dealt with. The Australian Government provides support to the Government of Nauru and their police force in dealing with complaints of this kind and they have the responsibility for responding to them and dealing with them.</p>
-<p><strong>JOURNALIST:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
+Well as I said - and just&nbsp;to reiterate what Scott said as well - the matters that are referred to here in these incidents reports will be reviewed to see whether and to what extent they have been dealt with. The Australian Government provides support to the Government of Nauru and their police force in dealing with complaints of this kind and they have the responsibility for responding to them and dealing with them.</p>
+<p><strong>JOURNALIST:</strong><br>
 The Commonwealth Banks has today announced a profit margin of $9.45 billion. You were critical of banks not passing on interest rate cuts from the Reserve Bank last week. Does $9.45 billion satisfy you banks are doing enough for their customers?</p>
-<p><strong>PRIME MINISTER:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
 Look the banks, like every business, but perhaps more than any business, have to take into account the interests of their shareholders, the interests of their employees, the interests of their customers. The banks stand in a very special position of trust with their customers.</p>
 <p>The Treasurer and I were - as I believe many if not most Australians - were disappointed the banks did not pass on the full extent of the rate cut. But they are commercial businesses and they make their own commercial decisions. What we announced last week, however, about our intention to ensure that the banks attend, at least annually, before the House Economics Committee, is going to constitute a very significant long-term change to the banks' culture, in my judgement, both our judgements. What it will mean is that the banks will have to formally and regularly provide a full explanation for their decisions about interest rates, for the manner in which they deal with customer complaints, for the manner in which they, for example, remunerate employees for advice to customers and the nature of the advice they give. So they will be fully accountable.</p>
 <p>The strength of this initiative, the importance of this initiative, is that they will be turning up to this House Economics Committee in 20 years’ time, in 30 years’ time. It will be one of those changes that once institutionalised, is just part of the financial calendar, as regular and as appropriate as the Governor of the Reserve Bank's attendance - so that is going to make a very significant change because as they have to justify these matters, they will have the opportunity to build confidence, the public's confidence or not. I think that will be a very significant cultural change, because it's a long-term change to the nature and the pattern of their accountability.</p>
 <p>I don't know if you want to add anything?</p>
-<p><strong>TREASURER:</strong><br />
+<p><strong>TREASURER:</strong><br>
 I welcome though the report from Westpac today which says there are more optimists than there are pessimists about the economy with their latest consumer sentiment index. The PM and I fall into the category of the optimists.</p>
-<p><strong>PRIME MINISTER:</strong><br />
+<p><strong>PRIME MINISTER:</strong><br>
 Thank you all very much.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

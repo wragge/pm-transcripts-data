@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21435</transcript-id>
-    <title>Doorstop Interview Townsville </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21435</transcript-id><title>Doorstop Interview Townsville </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p> Prime Minister, should Labor now support the Free Trade Agreement?</p>
 <p> PRIME MINISTER:</p>
 <p> Well, of course, they should. They should have supported it five months ago. This whole process has been delayed by Labor politics. The Treaties' Committee reported favourably on the Free Trade Agreement several months ago and they've had this political exercise to give the Labor Party some maneuvering room, but look, please for the sake of Australia's future the Labor Party should unconditionally support the Free Trade Agreement and do it no later than tomorrow.</p>
@@ -18,6 +8,4 @@
 <p> PRIME MINISTER:</p>
 <p> Look, you can't renegotiate the agreement. You either support the necessary legislation or you don't. This is a very good agreement for Australia, that's the view of the Premiers, it's the view of sensible people in the Labor Party and I'm just asking Mr Latham to put Australia's interest first and say that the Labor Party will support the agreement.</p>
 <p> Thank you.   </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16917</transcript-id>
-    <title>Australia Awards    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/11/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government today announced a new initiative - the Australia Awards - to maximise the benefit to Australia of its extensive scholarship programs, and to support enduring ties between Australia and our neighbours.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16917</transcript-id><title>Australia Awards    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/11/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government today announced a new initiative - the Australia Awards - to maximise the benefit to Australia of its extensive scholarship programs, and to support enduring ties between Australia and our neighbours.</p>
 <p>The Government currently invests $200 million each year in scholarship programs which, at any time, support around 5,000 international students to study in Australia.</p>
 <p>The Australia Awards will bring together these Australian scholarship programs under a single recognisable brand. Rather than dilute Australia's scholarship effort through a group of uncoordinated programs, the Australia Awards initiative will ensure that Australian scholarships are consolidated, better branded, and delivered to support Australia's long term interests.</p>
 <p>Just as the Colombo Plan delivered Australian education to the region as a coordinated and recognised brand a generation ago, the Australia Awards initiative will enhance the awareness and value placed on Australia's contemporary scholarship programs.</p>
@@ -25,6 +15,4 @@
 <p>The first Australia Asia Awards scholars will take up their awards in 2010. Comparable programs for other regions will be rolled out in subsequent years.</p>
 <p>Addressing an audience at the National University of Singapore, the Prime Minister announced that the Australia Asia Awards will be supported by new funding of $18 million.</p>
 <p>The Australia Awards will also showcase Australia's cutting-edge capabilities in the education sector, which includes eight of the world's top 100 universities, and demonstrate Australia's ongoing commitment to building closer and enduring ties with our region and beyond.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

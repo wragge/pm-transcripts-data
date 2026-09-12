@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18347</transcript-id>
-    <title>Transcript of joint press conference, Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/01/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18347</transcript-id><title>Transcript of joint press conference, Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/01/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: [AUDIO BREAK] visit a large number of schools and whenever I go to those schools I meet Australians who are truly inspiring, teachers who are making an incredible difference in the lives of young Australians and parents who are supporting their children through their learning, including when children have disabilities, parents who are really support their child even when the going can be very, very tough.</p>
 <p>I've talked to those parents, I've seen those children, and as a Government we have acted to support their learning. We've almost doubled the amount of money going to Australian schools, so that money has made a difference for children in every school including children with a disability. We've invested in early intervention, firstly for children with autism and we have broadened that program so it can now provide a better start and early intervention for children with a range of other disabilities as they move into school.</p>
 <p>But I'm also very convinced, from having visited schools, that there is unmet need out there, and there are times when a parent's choice about where they'd like their child to go to school is limited because the school they'd most like to go to can't cater for their child because of their child's disability. And we know that this can add up to difficulties for kids for the rest of their lives. Too few children with disability finish Year 12 and too few go on to be adults who have a job in the workforce.</p>
@@ -59,6 +49,4 @@ PM: [AUDIO BREAK] visit a large number of schools and whenever I go to those sch
 <p>[QUESTIONS TO PREMIER O'FARRELL ON OTHER MATTERS]</p>
 <p>PM: Perhaps before we go we should just say, both Premier O'Farrell and I, weather predictions for the north coast of New South Wales are for very solid rain and for king tides, so we'll be working together and monitoring that very closely to see if assistance is required. But in the meantime, having seen what we saw over last summer, I did want to say to everybody listen to your warnings, stay in touch and please keep yourself safe.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

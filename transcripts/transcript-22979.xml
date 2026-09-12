@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22979</transcript-id>
-    <title>Interview with Paul Murray, Radio 2UE</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/09/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PAUL MURRAY:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22979</transcript-id><title>Interview with Paul Murray, Radio 2UE</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/09/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PAUL MURRAY:</strong></p>
 <p>Here he is Tony Abbott, moments ago on 2UE.</p>
 <p><strong>TONY ABBOTT:</strong></p>
 <p>Thank you Paul, it is a tremendous honour to be elected by the Australian people and I will do my damndest to repay the faith they have shown in me.</p>
@@ -62,6 +52,4 @@
 <p><strong>TONY ABBOTT:</strong></p>
 <p>Thank you so much Paul</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22164</transcript-id>
-    <title>Doorstop Interview Taj Mahal Hotel, Mumbai </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/03/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22164</transcript-id><title>Doorstop Interview Taj Mahal Hotel, Mumbai </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/03/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Mr Howard, Ian Thorpe's pulled out of the Commonwealth Games, that's a fairly sad moment for Australia.</p>
 <p>PRIME MINISTER</p>
 <p>Oh look, I am, like all Australians very, very sorry that Ian can't compete in the Games. I understand why and I think everybody should understand why. He's obviously not been well and he's quite rightly decided that he won't be fit enough to do his best and we all understand that. I don't think we should imagine though for a moment there won't be plenty of people amongst our swimmers who will perform magnificently and nobody should think that this means that there will be a reduced capacity for Australia to perform extremely well.  He's a great loss, but there are some great swimmers who will come up to the mark and do extremely well. But I wish him well. I know all Australians will and I'm sure he will be back to full strength before very long.</p>
@@ -119,6 +109,4 @@
 <p>People have talked about him and have admired his plain-speaking style, Indians have admired his plain speaking style.</p>
 <p>Thank you.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

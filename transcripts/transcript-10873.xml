@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10873</transcript-id>
-    <title>AUSTRALIAN HEALTH CARE AGREEMENTS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/08/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> The Federal Government will inject an extra $915 million over</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10873</transcript-id><title>AUSTRALIAN HEALTH CARE AGREEMENTS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/08/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> The Federal Government will inject an extra $915 million over</p>
 <p> five years into the public health systems of the Australian States</p>
 <p> and Territories.</p>
 <p> The provision of these additional funds are conditional on the States</p>
@@ -80,6 +70,4 @@
 <p> As the Tasmanian Government is in caretaker mode a formal agreement</p>
 <p> cannot be signed until after the August 29th election.</p>
 <p> 6 August 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

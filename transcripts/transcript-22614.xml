@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22614</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/12/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Mental illness is one of the nation's most pressing health challenges and one that my Government is tackling head on.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22614</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/12/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Mental illness is one of the nation's most pressing health challenges and one that my Government is tackling head on.</p>
 <p>With more and more Australians now likely to be touched either personally or through family and friends by a mental health problem, it is important that we remove the stigma of mental illness and treat it openly and honestly.</p>
 <p>For too long, the treatment of mental illness has been too low on the list of health priorities.</p>
 <p>That is why in April, I announced a commitment of $1.9 billion to provide more primary health and clinical services to treat mental illness, new programs to help sufferers better manage day to day life and get back into work or finish school; an increase in the mental health workforce, new non-clinical and respite services and more community awareness programs.</p>
@@ -18,6 +8,4 @@
 <p>Individually, Western Australia, Tasmania and the Northern Territory have committed no new funds since the Commonwealth announcement. The South Australian Government has put forward 35 per cent of its expected pro rata contribution, Queensland about half, New South Wales and the ACT about 70 per cent and Victoria about 80 per cent.</p>
 <p>If we are to meet the challenge of mental illness as a nation, the states and territories must be prepared to shoulder their responsibilities with commitments of new money matching the Commonwealth.</p>
 <p>We cannot afford a half-hearted response to this major health challenge.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22160</transcript-id>
-    <title>Joint Doorstop Interview with the Prime Minister of India Dr Manmohan Singh Rashtrapathi Bhawan, New Delhi</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/03/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22160</transcript-id><title>Joint Doorstop Interview with the Prime Minister of India Dr Manmohan Singh Rashtrapathi Bhawan, New Delhi</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/03/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Sir, I am from All India Radio. I have a question for both the Prime Ministers. What are both of your expectations from this visit?</p>
 <p>  PRIME MINSTER SINGH:</p>
 <p>India and Australia are members of the Commonwealth. We are two English-speaking countries. We have a large Indian community in Australia. We have nearly 30,000 students studying there. Our trade is expanding very rapidly. This is a unique opportunity for me and the Prime Minister to review the progress we have made in working together and explore new options so that our two countries can cooperate more intensively and diversely.</p>
@@ -30,6 +20,4 @@
 <p>PRIME MINISTER HOWARD:</p>
 <p>I think we will talk about them and we'll talk about them against the background of the policies and the needs of the two countries. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

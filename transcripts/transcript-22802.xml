@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22802</transcript-id>
-    <title>Visit to the United Kingdom</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/05/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>From 4 to 8 July I will join former Prime Ministers, as well as serving Premiers, Chief Ministers and others, in a visit to the United Kingdom to mark the centenary of the passage through the British Parliament of the Act which created the Commonwealth of Australia and for bilateral discussions with the British Government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22802</transcript-id><title>Visit to the United Kingdom</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/05/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>From 4 to 8 July I will join former Prime Ministers, as well as serving Premiers, Chief Ministers and others, in a visit to the United Kingdom to mark the centenary of the passage through the British Parliament of the Act which created the Commonwealth of Australia and for bilateral discussions with the British Government.</p>
 <p>The United Kingdom is a major partner for Australia across the full range of our interests. The strength of the relationship is underpinned by our deep historical and people-to-people ties. The visit will highlight both the shared history of two independent nations and the continued importance and contemporary relevance of the enduring links between our two countries. For example, the United Kingdom is the largest foreign investor in Australia.</p>
 <p>My visit is timed to coincide with Australia Week in London, which marks the centenary of passage of the Act of the Parliament which created the Commonwealth of Australia and thus laid the foundation of the modern Australian nation. Australia Week features a very wide-ranging programme of commemorative activities representing the diverse aspects of the modern bilateral relationship, covering the arts, business and our shared history. Parliament, the Lord Mayor and the City of London, and Westminster Abbey are among the many partners who will participate in this unique celebration.</p>
 <p>An outline of my London programme is attached. The substantial programme of events commemorating the centenary of Australia’s federation will include:</p>
@@ -47,6 +37,4 @@
 <p>Saturday, 8 July</p>
 <p>Depart London.</p>
 <p>May 20 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

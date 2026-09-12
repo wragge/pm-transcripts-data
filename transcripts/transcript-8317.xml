@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>8317</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>12/07/1991</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00008317.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-4<br />
-PRIME MINIIT<br />
-FOR MEDIA 12 JULY 1991<br />
-The President of the United States of America, the<br />
-Honourable George Bush, has accepted an invitation to visit<br />
-Australia before the end of the year.<br />
-President Bush's visit to Australia is planned as part of a<br />
-tour which will also include Japan and South Korea.<br />
-We expect that President Bush will spend two or three days<br />
-in Australia. Details of the President's itinerary and<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>8317</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>12/07/1991</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00008317.pdf</document><subjects></subjects><content><![CDATA[<p>
+4<br>
+PRIME MINIIT<br>
+FOR MEDIA 12 JULY 1991<br>
+The President of the United States of America, the<br>
+Honourable George Bush, has accepted an invitation to visit<br>
+Australia before the end of the year.<br>
+President Bush's visit to Australia is planned as part of a<br>
+tour which will also include Japan and South Korea.<br>
+We expect that President Bush will spend two or three days<br>
+in Australia. Details of the President's itinerary and<br>
 program will be announced at a later date. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

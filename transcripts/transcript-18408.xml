@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18408</transcript-id>
-    <title>Transcript of doorstop interview, Cessnock</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: It's great to be here today in Cessnock for the Country Labor Conference. I have joined here today a mob of true believers in the Labor cause, people who love and are very passionate about the Labor Party.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18408</transcript-id><title>Transcript of doorstop interview, Cessnock</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: It's great to be here today in Cessnock for the Country Labor Conference. I have joined here today a mob of true believers in the Labor cause, people who love and are very passionate about the Labor Party.</p>
 <p>In my address today I have explained to them my determination as Prime Minister to keep making the big decisions that make a difference for people who live in country Australia.</p>
 <p>We are delivering the National Broadband Network because it will make such a difference for jobs and service delivery in country Australia. We are delivering the delivering the education reforms that mean it will no longer be true that a country kid is at risk of getting a second-class education and not getting the skills that they need for the rest of their life.</p>
 <p>We will keep delivering the health reforms that will make a difference for country Australia, so that it will no longer be true that your likelihood of dying if you have a cancer is greater than the likelihood of an Australian in the city dying. We shouldn't have that kind of health care gap in modern Australia.</p>
@@ -64,6 +54,4 @@
 <p>JOURNALIST: (Inaudible)</p>
 <p>PM: I'm not dealing with a question that's all in hypotheticals. The Labor Party will make a decision on Monday, then we will unite as I have described.</p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

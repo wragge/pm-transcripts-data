@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24078</transcript-id>
-    <title>Press Conference, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>17/12/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Martin Place siege - Joint Commonwealth-New South Wales review.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24078</transcript-id><title>Press Conference, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>17/12/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Martin Place siege - Joint Commonwealth-New South Wales review.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>We are still very much in mourning for the victims of this week’s terrorist attack in Sydney. We are still taking quiet pride in the professionalism and the courage of the New South Wales Police and the other agencies which responded to this appalling outrage. Nevertheless, we do need to reflect on what's happened and to ponder what might've been done better.</p>
 <p>I want to make it absolutely crystal clear that I have great confidence in our police and security agencies and the Australian people are entitled to have great confidence in our police and security agencies. This is a Government which has responded very fully to the threat of terror in our country. We've responded very fully at home and abroad and part of that response has been renewing our faith in our police and security agencies, renewing our commitment to police and security agencies that had not always been as well funded as perhaps they should've been.</p>
 <p>We’ve boosted funding for our police and security agencies by $630 million over the four year period, we've strengthened agencies' powers, we've passed legislation to deal better with foreign fighters and we’ve got metadata legislation before the Parliament which is critically important. But, I do want answers to some obvious questions that have been raised in the wake of this terrorist incident.</p>
@@ -100,6 +90,4 @@
 <p>The resourcing that we committed to, the changes to the legislation that we are in the process of making are a result of their response to us. We said to them, knowing what you know, appreciating the situation as it currently is, what do you need to do your job as well as you humanly can? They made certain requests in terms of resourcing, they made certain requests in terms of the legislation and we have faithfully delivered as best we can on all of that.</p>
 <p>Now, if in the light of this situation more requests come, they will be carefully considered, but again – and I will close on this note – my determination, the determination of this Government, is to do everything we humanly can to keep this country as safe as possible and to keep you as safe as possible. That is our duty and we will not let you down.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

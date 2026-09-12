@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10753</transcript-id>
-    <title>27 May 1998                                 TRANSCRIPT OF THE PRIME MINISTER:                  THE HON JOHN HOWARD MP                RADIO 6PR WITH HOWARD SATTLER:</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/05/1998</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10753</transcript-id><title>27 May 1998                                 TRANSCRIPT OF THE PRIME MINISTER:                  THE HON JOHN HOWARD MP                RADIO 6PR WITH HOWARD SATTLER:</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/05/1998</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................</p>
 <p>SATTLER:</p>
 <p>Good morning Prime Minister.</p>
 <p>PRIME MINISTER:</p>
@@ -402,6 +392,4 @@
 <p>CALLER:</p>
 <p>I heard you talking about One Nation and I want to let you know</p>
 <p>   that I am not </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16332</transcript-id>
-    <title>Acting Prime Minister Julia Gillard Joint Press Conference with  Minister for Tourism Martin Ferguson Melbourne </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/12/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GILLARD: Well I'm here today with our Minister for Tourism, Martin Ferguson.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16332</transcript-id><title>Acting Prime Minister Julia Gillard Joint Press Conference with  Minister for Tourism Martin Ferguson Melbourne </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/12/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GILLARD: Well I'm here today with our Minister for Tourism, Martin Ferguson.</p>
 <p>Today some figures have been released by our tourism forecasting agency about expected tourism figures next year and beyond.</p>
 <p>Unsurprisingly they show in this forecast that in 2009 it's likely to be a tough year for the Australian tourism industry. In light of the global financial crisis, obviously the impacts have been felt throughout our economy, including in our tourism industry.</p>
 <p>The forecast shows we are likely to expect less inbound tourists from overseas in 2009 than we have had in recent years. However the forecast also shows that we are expecting a slight rise in domestic spending on tourism, that is, Australians holidaying in Australia.</p>
@@ -55,6 +45,4 @@
 <p>GILLARD: No, the last day trip, well overnight stay I took for holiday purposes was in Lorne and earlier in the year I had a day trip and overnight stay in the Bateman's Bay region outside the ACT.</p>
 <p>Thank you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

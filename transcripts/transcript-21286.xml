@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21286</transcript-id>
-    <title>Interview with George Moore Radio 2UE </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21286</transcript-id><title>Interview with George Moore Radio 2UE </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 MOORE:</p>
 <p>We have Prime Minister, John Howard, on the line now.  Good morning, Prime Minister.</p>
 <p> PRIME MINISTER:</p>
@@ -67,6 +57,4 @@ MOORE:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you very much George.  Bye, bye.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

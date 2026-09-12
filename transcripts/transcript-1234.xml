@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>1234</transcript-id>
-    <title> For Press:  P.M.NO 14/1966  Tribute to Sir Abubakar Tafawa Balewa</title>
-    <prime-minister>Menzies, Robert</prime-minister>
-    <period-of-service>19491219 - 19660126</period-of-service>
-    <release-date>24/01/1966</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00001234.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FOR PRESS P. M. Io. 14/ 1966 Tribute to Sir Abubakar Tafawa Balewa </p>
-<p>Statement by the Prime Minister, Sir Robert Menzies</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>1234</transcript-id><title> For Press:  P.M.NO 14/1966  Tribute to Sir Abubakar Tafawa Balewa</title><prime-minister>Menzies, Robert</prime-minister><period-of-service>19491219 - 19660126</period-of-service><field_date>24/01/1966</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00001234.pdf</document><subjects></subjects><content><![CDATA[<p>FOR PRESS P. M. Io. 14/ 1966 Tribute to Sir Abubakar Tafawa Balewa&nbsp;</p>
+<p>Statement by&nbsp;the Prime Minister, Sir Robert Menzies</p>
 <p>I have sent the following message today to the Australian High Commissioner in Nigeria :-</p>
 <p style="margin-left: 40px;">" I had a very warm regard for Sir Abubakar as a man whose company I always enjoyed at conferences of Prime Ministers. I also had a great respect for him as a leader clear minded, sagacious, tolerant and just.</p>
 <p style="margin-left: 40px;">"His death has come as a great shock to many of us who had come to believe that the principle of constitutional government and of peaceful rule were especially illustrated in Nigeria.</p>
 <p style="margin-left: 40px;">I would like to extend to the Nigerian people my most profound hopes for a happier future."</p>
 <p>CANBERRA, 24th January, 1966.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

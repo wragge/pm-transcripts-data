@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21068</transcript-id>
-    <title>Doorstop Interview, Darwin  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/01/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21068</transcript-id><title>Doorstop Interview, Darwin  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/01/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>[tape begins] It's important for not only the Territory but for the whole of Australia, but particularly for the people of the Territory.  This is something they've wanted for a long time, they see it as giving them a great boost into the future and it's a great demonstration to the entire nation that there's no barrier we can't overcome when Australians work together and that's what has  happened to bring this railway about and it is just a  wonderful day and I'm very happy to be part of it and I wish the people of the Northern Territory every happiness in the years ahead and I think this  railway, this port here in Darwin will be a key element of Australia's future and growing economic relationship with the countries of south-east Asia.</p>
 <p>JOURNALIST:</p>
 <p>And do you feel the excitement today, the personal excitement?</p>
@@ -21,6 +11,4 @@
 <p>Oh it was very exciting and you felt as though you were living with a moment of history but also very much part of our future because this port's horizons are in a way unlimited because it will become a key part of our  economic linkages with Asia and that's one of the very important elements of this railway.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

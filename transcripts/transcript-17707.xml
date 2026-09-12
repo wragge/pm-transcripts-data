@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17707</transcript-id>
-    <title>Transcript of interview, Triple M, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17707</transcript-id><title>Transcript of interview, Triple M, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: As promised we have the Prime Minister of Australia Julia Gillard on the show this morning, unfortunately we were scheduled to have her some 10 minutes ago.</p>
 <p>HOST: It's the rudest thing I've ever seen.</p>
 <p>HOST: Prime Minister we're just a bit disappointed, we are all busy here at Triple M.</p>
@@ -44,6 +34,4 @@ HOST: As promised we have the Prime Minister of Australia Julia Gillard on the s
 <p>HOST: Thanks Prime Minister we'll have to get Tony Liberatore to make a comeback for you.</p>
 <p>PM: Thank you.</p>
 <p>HOST: Prime Minister of Australia Julia Gillard there on the carbon tax on Triple M's Hot Breakfast. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

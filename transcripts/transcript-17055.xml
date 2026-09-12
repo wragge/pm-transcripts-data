@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17055</transcript-id>
-    <title>Prime Minister Transcript of interview with Paul Bongiorno Meet the Press 14 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BONGIORNO: Let's welcome back to the Program, Kevin Rudd. Good morning Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17055</transcript-id><title>Prime Minister Transcript of interview with Paul Bongiorno Meet the Press 14 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BONGIORNO: Let's welcome back to the Program, Kevin Rudd. Good morning Prime Minister.</p>
 <p>PM: Good morning Paul.</p>
 <p>BONGIORNO: Tony Abbott does not resile from his linking of the deaths of the four installation installers to the program that was put in place by Peter Garrett. He says Peter Garrett has to pay the price and lose the job.</p>
 <p>PM: Well what Mr Abbott has said is that Mr Garrett is guilty of industrial manslaughter. Let just step back a bit.</p>
@@ -88,6 +78,4 @@
 <p>PM: Well I can confirm today Paul, allied forces, British, American, Afghan, in the centre of Helmand Province, have launched a major offensive because Helmand is a particularly strong centre for the activity of the hardcore elements of the Taliban. But your broader question is, where does this go in terms of the long-term war in Afghanistan? Our approach is this. We, in our part of the country, have a responsibility to train up that Afghan national brigade. Transfer responsibility of security, to them and once we have achieved our mission in the province to bring our troops home but part of that also is to secure the perimeter, secure the country from these hardcore elements of the Taliban. That's why we're with there, with the Americans all the way.</p>
 <p>BONGIORNO: Thank you very much for being with us today, Prime Minister Kevin Rudd. Thanks to our panel, Malcolm Farr and Jennifer Hewett.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15670</transcript-id>
-    <title>Joint Press Conference with His Excellency Dr Jose Ramos-Horta, President of East Timor Palacio Das Cinzas, East Timor</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/07/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15670</transcript-id><title>Joint Press Conference with His Excellency Dr Jose Ramos-Horta, President of East Timor Palacio Das Cinzas, East Timor</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/07/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Bilateral relations</p>
 <p>E&amp;OE...</p>
 <p>PRESIDENT:</p>
@@ -59,6 +49,4 @@ Bilateral relations</p>
 <p>Thank you.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

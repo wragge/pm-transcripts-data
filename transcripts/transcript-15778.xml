@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15778</transcript-id>
-    <title>Address to the Opening of the Gallery  Honouring those who have Served Since 1945 Australian War Memorial, Canberra </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/02/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>We are gathered here in this place with a single and sacred purpose.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15778</transcript-id><title>Address to the Opening of the Gallery  Honouring those who have Served Since 1945 Australian War Memorial, Canberra </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/02/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>We are gathered here in this place with a single and sacred purpose.</p>
 <p>And that is to honour those of our nation's sons and daughters who have served our nation in uniform.</p>
 <p>From the killing fields of the Western Front.</p>
 <p>The unspeakable brutality of Sandakan.</p>
@@ -55,6 +45,4 @@
 <p>I believe this memorial to be the best in the world.</p>
 <p>And so it should be.</p>
 <p>Because our first duty is to honour our men and women in uniform and to honour their contribution to our great nation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

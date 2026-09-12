@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16110</transcript-id>
-    <title>Senior Government Appointments    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/09/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce a number of senior appointments.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16110</transcript-id><title>Senior Government Appointments    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/09/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce a number of senior appointments.</p>
 <p>Mr Finn Pratt PSM, currently Associate Secretary in the Department of Education, Employment and Workplace Relations, will be appointed as CEO of Centrelink for a five-year period from a date in the near future to be determined by the Minister for Human Services.</p>
 <p>Mr Pratt has a wealth of experience in the delivery of employment services.</p>
 <p>I wish Mr Pratt well in his new role.</p>
@@ -18,6 +8,4 @@
 <p>Dr Jeffrey Harmer will be reappointed as Secretary of the Department of Families, Housing and Community Services, Ms Jane Halton PSM will be reappointed as Secretary of the Department of Health and Ageing, and Mr Michael Taylor AO will be reappointed as Secretary of the Department of Infrastructure, Transport, Regional Development and Local Government.</p>
 <p>Each appointment is for a five-year period with effect from 26 October 2008.</p>
 <p>I appreciate the continuing contribution of the three Secretaries.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

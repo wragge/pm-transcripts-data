@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22078</transcript-id>
-    <title>Interview with Ellen Fanning A Current Affair, Channel Nince </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/12/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ELLEN FANNING:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22078</transcript-id><title>Interview with Ellen Fanning A Current Affair, Channel Nince </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/12/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ELLEN FANNING:</p>
 <p>Prime Minister, thank you so much for joining us.  You've been reluctant to say that yesterday's riot was a result of race, of racism.  If it's not racism, what is it?</p>
 <p>PRIME MINISTER:</p>
 <p>  Well, I utterly condemn the mob violence that was seen yesterday.  It has no justification. No group of Australians, irrespective of their background, has the right to take the law into their own hands.  And the very first thing I want to say, is to extend my congratulations and praise to the police, for the outstanding job they did in a very difficult situation.  I think the first thing we have to do, is to see this for what it is at this stage, and it is primarily a law and order issue, and what we...</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

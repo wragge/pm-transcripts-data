@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17102</transcript-id>
-    <title>Local hospital networks deliver on local needs    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Local Hospital Networks will be established across the country and paid directly by the Australian Government for each public hospital service they provide.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17102</transcript-id><title>Local hospital networks deliver on local needs    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Local Hospital Networks will be established across the country and paid directly by the Australian Government for each public hospital service they provide.</p>
 <p>Local Hospital Networks will be made up of a small group of hospitals that will work together to provide a range of hospital services and manage their own budgets.</p>
 <p>Local Hospital Networks will be:</p>
 <p>- Run locally; </p>
@@ -29,6 +19,4 @@
 <p>The Australian Government will work with States and Territories to determine the network structure that best meets the needs of communities and the challenges of managing multiple small hospitals.</p>
 <p>There will be no net increase in bureaucracy under this reform - because as a condition of the funding any increase in the number of local staff working at Local Hospital Networks must be matched by a reduction in head office staff numbers in health departments and regional bureaucracies.</p>
 <p>Changing the way hospitals are funded and run will make Australia's public hospital services more responsive to local communities, reduce waste and duplication, and ensure taxpayer health dollars are being used to deliver health services as effectively and efficiently as possible.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

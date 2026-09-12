@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11570</transcript-id>
-    <title>Sir Mark Oliphant</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/07/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> It is with great sadness that I learnt today of the death of Sir Mark Oliphant, an event which marks the passing of a great Australian, who was involved in one of the landmark scientific achievements of the twentieth century vis the splitting of the atom.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11570</transcript-id><title>Sir Mark Oliphant</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/07/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> It is with great sadness that I learnt today of the death of Sir Mark Oliphant, an event which marks the passing of a great Australian, who was involved in one of the landmark scientific achievements of the twentieth century vis the splitting of the atom.</p>
 <p>Sir Mark's distinguished academic career at home and overseas and a term as Governor of South Australia highlighted his contribution to the nation both as a scientist and public figure.</p>
 <p>Born in South Australia and educated at Unley and Adelaide High Schools, and Adelaide University, Sir Mark became a Senior Scholar at Cambridge University and a fellow of the Royal Society of London in 1937.</p>
 <p>It was early in his career, at Cambridge, that the then Mark Oliphant worked with the team at the Cavendish Laboratory which succeeded in 1932 in splitting the atom.</p>
@@ -19,6 +9,4 @@
 <p>Following retirement from the ANU Sir Mark performed distinguished service as Governor of South Australia from 1971-1976, and is fondly remembered for his contribution to public life in that role.</p>
 <p>On behalf of myself, my wife Janette, and the Federal Government I extend deepest sympathies to Sir Mark's daughter Vivian Wilson, daughter-in-law Monica Oliphant, and their families.</p>
 <p>17 July 2000</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

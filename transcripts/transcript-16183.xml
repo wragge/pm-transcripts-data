@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16183</transcript-id>
-    <title>Joint Press Release with the Treasurer, Wayne Swan, and Minister for Families, Jenny Macklin $4.8 Billion down payment to help Pensioners, Seniors and Carers </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/10/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will deliver a $4.8 billion down payment to Australia's four million pensioners, carers, seniors and veterans - providing them with immediate financial help in the lead up to comprehensive reform of the pension system.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16183</transcript-id><title>Joint Press Release with the Treasurer, Wayne Swan, and Minister for Families, Jenny Macklin $4.8 Billion down payment to help Pensioners, Seniors and Carers </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/10/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will deliver a $4.8 billion down payment to Australia's four million pensioners, carers, seniors and veterans - providing them with immediate financial help in the lead up to comprehensive reform of the pension system.</p>
 <p>This decisive action is part of the Rudd Government's $10.4 billion Economic Security Strategy to boost the Australian economy and support pensioners and families during the global financial crisis.</p>
 <p>The $4.8 billion down payment will be made available through a lump sum payment of $1,400 to singles and $2,100 to couples, which will benefit:    </p>
 <p>     * Age Pensioners;</p>
@@ -39,6 +29,4 @@
 <p>The Government has asked Centrelink to quickly update their system with the current value of any investments, including shares, that pensioners might hold.</p>
 <p>This will ensure that pension payments are based on the most up-to-date asset values available.</p>
 <p>Payments will be non taxable and not included for income testing purposes.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

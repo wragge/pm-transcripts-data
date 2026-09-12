@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18138</transcript-id>
-    <title>Transcript of interview with Chris Uhlmann, 7:30</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/09/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18138</transcript-id><title>Transcript of interview with Chris Uhlmann, 7:30</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/09/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Julia Gillard, welcome.</p>
 <p>PM: Thank you.</p>
 <p>HOST: What will you do if Tony Abbott rejects your call to amend the law to allow offshore processing?</p>
@@ -47,6 +37,4 @@ HOST: Julia Gillard, welcome.</p>
 <p>PM: Look I had a very good insight into this job before I took it; I understood what it would be and I understood the weight of the responsibility that would come with it. And this job isn't about wandering around doing what's popular and it's not about worrying about next fortnight's opinion polls, it's about working through the best thing for this nation for the long term and we are doing that. And I understand how difficult the carbon pricing debate is, no one would understand that more than me, but when I spoke those words yesterday about being on the right side of history I was absolutely convinced they were true, I am convinced they're true, just the same way they were true when Labor brought Medicare in and just the same way they were true when we brought superannuation to this country, bitterly contested by the Liberals every step of the way.</p>
 <p>HOST: Julia Gillard thank you.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

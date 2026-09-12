@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41340</transcript-id>
-    <title>Television interview with Karl Stefanovic – Today Show</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/11/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>KARL STEFANOVIC: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41340</transcript-id><title>Television interview with Karl Stefanovic – Today Show</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/11/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>KARL STEFANOVIC: </strong></p>
 <p>The PM joins us now. Good morning PM.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning, good morning.</p>
@@ -78,7 +68,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Net debt is around $360 billion. That is the net debt, because obviously you've got assets on the other side. Anyway, let's not get into it, we know debt is high. That's why we are bringing the budget back into the black by 2021. What our commitment is, as our next priority, just as we have reduced taxes on small and medium businesses, just as we’ve provided tax relief for people on middle incomes already, we want to do more, just as we are bringing downward pressure on energy prices with the great results of the modelling on our National Energy Guarantee and the reductions in prices people are getting with the better deals from retailers we have delivered, so we have to do two things at once; give tax relief to middle income families -</p>
 <p><strong>KARL STEFANOVIC:</strong></p>
-<p>I'm sorry, PM, I’m sorry - </p>
+<p>I'm sorry, PM, I’m sorry -&nbsp;</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>And bring the bring the budget back into balance. That’s what we’re doing.</p>
 <p><strong>KARL STEFANOVIC:</strong></p>
@@ -98,6 +88,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks Karl, great to be with you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

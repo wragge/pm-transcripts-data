@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22833</transcript-id>
-    <title>Interview with Robert Gottleibsen, Sky TV</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/06/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  GST; Defence Force spending; Internet; Kyoto Accord; datacasting.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22833</transcript-id><title>Interview with Robert Gottleibsen, Sky TV</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/06/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  GST; Defence Force spending; Internet; Kyoto Accord; datacasting.</p>
 <p>E&amp;OE  ………………………………………………………………………………</p>
 <p>GOTTLIEBSEN:</p>
 <p>John, as a person who has devoted a lifetime to Australian Service, is achieving a GST for Australia more important to John Howard than winning the next election? </p>
@@ -60,6 +50,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well there’s a lot of discussion going on right at the moment, I think you’re aware of that.  I would like to think none of them have abandoned it, and I hope that the discussions that are going on at the present time which have to respect the legislation, or the outcome that was supported by all sides of politics a couple years ago.  Any outcome’s got to respect that.  But I hope that those companies will continue to be players.  They should be and I hope we can find a way whereby they will.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11714</transcript-id>
-    <title>Address to Financial Services Seminar Dinner, London</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/07/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I would like to thank Axiss Australia for hosting this dinner and thank our High Commissioner, Phillip Flood for his kind introduction.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11714</transcript-id><title>Address to Financial Services Seminar Dinner, London</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/07/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I would like to thank Axiss Australia for hosting this dinner and thank our High Commissioner, Phillip Flood for his kind introduction.</p>
 <p>I am also grateful that so many people in the investment community in Australia, as well as here in the UK and in Europe, have been able to come together for this gathering tonight. </p>
 <p>In particular, I am delighted that so many of Australia's Premiers and Chief Ministers are present here, as are the Chief Executive Officers and directors of several of Australia's major financial sector institutions. </p>
 <p>This broad and bipartisan representation underscores the breadth of the Australian support for this initiative.</p>
@@ -42,10 +32,10 @@
 <p>Just last week, the OECD identified Australia as one of the six fast-growth new economies of the 1990s.</p>
 <p>Australia has grown faster than either the United Kingdom or the European Union as a whole in each year since 1992, averaging growth of 4 per cent per annum over the past eight years compared with average annual growth of 2« per cent for the United Kingdom and just under 2 per cent for the European Union.</p>
 <p>Our recent economic success has not come about by accident.  It is readily explained by five key pillars of reform:</p>
-<p>-tariff reform;<br />
--deregulation of the financial system;<br />
--reform of our once arthritic labour market;<br />
--the restoration and consolidation of our fiscal position; and<br />
+<p>-tariff reform;<br>
+-deregulation of the financial system;<br>
+-reform of our once arthritic labour market;<br>
+-the restoration and consolidation of our fiscal position; and<br>
 -fundamental tax reform.</p>
 <p>A sustained programme of tariff reduction - started under the former Labor Government - has opened up Australian markets.</p>
 <p>Not only has this exposed local firms to the increased competitive pressures of the global environment, but such international exposure has provided greater access to innovation and encouraged Australian firms to grasp opportunities and seek out new markets. </p>
@@ -139,6 +129,4 @@
 <p>Australia has rapidly adopted new technologies and continues to provide a high level of infrastructure to support the sector.</p>
 <p>We will continue to work with the international financial community to share the expansion of Australia as a major centre for global financial services.</p>
 <p>I look forward to seeing you in Sydney for the Olympics.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

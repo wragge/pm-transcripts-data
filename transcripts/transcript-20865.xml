@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20865</transcript-id>
-    <title>Doorstop Interview, Sheraton Hotel Auckland, New Zealand </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20865</transcript-id><title>Doorstop Interview, Sheraton Hotel Auckland, New Zealand </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well could I just say that I';d like to congratulate Greg Urwin on his election as the next Secretary General of the Forum. He';s a very talented person. He has great experience in the Pacific. I thank my Forum colleagues for the confidence that they have shown in him. I know that he will repay that  by performing extremely well at a very critical time for the Forum.  This has been quite a watershed meeting. It';s the most engaged forum meeting I';ve ever been to. This body is seen as having new authority, new clout, new relevance, and everybody will go from this meeting feeling that they';re part of something that will punch even harder and more effectively in region than before.</p>
 <p>JOURNALIST:</p>
 <p>How were you able to convince them Prime Minister, how were you able to convince the other prime ministers?</p>
@@ -80,6 +70,4 @@
 <p>PRIME MINISTER:</p>
 <p>I hope so.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

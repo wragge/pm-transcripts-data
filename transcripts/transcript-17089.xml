@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17089</transcript-id>
-    <title>Prime Minister Deputy Prime Minister Draft Australian curriculum released today 1 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Kevin Rudd, and Minister for Education, Julia Gillard, today released the first draft Australian Curriculum for students from Kindergarten to Year 10 in the subjects of English, maths, science and history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17089</transcript-id><title>Prime Minister Deputy Prime Minister Draft Australian curriculum released today 1 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Kevin Rudd, and Minister for Education, Julia Gillard, today released the first draft Australian Curriculum for students from Kindergarten to Year 10 in the subjects of English, maths, science and history.</p>
 <p>Having an online curriculum means the curriculum will be dynamic, and easily updated, in contrast with the static, hard-copy format. The Australian Curriculum will be among the world's first curriculum delivered online.</p>
 <p>From next year, students from all states and territories will be able to move schools, school systems and states and be taught the same knowledge, skills and understanding as part of a curriculum for the 21st Century.</p>
 <p>For the first time, the 80 000 students who move interstate each year won't have to get to know a whole new curriculum at the same time as getting to know a new school.</p>
@@ -23,6 +13,4 @@
 <p>A draft English, mathematics, science and history curriculum for Years 11-12 will be released for consultation later this year.</p>
 <p>The second phase of the Australian Curriculum will include languages, geography and the arts.</p>
 <p>To view the draft Australian Curriculum, visit the consultation website <a href="http://www.australiancurriculum.edu.au">www.australiancurriculum.edu.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

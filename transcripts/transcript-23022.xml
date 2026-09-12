@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23022</transcript-id>
-    <title>Joint Press Conference with Prime Minister John Key, Parliament House, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/10/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Subjects: Prime Minister Key’s visit to Australia,  Australia-New Zealand relations,  visit to Indonesia. </subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER ABBOTT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23022</transcript-id><title>Joint Press Conference with Prime Minister John Key, Parliament House, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/10/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Subjects: Prime Minister Key’s visit to Australia, Australia-New Zealand relations, visit to Indonesia.</subjects><content><![CDATA[<p><strong>PRIME MINISTER ABBOTT:</strong></p>
 <p>It’s great to be here in the prime ministerial courtyard with my brother prime minister John Key of New Zealand.</p>
 <p>New Zealand is in many respects Australia’s closest relationship. We go back a hell of a long way together.</p>
 <p>New Zealand is family in a way that probably no other country on earth is.</p>
@@ -60,6 +50,4 @@
 <p><strong>PRIME MINISTER ABBOTT:</strong></p>
 <p>Thank you. Thanks, John.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

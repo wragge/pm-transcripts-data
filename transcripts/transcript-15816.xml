@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15816</transcript-id>
-    <title>Joint Press Conference with Minister for Defence Science and Personnel, Prime Ministers Courtyard, Canberra </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/03/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: This is a historic day for all Australians and it's a sad day for all Australians as we confirm the discovery of HMAS Sydney. Last night the Deputy Chief of Navy Admiral Crane informed the Minister for Defence Science and Personnel that the HMAS Sydney wreck had been found.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15816</transcript-id><title>Joint Press Conference with Minister for Defence Science and Personnel, Prime Ministers Courtyard, Canberra </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/03/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: This is a historic day for all Australians and it's a sad day for all Australians as we confirm the discovery of HMAS Sydney. Last night the Deputy Chief of Navy Admiral Crane informed the Minister for Defence Science and Personnel that the HMAS Sydney wreck had been found.</p>
 <p>I'm advised that the HMAS Sydney was found some 12 nautical miles from the Kormoran. Some 8 nautical miles from the scene of the principal battle site and at a depth of some 2470 metres. I am advised that the hull of the HMAS Sydney based on initial sonar findings is determined to be largely intact.</p>
 <p>The Australian Government hopes that the discovery of HMAS Sydney brings some closure to the families of the 645 Australian Defence Force personnel who lost their lives bravely in this naval action in World War II.</p>
 <p>The Australian Defence Force have also informed me that they will be using their own communications systems to make sure that the surviving family members of the crew of HMAS Sydney are informed of this discovery as soon as is practically possible.</p>
@@ -77,6 +67,4 @@
 <p>PM: I think that in most of my discussions with Chinese leaders in the past we have dealt with human rights. I can't see that changing into the future. And, it is a normal part of our relationship with the Chinese which is to say that on human rights questions we have differences with the Government in Beijing. And, when it comes to these most recent developments in Tibet, we have already made our position clearly known. Thank you very much.</p>
 <p>JOURNALIST: (inaudible)</p>
 <p>PM: The normal diplomatic processes apply here, both in Beijing and in Canberra. And, these are serious matters and I take them seriously, and, they will certainly form part of our continued diplomatic communication with the Chinese Government. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

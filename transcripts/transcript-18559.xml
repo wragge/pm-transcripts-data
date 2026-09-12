@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18559</transcript-id>
-    <title>Transcript of interview with Amelia Adams, Channel Nine Morning News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18559</transcript-id><title>Transcript of interview with Amelia Adams, Channel Nine Morning News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister good morning, thank you for joining us.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Okay, let's start with the $5 billion in cash handouts. Is this just a big bribe to win back voters?</p>
@@ -31,6 +21,4 @@ HOST: Prime Minister good morning, thank you for joining us.</p>
 <p>So that's what's on my forward agenda. On the question of trade unions and the Fair Work Australia report, I want to say this very clearly. Overwhelmingly, trade unions in our country are professional, hardworking organisations doing the right thing by their members. But to the extent that a dollar of members' money is ever misused that's completely the wrong thing to happen, members' money should be used for proper purposes.</p>
 <p>HOST: Alright Prime Minister Gillard you've got a big day ahead, we'll leave it there, thank you so much for your time this morning.</p>
 <p>PM: Thanks Amelia. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

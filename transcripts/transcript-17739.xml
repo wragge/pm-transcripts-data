@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17739</transcript-id>
-    <title>Royal Wedding</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/03/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17739</transcript-id><title>Royal Wedding</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/03/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and her partner Tim Mathieson will attend the wedding of His Royal Highness Prince William of Wales and Catherine Middleton next month.</p>
 <p>The Prime Minister and Mr Mathieson received an invitation from Buckingham Palace to attend the Royal wedding which will take place at Westminster Abbey on Friday 29th April at 11am.</p>
 <p>The Governor-General, Ms Quentin Bryce and her husband have also been invited.</p>
 <p>The Prime Minister and Mr Mathieson are delighted to have been invited to the wedding which will capture the hearts of millions around the world. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

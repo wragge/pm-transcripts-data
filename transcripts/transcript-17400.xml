@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17400</transcript-id>
-    <title>Transcript of interview with Michael Smith</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>08/07/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>4BC Drive</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17400</transcript-id><title>Transcript of interview with Michael Smith</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>08/07/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>4BC Drive</p>
 <p>HOST: I had this lengthy discussion with the Prime Minister earlier today, have a listen to this and it will tell you I think I certainly learnt a fair bit about this so called regional solution, here is a bit of that chat with PM Julia Gillard. I started by saying G'day.</p>
 <p>PM: Hi, how are you?</p>
 <p>HOST: Not bad. I am going to get Tony Abbott to put a dollar in the swear jar every time he says 'um' or 'ah', will you do it every time you say 'obviously'?</p>
@@ -62,6 +52,4 @@
 <p>PM: Well, I've rejected the premise of your question. I was using figures that were supplied to me-</p>
 <p>HOST: By whom?</p>
 <p>PM: -through our economic advisers in government, through our Treasury and the like, and then often some of the contrasts in the public debate were not contrasts on exactly the same footing. So you know, it's a technical area where it's easy for figures to be about company tax, to be about royalties, for figures to vary - but we worked our way through all of that, we worked our way through it respectfully and with goodwill - sitting around the table with representatives of some of the nation's most important mining companies and we got to a solution.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

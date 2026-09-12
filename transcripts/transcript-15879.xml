@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15879</transcript-id>
-    <title>Australia 2020 Summit - Opening Remarks, Parliament House, Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/04/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australians one, Australians all.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15879</transcript-id><title>Australia 2020 Summit - Opening Remarks, Parliament House, Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/04/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australians one, Australians all.</p>
 <p>I too begin by acknowledging the first peoples of our nation.</p>
 <p>Just as I welcome all of you to this, the nation's capital, to this, the nation's Parliament.</p>
 <p>To this, the great meeting place of our common democracy, Australia.</p>
@@ -114,6 +104,4 @@
 <p>I say it is time, well and truly time to seize the future with both hands, to build a new Australia.</p>
 <p>To build a better Australia, a better Australia for all of our people, as well as turning this great nation of ours Australia, to an even greater force for good in the world.</p>
 <p>And now ladies and gentlemen, summiteers, it is over to you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

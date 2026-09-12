@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21739</transcript-id>
-    <title>Interview with Melissa Doyle and Mark Baretta Sunrise, Channel Seven </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/05/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>DOYLE:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21739</transcript-id><title>Interview with Melissa Doyle and Mark Baretta Sunrise, Channel Seven </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/05/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>DOYLE:</p>
 <p>Well taxes have been slashed and welfare revamped in what Peter Costello hopes will be his last Budget. As always, reaction is mixed, with taxpayers generally happy, but single parents leading the critics.</p>
 <p>BARETTA:</p>
 <p>We'll hear from both of them in just a moment, but first to Canberra where John Howard is starting the big sell. Prime Minister, good morning to you. Is this a Budget designed to get Peter Costello into your job?</p>
@@ -42,6 +32,4 @@
 <p> PRIME MINISTER:</p>
 <p> Thank you, thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

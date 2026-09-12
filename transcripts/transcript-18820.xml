@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18820</transcript-id>
-    <title>Transcript of Joint Doorstop Interview</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/10/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Launceston</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18820</transcript-id><title>Transcript of Joint Doorstop Interview</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/10/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Launceston</p>
 <p>PM: I start by saying I understand that there is interest from members of the media about the matter involving Mr Alan Jones.</p>
 <p>It is not my intention to make any comment about that matter. The only thing I want to say is this.</p>
 <p>Both I and my family have been overwhelmed by the outpouring of support for us since the death of my father.</p>
@@ -93,6 +83,4 @@
 <p>PM: I have indicated to you I am not going to be commenting on this question.</p>
 <p>Thanks very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41238</transcript-id>
-    <title>Visit to Australia by the President of the Republic of Niger</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/10/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I look forward to welcoming His Excellency Mr President Issoufou Mahamadou, President of the Republic of Niger, to Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41238</transcript-id><title>Visit to Australia by the President of the Republic of Niger</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/10/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I look forward to welcoming His Excellency Mr President Issoufou Mahamadou, President of the Republic of Niger, to Australia.</p>
 <p>The relationship between our two nations has grown significantly since diplomatic relations were established in 2009.</p>
 <p>President Issoufou’s visit to Australia provides an opportunity to build upon our growing bilateral engagement with Niger. This is supported by our areas of common interest including in mining, energy and dryland agriculture.</p>
 <p>The visit also provides an opportunity to discuss ways to strengthen our security and counter-terrorism cooperation, which is a shared priority for both countries.</p>
@@ -20,6 +10,4 @@
 <p>The visit also provides an opportunity to discuss ways to strengthen our security and counter-terrorism cooperation, which is a shared priority for both countries.</p>
 <p>This is the first visit to Australia by a President of the Republic of Niger.</p>
 <p>The President and his party will travel to Perth, Canberra and Sydney during their visit.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

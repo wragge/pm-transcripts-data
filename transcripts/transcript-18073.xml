@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18073</transcript-id>
-    <title>Address at the State Memorial Service for The Late Honourable AC Holding, Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/08/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18073</transcript-id><title>Address at the State Memorial Service for The Late Honourable AC Holding, Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/08/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I thank Diane Kerr for the Welcome to Country, and honour the traditional owners of this land, to whom Clyde Holding was such a true and faithful friend.</p>
 <p>Former Governors-General Sir Zelman Cowen and Dr Peter Hollingworth.</p>
 <p>My distinguished predecessors, Bob Hawke and Paul Keating.</p>
@@ -74,6 +64,4 @@ I thank Diane Kerr for the Welcome to Country, and honour the traditional owners
 <p>Clyde Holding's remarkable life of 80 years is at an end.</p>
 <p>And he leaves us honoured and remembered.</p>
 <p>Much-loved and very greatly missed. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

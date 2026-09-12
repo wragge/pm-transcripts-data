@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18938</transcript-id>
-    <title>Australia Joins G20 Leadership Team</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18938</transcript-id><title>Australia Joins G20 Leadership Team</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Australia has taken its place on the G20 “troika” joining Mexico and Russia on the group of past, present and future chairs that manages the G20  -  the world's most important forum for global economic growth and stability.</p>
 <p>As part of this group, Australia will play an enhanced role in guiding the G20's work in the lead-up to our G20 Presidency in 2014.</p>
 <p>To mark the occasion, the Prime Minister has written to the President of Russia, Mr Vladimir Putin, congratulating him on taking over the G20 chair, and looking forward to a close working relationship leading up to the leaders' summit in St Petersburg in September 2013. </p>
@@ -18,6 +8,4 @@
 <p>The G20 is the forum best equipped to deal with the ongoing economic and financial challenges confronting the world, bringing together at the same table the leaders of the major advanced economies and the emerging market economies. </p>
 <p>The G20 is a dynamic and flexible forum dedicated to resolving the global economic problems of the day and laying the foundations for prosperity and stability for the years to come.</p>
 <p>The centrepiece of Australia's 2014 host year will be the Summit in Brisbane, which is expected to attract 25 world leaders, 4,000 delegates and up to 3000 members of the world's media.  Meetings of Finance Ministers and Central Bank Governors will be held in Sydney and Cairns; and a range of officials-level meetings and stakeholder engagement events supporting the policy process will be held throughout Australia during 2014.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17247</transcript-id>
-    <title>Prime Minister Speech at the ANZAC Day national ceremony Australian War Memorial, Canberra On the commemoration of the centenary of ANZAC 25 April 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/04/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17247</transcript-id><title>Prime Minister Speech at the ANZAC Day national ceremony Australian War Memorial, Canberra On the commemoration of the centenary of ANZAC 25 April 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/04/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY</p>
 <p>All nations are shaped by their histories, their memories and their stories.</p>
 <p>By their triumphs, by their tragedies.</p>
 <p>By their myths and by their legends.</p>
@@ -91,6 +81,4 @@
 <p>Wars always end.</p>
 <p>But our duty to remember never will.</p>
 <p>Lest we forget. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

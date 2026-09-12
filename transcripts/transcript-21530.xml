@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21530</transcript-id>
-    <title>Interview with Alan Jones Radio 2GB </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/12/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JONES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21530</transcript-id><title>Interview with Alan Jones Radio 2GB </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/12/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JONES:</p>
 <p>It's 16 and a half minutes after seven o'clock. The Prime Minister is on the line and before I speak to him, I know he doesn't go in for much of this stuff but my listeners do so I'm telling my listeners that John Howard came to power on the 11th of March 1996.  Tomorrow, December 11, Mr Howard will have been in office for eight years and nine months and on Tuesday, December 21 he will overtake Robert James Lee Hawke as our second longest serving Prime Minister.  I don't think there are too many who would begrudge him that honour.  He's on the line, PM good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Alan.</p>
@@ -66,6 +56,4 @@
 <p>PRIME MINISTER:</p>
 <p>And thank you for your courtesies.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16272</transcript-id>
-    <title>Transcript of Television Interview Sydney   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Well, this Opera House is not just Sydney's great symbol to the world, it's Australia's great symbol to the world. And we owe this great symbol to this great man who has now passed away. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16272</transcript-id><title>Transcript of Television Interview Sydney   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Well, this Opera House is not just Sydney's great symbol to the world, it's Australia's great symbol to the world. And we owe this great symbol to this great man who has now passed away. </p>
 <p>JOURNALIST: Your thoughts about the fact that politicians were brave enough to embrace that design all those years ago. Do you think that would happen again? It was a very brave and courageous move on their part.</p>
 <p>PM: Well, look back to the 60s. Australia was a little more conservative in those days. I think all those who were party to the decision to build this great building which becomes Australia's great symbol to the world and Sydney's great symbol to the world owe that to, I think, the courage of the architect, owe that to the courage of those who approved the design.</p>
 <p>JOURNALIST: Your thoughts about the fact that, I suppose, it is quite sad in a way that he never actually saw the completed building?</p>
@@ -22,6 +12,4 @@
 <p>JOURNALIST: Are you encouraged by Pakistan's statements overnight re: any connection?</p>
 <p>PM: The Government of Pakistan has made appropriate statements. But I've got to say, what is called for in the period ahead is calm between Islamabad and New Delhi in what could be a very difficult period ahead.</p>
 <p>Terrorism is an enemy of all civilised countries and all civilised peoples. And our challenge is to work with all of our friends, allies and partners in the world to tackle the scourge - its causes, as well as its ugliest manifestations, which we have seen most recently in this great city Mumbai.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

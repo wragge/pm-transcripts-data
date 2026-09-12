@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24719</transcript-id>
-    <title>Remarks at reception for the Diamonds Netball Team, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>20/08/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thank you, Sussan.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24719</transcript-id><title>Remarks at reception for the Diamonds Netball Team, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>20/08/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thank you, Sussan.</p>
 <p>Women’s sport does matter and today I’m pleased and proud to say that women’s sport takes centre court here in our national Parliament.</p>
 <p>Today we salute our world champion netball team – the Diamonds!</p>
 <p>Not only the Commonwealth Games medallists, but World Cup winners thanks to an absolutely thrilling victory over New Zealand.</p>
@@ -26,6 +16,4 @@
 <p>Well done, Diamonds!</p>
 <p>Sporting success does help to lift our national morale and thanks to you our spirits have soared.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18157</transcript-id>
-    <title>Visit by Her Majesty The Queen and His Royal Highness The Duke of Edinburgh</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/09/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18157</transcript-id><title>Visit by Her Majesty The Queen and His Royal Highness The Duke of Edinburgh</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/09/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Her Majesty The Queen and His Royal Highness The Duke of Edinburgh will visit the capital cities of Canberra, Brisbane, Melbourne and Perth during their visit to Australia next month.</p>
 <p>The Queen and The Duke of Edinburgh will arrive in Canberra on Wednesday 19th October before travelling to Brisbane on Monday 24th October and Melbourne on Wednesday 26th October. It will be a great opportunity to visit these state capitals.</p>
 <p>The Royal couple will conclude their trip in Perth from Wednesday 26th October to Saturday 29th October, which will include the Commonwealth Heads of Government Meeting.</p>
@@ -17,6 +7,4 @@ Her Majesty The Queen and His Royal Highness The Duke of Edinburgh will visit th
 <p>It will be with great honour that I welcome The Queen and The Duke of Edinburgh back to Australia.</p>
 <p>I particularly look forward to their attendance at CHOGM and look forward to our discussions to further the ideals and goals of the Commonwealth.</p>
 <p>The Queen and The Duke of Edinburgh last visited Australia in 2006 for the opening of the 2006 Commonwealth Games. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

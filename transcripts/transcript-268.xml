@@ -1,28 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>268</transcript-id>
-    <title>P.M. NO.1/1961 - MESSAGE FROM PRESIDENT OF THE UNITED STATES</title>
-    <prime-minister>Menzies, Robert</prime-minister>
-    <period-of-service>19491219 - 19660126</period-of-service>
-    <release-date>07/02/1961</release-date>
-    <release-type>Message</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000268.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-P. M. No. 1/ 1961<br />
-MESSAGE FROM PRESIDENT OF THE UNITED STATES<br />
-The Prime Minister, the Rt. Hon. R. G. Menzies has<br />
-received the following message from President Kennedy:<br />
-" Dear Mr. Prime Minister:<br />
-May I express to you and to the other members of the<br />
-Government of Australia my gratitude for your kind<br />
-message of good wishes on the occasion of my inauguration.<br />
-I am fully confident that we shall be able to strengthen<br />
-even further the ties between our two nations and to press<br />
-forward toward a world dedicated to freedom and peace.<br />
-Sincerely, John F. Kennedy"<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>268</transcript-id><title>P.M. NO.1/1961 - MESSAGE FROM PRESIDENT OF THE UNITED STATES</title><prime-minister>Menzies, Robert</prime-minister><period-of-service>19491219 - 19660126</period-of-service><field_date>07/02/1961</field_date><release-type>Message</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00000268.pdf</document><subjects></subjects><content><![CDATA[<p>
+P. M. No. 1/ 1961<br>
+MESSAGE FROM PRESIDENT OF THE UNITED STATES<br>
+The Prime Minister, the Rt. Hon. R. G. Menzies has<br>
+received the following message from President Kennedy:<br>
+" Dear Mr. Prime Minister:<br>
+May I express to you and to the other members of the<br>
+Government of Australia my gratitude for your kind<br>
+message of good wishes on the occasion of my inauguration.<br>
+I am fully confident that we shall be able to strengthen<br>
+even further the ties between our two nations and to press<br>
+forward toward a world dedicated to freedom and peace.<br>
+Sincerely, John F. Kennedy"<br>
 CANBERRA, 7th February, 1961. I </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

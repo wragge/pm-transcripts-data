@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21061</transcript-id>
-    <title>Press Conference Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/02/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21061</transcript-id><title>Press Conference Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/02/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen thank you for coming this balmy afternoon, I'm sorry it's so late. I just wanted to announce that the Party Room has approved the Cabinet's decision to legislate immediately to close down the existing Commonwealth Parliamentary superannuation scheme to people elected at the next parliament and it will be replaced by a scheme that attracts a government contribution of nine per cent which is the community standard.</p>
 <p>JOURNALIST:</p>
 <p>Are you playing catch up with Mark Latham?</p>
@@ -164,6 +154,4 @@
 <p>PRIME MINISTER:</p>
 <p>If I'm asked to by Mr Abbott, but he's handling it superbly.</p>
 <p> [ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

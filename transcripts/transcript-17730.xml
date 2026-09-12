@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17730</transcript-id>
-    <title>Transcript of interview with Erin Burnett, CNBC</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/03/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17730</transcript-id><title>Transcript of interview with Erin Burnett, CNBC</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/03/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Gillard, thank you so much for taking the time to come and visit us.</p>
 <p>PM: My pleasure. Thank you. </p>
 <p>HOST: And get to see the Stock Exchange. Hopefully you'll see it with some people on it too.</p>
@@ -70,6 +60,4 @@ HOST: Prime Minister Gillard, thank you so much for taking the time to come and 
 <p>PM: -cane toads. Yeah, you name it, we've got it, but we've also got a lot of wonderful wildlife that people come from around the world to see.</p>
 <p>HOST: All right. Well, thank you so much Prime Minister Gillard. Wonderful to see you.</p>
 <p>PM: Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

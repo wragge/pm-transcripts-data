@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10870</transcript-id>
-    <title>LABOR LACKS STOMACH ON TAX</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/07/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> The Deputy Leader of the Opposition, Mr Gareth Evans, made it</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10870</transcript-id><title>LABOR LACKS STOMACH ON TAX</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/07/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> The Deputy Leader of the Opposition, Mr Gareth Evans, made it</p>
 <p> abundantly clear this morning that his Party has no stomach for removing</p>
 <p> the huge unfairness in Australia's taxation system.</p>
 <p>On "Meet the Press" he foreshadowed yet another adhoc, Bandaid</p>
@@ -32,6 +22,4 @@
 <p> Beazley / Evans approach ignores the national interests. It is all</p>
 <p> about political point scoring.</p>
 <p> 5 July 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

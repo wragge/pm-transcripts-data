@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16646</transcript-id>
-    <title>Interview with Madonna King - ABC 612    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/06/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KING: Good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16646</transcript-id><title>Interview with Madonna King - ABC 612    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/06/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KING: Good morning.</p>
 <p>PM: Good morning Madonna.</p>
 <p>KING: How much of today is a PR exercise and how much is about genuinely finding out what's needed in the community?</p>
 <p>PM: Madonna, prior to the last election we said that we would take for the first time the Australian cabinet around the country. And from memory this is either number 12 or number 13 that we have done over the last 18 months that we've been in office in every state of Australia. And it is the first opportunity that all these communities have had to sit down with the Australian cabinet, ask any question they like about any subject they like. And if you are a person with a particular concern or a community organisation, then we've had literally hundreds and hundreds of individual meetings between these organisations and individual Ministers -</p>
@@ -60,6 +50,4 @@
 <p>PM: I don't think so Madonna, no.</p>
 <p>KING: Alright Kevin Rudd, thanks for your time.</p>
 <p>PM: Good morning.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

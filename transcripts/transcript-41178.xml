@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41178</transcript-id>
-    <title>Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/09/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>Meeting with AGL; Energy policy</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41178</transcript-id><title>Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/09/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Meeting with AGL; Energy policy</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Well, good morning. I want to say a little bit about the meeting with the AGL Managing Director last night, Andy Vesey. It was a constructive meeting.</p>
 <p>As you know, the government's concern is that the closure of the Liddell power station in 2022 will, as we have been advised, create a large gap in baseload power in New South Wales, and hence in the whole electricity market, indeed most of Australia.</p>
 <p>We can't allow this to happen, we can't allow that gap to occur. We've seen what happened when Hazelwood closed at very short notice, and there was a near doubling in wholesale electricity prices in New South Wales. They rose by over $50 following the closure of Hazelwood.</p>
@@ -37,6 +27,4 @@
 <p>Energy companies want to look after their shareholders. My job is to look after the people with more affordable and reliable power.</p>
 <p>Thank you very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

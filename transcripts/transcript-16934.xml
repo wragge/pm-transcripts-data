@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16934</transcript-id>
-    <title>Prime Minister Transcript of interview on CNN Talk Asia Canberra 20 November 2009 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>COREN: Prime Minister, earlier this year you were concerned that Copenhagen could fail. Is that still the case?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16934</transcript-id><title>Prime Minister Transcript of interview on CNN Talk Asia Canberra 20 November 2009 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>COREN: Prime Minister, earlier this year you were concerned that Copenhagen could fail. Is that still the case?</p>
 <p>PM: Well, I don't believe we can allow the possibility of failure if we're serious about the planet's future. On the mechanics, though, of this negotiation, it's tough, it's hard, but I think in recent times, because of Prime Minister Rasmussen's leadership as the President of the Conference of Parties there is now a real possibility that we can craft an operational framework agreement, a Copenhagen agreement, which has got substance on all the key challenges - temperature, targets, commitments, finance, technology. That's what we're working towards, but the going will be tough.</p>
 <p>COREN: So you're talking about an agreement, but what about a legal, binding agreement?</p>
 <p>PM: Well, let's look carefully at the words used by Prime Minister Rasmussen himself. What he's talking about is one agreement in two steps. First step is, let's call it a heads of agreement about the core policy agreements across targets for bringing down greenhouse gas emissions, for verifiable actions by developing countries and concrete proposals agreed on finance, as well as technology.</p>
@@ -36,6 +26,4 @@
 <p>The science is clear. The moral imperative lies in action.</p>
 <p>COREN: Prime Minister, thank you.</p>
 <p>PM: Good to be with you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

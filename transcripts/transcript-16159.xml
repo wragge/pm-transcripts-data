@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16159</transcript-id>
-    <title>Interview with Greg Cary, Radio 4BC   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/10/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CARY: Good morning</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16159</transcript-id><title>Interview with Greg Cary, Radio 4BC   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/10/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CARY: Good morning</p>
 <p>PM: Good morning, Greg and thanks for having me on the program.</p>
 <p>CARY: I just talking about the seeming bipartisanship of what came out of yesterday. You might talk with us a little bit about that. What are the key points out of it our listeners should know?</p>
 <p>PM: Well, all Premiers and Chief Ministers when we meet in Perth yesterday were completely seized to the fact that we are in the middle of a global financial crisis. Therefore that has implications to the Australian economy. Therefore we need to cooperate, put any petty differences to one side.</p>
@@ -51,6 +41,4 @@
 <p>PM: I'll be backing the Storm because half of them are from Brissie.</p>
 <p>CARY: Enjoy the day Prime Minister.</p>
 <p>PM: Thanks very much, Greg.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

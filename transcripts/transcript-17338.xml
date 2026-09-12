@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17338</transcript-id>
-    <title>Prime Minister Speech to the Perth Media Club A strong future for Western Australia Perth 9 June 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>09/06/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17338</transcript-id><title>Prime Minister Speech to the Perth Media Club A strong future for Western Australia Perth 9 June 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>09/06/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>It's great to be back in Western Australia for this, my 16th visit as Prime Minister.</p>
 <p>On average, I've been in the West every two months since the last election.</p>
 <p>And the reason is simple - WA is a driving force of the Australian economy for the 21st century.</p>
@@ -223,6 +213,4 @@
 <p>A fair share for mining communities that see the benefits but also feel the burdens of rapid economic growth.</p>
 <p>A fair share for Western Australia.</p>
 <p>And a fair share for the owners of the mineral wealth in the ground - and that's each of us and all of us.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

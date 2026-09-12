@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15965</transcript-id>
-    <title>Interview with the Acting Prime Minister, the Hon Julia Gillard, Channel Nine Today Show  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/06/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KARL STEFANOVIC: Joining us now, Acting Prime Minister Julia Gillard. Julia, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15965</transcript-id><title>Interview with the Acting Prime Minister, the Hon Julia Gillard, Channel Nine Today Show  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/06/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KARL STEFANOVIC: Joining us now, Acting Prime Minister Julia Gillard. Julia, good morning to you.</p>
 <p>JULIA GILLARD: Good morning, Karl.</p>
 <p>KARL STEFANOVIC: Good to talk to you this morning. Now, Kevin Rudd calls it counselling, Belinda Neal calls it conflict resolution. She appears to think it's all a bit of a joke, don't you think? Is that disappointing?</p>
 <p>JULIA GILLARD: What we've taken here is decisive action. The Prime Minister spoke to Belinda Neal yesterday. We were obviously concerned about a pattern of behaviour here. We've said to Ms Neal that she needs to get some assistance with that and she certainly agreed to get professional counselling assistance. And Kevin made it clear yesterday and certainly I've been making it clear during the course of the week that there is a standard of behaviour that people expect from Members of Parliament and of course from the Labor Party's point of view, no one's preselection is guaranteed. That is all about MPs doing their job and doing it properly.</p>
@@ -34,6 +24,4 @@
 <p>JULIA GILLARD: I'm fine thanks, Karl, and I'm just trying to drink a little bit less coffee and a little bit more water. I'm sure that's going to do me some good and I'm feeling fine. And I'm looking forward to going to a school in Victoria today to launch our computers in schools program to announce which schools are going to get computers out of the first round. There's 896 of them so that's good news for 896 schools who will be receiving 116,000 computers and I might even celebrate that a bit with one cup of coffee.</p>
 <p>KARL STEFANOVIC: Easier than dealing with Belinda Neal at the moment, that's for sure. Thanks Julia, good to talk to you.</p>
 <p>JULIA GILLARD: Thanks, Karl.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

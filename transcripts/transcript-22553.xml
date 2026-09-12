@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22553</transcript-id>
-    <title>Doorstop Interview CSIRO, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/11/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22553</transcript-id><title>Doorstop Interview CSIRO, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/11/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, the project this morning talks of its hopes for zero emissions, is there any time, what time do you think that is?</p>
 <p>PRIME MINISTER:</p>
 <p> I'm not going to put a time on it.  The important thing is this is a practical effort to do what everybody agrees ought to be done and that is reduce CO2 emissions from current methods of power generation, we're all agreed on that. But we must also recognise that this country is probably more dependent for its wealth on fossil fuel use than any developed country in the world and we have to be incredibly careful that we don't behave in a way that cripples natural advantages we've been given.  Now, we are part of it, we have to shoulder our share of the burden, but we have to make sure that we do it in a way that preserves our natural advantages because future generations will not thank us for squandering a natural advantage providence has given us.</p>
@@ -86,6 +76,4 @@
 <p>PRIME MINISTER:</p>
 <p>You mean P.W? Well I think his legacy will be less impressive than that of F.W. de Klerk, who, of all the white regime leaders prior to 1994, displayed the greatest amount of courage because he did what's the hardest thing to do in politics, to tell your own constituency it's losing a privileged position. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

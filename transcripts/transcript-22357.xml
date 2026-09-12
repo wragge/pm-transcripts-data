@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22357</transcript-id>
-    <title>Interview with Karl Stefanovic Today Show, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/07/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STEFANOVIC:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22357</transcript-id><title>Interview with Karl Stefanovic Today Show, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/07/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STEFANOVIC:</p>
 <p>North Korea has continued to defy international opinion with this week's series of missile tests. To discuss that and other issues this morning we're joined now by Prime Minister John Howard. Good morning to you, PM.</p>
 <p> PRIME MINISTER:</p>
 <p>Hello Karl.</p>
@@ -52,6 +42,4 @@
 <p> STEFANOVIC:</p>
 <p>All right, Prime Minister that you very much for your time this morning,   appreciate it.</p>
 <p>   [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

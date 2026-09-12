@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18105</transcript-id>
-    <title>Transcript of doorstop interview, Wollongong </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/08/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18105</transcript-id><title>Transcript of doorstop interview, Wollongong </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/08/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: [AUDIO BREAK] and I'm very pleased to be here with local representatives Sharon Bird and with Stephen Jones.</p>
 <p>Last week when I announced the package of assistance for the workers at BlueScope and the assistance for this region I said we would be standing shoulder-to-shoulder with the people of the Illawarra during this time. I'm pleased that I've been able to be here today; having a look through BlueScope; having a talk to the workers there; meeting with union representatives and delegates and then meeting with a broad range of community representatives to talk about the future of the Illawarra.</p>
 <p>It's all about jobs. Nothing is more important to me as Prime Minister than protecting and supporting Australian jobs. We've got a proud track record of doing so, we did so during the global financial crisis, the country pulled together and we saved Australian jobs, we saved Australian apprenticeships as well.</p>
@@ -105,6 +95,4 @@ PM: [AUDIO BREAK] and I'm very pleased to be here with local representatives Sha
 <p>JOURNALIST: Why can't we see more local steel used in Australia?</p>
 <p>PM: Look, I'll take that as the last question and it's a good question and we are, through our various policies and plans, advocating for the steel industry in this country, and I do want to say very clearly to the mining industry, which is undergoing a huge expansion, I believe the mining industry should be working out what else it can do to work with Australian manufacturers.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

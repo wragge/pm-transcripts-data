@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17293</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Brisbane 14 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/05/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: First of all, it's good to be back home. It's full of fog and chills in Canberra. It's great to be back here in sunny Queensland.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17293</transcript-id><title>Prime Minister Transcript of doorstop interview Brisbane 14 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/05/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: First of all, it's good to be back home. It's full of fog and chills in Canberra. It's great to be back here in sunny Queensland.</p>
 <p>This week the Government has brought down a budget, a budget which is about building a strong economy but also delivering a fairer Australia, an Australia which invests in our future challenges. What we've done is bring down a budget based on strong economic management - strong economic management which halves our debt, which brings the budget back to surplus three years ahead of time and in just three years from now.</p>
 <p>On top of that, we've invested in tax cuts for working families; tax cuts for small business; better super for Australian workers; as well as investing in our long-term infrastructure needs and in more doctors, more nurses and more hospital beds. This is all about the fairness in which we believe - that is, a strong economy which keeps it strong for the future but is delivering a fairer outcome for all Australians.</p>
 <p>Over to you, folks.</p>
@@ -50,6 +40,4 @@
 <p>One last thing as I go: I was reminded as I came here again today that it's the anniversary of the sinking of the Centaur. It's the 67th anniversary. I was at St John's Cathedral earlier this year for that extraordinary memorial service once the ship had been found.</p>
 <p>Two or three hundred Australians lost their lives on that ship. It means a lot to those of us in particular who come from Queensland, so let's spare a though today for those who perished on the Hospital Ship Centaur as they were out there in the line of fire in Australia's name.</p>
 <p>Thanks, folks. Got to run.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

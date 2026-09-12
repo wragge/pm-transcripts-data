@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41404</transcript-id>
-    <title>More than 600 Geelong and Corangamite jobs created by $20 million regional funding boost</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/01/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Geelong and Corangamite region is the first to benefit with the Turnbull Government announcing funding for the first wave of successful projects under the Regional Jobs and Investment Packages.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41404</transcript-id><title>More than 600 Geelong and Corangamite jobs created by $20 million regional funding boost</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/01/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Geelong and Corangamite region is the first to benefit with the Turnbull Government announcing funding for the first wave of successful projects under the Regional Jobs and Investment Packages.</p>
 <p>The initiative is part of the Australian Government’s commitment to stimulate jobs and drive economic growth in Australia’s regions.</p>
 <p>After an extensive assessment process involving strong community input, 21 projects totalling $20 million will be delivered in Geelong and Corangamite region, providing residents with a range of employment and investment opportunities.</p>
 <p>More than 600 new jobs will be generated through the construction phase and a further 600 ongoing jobs will be created, with just over 200 of those ongoing jobs in advanced manufacturing.</p>
@@ -18,6 +8,4 @@
 <p>The 21 organisations set to benefit from today’s announcement highlight both the innovation and future business prowess of the region.</p>
 <p>A range of projects will be delivered through this package including Australia’s first commercial carbon fibre manufacturing facility, which will help drive regional innovation.</p>
 <p>Projects also include the delivery of an ecotourism facility on the Great Ocean Road, a new additive manufacturing and engineering centre at Geelong’s innovation precinct, and further investment in Geelong’s Waterfront – all of which will provide jobs and support the region for years to come.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

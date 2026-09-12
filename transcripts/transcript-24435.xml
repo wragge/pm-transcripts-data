@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24435</transcript-id>
-    <title>The Honourable Michael MacKellar AM</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>All who knew the Hon Michael MacKellar AM will mourn his passing.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24435</transcript-id><title>The Honourable Michael MacKellar AM</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>All who knew the Hon Michael MacKellar AM will mourn his passing.</p>
 <p>Michael MacKellar was Minister for Immigration and Ethnic Affairs (1975-1979) and Minister for Health (1979-1982) in the Fraser Government.</p>
 <p>As Minister for Immigration and Ethnic Affairs, he oversaw the placement of tens of thousands of Vietnamese who were fleeing communism.  </p>
 <p>The positive influence on our country of the Vietnamese who arrived under his watch and their descendants is his legacy.</p>
@@ -21,6 +11,4 @@
 <p>Mike will be missed.</p>
 <p>On behalf of the Government – as well as the people of Warringah – I extend my sympathies to his partner Pamela as well as his children, Cameron, Duncan and Maggie and his grandchildren.</p>
 <p>9 May 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

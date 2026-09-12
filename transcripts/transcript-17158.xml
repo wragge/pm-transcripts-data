@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17158</transcript-id>
-    <title>Prime Minister Ahead of the Game: Blueprint for the reform of the Australian Government administration 29 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I have released a report which prepares the Australian Public Service to meet the challenges of the 21st century.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17158</transcript-id><title>Prime Minister Ahead of the Game: Blueprint for the reform of the Australian Government administration 29 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I have released a report which prepares the Australian Public Service to meet the challenges of the 21st century.</p>
 <p>The report, Ahead of the Game - Blueprint for the Reform of Australian Government Administration, is the culmination of a review of Australian government administration that I announced in September 2009. It was developed by an Advisory Group chaired by the Secretary of the Department of Prime Minister and Cabinet, Mr Terry Moran AO.</p>
 <p>The Australian Public Service (APS) has a proud tradition of independent, professional, and efficient service. International benchmarking confirms its strong performance in these areas. Nevertheless, the APS must constantly renew itself to remain the high performing organisation which citizens expect and deserve.</p>
 <p>Australians today want to have a say in how government meets their needs. They demand access to government information which will enable them to make the right decisions for their families. They expect public resources to be managed responsibly and accountably. They look to government for innovative and forward-looking solutions to the complex challenges Australia confronts.</p>
@@ -20,6 +10,4 @@
 <p>The Government will consider the recommendations outlined in the Blueprint and respond later in the year.</p>
 <p>I thank the Advisory Group for their work on the Blueprint.</p>
 <p>For more information: <a href="http://www.dpmc.gov.au">www.dpmc.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

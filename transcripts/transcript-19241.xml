@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19241</transcript-id>
-    <title>Transcript of Interview with Dave Hughes, Carrie Bickmore, Charlie Pickering and Steve Price, The Project</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/04/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19241</transcript-id><title>Transcript of Interview with Dave Hughes, Carrie Bickmore, Charlie Pickering and Steve Price, The Project</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/04/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister, you made this announcement without consulting the premiers.</p>
 <p>If you can't get them to agree when you see them at COAG on Friday do you think this really has a chance of happening at all?</p>
 <p>PM: Carrie, there have been months and months and months of discussions about these reforms, ever since we asked David Gonski and a panel of eminent Australians to provide us with a report about the best way forward for school funding.</p>
@@ -50,6 +40,4 @@ HOST: Prime Minister, you made this announcement without consulting the premiers
 <p>He better not turn up tired at work together. He will be in a lot of trouble!</p>
 <p>HOST: I'm sure he will. I'm sure that would be a firmly worded email. Prime Minister, thank you for your time.</p>
 <p>PM: Thank you very much. We will take a break back in a tick.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17379</transcript-id>
-    <title>NATO-ISAF Summit - Transition in Afghanistan </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/11/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17379</transcript-id><title>NATO-ISAF Summit - Transition in Afghanistan </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/11/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister Julia Gillard and Minister for Defence Stephen Smith today welcomed an important decision to begin the process of transition in the Afghanistan mission in early 2011.</p>
 <p>Members of the International Security Assistance Force (ISAF) and Afghanistan President Hamid Karzai have agreed to Afghan National Security Forces leading security operations in some districts and provinces by next year.</p>
 <p>The decision was endorsed by the leaders of the 48 ISAF members at the NATO-ISAF Summit in Lisbon this weekend.</p>
@@ -22,6 +12,4 @@ The Prime Minister Julia Gillard and Minister for Defence Stephen Smith today we
 <p>Importantly, transition does not mean withdrawal from Afghanistan - Australia and its international partners will continue to provide support to the Afghan Government and its people.</p>
 <p>The international community, including Australia, welcomed President Karzai's commitment to continue to tackle corruption and improve governance and the rule of law.</p>
 <p>Australia's involvement in Afghanistan is directly in our national security interests. We have a responsibility to Afghanistan and our international partners, and especially to the Australian people, to continue to support the Afghan Government's efforts to fight terrorism and ensure stability in Afghanistan.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40989</transcript-id>
-    <title>Increase in support to Afghanistan</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/05/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia will increase its contribution to the NATO-led Resolute Support training mission, in order to help Afghan forces secure their country and fight the global scourge of terrorism.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40989</transcript-id><title>Increase in support to Afghanistan</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/05/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia will increase its contribution to the NATO-led Resolute Support training mission, in order to help Afghan forces secure their country and fight the global scourge of terrorism.</p>
 <p>Afghanistan is facing a challenging security environment, and this extra support from Australia will help deny terrorists the safe havens that threaten the international community.</p>
 <p>The Australian Government has agreed to increase the Australian Defence Force train, advise and assist mission in Afghanistan by 30 personnel, from 270 to approximately 300 people.</p>
 <p>These additional advisers will provide crucial extra support and expertise to the Afghan National Defence and Security Forces.</p>
@@ -18,6 +8,4 @@
 <p>These adjustments have been considered in light of broader ADF commitments across the globe.</p>
 <p>In a dynamic strategic environment, it is important that we remain flexible to respond to changing circumstances.</p>
 <p>Australia has been providing substantial support to the fight against terrorism in Afghanistan. In response to the NATO request, this increase is responsible, appropriate and consistent with our broader strategic interests.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

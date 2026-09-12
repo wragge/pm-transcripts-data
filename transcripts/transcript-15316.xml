@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15316</transcript-id>
-    <title>Wellbeing Plan for Aussie Kids</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/09/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15316</transcript-id><title>Wellbeing Plan for Aussie Kids</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/09/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>Hello,</p>
 <p>Eating well and exercising regularly is important for all Australians and especially for children.</p>
 <p>Up to a quarter of kids aged between 7 and 15 are considered to be overweight or obese and this makes them more likely to get sick as they get older.</p>
@@ -21,6 +11,4 @@
 <p>It's part of the government's range of measures to tackle childhood obesity. </p>
 <p>Working together, we can all help our kids have a better life.   </p>
 <p>Thanks.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

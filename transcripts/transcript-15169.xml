@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15169</transcript-id>
-    <title>Visit to New Zealand</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/02/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>At the invitation of Prime Minister Helen Clark, I will visit New Zealand from 15 to 16 February for the annual trans-Tasman Prime Ministerial talks. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15169</transcript-id><title>Visit to New Zealand</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/02/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>At the invitation of Prime Minister Helen Clark, I will visit New Zealand from 15 to 16 February for the annual trans-Tasman Prime Ministerial talks. </p>
 <p>Australia and New Zealand share a uniquely close and enduring friendship. Our economic and trade relationship in particular is one of the most successful in the world, with almost $20 billion annually in two-way trade and more than $80 billion in investment. I look forward to discussing with Miss Clark progress on furthering Australia-New Zealand economic and regulatory integration. </p>
 <p>My visit will also be an important opportunity to discuss with the New Zealand Prime Minister the political and security situation in the South Pacific and our joint commitment to supporting good governance and the rule of law in island countries. </p>
 <p>As well as bilateral talks with Miss Clark and her ministers, I will attend a meeting of heads of Australian and New Zealand public service departments hosted by Victoria University of Wellington and the Australia and New Zealand School of Government. This meeting is a demonstration of the depth and breadth of the relationship between our countries. </p>
 <p>I will also jointly re-open with Miss Clark the Australian High Commission Chancery in Wellington following its recent refurbishment.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

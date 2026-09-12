@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22311</transcript-id>
-    <title>Doorstop Interview Chullora, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/06/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22311</transcript-id><title>Doorstop Interview Chullora, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/06/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well before I take any questions I just want to congratulate the Socceroos on a terrific performance. To hold The Netherlands to one each given the Dutch are ranked number three; very good, very good performance. It bodes well for what might be in front of us over the next few weeks. Good luck.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister is Jim Peacock going to head the nuclear inquiry?</p>
@@ -77,6 +67,4 @@
 <p> They complained for years that their expenses continued to rise but their tax revenues didn't rise because they didn't have access to a growth tax. We give them access to a growth tax, they don't spend it on tax relief and infrastructure, they spend it on expanding their administration. And that report from the IPA is a very damning report and it ought to be read by every person interested in state governments around Australia.</p>
 <p>Thank you.</p>
 <p>   [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

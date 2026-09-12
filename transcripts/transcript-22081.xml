@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22081</transcript-id>
-    <title>Doorstop Interview Regent Hotel, Kuala Lumpur  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/12/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22081</transcript-id><title>Doorstop Interview Regent Hotel, Kuala Lumpur  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/12/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Well good morning, I just wanted to say that today, although the meeting is a short one, it's a very important one not only for its symbolism but also for its substance because it will bring together for the first time, 16 countries of the East Asian region. We will have an opportunity to talk necessarily in general terms about the major issues confronting the region, economic growth, I will be emphasising the crucial importance of the Doha trade round and encouraging my fellow Heads of Government to express strong views on the need to achieve progress on that front, I dare say terrorism, and the potential impact of a flu pandemic will also figure in the discussions.</p>
 <p> JOURNALIST:</p>
 <p> Would you like to see Russia become a permanent member of the East Asia Summit?</p>
@@ -56,6 +46,4 @@
 <p> PRIME MINISTER:</p>
 <p> Look obviously there's been some discussion and some contact but we are not going to be pressing a particular point of view on the British.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

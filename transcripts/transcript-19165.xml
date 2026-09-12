@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19165</transcript-id>
-    <title>National Apology for Forced Adoptions</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/03/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19165</transcript-id><title>National Apology for Forced Adoptions</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/03/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>[ACKNOWLEDGEMENTS OMITTED]</p>
 <p>In just over an hour's time, the following words of apology will be moved in the Senate and the House of Representatives:</p>
 <p>Today, this Parliament, on behalf of the Australian people, takes responsibility and apologises for the policies and practices that forced the separation of mothers from their babies, which created a lifelong legacy of pain and suffering. </p>
@@ -153,6 +143,4 @@
 <p>And they will be inspired by the generous spirit in which you receive this Apology.</p>
 <p>Because saying ‘Sorry' is only ever complete when those who are wronged accept it.</p>
 <p>Through your courage and grace, the time of neglect is over, and the work of healing can begin.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

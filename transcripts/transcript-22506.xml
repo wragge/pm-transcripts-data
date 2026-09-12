@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22506</transcript-id>
-    <title>Telstra Sale  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/08/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has decided to undertake a public Telstra share offer in October and November this year.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22506</transcript-id><title>Telstra Sale  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/08/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has decided to undertake a public Telstra share offer in October and November this year.</p>
 <p>The Government intends to offer in the order of $8 billion of stock to retail and institutional investors, in Australia and overseas. The Government's remaining Telstra shares will be transferred to the Future Fund for the Fund to sell down over time.</p>
 <p>The Government has gone to the past four elections promising to sell its Telstra shares.  For too long, the Government has had a massive conflict of interest, as the owner and seller of Australia's largest telco; and as the industry regulator.</p>
 <p>Selling Telstra continues to be good policy that is in the interests of existing Telstra shareholders, in the interests of the company and in the interests of the broader community.</p>
@@ -22,6 +12,4 @@
 <p> The Government is committed to ensuring appropriate regulation of all telecommunications companies in the interests of protecting consumers, complemented by the role of the Australian Competition and Consumer Commission.</p>
 <p> We believe the regulatory framework is now settled and we expect all companies to plan and operate within the rules that have been set.   As with all public offers, a final decision to launch the offer remains subject to market conditions being conducive for a sale which achieves the Government's sale objectives.</p>
 <p>The Government looks forward to offering Australians the opportunity to invest in Telstra through a sale in the last quarter of 2006.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

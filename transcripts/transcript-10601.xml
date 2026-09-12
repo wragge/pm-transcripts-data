@@ -1,14 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10601</transcript-id>
-    <title>Visit by the Prime Minister of the Netherlands</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/11/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[]]></content>
-  </transcript>
-</transcripts>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10601</transcript-id><title>Visit by the Prime Minister of the Netherlands</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/11/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40411</transcript-id>
-    <title>Transcript - Remarks at Australian War Memorial Last Post Ceremony</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>29/08/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong><br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40411</transcript-id><title>Transcript - Remarks at Australian War Memorial Last Post Ceremony</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>29/08/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong><br>
 Thank you.</p>
 <p>Distinguished friends, Parliamentarians, Ministers and Leader of the Opposition, Brendan Nelson, Chairman Kerry Stokes, Defence Chiefs and servicemen and women here, boys and girls.</p>
 <p>Tomorrow, the Governor General will open the 45th Parliament of Australia and so we will be back, bells ringing, debates raging, rhetoric soaring. Indignation, inspiration, exasperation. But as we rush along the corridors, we know that across the glassy stretch of Lake Burley Griffin, sits this place, quiet reflection of respect, of remembrance, of internal gratitude.</p>
@@ -24,6 +14,4 @@ Thank you.</p>
 <p>Today, tomorrow and always, we will remember.</p>
 <p>Lest we forget.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

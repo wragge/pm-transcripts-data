@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22767</transcript-id>
-    <title>Transcript of Doorstop Interview - Mackay</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>17/07/2013</release-date>
-    <release-type>Doorstop</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: It’s great to be here with the Mayor of Mackay and also our candidate for this terrific seat of Dawson, Bronwyn Taha.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22767</transcript-id><title>Transcript of Doorstop Interview - Mackay</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>17/07/2013</field_date><release-type>Doorstop</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: It’s great to be here with the Mayor of Mackay and also our candidate for this terrific seat of Dawson, Bronwyn Taha.</p>
 <p>And Bronwyn, I know, lives in Proserpine with her husband Darren and you’ve got two kids, so you’re pretty well connected to this local community. I’m told, according to my notes here, you’re a member of the Midge Point Branch of the SES?</p>
 <p>BRONWYN TAHA, LABOR CANDIDATE FOR DAWSON: Yes, I am a proud member.</p>
 <p>PM: There you go. So, serious SES work over here. If you get in strife ring your local Labor candidate. No, dial the right number actually.</p>
@@ -135,6 +125,4 @@
 <p>And so we believe you can do that and still be sensitive to cost of living pressures, support industry in their adjustment, and do the right thing by the reef for the future in a balanced way.</p>
 <p>Looking after the reef, supporting our industries. That’s our approach for the future.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

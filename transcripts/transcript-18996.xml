@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18996</transcript-id>
-    <title>Transcript of Interview With John Morrison - ABC Statewide Drive NSW</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18996</transcript-id><title>Transcript of Interview With John Morrison - ABC Statewide Drive NSW</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister welcome to the program.</p>
 <p>PM: Thank you very much.</p>
 <p>HOST: Yes we were able to see some of your press conference from Coonabarabran today where you had the opportunity to meet so many of the firefighters who were involved in the battle, and not only them but their support, their family and everybody else who is lending a hand.</p>
@@ -44,6 +34,4 @@ HOST: Prime Minister welcome to the program.</p>
 <p>PM: Thank you.</p>
 <p>HOST: And thank you for the opportunity to talk to the people you visited today.</p>
 <p>PM: Terrific, thanks a lot.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

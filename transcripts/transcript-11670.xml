@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11670</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT BALLINA SHIRE CIVIC RECEPTION, ALSTONVILLE, NSW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/02/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE........................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11670</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER            THE HON JOHN HOWARD MP            ADDRESS AT BALLINA SHIRE CIVIC RECEPTION, ALSTONVILLE, NSW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/02/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE........................................................................................</p>
 <p>Thank you very much Mr Mayor for those very kind words of welcome. To</p>
 <p> my colleagues Don Page and Larry Anthony, to all the other councilors</p>
 <p> and very importantly the representatives of the Ballina community.</p>
@@ -245,6 +235,4 @@
 <p> warmly for your very kind hospitality and your traditional Australian</p>
 <p> friendliness. I value it very much.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

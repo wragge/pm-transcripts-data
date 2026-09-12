@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22243</transcript-id>
-    <title>Australian contribution to Regional Assistance Mission to Solomon Islands  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/04/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has decided to send a further detachment of Australian Defence Force troops to the Solomon Islands.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22243</transcript-id><title>Australian contribution to Regional Assistance Mission to Solomon Islands  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/04/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has decided to send a further detachment of Australian Defence Force troops to the Solomon Islands.</p>
 <p>An additional 110 troops will fly by RAAF 707 and Hercules aircraft this morning from RAAF base Richmond to Honiara.</p>
 <p>The decision to send extra troops comes after an overnight request from the Regional Assistance Mission to Solomon Islands for augmentation of military personnel.</p>
 <p>The troops, drawn from 3rd Battalion Royal Australian Regiment, will complement the 110 Australian soldiers from Townsville and 70 additional Australian Federal Police officers sent to Honiara earlier this week.</p>
@@ -17,6 +7,4 @@
 <p>A heightened military presence will provide extra support to the RAMSI Participating Police Force and Royal Solomon Islands Police who are responsible for enforcing the rule of law in the Solomon Islands.</p>
 <p>Importantly, the extra defence personnel will also reinforce the message that Australia is committed to the democratic process and long-term stability of the Solomon Islands.</p>
 <p>We have long-standing friendships with the people of the Solomon Islands.   Australia will continue to work in partnership with our friends in the Pacific region.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

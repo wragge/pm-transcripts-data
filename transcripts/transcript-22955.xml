@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22955</transcript-id>
-    <title>Doorstop Interview, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: President Elect George W Bush</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22955</transcript-id><title>Doorstop Interview, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: President Elect George W Bush</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister I believe you’ve spoken to the President-Elect today.</p>
@@ -36,6 +26,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think the whole tenor of the conversation was about the importance of the relationship. The more detailed elements of it are things that will come after people have been appointed. But the very fact that we’ve spoken so soon after his confirmation and the very fact that we were able to identify immediately the centrality of the relationship to both countries indicates that we’ll be able to talk constructively in detail about all of these things.</p>
 <p>[Ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

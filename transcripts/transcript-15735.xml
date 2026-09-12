@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15735</transcript-id>
-    <title>Former Indonesian President Soeharto    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>27/01/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On behalf of the Government and people of Australia I extend to the President and people of the Republic of Indonesia our condolences on the passing of former Indonesian President Soeharto. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15735</transcript-id><title>Former Indonesian President Soeharto    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>27/01/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On behalf of the Government and people of Australia I extend to the President and people of the Republic of Indonesia our condolences on the passing of former Indonesian President Soeharto. </p>
 <p>Former President Soeharto was one of the longest-serving heads of government of the last century and an influential figure in Australia's region and beyond. </p>
 <p>He presided over the government of what is the world's fourth most populous country and its largest Islamic nation. </p>
 <p>Until the catastrophic Asian financial crisis of 1997, he oversaw a period of significant economic growth and modernisation at a time when Indonesia faced fundamental political, social and economic challenges. </p>
@@ -17,6 +7,4 @@
 <p>The former president was also a controversial figure in respect of human rights and East Timor and many have disagreed with his approach. Now the world's third largest democracy, Indonesia is a close friend and neighbour with which Australia shares vital political and security interests.</p>
 <p>Indonesia's success as a modern democracy is a major interest not just to Australia, but to our region and the world.</p>
 <p>Media contact: 02 6277 7744 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

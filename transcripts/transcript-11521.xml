@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11521</transcript-id>
-    <title>Television Interview with Steve Liebmann, Today Show</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Introduction of the GST, income tax; Christopher Skase; broadcasting of Olympic Games.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11521</transcript-id><title>Television Interview with Steve Liebmann, Today Show</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Introduction of the GST, income tax; Christopher Skase; broadcasting of Olympic Games.</p>
 <p>E&amp;OE.....</p>
 <p>LIEBMANN:</p>
 <p>Good morning to you.</p>
@@ -110,6 +100,4 @@
 <p>LIEBMANN:</p>
 <p>Thank you Prime Minister.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

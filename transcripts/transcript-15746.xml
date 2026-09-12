@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15746</transcript-id>
-    <title>Joint Media Release with  Minister for Industry and Premier of South Australia New Fund to Boost Innovation  and Investment in Southern Adelaide </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian and South Australian Governments have today announced a $50 million package to support workers and the region affected by Mitsubishi Motors Corporation's decision today to close the Tonsley Park vehicle assembly plant at the end of March 2008.  The package includes:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15746</transcript-id><title>Joint Media Release with  Minister for Industry and Premier of South Australia New Fund to Boost Innovation  and Investment in Southern Adelaide </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian and South Australian Governments have today announced a $50 million package to support workers and the region affected by Mitsubishi Motors Corporation's decision today to close the Tonsley Park vehicle assembly plant at the end of March 2008.  The package includes:</p>
 <p>     * up to $10 million for intensive assistance to workers; and</p>
 <p>     * a $40 million South Australian Innovation and Investment Fund to strengthen South Australia's manufacturing base, creating new jobs and boosting new investment in innovation.</p>
 <p>Mitsubishi Motor Corporation's decision will result in approximately 930 direct job losses, comprising 600 plant positions and 330 administrative and professional jobs.</p>
@@ -40,6 +30,4 @@
 <p>Prime Minister's office 02 6277 7744 </p>
 <p>Minister Carr's office  -  Catriona Jackson (0417 142 238)</p>
 <p>Premier Rann's office  -  Lachlan Parker (0417 810 890)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

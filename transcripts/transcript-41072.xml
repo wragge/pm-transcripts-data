@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41072</transcript-id>
-    <title>Radio interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>20/07/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Interest rates, economy, penalty rates, Australian Tax Office, Liberal Party, Home Affairs and national security arrangements, National service, Sophie Dowsley, defence contracts, Section 44, retirement age</subjects>
-    <content><![CDATA[<p><strong>NEIL MITCHELL:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41072</transcript-id><title>Radio interview with Neil Mitchell, 3AW</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>20/07/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Interest rates, economy, penalty rates, Australian Tax Office, Liberal Party, Home Affairs and national security arrangements, National service, Sophie Dowsley, defence contracts, Section 44, retirement age</subjects><content><![CDATA[<p><strong>NEIL MITCHELL:</strong></p>
 <p>Prime Minister, Mr Turnbull. Good morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning, great to be with you.</p>
@@ -138,7 +128,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Neil, various people over the years, I’m not going to identify –</p>
 <p><strong>NEIL MITCHELL: </strong></p>
-<p>You seem to be avoiding the point, not now, but over a period of time - are some of the a security agencies opposing to this? </p>
+<p>You seem to be avoiding the point, not now, but over a period of time - are some of the a security agencies opposing to this?&nbsp;</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>I have discussed this matter over a long period of time with our security agencies and indeed with other countries who have similar arrangements, particularly the Brits. I’ve discussed it with two Prime Ministers, I’ve discussed it with their Home Secretary. The British model is one that has been much admired and many people have said over a long period of time: ‘Wouldn’t it be great if we had this here?’</p>
 <p>I think this is an opportunity for a long overdue reform. It is focused solely and wholly on keeping Australians safe.</p>
@@ -237,7 +227,7 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Will I retire? Will I stop working? I assume so.</p>
 <p><strong>NEIL MITCHELL:</strong></p>
-<p>Well, look, the UK has brought the retirement age up to 68, I noticed and we’re going the same way. </p>
+<p>Well, look, the UK has brought the retirement age up to 68, I noticed and we’re going the same way.&nbsp;</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah, right, okay.</p>
 <p><strong>NEIL MITCHELL:</strong></p>
@@ -271,6 +261,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Okay, good – a long time off, many years to come.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

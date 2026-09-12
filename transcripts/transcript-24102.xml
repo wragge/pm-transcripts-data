@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24102</transcript-id>
-    <title>10th Anniversary of the Indian Ocean Tsunamis</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/12/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On 26 December 2004, a magnitude nine earthquake off northern Sumatra triggered one of the worst natural disasters in modern times.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24102</transcript-id><title>10th Anniversary of the Indian Ocean Tsunamis</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/12/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On 26 December 2004, a magnitude nine earthquake off northern Sumatra triggered one of the worst natural disasters in modern times.</p>
 <p>The tsunamis that swept across the Indian Ocean caused massive loss of life and utter devastation.</p>
 <p>More than 200,000 people died and over a million were left injured or homeless.</p>
 <p>The thoughts and prayers of all Australians were with the people of our region that day, as news of the horrific events flashed around the world.</p>
@@ -19,6 +9,4 @@
 <p>“<em>It has been a brutal reminder of the force of nature but also of the inspiring capacity of mankind to ease the suffering of others in their hour of need.</em>”</p>
 <p>Ten years on, we remember that the worst of times can bring out the best in people, and that the bonds of friendship between the countries of the Indo-Pacific have never been stronger.</p>
 <p>25 December 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

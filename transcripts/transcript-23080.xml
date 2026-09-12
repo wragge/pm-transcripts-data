@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23080</transcript-id>
-    <title>Interview with David Koch and Samatha Armytage, Sunrise, Seven Network </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>13/11/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The Federal Government’s commitment to repeal the carbon tax,  debt ceiling,  Operation Sovereign Borders,  resumption of Parliament.</subjects>
-    <content><![CDATA[<p><strong>SAMANTHA ARMYTAGE: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23080</transcript-id><title>Interview with David Koch and Samatha Armytage, Sunrise, Seven Network </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>13/11/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The Federal Government’s commitment to repeal the carbon tax, debt ceiling, Operation Sovereign Borders, resumption of Parliament.</subjects><content><![CDATA[<p><strong>SAMANTHA ARMYTAGE: </strong></p>
 <p>Prime Minister, good morning to you.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning, Sam.</p>
@@ -55,6 +45,4 @@
 <p>Yeah, well, I’d like to know what they’re up to as well! They tend not to tell me!</p>
 <p><strong>SAMANTHA ARMYTAGE: </strong></p>
 <p>While you’re away in Canberra I bet they’re having parties at Kirribilli House! Thanks, Prime Minister.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

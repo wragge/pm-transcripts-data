@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17027</transcript-id>
-    <title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 29 January 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/01/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>STANLEY: The Prime Minister joins us in the studio for the first time in 2010. Prime Minister, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17027</transcript-id><title>Prime Minister Transcript of interview with John Stanley and Sandy Aloisi 2UE 29 January 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/01/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>STANLEY: The Prime Minister joins us in the studio for the first time in 2010. Prime Minister, good morning.</p>
 <p>PM: Good morning. Thanks for having me on the program.</p>
 <p>ALOISI: Nice of you to come here. The My School website, it crashed several times yesterday. I notice the Deputy Prime Minister said it was because of the unprecedented demand. Do you think it's because have really been thirsting for this kind of knowledge?</p>
 <p>PM: I think that's true, and Julia's absolutely right. I think they planned it for one million, 1.7 million, visitors. By mid-afternoon, Julia told me we had 4.5 million hits. Obviously, that's a bigger number than individual visitors because an individual visitor will go to the website a couple of times. That's fine, but it's huge. If you've a population of 21 million people, that is a lot of people looking at this, and that's because parents want to know how their school's performing. You only get once chance at the education of your kid, and therefore you want to make sure that you've got the best being provided in your school.</p>
@@ -71,6 +61,4 @@
 <p>PM: It's been good to be on the program.</p>
 <p>ALOISI: Thank you, Prime Minister. Look forward to speaking to you again.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

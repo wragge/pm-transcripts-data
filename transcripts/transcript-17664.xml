@@ -1,33 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17664</transcript-id>
-    <title>A better deal for patients</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17664</transcript-id><title>A better deal for patients</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today's new deal on health delivers national health reform that will last, built on a genuine partnership between the Commonwealth and the States and Territories.</p>
 <p>The Gillard Government will invest a guaranteed extra $19.8 billion in public hospitals  -  matched by tough national standards to make sure that money goes straight to hospitals and straight to patients.</p>
 <p>And because this is a genuine national deal, every person in Australia will benefit, no matter where they live.</p>
 <p>What that all adds up to is a better deal for patients.</p>
-<p> * 	More money, more beds, more local control and more transparency<br />
+<p> * 	More money, more beds, more local control and more transparency<br>
  * 	Less bureaucracy, less waste and less waiting.</p>
 <p>Under the new deal:</p>
-<p> * 	The Federal Government will step up to permanently pay 50 per cent of the growth in hospital costs.<br />
- * 	This will be done in two stages, increasing to 45 per cent in 2014-15 and to 50 per cent in 2017-18.<br />
- * 	Once this kicks in, the States and the Commonwealth will share future funding growth in a 50/50 partnership.<br />
+<p> * 	The Federal Government will step up to permanently pay 50 per cent of the growth in hospital costs.<br>
+ * 	This will be done in two stages, increasing to 45 per cent in 2014-15 and to 50 per cent in 2017-18.<br>
+ * 	Once this kicks in, the States and the Commonwealth will share future funding growth in a 50/50 partnership.<br>
  * 	The States and Territories will receive $16.4 billion in extra hospital funding between 2014-15 and 2019-20 under the new structural funding arrangements and $3.4 billion for extra emergency departments, elective surgery and 1300 sub acute hospital beds in the next four years.</p>
 <p>As part of the agreement there will be a single national funding pool, meaning hospitals will be paid the same way, delivering unprecedented transparency in hospital funding arrangements.</p>
 <p>In return for this extra funding, States and Territories will also deliver significant reforms to the way hospitals are funded and services are delivered, including:</p>
-<p> * 	Greater local control of hospitals.<br />
- * 	A price on hospital services through activity-based funding to drive efficiency and reduce waste.<br />
- * 	Strict national standards, including:<br />
-		 * 			a 4-hour target for emergency waiting times<br />
-		 * 			a 95 per cent elective surgery target, aimed at ensuring 95% of all patients waiting for elective surgery are treated within clinically recommended times.<br />
+<p> * 	Greater local control of hospitals.<br>
+ * 	A price on hospital services through activity-based funding to drive efficiency and reduce waste.<br>
+ * 	Strict national standards, including:<br>
+		 * 			a 4-hour target for emergency waiting times<br>
+		 * 			a 95 per cent elective surgery target, aimed at ensuring 95% of all patients waiting for elective surgery are treated within clinically recommended times.<br>
 		 * 			a National Access Guarantee to ensure that no Australian experiences extremely long waits for elective surgery.</p>
 <p> * 	More transparency through strict reporting via the MyHospital website.</p>
 <p>As part of the changes announced today, the Commonwealth will have a renewed focus on the delivery of stronger primary health care to get people the services they need in their local communities and keep people well and out of hospital.</p>
@@ -59,8 +49,8 @@ Today's new deal on health delivers national health reform that will last, built
 <p>Standards</p>
 <p>The Commonwealth Government will continue to insist on tough national standards for public hospital performance to drive shorter waiting times for both elective surgery and emergency departments.</p>
 <p>We will work with the States and Territories on safe and effective implementation to deliver:</p>
-<p> * 	The four-hour National Access Target  -  to reduce long waiting times in public hospital emergency departments, by aiming to have patients assessed, treated and discharged or admitted within 4 hours where clinically appropriate<br />
- * 	The National Access Target for elective surgery, aimed at ensuring that 95% of all patients waiting for elective surgery will be treated within clinically recommended times.<br />
+<p> * 	The four-hour National Access Target  -  to reduce long waiting times in public hospital emergency departments, by aiming to have patients assessed, treated and discharged or admitted within 4 hours where clinically appropriate<br>
+ * 	The National Access Target for elective surgery, aimed at ensuring that 95% of all patients waiting for elective surgery will be treated within clinically recommended times.<br>
  * 	The National Access Guarantee for elective surgery, which means that extremely long waits for elective surgery will become a thing of the past.</p>
 <p>Reporting on Performance</p>
 <p>The Government will also publish information about how each hospital performs so the public can choose the best care. </p>
@@ -78,6 +68,4 @@ Today's new deal on health delivers national health reform that will last, built
 <p> * 	fast-tracking reforms to after-hours GP care, through which Medicare Locals will plan and support local face-to-face GP after hours services;</p>
 <p> * 	ensuring that local communities have robust information about their local primary health care services  -  including key information on opening hours and availability of health care services, patient outcomes such as rates of preventable hospitalisations, and information on the health status of the community, such as rates of chronic disease.</p>
 <p> Over time, the Commonwealth will empower Medicare Locals with more flexible funding to target services to their local community's specific needs. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17641</transcript-id>
-    <title>Senior staff changes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/01/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17641</transcript-id><title>Senior staff changes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/01/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Today I announce that my Chief of Staff, Amanda Lampe, has resigned and will be replaced by Ben Hubbard.</p>
 <p>Amanda's personal circumstances have changed and she has decided to move on. She will leave at the end of March, allowing for a 2-month transition period.</p>
 <p>I wish to thank Amanda for her significant leadership during her time as my Chief of Staff in the Prime Minister's Office and the Deputy Prime Minister's Office.</p>
@@ -17,6 +7,4 @@ Today I announce that my Chief of Staff, Amanda Lampe, has resigned and will be 
 <p>Mr Hubbard has accepted my offer to become my Chief of Staff and will begin on Monday, 7 February.</p>
 <p>He brings significant public administration, stakeholder and management experience to the role.</p>
 <p>He is the outgoing Chief Executive Officer of the Victoria Bushfire Reconstruction and Recovery Authority and has previously served as my Chief of Staff when I was Deputy Opposition Leader and Deputy Prime Minister. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

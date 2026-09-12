@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16467</transcript-id>
-    <title>Interview with Greg Cary Radio 4BC Brisbane   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/03/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CARY: Mr Rudd, Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16467</transcript-id><title>Interview with Greg Cary Radio 4BC Brisbane   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/03/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CARY: Mr Rudd, Prime Minister good morning.</p>
 <p>PM: Good morning Greg.</p>
 <p>CARY: It's good to talk to you. Two soldiers killed in Afghanistan this week. I think we all admire the ability, the bravery of all those serving there. What I struggle to understand and I'm sure I'm not alone is what exactly are they fighting for, what's the goal, and what is the strategy to achieve that goal?</p>
 <p>PM: Greg, first let me just say for the families and friends of those who have just lost their lives and to the nation, that we all are saddened by this further loss of Australian life in Afghanistan. These are very brave men as you've just indicated, and this most recent death involves someone putting himself literally in the frontline to look after his mates.</p>
@@ -47,6 +37,4 @@
 <p>CARY: Good to talk to you this morning. Safe trip overseas.</p>
 <p>PM: Thank you very much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

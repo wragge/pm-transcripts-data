@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17365</transcript-id>
-    <title>Prime Minister holds introductory discussions with world leaders</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/06/2010</release-date>
-    <release-type>Government</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17365</transcript-id><title>Prime Minister holds introductory discussions with world leaders</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/06/2010</field_date><release-type>Government</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister, Julia Gillard, has begun phone discussions with the world's leaders including a call this morning with the President of the United States, Barack Obama.</p>
 <p>Ms Gillard spoke to President Obama at about 9:00am this morning for around 20 minutes.</p>
 <p>The conversation was productive and very warm and reaffirmed the strength of our countries' longstanding alliance and partnership.</p>
@@ -20,6 +10,4 @@ The Prime Minister, Julia Gillard, has begun phone discussions with the world's 
 <p>She also said that President Obama and his family would be welcome in Australia at any time as a guest of the Australian people.</p>
 <p>Ms Gillard spoke to New Zealand Prime Minister John Key yesterday afternoon and expressed regret at not being able to address the New Zealand Parliament next week.</p>
 <p>She is scheduled to speak to Indonesian President Susilo Bambang Yudhoyono, Malaysian Prime Minister Najib Razak, Canadian Prime Minister Stephen Harper and new British Prime Minister David Cameron later today.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

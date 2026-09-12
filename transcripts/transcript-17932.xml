@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17932</transcript-id>
-    <title>Transcript of interview with Sabra Lane, ABC AM</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/06/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17932</transcript-id><title>Transcript of interview with Sabra Lane, ABC AM</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/06/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JOURNALIST: Ms Gillard, good morning and welcome to AM.</p>
 <p>PM: Good morning Sabra.</p>
 <p>JOURNALIST: The Opposition has labelled today assassination day, one of your senior colleagues calls it liberation day. Is it a happy anniversary for you?</p>
@@ -72,6 +62,4 @@ JOURNALIST: Ms Gillard, good morning and welcome to AM.</p>
 <p>But we will work through and people will be able to sit at their kitchen table and work out what it means for them and how much assistance they are going to get and when they've worked that through, they'll see a dollar figure of assistance provided by me and a dollar figure of assistance that Tony Abbott is committed to taking away.</p>
 <p>JOURNALIST: Ms Gillard, thanks for joining us this morning.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

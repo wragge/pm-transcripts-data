@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12533</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  DOORSTOP INTERVIEW, FORUM SECRETARIAT, SUVA    </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/08/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: PIF; governance; foreign aid; Zimbabwe</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12533</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  DOORSTOP INTERVIEW, FORUM SECRETARIAT, SUVA    </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/08/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: PIF; governance; foreign aid; Zimbabwe</p>
 <p>E&amp;OE...........  </p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, what do you think the Forum has achieved?</p>
@@ -100,6 +90,4 @@
 <p>PRIME MINISTER:</p>
 <p>I haven';t made such a link, you have.</p>
 <p>[Ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41220</transcript-id>
-    <title>Radio interview with Sabra Lane – ABC AM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/10/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>COAG meeting; Gun Laws; Same-sex Marriage</subjects>
-    <content><![CDATA[<p><strong>SABRA LANE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41220</transcript-id><title>Radio interview with Sabra Lane – ABC AM</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/10/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>COAG meeting; Gun Laws; Same-sex Marriage</subjects><content><![CDATA[<p><strong>SABRA LANE:</strong></p>
 <p>The federal government wants to introduce a new Commonwealth law to hold in question terrorism suspects for up to 14 days before they’re charged. Such a move was previously thought constitutionally difficult but it part of a renewed push towards nationally consistent pre-charge detention laws.</p>
 <p>The Prime Minister will discuss the details with state and territory leaders at a special national security meeting tomorrow.</p>
 <p>Malcolm Turnbull joins us this morning to discuss the issue. Prime Minister good morning and welcome to the program.</p>
@@ -37,7 +27,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>I believe they will, yes.</p>
 <p>We already have, with licence photographs, driver's licence photographs are already used to identify people. We obviously, at the federal level, we obviously have passport photographs. About half of the population have got a photograph in a federal government system of one kind or another.</p>
-<p>We believe if we bring together driver's licences, then we can start to build up a national system that will enable us then more quickly to identify people, particularly to be able to identify people that are suspected of, or involved in terrorist activities. </p>
+<p>We believe if we bring together driver's licences, then we can start to build up a national system that will enable us then more quickly to identify people, particularly to be able to identify people that are suspected of, or involved in terrorist activities.&nbsp;</p>
 <p>This is all again, it is simply a question of using technology, being proactive, not being complacent, relentless in my determination to keep Australians safe.</p>
 <p><strong>SABRA LANE:</strong></p>
 <p>So this will be used in technology, surveillance technology at airports?</p>
@@ -114,8 +104,6 @@
 <p>Prime Minister, we're out of time. Thank you for joining the program this morning.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you so much.</p>
-<p><strong>[ENDS]</strong><br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><strong>[ENDS]</strong><br>
+&nbsp;</p>
+]]></content></item></response>

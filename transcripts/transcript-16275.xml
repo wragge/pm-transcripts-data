@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16275</transcript-id>
-    <title>Joint Media Release with Minister for Health - A Stronger Health Workforce - More Doctors and Nurses   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $1.1 billion in training more doctors, nurses and other health professionals. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16275</transcript-id><title>Joint Media Release with Minister for Health - A Stronger Health Workforce - More Doctors and Nurses   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $1.1 billion in training more doctors, nurses and other health professionals. </p>
 <p>This is the single biggest investment in the health workforce ever made by an Australian Government.</p>
 <p>This funding will support a massive expansion in undergraduate clinical training places in public hospitals and other health settings.</p>
 <p>Doctors and nurses are the lifeblood of our health system, and this will ensure there will be far more doctors and nurses in years to come.</p>
@@ -25,6 +15,4 @@
 <p>Without this funding, a significant bottleneck in training for doctors would have been created. Many doctors would have emerged from university, with no training places to go to. The Rudd Government's investment will prevent this from happening, with increased GP training places and specialist training opportunities.</p>
 <p>States and Territories have agreed to provide matching funding of $540 million for the training component of the National Partnership.</p>
 <p>The Rudd Government's investment in clinical training recognises that training the health workforce for the future is a shared Commonwealth-State responsibility.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

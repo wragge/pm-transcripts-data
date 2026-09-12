@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41426</transcript-id>
-    <title>Address at the Australia Day Flag Raising Ceremony 2018</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>26/01/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects>Australia Day</subjects>
-    <content><![CDATA[<p>Yoonggu gulanyin ngalawiri, dhunayi, Ngoonawal dhowrrra. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41426</transcript-id><title>Address at the Australia Day Flag Raising Ceremony 2018</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>26/01/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Australia Day</subjects><content><![CDATA[<p>Yoonggu gulanyin ngalawiri, dhunayi, Ngoonawal dhowrrra. </p>
 <p>Wanggarra lin jin yin marunn bulaan boogarabung.</p>
 <p>Thank you, Warren for your very, very warm welcome to Ngunnawal country. We are gathered here on Ngunnawal land and we acknowledge, as Danni did before me, their elders, past, present and emerging.</p>
 <p>I acknowledge the presence today of His Excellency, the Governor-General, Sir Peter Cosgrove and Her Excellency, Lady Cosgrove, Chief of the Defence Force, Air Chief Marshall Mark Binskin, Chair of the National Australia Day Council, Danni Roche, so many distinguished guests, Australians one and all.</p>
@@ -53,6 +43,4 @@
 <p>Ladies and gentlemen let’s welcome our new Australian citizens.</p>
 <p>[Applause]</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

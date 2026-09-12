@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40028</transcript-id>
-    <title>Government Condemns Terrorist Attack in Turkey</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>11/10/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>Terrorist Attack in Turkey</subjects>
-    <content><![CDATA[<p>I was shocked and deeply saddened to hear of the attack in Ankara yesterday which resulted in the deaths of so many innocent civilians exercising their democratic rights.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40028</transcript-id><title>Government Condemns Terrorist Attack in Turkey</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>11/10/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Terrorist Attack in Turkey</subjects><content><![CDATA[<p>I was shocked and deeply saddened to hear of the attack in Ankara yesterday which resulted in the deaths of so many innocent civilians exercising their democratic rights.</p>
 <p>On behalf of the Government and the people of Australia I extend my sincere condolences to Turkey on this tragic loss of life.</p>
 <p>All Australians are shocked by this despicable act of cowardice. Our thoughts and prayers are with the families and friends of the victims who lost their lives.</p>
 <p>The Australian Government condemns terrorism in all its forms and in all circumstances. We continue to work with our friends and partners to combat this threat. This attack should only strengthen our resolve to work together.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

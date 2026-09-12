@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21270</transcript-id>
-    <title>Interview with Naomi Robson Today Tonight, Channel Seven </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ROBSON:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21270</transcript-id><title>Interview with Naomi Robson Today Tonight, Channel Seven </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ROBSON:</p>
 <p>Prime Minister, thank you so much for joining us.  Now do you think you';ve brought your party a fourth term in office with this budget?</p>
 <p>PRIME MINISTER:</p>
 <p>This budget has very valuable benefits for Australian families and a range of other benefits and enhancements. As to our electoral fate, well that is in the hands of the Australian people and they will judge whether they want us running the economy or want to hand over the running of the economy to the Australian Labor Party.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>(ends)  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

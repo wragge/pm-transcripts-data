@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19327</transcript-id>
-    <title>Transcript Of Interview With Labby, Stav &amp; Abby, B105 Brisbane</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19327</transcript-id><title><![CDATA[Transcript Of Interview With Labby, Stav &amp; Abby, B105 Brisbane]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Our Prime Minister Julia Gillard joining us on air this morning. She was in town for the National Disability Insurance Scheme. We're going to get to that is a sec, first though we need to see if she's okay after sandwich-gate yesterday at Marsden State High.</p>
 <p>Morning Ms Gillard, how are you?</p>
 <p>PM: Good morning and I'm very well indeed.</p>
@@ -59,6 +49,4 @@ HOST: Our Prime Minister Julia Gillard joining us on air this morning. She was i
 <p>HOST: That would be great. Thank you so much for coming on, we appreciate it.</p>
 <p>HOST: Good on you PM, thanks for your time.</p>
 <p>PM: Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

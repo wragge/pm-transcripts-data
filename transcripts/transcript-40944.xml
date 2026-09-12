@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40944</transcript-id>
-    <title>Interview with Fran Kelly, ABC RN Breakfast</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>10/05/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The Budget</subjects>
-    <content><![CDATA[<p><strong>FRAN KELLY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40944</transcript-id><title>Interview with Fran Kelly, ABC RN Breakfast</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>10/05/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The Budget</subjects><content><![CDATA[<p><strong>FRAN KELLY: </strong></p>
 <p>Malcolm Turnbull – welcome to Breakfast.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Great to be with you.</p>
@@ -141,7 +131,7 @@
 <p><strong>FRAN KELLY: </strong></p>
 <p>Were they bad measures?</p>
 <p><strong>PRIME MINISTER:</strong></p>
-<p>Well it’s not a question of good or bad. I mean, they were measures that we thought, which we believed had merit.  We took them up to the Senate, in some cases several times.</p>
+<p>Well it’s not a question of good or bad. I mean, they were measures that we thought, which we believed had merit.&nbsp; We took them up to the Senate, in some cases several times.</p>
 <p>But the fact is that we’ve got to live in the real word. We’ve got to live with the Parliament that the Australian people elected. My job is to get legislation through the Parliament.</p>
 <p>Now we have 29 seats out of 76 in the Senate, so if the Labor Party won’t support it, we’ve obviously got to find support on the crossbench. There is no point leaving savings or measures on the books if they cannot be legislated.</p>
 <p>I mean it is critically important for us that we don’t just talk about bringing the budget back into balance, but we do. We’ve got to deliver. That is what we’re doing. What you’ve seen and you saw this confirmed by Moody’s, the ratings agency last night – this is a credible budget, credible in bringing the budget back into balance. It is a conservative forecast, reasonable assumptions. This delivers for our kids and grandkids, whether it’s on budget balance or on infrastructure, on assuring them of fair, needs-based school funding, guaranteeing Medicare, guaranteeing the NDIS. This is a fair budget.</p>
@@ -154,6 +144,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks Fran.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

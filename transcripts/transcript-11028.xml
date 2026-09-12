@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11028</transcript-id>
-    <title>Interview with Leigh McClusky and Tony Pilkington, Radio 5AA, Adelaide</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>health system; superannuation for politicians; private health insurance; inflationary effect of GST; unemployment benefits; referendum;</subjects>
-    <content><![CDATA[<p><span lang="EN-GB" xml:lang="EN-GB"> </span>13 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11028</transcript-id><title>Interview with Leigh McClusky and Tony Pilkington, Radio 5AA, Adelaide</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>health system; superannuation for politicians; private health insurance; inflationary effect of GST; unemployment benefits; referendum;</subjects><content><![CDATA[<p><span lang="EN-GB">&nbsp;</span>13 August 1999</p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>PILKINGTON:</b></p>
 <p>Prime Minister, good morning and welcome.</p>
@@ -69,7 +59,7 @@
 <p>Well, yes, but I’m not going to buy into the argument because it’s not fair to Mr Olsen or to Mr Brown for me to sort of blow in and say, you know, do this, do that, in relation to a problem that is entirely within their responsibility.</p>
 <p><b>PILKINGTON:</b></p>
 <p>Prime Minister, on to the issue of the referendum, you’re still confident of winning it come the 6<sup>th</sup> of November…</p>
-<p><b> PRIME MINISTER:</b></p>
+<p><b>&nbsp;PRIME MINISTER:</b></p>
 <p>No, I’ve not said that. I don’t know what will happen.</p>
 <p><b>PILKINGTON:</b></p>
 <p>But what’s your gut feel, though?</p>
@@ -261,6 +251,4 @@
 <p><b>MCCLUSKY:</b></p>
 <p>See you next time.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

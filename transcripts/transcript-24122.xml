@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24122</transcript-id>
-    <title>Interview with Luke Grant, Radio 2GB, Sydney </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>09/01/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Paris terror attack,  Daesh death cult,  GST,  Cycling.</subjects>
-    <content><![CDATA[<p><strong>LUKE GRANT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24122</transcript-id><title>Interview with Luke Grant, Radio 2GB, Sydney </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>09/01/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Paris terror attack, Daesh death cult, GST, Cycling.</subjects><content><![CDATA[<p><strong>LUKE GRANT:</strong></p>
 <p>Prime Minister, Happy New Year.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Luke, Happy New Year to you and your listeners.</p>
@@ -42,6 +32,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks so much, Luke.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

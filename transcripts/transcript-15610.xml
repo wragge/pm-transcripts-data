@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15610</transcript-id>
-    <title>Press Conference, Parliament House, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/04/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15610</transcript-id><title>Press Conference, Parliament House, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/04/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Unemployment figures; WorkChoices; climate change.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -114,6 +104,4 @@ Unemployment figures; WorkChoices; climate change.</p>
 <p>By saying that he represents the views of many people. Do you endorse the views of the people the he was representing that he read out at the time of the Cronulla riots?</p>
 <p>PRIME MINISTER:</p>
 <p>Look, he represents the views of a lot of people on a lot of issues. I haven't read all of the transcript of that finding or anything, but I make the point that I made yesterday; and that is that he's a very good broadcaster. I don't believe that he's an agent of prejudice and discrimination in the community as some have implied, and he, on a lot of subjects, articulates a lot of views. But I normally, if I want to transmit my own view on something, I normally do that by somebody asking me </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

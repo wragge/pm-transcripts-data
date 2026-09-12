@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23010</transcript-id>
-    <title>Address to the North Melbourne Football Club AFL Grand Final Breakfast, Etihad Stadium, Melbourne</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>28/09/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thanks Dwayne and thanks ladies and gentlemen.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23010</transcript-id><title>Address to the North Melbourne Football Club AFL Grand Final Breakfast, Etihad Stadium, Melbourne</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>28/09/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thanks Dwayne and thanks ladies and gentlemen.</p>
 <p>I am very honoured and thrilled on this day-of-days in Australian sport to address my first North Melbourne Grand Final Breakfast as Prime Minister.</p>
 <p>But I’m under no illusions about my standing.</p>
 <p>Australians love their sporting heroes but, at most, merely tolerate their politicians, so I want to thank you for making me so welcome today.</p>
@@ -27,6 +17,4 @@
 <p>Whoever wins, it will certainly be a great game of football.</p>
 <p>Thank you very much, ladies and gentlemen.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

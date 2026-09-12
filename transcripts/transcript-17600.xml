@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17600</transcript-id>
-    <title>Transcript of interview, ABC Radio National Summer Breakfast</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17600</transcript-id><title>Transcript of interview, ABC Radio National Summer Breakfast</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: The Prime Minister Julia Gillard joins us now, good morning Prime Minister.</p>
 <p>PM: Good morning Julian.</p>
 <p>HOST: Prime Minister you've spent the last few days in Queensland, can you tell us what support the Federal Government is providing on the ground at the moment?</p>
@@ -31,6 +21,4 @@ HOST: The Prime Minister Julia Gillard joins us now, good morning Prime Minister
 <p>PM: We will work through all of that. Look this is a big disaster, a big disaster, it's cost Australian lives, we've tragically lost the lives of some very young children, there's a lot of rebuilding to do, there are going to be a lot of economic impacts. All of that we will have to grapple with in coming days. Necessarily the focus of the last few days has been on the immediate crisis response, getting people rescued, getting water to them when they need it, getting them into evacuation centres. We will now turn to the hard work of recovery and we'll be there working with Queensland day by day in what is going to be a difficult period.</p>
 <p>HOST: Prime Minister thanks very much for joining us on Radio National Summer Breakfast this morning.</p>
 <p>PM: Thanks for the opportunity. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22154</transcript-id>
-    <title>Visit to Australia by Her Majesty The Queen and His Royal Highness The Duke of Edinburgh  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/03/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  I am pleased to announce that Her Majesty The Queen, accompanied by His Royal Highness The Duke of Edinburgh, will visit Australia from 12-16 March to officially open the Melbourne 2006 Commonwealth Games.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22154</transcript-id><title>Visit to Australia by Her Majesty The Queen and His Royal Highness The Duke of Edinburgh  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/03/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  I am pleased to announce that Her Majesty The Queen, accompanied by His Royal Highness The Duke of Edinburgh, will visit Australia from 12-16 March to officially open the Melbourne 2006 Commonwealth Games.</p>
 <p>The Queen and The Duke of Edinburgh will attend a Ceremonial Welcome including a 21-gun artillery salute and an Inspection of the Guard of Honour, and a welcome by indigenous leaders at the Sydney Opera House Forecourt on the morning of Monday 13 March.  Following this The Queen will open the new Western Colonnade of the Sydney Opera House.</p>
 <p>  Later that day, The Queen and The Duke of Edinburgh will attend a Commonwealth Day Observance at St Andrew's Cathedral.  This will be the first time the observance has been held outside London.  The Duke of Edinburgh will also attend a reception in Sydney to commemorate the Duke of Edinburgh Awards established 50 years ago.</p>
 <p>In Canberra on Tuesday 14 March, The Queen and The Duke of Edinburgh will meet with members of the ACT Emergency Services, including personnel who fought the bushfires in Canberra in January 2003. That evening, The Queen and The Duke of Edinburgh will attend a Parliamentary Dinner in the Great Hall, Parliament House.</p>
@@ -18,6 +8,4 @@
 <p>On the evening of Wednesday 15 March, The Queen will officially declare the Commonwealth Games open, and read her message from The Queen's baton.</p>
 <p>  On the final day of their visit, The Queen and The Duke of Edinburgh will each attend a variety of Games events.</p>
 <p>  The Queen will attend the swimming heats on first day of competition at the Melbourne Sports and Aquatic Centre, while The Duke will watch a Rugby Sevens match, and a badminton and squash match.  The Queen and The Duke of Edinburgh will both tour the Athletes' Village and lunch with athletes before departing for Singapore on the afternoon of 16 March.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21310</transcript-id>
-    <title>Doorstop Interview, London  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21310</transcript-id><title>Doorstop Interview, London  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Sir, your response or your reaction to Ronald Reagan's death?</p>
 <p>PRIME MINISTER:</p>
 <p>Ronald Reagan, in my view, was the greatest of post-World War II American Presidents.  More than anybody else, he followed the policies that led to the collapse of the Soviet Union, the end of the Cold War and the final victory of a more free-market approach to the management of economies over the centrally planned approach of the old eastern states.  He was a great communicator and somebody who had an enormous capacity to articulate in very direct terms, directly to his people what he stood for and what he believed in.  His greatest legacy will be the end of Soviet communism.</p>
@@ -22,6 +12,4 @@
 <p>PRIME MINISTER:</p>
 <p>I think his greatest victories lay elsewhere.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

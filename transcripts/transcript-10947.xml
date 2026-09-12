@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10947</transcript-id>
-    <title>26 January 1998                                TRANSCRIPT OF THE PRIME MINISTER               THE HON JOHN HOWARD MP               SPEECH AT CITY OF SOUTH PERTH                                   AUSTRALIA DAY CEREMONY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/01/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10947</transcript-id><title>26 January 1998                                TRANSCRIPT OF THE PRIME MINISTER               THE HON JOHN HOWARD MP               SPEECH AT CITY OF SOUTH PERTH                                   AUSTRALIA DAY CEREMONY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/01/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................................................................................................................</p>
 <p>Thank you very much. To His Worship, the Mayor and Mrs Hardwick,</p>
 <p>   to Mr Don Randall, the Federal Member for Swan, to my many other</p>
 <p>   Federal and State Parliamentary colleagues, ladies and gentlemen,</p>
@@ -180,6 +170,4 @@
 <p>   way of life. </p>
 <p>Thank you.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

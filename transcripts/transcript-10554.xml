@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10554</transcript-id>
-    <title>Television Interview with Kerry O&#039;Brien, 7.30 Report, ABC Television </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/12/1997</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10554</transcript-id><title><![CDATA[Television Interview with Kerry O&#039;Brien, 7.30 Report, ABC Television ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/12/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
 <p><b>O’BRIEN:</b></p>
 <p>John Howard, the Aboriginal negotiating group on Wik has described your statement last night as an ingenious engineering of social disharmony. An attempt to confuse the nation rather than a leadership speech. Does that response suprise you?</p>
 <p><b>PRIME MINISTER:</b></p>
@@ -95,6 +85,4 @@
 <p><b>O’BRIEN:</b></p>
 <p>John Howard, thanks for talking with us.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

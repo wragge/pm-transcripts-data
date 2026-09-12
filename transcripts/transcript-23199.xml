@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23199</transcript-id>
-    <title>United States Intelligence Review</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>18/01/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>In a statement on 17 January, President Obama announced the outcomes of the Administration’s review of US signals intelligence activities.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23199</transcript-id><title>United States Intelligence Review</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>18/01/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>In a statement on 17 January, President Obama announced the outcomes of the Administration’s review of US signals intelligence activities.</p>
 <p>The President’s statement highlighted the vital role played by intelligence in maintaining security and defeating threats such as terrorism, cyber attacks and proliferation of weapons of mass destruction. It also underlined the continuing importance of intelligence sharing among like-minded nations.</p>
 <p>Intelligence cooperation is a central pillar of Australia’s alliance with the United States, and US officials have consulted Australia closely throughout the review process. President Obama and I have discussed the review and our close cooperation on intelligence.</p>
 <p>The United States’ review addresses the particular circumstances of the United States. Each country makes its own decisions about the legal and policy frameworks best suited to its needs.</p>
@@ -17,6 +7,4 @@
 <p>Australia has some of the strongest intelligence oversight arrangements in the world. The 2011 Independent Review of the Intelligence Community reaffirmed that Australia’s legal framework is sound and strikes an appropriate balance between maintaining our security and protecting privacy.</p>
 <p>I remain satisfied, as my predecessors have been, with the robust oversight and collection management arrangements that apply to Australia’s intelligence activities.</p>
 <p>18 January 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41251</transcript-id>
-    <title>Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>18/10/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The National Energy Guarantee; delivering affordable and reliable electricity for families and businesses</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41251</transcript-id><title>Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>18/10/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The National Energy Guarantee; delivering affordable and reliable electricity for families and businesses</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Well good morning. I really welcome the strong endorsements we’ve seen from industry about our energy guarantee. Now our National Energy Guarantee, as recommended by the Energy Security Board, will ensure that Australian’s have affordable and reliable energy and of course that we’ll meet our commitments to reduce emissions under the Paris Agreement.</p>
 <p>This levels the playing field, it ends the subsidies, it’s a game-changer and it is all about delivering that triple bottom line: affordable, reliable power, meeting your emissions reduction commitments – affordability, reliability, responsibility.</p>
 <p>Now as I’ve said many times, the focus is on engineering and economics. The Energy Security Board was setup by COAG, put the smartest people in the room around that table, and they’ve been asked for their advice. Their advice is well considered, it’s well informed and we know that this is the least cost way to deliver reliable, affordable energy and of course meet those international commitments.</p>
@@ -32,6 +22,4 @@
 <p>The ideology, the politics, the partisanship, the slogans have failed us. The time has come for objective, hard-headed, business-like policy based on engineering and economics. We have the advice from the most experienced and smartest people in the room. They were put around that Energy Security Board table by COAG and COAG should follow their advice.</p>
 <p>Thanks very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

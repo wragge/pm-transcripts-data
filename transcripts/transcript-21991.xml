@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21991</transcript-id>
-    <title>Address to the Australian Davos Connection Infrastructure Conference Park Hyatt, Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/10/2005</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thank you to the Australian Davos Connection for this opportunity to speak today on the nation's infrastructure challenge.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21991</transcript-id><title>Address to the Australian Davos Connection Infrastructure Conference Park Hyatt, Melbourne </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/10/2005</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thank you to the Australian Davos Connection for this opportunity to speak today on the nation's infrastructure challenge.</p>
 <p>Your invitation led me to reflect on the enormous distance this country has travelled towards a sensible appreciation of the role of government (and of its limits).</p>
 <p>It's estimated that as late as the 1920s governments owned approximately half the total fixed capital of Australia (excluding land).  Surviving into the inter-war years were a multitude of small state enterprises - from coal mines and brick works, to butchers' shops and tobacconists.</p>
 <p>This legacy led W.K. Hancock, in his classic short history of Australia published 75 years ago, to describe a society which had 'come to look upon the state as a vast public utility'.</p>
@@ -96,6 +86,4 @@
 <p>But there is also significant agreement, especially about the need for continued structural reform to deliver the right price signals and to ensure that our regulatory regimes are not unnecessarily burdensome.</p>
 <p>A commitment to ongoing reform - in a stable, self-confident and entrepreneurial society - remains this nation's permanent challenge if we are to secure the productivity growth on which our future prosperity will rest.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

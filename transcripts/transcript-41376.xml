@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41376</transcript-id>
-    <title>Television interview with Deborah Knight – Today, Nine Network</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/12/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Same Sex marriage; religious freedom</subjects>
-    <content><![CDATA[<p><strong>DEBORAH KNIGHT: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41376</transcript-id><title>Television interview with Deborah Knight – Today, Nine Network</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/12/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Same Sex marriage; religious freedom</subjects><content><![CDATA[<p><strong>DEBORAH KNIGHT: </strong></p>
 <p>The Same-Sex Marriage Bill has been passed, a huge day in the history of our nation and the Prime Minister joins us now from Canberra.</p>
 <p>Prime Minister, good morning to you. Just remarkable, euphoric scenes of celebration, history’s been made!</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -55,6 +45,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you. Thanks a lot.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

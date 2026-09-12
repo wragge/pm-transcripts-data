@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22786</transcript-id>
-    <title>Australia to engage organised labour as G20 president in 2014</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>05/08/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>Prime Minister, Treasurer</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22786</transcript-id><title>Australia to engage organised labour as G20 president in 2014</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>05/08/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>Prime Minister, Treasurer</strong></p>
 <p>The Australian Government is very pleased to announce today that ACTU President Gerardine (Ged) Kearney will be the Australian leader of the ‘L20’ process of engagement between organised labour and the G20. Australia assumes the presidency of the G20 on 1 December this year.</p>
 <p>Ms Kearney has a distinguished record as an advocate for Australian workers, and is the ideal person to develop a comprehensive and effective process of consultation between Australian workers and their international counterparts.</p>
 <p>The Australian Government believes it is important that all sectors of society have the opportunity to contribute views to the G20 process. At a time when almost 200 million people are unemployed worldwide, policies to promote jobs and growth are necessarily at the core of the G20’s work, and the views of labour will be particularly relevant.</p>
@@ -17,7 +7,8 @@
 <p>Ms Kearney will lead the Australian L20 Steering Group, a group of Australian labour leaders which will work closely with the International Trade Union Confederation and the Trade Union Advisory Committee of the OECD, as well as with international counterparts. Together they will develop a process for effective and productive engagement between organised labour and G20 leaders in 2014.</p>
 <p>We are pleased to announce the following Australians as members of the L20 Steering Group who have been selected for their ability to engage across organised labour, both internationally and within Australia:..</p>
 <div>
-<ul><li>Grant Belchamber, Australian Council of Trade Unions</li>
+<ul>
+<li>Grant Belchamber, Australian Council of Trade Unions</li>
 <li>Michael Borowick, Australian Council of Trade Unions</li>
 <li>Leon Carter, Finance Sector Union</li>
 <li>Paddy Crumlin, Maritime Union of Australia</li>
@@ -41,9 +32,8 @@
 <li>Lee Thomas, Australian Nursing Federation</li>
 <li>Andrew Vickers, Construction, Forestry, Mining and Energy Union – Mining and Energy Division</li>
 <li>Chris Warren, Media, Entertainment and Arts Alliance</li>
-</ul></div>
+</ul>
+</div>
 <p>Additionally, the L20 will engage actively on G20 issues with the business (B20), think-tank (Think 20) and civil society (C20) groups the government has already established, and with representatives of youth from G20 member countries.</p>
 <p><a href="http://pandora.nla.gov.au/pan/79983/20130830-1433/www.pm.gov.au/press-office/australia-engage-organised-labour-g20-president-2014.html">Original transcript</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

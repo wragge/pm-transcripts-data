@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16274</transcript-id>
-    <title>Joint Media Release with  Minister for Finance and Deregulation and Minister Assisting the Finance Minister on Deregulation - $1 billion to Help Lift Business Confidence </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will provide more than $1 billion towards creating a seamless national economy on the back of an historic agreement made by COAG today, helping to lift business confidence.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16274</transcript-id><title>Joint Media Release with  Minister for Finance and Deregulation and Minister Assisting the Finance Minister on Deregulation - $1 billion to Help Lift Business Confidence </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will provide more than $1 billion towards creating a seamless national economy on the back of an historic agreement made by COAG today, helping to lift business confidence.</p>
 <p>Under the agreement the states and territories have secured a $550 million package to implement a range of regulatory and competition reforms in areas including:</p>
 <p>     * National consumer policy and product safety regulation</p>
 <p>     * National trade licences</p>
@@ -28,6 +18,4 @@
 <p>“The economic burdens of ending this inefficiency have been estimated to be as high as $16 billion annually.”</p>
 <p>The Government will continue to press ahead with economic reform while managing the impacts of the global financial crisis.</p>
 <p>The result of yesterday's COAG meeting is good for business confidence, good for jobs growth and a plus for national productivity.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

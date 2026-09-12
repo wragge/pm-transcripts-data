@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17088</transcript-id>
-    <title>Prime Minister Response to the children&#039;s literacy blog   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/03/2010</release-date>
-    <release-type>Blog Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Thanks everyone for your great comments in this discussion.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17088</transcript-id><title><![CDATA[Prime Minister Response to the children&#039;s literacy blog   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/03/2010</field_date><release-type>Blog Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Thanks everyone for your great comments in this discussion.</p>
 <p>It probably won't come as much of a surprise that, like Morris, the school library was also a big part of my education. I agree that the role librarians and teachers play in helping kids find the right books and learn to love books is vital.</p>
 <p>Julia already has 3,061 new school libraries going up as part of the Building the Education Revolution.</p>
 <p>And today Julia and I visited Amaroo School in Canberra to launch Australia's first National Curriculum for consultation. The Australian Curriculum has a strong focus on the basics, particularly rigorous literacy and numeracy learning.</p>
@@ -27,6 +17,4 @@
 <p>With this in mind I am pleased to let you know we have decided to create two new categories in the Prime Minister's Literary Awards - for children's and young adult fiction - to give due recognition to this important part of our literary landscape.</p>
 <p>Thanks again for your contributions to this debate, I have really enjoyed reading them and following the discussion. We're going to keep working on how we can actively support parents, teachers and librarians to help our young ones learn to love reading - and keep reading to your kids!</p>
 <p>Read the full blog transcript</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

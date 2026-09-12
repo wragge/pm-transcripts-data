@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16751</transcript-id>
-    <title>Winners announced for climate change schools competition    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/08/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Nine young Australians have today been named winners of the Think Climate, Think Change Schools Competition, following an outstanding response from schoolchildren across the nation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16751</transcript-id><title>Winners announced for climate change schools competition    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/08/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Nine young Australians have today been named winners of the Think Climate, Think Change Schools Competition, following an outstanding response from schoolchildren across the nation.</p>
 <p>The winners of the competition are:</p>
 <p>     * Category Grades 3-4: Isabella Compton, Our Lady of the Rosary Primary School, NSW.</p>
 <p>     * Category Grades 5-7: Young Environment Protectors, Manchester Primary School, VIC (comprising Krystal Vanschoonhoven, Rhiannon Warner, Ashleigh Basham, Tani Watts, Thomas Stevens, Jessica Gilbee, and Isabelle Pope).</p>
@@ -23,6 +13,4 @@
 <p>“I congratulate the winners and finalists and thank every student who took the time to enter the competition and share creatively what climate change means to them.”</p>
 <p>The Government received entries in all forms, including paintings, short stories, cartoons and drawings. Students raised their concerns about what the environment may look like in the future if we do not act now and also explained ways people could help, such as using energy wisely. Entries came from as far away as Thursday Island and the Cocos (Keeling) Islands.</p>
 <p>The finalists' entries can be viewed at <a href="http://www.climatechange.gov.au">www.climatechange.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

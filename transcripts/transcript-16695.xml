@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16695</transcript-id>
-    <title>2008 Prime Minister&#039;s Awards for Skills Excellence in School Winners Announced    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/07/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16695</transcript-id><title><![CDATA[2008 Prime Minister&#039;s Awards for Skills Excellence in School Winners Announced    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/07/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister and Acting Education Minister today congratulated outstanding students who have been awarded a 2008 Prime Minister's Award for Skills Excellence in School. </p>
 <p>The Award recognises Year 12 students who have demonstrated excellence and outstanding achievement in vocational education and training in schools. </p>
 <p>Award categories include the highest achieving student in each state and territory, the highest achieving Indigenous student, and the highest achieving students in each represented industry area.  Award recipients in each of these categories are listed below.</p>
@@ -40,6 +30,4 @@ The Prime Minister and Acting Education Minister today congratulated outstanding
 <p>     * Jerrah Menary Schools of Isolated &amp; Distance Education WA </p>
 <p>Highest Achieving Indigenous Student</p>
 <p>     * Madilyn Yuke Australian Technical College North Brisbane QLD </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20591</transcript-id>
-    <title>Mission Australia Winter Homeless Appeal   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/04/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Commonwealth Government will make a contribution of $150,000 to the Mission Australia Winter Homeless Appeal.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20591</transcript-id><title>Mission Australia Winter Homeless Appeal   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/04/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Commonwealth Government will make a contribution of $150,000 to the Mission Australia Winter Homeless Appeal.</p>
 <p>Homelessness is a complex problem with devastating consequences and is often associated with drugs, alcohol, mental health problems, gambling and family breakdown.</p>
 <p> Mission Australia assists around 40,000 Australians each year with crisis, medium and long term accommodation, as well as longer-term support such as skills training and employment assistance, drug and alcohol addiction counselling, financial assistance, and help with family breakdown and family violence.</p>
 <p>Funds raised by the Appeal will help the Mission continue its valuable work to provide crisis accommodation and to establish lasting independence for the homeless in the longer term.</p>
@@ -18,6 +8,4 @@
 <p>In addition to contributing to the appeal, the Commonwealth has sought to address the problem of homelessness through a number of initiatives. We have provided $3.7 million over three years for The National Homelessness Strategy, announced in May 2000 to help identify and help tackle some of the root causes of homelessness.</p>
 <p>Other Commonwealth funding includes $5 million over three years provided for the Family Homelessness Prevention Pilots, $832 million over 2000-2005 to the Supported Accommodation Assistance Programme (SAAP) and $60 million for the Reconnect programme.</p>
 <p>I would encourage all Australians to support the Mission Australia Winter Homeless Appeal. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

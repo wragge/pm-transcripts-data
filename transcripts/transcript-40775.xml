@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40775</transcript-id>
-    <title>Israeli PM’s Visit Cements a Warm, Old Friendship</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/02/2017</release-date>
-    <release-type></release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Op Ed, The Australian</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40775</transcript-id><title>Israeli PM’s Visit Cements a Warm, Old Friendship</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/02/2017</field_date><release-type></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Op Ed, The Australian</p>
 <p>Our friendship is as old as the state of Israel itself.</p>
 <p>Australia was the first country to vote in favour of the 1947 UN partition resolution adopted by the General Assembly, which led to the establishment of Israel in 1948. Following the vote, Israeli representative Abba Eban acknowledged Australia’s contribution: “The manner in which you steered to a vote this second historic resolution … the warmth and eloquence with which you welcomed Israel into the family of nations, have earned for you the undying gratitude of our people.”</p>
 <p>The key role Australia played in ensuring the security and prosperity of the Jewish people should be a source of pride for us all.</p>
@@ -26,6 +16,4 @@
 <p>My government will not support one-sided resolutions criticising Israel of the kind recently adopted by the UN Security Council and we deplore the boycott campaigns designed to delegitimise the Jewish state.</p>
 <p>At the same time, we recognise that Israel and the Palestinians need to come to a settlement and we support a directly negotiated two-state solution so that Palestinians will have their own state and the people of Israel can be secure within agreed borders.</p>
 <p>We believe that with so many other larger, more destructive and intractable disputes in the Middle East, this is a time when Israeli and Palestinian leaders, supported by the global community, should return to the negotiating table and work towards a solution that upholds the rights of both peoples to live side by side in peace and security.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

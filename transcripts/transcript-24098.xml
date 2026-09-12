@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24098</transcript-id>
-    <title>Press Conference, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>23/12/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Intelligence reports regarding national security.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24098</transcript-id><title>Press Conference, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>23/12/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Intelligence reports regarding national security.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>I’ve just come from the memorial service for Katrina Dawson – a brilliant and beautiful woman from a wonderful and accomplished family who has been cruelly snatched away from us.</p>
 <p>She will live on in the hearts of all who knew her and the service symbolised the healing power of love.</p>
 <p>As this service and the Tori Johnson service earlier today showed, Australians should be proud of the way we have come together in support of the victims and the families of those involved in last week’s Martin Place siege.</p>
@@ -45,6 +35,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>I can tell you that in the aftermath of the incident and well before the results of any inquiry, as you’d expect, all of our agencies are asking themselves the question: how could this person have slipped through the net? How could this person have been under the radar? And one of the things we are doing is asking ourselves, do we need to go back and have a look at people who have come to our attention previously and see what is best done to ensure that the community is as safe as it humanly can be. And this is the assurance that I constantly give to the Australian people. The first duty of government is the safety of the community and this Government, this Prime Minister, will do everything it possibly can to keep you safe. We know that there are people out there with evil intentions and we will do everything we humanly can to protect you from them.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

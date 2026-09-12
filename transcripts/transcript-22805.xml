@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22805</transcript-id>
-    <title>Radio Interview with John Miller, Radio 4BC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/05/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Budget reaction; tax reform</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22805</transcript-id><title>Radio Interview with John Miller, Radio 4BC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/05/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Budget reaction; tax reform</p>
 <p>E&amp;OE…………………………………………………………………………………</p>
 <p>MILLER: Welcome to the programme. It is a beautiful looking day, on the line from our Canberra studio now the Prime Minister of Australia, Mr John Howard.  Prime Minister good morning.</p>
 <p>PRIME MINISTER:</p>
@@ -72,6 +62,4 @@
 <p>Prime Minister I hope you’re right.  Thanks for your time this morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

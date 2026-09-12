@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17003</transcript-id>
-    <title>Prime Minister Premier of South Australia Minister for Defence Minister for Defence Personnel, Materiel &amp; Science 21 January 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/01/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister, Kevin Rudd, today opened the new ASC shipbuilding facility at Osborne, South Australia.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17003</transcript-id><title><![CDATA[Prime Minister Premier of South Australia Minister for Defence Minister for Defence Personnel, Materiel &amp; Science 21 January 2010]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/01/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister, Kevin Rudd, today opened the new ASC shipbuilding facility at Osborne, South Australia.</p>
 <p>ASC has invested $120 million in the state-of-the-art facility which will build hull blocks for Australia's new Air Warfare Destroyers.</p>
 <p>The AWD is the most complex surface war ship ever built in this country and the $8 billion AWD program will deliver three ships to the Royal Australian Navy.</p>
 <p>As the hub for the AWD Project, South Australia is getting access to the latest technologies, project management skills, design skills, contracting methodologies and production techniques.</p>
@@ -20,6 +10,4 @@
 <p>The new ASC facility will construct nine hull blocks for each of the three AWDs.</p>
 <p>Each block involves structural steel fabrication, painting and pre-outfitting with cabling, piping and equipment prior to transportation to the South Australian Government's Techport Common User Facility, adjacent to the ASC Shipyard, where the hull blocks will be welded together to form the complete ship.</p>
 <p>ASC has purchased a crane with a 900-tonne lift capacity, the largest of its type in Australia and one of only 12 in the world of this size, to support the consolidation of blocks on the Common User Facility.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

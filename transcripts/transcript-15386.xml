@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15386</transcript-id>
-    <title>Personal Helpers and Mentors Program</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/04/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to announce more than $32 million worth of grants for the first round of the Australian Government's Personal Helpers and Mentors Program.  </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15386</transcript-id><title>Personal Helpers and Mentors Program</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/04/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to announce more than $32 million worth of grants for the first round of the Australian Government's Personal Helpers and Mentors Program.  </p>
 <p>The grants are for service providers in 28 demonstration sites selected for their experience in mental health service delivery and connections with local clinical health and community-based organisations. It is expected that 140 personal helpers and mentors will commence work at these demonstration sites by the end of May 2007.</p>
 <p>This first round of funding forms part of the Government's $285 million commitment for this program, which I announced in April 2006 as part of the government's contribution to the Council of Australian Governments' National Action Plan on Mental Health.  </p>
 <p>The Australian Government is strongly committed to improving the lives of Australians with a mental illness.  When I announced the Commonwealth's major new investment of $1.9 billion towards mental health reform last year, I expressed concern about the number of people with a mental illness in Australia who don't have anyone to help them get the assistance and services they need.  People who are living with a mental illness often need help to find accommodation, organise payments, attend appointments and receive their entitlements under government programs.   </p>
@@ -98,6 +88,4 @@
 <p>Youth and Family Services </p>
 <p> Logan </p>
 <p>QLD </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

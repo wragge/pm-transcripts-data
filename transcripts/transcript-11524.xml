@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11524</transcript-id>
-    <title>Radio Interview with John Miller, Radio 4BC</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Tax reform; petrol, self-funded retirees; childcare.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11524</transcript-id><title>Radio Interview with John Miller, Radio 4BC</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Tax reform; petrol, self-funded retirees; childcare.</p>
 <p>E&amp;OE.....................................</p>
 <p>MILLER:</p>
 <p>The Prime Minister joins us from Sydney, Prime Minister good morning.</p>
@@ -108,6 +98,4 @@
 <p>MILLER:</p>
 <p>Prime Minister Howard thank you once again.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

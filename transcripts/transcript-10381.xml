@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10381</transcript-id>
-    <title>Radio Interview, ABC AM Programme </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/06/1997</release-date>
-    <release-type>Interview</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010381.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>16 June 1997 </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10381</transcript-id><title>Radio Interview, ABC AM Programme </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/06/1997</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010381.pdf</document><subjects></subjects><content><![CDATA[<p>16 June 1997 </p>
 <p>E &amp; OE......................</p>
 <p>JOB:</p>
 <p>Good morning Prime Minister.</p>
@@ -90,6 +80,4 @@
 <p>Well, I have been given a general briefing on the situation. It is not appropriate for me to say anything more than what David Jull said yesterday. You've got to remember that members of Parliament are high profile men and women in the community. Sometimes unfair allegations are made against them by people in the community. Our rule is very simple, we will allow the law to run its course, we won't prevent things going to the federal police, as happened when Mr Beazley and Mr Evans were given some material about a current Senator 13 years ago. We will allow the law to run its course and it will fall where it may irrespective of the Party of the Member or Senator involved.</p>
 <p>JOB:</p>
 <p>Prime Minister, thank you very much for your time.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

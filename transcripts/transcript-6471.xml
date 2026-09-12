@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>6471</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>17/09/1984</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006471.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-FOR MEDIA 17 September 1984<br />
-The Governor-General will leave Australia on September 24 to<br />
-undertake State visits to Tonga, Fiji, Kiribati, Nauru,<br />
-Vanuatu and Western Samoa. The Governor-General, accompanied<br />
-by Lady Stephen, will return on-October 8.<br />
-Sir James Ramsay, Governor of Queensland, will administer the<br />
-Government of the Commonwealth of Australia during the<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>6471</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>17/09/1984</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00006471.pdf</document><subjects></subjects><content><![CDATA[<p>
+FOR MEDIA 17 September 1984<br>
+The Governor-General will leave Australia on September 24 to<br>
+undertake State visits to Tonga, Fiji, Kiribati, Nauru,<br>
+Vanuatu and Western Samoa. The Governor-General, accompanied<br>
+by Lady Stephen, will return on-October 8.<br>
+Sir James Ramsay, Governor of Queensland, will administer the<br>
+Government of the Commonwealth of Australia during the<br>
 Governor-General' s absence. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

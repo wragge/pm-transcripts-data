@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15919</transcript-id>
-    <title>Address to the Sydney Cancer Centre Foundation, Sydney Opera House, Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/05/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Acknowledgments</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15919</transcript-id><title>Address to the Sydney Cancer Centre Foundation, Sydney Opera House, Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/05/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Acknowledgments</p>
 <p>Thank you Ann Sanders for that kind introduction.</p>
 <p>Mr Robin Crawford, Chairman of the Sydney Cancer Centre</p>
 <p>Professor Chris O'Brien, Board Director, the Sydney Cancer Centre Foundation</p>
@@ -93,6 +83,4 @@
 <p>It is a fight that will test our determination and resolve, but one that we must front up to if we are to close the gap between our aspirations and our achievements as a nation.</p>
 <p>Chris, you should know that you have made a difference in this fight, that your efforts have borne fruit, and that the fight will go on.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16546</transcript-id>
-    <title>Interview on 2UE Radio - Mike Carlton    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/05/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Did the Prime Minister spit the dummy when the army diggers he was visiting in Afghanistan couldn't produce a hairdryer? That is the claim from an opposition backbencher this morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16546</transcript-id><title>Interview on 2UE Radio - Mike Carlton    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/05/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Did the Prime Minister spit the dummy when the army diggers he was visiting in Afghanistan couldn't produce a hairdryer? That is the claim from an opposition backbencher this morning.</p>
 <p>We have summoned the Prime Minister to answer this question. Good morning.</p>
 <p>PM: Morning Mike.</p>
 <p>HOST: Did you?</p>
@@ -105,6 +95,4 @@
 <p>PM: Is that receding or not?</p>
 <p>HOST: Receding. The R word. The R word in the studio. It's retreating, it's vanishing at a great rate. The R Word. Thanks very much.</p>
 <p>PM: The Prime Minister. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

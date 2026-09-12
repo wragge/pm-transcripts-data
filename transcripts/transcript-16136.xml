@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16136</transcript-id>
-    <title>Interview with Chris Uhlmann, ABC Radio AM Program    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/09/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>UHLMANN: Prime Minister Good Morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16136</transcript-id><title>Interview with Chris Uhlmann, ABC Radio AM Program    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/09/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>UHLMANN: Prime Minister Good Morning.</p>
 <p>PM: Good Morning Chris.</p>
 <p>UHLMANN: There's an international credit strike, what's wrong with canvassing the idea of how you might relieve some of that pressure in Australia?</p>
 <p>PM: Well firstly the Reserve Bank throughout the course of the last 12 months has been monitoring liquidity requirements of the Australian domestic economy and acting appropriately, that's the first point.</p>
@@ -47,6 +37,4 @@
 <p>Of course there are other matters on the international agenda as well, including a global response to climate change, but when you have an opportunity, as the leaders of the world gather in New York for just three days to engage on what is the greatest financial crises that we have seen for a long, long time, and to muster the political will to respond coherently to it, it's important that in the national interest, Australia is there rather than simply hoping that someone else sorts it out on our behalf.</p>
 <p>UHLMANN: Prime Minister Thank you.</p>
 <p>PM: Thanks very much</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

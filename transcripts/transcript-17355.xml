@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17355</transcript-id>
-    <title>Prime Minister Australia-China relations deepen with ten new agreements Canberra 21 June 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/06/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Vice President of the People's Republic of China HE Mr Xi Jinping today witnessed the signing of ten agreements that will add further depth and momentum to the Australia-China relationship.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17355</transcript-id><title>Prime Minister Australia-China relations deepen with ten new agreements Canberra 21 June 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/06/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Vice President of the People's Republic of China HE Mr Xi Jinping today witnessed the signing of ten agreements that will add further depth and momentum to the Australia-China relationship.</p>
 <p>The significance and variety of the agreements concluded today reflects the strong and growing cooperation between Australia and China. The agreements cover projects worth more than $10 billion in total.</p>
 <p>Seven of the ten agreements relate to resources and energy. This demonstrates the dynamic relations between the two countries in this sector, and the strong complementarity of the two economies.</p>
 <p>The agreements will also see upgrades to infrastructure and will deliver jobs and regional development. For example, the agreement between Karara Mining Ltd, China Development Bank Corporation and the Bank of China will underpin the development of proposed port and rail infrastructure at Oakajee in Western Australia. The project is expected to generate several thousand new jobs in the region.</p>
@@ -49,6 +39,4 @@
 <p>10. Protocol of Phytosanitary Requirements for the Export of Apples from the State of Tasmania, Australia to China</p>
 <p>Signatories: Ms Rona Mellor, Deputy Secretary, Department of Agriculture, Fisheries and Forestry; Mr Wei Chuanzhong, Deputy Administrator, General Administration of Quality Supervision, Inspection and Quarantine of China</p>
 <p>The protocol provides Tasmanian growers and exporters with improved quarantine conditions to commence trade in apples to China; this follows the Australian Government's long-standing request for removal of certain requirements to improve access. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

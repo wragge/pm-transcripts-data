@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11145</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 PRESS CONFERENCE - PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/05/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11145</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                 PRESS CONFERENCE - PARLIAMENT HOUSE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/05/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................................................................................</p>
 <p>PRIME MINISTER:</p>
 <p>Ladies and gentlemen, the Treasurer and I have called this press conference</p>
 <p> to announce that the Government and the Australian Democrats have</p>
@@ -342,6 +332,4 @@
 <p> the off-road for rail is, for example, is something that wasn't</p>
 <p> in the original package. Now, I think that's about it. I think</p>
 <p> Senator Lees wants to have a talk to you. Thank you very, very much</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

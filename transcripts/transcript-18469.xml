@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18469</transcript-id>
-    <title>Transcript of doorstop interview, Seoul</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/03/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18469</transcript-id><title>Transcript of doorstop interview, Seoul</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/03/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here in Korea for the Nuclear Security Summit. I have had the opportunity this morning to meet with some Korean students, online using broadband talking to students in Australia so that's been a special pleasure but my purpose for being here in Korea is to attend the Nuclear Security Summit.</p>
 <p>This is an important meeting bringing together more than 50 countries. It follows on the first Nuclear Security Summit in Washington.  The purpose of this summit is to bring leaders together to discuss how we can better secure nuclear material. Nuclear security is a major challenge for our world. We want to make sure that nuclear material never falls into the wrong hands. We know that there are terrorist groups who have said that they want to acquire nuclear material for a so called dirty bomb. </p>
 <p>Indeed we know that Bin Laden, when he was alive, described the getting of nuclear material as a religious duty.  As a result of the work that's already been done through this Nuclear Security Summit process, it would be difficult for terrorists to access nuclear material. But it's not impossible and we cannot be complacent given how extreme the consequences would be of a terrorist dirty bomb.</p>
@@ -92,6 +82,4 @@ PM: I'm here in Korea for the Nuclear Security Summit. I have had the opportunit
 <p>JOURNALIST: The Chinese tech company Huawei has been told it can't invest in the NBN. Can you explain why and why it doesn't damage our reputation as a good place to invest?</p>
 <p>PM:  The National Broadband Network is a huge infrastructure project. I mean it's bigger than the Snowy Mountains Scheme. It's the infrastructure project that our nation needs today. You would expect as a Government that we'd make all of the prudent decisions to make sure that that infrastructure project does what we want it to do and we've taken one of those decisions.</p>
 <p>Thanks very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

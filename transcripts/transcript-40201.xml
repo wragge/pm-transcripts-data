@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40201</transcript-id>
-    <title>Joint Press Conference</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/02/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40201</transcript-id><title>Joint Press Conference</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/02/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>Good morning. Five years ago – just a few minutes ago – was of course the great Christchurch earthquake. And we note again our sympathy to the people of New Zealand, the people of Christchurch, for the loss they suffered then, and our unbounded admiration for the courage and resilience they showed in rebuilding that city.</p>
 <p>Of course, Christchurch was hit by an earthquake only a few weeks ago. And when I met with John Key last week, I conveyed our sympathies on that account, but also the remarkable regard that every Australian has, and I think people all around the world have, at the way in which New Zealanders responded to that shocking earthquake and the resilience and the optimism and the courage that they showed.</p>
 <p>Now, turning to matters more domestic, we will be introducing into the House today legislation that responds to the recommendations of the Joint Standing Committee on Electoral Matters into the last election.</p>
@@ -122,6 +112,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Stronger growth, more jobs, fairness, those are the three key priorities and I'm really delighted, Bonge, that you've arranged so elegantly for us to conclude the press conference on that note. Thank you very much.</p>
 <p><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

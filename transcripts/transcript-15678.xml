@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15678</transcript-id>
-    <title>Doorstop Interview, Treasury Place, Melbourne</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/04/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15678</transcript-id><title>Doorstop Interview, Treasury Place, Melbourne</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/04/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 ALP National Conference.</p>
 <p>E&amp;OE...</p>
 <p>JOURNALIST:</p>
@@ -17,6 +7,4 @@ ALP National Conference.</p>
 <p>PRIME MINISTER:</p>
 <p>Well Mr Rudd's biggest responsibility today was to outline to the Australian people a plan to keep the Australian economy strong and prosperous into the future, and he completely ignored it.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

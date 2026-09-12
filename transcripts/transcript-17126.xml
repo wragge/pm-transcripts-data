@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17126</transcript-id>
-    <title>Transcript of interview with Neil Mitchell 3AW   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17126</transcript-id><title>Transcript of interview with Neil Mitchell 3AW   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Mr Rudd, good morning.</p>
 <p>PM: Good morning, Neil. Thanks for having me on the program.</p>
 <p>MITCHELL: Well, thank you for your time. Mr Rudd, President Obama's here in a couple of weeks. Will you be recommending he becomes a Companion in the Order of Australia, as did the Indonesian President?</p>
 <p>PM: The reason we've provided this to the Indonesian President is following on a precedent which was established by my predecessor, Mr Howard. He provided an honourary Order of Australia to the former Prime Minister of Singapore. President Yudhoyono, in his previous life, helped a lot in the response to the Bali bombings in 2002 and has done a lot, also to entrench democracy in Indonesia, so we thought this was an appropriate gesture to him.</p>
@@ -152,6 +142,4 @@
 <p>PM: Well mate, how's yours going?</p>
 <p>MITCHELL: Not good. Not good, but I'm trying. Thank you very much for your time.</p>
 <p>PM: Good to be with you Neil.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

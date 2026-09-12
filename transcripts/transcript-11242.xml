@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11242</transcript-id>
-    <title>NEW ZEALAND MEMORIAL</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/06/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I warmly welcome Mrs Shipley's announcement today that she has</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11242</transcript-id><title>NEW ZEALAND MEMORIAL</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/06/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I warmly welcome Mrs Shipley's announcement today that she has</p>
 <p> approved the design for a New Zealand Memorial to be built</p>
 <p> at the intersection of ANZAC Parade and Constitution Avenue in Canberra.</p>
 <p> A gift from New Zealand to Australia, the memorial will honour the</p>
@@ -23,6 +13,4 @@
 <p> defence of the common principles and values their people hold dear.</p>
 <p> It will also be a constant reminder of the continuing commitment by</p>
 <p> us both to those values.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

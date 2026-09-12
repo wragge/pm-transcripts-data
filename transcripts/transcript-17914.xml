@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17914</transcript-id>
-    <title>Visit of Samoan Prime Minister</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>16/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17914</transcript-id><title>Visit of Samoan Prime Minister</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>16/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today hosted Prime Minister Tuilaepa of Samoa in Canberra as part of his official visit to Australia as a guest of the Federal Government.</p>
 <p>Australia's relationship with Samoa is one of the closest we have in the Pacific region.  It  embraces strong political, economic, and people to people links and a shared vision for a prosperous and democratic Pacific region.</p>
 <p>The links between our two nations are further strengthened by the more than 40,000 people of Samoan ancestry living in Australia who make a valuable contribution to our community.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard today hosted Prime Minister Tuilaepa of Samoa in Ca
 <p>The Prime Ministers also signed an agreement to increase funding under the Australian Sports Outreach Program (ASOP) Samoa.  This agreement will provide $1 million over three years to use village-level sport as a way of providing leadership opportunities for young men and women and to promote a healthy lifestyle in Samoa. </p>
 <p>Prime Minister Tuilaepa also used his visit to thank nine Australians who supported Samoa's recovery following the September 2009 Samoan tsunami.</p>
 <p>At the peak of the tsunami response, Australia deployed 108 emergency and medical personnel and 29 tons of critical emergency supplies.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11052</transcript-id>
-    <title>Press Conference, Prime Minister’s Courtyard, Parliament House </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>UN Security Council resolution</subjects>
-    <content><![CDATA[<p>15 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11052</transcript-id><title>Press Conference, Prime Minister’s Courtyard, Parliament House </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>UN Security Council resolution</subjects><content><![CDATA[<p>15 September 1999</p>
 <p><i>Subject: UN Security Council resolution</i></p>
 <p>E&amp;OE………………………………………………………………………………………</p>
 <p>I would like to very warmly welcome the passage of the resolution by the Security Council. It’s a very wide ranging resolution and it provides ample legal authority for the multinational force to carry out all of the tasks which will be appropriate in the circumstances.</p>
@@ -117,6 +107,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Well, I don’t know. I thought I said that at the beginning.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

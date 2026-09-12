@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21198</transcript-id>
-    <title>Interview with Fiona Wylie ABC Radio 2NR </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/04/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>WYLIE:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21198</transcript-id><title>Interview with Fiona Wylie ABC Radio 2NR </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/04/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>WYLIE:</p>
 <p>I';ve asked my listeners here on the North Coast to ask me some of the issues that are most concerning them today and my first call came from a pensioner who was very concerned that the CPI and the pension will continue to be linked and that it will continue to increase.</p>
 <p>PRIME MINISTER:</p>
 <p>You mean she';s concerned that it will increase, or she';s worried that it may stop increasing?</p>
@@ -98,6 +88,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay then, thank you. Bye bye.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

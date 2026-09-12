@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10956</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT THE OPENING CEREMONY OF THE INTERNATIONAL OLYMPIC COMMITTEE                 AND ASSOCIATION OF SUMMER OLYMPIC INTERNATIONAL FEDERATIONS                OPERA HOUSE, SYDNEY</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/04/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10956</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT THE OPENING CEREMONY OF THE INTERNATIONAL OLYMPIC COMMITTEE                 AND ASSOCIATION OF SUMMER OLYMPIC INTERNATIONAL FEDERATIONS                OPERA HOUSE, SYDNEY</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/04/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........................................................................................................................</p>
 <p>Thank you very much, Sally-Anne; to Mr Samaranch, the President of</p>
 <p> the International Olympic Committee; to Doctor Primo Debiolo; to my</p>
 <p> parliamentary colleague, Andrew Thomson, the Federal Minister for</p>
@@ -64,6 +54,4 @@
 <p> and I welcome you all.</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

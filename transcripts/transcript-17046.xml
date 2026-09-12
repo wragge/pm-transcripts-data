@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17046</transcript-id>
-    <title>New Chief Justice of the Federal Court of Australia    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/02/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17046</transcript-id><title>New Chief Justice of the Federal Court of Australia    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/02/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government is pleased to announce the appointment of the Honourable Patrick Keane as Chief Justice of the Federal Court of Australia.</p>
 <p>Justice Keane will begin his appointment on Monday 22 March 2010. His Honour will be the third Chief Justice appointed to the Federal Court since its inception, and the first from Queensland.</p>
 <p>Justice Keane is currently a Judge of the Court of Appeal, Supreme Court of Queensland, an office he has held with distinction since 2005. Prior to taking up judicial appointment, Justice Keane was Solicitor-General for Queensland. Between 1990 and 1992, Justice Keane was Deputy Chairman of the Queensland Law Reform Commission. He practised at the Queensland Bar between 1978 and 2005, principally in commercial and constitutional matters. Justice Keane was appointed Queen's Counsel in 1988 and in 2003 was awarded the Centenary Medal.</p>
@@ -17,6 +7,4 @@ The Australian Government is pleased to announce the appointment of the Honourab
 <p>The Government is grateful to all those who put forward nominations, which greatly assisted in the consideration of this appointment.</p>
 <p>The Honourable Chief Justice Michael Black AC will retire on 21 March 2010, following 19 years of exemplary service to Australia as Chief Justice of the Federal Court of Australia.</p>
 <p>The Government thanks the Chief Justice for the valued and enduring contribution he has made to Australia's justice system.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

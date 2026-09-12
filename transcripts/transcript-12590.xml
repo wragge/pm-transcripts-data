@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12590</transcript-id>
-    <title>Interview with Laurie Oakes, Sunday Program, Channel 9</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Bali; war against terror; Cunningham by-election; APEC.</subjects>
-    <content><![CDATA[<p>20 October 2002</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12590</transcript-id><title>Interview with Laurie Oakes, Sunday Program, Channel 9</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bali; war against terror; Cunningham by-election; APEC.</subjects><content><![CDATA[<p>20 October 2002</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>OAKES:</p>
 <p>Mr Howard what should Australians be feeling today? I mean grief obviously, but what else? Anger, fear?</p>
@@ -25,7 +15,7 @@
 <p>Well, quite a lot of valuable information has come from the crime scene. I spoke this morning to Mick Keelty, the Commissioner of the Australian Federal Police, and I want the police to do the daily commentary on the operational matters and I don't think it's a good thing for a political leader to sort of pretend to be a policeman. But he told me that they have obviously gathered a lot of information from the crime scene. They are matching that with the 400 useful witness statements that they collected. They got information from about 6,000 different pieces of information from people returning home and about 400 of them are helpful and they're putting all of that together, but it will take a long time. And even though you might start an investigation like this with a strong suspicion, it will often take a very long time to verify that suspicion. For example, it was about 13 months before, in the case of the Lockerbie air disaster, the investigators there were able to match their suspicion with presentable evidence.</p>
 <p>OAKES:</p>
 <p>Do you still believe that Abu Bakar was responsible for this, the leader of the Jemaah Islamiyah?</p>
-<p>PRIME MINISTER:<br /><br />I can't assert that with any, you know, sense of proof. He is apparently being questioned but not in relation to Bali.</p>
+<p>PRIME MINISTER:<br><br>I can't assert that with any, you know, sense of proof. He is apparently being questioned but not in relation to Bali.</p>
 <p>OAKES:</p>
 <p>Now that's a worry isn't it, if they're not asking about this?</p>
 <p>PRIME MINISTER:</p>
@@ -98,7 +88,5 @@
 <p>Prime Minister, we thank you.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
-<p><br />[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><br>[ends]</p>
+]]></content></item></response>

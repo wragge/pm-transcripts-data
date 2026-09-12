@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24792</transcript-id>
-    <title> Syrian Humanitarian Crisis</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>06/09/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will consult with our international partners on possible further assistance for the humanitarian crisis in the Middle East and Europe.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24792</transcript-id><title> Syrian Humanitarian Crisis</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>06/09/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will consult with our international partners on possible further assistance for the humanitarian crisis in the Middle East and Europe.</p>
 <p>The scale of the dislocation of people in Syria and northern Iraq and the unfolding crisis in the Mediterranean requires further international response.</p>
 <p>While Europe remains the frontline for the unprecedented movement of people, millions more are suffering in refugee camps in nations bordering the conflict in Syria and Iraq.</p>
 <p>This week the Minister for Immigration and Border Protection, the Hon Peter Dutton, will travel to Geneva for urgent discussions with the UNHCR and other partners.</p>
@@ -24,13 +14,11 @@
 <p>Around half of this assistance has been delivered inside Syria with the remainder provided to neighbouring countries to assist both refugees and their host communities.</p>
 <p>It has delivered food, water, healthcare, education, emergency supplies and protection, including support for women and girls.</p>
 <p>The aid is delivered through various UN agencies and international humanitarian organisations and includes (but is not limited to):</p>
-<p>$40 million for the UN High Commissioner for Refugees (UNHCR)<br />
-$26 million to the World Food Program (WFP)<br />
-$23 million to the UN Children’s Fund (UNICEF)<br />
-$13 million to Australian NGOs including CARE, Oxfam, Save the Children and World Vision<br />
+<p>$40 million for the UN High Commissioner for Refugees (UNHCR)<br>
+$26 million to the World Food Program (WFP)<br>
+$23 million to the UN Children’s Fund (UNICEF)<br>
+$13 million to Australian NGOs including CARE, Oxfam, Save the Children and World Vision<br>
 $7 million to the World Health Organisation (WHO).</p>
 <p>
 6 September 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

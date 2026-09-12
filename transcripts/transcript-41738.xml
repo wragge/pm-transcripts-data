@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41738</transcript-id>
-    <title>New cyber security centre to boost Australia&#039;s online resilience</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/08/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Turnbull Government is supporting cyber safety and jobs with the opening of the new headquarters of the world-leading Australian Cyber Security Centre.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41738</transcript-id><title><![CDATA[New cyber security centre to boost Australia&#039;s online resilience]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/08/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Turnbull Government is supporting cyber safety and jobs with the opening of the new headquarters of the world-leading Australian Cyber Security Centre.</p>
 <p>The Government’s number one priority is keeping Australians safe. This state of the art centre will protect national critical infrastructure, our businesses and the Australian public.</p>
 <p>Cybercrime continues to grow. The Government has seen a significant increase in business email scams, mostly targeting businesses with fewer than 10 employees.</p>
 <p>With the opening of this purpose-built national cyber security centre in Canberra today, we are significantly enhancing our capacity to grow Australia’s cyber resilience in partnership with industry, businesses, universities, not-for-profit organisations and governments.</p>
@@ -18,12 +8,12 @@
 <p>Effective online security is vital for a modern, technology-driven economy. It is critical to our wellbeing, prosperity and security. That’s why the Turnbull Government has integrated the Centre into the Australian Signals Directorate, which has a long history of excellence in cyber security and access to world-leading technology.</p>
 <p>The Australian Cyber Security Centre forms a critical hub for the Joint Cyber Security Centres located in all capital cities, which facilitate stronger partnerships between more than 150 organisations across private and public sectors.</p>
 <p>The Australian Cyber Security Centre will deliver on the Government’s cyber security priorities, in three critically important areas:</p>
-<ul><li>to provide cyber security advice and assistance to businesses and the community</li>
+<ul>
+<li>to provide cyber security advice and assistance to businesses and the community</li>
 <li>to prevent and disrupt offshore cyber-enabled crime</li>
 <li>to protect the specialised tools ASD uses to fulfil its functions.</li>
-</ul><p>The new cyber.gov.au website will replace a number of Government cyber security websites and services, including ACORN and acsc.gov.au. This important step will provide businesses and individuals with one single place to report cybercrime and find advice on cyber security practices.</p>
+</ul>
+<p>The new cyber.gov.au website will replace a number of Government cyber security websites and services, including ACORN and acsc.gov.au. This important step will provide businesses and individuals with one single place to report cybercrime and find advice on cyber security practices.</p>
 <p>Empowered by our partners across the Australian community, in industry, business and research, the new Australian Cyber Security Centre is best placed to harness evolving technology and tradecraft and lead the nation in protecting us from harm.</p>
 <p>Call 1300 CYBER1 (1300 292 371) or visit cyber.gov.au to learn more or to report a cyber incident.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

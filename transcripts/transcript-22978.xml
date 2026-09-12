@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22978</transcript-id>
-    <title>Election night victory speech</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>07/09/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>My friends, thank you. Thank you so much.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22978</transcript-id><title>Election night victory speech</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>07/09/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>My friends, thank you. Thank you so much.</p>
 <p>I can inform you that the government of Australia has changed for just the seventh time.</p>
 <p>You obviously enjoyed hearing it, so let me say it again, the government of Australia has changed. For just the seventh time in 60 years the government of Australia has changed.</p>
 <p>The Coalition has won 13 seats clearly, with 10 seats still in play and I can inform you that the Australian Labor Party’s vote is at the lowest level in more than one hundred years.</p>
@@ -51,6 +41,4 @@
 <p>We have been on a journey together – a long, long journey. May it continue and may it help to bring better times to this great country of which we are all so very, very proud.</p>
 <p>Thank you so much.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

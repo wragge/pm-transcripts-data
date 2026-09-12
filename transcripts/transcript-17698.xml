@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17698</transcript-id>
-    <title>Prime Minister to visit the United States of America</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/02/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17698</transcript-id><title>Prime Minister to visit the United States of America</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/02/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister will visit the United States of America from the 5th to the 13th March. </p>
 <p>This will be Prime Minister Gillard's first visit to the United States as Prime Minister. The United States is our closest strategic and security partner and one of our most important economic relationships. This year Australia and the United States celebrate the 60th anniversary of the ANZUS alliance.</p>
 <p>In Washington, the Prime Minister will meet President Barack Obama and senior members of the Administration, including Secretary of State Hillary Clinton and Treasury Secretary Timothy Geithner. </p>
@@ -20,6 +10,4 @@ The Prime Minister will visit the United States of America from the 5th to the 1
 <p>The Prime Minister will be guest of honour at a reception to mark Commonwealth Day, as Australia prepares to host the Commonwealth Heads of Government Meeting in Perth in October.</p>
 <p>While in New York, the Prime Minister will also focus on the business, trade and investment relationship, highlighting the strength of Australia's economy, and the United States as Australia's number one investment destination.</p>
 <p>The Prime Minister will stop in Honolulu on her return to Australia where she will meet the Commander of the US Pacific Command, Admiral Robert F Willard, to discuss security issues in the Asia-Pacific.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

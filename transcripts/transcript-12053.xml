@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12053</transcript-id>
-    <title>Electorate Office, Gladesville </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/07/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: receiving of honourary doctorate; NRL; Dr Victor Chang.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12053</transcript-id><title>Electorate Office, Gladesville </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/07/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: receiving of honourary doctorate; NRL; Dr Victor Chang.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Your reaction to the honourary doctorate today from Notre Dame University.</p>
@@ -39,6 +29,4 @@
 <p>And will remain?</p>
 <p>PRIME MINISTER:</p>
 <p>Well I'm sure it will because he was a pioneer, an achiever, and most importantly he brought hope and life to people and they are the best contributors of all.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

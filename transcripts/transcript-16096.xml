@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16096</transcript-id>
-    <title>Interview with Greg Cary, Radio 4BC, Brisbane  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CARY: Mr Rudd, Good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16096</transcript-id><title>Interview with Greg Cary, Radio 4BC, Brisbane  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CARY: Mr Rudd, Good morning.</p>
 <p>PM: Good morning Greg.</p>
 <p>CARY: A bit to talk about. Maybe just on a couple of those things I was just talking about, Barack Obama today accepts his party's nomination for presidency of the United States. We have come a long way in a short time.</p>
 <p>PM: I'll say. I had a conversation with Senator Obama last week and talked in part about where he had come from and where he is headed to. This is an extraordinary achievement for him as an individual, as an American politician. And should he win in the Presidential election, I think Australia will have a very good friend in the White House.</p>
@@ -75,6 +65,4 @@
 <p>PM: Oh, the ‘Broncs' to win and, I am too smart to pick the score. See you later.</p>
 <p>CARY: Prime Minister, enjoy your day.</p>
 <p>PM: See you mate, bye.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40596</transcript-id>
-    <title>Radio interview with Ben Fordham, 2GB</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>16/11/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>BEN FORDHAM:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40596</transcript-id><title>Radio interview with Ben Fordham, 2GB</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>16/11/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>BEN FORDHAM:</strong></p>
 <p>Prime Minister, good afternoon.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Good afternoon Ben and first congratulations on the arrival of your new baby girl Pearl.</p>
@@ -46,7 +36,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well Ben everyone is entitled to their opinion. We have a very close and long history of co-operation with the United States on matters of this kind. And both our nations have, in that very trusted cooperation, been able to pursue our mutual and our respective objectives, both from a humanitarian and from a national security point of view.</p>
 <p><strong>BEN FORDHAM:</strong></p>
-<p>Alright. Today you announced a crackdown on 457 visas, people coming in on 457 visas and this follows concerns that Australians are missing out on jobs because employers are hiring overseas workers. So from Saturday 457 visa holders will only be allowed to stay in Australia for 60 days after their employment ends. It is down from 90 days. But it seems this is one of these things that you have followed Bill Shorten on because… </p>
+<p>Alright. Today you announced a crackdown on 457 visas, people coming in on 457 visas and this follows concerns that Australians are missing out on jobs because employers are hiring overseas workers. So from Saturday 457 visa holders will only be allowed to stay in Australia for 60 days after their employment ends. It is down from 90 days. But it seems this is one of these things that you have followed Bill Shorten on because…&nbsp;</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>No, well that is completely wrong Ben. Let me quite clear.</p>
 <p><strong>BEN FORDHAM:</strong></p>
@@ -121,6 +111,4 @@
 <p><strong>BEN FORDHAM:</strong></p>
 <p>Good on you. Malcolm Turnbull, thank you very much.</p>
 <p><strong>ENDS</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

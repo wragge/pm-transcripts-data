@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12770</transcript-id>
-    <title>DEATH OF HER ROYAL HIGHNESS THE PRINCESS MARGARET,  COUNTESS OF SNOWDON</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/02/2002</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-I have today forwarded the following message to Her Majesty The Queen on behalf of the government and people of Australia.<br />
-(Text begins)<br />
-Your Majesty<br />
-On behalf of the government and people of Australia, I extend our deepest sympathies to you and the other members of the Royal Family at the death of Your Majesty';s sister, Her Royal Highness The Princess Margaret, Countess of Snowdon.<br />
-Australians join with others around the world in acknowledging with affection Princess Margaret';s elegance and sense of duty, her love of music and the ballet, together with her extensive work with charities, particularly those concerned with young children and the sick.<br />
-My wife Janette joins me in extending our sincere condolences to you, Her Majesty Queen Elizabeth The Queen Mother, Viscount Linley and Lady Sarah Chatto, and all the members of your family.<br />
-Yours sincerely<br />
-(John Howard)<br />
-Her Majesty The Queen<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12770</transcript-id><title>DEATH OF HER ROYAL HIGHNESS THE PRINCESS MARGARET,  COUNTESS OF SNOWDON</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/02/2002</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
+I have today forwarded the following message to Her Majesty The Queen on behalf of the government and people of Australia.<br>
+(Text begins)<br>
+Your Majesty<br>
+On behalf of the government and people of Australia, I extend our deepest sympathies to you and the other members of the Royal Family at the death of Your Majesty';s sister, Her Royal Highness The Princess Margaret, Countess of Snowdon.<br>
+Australians join with others around the world in acknowledging with affection Princess Margaret';s elegance and sense of duty, her love of music and the ballet, together with her extensive work with charities, particularly those concerned with young children and the sick.<br>
+My wife Janette joins me in extending our sincere condolences to you, Her Majesty Queen Elizabeth The Queen Mother, Viscount Linley and Lady Sarah Chatto, and all the members of your family.<br>
+Yours sincerely<br>
+(John Howard)<br>
+Her Majesty The Queen<br>
   (End of text)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18786</transcript-id>
-    <title>New Biosciences Research Precinct at Curtin University</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/09/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Perth</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18786</transcript-id><title>New Biosciences Research Precinct at Curtin University</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/09/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Perth</p>
 <p>Prime Minister Julia Gillard and the Minister for Tertiary Education, Science and Research, Senator Chris Evans today opened the $35 million multi-disciplinary health research and teaching hub at Curtin University.</p>
 <p>The Curtin Health Innovation Research Institute (CHIRI) is a multi-disciplinary hub for research and teaching in biomedical sciences, pharmacy and public health that brings leading researchers and educators together in a single location.</p>
 <p>CHIRI will carry out high-end research in key national priority areas like mental health, Aboriginal and Torres Strait Islander health, ageing and dementia, population and biomedical and clinical sciences.</p>
@@ -18,6 +8,4 @@
 <p>The precinct has 24 specialist suites and includes space for 100 researchers and postgraduate research students, providing an environment that encourages inter-professional practice and its incorporation into student learning.</p>
 <p>A pharmacy practice teaching space will provide students with experience in a simulated consulting environment.</p>
 <p>The Gillard Government contributed $13.7 million towards the CHIRI project as part of its landmark $5 billion investment in state-of-the-art infrastructure that is transforming the nation's higher education, research and vocational education landscape.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

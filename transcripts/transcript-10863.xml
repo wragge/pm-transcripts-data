@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10863</transcript-id>
-    <title>CANDIDATE FOR SPEAKER</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10863</transcript-id><title>CANDIDATE FOR SPEAKER</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
  At a meeting of Liberal Members of the House of Representatives held</p>
 <p> tonight, it was unanimously resolved that the Government's nominee</p>
 <p> for the position of Speaker would be the Rt Hon Ian Sinclair MP, Member</p>
@@ -21,6 +11,4 @@
 <p>  I have no doubt that if endorsed by the Parliament, Mr Sinclair will</p>
 <p> be a distinguished Speaker.</p>
 <p>  3 March 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

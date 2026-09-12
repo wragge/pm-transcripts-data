@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18104</transcript-id>
-    <title>Working together to secure the Illawarra&#039;s future</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>30/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18104</transcript-id><title><![CDATA[Working together to secure the Illawarra&#039;s future]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>30/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard met with BlueScope Steel workers, business leaders and union heads in the Illawarra today to discuss plans to keep the region strong and prosperous.</p>
 <p>After listening to workers at BlueScope Steel's plant at Port Kembla, the Prime Minister hosted a business and union roundtable in Wollongong.</p>
 <p>The Government's assistance package was discussed at the meeting along with potential opportunities for the local community to work together to create a sustainable manufacturing future in the region.</p>
@@ -23,6 +13,4 @@ Prime Minister Julia Gillard met with BlueScope Steel workers, business leaders 
 <p>For example, more than 2,500 jobs have been created through Innovation Funds in regions such as Adelaide and Geelong where major plants have closed.</p>
 <p>The Government is providing immediate support and assistance to workers affected by BlueScope Steel's recent decision to restructure its operations.</p>
 <p>In addition to immediate relief, the Government is working closely with local businesses, the community and the New South Wales Government to help people find work in new businesses that produce long-term high quality jobs.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

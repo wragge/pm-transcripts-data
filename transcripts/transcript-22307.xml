@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22307</transcript-id>
-    <title>Australian Government withdraws from sale of Snowy Hydro Limited  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/06/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government has decided to withdraw its 13 per cent shareholding from the sale of Snowy Hydro Limited.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22307</transcript-id><title>Australian Government withdraws from sale of Snowy Hydro Limited  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/06/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government has decided to withdraw its 13 per cent shareholding from the sale of Snowy Hydro Limited.</p>
 <p>The Government has listened to the immense community reaction on this matter.</p>
 <p>The privatisation of Snowy Hydro Limited has not been a policy or election commitment under the Howard Government.</p>
 <p>In December last year the New South Wales Government unilaterally announced it would sell its majority shareholding of 58 per cent in Snowy Hydro Limited.</p>
@@ -19,6 +9,4 @@
 <p>In response to the strong opposition and the need to safeguard the interests of all those dependent on Australia's iconic water resources, the Australian Government will withdraw its 13 per cent share from the sale of Snowy Hydro Limited.</p>
 <p>It is now up to the New South Wales and Victorian Governments to decide on action in relation to their respective shareholdings.</p>
 <p>The Australian Government has no intention of buying any additional shares in Snowy Hydro Limited.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

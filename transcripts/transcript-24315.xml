@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24315</transcript-id>
-    <title>Launch of the Spirit of Anzac Centenary Experience</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/03/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, the Government launches the <em>Spirit of Anzac Centenary Experience</em>, a special travelling exhibition which will visit 23 locations across Australia throughout the Centenary of Anzac period.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24315</transcript-id><title>Launch of the Spirit of Anzac Centenary Experience</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/03/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, the Government launches the <em>Spirit of Anzac Centenary Experience</em>, a special travelling exhibition which will visit 23 locations across Australia throughout the Centenary of Anzac period.</p>
 <p>The <em>Spirit of Anzac Centenary Experience</em> is a partnership between the Australian Government and the Australian War Memorial, generously supported by the Commonwealth Bank and by Telstra.</p>
 <p>It is the flagship community event of the national programme.</p>
 <p>From September this year, communities around Australia will have the opportunity to become immersed in Australia’s First World War story.</p>
@@ -22,6 +12,4 @@
 <p>Former Deputy Prime Minister, the Hon Tim Fischer AC, has been appointed as the Envoy for the exhibition<em>.</em></p>
 <p>Working with the Australian War Memorial, creative agency, <em>Imagination</em>, has developed the exhibition as a vehicle to share stories of the Australian war experience, ensuring that the legacy of Australian service personnel is carried into the next century.</p>
 <p>25 March 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

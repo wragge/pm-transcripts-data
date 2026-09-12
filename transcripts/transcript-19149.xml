@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19149</transcript-id>
-    <title>Centenary of Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/03/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Federation Mall, Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19149</transcript-id><title>Centenary of Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/03/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Federation Mall, Canberra</p>
 <p>Today we gather to celebrate this city ordained by our Constitution to be the heart of our nation's democracy.</p>
 <p>At a time when Britain was still Home, the ‘federal generation' was astute enough to give this place an Aboriginal name,a wise and evocative choice.</p>
 <p>Though “Canberra” has several meanings, the one we settle upon is “meeting place”  -  as if the meeting place of the new Australia could only recognise and rest upon the old.</p>
@@ -45,6 +35,4 @@
 <p>A city that has become a place of learning and culture  -  the memory-house of a new nation slowly growing old.</p>
 <p>A city that is “a focal point for national pride and sentiment”.</p>
 <p>A capital which truly merits our affection and esteem.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

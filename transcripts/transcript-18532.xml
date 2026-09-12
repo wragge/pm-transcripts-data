@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18532</transcript-id>
-    <title>Dawn Service, Gallipoli</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/04/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18532</transcript-id><title>Dawn Service, Gallipoli</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/04/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 They were strangers in a strange land.</p>
 <p>Men who came from “the ends of the earth” in an enterprise of hope to end a far-off, dreadful war.</p>
 <p>But it was not to be.</p>
@@ -54,6 +44,4 @@ They were strangers in a strange land.</p>
 <p>But the sun will never set on the story of their deeds.</p>
 <p>Now and for all time, we will remember them.</p>
 <p>Lest We Forget. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

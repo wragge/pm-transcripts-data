@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21311</transcript-id>
-    <title>Interview with Wolf Blitzer CNN, Washington </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>06/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BLITZER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21311</transcript-id><title>Interview with Wolf Blitzer CNN, Washington </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>06/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BLITZER:</p>
 <p>Prime Minister, on this 60th anniversary of D-Day, you're there, you're going to be in Normandy, what goes through your mind looking back over these past 60 years? Has the world learned the lessons of World War II?</p>
 <p>PRIME MINISTER:</p>
 <p>I certainly think Europe has. Europe fought internally in two great wars, claimed millions of European lives. It also claimed the lives of about 60-80,000 Australians, I mean we lost 60,000 men in World War I which for a tiny country was a huge loss. I think Europe has learnt that and even though as an Australian Prime Minister in the 21st century I have my frustrations with some of the economic and trading policies of the European Union to the extent that Europe coming together has made that kind of war so unlikely in the future, that's a blessing.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>Pleasure.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

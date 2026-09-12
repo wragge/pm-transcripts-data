@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41387</transcript-id>
-    <title>Ministerial Arrangements</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>19/12/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I have refreshed my Ministry to reflect the priorities and values of my Government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41387</transcript-id><title>Ministerial Arrangements</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>19/12/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I have refreshed my Ministry to reflect the priorities and values of my Government.</p>
 <p>The Ministry features two new, major portfolios: one focused on job creation, the other on national security. This reflects my Government’s determination to provide opportunity and security for every Australian.</p>
 <p>We have entrusted those portfolios to two of our most experienced and respected Ministers.</p>
 <p>Peter Dutton will become Minister for Home Affairs, for the first time bringing together the nation’s security, border and intelligence agencies under one department.</p>
@@ -54,6 +44,4 @@
 <p>I thank Keith Pitt for his service in the Assistant Trade Minister role.</p>
 <p>The Ministry is filled with energy and rich with diverse life experiences.</p>
 <p>Together we look forward to securing and delivering a safer and more prosperous Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

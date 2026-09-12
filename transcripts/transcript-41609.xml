@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41609</transcript-id>
-    <title>Remarks on the HMAS Canberra Garden Island, Sydney</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>02/05/2018</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41609</transcript-id><title>Remarks on the HMAS Canberra Garden Island, Sydney</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>02/05/2018</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Well thank you very much Captain.</p>
 <p>Mr. President welcome to Garden Island, for more than a century this has been the home of the Royal Australian Navy and as the captain has described we are here on HMAS Canberra our Navy's flagship.</p>
 <p>It is the third HMAS Canberra that has served our nation.</p>
@@ -32,6 +22,4 @@
 <p>This program represents a huge leap forward in the strategic partnership between France and Australia. It increases the exchange of technology and skills between our nations, it creates economic opportunities and jobs in both countries and it bolsters a partnership that will last for generations.</p>
 <p>Mr. President together we're facing the challenges of the future. We're acting to protect and preserve the global order that has delivered and secured our peace and prosperity and we're strengthening the deep bonds between France and Australia. It is my great pleasure now to invite you President Macron to address us.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

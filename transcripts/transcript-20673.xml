@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20673</transcript-id>
-    <title>Doorstop Interview, Claridge&#039;s Hotel, London   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/02/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20673</transcript-id><title><![CDATA[Doorstop Interview, Claridge&#039;s Hotel, London   ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/02/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Is there any greater threat to Australia in the same way as the threat assessments have obviously been racked up in the UK and the US?</p>
 <p>PRIME MINISTER:</p>
 <p>There was a general threat increase, if I could put it that way, late last year but we haven't had any specific new information as I speak to warrant a further adjustment of that.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>That is contrary to the advice I've received. Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

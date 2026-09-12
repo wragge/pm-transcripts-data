@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17077</transcript-id>
-    <title>Prime Minister Transcript of interview with David Koch Sunrise 26 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/02/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>KOCH: Prime Minister, good morning to you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17077</transcript-id><title>Prime Minister Transcript of interview with David Koch Sunrise 26 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/02/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>KOCH: Prime Minister, good morning to you.</p>
 <p>PM: Good morning.</p>
 <p>KOCH: Two quick questions on this case. Would there ever have been an instance where Australian officials were present at the torture of an Australian citizen?</p>
 <p>PM: I find that very difficult to believe. This occurred - according to the gentleman concerned - several years ago. Let's test the facts. But I find it very difficult to believe at face value.</p>
@@ -48,6 +38,4 @@
 <p>PM: What I've learnt Kochie is that when it comes to the word 'superannuation', choose your words very carefully, because there are a whole lot of unintended consequences with saying one thing. Therefore, what I'd like to do seriously is come back to Sonia on what is best and most relevant in her circumstances, but all the other mums, frankly, watching the program, who she represents. Mums who choose to stay at home looking after their kids make a huge contribution to the nation, because kids are nurtured in the home environment, and they become workers of the future as well.</p>
 <p>KOCH: Excellent, alright, you'll take it up for us. Good to see you, have a good weekend.</p>
 <p>PM: Will do.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

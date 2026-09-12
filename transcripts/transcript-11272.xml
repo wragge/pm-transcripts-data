@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11272</transcript-id>
-    <title>PREAMBLE TO THE CONSTITUTION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/03/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Federal Coalition Joint Party Room has today overwhelmingly endorsed</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11272</transcript-id><title>PREAMBLE TO THE CONSTITUTION</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/03/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Federal Coalition Joint Party Room has today overwhelmingly endorsed</p>
 <p> a draft preamble to the Federal Constitution to be put to the Australian</p>
 <p> people in conjunction with the referendum on whether Australia should</p>
 <p> become a republic later this year.</p>
@@ -44,6 +34,4 @@
 <p> invoked against achievement.</p>
 <p>In this spirit we, the Australian people, commit ourselves to this</p>
 <p> Constitution.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

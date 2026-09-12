@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17078</transcript-id>
-    <title>Prime Minister Speech Launch of the National Centre of Indigenous Excellence Redfern, Sydney 26 February 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>26/02/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17078</transcript-id><title>Prime Minister Speech Launch of the National Centre of Indigenous Excellence Redfern, Sydney 26 February 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>26/02/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHECK AGAINST DELIVERY </p>
 <p>I acknowledge the Gadigal of the Eora Nation on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>This is a great project.</p>
 <p>What the Indigenous Land Corporation has built here at the National Centre of Indigenous Excellence is a world-class facility and it symbolises the dawn of a new era in Indigenous education, engagement and leadership because the National Centre of Indigenous Excellence is a place that offers great hope, great opportunities, and great practical help for Indigenous Australians to reach their potential.</p>
@@ -59,6 +49,4 @@
 <p>I congratulate you on the first class facility that you have built.</p>
 <p>I congratulate you, in advance, for the heights you will reach, and I congratulate you for creating a place where the hopes and dreams of Indigenous Australia will be encouraged and nurtured.</p>
 <p>It is now my pleasure to officially declare open the National Centre of Indigenous Excellence.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22789</transcript-id>
-    <title>Interview  with Tim Lester, 7.30 Report</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/05/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Fiji Crisis; Reconciliation; GST</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22789</transcript-id><title>Interview  with Tim Lester, 7.30 Report</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/05/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Fiji Crisis; Reconciliation; GST</p>
 <p>LESTER:</p>
 <p>Prime Minister before we address Reconciliation issues, your Government today has announced sanctions but has held off in imposing them for now. Just how bad is the situation in Suva have to become before its really time to act?</p>
 <p>PRIME MINISTER:</p>
@@ -100,6 +90,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

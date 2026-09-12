@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11109</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   PRESS CONFERENCE                 PRIME MINISTER&amp;#146;S COURTYARD, PARLIAMENT HOUSE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/03/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11109</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                   THE HON JOHN HOWARD MP                   PRESS CONFERENCE                 PRIME MINISTER&amp;#146;S COURTYARD, PARLIAMENT HOUSE]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/03/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>Ladies and gentlemen, I have called this news conference to make some</p>
 <p> comments about the draft preamble which was overwhelmingly approved</p>
 <p> in the Coalition Party Room this morning and to answer any questions</p>
@@ -322,6 +312,4 @@
 <p> serious ones, and I don't intend to play the political game over</p>
 <p> them. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

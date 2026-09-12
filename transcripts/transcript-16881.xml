@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16881</transcript-id>
-    <title>Prime Minister&#039;s Science Prize    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/10/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The 2009 Prime Minister's Prize for Science has been awarded to Dr John O'Sullivan.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16881</transcript-id><title><![CDATA[Prime Minister&#039;s Science Prize    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/10/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The 2009 Prime Minister's Prize for Science has been awarded to Dr John O'Sullivan.</p>
 <p>The award and $300,000 grant recognises Dr O'Sullivan's contributions to astronomy and to the invention which made wireless computing practical.</p>
 <p>While looking for exploding black holes Dr O'Sullivan created a technology that cleaned up intergalactic radio waves.</p>
 <p>Then in 1992, he and his colleagues at CSIRO realised that the same technology was the key to fast reliable wireless networking in the office and home.</p>
@@ -22,6 +12,4 @@
 <p>Mr Altman is leading a resurgence in geoscience teaching in South Australia. It's a science needed not just for the mining and minerals industries but also offers an understanding of the challenges of water security and climate change. His classes include mature age students and recent migrants who, with his help, are finding new careers in geoscience.</p>
 <p>Science has a vital role in helping Australia develop a sustainable future. These awards recognise and celebrate these quiet achievers who are both changing the world, and creating the next generation of curious minds.</p>
 <p>Congratulation to all recipients of this year's prizes.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

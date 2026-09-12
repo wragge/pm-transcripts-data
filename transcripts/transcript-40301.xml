@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40301</transcript-id>
-    <title>Interview with Chris Uhlmann on ABC TV</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>17/04/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>CHRIS UHLMANN:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40301</transcript-id><title>Interview with Chris Uhlmann on ABC TV</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>17/04/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>CHRIS UHLMANN:</strong></p>
 <p>Well as we heard there the Government can count on one hand the number of crossbench senators backing it’s industrial laws and that’s simply not enough. The Prime Minister is with me now, Malcolm Turnbull welcome.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah good evening.</p>
@@ -71,6 +61,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

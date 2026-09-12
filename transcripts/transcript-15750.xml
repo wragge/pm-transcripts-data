@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15750</transcript-id>
-    <title>Joint Media Release Premier of New South Wales, NSW Flood Assistance Announced  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>08/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today approved further financial assistance to help small businesses and farmers through the enhanced component of the Natural Disaster Relief and Recovery Arrangements (NDRRA) after a request from the New South Wales Premier, Morris Iemma.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15750</transcript-id><title>Joint Media Release Premier of New South Wales, NSW Flood Assistance Announced  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>08/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today approved further financial assistance to help small businesses and farmers through the enhanced component of the Natural Disaster Relief and Recovery Arrangements (NDRRA) after a request from the New South Wales Premier, Morris Iemma.</p>
 <p>The Australian Government will provide additional assistance to those residents seriously affected by the recent floods in the Northern and Central West areas of NSW in December 2007 and January 2008.</p>
 <p>Through the NDRRA program with the states, the Australian Government assists with the costs and resourcing of response and recovery operations in large scale disasters.</p>
 <p>This additional assistance will provide farmers and registered small business owners, who have experienced severe damage from floods, with a grant of up to $5,000.</p>
@@ -24,6 +14,4 @@
 <p>More information on Australian Government assistance is available at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
 <p>PRIME MINISTER'S PRESS OFFICE: 02 6277 7744</p>
 <p>NSW PREMIER'S PRESS OFFICE Office: 02 9228 429</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

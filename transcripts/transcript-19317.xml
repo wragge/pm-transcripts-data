@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19317</transcript-id>
-    <title>Transcript of Interview with Barrie Cassidy</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/05/2013</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>ABC Insiders</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19317</transcript-id><title>Transcript of Interview with Barrie Cassidy</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/05/2013</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>ABC Insiders</p>
 <p>HOST: Prime Minister good morning, welcome.</p>
 <p>PM: Good morning, Barrie.</p>
 <p>HOST: We'll start with the NDIS and yesterday Victoria signed up. What are the prospects now of WA and Queensland signing up as well?</p>
@@ -127,6 +117,4 @@
 <p>HOST: Thanks for your time this morning.</p>
 <p>PM: Thanks, Barrie.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

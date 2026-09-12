@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22974</transcript-id>
-    <title>Television Address, Prime TV</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/12/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject: road funding.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22974</transcript-id><title>Television Address, Prime TV</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/12/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject: road funding.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>Good evening. As I have travelled across country Australia the need for better local roads is glaringly apparent.</p>
 <p>That’s why we recently announced the greatest federal increase in local road funding ever.  We have decided to boost our funding to local councils for local roads by 75 per cent.  That’s $1.2 billion over four years. $850 million will go to councils in rural and regional areas according to a fair and non-party political formula so local councils throughout Australia can make their own decisions about how to improve local roads.</p>
@@ -18,6 +8,4 @@
 <p>We will also increase our funding for national highways and roads of national importance by $400 million, taking our total new roads program to $1.6 billion.</p>
 <p>The Labor leader Mr Beazley may think putting additional funding into roads is trivial and unnecessary but we see it as a long term investment in better roads and more jobs.  Goodnight.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17297</transcript-id>
-    <title>Prime Minister Minister for Health Tasmanian Minister for Health Delivering better cancer services for all Tasmanians </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/05/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government and Tasmanian Government will invest $47.67 million to improve cancer care across the island.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17297</transcript-id><title>Prime Minister Minister for Health Tasmanian Minister for Health Delivering better cancer services for all Tasmanians </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/05/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government and Tasmanian Government will invest $47.67 million to improve cancer care across the island.</p>
 <p>Tasmanians have the second-highest incidence of cancer in Australia and with some cancers, patients from rural areas are up to three times more likely to die within five years of diagnosis than their urban counterparts. </p>
 <p>The Rudd Government will provide $18.7 million and link the Southern Area Health Service (Hobart), the Northern Area Health Service (Launceston), the North Western Area Health Service (Burnie), the Menzies Research Institute, the Cancer Council Tasmania and other stakeholders.</p>
 <p>The Tasmanian Government will provide almost $24 million towards this project, with $3.95 million in other contributions.</p>
@@ -35,6 +25,4 @@
 <p>Under the National Health and Hospitals Network, the Government will provide </p>
 <p>60 per cent of the funding for capital upgrades for public hospitals. </p>
 <p>The Australian Government's plan will see health services funded nationally and run locally to deliver better health for local communities.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

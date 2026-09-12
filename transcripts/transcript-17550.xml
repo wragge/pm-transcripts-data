@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17550</transcript-id>
-    <title>NBN Rollout: Statement of Expectations </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>20/12/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17550</transcript-id><title>NBN Rollout: Statement of Expectations </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>20/12/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Government today released a statement that sets out its expectations of NBN Co as it rolls out the National Broadband Network (NBN).</p>
 <p>The Statement of Expectations also comprises the Government's final response to the Implementation Study, which was publicly released on 6 May 2010.</p>
 <p>The Minister for Broadband, Communications and the Digital Economy Senator Stephen Conroy said the Statement of Expectations puts in place the final pieces of how the NBN will be implemented.</p>
@@ -40,6 +30,4 @@ The Gillard Government today released a statement that sets out its expectations
 <p>The Government also requested NBN Co to build the wireless network that will deliver fixed wireless services, delivering peak speeds of at least 12 Mbps, to premises in the 94-97 percentile of premises.</p>
 <p>The Government expects NBN Co to maximise the use of existing infrastructure where it is efficient and economic to do so in the delivery of the fixed wireless network.</p>
 <p>The Statement of Expectations is available at: <a href="http://www.dbcde.gov.au/nbn">www.dbcde.gov.au/nbn</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

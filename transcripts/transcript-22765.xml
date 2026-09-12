@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22765</transcript-id>
-    <title>Funding to Support Cattle Industry Jobs</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>16/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Minister for Agriculture, Fisheries and Forestry</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22765</transcript-id><title>Funding to Support Cattle Industry Jobs</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>16/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Minister for Agriculture, Fisheries and Forestry</p>
 <p>Rockhampton</p>
 <p>The Prime Minister and Agriculture Minister today announced $2.5 million in funding for the next Beef Australia expo in Rockhampton to showcase Australia’s cattle industry, to support jobs and to secure new markets.</p>
 <p>The expo is the largest and most significant cattle industry event in the country and will benefit many of the 184,000 Australians employed in agriculture and meat processing by promoting our cattle and industry technology on the international stage.</p>
@@ -18,6 +8,4 @@
 <p>Beef Australia 2012 attracted 85,000 people including delegates from more than 35 countries.</p>
 <p>With the value of production of Australia’s cattle industry estimated to be worth $7.4 billion in 2012-13 and beef and live cattle exports estimated to be worth $5.2 billion in 2012–13, events like Beef Australia are integral for the future of our economy.</p>
 <p>Beef Australia 2015 will be held in Rockhampton, Queensland from 4–9 May 2015. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19015</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>28/01/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19015</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>28/01/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Today, we've been accompanied by Premier Baillieu, with Deputy Premier Peter Ryan, with local Member Darren Chester and we've been accompanied too today by the local Mayor Scott Rossetti.</p>
 <p>We visited Heyfield and Seaton to talk about the consequences of this devastating bushfire.</p>
 <p>This is a bushfire that moved five hours more quickly than expectations. That meant people had to respond to their emergency pagers at 2am.</p>
@@ -121,6 +111,4 @@ PM: Today, we've been accompanied by Premier Baillieu, with Deputy Premier Peter
 <p>I actually met particularly one red headed woman who I remembered very clearly from Tasmania.</p>
 <p>She is a Victorian who deployed to Tasmania to help out in those fires.</p>
 <p>As Premier Baillieu has made clear we have seen Victorians deploy and maybe some might deploy to assist Queensland, so there is a good system of sharing and maximising resources.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

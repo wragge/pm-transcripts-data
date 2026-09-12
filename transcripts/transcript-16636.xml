@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16636</transcript-id>
-    <title>Speech at the reception for  the King and Queen of Spain Parliament House - Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/06/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Majestades</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16636</transcript-id><title>Speech at the reception for  the King and Queen of Spain Parliament House - Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/06/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Majestades</p>
 <p>Es un gran placer para mi darles la bienvenida en nombre del pueblo de Australia - sobre todo en el dia de San Juan Bauttista.</p>
 <p>Las relaciónes entre Australia y España son mas de cuatro cientos años. </p>
 <p>Con vuestra visita, podemos mirar adelante al rediscubrimiento de Australia de los españoles.</p>
@@ -53,6 +43,4 @@
 <p>Australia is particularly keen to work closely with Spain in the lead-up to your country's EU presidency in the first half of 2010.</p>
 <p>Your Majesties, today you are very welcome guests.</p>
 <p>Can I conclude by thanking you for your visit, and conveying to you, on behalf of the Government and the people of Australia, the warmest regards of our nation.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

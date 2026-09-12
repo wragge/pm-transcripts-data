@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23165</transcript-id>
-    <title>Press Conference, Sydney</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/12/2013</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>The First 100 Days of Government,  Qantas,  Holden,  school funding,  Australia-Indonesia relations,  Operation Sovereign Borders.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23165</transcript-id><title>Press Conference, Sydney</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/12/2013</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>The First 100 Days of Government, Qantas, Holden, school funding, Australia-Indonesia relations, Operation Sovereign Borders.</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks everyone for giving up some of your Sunday afternoon to be here.</p>
 <p>One hundred days ago tomorrow, the government changed. At the election, the people voted for a change of government. They voted for a new government with a plan – a plan to create a strong and prosperous economy, for a safe and secure Australia, and since that time we have been carefully, methodically and purposefully implementing our commitments.</p>
 <p>I’m very satisfied that what we’ve demonstrated over the last hundred days is a Government which is competent and trustworthy.</p>
@@ -114,6 +104,4 @@
 <p>So, this is a period of monumental economic incompetence under the Labor Party. It’s absolute proof that you can’t trust the Labor Party with money. But having laid out the full extent of Labor’s disaster, the repair job begins. The repair job begins and the Australian people can trust us to do the right thing by taxpayers, to treat taxpayers dollars with respect and to build the strong and prosperous economy that the Australian people need and deserve.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

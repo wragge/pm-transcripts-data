@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41446</transcript-id>
-    <title>Council of Australian Governments Press Conference</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/02/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>JOURNALIST:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41446</transcript-id><title>Council of Australian Governments Press Conference</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/02/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>JOURNALIST:</strong></p>
 <p>A question for Mr McGowan, you’re the only Labor leader so far who has signed up to the health deal, was that decision in any way driven by knowledge that you may be getting some more GST soon?</p>
 <p><strong>PREMIER OF WESTERN AUSTRALIA:</strong></p>
 <p>Well I wish that was the case.</p>
@@ -104,7 +94,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Who is that addressed to?</p>
 <p><strong>JOURNALIST:</strong></p>
-<p>To Andrew Barr and any of the other premiers, given that they hold the floor and-  </p>
+<p>To Andrew Barr and any of the other premiers, given that they hold the floor and- &nbsp;</p>
 <p><strong>CHIEF MINISTER OF THE AUSTRALIAN CAPITAL TERRITORY:</strong></p>
 <p>The short answer would be no, so the status quo will prevail in my view.</p>
 <p><strong>JOURNALIST:</strong></p>
@@ -170,6 +160,4 @@
 <p>The health reform priorities that Daniel Andrews touched on are all set out in the heads of agreement. Of course, the purpose now, is for health ministers to go away and flesh that out into a full-blown new national health reform agreement.</p>
 <p>Okay, thank you all very much.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

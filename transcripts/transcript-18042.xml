@@ -1,30 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18042</transcript-id>
-    <title>National health reform finalised</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18042</transcript-id><title>National health reform finalised</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Government today signed off on the final details of national health reforms with all States and Territories to secure the future of health in Australia.</p>
 <p>This historic agreement will deliver the funding public hospitals need, with unprecedented levels of transparency and accountability, less waste and significantly less waiting for patients.</p>
 <p>The reforms, agreed to by COAG in February and finalised today, will see the Australian Government invest an extra $19.8 billion in public hospitals through to 2019-20, rising to a total extra $175 billion to 2029-30.</p>
 <p>This extra Commonwealth funding will mean our hospitals will be able to take on millions of extra services that would never have been possible under the old arrangements including:</p>
-<p> * 	2.9 million extra cases in our emergency departments<br />
- * 	2 million additional in-patient services, such as major surgery or treatment for severe conditions such as kidney failure or a heart attack<br />
+<p> * 	2.9 million extra cases in our emergency departments<br>
+ * 	2 million additional in-patient services, such as major surgery or treatment for severe conditions such as kidney failure or a heart attack<br>
  * 	19 million more outpatient consultations, such as minor surgery or physiotherapy.</p>
 <p>Over the last decade the Commonwealth's share of public hospital funding has been in sustained decline, and States and Territories have had to enter negotiations over health funding with the Commonwealth every five years.</p>
 <p>Today's agreement permanently puts an end to the uncertainty of public hospital funding.  It is money the States  -  and Australian patients - can depend on.</p>
 <p>Specifically, the agreement will deliver:</p>
-<p> * 	Faster access to emergency department and elective surgery procedures, through the establishment of:<br />
-		 * 			A 4-hour target for emergency waiting times, with the aim that 90 per cent of patients across all triage categories are seen within four hours.<br />
+<p> * 	Faster access to emergency department and elective surgery procedures, through the establishment of:<br>
+		 * 			A 4-hour target for emergency waiting times, with the aim that 90 per cent of patients across all triage categories are seen within four hours.<br>
 		 * 			A 100 per cent elective surgery target, aimed at ensuring all patients waiting for elective surgery are treated within clinically recommended times.</p>
-<p> * 	Less waste with hospitals funded for what they actually deliver.<br />
- * 	Greater local control of hospitals.<br />
+<p> * 	Less waste with hospitals funded for what they actually deliver.<br>
+ * 	Greater local control of hospitals.<br>
  * 	Unprecedented new levels of public reporting on health services and expenditure for every hospital in Australia.</p>
 <p>The Australian Government will step up to permanently pay for 45 per cent of growth in hospital services in 2014-15, increasing to 50 per cent in 2017-18.</p>
 <p>This means the Commonwealth and States and Territories will share future funding growth for hospitals in an equal partnership.</p>
@@ -51,6 +41,4 @@ The Gillard Government today signed off on the final details of national health 
 <p>Reforms to aged care will see the Commonwealth becoming directly responsible for funding basic community care in most States and Territories for people aged 65 and over, in addition to its existing responsibility for community aged care packages and residential aged care. </p>
 <p>This will enable simplified access to a wider range of care for older people. The reforms also ensure clearer lines of accountability for care of younger people with disabilities and older people requiring care.</p>
 <p>More information on this announcement is available at <a href="http://www.yourhealth.gov.au">www.yourhealth.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

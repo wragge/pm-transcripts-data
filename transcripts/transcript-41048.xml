@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41048</transcript-id>
-    <title>Doorstop - Hamburg, Germany</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>08/07/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>G20, Counter-Terrorism, Encryption, Marawi, North Korea</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41048</transcript-id><title>Doorstop - Hamburg, Germany</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>08/07/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>G20, Counter-Terrorism, Encryption, Marawi, North Korea</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good afternoon.</p>
 <p>As you know this morning’s session was focused on counter-terrorism.</p>
 <p>We had a very good, constructive discussion and I am confident that the communique will reflect the determination of the leaders of the G20 to send a very strong message to Silicon Valley and its emulators around the world that these wonderful applications and technologies that have been developed across the internet not be used as a means to enable terrorists and other criminals who seek to do us harm to hide in the dark in places where those of us leaders who have an obligation to keep our citizens safe cannot reach them. We cannot allow the internet to continue to be used as a means for promoting and concealing terrorism and criminalities.</p>
@@ -101,6 +91,4 @@
 <p>Again, you’d have to address that to the Chinese leadership but it is very clear that the escalation is becoming increasingly dangerous and that China has the unique ability to take action. Now of course there needs to be global cooperation. Sanctions should be imposed globally, as they are - they need to be complied with, they need to be strengthened. But the greatest leverage is with China and with the greatest leverage goes the greatest responsibility.</p>
 <p>Now I must get back to the conference. Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

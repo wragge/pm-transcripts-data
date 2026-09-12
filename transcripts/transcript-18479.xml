@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18479</transcript-id>
-    <title>The Honourable Lionel Frost Bowen AC</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/04/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18479</transcript-id><title>The Honourable Lionel Frost Bowen AC</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/04/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister today paid tribute to the late Lionel Bowen, whose long and remarkable life came to an end in Sydney this morning at the age of 89.</p>
 <p>Mr Bowen was a legend of Australian politics, who served with distinction in public life for 42 years across all three levels of government.</p>
 <p>Lionel Bowen was a good Labor man, who was passionate for the cause of social justice, and who was renowned for his integrity, honesty and fairness.</p>
@@ -20,6 +10,4 @@ The Prime Minister today paid tribute to the late Lionel Bowen, whose long and r
 <p>Most important was Mr Bowen's role as Deputy Prime Minister alongside Bob Hawke, which he held from 1983 until his retirement in 1990. His loyalty, steadfastness and wise counsel were among the key ingredients for the success and stability of the Hawke era.</p>
 <p>The Australian community has lost an outstanding leader, and the Labor Party has lost one of its finest sons.</p>
 <p>On behalf of the nation, I extend my sincerest condolences to Mr Bowen's widow Claire, their eight children and his extended family. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

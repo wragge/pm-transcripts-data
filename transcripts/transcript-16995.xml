@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16995</transcript-id>
-    <title>Prime Minister Transcript of doorstop interview Melbourne 18 January 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>18/01/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Before I say a few words about the book that we launched today, I've some sad news to report. We have today received confirmation from the British authorities on the ground in Haiti that a British Australian dual national has been killed in the terrible events that have occurred there. This is another sobering reminder of the vast human toll of the horrific events that we've seen in Haiti.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16995</transcript-id><title>Prime Minister Transcript of doorstop interview Melbourne 18 January 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>18/01/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Before I say a few words about the book that we launched today, I've some sad news to report. We have today received confirmation from the British authorities on the ground in Haiti that a British Australian dual national has been killed in the terrible events that have occurred there. This is another sobering reminder of the vast human toll of the horrific events that we've seen in Haiti.</p>
 <p>The man was working for the United Nations and was a resident of the United Kingdom. The Department of Foreign Affairs has spoken to the man's next of kin, who are in the United Kingdom, to pass on our condolences.</p>
 <p>British authorities are providing consular assistance to the man's family in the UK, and of course, Australian authorities are standing by to provide any other assistance which may be necessary.</p>
 <p>This is obviously a very, very sad day for this man's family, his loved ones, and his friends, and I'm sure I speak on behalf of all Australians when I say that our thoughts and our prayers go out to his family and his loved ones on this tragic occasion.</p>
@@ -77,6 +67,4 @@
 <p>If I could draw on the analogy of our contribution to the tsunami in Indonesia and elsewhere, a huge part of the challenge lay in standing shoulder to shoulder with our Indonesian friends over weeks, months and years to rebuild communities and that is where I'm sure Australia will have a further role to play.</p>
 <p>Australians are a generous people. This Government will respond to any further requests from the international aid organisations as appropriate in dealing with what is an appalling human tragedy.</p>
 <p>Having said that, folks, I really should zip. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

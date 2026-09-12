@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16276</transcript-id>
-    <title>Joint Media Release with Minister for Health - Keeping people well and taking pressure off our Hospitals   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/11/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $872 million over six years in preventative health, to help keep people well and take pressure off hospitals. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16276</transcript-id><title>Joint Media Release with Minister for Health - Keeping people well and taking pressure off our Hospitals   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/11/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $872 million over six years in preventative health, to help keep people well and take pressure off hospitals. </p>
 <p>This is the single largest investment in preventative health ever made by an Australian Government and supports an historic new emphasis on early intervention and tackling disease sooner.</p>
 <p>Preventable chronic diseases like cardiovascular disease, type 2 diabetes and cancer are major drivers of the growing burden of disease. With around 670,000 preventable hospital admissions every year, tackling chronic disease will help take pressure off our hospitals too.</p>
 <p>Importantly, a proportion of the funding will be reserved for reward payments, which will go to States and Territories which meet agreed targets.</p>
@@ -27,6 +17,4 @@
 <p>     * The extension of the Australian Better Health Initiative ‘Measure Up' campaign to promote healthy weight, and expanding the National Nutrition and Physical Activity Survey</p>
 <p>     * Establishing a National Preventative Health Agency.</p>
 <p>This package will help keep people healthy, tackle the growing burden of chronic disease, take pressure off public hospitals, and help equip the health system to meet the challenges of the future.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

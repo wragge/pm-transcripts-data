@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11894</transcript-id>
-    <title>Doorstop Interview, Tokyo</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Industrial action; Mitsubishi; meeting with PM Koizumi</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11894</transcript-id><title>Doorstop Interview, Tokyo</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Industrial action; Mitsubishi; meeting with PM Koizumi</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard what has the industrial action in Australia done to your visit to Japan?</p>
@@ -23,6 +13,4 @@
 <p>Do you have anything else to put on the table for Mitsubishi?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh look, I'm not going to talk about things on the table. We'll see what the company's got to say tomorrow. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

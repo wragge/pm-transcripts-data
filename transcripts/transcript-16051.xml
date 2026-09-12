@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16051</transcript-id>
-    <title>Australian Flag raised at Olympic Village Beijing, China   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/08/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Minister for Sport attended a flag raising ceremony at the Olympic Village in Beijing today, officially marking the arrival of the Australian Olympic team.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16051</transcript-id><title>Australian Flag raised at Olympic Village Beijing, China   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/08/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Minister for Sport attended a flag raising ceremony at the Olympic Village in Beijing today, officially marking the arrival of the Australian Olympic team.</p>
 <p>A total of 433 athletes will represent Australia at the 29th Olympiad, supported by more than 300 Australian coaches, officials and staff.</p>
 <p>Speaking with athletes at the ceremony, Prime Minister Kevin Rudd wished the team well for the start of competition on Saturday.</p>
 <p>“All Australians are immensely proud of you. Know that their thoughts and best wishes go with as you compete against the world's finest athletes over the coming weeks,” Mr Rudd said.</p>
@@ -18,6 +8,4 @@
 <p>“With the raising of the Australian flag, our athletes have symbolically turned a little piece of Beijing into Australia and signalled our arrival at the Games to the rest of the world.”</p>
 <p>The Prime Minister and the Minister for Sport will attend an Australian team reception this evening, which will include the naming of the Australian flag bearer to lead the team into the Olympic stadium for the opening ceremony.</p>
 <p>Past Australian Olympic flag bearers include Colin Beashel (Sailing  -  Athens 2004), Andrew Gaze (Basketball  -  Sydney 2000), and Andrew Hoy (Equestrian  -  Atlanta 1996).</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

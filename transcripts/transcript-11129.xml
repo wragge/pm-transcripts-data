@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11129</transcript-id>
-    <title>Interview with Mike Munro, A Current Affair, Channel Nine</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/08/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Reconciliation, republic</subjects>
-    <content><![CDATA[<p>26 August 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11129</transcript-id><title>Interview with Mike Munro, A Current Affair, Channel Nine</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/08/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Reconciliation, republic</subjects><content><![CDATA[<p>26 August 1999</p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>MUNRO:</b></p>
 <p>When his Government was re-elected last October John Howard promised to work towards reconciliation with Australian aborigines in time for the Centenary of Federation. Well, tonight the PM says he’s taken a major step towards achieving that goal. Two years after the so-called stolen generations report both Houses of Federal Parliament have passed a motion expressing deep and sincere regret to indigenous Australians for the hurt and trauma they suffered in the past. And it was John Howard who had the last say in choosing those words.</p>
@@ -61,6 +51,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

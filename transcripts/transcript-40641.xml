@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40641</transcript-id>
-    <title>Disaster assistance for storm affected Tasmania</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>04/12/2016</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Malcolm Turnbull and Tasmanian Premier Will Hodgman today announced up to $6.84 million in disaster funding to help restore the State’s world-renowned parks and reserves that were affected by storms and floods through June.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40641</transcript-id><title>Disaster assistance for storm affected Tasmania</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>04/12/2016</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Malcolm Turnbull and Tasmanian Premier Will Hodgman today announced up to $6.84 million in disaster funding to help restore the State’s world-renowned parks and reserves that were affected by storms and floods through June.</p>
 <p>This assistance will be provided through the Commonwealth-State Natural Disaster Relief and Recovery Arrangements (NDRRA).</p>
 <p>The severe weather earlier this year had a significant impact on Tasmania, particularly affecting its national parks and reserves and the State’s vital tourism industry.</p>
 <p>The additional disaster assistance will help restore of national parks and reserves, provide access to the Tasmanian Wilderness World Heritage Area, as well as stabilising the Beaconsfield Hart Shaft.</p>
@@ -17,16 +7,18 @@
 <p>Stabilising the Beaconsfield Hart Shaft will allow the Beaconsfield Mine and Heritage Centre to reopen, and repairing flood damage around the Tasmanian Wilderness World Heritage Area will restore visitor access to the State’s iconic natural tourism attractions.</p>
 <p>Work on restoring our national parks and reserves will include repairing flood damage and cleaning up recreational facilities such as picnic areas, walking tracks and community amenities.</p>
 <p>These measures build on the assistance already provided which includes:</p>
-<ul><li>Personal hardship and distress assistance to eligible people whose homes or belongings have been damaged</li>
+<ul>
+<li>Personal hardship and distress assistance to eligible people whose homes or belongings have been damaged</li>
 <li>Support for affected local councils to help with the costs of cleaning up and restoring damaged essential public assets</li>
 <li>Grants of up to $10,000 for primary producers to assist with clean-up and restoration activities including removing debris, disposing of dead livestock, salvaging crops, grain and feed, and repairing damaged plant and equipment.
-<ul><li>These grants are only available to eligible primary producers in the eight LGAs of Break O’Day, Central Coast, Central Highlands, Kentish, Latrobe, Meander Valley, Northern Midlands and Waratah-Wynyard.</li>
-</ul></li>
+<ul>
+<li>These grants are only available to eligible primary producers in the eight LGAs of Break O’Day, Central Coast, Central Highlands, Kentish, Latrobe, Meander Valley, Northern Midlands and Waratah-Wynyard.</li>
+</ul>
+</li>
 <li>Freight subsidies of up to $15,000 per annum for primary producers</li>
 <li>Concessional interest rate loans of up to $200,000 for small businesses, primary producers and not-for-profit organisations, and</li>
 <li>Grants to not-for-profit organisations.</li>
-</ul><p>The Australian Government Disaster Recovery Allowance has also been activated to provide income assistance to eligible employees, small businesses and primary producers. To make a claim, visit the Department of Human Services website </p>
+</ul>
+<p>The Australian Government Disaster Recovery Allowance has also been activated to provide income assistance to eligible employees, small businesses and primary producers. To make a claim, visit the Department of Human Services website&nbsp;</p>
 <p>Further information on disaster assistance is available at DisasterAssist website and TasALERT website</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

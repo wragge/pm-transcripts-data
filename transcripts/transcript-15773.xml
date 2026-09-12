@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15773</transcript-id>
-    <title>Australia to bid for the 2018 FIFA World Cup    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/02/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced it will formally support a Football Federation of Australia bid to have Australia host the 2018 FIFA World Cup.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15773</transcript-id><title>Australia to bid for the 2018 FIFA World Cup    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/02/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced it will formally support a Football Federation of Australia bid to have Australia host the 2018 FIFA World Cup.</p>
 <p>The Football Federation of Australia (FFA) will lodge a formal national bid for the 2018 FIFA World Cup.</p>
 <p>Winning the right to host the 2018 FIFA World Cup is a Herculean task, but overcoming tough odds is what Australian Football does best.</p>
 <p>For an Australian World Cup bid to be successful the FFA will need the full and united support of the Commonwealth and State and Territory Governments.</p>
@@ -22,6 +12,4 @@
 <p>Venues such as the MCG and Telstra Dome in Melbourne, ANZ Stadium and Sydney Football Stadium in Sydney, Suncorp Stadium in Brisbane and the recently announced new stadium for Perth could host matches.</p>
 <p>Soccer in Australia has 450,000 registered participants and has never been more popular. A bid to host the 2018 World Cup is a natural follow on from the brilliant performance of the Socceroos at the 2006 World Cup and the success of the A League.</p>
 <p>FIFA's 2008 member associations each get one vote in determining the successful bid. The cost of the bid would be shared between the Australian Government, State and territory Government's and the FFA.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15718</transcript-id>
-    <title>Sir Edmund Hillary    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/01/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is with great sadness that I pass on my condolences to the family and friends of Sir Edmund Hillary.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15718</transcript-id><title>Sir Edmund Hillary    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/01/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is with great sadness that I pass on my condolences to the family and friends of Sir Edmund Hillary.</p>
 <p>The thoughts of many Australians are today with this great hero of our times.</p>
 <p>The very name, Edmund Hillary, has become synonymous with daring and achievement. He was a man with a big dream and he made that dream come true.</p>
 <p>He was one of New Zealand's giants and someone of whom they were so rightly proud.</p>
@@ -19,6 +9,4 @@
 <p>January 11, 2008 </p>
 <p>Melbourne</p>
 <p>Acting Prime Minister</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

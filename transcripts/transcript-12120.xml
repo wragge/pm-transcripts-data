@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12120</transcript-id>
-    <title>Interview with Jon Faine, Radio 3LO, Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>9 October 2001</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12120</transcript-id><title>Interview with Jon Faine, Radio 3LO, Melbourne </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>9 October 2001</strong></p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>FAINE:</p>
 <p>The Prime Minister John Howard joins me on the election trail, good morning to you Mr Howard.</p>
@@ -44,7 +34,7 @@
 <p>PRIME MINISTER:</p>
 <p>Well I don’t accept that, if it were just a political gesture there would not have been over the past two or three weeks detailed discussions in Washington, at the Pentagon, involving the Chief of the Australian Defence Force and the leadership of the American Military if it had just been a political gesture. They wouldn’t have wasted their time at a difficult period such as this talking to our people. So it is not just a political gesture, certainly the public statement of support for the American position is important but it has gone a step further than that and that has been acknowledged by President Bush when he made his statement yesterday. He acknowledged the contribution of the British and the commitment made by Canada, Australia, France and Germany.</p>
 <p>FAINE:</p>
-<p>Twenty three minutes to nine, Prime Minister, Mr Beazley says that in caretaker mode, which you now are you are obligated to consult him before committing Australian troops.<br />Will you do so?</p>
+<p>Twenty three minutes to nine, Prime Minister, Mr Beazley says that in caretaker mode, which you now are you are obligated to consult him before committing Australian troops.<br>Will you do so?</p>
 <p>PRIME MINISTER:</p>
 <p>I will talk to him before any deployment, yes, I have said that. I would have done that even if we weren’t in a caretaker mode.</p>
 <p>FAINE:</p>
@@ -85,7 +75,7 @@
 <p>Well whether it is boat after boat with hundreds…</p>
 <p>FAINE:</p>
 <p>Well 187 here, and a couple of hundred the other day</p>
-<p>PRIME MINISTER:   </p>
+<p>PRIME MINISTER:&nbsp;&nbsp;&nbsp;</p>
 <p>Well it is something you have to judge over a period of time.</p>
 <p>FAINE:</p>
 <p>Where are they going to go?</p>
@@ -210,6 +200,4 @@
 <p>FAINE:</p>
 <p>And good luck, the Prime Minister of Australia, John Howard</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

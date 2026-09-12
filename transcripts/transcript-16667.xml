@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16667</transcript-id>
-    <title>Australian of the Year Awards    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/07/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Kevin Rudd, Prime Minister of Australia:This is a genuine Australian of the Year; I'm not [Laughter].</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16667</transcript-id><title>Australian of the Year Awards    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/07/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Kevin Rudd, Prime Minister of Australia:This is a genuine Australian of the Year; I'm not [Laughter].</p>
 <p>Catherine Freeman OAM:This is a genuine Australian PM; I'm not [Laughter].</p>
 <p>Kevin Rudd, Prime Minister of Australia: But, the bottom line is, Cathy's come here today to Darwin to promote nominations for Australian of the Year and she's given me the first nomination or given Adam Gilchrist, who's Chairman of the Australia Day Council, the first nomination and we want tens-of-thousands more.</p>
 <p>Catherine Freeman OAM: Yes, please. Please come out and support your fellow Australians.</p>
@@ -17,6 +7,4 @@
 <p>Catherine Freeman OAM: Thank you.</p>
 <p>Kevin Rudd, Prime Minister of Australia:You silly girl [Laughter]</p>
 <p>Catherine Freeman OAM:[Laughter] I know! [Laughter]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

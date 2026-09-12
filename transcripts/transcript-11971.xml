@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11971</transcript-id>
-    <title>Doorstop Interview, Parliament House Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: opinion polls; CHOGM; military assistance for United States; science in Australia; Ansett; conscription.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11971</transcript-id><title>Doorstop Interview, Parliament House Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: opinion polls; CHOGM; military assistance for United States; science in Australia; Ansett; conscription.</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>What did you think of the polls today Prime Minister?</p>
@@ -44,6 +34,4 @@
 <p>PRIME MINISTER:</p>
 <p>Yes.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

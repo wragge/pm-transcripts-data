@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16354</transcript-id>
-    <title>$5.6 Million for New Initiatives in Cancer Research    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>20/01/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today announced $5.6 million in funding for new research and clinical trial initiatives to reduce the impact of cancer on all Australians. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16354</transcript-id><title>$5.6 Million for New Initiatives in Cancer Research    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>20/01/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today announced $5.6 million in funding for new research and clinical trial initiatives to reduce the impact of cancer on all Australians. </p>
 <p>In South Australia, the Institute of Medical and Veterinary Science (IMVS) will receive $3.7 million in National Health and Medical Research Council Program Grant funding for its work on better treatment for blood cell cancers such as leukaemia, and inflammatory diseases.</p>
 <p>Professor Angel Lopez, head of the human immunology research team at IMVS and co-head of the newly-formed SA Centre for Cancer Biology, will lead the research, which focuses on a group of protein hormones and their receptors which are implicated in blood cell cancers such as leukaemia and inflammatory diseases for which current treatments are inadequate.</p>
 <p>Prof Lopez's research will help Australia develop new drugs which are more specific to cancers such as leukaemia, and have fewer side effects.</p>
@@ -28,6 +18,4 @@
 <p>• $15 million over three years for better support for people living with cancer  -  through new youth cancer networks;</p>
 <p>• $12 million through the McGrath Foundation for breast care nurses in 44 locations;</p>
 <p>The Rudd Government is confident that its coordinated effort, working in cooperation with the States and Territories, researchers, funders of cancer research, universities, policy makers and people affected by cancer will provide lasting benefits for all Australians.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

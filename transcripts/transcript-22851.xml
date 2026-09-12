@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22851</transcript-id>
-    <title>Interview with David Frost BBC Studio, London </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/07/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects:  Wimbledon; Centenary of federation; World Cup soccer; Olympics; Republican debate; Australia’s role in the Pacific</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22851</transcript-id><title>Interview with David Frost BBC Studio, London </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/07/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects:  Wimbledon; Centenary of federation; World Cup soccer; Olympics; Republican debate; Australia’s role in the Pacific</p>
 <p>E&amp;OE  …………………………………………………………………………………</p>
 <p>FROST:</p>
 <p>Australia has come a long way in a hundred years.  Now the country’s about to host the Olympics, it has a major peace-keeping role in the South Pacific and is a significant economic power.  The Prime Minister, John Howard, chose to come to the old country to celebrate a century of self government for the former colony.  He is here with us right now.  John, good morning.</p>
@@ -80,6 +70,4 @@
 <p>PRIME MINISTER:                       </p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

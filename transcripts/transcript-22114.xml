@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22114</transcript-id>
-    <title>Interview with Tony Eastley AM Programme, ABC Radio </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>30/01/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22114</transcript-id><title>Interview with Tony Eastley AM Programme, ABC Radio </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>30/01/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Well the Prime Minister joins us now. Prime Minister good morning and welcome to AM</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Tony.</p>
@@ -58,6 +48,4 @@
 <p> PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[End]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

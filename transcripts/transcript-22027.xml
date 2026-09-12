@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22027</transcript-id>
-    <title>Ipswich Motorway Funding Boosted To More Than $550 Million  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/11/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to announce that the Australian Government will allocate $320 million under AusLink, over the next three-and-a-half years, to upgrade the section of the Ipswich Motorway east of Goodna to six lanes.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22027</transcript-id><title>Ipswich Motorway Funding Boosted To More Than $550 Million  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/11/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to announce that the Australian Government will allocate $320 million under AusLink, over the next three-and-a-half years, to upgrade the section of the Ipswich Motorway east of Goodna to six lanes.</p>
 <p>The widening to six lanes of the Wacol to Darra section of the motorway will include the construction of new interchanges at Progress Road and the Centenary Highway.</p>
 <p>The Australian Government is committed to planning for a Northern Option corridor, the Goodna bypass, between Dinmore and Gailes.  Three options are considered potentially feasible by engineering consultants Maunsells Australia Pty Ltd.</p>
 <p>The Australian Government is therefore allocating an additional $10 million to undertake studies to further explore these three options for the Goodna bypass.  These studies will include route selection, geo-technical investigations and environmental assessments.  Details of the route options are attached.</p>
@@ -21,6 +11,4 @@
 <p>   From the Warrego Highway-Cunningham Highway junction, passing through Riverview 700 metres north of the existing motorway, skirting the Redbank railway workshops and pass across two bridges over the Brisbane River, rejoining the motorway at the Logan Motorway Interchange;</p>
 <p> From the Warrego Highway-Cunningham Highway junction, passing over the Brisbane River from Moggill to Redbank, skirting the railway workshops before being carried on another two bridges to Priors Pocket and Wacol, rejoining the motorway at the Logan Motorway Interchange; and</p>
 <p> From the Warrego Highway-Cunningham Highway junction, following the existing motorway and skirting the Brisbane River using viaducts in the vicinity of the railway workshops and then on two bridges to Priors Pocket and then rejoining the motorway at the Logan Motorway Interchange.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

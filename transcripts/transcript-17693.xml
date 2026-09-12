@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17693</transcript-id>
-    <title>Transcript of interview with David Frost</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>21/02/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17693</transcript-id><title>Transcript of interview with David Frost</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>21/02/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 FROST: Prime Minister I've often said to people who recently attained power and so on, whether attaining power was, whether it was different to what they'd expected and in your case you've been Deputy Prime Minister and so on, but in fact it's different in your case because you've been confronted with such a major situation, first of all with Queensland. I mean how soon did you realise how serious that was?</p>
 <p>PM: The realisation, unfortunately, came quite quickly. We've had just a dreadful series of weeks, with the dimensions of the flooding crisis in Queensland and now, of course, with the cyclone also causing damage in Queensland and more water pouring from the sky. So as we moved through the December period into the period just after Christmas is became clearer and clearer that this was going to be a big crisis and it is the most costly natural disaster we've ever faced as a nation.</p>
 <p>We have seen some loss of Australian lives. We've seen more Australian lives lost in other tragedies, for example the Victorian bushfires, but just in terms of the sheer scale of it, the amount of the country that has had to battle floodwaters, it's been some very testing days and they continue.</p>
@@ -70,6 +60,4 @@ FROST: Prime Minister I've often said to people who recently attained power and 
 <p>PM: Now you're just being naughty. We'll get you back.</p>
 <p>FROST: Fair enough. We'll look forward. Thank you so much.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

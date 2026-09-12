@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16715</transcript-id>
-    <title>Prime Minister Kevin Rudd wraps up his climate change blog    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/07/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd: Thank you to everyone who took the time to participate in my blog on climate change. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16715</transcript-id><title>Prime Minister Kevin Rudd wraps up his climate change blog    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/07/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd: Thank you to everyone who took the time to participate in my blog on climate change. </p>
 <p>I am delighted with the response and enjoyed watching the debate unfold.</p>
 <p>The responses have included some valuable and useful ideas, ranging from food production concepts, water management, renewable energy, education requirements, jobs, skilling, economic impacts and incentives.</p>
 <p>While some on this blog have raised their doubts about the science of climate change, that is not the view of this Government  -  we accept the science.</p>
@@ -27,6 +17,4 @@
 <p>This website will be the entry point for Australians to find out what they can do to reduce their individual impact on the environment and help them find out what Government programs are available to assist them  -  such as the free Home Sustainability Assessments.</p>
 <p>I hope this website will provide Australians with the information and tools necessary to take action.</p>
 <p>Once again, thank you to all of you who took the time to share your views on this incredibly important issue.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

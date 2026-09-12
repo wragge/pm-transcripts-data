@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17131</transcript-id>
-    <title>Prime Minister Minister for Health Training a record number of doctors 15 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>15/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will invest $632 million to train a record number of doctors - to tackle doctor shortages, expand capacity and deliver better health and better hospitals.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17131</transcript-id><title>Prime Minister Minister for Health Training a record number of doctors 15 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>15/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will invest $632 million to train a record number of doctors - to tackle doctor shortages, expand capacity and deliver better health and better hospitals.</p>
 <p>In total, the Rudd Government's investments will deliver an additional 5,500 new or training General Practitioners, 680 medical specialists, and 5400 pre-vocational general practice program (PGPPP) training places over the next ten years.</p>
 <p>Due to an historic lack of investment, we inherited a situation where workforce shortages are impacting on 59 per cent of all Australians.</p>
 <p>To address this, the Rudd Government is:</p>
@@ -26,6 +16,4 @@
 <p>The Government has already delivered more than $55 billion worth of saves across the budget, including in the health portfolio, to make room for important national reforms.</p>
 <p>The Government will continue to make the tough decisions necessary to deliver additional investments in a new National Health and Hospital Network, and will report on these decisions in the Budget, consistent with Budget practice.</p>
 <p>The Government will make further announcements about investments in the Australian health workforce over the coming weeks. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

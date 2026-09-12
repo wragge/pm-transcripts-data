@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10826</transcript-id>
-    <title>TAXATION REFORM AND COMMONWEALTH-STATE FINANCIAL RELATIONS</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/11/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that today's Special Premiers'</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10826</transcript-id><title>TAXATION REFORM AND COMMONWEALTH-STATE FINANCIAL RELATIONS</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/11/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that today's Special Premiers'</p>
 <p> Conference has endorsed a set of principles that will transform Commonwealth-State</p>
 <p> financial relations as promised in the Howard Government's Tax</p>
 <p> Reform: not a new tax, a new tax system.</p>
@@ -25,6 +15,4 @@
 <p> Conference.</p>
 <p> Canberra</p>
 <p>13 November 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

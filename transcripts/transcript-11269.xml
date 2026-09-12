@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11269</transcript-id>
-    <title>DEATH OF TOFILAU DR ETI ALESANA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>22/03/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I have sent the following message of condolence to the Prime Minister</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11269</transcript-id><title>DEATH OF TOFILAU DR ETI ALESANA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>22/03/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I have sent the following message of condolence to the Prime Minister</p>
 <p> of Samoa on the death of the Hon Tofilau De Eti Alesana, the former</p>
 <p> Prime Minister.</p>
 <p>The Foreign Minister, Mr Downer, will represent Australia at the funeral</p>
@@ -33,6 +23,4 @@
 <p>Yours sincerely</p>
 <p> John Howard"</p>
 <p> 21 March 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

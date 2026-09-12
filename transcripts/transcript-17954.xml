@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17954</transcript-id>
-    <title>Speech to launch the 2012 Australian of the Year Awards, Canberra </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/07/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17954</transcript-id><title>Speech to launch the 2012 Australian of the Year Awards, Canberra </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/07/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I thank Agnes Shea for the Welcome to Country and pay my respects to the traditional owners of this land on which we gather.</p>
 <p>In making that acknowledgment, I honour the dignity and resilience of all Indigenous Australians.</p>
 <p>And I recall with pride today the fact that eight recipients of the Australian of the Year Award have been Indigenous, including the late Lionel Rose whose loss we mourned in May.</p>
@@ -49,8 +39,8 @@ I thank Agnes Shea for the Welcome to Country and pay my respects to the traditi
 <p>All Australians have a chance to have their say by nominating someone who they think reflects the qualities that we admire.</p>
 <p>I encourage all Australians to take advantage of this opportunity to share the stories of people that they know,or know of, by nominating them for the Awards.</p>
 <p>The criteria are very simple:</p>
-<p> * 	Demonstrated excellence in their field<br />
- * 	Contribution to the Australian community and the nation<br />
+<p> * 	Demonstrated excellence in their field<br>
+ * 	Contribution to the Australian community and the nation<br>
  * 	An inspirational role model for the community</p>
 <p>Sometimes that brings forward obvious and outstanding names like Mark Taylor or Peter Cosgrove.</p>
 <p>Sometimes those whose brilliance doesn't always occupy the headlines like Gus Nossal or John Yu.</p>
@@ -70,6 +60,4 @@ I thank Agnes Shea for the Welcome to Country and pay my respects to the traditi
 <p>If there's someone you look up to or admire, put their name forward.</p>
 <p>You never know where it might lead.</p>
 <p>It is now my pleasure to declare nominations for the 2012 Australian of the Year Awards officially open. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

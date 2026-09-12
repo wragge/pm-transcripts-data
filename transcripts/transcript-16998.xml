@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16998</transcript-id>
-    <title>Prime Minister Transcript of joint doorstop interview Hobart 19 January 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/01/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: First of all, happy birthday David. 42 years young today and I found out about this about four minutes before I landed.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16998</transcript-id><title>Prime Minister Transcript of joint doorstop interview Hobart 19 January 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/01/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: First of all, happy birthday David. 42 years young today and I found out about this about four minutes before I landed.</p>
 <p>PREMIER BARTLETT: I thought that's why you were here.</p>
 <p>PM: No, I don't wish to tell a lie, so, anyway, happy birthday mate and many happy returns today. He tells me he got breakfast in bed from the kids.</p>
 <p>BARTLETT: That's right.</p>
@@ -80,6 +70,4 @@
 <p>The alternative is one) no policy, 2) plucking numbers out of space. I mean, the Opposition was challenged recently about their claims on certain numbers about the impact on price. They went running for cover because they have no independent modelling of their own.</p>
 <p>Thanks folks, better run.</p>
 <p>(ENDS)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15729</transcript-id>
-    <title>Heath Ledger    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/01/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It was with great sadness that I have learned of the passing of Heath Ledger.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15729</transcript-id><title>Heath Ledger    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/01/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It was with great sadness that I have learned of the passing of Heath Ledger.</p>
 <p>It is tragic that we have lost one of our nation's finest actors in the prime of his life.</p>
 <p>Heath Ledger's diverse and challenging roles will be remembered as some of the great performances by an Australian actor.</p>
 <p>Our thoughts are with Heath's family and close friends, especially his two-year old daughter Matilda.</p>
 <p>Canberra</p>
 <p>Media contact: 02 6277 7744 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

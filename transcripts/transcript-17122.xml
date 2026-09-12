@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17122</transcript-id>
-    <title>Prime Minister Transcript of joint press conference with President Yudhoyono Parliament House, Canberra 10 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>10/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: Today Australia and Indonesia took our strong relationship to a new level with annual meetings between leaders, foreign ministers and defence ministers, closer cooperation on people-smuggling and terrorism and closer economic and trade ties.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17122</transcript-id><title>Prime Minister Transcript of joint press conference with President Yudhoyono Parliament House, Canberra 10 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>10/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: Today Australia and Indonesia took our strong relationship to a new level with annual meetings between leaders, foreign ministers and defence ministers, closer cooperation on people-smuggling and terrorism and closer economic and trade ties.</p>
 <p>I would like to welcome the President of Indonesia to Australia, welcome him to Canberra, welcome him to Parliament House.</p>
 <p>We have in President Yudhoyono a great leader of his country, also a great friend of Australia.</p>
 <p>Australia's relationship with Indonesia forms a vital part of Australia's international engagement. Indonesia is our close neighbour. It is a country of 231 million people. It is the most populous Muslim country in the world. It is the world's third largest democracy. It is a key player in our region and a driving force behind ASEAN.</p>
@@ -84,6 +74,4 @@
 <p>On the details, though, that you may have in mind in terms of any particular cases, I suggest you address those questions to our respective foreign ministers.</p>
 <p>Ladies and gentlemen, thank you very much for attending this press conference. I conclude where I began by saying to the President off Indonesia and to all of our friends visiting from Indonesian that you are truly welcome guests here in Australia.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

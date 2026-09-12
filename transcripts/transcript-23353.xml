@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23353</transcript-id>
-    <title>Government expands remote school attendance strategy</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>22/03/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Government will boost funding for the Remote School Attendance Strategy by $18 million to help ensure every child attends school every day.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23353</transcript-id><title>Government expands remote school attendance strategy</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>22/03/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Government will boost funding for the Remote School Attendance Strategy by $18 million to help ensure every child attends school every day.</p>
 <p>The strategy aims to break the cycle of non-attendance and ensure parents and carers take responsibility for educating their children.</p>
 <p>Because it’s hard to be literate and numerate without attending school; it’s hard to find work without a basic education; and it’s hard to live well without a job.</p>
 <p>Forty remote communities already benefit from School Attendance Officers on the ground working with parents and communities to improve school attendance rates.</p>
@@ -24,6 +14,4 @@
 <p>The parliament will be brought up-to-date on the relative success or failure of Aboriginal education because a good education is fundamental to a good start in life.</p>
 <p>We will know that Aboriginal people are living better when children go to school, adults go to work and the ordinary law of the land is respected and enforced.</p>
 <p>22 March 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

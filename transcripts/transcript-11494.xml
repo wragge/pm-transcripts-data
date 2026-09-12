@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11494</transcript-id>
-    <title>Radio Interview with Jon Faine, Radio 3LO</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/06/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Backpacker hostel fire in Queensland; GST; wages; wine industry; pensions; Millennium Summit; ABC; Cabinet reshuffle; cricket; Centenary of Federation Trip</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11494</transcript-id><title>Radio Interview with Jon Faine, Radio 3LO</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/06/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Backpacker hostel fire in Queensland; GST; wages; wine industry; pensions; Millennium Summit; ABC; Cabinet reshuffle; cricket; Centenary of Federation Trip</p>
 <p>E&amp;OE...</p>
 <p>FAINE:</p>
 <p>John Howard joins me in the studio. Good morning to you Mr Howard.</p>
@@ -288,6 +278,4 @@
 <p>FAINE:</p>
 <p>The Prime Minister, thank you very much for joining us today.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41092</transcript-id>
-    <title>Radio interview with Cliff Reeve, Triple M South West</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>02/08/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>WA visit; Gay marriage; Ice; Parliament; Schools; Mid Winter Ball</subjects>
-    <content><![CDATA[<p><strong>CLIFF REEVE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41092</transcript-id><title>Radio interview with Cliff Reeve, Triple M South West</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>02/08/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>WA visit; Gay marriage; Ice; Parliament; Schools; Mid Winter Ball</subjects><content><![CDATA[<p><strong>CLIFF REEVE:</strong></p>
 <p>Prime Minister Malcolm Turnbull good afternoon, welcome to Triple M.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Yeah good afternoon Cliff. Can I just, I don’t want to start off the discussion being disagreeable but the welcome I’ve had has been absolutely warm and generous, wherever I’ve been and nowhere more so than in Busselton today.</p>
@@ -62,6 +52,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>No worries Cliff, thanks a lot.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15400</transcript-id>
-    <title>Tasmanian Health Initiatives</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/10/2007</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Australian Government will fund a number of measures to improve key elements of Tasmania's health services infrastructure, totalling $35 million over four years.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15400</transcript-id><title>Tasmanian Health Initiatives</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/10/2007</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Australian Government will fund a number of measures to improve key elements of Tasmania's health services infrastructure, totalling $35 million over four years.</p>
 <p>Funding of $8 million will be provided over three years for the construction of new purpose-built rehabilitation and transitional care facilities and a new psychiatric unit, at the Burnie Hospital.</p>
 <p>At Launceston General Hospital $16 million will be provided over three years for the upgrading of oncology, radiotherapy and transitional care facilities and the establishment of new cardiac care facilities.</p>
 <p>A further $8.5 million will be provided over four years for specific patient transport measures. This recognises the difficulty for Tasmanians in dispersed communities with long travelling times in accessing larger hospital and specialist medical services.</p>
@@ -23,6 +13,4 @@
 <p>The patient transport measures not only enhance the networking of the three northern hospitals, but will also benefit patients across the whole State.</p>
 <p>Added to the $45 million per year in additional health funding available to the Tasmanian Government through the Mersey Hospital transfer to the Commonwealth, these measures demonstrate that the Australian Government is committed to the long term strategic development of Tasmania's healthy infrastructure.</p>
 <p>These announcements also owe much to the persistence of the Member for Bass Michael Ferguson MP, the Member for Braddon, Mark Baker MP and Senator Guy Barnett on behalf of the Ouse and Rosebery communities. I commend them for their efforts.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

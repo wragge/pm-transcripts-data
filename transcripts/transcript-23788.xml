@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23788</transcript-id>
-    <title>Address at the Australian National Flag Day Flag Raising Ceremony</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>03/09/2014</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, 113 years ago, the Australian flag flew for the first time on top of the Royal Exhibition Building in Melbourne.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23788</transcript-id><title>Address at the Australian National Flag Day Flag Raising Ceremony</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>03/09/2014</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, 113 years ago, the Australian flag flew for the first time on top of the Royal Exhibition Building in Melbourne.</p>
 <p>Today is the very first time that the national Parliament has officially commemorated Australian National Flag Day.</p>
 <p>I want to acknowledge the work over many years of Mr John Vaughan, now the head of the New South Wales branch of the National Flag Association, for everything he has done over the years to bring about National Flag Day.</p>
 <p>I also want to pay tribute to a former Governor of New South Wales, Sir David Martin, who was one of the early movers behind National Flag Day. In 1989, Sir David Martin said, and I quote, “I can understand the wishes of many Australians to have more light-hearted symbols to wave on certain occasions, and I share their feelings. I’m a happy admirer of kangaroos, koalas, wattle, waratahs, broad-brimmed hats and cans of beer. By all means, let’s make happy, slick, wonderful emblems for use on particular occasions. But in the midst of such light-hearted cheering, I’m comforted to know that the Australian flag remains at the masthead, proclaiming our maturity, continuity and stability as a nation. In the short history of Australia, our people have been involved in many activities and events of great turmoil, anguish, strife, pressure, anxiety, unhappiness, hopelessness, but also, and most particularly, success, joy and jubilation. And on almost all of these occasions, this flag has been a rallying point. It’s become associated with Australians and our great deeds, strong victories and some gallant defeats. It’s become identified with our proud history and our fine traditions”.</p>
@@ -23,6 +13,4 @@
 <p>I encourage everyone to fly the Australian national flag proudly and to celebrate our flag’s day.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

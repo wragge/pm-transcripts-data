@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15892</transcript-id>
-    <title>Press Conference, Blue Room, Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/04/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PM: On behalf of the Government, I wish to pass my condolences to the family of Lance Corporal Jason Marks, who was sadly killed during engagement with the Taliban last night.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15892</transcript-id><title>Press Conference, Blue Room, Canberra   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/04/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PM: On behalf of the Government, I wish to pass my condolences to the family of Lance Corporal Jason Marks, who was sadly killed during engagement with the Taliban last night.</p>
 <p>Lance Corporal Marks was a highly trained and professional soldier. He was an inspiration to others. Lance Corporal Marks is married, and is the father of two children. My deepest sympathies and those of my family, and those of the nation, go to Lance Corporal Mark's family and friends and his colleagues.</p>
 <p>The Australian Government and the Australian Defence Force will continue to provide his family with the support and assistance they need during this most difficult time.</p>
 <p>Our thoughts and our prayers are also with the four injured soldiers and their families. And we hope that they have a full and fast recovery. I am advised that the families of all concerned have been notified by the Australian Defence Force.</p>
@@ -42,6 +32,4 @@
 <p>PM: We have no such plans as I indicated most recently to the President of the United States and to our colleagues in the other participating States in Bucharest, when we met for some time discussing explicitly our forward commitments - that we believed our commitment was significant.</p>
 <p>Remember it's is the largest contribution of a non-NATO power to the operation in Afghanistan, and we believe it's sufficient for our current purposes. The key thing is to make sure that other parties engage in effective burden sharing, and furthermore, that there is an effective civilian correlation to the military effort.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

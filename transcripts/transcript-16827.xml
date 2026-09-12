@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16827</transcript-id>
-    <title>Transcript of interview with CNN New York 21 September 2009  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/09/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister Rudd, thank you so much for speaking to CNN.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16827</transcript-id><title>Transcript of interview with CNN New York 21 September 2009  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/09/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister Rudd, thank you so much for speaking to CNN.</p>
 <p>PM: Good to be on the program.</p>
 <p>HOST: I will start by asking you about climate change negotiations. It's been widely reported that talks have stalled, effectively, ahead of Copenhagen and that big conference, and now, President Obama, the US President, will be giving what's widely regarded as an important speech here in New York on Tuesday. What are your hopes for that speech? What are you looking to hear from him?</p>
 <p>PM: Well, the first thing is that - and it's a good thing for the world - is that the United States has re-engaged with the global climate change agenda. America's been missing for too long, but under President Obama's leadership, they're back, so therefore, we have America at the table.</p>
@@ -79,6 +69,4 @@
 <p>We need political leadership to push the momentum towards Copenhagen to get a positive outcome. No-one else is going to make those decisions for us. But the good news is US global leadership is back, and it's back working through the institutions of the world, not simply standing outside them.</p>
 <p>HOST: Kevin Rudd, Prime Minister of Australia, many thanks for speaking to us.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

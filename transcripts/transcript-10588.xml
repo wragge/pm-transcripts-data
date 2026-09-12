@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10588</transcript-id>
-    <title>Public Sector Programme in China </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/12/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I shall be hosting a reception to mark the 25th anniversary of diplomatic relations between Australia and the People's Republic of China.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10588</transcript-id><title>Public Sector Programme in China </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/12/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I shall be hosting a reception to mark the 25th anniversary of diplomatic relations between Australia and the People's Republic of China.</p>
 <p>It is an appropriate occasion to announce that the Government has agreed with China on a programme designed to make available Australian expertise in public sector management. The programme will begin next year and will be worth up to $20 million over four years.</p>
 <p>The aim of the programme is to make available to Chinese policy makers Australian expertise in developing government systems in areas such as finance, taxation, banking, enterprise reform, social security and public sector administration. Australia is a world leader in such areas.</p>
 <p>The programme will provide for Chinese government agencies to draw on the technical expertise of a range of Australian counterpart agencies and institutions. Wherever Australian approaches are relevant for China, these will be transferred or adapted as required.</p>
@@ -39,6 +29,4 @@
 <p> on Australia's economic prospects. Australia can make a valuable</p>
 <p> contribution to China's economic reform process.</p>
 <p>Further details are attached.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

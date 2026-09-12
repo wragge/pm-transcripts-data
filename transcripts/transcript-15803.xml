@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15803</transcript-id>
-    <title>Australian Support for PNG    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>07/03/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced a range of new development assistance measures for our nearest neighbour Papua New Guinea.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15803</transcript-id><title>Australian Support for PNG    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>07/03/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced a range of new development assistance measures for our nearest neighbour Papua New Guinea.</p>
 <p>The measures announced by the Australian Government today will:</p>
 <p>     * Assist PNG in its fight against the spread of HIV/AIDs</p>
 <p>     * Help PNG work towards meeting its Millennium Development Goals on health and education</p>
@@ -36,6 +26,4 @@
 <p>A new $260,000 package will be targeted at enhancing facilities at sports grounds and providing equipment such as boots, jumpers and shorts. The Government will provide $50,000 to help around 2000 young players meet the registration costs for playing football.</p>
 <p>The Government has also agreed to a request for the Australian Rugby League to use the title “Prime Minister's XIII” for a match against the PNG national team the Kumlus.</p>
 <p>The Australian Government wants to give a real boost to sport in PNG. Helping provide young people with access to sporting facilities and organised sporting activities is a good way for us to send messages about fitness and good health among young people.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

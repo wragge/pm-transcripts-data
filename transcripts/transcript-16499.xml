@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16499</transcript-id>
-    <title>Director-General of the Office of National Assessments    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/04/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce the appointment of Mr Allan Gyngell as Director-General of the Office of National Assessments (ONA). Mr Gyngell's appointment will commence on 13 July.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16499</transcript-id><title>Director-General of the Office of National Assessments    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/04/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce the appointment of Mr Allan Gyngell as Director-General of the Office of National Assessments (ONA). Mr Gyngell's appointment will commence on 13 July.</p>
 <p>Mr Gyngell has a distinguished track record both within and outside government in the analysis of international issues. </p>
 <p>He was the founding Executive Director of the Lowy Institute for International Policy, a position he has held since 2003.</p>
 <p>In government, his career has included senior positions in the Department of the Prime Minister and Cabinet, the Office of National Assessments and the Department of Foreign Affairs and Trade.</p>
@@ -17,6 +7,4 @@
 <p>I would like to acknowledge the contribution of the current Director-General, Mr Peter Varghese, in leading the work of ONA since 2004.</p>
 <p>He has been particularly effective in managing the development of ONA's responsibilities, and in implementing the changes to intelligence community machinery in recent years.</p>
 <p>Mr Varghese will be taking up a senior diplomatic appointment in the coming months.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

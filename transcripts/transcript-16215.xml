@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16215</transcript-id>
-    <title>Interview with Lyndal Curtis, AM Program, ABC Radio  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>31/10/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS: Prime Minister, welcome to AM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16215</transcript-id><title>Interview with Lyndal Curtis, AM Program, ABC Radio  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>31/10/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS: Prime Minister, welcome to AM.</p>
 <p>PM: Good morning Lyndal.</p>
 <p>CURTIS: Does the Treasury modelling show that far from having a big impact on the economy, Australia could afford to cut emissions harder without doing significant damage?</p>
 <p>PM: Well the Treasury modelling examined four particular scenarios for the future with different rates of a carbon price. And that is important for our evaluation in terms of what model or what approach that we hit upon for the future and that will be determined when the Government produces its White Paper later in the year.</p>
@@ -37,6 +27,4 @@
 <p>Australia will be well served by the victory of either candidate because both of these individuals, Senator McCain and Senator Obama, are first class candidates, they are positively disposed towards Australia and I believe are committed to coordinated international action, as in fact has President Bush been in his decision to convene the G20 meeting of heads of government in Washington soon.</p>
 <p>CURTIS: Prime Minister, thank you very much for your time.</p>
 <p>PM: Good to be on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

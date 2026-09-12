@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12607</transcript-id>
-    <title>Doorstop Interview, Sydney Airport</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/09/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<div class="relative-required data-content">
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12607</transcript-id><title>Doorstop Interview, Sydney Airport</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/09/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<div class="relative-required data-content">
 <p>E&amp;OE...........</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Mr Howard tell us what you are hoping to achieve from this trip?</p>
@@ -49,6 +39,4 @@
 <p>Well I'm not going to deal with hypotheticals. Thank you.</p>
 <p>[ends]</p>
 </div>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

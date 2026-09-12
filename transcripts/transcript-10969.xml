@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10969</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS TO THE 127TH STATE COUNCIL OF THE VICTORIAN DIVISION OF THE                 LIBERAL PARTY                HAWTHORN CAMPUS, UNIVERSITY OF MELBOURNE                HAWTHORN, VICTORIA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/04/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10969</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS TO THE 127TH STATE COUNCIL OF THE VICTORIAN DIVISION OF THE                 LIBERAL PARTY                HAWTHORN CAMPUS, UNIVERSITY OF MELBOURNE                HAWTHORN, VICTORIA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/04/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...............................................................................................................................</p>
 <p>Well, thank you very much Peter for those very warm words of welcome;</p>
 <p> to Joy Howley; to Tony Staley; to Peter Poggioli; to Phil Gude, the</p>
 <p> Deputy Leader of the State Parliamentary Liberal Party, Alan Stockdale,</p>
@@ -367,6 +357,4 @@
 <p> to express to all of my Victorian colleagues, to all of you without</p>
 <p> exception, my personal gratitude for the support and loyalty and understanding</p>
 <p> that you have given over the last two years. There have been occasions</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

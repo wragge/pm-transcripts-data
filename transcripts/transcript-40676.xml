@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40676</transcript-id>
-    <title>Prime Minister’s 2016 Christmas Message to the Australian Defence Force</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>25/12/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40676</transcript-id><title>Prime Minister’s 2016 Christmas Message to the Australian Defence Force</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>25/12/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>This Christmas, I thank you, the men and women of the ADF, for your service and your families for the love and support that makes it possible.</p>
 <p>Earlier this year I visited some of you serving in Iraq and Afghanistan - I was so proud of you - your courage, your professionalism and your good humour in a very tough and dangerous environment.</p>
 <p>This Christmas many of you will be far from family and home, but you will be closest of all in our thoughts and in our hearts.</p>
@@ -27,6 +17,4 @@
 <p>On behalf of Lucy and our family and all Australians, I wish you all a very Happy Christmas and the very best for 2017.</p>
 <p><strong>[ENDS]</strong></p>
 <p>Video of the Prime Minister’s 2016 Christmas Message to the Australian Defence Force</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10850</transcript-id>
-    <title>JOINT STATEMENT BY THE PRIME MINISTER            THE HON JOHN HOWARD MP            AND THE MINISTER FOR FAMILY SERVICES            THE HON WARWICK SMITH MP           BUSINESS ROUND TABLE SIGNALS GREATER CO-OPERATION</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> I welcome the constructive approach taken by business and community</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10850</transcript-id><title>JOINT STATEMENT BY THE PRIME MINISTER            THE HON JOHN HOWARD MP            AND THE MINISTER FOR FAMILY SERVICES            THE HON WARWICK SMITH MP           BUSINESS ROUND TABLE SIGNALS GREATER CO-OPERATION</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> I welcome the constructive approach taken by business and community</p>
 <p> leaders who gathered in Canberra today for the first-ever Business</p>
 <p> and Community Partnerships Round table to discuss strategies aimed</p>
 <p> at enhancing partnerships to benefit the nation.</p>
@@ -49,6 +39,4 @@
 <p> business and community sectors to identify areas of mutual interest</p>
 <p> and benefit.</p>
 <p> 25 March 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40084</transcript-id>
-    <title>Joint Statement with Malaysian Prime Minister</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/11/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER NAJIB:</strong> </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40084</transcript-id><title>Joint Statement with Malaysian Prime Minister</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/11/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER NAJIB:</strong>&nbsp;</p>
 
 <p>First of all, I’d like to very warmly welcome Prime Minister Malcolm Turnbull to Malaysia, this year attending, as you know, the ASEAN and East Asia Summit.</p>
 
@@ -21,7 +11,7 @@
 
 <p>So, once again, thank you Prime Minister for being with us and I congratulated Mr Turnbull on his appointment as Prime Minister and I look forward to working very closely with him.</p>
 
-<p><strong>PRIME MINISTER TURNBULL:</strong> </p>
+<p><strong>PRIME MINISTER TURNBULL:</strong>&nbsp;</p>
 
 <p>Thank you very much, Prime Minister. I’m delighted to be in Malaysia and I want to join Prime Minister Najib in announcing our strategic partnership between Australia and Malaysia. And, as you said Prime Minister, this does take our relationship to an even higher level – a very strong relationship that is built on people to people ties, on trade, on education, on defence.</p>
 
@@ -36,6 +26,4 @@
 <p>Now, this book celebrating 60 years which not only features the Prime Minister but the Prime Minister’s father, showing the great depth of his family’s leadership in Australia is one that I think we should both sign and we can perhaps exchange a copy and treasure it on our bookcases.</p>
 
 <p align="center"><strong>Ends</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24149</transcript-id>
-    <title>Prime Minister&#039;s Australia Day Message </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>26/01/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today, across Australia, at BBQs, citizenship ceremonies and community events, we will celebrate everything that is good about our country.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24149</transcript-id><title><![CDATA[Prime Minister&#039;s Australia Day Message ]]></title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>26/01/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today, across Australia, at BBQs, citizenship ceremonies and community events, we will celebrate everything that is good about our country.</p>
 <p>Australia Day celebrates the ties that bind us, the values that sustain us and the nation that we have become.</p>
 <p>Modern Australia has an Aboriginal heritage, a British foundation and a multicultural character.</p>
 <p>So on Australia Day, we honour the ancestors who were custodians of this ancient continent; we pay tribute to our forefathers who enshrined freedom, fairness and unity in Australia’s Constitution; and we reaffirm our commitment to make this country of ours a beacon of hope and optimism in an uncertain world.</p>
@@ -21,6 +11,4 @@
 <p>So today, we celebrate the history that has made us who we are; the country that we love and the values and institutions that underpin it.</p>
 <p>I wish every one of you a very happy Australia Day!</p>
 <p>26 January 2015</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

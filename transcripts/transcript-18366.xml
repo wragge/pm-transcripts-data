@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18366</transcript-id>
-    <title>Transcript of interview with Mark Parton, 2CC</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/02/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18366</transcript-id><title>Transcript of interview with Mark Parton, 2CC</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/02/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Good morning Prime Minister.</p>
 <p>PM: Good morning and there is a bit of rain around, you're right. So a delayed start, I don't think we're anticipating any play before around about midday.</p>
 <p>HOST: No, but look, I'm confident that the ground staff, and they're going through the motions of taking the covers off now, it looks as though there's going to be a break in the weather and I guess whatever happens, whatever happens the lunch will be on, Prime Minister. Yes?</p>
@@ -47,6 +37,4 @@ HOST: Good morning Prime Minister.</p>
 <p>PM: Well I got the opportunity to spend some time with the team last night. Brad, of course, is a local boy. I said I wanted a tough captain and I think I've got one, Brad will be that tough captain. So my message to the team would be  -  go for it, don't worry about the weather, however much play there is we want every ball to count, we want every bit of play to count.</p>
 <p>HOST: Prime Minister, thank you so much for being accessible to us this morning, we really do appreciate it.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

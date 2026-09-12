@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17240</transcript-id>
-    <title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 23 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>23/04/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: This morning Kevin Rudd is in Launceston. Good morning to you, Prime Minister. Thanks for joining us this morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17240</transcript-id><title>Prime Minister Transcript of interview with Melissa Doyle Sunrise 23 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>23/04/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: This morning Kevin Rudd is in Launceston. Good morning to you, Prime Minister. Thanks for joining us this morning.</p>
 <p>PM: Good morning. Great to be in Tassie.</p>
 <p>HOST: Yes, I'm sure. NRL scandal, we were just chatting about with the guys. What do you think? Do you think the Storm's penalties are just too tough, or are they OK?</p>
 <p>PM: I'm a bit like the rest of the country, Mel. Yesterday, when I heard about this down here, you actually stop and it takes your breath away. You think 'how on earth could this happen?' This is a huge, huge event for the game.</p>
@@ -46,6 +36,4 @@
 <p>Prime Minister Kevin Rudd, thank you for your time this morning and we'll check in with you next Friday.</p>
 <p>PM: Thanks, Mel. Good to be back here in Tassie. You should come down.</p>
 <p>HOST: I can't make it today, but we'll be there soon.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

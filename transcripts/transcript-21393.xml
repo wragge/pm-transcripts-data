@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21393</transcript-id>
-    <title>Interview with Julia Christenson ABC Radio, Darwin </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/07/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CHRISTENSON:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21393</transcript-id><title>Interview with Julia Christenson ABC Radio, Darwin </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/07/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CHRISTENSON:</p>
 <p> John Howard, good morning to you.</p>
 <p> PRIME MINISTER:</p>
 <p> Good morning. Very nice to be back in Darwin.</p>
@@ -224,6 +214,4 @@
 <p> John Howard, thanks for your time, thanks for coming in this morning.</p>
 <p> PRIME MINISTER:</p>
 <p> Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

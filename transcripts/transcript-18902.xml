@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18902</transcript-id>
-    <title>Transcript of Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/11/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Bali</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18902</transcript-id><title>Transcript of Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/11/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Bali</p>
 <p>PM: I was delighted this morning to participate in the first ever trilateral meeting of Australia, Timor Leste and Indonesia. I've just met with President Yudhoyono and Prime Minister Gusmao.</p>
 <p>This is really a moment in history given the history between our three nations; it was really a delight to sit down in this trilateral format. As I said yesterday, 10 years ago if anybody had predicted such a meeting would happen, they would be dismissed as a dreamer. But we have had a good discussion this morning about cooperation between our three nations.</p>
 <p>There was a particular focus on connectivity, on what we can do to work together to connect up economic opportunities for our three countries. That is a focus on infrastructure. It's a focus on transport. It's a focus on communications. It's a focus on capacity building and people to people links.</p>
@@ -60,6 +50,4 @@
 <p>PM: I'm not going to go into the details of private conversations but it is safe to say he was aware of my speech in the Parliament.</p>
 <p>Okay, thank you very much.</p>
 <p>[ENDS] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

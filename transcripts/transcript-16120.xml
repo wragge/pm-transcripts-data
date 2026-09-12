@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16120</transcript-id>
-    <title>Joint Media Release with the Parliamentary Secretary for Early Childhood Education and Childcare, Maxine McKew Early Learning Help for Disadvantaged Children  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/09/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Special Rudd Government programs offering educational support to very young children from disadvantaged families will be established in every Australian State and Territory from next year.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16120</transcript-id><title>Joint Media Release with the Parliamentary Secretary for Early Childhood Education and Childcare, Maxine McKew Early Learning Help for Disadvantaged Children  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/09/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Special Rudd Government programs offering educational support to very young children from disadvantaged families will be established in every Australian State and Territory from next year.</p>
 <p>Prime Minister Kevin Rudd and Parliamentary Secretary for Early Childhood Education and Childcare, Maxine McKew, today announced 13 new locations for the Home Interaction Program (HIP) for parents and children.</p>
 <p>As part of the Education Revolution and in partnership with the Brotherhood of Saint Laurence, this program offers home tutoring, books and educational resources to disadvantaged children aged between three and five years.</p>
 <p>The Rudd Government has committed to $32.5 million over five years to roll out the program nationally.</p>
@@ -40,6 +30,4 @@
 <p>     * Clarendon Vale (Hobart) TAS</p>
 <p>     * Charnwood (Canberra) ACT</p>
 <p>     * Alice Springs NT </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

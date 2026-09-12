@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15941</transcript-id>
-    <title>Interview with Lyndal Curtis on ABC AM    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>30/05/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>CURTIS: Prime Minister good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15941</transcript-id><title>Interview with Lyndal Curtis on ABC AM    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>30/05/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>CURTIS: Prime Minister good morning.</p>
 <p>PM: Morning Lyndall.</p>
 <p>CURTIS: In response to the leak, you warned the public service yesterday that the work load will only increase. But public servants are saying they are not afraid of hard work, what they are frustrated with is that they are being called in at all hours to give advice which is then ignored and that your office is chaotic. Is there a case to work smarter, not harder?</p>
 <p>PM: Well the first thing I would say about the public service is that we have been exceptionally well serviced in the six months that we have been in government through the advice that we have been receiving across a whole range of policy areas.</p>
@@ -50,6 +40,4 @@
 <p>That's what we were elected to do, we will get on to do that, but obviously in any given week, in the political cycle, we are going to take a huge whacking, and guess what, it will happen again as well.</p>
 <p>CURTIS: Prime Minister thank you very much for your time.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

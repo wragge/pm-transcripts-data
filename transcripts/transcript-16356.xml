@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16356</transcript-id>
-    <title>$5 Million for Bernie Banton Centre    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>21/01/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government will contribute $5 million to the new Bernie Banton Centre, the world's first dedicated asbestos research institute.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16356</transcript-id><title>$5 Million for Bernie Banton Centre    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>21/01/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government will contribute $5 million to the new Bernie Banton Centre, the world's first dedicated asbestos research institute.</p>
 <p>Prime Minister Kevin Rudd made the announcement at the opening of the Centre, a major co-development between the NSW Government and the ANZAC Research Institute at Concord Hospital in Sydney.</p>
 <p>The federal government contribution will go towards the final fit-out costs of the Centre, also known as the Asbestos Disease Research Institute.</p>
 <p>The Centre honours Bernie Banton, a man of exceptional decency and humility who stayed full of life and fight during his darkest days, battling to help and support victims of mesothelioma and asbestos-related disease.</p>
@@ -21,6 +11,4 @@
 <p>By 2020, it is estimated that Australia will have 13,000 cases of mesothelioma and a further 40,000 cases of asbestos-related cancer.</p>
 <p>The Rudd Government recognises that those suffering asbestos-related disease face enormous challenges.</p>
 <p>The Bernie Banton Centre at Concord Hospital will promote prevention and education about asbestos-related disease in Australia and throughout the Asian region.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

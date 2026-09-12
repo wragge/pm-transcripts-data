@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16755</transcript-id>
-    <title>Interview with Neil Mitchell, 3AW, Melbourne   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/08/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16755</transcript-id><title>Interview with Neil Mitchell, 3AW, Melbourne   </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/08/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Mr Rudd, good morning.</p>
 <p>PM: Good morning Neil.</p>
 <p>MITCHELL: This letter in the Herald Sun, it's a very powerful letter from an emergency doctor. He says the system's overworked and crumbling. Is he right?</p>
 <p>PM: I can't reach that judgment nationwide, but I take seriously considered letters by someone who's obviously an expert in the field. Certainly, in the four to five hospitals across the country that the Health Minister, Nicola Roxon and I have been to so far - Royal North Shore in Sydney, Flinders Medical Centre in Adelaide, and then Townsville Hospital and Cairns Hospital last week - the stress and pressure on Accident and Emergency is huge across the country. So, that's part of the problems of the system. Of course, part of the answer to it is not just the additional investment which the doctor legitimately points to in his letter, it's also how do you take some pressure off the A&amp;E by better investing in what's called primary healthcare. That's why we're rolling out GP super clinics across the country as well.</p>
@@ -115,6 +105,4 @@
 <p>MITCHELL: Thank you very much for your time.</p>
 <p>PM: Thanks for having us in the studio.</p>
 <p>(ends)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

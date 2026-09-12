@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23494</transcript-id>
-    <title>Interview with David Speers, AM Agenda, Sky News</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>15/05/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Budget 2014,  Royal Commission into the Home Insulation Programme. </subjects>
-    <content><![CDATA[<p><strong>DAVID SPEERS: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23494</transcript-id><title>Interview with David Speers, AM Agenda, Sky News</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>15/05/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Budget 2014, Royal Commission into the Home Insulation Programme.</subjects><content><![CDATA[<p><strong>DAVID SPEERS: </strong></p>
 <p>Prime Minister, welcome.</p>
 <p>Starting with your Budget, a number of your key measures – the fuel excise increase, the GP co-payment, the changes to the pension – look set to be defeated based on what Labor, The Greens and the Palmer United Party are saying. Where does that leave this Budget?</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -111,6 +101,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thanks.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

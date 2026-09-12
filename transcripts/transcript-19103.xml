@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19103</transcript-id>
-    <title>Gillard Government invests in 750 new jobs in Tasmania</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>01/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Hobart</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19103</transcript-id><title>Gillard Government invests in 750 new jobs in Tasmania</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>01/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Hobart</p>
 <p>Vodafone Hutchison Australia has today announced 750 new customer service jobs in Hobart, thanks to a $4 million investment by the Gillard Government.</p>
 <p>Backed by the Gillard Government and the Tasmanian Government, Vodafone will create up to 70 extra jobs a month over the next year  -  750 jobs in total  -  by expanding its call centre headquarters at Kingston.</p>
 <p>And it will more than double employment at the Kingston call centre, which currently employs over 680 people. </p>
@@ -30,6 +20,4 @@
 <p>This is an exciting opportunity for Tasmanians and a welcome development. It will provide training, employment and business opportunities for the region.</p>
 <p>It demonstrates the commitment of the Gillard Government to policies which support and create Australian jobs.</p>
 <p>Vodafone expects the employment targets to be achieved over the 2013-14 financial year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

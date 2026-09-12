@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22711</transcript-id>
-    <title>Housing Interest Rates - Prime Television</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/04/2000</release-date>
-    <release-type>Broadcast</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Good evening.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22711</transcript-id><title>Housing Interest Rates - Prime Television</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/04/2000</field_date><release-type>Broadcast</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Good evening.</p>
 <p>Every Australian homebuyer, business proprietor and farmer has gained in lower interest rates in recent years. We can all remember that just 10 years ago, interest rates peaked at 17 per cent. For a family on the average $100,000 25 year mortgage, that meant they were paying $1400 a month just to meet the monthly repayments. </p>
 <p>Thankfully, things have changed for the better. Since the Coalition took office, housing interest rates have fallen by 3 percentage points even after recent rises. This represents a saving of $245 a month on average mortgage interest payments. </p>
 <p>Put another way, if a family chose to pay off their average mortgage faster by keeping their payments the same, the fall in interest rates since March 1996 means that they can pay off their loan about 10 years earlier.</p>
@@ -17,6 +7,4 @@
 <p>We’ve taken some strong decisions to achieve these results over the past four years but we need it to go on. Think about what things were like in the 1980’s and ask how your families could plan with certainty if there was a Government that spent more, taxed more and borrowed more, putting pressure on interest rates.</p>
 <p>I will continue to argue strongly for responsible budgets, lower taxes and the only plan to rid this country of Government debt once and for all, because Australia’s future security depends on it.</p>
 <p>Goodnight.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

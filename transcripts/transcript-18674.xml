@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18674</transcript-id>
-    <title>Transcript of joint press conference, Darwin</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/07/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18674</transcript-id><title>Transcript of joint press conference, Darwin</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/07/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 GENERAL HURLEY: Good morning ladies and gentlemen.</p>
 <p>I'm deeply saddened to inform you that an Australian soldier serving with the Special Operations Task Group in Afghanistan was killed during an operating on the Chorah Valley region of Uruzgan Province yesterday morning, local Afghan time.</p>
 <p>The soldier was shot in the chest during an engagement with insurgents while on a partnered mission with the Afghan National Security Forces to target an insurgent commander. The patrols advanced first aider provided immediate assistance and continued attempts to resuscitate the wounded soldier until he was evacuated by helicopter to the Role 2 Medical Facility in Tarin Kot.</p>
@@ -87,6 +77,4 @@ GENERAL HURLEY: Good morning ladies and gentlemen.</p>
 <p>GENERAL HURLEY: No, he was the only casualty.</p>
 <p>PM: Thank you very much.</p>
 <p>GENERAL HURLEY: Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

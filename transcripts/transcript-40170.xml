@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40170</transcript-id>
-    <title>The Project</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>26/01/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>CARRIE BICKMORE:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40170</transcript-id><title>The Project</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>26/01/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>CARRIE BICKMORE:</strong></p>
 <p>Welcome, Prime Minister. We know you've had a crazy day today. Be honest with us, how many snags and sauce have you had to cram down your throat for the cameras today?</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Not one. Not one. No, I haven't done a public or indeed a private barbecue today. So the sausages are safe!</p>
@@ -77,6 +67,4 @@
 <p>Thanks very much and have great, happy Australia Day.</p>
 <p>
 <strong>ENDS</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

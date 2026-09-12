@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21253</transcript-id>
-    <title>Doorstop Interview ASIO, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/05/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21253</transcript-id><title>Doorstop Interview ASIO, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/05/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 JOURNALIST:</p>
 <p>Prime Minister, now that this is open does that mean there can';t be a situation where the facts from France, for example, would sit for a weekend waiting for someone to attend to it?  PRIME MINISTER:</p>
 <p>Well certainly that situation';s been properly dealt with before in relation to the standard procedures of people being told that faxes of that kind have been sent. But certainly this is just a further addition to the capacity of our intelligence agencies to act in a timely way.</p>
@@ -91,6 +81,4 @@ JOURNALIST:</p>
 <p>No, I don';t see that occurring in anywhere near the same way.  The comparison I sought to draw was in the context of expressing a hope that it didn';t last as long as the Cold War.  I wasn';t seeking thereby to say there were systemic comparisons that ought to be made between the two things.  Look, I';m currently analysing the Bulletin article, I';ve had a few other things to do this morning and until I';ve completed that analysis I don';t have anything further to say.</p>
 <p>  Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

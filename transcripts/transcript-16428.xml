@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16428</transcript-id>
-    <title>Opening remarks to Australian Organ Donor Awareness Week    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>24/02/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet and whose culture we celebrate as one of the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16428</transcript-id><title>Opening remarks to Australian Organ Donor Awareness Week    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>24/02/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet and whose culture we celebrate as one of the oldest continuing cultures in human history.</p>
 <p>If you have heard the stories of those who have suffered from chronic diseases, and been given the gift of life through a transplant  - </p>
 <p>Or if you have heard the stories of the families for whom a donor organ never arrived in time  - </p>
 <p>You can be in no doubt this is a cause that really matters.</p>
@@ -108,6 +98,4 @@
 <p>They really make a difference.</p>
 <p>Each of us can play a role in this great cause.</p>
 <p>And many Australians will enjoy happier, longer lives as a result. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

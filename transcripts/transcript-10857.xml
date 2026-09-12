@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10857</transcript-id>
-    <title>GREATER OPPORTUNITIES FOR WOMEN IN GOVERNMENT DECISION MAKING</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/03/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p> I am pleased to announce that the Federal Government has taken</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10857</transcript-id><title>GREATER OPPORTUNITIES FOR WOMEN IN GOVERNMENT DECISION MAKING</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/03/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p> I am pleased to announce that the Federal Government has taken</p>
 <p> another step in securing greater choice for women with an initiative</p>
 <p> to place more highly qualified women on Commonwealth boards and agencies.</p>
 <p>The Government today launches the Executive Search Pilot Programme</p>
@@ -41,6 +31,4 @@
 <p> flexibility to develop their full potential in the workplace, home</p>
 <p> and with the family.</p>
 <p> 27 March 1998</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

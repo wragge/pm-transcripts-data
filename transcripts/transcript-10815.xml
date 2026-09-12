@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10815</transcript-id>
-    <title>BOOST FOR ROYAL FLYING DOCTOR SERVICE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/1998</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10815</transcript-id><title>BOOST FOR ROYAL FLYING DOCTOR SERVICE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/1998</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
   As a demonstration of the Government's commitment to the Royal</p>
 <p> Flying Doctor Service I today announce a new $82 million agreement,</p>
 <p> to provide high level emergency health care to Australians in isolated</p>
@@ -40,6 +30,4 @@
 <p> services from the flying doctor. I congratulate the Royal Flying Doctor</p>
 <p> Service on reaching 70 years of consistently high health service to</p>
 <p> people in the bush.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

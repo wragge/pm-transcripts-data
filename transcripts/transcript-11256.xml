@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11256</transcript-id>
-    <title>TOUGH ON DRUGS &amp;#150; TREATMENT FUNDING</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/03/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce $20 million in grants under Tough on Drugs</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11256</transcript-id><title><![CDATA[TOUGH ON DRUGS &amp;#150; TREATMENT FUNDING]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/03/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce $20 million in grants under Tough on Drugs</p>
 <p> for community organisations to provide treatment, rehabilitation</p>
 <p> and support for those affected by drugs.</p>
 <p>The funding is part of $290 million committed to the Tough on Drugs</p>
@@ -80,9 +70,7 @@
 <p> Non-Government</p>
 <p> Organisation Treatment Grants Program,</p>
 <p> Proposals for Funding March 1999</p>
-<p>   This document also available in the following formats:<br />
- * Microsoft Word<br />
+<p>   This document also available in the following formats:<br>
+ * Microsoft Word<br>
  * Adobe Acrobat PDF</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

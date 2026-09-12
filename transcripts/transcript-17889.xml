@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17889</transcript-id>
-    <title>Statement from the Prime Minister</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>27/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17889</transcript-id><title>Statement from the Prime Minister</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>27/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister, Julia Gillard, today extended her condolences to the people of the United States and the tornado-affected communities in Missouri, Oklahoma, Arkansas and Kansas.</p>
 <p>The tornados striking Joplin, Missouri alone have wiped out 2,500 buildings, damaged a further 10,000, and resulted in the tragic deaths of 125 people, with many more remaining unaccounted for.</p>
 <p>Just as we did during the floods in Queensland, Victoria and in other states, Australians have seen images of the terrible destruction and been saddened by the tragedy as it unfolded.</p>
 <p>After a terrible summer, the Australian community knows all too well the difficulty and challenges faced by those dealing with the immediate aftermath of natural disasters; the heartbreak of those who lose so much; and the determination and sustained hard work required to rebuild.</p>
 <p>Those affected by this latest disaster remain in our thoughts at this difficult time. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

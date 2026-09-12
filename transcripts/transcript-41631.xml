@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41631</transcript-id>
-    <title>Doorstop with the Minister for Home Affairs and the Minister for Law Enforcement and Cyber Security</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/05/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Airport security; GST; US Embassy in Jerusalem; Electoral donation laws; Commonwealth Games athletes; Australian Border Force incident; Foreign interference</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41631</transcript-id><title>Doorstop with the Minister for Home Affairs and the Minister for Law Enforcement and Cyber Security</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/05/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Airport security; GST; US Embassy in Jerusalem; Electoral donation laws; Commonwealth Games athletes; Australian Border Force incident; Foreign interference</subjects><content><![CDATA[<p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning and thank you Lyell for welcoming us to Melbourne Airport.</p>
 <p>I’m here with the Minister for Home Affairs Peter Dutton and the Minister for Law Enforcement and Cyber Security Angus Taylor.</p>
 <p>Now, the greatest responsibility on Government is to keep Australians safe.</p>
@@ -110,6 +100,4 @@
 <p>I think it’s a great credit to Melbourne Airport in demonstrating this cutting edge technology here today.</p>
 <p>So thank you all very much.</p>
 <p><strong>[ENDS] </strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

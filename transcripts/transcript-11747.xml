@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11747</transcript-id>
-    <title>Visit to the United States of America </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/05/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I will visit Washington and meet the President of the United States on 10 September 2001.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11747</transcript-id><title>Visit to the United States of America </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/05/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I will visit Washington and meet the President of the United States on 10 September 2001.</p>
 <p>My visit will be particularly significant as it coincides with the 50th Anniversary of the ANZUS security alliance between Australia and the United States. The President and I will be reaffirming the strength and the relevance of the alliance, which underpins the very close and very broad security relationship between our two countries.</p>
 <p>My discussions with President Bush and other senior Administration officials, Members of Congress and business leaders will be wide-ranging. We will be exchanging views on a range of major political and security concerns, and on ways to enhance our economic and trade relations.</p>
 <p>I look forward to the visit and the opportunity it will provide to forge closer personal links with the new US Administration and Congress, and to further strengthen Australian-American ties.</p>
 <p>12 June 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

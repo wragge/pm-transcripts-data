@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21760</transcript-id>
-    <title>Launch of Water Smart Australia Programme  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/05/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to launch officially the Australian Government's Water Smart Australia Programme and to announce the first of a number of projects that will be funded under this Programme.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21760</transcript-id><title>Launch of Water Smart Australia Programme  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/05/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to launch officially the Australian Government's Water Smart Australia Programme and to announce the first of a number of projects that will be funded under this Programme.</p>
 <p>Water Smart Australia is the $1.6 billion component of the $2 billion Australian Water Fund.  The Water Smart Australia Programme is targeted at large-scale projects that will make a significant contribution to the sustainable and efficient management of Australia's water resources.</p>
 <p>Today I also announce investments in three major projects in Queensland that will go a long way to delivering better water management in areas of critical need in this state.</p>
 <p>The three projects announced today represent investments totalling $96.35 million with $32.2 million of that provided by the Australian Government.</p>
@@ -32,6 +22,4 @@
 <p>Bundaberg groundwater rescue feasibility study and preliminary design</p>
 <p> Total funding: $500 000 over two years, Australian Government contribution of $250 000.</p>
 <p>This project involves a feasibility study and preliminary design for a possible larger project which will substitute ground water allocations with equivalent surface water allocations, in the coastal parts of the Bundaberg area to reduce the stress on the ground water system.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

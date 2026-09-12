@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11156</transcript-id>
-    <title>Doorstop Interview – Southern Cross Club, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects> ABC report; Australia’s request for US ground troops</subjects>
-    <content><![CDATA[<p>29 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11156</transcript-id><title>Doorstop Interview – Southern Cross Club, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>ABC report; Australia’s request for US ground troops</subjects><content><![CDATA[<p>29 September 1999</p>
 <p><b>Subject</b>: ABC report; Australia’s request for US ground troops</p>
 <p>E&amp;OE……………………………………………………………………………………….</p>
 <p><b>JOURNALIST:</b></p>
@@ -26,6 +16,4 @@
 <p><b>PRIME MINISTER:</b></p>
 <p>Well, in a sense we’ve moved on because the people on the ground are doing a magnificent job, but what I am critical of tonight is a completely inaccurate dishonest report on the ABC. I mean, the ABC tonight has said that I had admitted not seeking troops from the Americans. Now that is wrong. To start with I haven’t admitted that, and secondly, I did seek it, but they made it plain that they would provide other assets.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

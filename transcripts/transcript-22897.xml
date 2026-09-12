@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22897</transcript-id>
-    <title>Radio Interview with Murray Olds and Julie Flynn, 2UE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/09/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Olympics; Prime Minister’s Olympic dinner; Minister Ruddock’s decision</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22897</transcript-id><title>Radio Interview with Murray Olds and Julie Flynn, 2UE</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/09/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Olympics; Prime Minister’s Olympic dinner; Minister Ruddock’s decision</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MURRAY OLDS:</p>
 <p>Hello Prime Minister.</p>
@@ -58,6 +48,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks Julie.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

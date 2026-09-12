@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18515</transcript-id>
-    <title>&quot;We are serving our national interest in Afghanistan&quot;, Speech to the Australian Strategic Policy Institute and Boeing National Security Luncheon, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/04/2012</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18515</transcript-id><title><![CDATA[&quot;We are serving our national interest in Afghanistan&quot;, Speech to the Australian Strategic Policy Institute and Boeing National Security Luncheon, Canberra]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/04/2012</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Some of you here will remember that the Council of the Australian Strategic Policy Institute met for the first time in late winter 2001  -  less than a fortnight before the September 11 attacks on the United States.</p>
 <p>One thing that did not change after September 11 was Australia's need for the work of an Institute such as this.</p>
 <p>Independent and non-partisan, of course.</p>
@@ -208,6 +198,4 @@ Some of you here will remember that the Council of the Australian Strategic Poli
 <p>This is a war with a purpose. This is a war with an end.</p>
 <p>We have a strategy, a mission, and a timeframe for achieving it.</p>
 <p>We are serving our national interest in Afghanistan.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

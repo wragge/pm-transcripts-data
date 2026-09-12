@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18884</transcript-id>
-    <title>New Coast Shelter Opened In North Gosford</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/11/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Central Coast, NSW</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18884</transcript-id><title>New Coast Shelter Opened In North Gosford</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/11/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Central Coast, NSW</p>
 <p>The Australian Government today opened the refurbished Laurie Maher Coast Community Centre on the NSW Central Coast.</p>
 <p>The Government contributed funding of $890,000 towards the $2.2 million refurbishment.</p>
 <p>The refurbishment was completed using funding from the first round of the Regional Development Australia Fund (RDAF), worth almost $1 billion.</p>
@@ -17,6 +7,4 @@
 <p>Free services offered at the refurbished Laurie Maher Coast Community Centre will include meals, shower and laundry facilities, food parcels, community meeting room and conference room and referrals.</p>
 <p>The Laurie Maher Coast Community Centre provides a place for the most vulnerable and marginalised members of the local community to help them with the difficulties they encounter.</p>
 <p>The Government pays tribute to staff and volunteers at the Laurie Maher Coast Community Centre for the vital work they do in helping the most vulnerable and disadvantaged in their local community.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

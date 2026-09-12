@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12646</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  RADIO INTERVIEW WITH MATT PEACOCK, ABC   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/09/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Iraq; Zimbabwe.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12646</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  RADIO INTERVIEW WITH MATT PEACOCK, ABC   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/09/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Iraq; Zimbabwe.</p>
 <p>E&amp;OE...........  </p>
 <p>PEACOCK:</p>
 <p>Mr Howard, I know you';ve said that your objective is peace but how prepared should Australia and the other countries involved be for war in this situation with Iraq?</p>
@@ -67,6 +57,4 @@
 <p>Prime Minister thanks for joining us.</p>
 <p>PRIME MINISTER:</p>
 <p>Pleasure. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

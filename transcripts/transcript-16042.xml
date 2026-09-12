@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16042</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/08/2008</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: On the line the Prime Minister Mr Rudd good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16042</transcript-id><title>Interview with Neil Mitchell, Radio 3AW, Melbourne  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/08/2008</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: On the line the Prime Minister Mr Rudd good morning.</p>
 <p>PM: Good morning Neil.</p>
 <p>MITCHELL: Prime Minister we hear all the economists talking in the usual jargon here and I know its complex but if we can avoid that sort of jargon, because it touches people in a real way this they need to know where they stand. Do you accept that the economy is now in reverse?</p>
 <p>PM: Well you look at the retail figures that you just spoke about Neil, plainly what you see is a slowing in retail spending over the two quarters which have been the first half of this year.</p>
@@ -120,6 +110,4 @@
 <p>MITCHELL: Proud of it?</p>
 <p>PM: ... apparently there is half a dozen of them. Mate, we all have a past.</p>
 <p>MITCHELL: Thank you very much. The Prime Minister, in Brisbane, Kevin Rudd.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

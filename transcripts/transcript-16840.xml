@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16840</transcript-id>
-    <title>Prime Minister&#039;s water savings award- call for nominations    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/10/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and the Minister for Climate Change and Water, Senator Penny Wong, today called for nominations for the inaugural Prime Minister's Water Wise Award.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16840</transcript-id><title><![CDATA[Prime Minister&#039;s water savings award- call for nominations    ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/10/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and the Minister for Climate Change and Water, Senator Penny Wong, today called for nominations for the inaugural Prime Minister's Water Wise Award.</p>
 <p>The Prime Minister's Water Wise Award aims to encourage and recognise significant savings in water efficiency by the commercial and industrial sector.</p>
 <p>Projects will need to demonstrate notable recent water savings, and a reduction of water use in comparison to other similar facilities.</p>
 <p>Eligible water savings can be achieved through a variety of means including metering and monitoring; installing water efficient devices; and implementing innovative technologies that reduce water use.</p>
@@ -20,6 +10,4 @@
 <p>Additionally, there are productivity gains and net economic benefits to be made from using less water, as well as environmental benefits.</p>
 <p>Applications close 5pm AEST on 30 November 2009 and the winner will be announced at the 2010 Australian Water Association Awards Dinner in March.</p>
 <p>For more information on the award and to download the award guidelines and nomination forms visit: <a href="http://www.awa.asn.au/awards">www.awa.asn.au/awards</a> or <a href="http://www.environment.gov.au/water">www.environment.gov.au/water</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

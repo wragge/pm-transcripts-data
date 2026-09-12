@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12660</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH RICHARD GLOVER, ABC RADIO   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>28/11/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Opening of the new ABC Ultimo centre; Embassy closure; terror threat; ASPI report; ASIO; Justice John Dowd; handguns; Peter Reith; drought.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12660</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER  THE HON JOHN HOWARD MP  INTERVIEW WITH RICHARD GLOVER, ABC RADIO   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>28/11/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Opening of the new ABC Ultimo centre; Embassy closure; terror threat; ASPI report; ASIO; Justice John Dowd; handguns; Peter Reith; drought.</p>
 <p>E&amp;OE...........  </p>
 <p>GLOVER:</p>
 <p>We';re joined by the Prime Minister John Howard. Good afternoon.</p>
@@ -226,6 +216,4 @@
 <p>PRIME MINISTER:</p>
 <p>Okay.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

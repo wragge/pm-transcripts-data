@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15305</transcript-id>
-    <title>Weekly Radio Message - Zimbabwe</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/03/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15305</transcript-id><title>Weekly Radio Message - Zimbabwe</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/03/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>  Listen to this Speech (MP3 -   2.00Mb - 131secs)</p>
 <p>All Australians are appalled by the barbaric actions of the Zimbabwean Government in violently suppressing the activities of their political opponents.</p>
 <p>The Australian ambassador in Zimbabwe has paid daily visits to the Opposition Leader Morgan Tsvangirai and other leaders in hospital after their beatings by Zimbabwean Government authorities.</p>
@@ -22,6 +12,4 @@
 <p>The world community led by the governments in southern Africa should set about achieving this objective.</p>
 <p>[ends]</p>
 <p>  Listen to this Speech (MP3 -   2.00Mb - 131secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

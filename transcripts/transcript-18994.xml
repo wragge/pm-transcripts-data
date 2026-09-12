@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18994</transcript-id>
-    <title>Coonabarabran Bushfires Declared A Disaster For Tax Deductibility Purposes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>17/01/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Coonabarabran</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18994</transcript-id><title>Coonabarabran Bushfires Declared A Disaster For Tax Deductibility Purposes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>17/01/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Coonabarabran</p>
 <p>The Australian Government will provide tax deductible status to relief funds established to help Australians affected by bushfires in the Coonabarabran region of NSW.</p>
 <p>Acting Assistant Treasurer, Senator Penny Wong, has today declared the January 2013 Coonabarabran bushfires a disaster for the purposes of establishing Australian disaster relief funds.</p>
 <p>This declaration ensures that new funds and qualifying existing funds established for the relief of people in communities affected by these bushfires can receive tax deductible donations.</p>
@@ -19,6 +9,4 @@
 <p>Donations to Australian disaster relief funds which are established to provide relief in the aftermath of the bushfires will be tax deductible for a period of two years from the date of this declaration. </p>
 <p>These donations can be used to provide money or direct assistance for relief, recovery and community reconstruction work to assist affected individuals and communities. </p>
 <p>Further information on establishing an Australian disaster relief fund is available at <a href="http://www.ato.gov.au">www.ato.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

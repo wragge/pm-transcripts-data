@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20596</transcript-id>
-    <title>Australian Health Care Agreements 2003-2008   </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/04/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I announce today that state and territory governments will receive up to an additional $10 billion to help them run public hospitals, as part of the Government's commitment to the 2003-2008 Australian Health Care Agreements.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20596</transcript-id><title>Australian Health Care Agreements 2003-2008   </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/04/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I announce today that state and territory governments will receive up to an additional $10 billion to help them run public hospitals, as part of the Government's commitment to the 2003-2008 Australian Health Care Agreements.</p>
 <p> The Government will provide states and territories with up to $42 billion over the next five years to support the provision of free public hospital services - a cornerstone of Medicare. This compares with almost $32 billion over the five-year period ending on 30 June 2003.</p>
 <p>Nationally, this funding represents a 17 per cent real increase in our commitment to public hospitals over the life of the next agreements.</p>
 <p>This is a generous package that reaffirms our strong commitment to the principle of universality under Medicare and, specifically, the availability of free public hospital treatment for all Australians who seek it.</p>
@@ -30,6 +20,4 @@
 <p>My government remains committed to the principle of free public hospital treatment under Medicare. The next agreements provide the states and territories with an opportunity to demonstrate an equal level of commitment.</p>
 <p>I have today written to premiers and chief ministers conveying details of the Commonwealth's proposal.</p>
 <p>Senator Patterson will convene a meeting shortly with state and territory health ministers to finalise details.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

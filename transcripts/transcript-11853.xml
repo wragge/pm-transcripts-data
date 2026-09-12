@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11853</transcript-id>
-    <title>Interview with Neil Mitchell, Radio 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/08/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: illegal immigration; tax indexation; workers' entitlements; Qantas; maternity leave; Russell Mark; GST effecting caravan parks; volunteer work; MCG</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11853</transcript-id><title>Interview with Neil Mitchell, Radio 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/08/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: illegal immigration; tax indexation; workers' entitlements; Qantas; maternity leave; Russell Mark; GST effecting caravan parks; volunteer work; MCG</p>
 <p>E&amp;OE................................</p>
 <p>MITCHELL:</p>
 <p>First today in our Sydney studios is the Prime Minister, he'll take your calls as usual. Mr Howard good morning.</p>
@@ -219,6 +209,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

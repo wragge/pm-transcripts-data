@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16128</transcript-id>
-    <title>Joint Media Release with the  Minister for Resources, Energy and Tourism, Martin Ferguson, Global Carbon Capture and Storage Initiative  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>19/09/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Kevin Rudd today announced a $100 million Global Institute to speed up the development of carbon capture and storage technology.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16128</transcript-id><title>Joint Media Release with the  Minister for Resources, Energy and Tourism, Martin Ferguson, Global Carbon Capture and Storage Initiative  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>19/09/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Kevin Rudd today announced a $100 million Global Institute to speed up the development of carbon capture and storage technology.</p>
 <p>Through this Institute, the Rudd Government will work cooperatively with other countries to help reduce the amount of C02 released into the atmosphere.</p>
 <p>The Government is offering to host the Institute in Australia and would continue to contribute up to $100 million per annum towards its operation.</p>
 <p>Developing and commercialising this technology is vital for Australia's future.</p>
@@ -30,6 +20,4 @@
 <p>The Government has also established the National Low Emissions Coal Initiative (NLECI), a $500 million program to accelerate the development and deployment of technologies that will reduce emissions from coal use.  It includes funding for research and to support the trial of different technologies. </p>
 <p>The Government has already established a National Low Emissions Coal Council and Carbon Storage Taskforce. These bodies will play a leading role in helping to deliver this new global initiative.</p>
 <p>Legislation to establish a regulatory framework for CO2 storage under the seabed in Commonwealth waters is currently before Parliament.  This legislation will allow Australia to offer the first carbon storage blocks for commercial development in early 2009.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

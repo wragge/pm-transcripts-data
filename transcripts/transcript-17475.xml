@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17475</transcript-id>
-    <title>Transcript of press conference Seoul, Korea</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/11/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17475</transcript-id><title>Transcript of press conference Seoul, Korea</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/11/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: The G20 Summit has obviously come to an end and I am very pleased by the outcomes of the Summit. I was pleased to be here representing Australia, and I'm very pleased at what has been achieved. The G20 was the forum that made leaders work together so that the world didn't tip from a global recession into a global depression.</p>
 <p>What has been achieved here at Seoul is building on what been achieved at earlier G20 meetings.</p>
 <p>At the Washington Summit, there was the comprehensive plan for financial sector reform to stabilize the financial system following the global financial crisis.</p>
@@ -43,6 +33,4 @@ PM: The G20 Summit has obviously come to an end and I am very pleased by the out
 <p>PM: I've had the opportunity to have a couple of discussions with President Obama during the course of the Summit, here. I should say, I've also had the opportunity for a meeting with Prime Minister Cameron, I had the opportunity for a brief conversation with President Hu.</p>
 <p>As you would be aware, the Summit is constructed so Leaders spend some time by themselves, and that has enabled me to meet a number of people that I hadn't had the opportunity to meet before, including President Obama. I anticipate when I meet President Obama tomorrow, we will be talking about the outcomes of this Seoul Summit. We will be talking about America's engagement in our region, following our very successful AUSMIN talks in Melbourne just last weekend. And we will be talking about the future strategy in Afghanistan, particularly given that the NATO Summit is in Lisbon next weekend.</p>
 <p>Thank you.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

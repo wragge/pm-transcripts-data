@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12744</transcript-id>
-    <title>Doorstop Interview, Canberra</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/03/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects> asylum seekers; Governor General; cricket match.</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12744</transcript-id><title>Doorstop Interview, Canberra</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/03/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>asylum seekers; Governor General; cricket match.</subjects><content><![CDATA[<p>E&amp;OE……………………………</p>
 <p>JOURNALIST:</p>
 <p>Mr Howard are going to be blackmailed by the asylum seekers at Woomera?</p>
 <p>PRIME MINISTER:</p>
@@ -23,6 +13,4 @@
 <p>PRIME MINISTER:</p>
 <p>I hope we have more success than we did last year but I think it’s a good day for bringing Australians together. The purpose of this is to help give encouragement to young indigenous cricketers and in the process expose to greater public gaze some of young cricketers in Australia generally and I think it will be played in a warm and positive spirit and I’m delighted that we can have it.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

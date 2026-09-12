@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21313</transcript-id>
-    <title>Doorstop Interview Swanbourne, Perth </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>09/06/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21313</transcript-id><title>Doorstop Interview Swanbourne, Perth </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>09/06/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Okay. All I wanted to say is to repeat what I said in there - how proud everybody should be of the extraordinary ability of this regiment, and they deserve the praise that's been justifiably heaped on them by many and expressed so well today by the Governor-General at the parade.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, the official notes on this say that the outstanding gallantry to deny the Iraqi forces the ability to employ weapons of mass destruction. Given that there hasn't been any found, doesn't that take the gloss off a little bit?</p>
@@ -88,6 +78,4 @@
 <p>   PRIME MINISTER:</p>
 <p>Well, I haven't got myself across all the detail of that so-called revelation so I'm not going to get into giving a specific answer on that except to repeat the obvious, and that is that Australians were in no way involved in any abuse of Iraqi prisoners.  We didn't encourage it.  We didn't condone it and we've appropriately condemned it and are in no way associated with it.  Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

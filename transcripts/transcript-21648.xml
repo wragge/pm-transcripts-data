@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21648</transcript-id>
-    <title>Exports and Infrastructure  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/03/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Australia has increasing export potential, particularly but not only in the resource sector.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21648</transcript-id><title>Exports and Infrastructure  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/03/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Australia has increasing export potential, particularly but not only in the resource sector.</p>
 <p> I have, therefore, decided to appoint a small taskforce to identify any bottlenecks of a physical or regulatory kind in the operation of Australia's infrastructure which may impede the full realisation of our export opportunities.</p>
 <p>It will be chaired by Dr Brian Fisher, the Executive Director of the Australian Bureau of Agricultural and Resource Economics. It will also include Mr Max Moore-Wilton AC, currently Executive Chairman of Sydney Airport and former Secretary of the Department of Prime Minister and Cabinet and Prof Henry Ergas of Charles River Associates.</p>
 <p>All three members of the taskforce have extensive experience in infrastructure matters. The remit of the taskforce is limited to bottlenecks which may affect Australia's export performance.</p>
@@ -22,6 +12,4 @@
 <p>Mr Moore-Wilton was appointed in December 2002 as Executive Chairman of the Sydney Airport Corporation Limited following six and a half years as Secretary of the Department of Prime Minister and Cabinet. Mr Moore-Wilton has had significant experience with Australia's infrastructure through a distinguished career in both the Public Service and the private sector. He has served at the senior executive level in the trade and primary industries portfolios and as General Manager of the Australian Wheat Board. He also managed the Australian National Line and was Director-General of the NSW Department of Transport. Prior to re-joining the Australian Public Service in 1996, Mr Moore-Wilton worked at the Australian Stock Exchange.</p>
 <p>  Professor Henry Ergas</p>
 <p>Professor Henry Ergas, Vice President, Charles River Associates, has extensive international experience advising government bodies and major corporations in Australia, New Zealand and the European Union. Prior to joining CRA, he was the founder and Managing Director of the Network Economics Consulting Group (NECG) Pty Ltd. Having spent a decade as a microeconomist at the OECD, Mr. Ergas has a strong background in the analysis of issues involving efficient resource allocation. He is also Adjunct Professor of Economics at the National University of Singapore.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

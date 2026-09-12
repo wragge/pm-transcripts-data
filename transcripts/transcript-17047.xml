@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17047</transcript-id>
-    <title>Prime Minister Joint media release More support for Indigenous mums and bubs 11 February 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/02/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Indigenous babies will have a better chance of being born healthy and staying healthy following an announcement today of Australian Government funding of $9.1 million over three years for 10 new mothers and babies services.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17047</transcript-id><title>Prime Minister Joint media release More support for Indigenous mums and bubs 11 February 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/02/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Indigenous babies will have a better chance of being born healthy and staying healthy following an announcement today of Australian Government funding of $9.1 million over three years for 10 new mothers and babies services.</p>
 <p>The 10 new services are in addition to the 43 already funded under the New Directions program which give Indigenous babies and their mothers better access to:</p>
 <p>     * Pre and post pregnancy care</p>
 <p>     * Standard information about baby care</p>
@@ -38,6 +28,4 @@
 <p>Mr Snowdon said this was part of a broad commitment by the Rudd Government to Close the Gap in Indigenous health outcomes. </p>
 <p>"Across the Health and Ageing portfolio, funding of almost $1 billion has been allocated in the 2009-10 Budget for health programs specific to Aboriginal and Torres Strait Islander people."</p>
 <p>"These recent investments equate to a 57 per cent increase in Indigenous health funding across the Portfolio since the 2007-08 Budget," Mr Snowdon said.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

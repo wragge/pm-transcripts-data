@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17616</transcript-id>
-    <title>Speech to the Australian Council of Chinese Organisations dinner in celebration of Australia Day and Chinese New Year </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>22/01/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17616</transcript-id><title>Speech to the Australian Council of Chinese Organisations dinner in celebration of Australia Day and Chinese New Year </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>22/01/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I want to begin by acknowledging two great Australians, Gough and Margaret Whitlam. The Chinese community  -  and the People's Republic  -  have no truer friends and I know Gough and Margaret are with us in spirit tonight.</p>
 <p>I am a migrant.</p>
 <p>I came here on a long journey with my family in search of a better life.</p>
@@ -81,6 +71,4 @@ I want to begin by acknowledging two great Australians, Gough and Margaret Whitl
 <p>We'll succeed together.  We'll stay together.  We won't let go.</p>
 <p>Joined by mateship, driven to deliver a fair go to all, we will be proud of our history even as we build a better and fairer future.</p>
 <p>Our best days are yet to come. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

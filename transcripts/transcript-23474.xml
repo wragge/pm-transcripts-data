@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23474</transcript-id>
-    <title>Doorstop Interview, Canberra</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>07/05/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Australian Commonwealth Games Netball Team,  Budget 2014.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23474</transcript-id><title>Doorstop Interview, Canberra</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>07/05/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Australian Commonwealth Games Netball Team, Budget 2014.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>It is a real thrill to be associated with the Australian Netball Diamonds and to help to start their campaign for gold at the Glasgow Commonwealth Games. I’ve been a netball dad for about 20 years. Yes, I’m the Prime Minister of our country, but I am a netball dad and it’s very important that we support sport, particularly women’s sport. Netball has not always been given the attention that it deserves as one of the really big participation sports for Australia women and girls.</p>
 <p><strong>QUESTION:</strong></p>
 <p>Has a decision been made on the debt tax?</p>
@@ -26,6 +16,4 @@
 <p>We are all playing a part in the fiscal repair job that Australia needs if we are going to build our prosperity, build our strength as a nation in the years and decades to come.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

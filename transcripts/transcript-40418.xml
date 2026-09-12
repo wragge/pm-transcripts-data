@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40418</transcript-id>
-    <title>National Security Statement on Counter-Terrorism</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/09/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I will update the House on our national security. I will outline the actions the Government is taking to make Australians and our interests secure at home and abroad.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40418</transcript-id><title>National Security Statement on Counter-Terrorism</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/09/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I will update the House on our national security. I will outline the actions the Government is taking to make Australians and our interests secure at home and abroad.</p>
 <p>The threats we face are regrettably very real. And they are evolving.</p>
 <p>But my message today is one of reassurance: The Government, the Parliament and our agencies are resolutely committed to ensuring Australians remain safe, secure and free.</p>
 <p>We are constantly reviewing and strengthening our capabilities to ensure our armed forces and security agencies have all the powers they need - including important new measures that I will detail shortly.</p>
@@ -47,7 +37,7 @@
 <p>That’s why we will be in the Middle East for a while yet.</p>
 <p>But first we must disrupt, degrade and ultimately defeat Daesh.</p>
 <p>And to do this we must allow the ADF, on the frontline of this fight, to have the powers they need.</p>
-<p>We must target Daesh at its base. And with lethal force. No exceptions.</p>
+<p>We&nbsp;must target Daesh at its base. And with lethal force. No exceptions.</p>
 <p>In January this year, as we were on our way to visiting our troops in Iraq and Afghanistan, the Chief of the Defence Force advised me of a legal anomaly which meant we were not empowering the ADF, in particular our Air Force, to be as effective as they could be.</p>
 <p>Under international law, all members of an organised armed group such as Daesh can be targeted with lethal force, subject, of course, to the ordinary rules of international humanitarian law.</p>
 <p>This is a reasonable and conventional approach adopted by the armed forces of our key allies across the world.</p>
@@ -87,13 +77,15 @@
 <p>We must not link all Muslims with the crimes of a terrorist minority – that is precisely what the extremists want us to do. I am committed to continue working closely with Australia’s Muslim communities, as I am with all communities. And I’m pleased to report that my agency heads say we are making considerable headway. But there is work to be done. Other established terrorist groups with longstanding grievances against the West have not disappeared. And there has also been a resurgence in far-right extremism directed against Muslims.</p>
 <p>In fact, the most recent terrorist attack disrupted in Australia involved a plan by such an extremist.</p>
 <p>Australia is better placed than many of our counterparts in dealing with the threat of terrorism:</p>
-<ul><li>Under the Coalition we have regained control of our borders. The importance of this has been brought home with what I've described as ‘the perfect storm’ attacking Europe, where Daesh and others have successfully taken advantage of porous borders and uncontrolled humanitarian flows.</li>
+<ul>
+<li>Under the Coalition we have regained control of our borders. The importance of this has been brought home with what I've described as ‘the perfect storm’ attacking Europe, where Daesh and others have successfully taken advantage of porous borders and uncontrolled humanitarian flows.</li>
 <li>Our security agencies are among the most professional and vigilant in the world.</li>
 <li>And we have implemented stronger laws to give them the tools they need, taking five tranches of legislation through Parliament since August 2014.</li>
 <li>At our international airports, Australian Border Force-led counter terrorism unit operations have stopped a number of people and over $3 million reaching Daesh.</li>
 <li>The Government is establishing a $100 million visa risk assessment capability to better detect travellers who might threaten our security long before they set foot on our shores.</li>
 <li>And we are rigorous in our efforts to ensure that guns are not illegally imported into Australia and our strong gun control laws are strictly enforced.</li>
-</ul><p>All of these elements provide strength and reassurance.</p>
+</ul>
+<p>All of these elements provide strength and reassurance.</p>
 <p>But we cannot afford for a moment to become complacent.</p>
 <p>We have to continue to reform our national security laws in this ever-evolving security environment, made even more challenging by rapid technological change. And that is what we are doing.</p>
 <p>I have initiated two important measures to further strengthen our counter-terrorism laws and meet the challenges of the evolving threat environment.</p>
@@ -124,6 +116,4 @@
 <p>We cannot be effective if we are creating division; whether by fomenting distrust within the Muslim community or inciting fear of Muslims in broader society. Division begets division. It makes violence more likely, not less.</p>
 <p>The aim of extremists, including those committing violence through a warped and nihilistic interpretation of religion, is to divide us and to turn our citizens against each other - but we will not let them win.</p>
 <p>We are stronger when we stand together. We will defeat division and weakness with unity and strength.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

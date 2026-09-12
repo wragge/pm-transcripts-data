@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18875</transcript-id>
-    <title>Transcript of Interview with Kieran Gilbert - Sky News</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/10/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>HOST: Prime Minister Julia Gillard thanks very much for you time.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18875</transcript-id><title>Transcript of Interview with Kieran Gilbert - Sky News</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/10/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>HOST: Prime Minister Julia Gillard thanks very much for you time.</p>
 <p>PM: Thank you.</p>
 <p>HOST: On the Asian Century White Paper, one of the goals is to have all students having continuous access to one of the priority languages  -  Mandarin, Hindi, Indonesian or Japanese.</p>
 <p>Access is one thing but having them chose to take it up is another. How does the nation promote students taking on these languages?</p>
@@ -62,6 +52,4 @@
 <p>It's between Labor's plan for the future and the Opposition lacking any plan.</p>
 <p>HOST: Prime Minister, thanks for your time.</p>
 <p>PM: Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

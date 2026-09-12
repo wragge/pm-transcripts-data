@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20605</transcript-id>
-    <title>Medical Indemnity: Certainty for Doctors  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/05/2003</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announce further details of measures to ensure that medical practitioners have access to adequate and affordable retirement cover, and a new measure to address concerns by doctors about exposure to so called 'blue sky' claims. These extensions to the government's comprehensive medical indemnity package will allow medical practitioners to continue to practise with increased certainty about their medical indemnity insurance cover.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20605</transcript-id><title>Medical Indemnity: Certainty for Doctors  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/05/2003</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announce further details of measures to ensure that medical practitioners have access to adequate and affordable retirement cover, and a new measure to address concerns by doctors about exposure to so called 'blue sky' claims. These extensions to the government's comprehensive medical indemnity package will allow medical practitioners to continue to practise with increased certainty about their medical indemnity insurance cover.</p>
 <p>The government has introduced an improved regulatory regime for medical defence organisations (MDOs) and other medical indemnity providers. The Medical Indemnity (Prudential Supervision and Product Standards) Act 2003 introduces a prudential regime that will take effect on 1 July 2003. The Act will deliver increased certainty for doctors and their patients that claims will ultimately be met. It provides this protection by prudentially regulating the MDO's insurance operations under the same standards as general insurers, and by requiring that medical indemnity cover is offered as a legally binding contract for specified levels of cover rather than as a vaguely defined promise.</p>
 <p>'Blue Sky' Claims</p>
 <p>The prudential regime will require MDOs to specify the level of cover they offer because in practice no insurer has the unlimited capital needed to underwrite 'unlimited' cover. The government recognises however that doctors are concerned that the move to contracts of medical indemnity insurance may potentially leave them financially exposed to large awards and settlements in the future (the so-called 'blue sky' issue). In particular doctors are concerned that the long tailed nature of medical negligence claims - which in extreme cases can take over twenty years to be finalised - and the high rate of claims 'inflation' may leave them personally liable for that portion of future payouts that exceed their level of cover.</p>
@@ -33,6 +23,4 @@
 <p>Further details are available from:</p>
 <p>Robert Lawrence, Media Adviser, Office of the Minister for Revenue and Assistant Treasurer (0438 690 305).</p>
 <p>Randal Markey, Media Adviser, Office of the Minister for Health and Ageing (0417 694 520).</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

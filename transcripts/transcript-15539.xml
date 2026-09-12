@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15539</transcript-id>
-    <title>Doorstop Interview, Sydney Airport, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/07/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15539</transcript-id><title>Doorstop Interview, Sydney Airport, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/07/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 UK terror threat; World Youth Day; Iraq; Bennelong; smoking laws.</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -22,6 +12,4 @@ UK terror threat; World Youth Day; Iraq; Bennelong; smoking laws.</p>
 <p>Mr Howard specifically this event next year, I would imagine there would have to be enormous security, would there not?</p>
 <p>PRIME MINISTER:</p>
 <p>Well any great event involves security and I know that involves some inconvenience to people but the terrorists win if you stop doing things because of the inconvenience of security. There'll be some inconvenience surrounding APEC, there'll be some inconvenience surrounding the World Youth Day next year. But both of them are very important events and if we said to the world, </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

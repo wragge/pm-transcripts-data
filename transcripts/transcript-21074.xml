@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21074</transcript-id>
-    <title>Prime Minister&#039;s XI  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/01/2004</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  I am delighted that Steve Waugh will captain the Prime Minister';s XI for the match against India on Wednesday 28 January in Canberra.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21074</transcript-id><title><![CDATA[Prime Minister&#039;s XI  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/01/2004</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  I am delighted that Steve Waugh will captain the Prime Minister';s XI for the match against India on Wednesday 28 January in Canberra.</p>
 <p>An important element of Steve';s vast contribution to the game of cricket has always been his ability to promote and encourage young players.</p>
 <p>His participation in the Prime Minister';s XI game will enhance this legacy, aiding in the development of some of the nation';s most talented cricketers.</p>
 <p>The Manuka Oval fixture promises to be one of the most keenly anticipated games played in the national capital.</p>
@@ -24,6 +14,4 @@
 <p>I wish to thank Cricket Australia for their support. Without their longstanding commitment, the Prime Minister';s XI fixture would not be possible.</p>
 <p> Also, I offer congratulations to the ACT Cricket Association for the fantastic work they do each year in hosting this game.</p>
 <p>The long tradition of the Prime Minister';s XI match combined with the competitive  attitude of the two teams ensures that it will be a terrific day for all cricket fans.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

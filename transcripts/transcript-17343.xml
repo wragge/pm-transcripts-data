@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17343</transcript-id>
-    <title>Prime Minister Treasurer Minister for Infrastructure $2 billion for Queensland from Regional Infrastructure Fund 11 June 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>11/06/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government today announced that Queensland should expect more than $2 billion in additional infrastructure investment from the new $6 billion Regional Infrastructure Fund.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17343</transcript-id><title>Prime Minister Treasurer Minister for Infrastructure $2 billion for Queensland from Regional Infrastructure Fund 11 June 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>11/06/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government today announced that Queensland should expect more than $2 billion in additional infrastructure investment from the new $6 billion Regional Infrastructure Fund.</p>
 <p>This investment will reflect the importance of the major resource state of Queensland's contribution to total mining production in Australia.</p>
 <p>The Regional Infrastructure Fund will invest in projects with potential partner funding from States, private investors and/or local governments.</p>
 <p>For the first time, key regional Queensland mining towns like Mackay, Gladstone, Rockhampton and Townsville will be able to compete for a dedicated stream of funding for infrastructure.</p>
@@ -19,6 +9,4 @@
 <p>That means more rail, roads, ports, and other crucial infrastructure to support the workforce in critical mining regions and in communities that support mining regions.</p>
 <p>Infrastructure Australia will be consulted on projects and projects will be selected based on transparent criteria.</p>
 <p>This builds on the record investment the Rudd Government is making in Queensland infrastructure, which is $8.6 billion for transport infrastructure over the Nation Building Program to 2013-14.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

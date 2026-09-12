@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>7458</transcript-id>
-    <title>UNKNOWN</title>
-    <prime-minister>Hawke, Robert</prime-minister>
-    <period-of-service>19830311 - 19911220</period-of-service>
-    <release-date>20/01/1989</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007458.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-PRIME MINISTER<br />
-FOR MEDIA 20 JANUARY 1989<br />
-Mr Hayden as Governor-General, Australia's Head of State,<br />
-and Mr Duffy, the Minister for Trade Negotiations, will<br />
-represent Australia and the Government at the funeral of the<br />
-late Emperor of Japan, which will be held in Tokyo on<br />
-24 February 1989.<br />
-The level of representation at the funeral reflects the<br />
-importance which the Government attaches to Australia's<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>7458</transcript-id><title>UNKNOWN</title><prime-minister>Hawke, Robert</prime-minister><period-of-service>19830311 - 19911220</period-of-service><field_date>20/01/1989</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00007458.pdf</document><subjects></subjects><content><![CDATA[<p>
+PRIME MINISTER<br>
+FOR MEDIA 20 JANUARY 1989<br>
+Mr Hayden as Governor-General, Australia's Head of State,<br>
+and Mr Duffy, the Minister for Trade Negotiations, will<br>
+represent Australia and the Government at the funeral of the<br>
+late Emperor of Japan, which will be held in Tokyo on<br>
+24 February 1989.<br>
+The level of representation at the funeral reflects the<br>
+importance which the Government attaches to Australia's<br>
 relationship with Japan. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

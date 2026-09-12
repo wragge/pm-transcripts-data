@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41357</transcript-id>
-    <title>2017 Prime Minister&#039;s Literary Awards Winners</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>01/12/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Malcolm Turnbull and Minister for the Arts Mitch Fifield today announced the winners of the 2017 Prime Minister’s Literary Awards.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41357</transcript-id><title><![CDATA[2017 Prime Minister&#039;s Literary Awards Winners]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>01/12/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Malcolm Turnbull and Minister for the Arts Mitch Fifield today announced the winners of the 2017 Prime Minister’s Literary Awards.</p>
 <p>Winners across six categories were selected from a strong shortlist of 30 works from an impressive group of Australian authors. The awards were presented today at a ceremony at Parliament House, Canberra.</p>
 <p>The winning and shortlisted authors epitomise the strength and vitality of Australia’s literary talents and we congratulate them on this achievement.</p>
 <p>A group of 15 judges across three expert panels made recommendations to the Prime Minister on the shortlists and winners from over 450 entries.</p>
@@ -29,6 +19,4 @@
 <p>Home in the Rain, Bob Graham</p>
 <p>In their 10th year, the Prime Minister’s Literary Awards demonstrate the Government’s continued support for the literary arts. There have been more than 4,000 entries over the past ten years and $4,750,000 in prize money has been awarded.</p>
 <p>For more information about the winning books, authors and judges visit the Department of Communications and the Arts website.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

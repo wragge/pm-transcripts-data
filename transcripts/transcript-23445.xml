@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23445</transcript-id>
-    <title>Anzac Day</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>24/04/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On Anzac Day, Australians at home and abroad pause to remember all who have served our country.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23445</transcript-id><title>Anzac Day</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>24/04/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On Anzac Day, Australians at home and abroad pause to remember all who have served our country.</p>
 <p>This is the 99th anniversary of the landing at Gallipoli.</p>
 <p>Over coming years, Australians will commemorate the centenary of the Great War and remember the tide of events that shaped our nation and that still cast a shadow over the wider world.</p>
 <p>The First World War impacted on Australia like nothing else before or since.</p>
@@ -18,12 +8,10 @@
 <p>Of men aged 18 to 42, almost one in two served in uniform.</p>
 <p>Of those who served overseas, almost one in five were killed in action.</p>
 <p>Of the 270,000 who returned, more than half had been wounded – and others had mental scars that never healed.</p>
-<p>We will never glorify war.  Still, the worst of times can bring out the best in us.</p>
+<p>We will never glorify war.&nbsp; Still, the worst of times can bring out the best in us.</p>
 <p>This day we remember all who have served our country – in our Army, Navy and Air Force – and through all conflicts: the Boer War, the First and Second World Wars, Korea, Vietnam, Iraq, Afghanistan and everywhere our Armed Forces are sent in our name.</p>
 <p>The presence of Australians at Anzac Day events is a demonstration that we are a nation of memory, not just of memorials.</p>
 <p>The character of our servicemen and women has helped to define our nation. Their courage, mateship and sacrifice have been exemplary.</p>
 <p>Lest we forget.</p>
 <p>24 April 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

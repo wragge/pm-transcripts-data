@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21545</transcript-id>
-    <title>Doorstop Interview Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/11/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21545</transcript-id><title>Doorstop Interview Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/11/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Well Prime Minister you must be very pleased with the unemployment figures today?</p>
 <p>PRIME MINISTER:</p>
 <p>These are fantastic figures.  A great human dividend from good economic policy.  The figures could go even lower if we could get our unfair dismissal laws through Parliament.  We could have a four in front of the unemployment figures if we could get those unfair dismissal changes through.  So I hope that all who have opposed those changes in the past will reconsider their position.</p>
@@ -34,6 +24,4 @@
 <p>PRIME MINISTER:</p>
 <p>I don't have any particular new proposals that we haven't previously canvassed.  I don't rule them out over the years ahead. But for the time being, implementing all of the things that we have talked about will make a very big change, a very big improvement, not radical, indeed progressive.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

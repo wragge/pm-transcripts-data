@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16788</transcript-id>
-    <title>Government clears final hurdle for $50 billion Gorgon go-ahead    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>01/09/2009</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister announced on Barrow Island today that the Joint Authority has offered a total of five production licences to the Gorgon Joint Venture Partners for the Gorgon and Io/Jansz gas fields.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16788</transcript-id><title>Government clears final hurdle for $50 billion Gorgon go-ahead    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>01/09/2009</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister announced on Barrow Island today that the Joint Authority has offered a total of five production licences to the Gorgon Joint Venture Partners for the Gorgon and Io/Jansz gas fields.</p>
 <p>The Joint Authority  -  Federal Minister for Resources, Energy and Tourism, Martin Ferguson, and Western Australian Minister for Mines and Petroleum, Norman Moore  -  has also offered to renew seven retention leases over other gas fields in the Greater Gorgon area.</p>
 <p>These fields will be developed sequentially to maintain production and extend the economic life of the project.</p>
 <p>They will also be used to increase the supply of domestic gas into the Western Australian market, providing greater competition.</p>
@@ -23,6 +13,4 @@
 <p>It will provide jobs for 6,000 workers at the peak of construction and inject $33 billion into the economy over the next few years through the purchase of Australian goods and services.</p>
 <p>The project will also generate about $40 billion in revenue that will fund schools, hospitals, roads and infrastructure for the state and the nation for decades to come.</p>
 <p>Gorgon will also deliver at least 150 TJ/day of domestic gas into the Western Australian market by no later than 2015, increasing competition and easing supply side issues for Western Australian industry and households.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

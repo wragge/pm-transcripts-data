@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12090</transcript-id>
-    <title>Interview with Steve Liebmann, Today Show </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/06/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Collapse of HIH Insurance &amp; One.Tel; GDP figures; Federal election</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12090</transcript-id><title>Interview with Steve Liebmann, Today Show </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/06/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Collapse of HIH Insurance &amp; One.Tel; GDP figures; Federal election</p>
 <p>E&amp;OE................................</p>
 <p>LIEBMANN:</p>
 <p>Prime Minister, good morning to you.</p>
@@ -74,6 +64,4 @@
 <p>LIEBMANN:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

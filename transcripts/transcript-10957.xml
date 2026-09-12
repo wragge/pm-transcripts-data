@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10957</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT HOLDEN&amp;#146;S 50TH ANNIVERSARY CELEBRATION                SOCIAL CENTRE, PORT MELBOURNE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/11/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10957</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT HOLDEN&amp;#146;S 50TH ANNIVERSARY CELEBRATION                SOCIAL CENTRE, PORT MELBOURNE]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/11/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................................................................................................</p>
 <p>Thank you very much, Bill; to the Premier, Jeff Kennett; to the</p>
 <p>   Lord Mayor, Jim Wiemels; my other parliamentary colleagues; ladies</p>
 <p>   and gentlemen.</p>
@@ -100,6 +90,4 @@
 <p>   thank you most warmly for the invitation to be with you today. Thank</p>
 <p>   you.</p>
 <p>[ends] </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

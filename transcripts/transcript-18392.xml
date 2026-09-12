@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18392</transcript-id>
-    <title>First national commemoration for the bombing of Darwin</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/02/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18392</transcript-id><title>First national commemoration for the bombing of Darwin</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/02/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 On the 70th Anniversary of the Bombing of Darwin, Prime Minister Julia Gillard and Veterans' Affairs Minister Warren Snowdon, encouraged all Australians to reflect on the dark day when our nation was first attacked on home soil  -  19 February 1942.</p>
 <p>Today's anniversary will also be the first time it is recognised as a national day of observance, joining Anzac Day and Remembrance Day as a date when Australians can pause to remember those who lost their lives protecting our freedom.</p>
 <p>Speaking from Darwin, the Prime Minister said the attacks on Darwin and northern Australia were a defining moment in our history that should not be forgotten.</p>
@@ -23,6 +13,4 @@ On the 70th Anniversary of the Bombing of Darwin, Prime Minister Julia Gillard a
 <p>The bombing of Darwin was the first of more than 90 air raids across Australia's north starting in February 1942 and lasting until November 1943, hitting Broome, Katherine, Wyndham, Townsville and Horn Island.</p>
 <p>Images of the Bombing of Darwin are available for download from the Australian War Memorial, contact <a href="mailto:media@awm.gov.au">media@awm.gov.au</a></p>
 <p>Audio files and films can also be requested from the Memorial's collection web page at <a href="http://www.awm.gov.au/search/collections/">www.awm.gov.au/search/collections/</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21029</transcript-id>
-    <title>Press Conference Australian High Commission Abuja, Nigeria</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/12/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21029</transcript-id><title>Press Conference Australian High Commission Abuja, Nigeria</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/12/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p>Well ladies and gentlemen, I don't know that I've got a lot to add to what I said last night, we've had the first session, there was some discussion on Zimbabwe and we're going to come back to that but the session this morning was very brief because it was largely taken up with the opening ceremony.</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, why was it that CMAG wasn't able to come up with a clear recommendation as to what should be done on Zimbabwe?</p>
@@ -157,6 +147,4 @@
 <p>Well it's a very hypothetical question and I'm not going to answer it.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17470</transcript-id>
-    <title>Transcript of press conference Seoul, Korea</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/11/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17470</transcript-id><title>Transcript of press conference Seoul, Korea</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/11/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: Well, I am glad to be here in Seoul, too, to have joined you all today, but most particularly, of course, I have had the opportunity to meet the President of Korea. We have discussed the strong friendship between our two countries. We have discussed our mutual desire to rapidly conclude the Free Trade Agreement which has been negotiated between Korea and Australia.</p>
 <p>Trade means jobs. The Free Trade Agreement will be good for Australia. It will be good for Korea and we have discussed this afternoon working to bring that Free Trade Agreement to conclusion.</p>
 <p>I also congratulated the President of Korea on his leadership in hosting this meeting of the G20. The meeting which will be conducted over the next two days, I believe, is shaping up to be very successful event. Of course, Australia and particularly Kevin Rudd worked hard to ensure that the G20 was created to guide the worlds' response to the global financial crisis and to become a standing part of the way that the world does business and the G20 has already some significant achievements.</p>
@@ -75,6 +65,4 @@ PM: Well, I am glad to be here in Seoul, too, to have joined you all today, but 
 <p>JOURNALIST: What are your plans for Remembrance Day tomorrow?</p>
 <p>PM: The program will be given to you, but tomorrow I will be laying a wreath in remembrance of fallen soldiers. I will have the opportunity to meet some Australian veterans who are here in Korean who served in Korea, so I'm very much looking forward not only to having the opportunity to lay the wreath as we mark remembrance day, but to also meet those individual Australians and to hear their life stories, which I'm sure are going to be quite remarkable ones.</p>
 <p>Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

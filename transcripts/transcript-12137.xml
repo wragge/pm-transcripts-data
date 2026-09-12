@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12137</transcript-id>
-    <title>MV Tampa - Unauthorised Arrivals</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/09/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am announcing today that we have reached agreement with the Governments of New Zealand and Nauru for the processing of the people rescued by the MV Tampa.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12137</transcript-id><title>MV Tampa - Unauthorised Arrivals</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/09/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am announcing today that we have reached agreement with the Governments of New Zealand and Nauru for the processing of the people rescued by the MV Tampa.</p>
 <p>Under the terms of the agreement, the rescuees will be conveyed to Nauru and New Zealand for initial processing.</p>
 <p>New Zealand has agreed to process 150 of those aboard the Tampa. It is envisaged that this will include family groups involving women and children. Those found to be genuine refugees in New Zealand would remain there.</p>
 <p>The remainder of the rescuees will be assessed in Nauru and those assessed as having valid claims from Nauru would have access to Australia and other countries willing to share in the settlement of those with valid claims.</p>
@@ -19,6 +9,4 @@
 <p>Australia will continue to ensure that the rescuees receive all necessary humanitarian assistance while these arrangements are put in place.</p>
 <p>I would like to take this opportunity to express my Government's gratitude to the Governments of Nauru and New Zealand for their ready and constructive humanitarian assistance.</p>
 <p>1 September 2001</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

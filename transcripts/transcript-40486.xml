@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>40486</transcript-id>
-    <title>Doorstop</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>03/10/2016</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>40486</transcript-id><title>Doorstop</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>03/10/2016</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>So many happy riders on the train and people getting ready to ride on the train. Now we don't want to hold up any more riders on the train.</p>
 <p>It is a great piece of infrastructure, as I said at the outset. It is transformative, it is key to the development of our cities, mass transit infrastructure and of course it improves the amenity and liveability of this part of Brisbane. It is a fantastic development. So, really proud to be playing such an important role in it. As I said earlier, it’s a great example of collaboration between state, federal and local government.</p>
 <p>Premier, did you want to say something?</p>
@@ -49,6 +39,4 @@
 <p>On Mr Rudd, I see there are varying accounts in the newspapers. If Mr Rudd wants to be nominated by another country, that’s a matter between him and that other country.</p>
 <p>Thank you very much.</p>
 <p><strong>[Ends]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

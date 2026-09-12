@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15541</transcript-id>
-    <title>Doorstop Interview, Adelaide</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/04/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15541</transcript-id><title>Doorstop Interview, Adelaide</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/04/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Solomon Islands tsunami; state politics.</p>
 <p>E&amp;OE...</p>
 <p>JOURNALIST:</p>
@@ -29,6 +19,4 @@ Solomon Islands tsunami; state politics.</p>
 <p>PRIME MINISTER:</p>
 <p>Well I don't like it for what it represents because it means that you don't have good state governments. The New South Wales Government is a very bad government, it did deserve to be defeated, but I do think people always distinguish between federal and state governments and I think at the end of this year a lot of people are going to baulk at the idea that you have Labor governments everywhere without any checks and balances, particularly when those Labor governments are going to be bullied by the unions.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

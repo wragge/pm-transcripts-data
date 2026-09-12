@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18241</transcript-id>
-    <title>Transcript of interview with Fran Kelly, Radio National Breakfast</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/10/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18241</transcript-id><title>Transcript of interview with Fran Kelly, Radio National Breakfast</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/10/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: The Prime Minister joins me now. Julia Gillard, welcome to Breakfast.</p>
 <p>PM: Good morning, Fran.</p>
 <p>HOST: Prime Minister, what confidence do you have that Qantas and the unions can sort this out in the next 21 days? The animosity runs pretty deep.</p>
@@ -51,6 +41,4 @@ HOST: The Prime Minister joins me now. Julia Gillard, welcome to Breakfast.</p>
 <p>PM: Well, let's looks at the record of the Fair Work Act  -  we have not seen, in general, industrial disputes on the rise. The Fair Work Act has been there, it's been working, we've not seen a general rise in industrial disputation, but what we have seen, Fran, and this is very important, we've seen an end to the rip offs which used to see under WorkChoices: workers at most risk in our workforce, young people, women, people with low skills, walk into work one day and be told ‘you're not getting your penalty rates anymore, you're not getting your overtime anymore'. That is what used to happen under WorkChoices, a gross unfairness to working people and the Fair Work Act ended that.</p>
 <p>HOST: Prime Minister Julia Gillard, thank you very much for joining us on Breakfast.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

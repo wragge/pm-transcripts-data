@@ -1,33 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>3333</transcript-id>
-    <title>TEXT OF MESSAGE FROM PRIME MINISTER TO THE PRIME MINISTER OF GREECE</title>
-    <prime-minister>Whitlam, Gough</prime-minister>
-    <period-of-service>19721205 - 19751111</period-of-service>
-    <release-date>25/07/1974</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003333.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-LLIL<br />
-PRIME MINISTER July 1974<br />
-TEXT OF MESSAGE FROM PRIME MINISTER TO THE<br />
-PRIME MINISTER OF GREECE<br />
-" TO: HIS EXCELLENCY, MR. CONSTANTINE KARAMANLIS,<br />
-PRIME MINISTER OF THE HELLENIC REPUBLIC<br />
-I RECEIVED THE NEWS OF YOUR RESTORATION AS PRIME<br />
-MINISTER WITH DELIGHT AND HASTEN TO OFFER YOU MY CONGRATULATIONS.<br />
-THE RETURN OF DEMOCRACY TO ITS BIRTHPLACE HAS BEEN WARMLY<br />
-RECEIVED BY THE AUSTRALIAN GOVERNMENT AND PEOPLE AND ESPECIALLY<br />
-BY THE LARGE AND GREATLY RESPECTED GREEK COMMUNITY IN AUSTRALIA.<br />
-I EXTEND TO YOU MY WARM GOOD WISHES AS YOU ASSUME RESPONSIBILITY<br />
-FOR THE AFFAIRS OF YOUR COUNTRY WITH WHICH AUSTRALIA HAS HAD<br />
-ENDURING AND INTIMATE ASSOCIATIONS IN WAR AND PEACE.<br />
-GOUGH WHITLAM<br />
-PRIME MINISTER OF AUSTRALIA".<br />
-I _ at<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>3333</transcript-id><title>TEXT OF MESSAGE FROM PRIME MINISTER TO THE PRIME MINISTER OF GREECE</title><prime-minister>Whitlam, Gough</prime-minister><period-of-service>19721205 - 19751111</period-of-service><field_date>25/07/1974</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00003333.pdf</document><subjects></subjects><content><![CDATA[<p>
+LLIL<br>
+PRIME MINISTER July 1974<br>
+TEXT OF MESSAGE FROM PRIME MINISTER TO THE<br>
+PRIME MINISTER OF GREECE<br>
+" TO: HIS EXCELLENCY, MR. CONSTANTINE KARAMANLIS,<br>
+PRIME MINISTER OF THE HELLENIC REPUBLIC<br>
+I RECEIVED THE NEWS OF YOUR RESTORATION AS PRIME<br>
+MINISTER WITH DELIGHT AND HASTEN TO OFFER YOU MY CONGRATULATIONS.<br>
+THE RETURN OF DEMOCRACY TO ITS BIRTHPLACE HAS BEEN WARMLY<br>
+RECEIVED BY THE AUSTRALIAN GOVERNMENT AND PEOPLE AND ESPECIALLY<br>
+BY THE LARGE AND GREATLY RESPECTED GREEK COMMUNITY IN AUSTRALIA.<br>
+I EXTEND TO YOU MY WARM GOOD WISHES AS YOU ASSUME RESPONSIBILITY<br>
+FOR THE AFFAIRS OF YOUR COUNTRY WITH WHICH AUSTRALIA HAS HAD<br>
+ENDURING AND INTIMATE ASSOCIATIONS IN WAR AND PEACE.<br>
+GOUGH WHITLAM<br>
+PRIME MINISTER OF AUSTRALIA".<br>
+I _ at<br>
 ,1,) QZAL1( A </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

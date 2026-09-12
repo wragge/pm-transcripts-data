@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41620</transcript-id>
-    <title>Radio Interview with Fran Kelly, ABC Radio National</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>09/05/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Iran deal; Federal Budget</subjects>
-    <content><![CDATA[<p><strong>FRAN KELLY: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41620</transcript-id><title>Radio Interview with Fran Kelly, ABC Radio National</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>09/05/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Iran deal; Federal Budget</subjects><content><![CDATA[<p><strong>FRAN KELLY: </strong></p>
 <p>US President Donald Trump's announcement that America will pull out of the Iran nuclear deal, is the world a more dangerous place this morning?</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Well, certainly we regret the decision of the US, although of course President Trump had promised that, foreshadowed that, for a long time.</p>
@@ -181,6 +171,4 @@
 <p>Prime Minister thank you very much for joining us.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks so much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

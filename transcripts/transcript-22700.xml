@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22700</transcript-id>
-    <title>Radio Interview with Neil Mitchell, Radio 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/04/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;EO…………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22700</transcript-id><title>Radio Interview with Neil Mitchell, Radio 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/04/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;EO…………………………………………………………………………………</p>
 <p>Subjects: Stolen children; interest rates; mandatory sentencing; tax package; Kosovar refugees</p>
 <p>MITCHELL:</p>
 <p>In our Sydney studio, the Prime Minister Mr Howard.  Good morning.</p>
@@ -24,7 +14,7 @@
 <p>PRIME MINISTER:</p>
 <p>No, no they’re quite different things.</p>
 <p>MITCHELL:</p>
-<p>Why?<br />
+<p>Why?<br>
 PRIME MINISTER:</p>
 <p>Well because the report is a report of a submission and a submission of my Government.</p>
 <p>MITCHELL:</p>
@@ -205,7 +195,7 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>But there are other things that are there that you didn’t mention and I think it’s only fair on behalf of the Government that I point those out as well.</p>
 <p>MITCHELL:</p>
-<p>Thank you Marion, thank you for calling. Thank you to the Prime Minister.  A quick break and then more of John Howard in our Sydney studio.<br />
+<p>Thank you Marion, thank you for calling. Thank you to the Prime Minister.  A quick break and then more of John Howard in our Sydney studio.<br>
 [Commercial]</p>
 <p>MITCHELL:</p>
 <p>Your calls to the Prime Minister, keep them quick if possible.  Raymond go ahead.</p>
@@ -286,6 +276,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

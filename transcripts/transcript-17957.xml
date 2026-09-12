@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17957</transcript-id>
-    <title>Industry fund established for cattle welfare</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/06/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17957</transcript-id><title>Industry fund established for cattle welfare</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/06/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and Agriculture Minister Senator Joe Ludwig have today welcomed an industry contingency fund of up to $5 million to address cattle welfare requirements during the temporary suspension of the live animal export trade to Indonesia.</p>
 <p>The contingency fund will be financed from the Cattle Disease Contingency Fund and is available to assist with the management of welfare for cattle affected by the suspension outside the farm gate. The Fund was established by the Cattle Council of Australia, the Australian Lot Feeders Association and Animal Health Australia in 2002 from producer levies.</p>
 <p>The Prime Minister said she was pleased that industry has stepped up and has been able to secure up to $5 million that will deliver on the welfare needs of cattle displaced as a result of the suspension.</p>
@@ -17,8 +7,8 @@ Prime Minister Julia Gillard and Agriculture Minister Senator Joe Ludwig have to
 <p>The Government is doing all it can to get the trade back up and running as soon as possible, but it is important the welfare needs of these cattle are addressed while this work is done.</p>
 <p>We thank the Cattle Council of Australia for helping facilitate the establishment of this fund.</p>
 <p>Funds will be used to cover some of the costs associated with:</p>
-<p> * 	transport of animals to the nearest practical market point;<br />
- * 	costs associated with the regulatory requirements to move cattle;<br />
+<p> * 	transport of animals to the nearest practical market point;<br>
+ * 	costs associated with the regulatory requirements to move cattle;<br>
  * 	animal husbandry costs including feed, animal health or biosecurity treatments.   </p>
 <p>Minister Ludwig said affected cattle owners will be able to apply to the fund for reimbursement of these costs.</p>
 <p>We want to see producers supported during this period. This commitment from industry does just that.</p>
@@ -27,6 +17,4 @@ Prime Minister Julia Gillard and Agriculture Minister Senator Joe Ludwig have to
 <p>The fund will be managed by industry to support industry, ensuring the welfare of the cattle remains the key consideration and meeting the Minister's request for industry assistance.</p>
 <p>While focus of this fund is outside the farm gate, the Cattle Disease Contingency Fund will also be able to monitor on-farm welfare issues.</p>
 <p>Impacted cattle owners will be contacted directly by the Cattle Disease Contingency Fund shortly. For any queries relevant cattle owners can call (02) 6273 3688.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

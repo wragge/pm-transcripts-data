@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10061</transcript-id>
-    <title>The Honourable Fred Osborne CMG</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/07/1996</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010061.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10061</transcript-id><title>The Honourable Fred Osborne CMG</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/07/1996</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010061.pdf</document><subjects></subjects><content><![CDATA[<p>
 I was sorry to learn today of the death of the Honourable Fred Osborne CMG, who served in a number of portfolios in the Menzies governments between 1956 and 1961. </p>
 <p>After serving in the Royal Australian Navy, Fred Osborne entered Federal Parliament for the Division of Evans in 1949, losing his seat in 1961. He subsequently became President of the NSW Division of the Liberal Party and it was in that capacity that I personally got to know him well. </p>
 <p>After leaving Parliament, he re-established his career as a commercial lawyer in Sydney and became a director of a number of prominent Australian companies. </p>
@@ -17,6 +7,4 @@ I was sorry to learn today of the death of the Honourable Fred Osborne CMG, who 
 <p>He is survived by his wife, Elizabeth and children Imogen, Alick, Penelope and Michael. I extend to them my sympathy and that of my wife and the entire Federal Parliamentary Liberal Party. </p>
 <p>The Govermment has offered a State Funeral to the Osborne family. </p>
 <p>23 July, 1996 </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

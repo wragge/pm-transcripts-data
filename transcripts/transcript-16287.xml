@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16287</transcript-id>
-    <title>Address at the Opening of  The National Portrait Gallery Canberra  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/12/2008</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The idea for a National Portrait Gallery was first raised by a painter  -  his name was Tom Roberts - in the early part of the last century. Though best known nowadays for his landscapes, Roberts was also a significant portrait artist.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16287</transcript-id><title>Address at the Opening of  The National Portrait Gallery Canberra  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/12/2008</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The idea for a National Portrait Gallery was first raised by a painter  -  his name was Tom Roberts - in the early part of the last century. Though best known nowadays for his landscapes, Roberts was also a significant portrait artist.</p>
 <p>He sensed the emergence of a distinctive Australian identity and saw the need to develop a collection of artworks to capture this.</p>
 <p>Fortunately, these views were shared by others.</p>
 <p>At the time, Roberts, along with Arthur Streeton, were painting at their Collins Street studio in Melbourne, set up by Hugh Paterson, a fellow painter and its administrator.</p>
@@ -83,6 +73,4 @@
 <p>I congratulate each and every one who is here this evening who has given birth to this idea, but most critically, has seen the idea through  -  each and every one.</p>
 <p>This has been an extraordinary project and I congratulate the resilience in seeing it through to this marvellous completion.</p>
 <p>I now have great pleasure to declare open the Australian National Portrait Gallery. May this be a grand reflection in the future of the Australian national soul.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

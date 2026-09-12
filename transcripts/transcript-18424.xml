@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18424</transcript-id>
-    <title>Clean Energy Finance Corporation</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18424</transcript-id><title>Clean Energy Finance Corporation</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Sydney will be home to the Gillard Government's $10 billion Clean Energy Finance Corporation.</p>
 <p>Sydney has been selected because it has a strong clean energy sector and a network of financial, legal and professional services that will ensure the smooth set up and operation of the Corporation. Sydney is considered to be an optimal location from which to service a national client base.</p>
 <p>Locating the Clean Energy Finance Corporation in Sydney's financial sector hub will also help with the building of partnerships with lenders and investors.</p>
@@ -19,6 +9,4 @@ Sydney will be home to the Gillard Government's $10 billion Clean Energy Finance
 <p>The Clean Energy Finance Corporation will play an important role in this economic transformation.</p>
 <p>It will make investments in businesses seeking funds to commercialise innovative clean energy proposals and technologies. The Corporation will also invest in the transformation of existing manufacturing businesses to re-focus on making the inputs for the clean energy sector.</p>
 <p>Jillian Broadbent AO has previously been announced as chair of the Clean Energy Finance Corporation. She is also chairing an expert review to advise on the design of the Corporation. Ms Broadbent has been consulting industry and stakeholders and will report back to the Gillard Government later this month. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

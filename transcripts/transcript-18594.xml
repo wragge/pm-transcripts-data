@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18594</transcript-id>
-    <title>2012 Prime Minister&#039;s Literary Awards shortlists announced</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/05/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister Julia Gillard and Arts Minister Simon Crean today announced the shortlists for the 2012 Prime Minister's Literary Awards and congratulated the shortlisted authors and producers.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18594</transcript-id><title><![CDATA[2012 Prime Minister&#039;s Literary Awards shortlists announced]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/05/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister Julia Gillard and Arts Minister Simon Crean today announced the shortlists for the 2012 Prime Minister's Literary Awards and congratulated the shortlisted authors and producers.</p>
 <p>The 2012 shortlists recognise some of the strongest literary talent and history expertise in Australia and feature a range of authors and producers from award-winners to first-time novelists.</p>
 <p>This year's Awards are the largest ever, including an inaugural poetry award and the newly incorporated Prize for Australian History, with over five hundred entries across all categories.</p>
 <p>This was a very competitive year for the Awards and all the judges were extremely impressed with the high calibre of work entered.</p>
@@ -57,6 +47,4 @@
 <p>Come Down, Cat! by Sonya Hartnett, illustrated by Lucia Masciullo</p>
 <p>Goodnight, Mice! by Frances Watts, illustrated by Judy Watson</p>
 <p>For more information on the shortlists including judges' comments and author biographies visit<a href="http://www.arts.gov.au/pmliteraryawards">www.arts.gov.au/pmliteraryawards</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

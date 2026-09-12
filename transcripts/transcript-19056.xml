@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19056</transcript-id>
-    <title>Act of Recognition Passes</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/02/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19056</transcript-id><title>Act of Recognition Passes</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/02/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>Australia has moved closer towards constitutional recognition of Aboriginal and Torres Strait Islander peoples with the Act of Recognition passing the House of Representatives today.</p>
 <p>The Prime Minister was joined in the House by Aboriginal and Torres Strait Islander and community leaders to mark this significant step towards a referendum.</p>
 <p>The Bill recognises the unique and special place of Aboriginal and Torres Strait Islander peoples.</p>
@@ -25,6 +15,4 @@
 <p>The Gillard Government has committed $10 million towards a campaign being led by Reconciliation Australia to continue to build support for constitutional change.</p>
 <p>The Government agrees with the findings of the Expert Panel that a referendum should be held at a time when it has the most chance of success.</p>
 <p>The Government encourages all Australians to get involved in building support for constitutional change by visiting <a href="http://www.recognise.org.au">www.recognise.org.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

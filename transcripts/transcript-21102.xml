@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21102</transcript-id>
-    <title>Doorstop Interview Kalgoorlie, Western Australia </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/02/2004</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21102</transcript-id><title>Doorstop Interview Kalgoorlie, Western Australia </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/02/2004</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>You spoke of practical reconciliation in your speech today, local indigenous leaders say that Western Mining, WMC - today's sponsor, employs hardly any Aboriginal people.</p>
 <p>PRIME MINISTER:</p>
 <p>Well the general experience throughout Australia is quite different from that assertion, I don't know whether that assertion is correct or not and I think you ought to check it with WMC.  But if you go around the country you find numerous examples of very significant employment of indigenous people, not only by the mining industry but by many others.</p>
@@ -87,6 +77,4 @@
 <p>No, I go everywhere, you know I love youse all and I go everywhere.</p>
 <p>  Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

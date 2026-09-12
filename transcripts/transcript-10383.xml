@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10383</transcript-id>
-    <title>Press Conference, The Strand Hotel, London </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>18/06/1997</release-date>
-    <release-type>Press Conference</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010383.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>18 June 1997 </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10383</transcript-id><title>Press Conference, The Strand Hotel, London </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>18/06/1997</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010383.pdf</document><subjects></subjects><content><![CDATA[<p>18 June 1997 </p>
 <p>E &amp; OE .............................................</p>
 <p>I just thought I would say a couple of words at the beginning and then I would be happy to answer any questions.</p>
 <p>High Commissioner, ladies and gentlemen, the visit to the United Kingdom is a very important opportunity for the Prime Minister of a still new government to reinforce with the Prime Minister of a very new government the importance of a relationship which, although it has an enormous amount of history to it in every possible respect, is a relationship that I see in very modern and contemporary terms and a relationship particularly, but not exclusively, economic that will be enormously important both to Australia's future and to Britain's future.</p>
@@ -184,6 +174,4 @@
 <p>PRIME MINISTER:</p>
 <p>Given some of the earlier questions, that's an interesting question. I'll follow what they do - I've got a very heavy programme. I'm very proud of the fact that we've done so well. I think all Australians are proud of the fact and I'll keep in very close touch with what happens over the next few days, but I do have a very full programme as from tomorrow and I'm just not sure.</p>
 <p>Thank you ladies and gentlemen.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

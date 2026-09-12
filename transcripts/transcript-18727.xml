@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18727</transcript-id>
-    <title>Transcript of press conference, Cairns</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>05/08/2012</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Cairns</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18727</transcript-id><title>Transcript of press conference, Cairns</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>05/08/2012</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Cairns</p>
 <p>E &amp; O E  -  PROOF ONLY</p>
 <p>PM: I am delighted to be here today with Treasurer Wayne Swan and also with Jan McLucas our Queensland Senator and we are here in her home of Cairns. I've been spending the last few days having a wonderful holiday in tropical north Queensland. I've enjoyed it very much.</p>
 <p>And I'm here today to announce that we are going to be sharing the delights of tropical north Queensland with the world. I'm very pleased to be able to announce that the G20 Finance Ministers' Meeting will be right here in Cairns in 2014.</p>
@@ -80,6 +70,4 @@
 <p>PM: Not on this trip, I must admit, we very much stayed put. But the reef is a magical experience and I've had the opportunity in the past to enjoy its delights.</p>
 <p>We did have a wander through Port Douglas, a meal out, got to meet some of the locals including two local cockatoos as you may have seen.</p>
 <p>Okay, thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

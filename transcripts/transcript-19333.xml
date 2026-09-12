@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19333</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/05/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Brisbane</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19333</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/05/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Brisbane</p>
 <p>PM: We have gathered today to make a very important announcement which is on 14 September, when Australians go to vote in the Federal election they will also be asked to vote local government referendum.</p>
 <p>They will be asked to vote yes to recognise local government in the Australian Constitution.</p>
 <p>Our Constitution is 113 years old and it doesn't recognise the level of government which people deal with every day for services that are so important to their lives.</p>
@@ -168,6 +158,4 @@
 <p>The matter you raise is a separate matter and that separate matter is, if people have made an application to be considered as a refugee and that application has been properly rejected, and we do have thorough processes here, if people's claims have been rejected, then they should return to their homeland and obviously that's what we want people to do.</p>
 <p>In those circumstances, for Australia, it is not a question of support for these people; it is a question of them going back home.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

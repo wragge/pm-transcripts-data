@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16901</transcript-id>
-    <title>Transcript of interview on ABC 774 with Jon Faine    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>05/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FAINE: Kevin Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16901</transcript-id><title>Transcript of interview on ABC 774 with Jon Faine    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>05/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FAINE: Kevin Rudd, good morning.</p>
 <p>PM: Good morning Jon. I'm talking to people on the airwaves because I'll be overseas next week and I won't be talking to people on the airwaves. There you go.</p>
 <p>FAINE: The opinion polls though, and your sudden availability for the media. Surely the two are linked. 8 percent drop in the polls. What do you think has happened?</p>
 <p>PM: Well on the first point Jon. I talk to the media as of when my timetable permits and I've certainly been talking to the media a lot prior to the publication you referred to earlier this week. On the second point is that, in my job as Prime Minister, is to govern in the national interest. That means making difficult decisions. Whether that's in relation to the economy or whether it's in relation to border protection, I'll continue to do so in the national interest. As far as decisions taken in recent times, I fully accept the fact that some of these are not going to be terribly popular with people but my job is not to be in the popularity stakes, it's simply to get on and make the right decisions and we will continue to do so.</p>
@@ -54,6 +44,4 @@
 <p>FAINE: I'm grateful to you for your time which we've used to its full extent. Thank you this morning.</p>
 <p>PM: Thanks very much Jon.</p>
 <p>(ENDS)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41264</transcript-id>
-    <title>Media Statement</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>27/10/2017</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects>High Court decision</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER: </strong>Good afternoon.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41264</transcript-id><title>Media Statement</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>27/10/2017</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>High Court decision</subjects><content><![CDATA[<p><strong>PRIME MINISTER:&nbsp;</strong>Good afternoon.</p>
 <p>The decision of the Court today is clearly not the outcome we were hoping for but the business of government goes on.</p>
 <p>We have a majority of members in the House of Representatives, even in the absence of Barnaby Joyce and, of course, as you know, we have support from the crossbench.</p>
 <p>We welcome the Court confirming Matt Canavan's eligibility to sit in the Senate, but are obviously disappointed that the Court has found against Barnaby Joyce and the Fiona Nash.</p>
@@ -20,7 +10,7 @@
 <p>The people of New England will have their say on the 2nd of December.</p>
 <p>The Speaker has advised that he is going to issue the writ today.</p>
 <p>Barnaby Joyce is the best person - as we've seen already on the television, complete with his hat - the best person to continue to deliver for New England and for Australians living in regional, remote and rural areas.</p>
-<p>He has a passion for representation and while I know that Barnaby will be disappointed with the outcome of the Court case, it is as though he's been let out of the stalls and he's ready and raring to go. His enthusiasm is absolutely infectious. </p>
+<p>He has a passion for representation and while I know that Barnaby will be disappointed with the outcome of the Court case, it is as though he's been let out of the stalls and he's ready and raring to go. His enthusiasm is absolutely infectious.&nbsp;</p>
 <p>Now, Fiona as a senator of course, will not be able to contest a by-election. I thank her for her great service to the government and to the Parliament.</p>
 <p>She has been an outstanding minister, passionately devoted to regional Australia and its advancement. She is a staunch friend, a very, very good colleague. A really good friend devoted to the National Party but above all to the Coalition.</p>
 <p>And as Barnaby acknowledged just a few minutes ago her stoicism, her calm, her collected approach to the challenges that she's been facing while obviously carrying out her ministerial office all the time under great pressure has been remarkable.</p>
@@ -39,6 +29,4 @@
 <p>Well, I have already stated to you, as you know, that we have the support of a majority of members, we have a majority of members in the House of Representatives and we enjoy the support of the crossbench.</p>
 <p>Thank you all very much - I must get Senator Canavan sworn in.</p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

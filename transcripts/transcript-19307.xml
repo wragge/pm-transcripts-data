@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19307</transcript-id>
-    <title>2013 Defence White Paper: New Vehicles For Army</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19307</transcript-id><title>2013 Defence White Paper: New Vehicles For Army</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The 2013 Defence White Paper outlines the Government's commitment to acquiring deployable protected and armoured vehicles for Army offering improved firepower, protection and mobility compared to existing systems.</p>
 <p>This includes the acquisition of new medium and heavy trucks, trailers and associated modules to replace Army's existing ageing field vehicle and trailer fleet under project LAND 121.</p>
 <p>Field vehicles and trailers are the backbone of the Australian Defence Force's ability to provide support and sustainment to personnel deployed on operations.</p>
@@ -26,6 +16,4 @@
 <p>This acquisition is in addition to the previously approved LAND 121 Phase 3A which is replacing the current fleet of ADF light unprotected field vehicles and trailers. This includes the acquisition of around 2150 unprotected Mercedes Benz G-Wagon 4x4 and 6x6 vehicles and trailers to enable tactical training.</p>
 <p>To date around 600 vehicles and 350 trailers have been delivered to Army and Air Force with the final vehicles to be delivered by 2016.</p>
 <p>Approximately 1,000 additional vehicles will eventually be acquired to complete the medium and heavy fleet under LAND 121 Phase 5B.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

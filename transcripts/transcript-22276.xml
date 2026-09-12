@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22276</transcript-id>
-    <title>Interview with James Grubel Reuters Television, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/05/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>GRUBEL:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22276</transcript-id><title>Interview with James Grubel Reuters Television, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/05/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>GRUBEL:</p>
 <p>It's your Government's 11th National Budget and the 9th surplus. Tax cuts for everybody. Are you pleased with the way it's been received by the public and media?</p>
 <p>PRIME MINISTER:</p>
 <p>Yes I am because all Budgets are important and you like them to be well received. It's a very comprehensive Budget. It not only reforms the tax system and provides large tax cuts to everybody, it also has a dramatic new plan for superannuation which has been widely welcomed. And it also contains targeted spending in important areas like defence. I mean we're committed to maintaining the three percent real growth in defence spending each year beyond 2010 and amongst other things we'll be able to acquire four C-17 heavy lift aircraft and that's very important for a country with regional responsibilities such as Australia. And there's almost a billion dollars of extra spending on medical research. I'm proud of the fact that Australia has always punched above her weight in this area and there's a lot of additional spending on roads, which in a sense, in a country like Australia is a concomitant of the high price of petrol. I mean people associate the two and I think it's a very important association.</p>
@@ -70,6 +60,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well let's just wait and see how it unfolds. As I say, it's not something that's right at the top of our list of concerns.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

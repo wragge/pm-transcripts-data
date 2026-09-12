@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11744</transcript-id>
-    <title>Press Conference, Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: fuel pricing.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11744</transcript-id><title>Press Conference, Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: fuel pricing.</p>
 <p>E&amp;OE................................ </p>
 <p>Ladies and gentlemen, Mr Anderson and I have called this news conference to announce a number of decisions the Government has taken in relation to excise and related issues concerning the price of fuel in Australia.</p>
 <p>The first announcement is that with effect from tomorrow, fuel excise will be reduced by 1.5 cents/litre. The ACCC will be given special power to monitor the passing on of the reduction in excise and also the delivery of the Fuel Subsidy Scheme that was introduced when the goods and services tax was introduced last year. We are also asking the ACCC to examine in consultation with those involved in the market place the feasibility of imposing a cap on fluctuations in retail fuel prices throughout Australia.</p>
@@ -180,6 +170,4 @@
 <p>I'm working on it. But I'll tell you what, I don't take it for granted, I never have. I'm starting to see a little bit of hubris on the other side, you know, when we start talking about the Lodge and all that sort of stuff. I mean I have no idea of what the outcome of the election at the end of the year will be. And I just don't know. I've always said that, I think it will be very tough for us, I said that three months ago. And I haven't really changed, and I think the Australian public is quite capable of taking the right decision, and whatever decision they take it will be the right decision. </p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

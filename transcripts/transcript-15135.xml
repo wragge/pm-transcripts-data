@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15135</transcript-id>
-    <title>Weekly Radio Message - Government Infrastructure</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/03/2007</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE...</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15135</transcript-id><title>Weekly Radio Message - Government Infrastructure</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/03/2007</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE...</p>
 <p>Listen to this speech (MP3 - 1.8Mb - 112secs)</p>
 <p>One of the most important responsibilities of the Commonwealth Government is to provide infrastructure for the future growth and development of our nation.</p>
 <p>Yesterday I opened the new Hume Highway Albury Wodonga bypass, which at a cost of $518 million, is the largest infrastructure investment of that kind in regional Australia for many years.</p>
@@ -19,6 +9,4 @@
 <p>The fact that we can do these things is a constant reminder that if the economy is managed well, we can plan for the future with great hope and great optimism.</p>
 <p>[ends]</p>
 <p>Listen to this speech (MP3 - 1.8Mb - 112secs)</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

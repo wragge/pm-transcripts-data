@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41643</transcript-id>
-    <title>Sir John Leslie Carrick AC KCMG</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>18/05/2018</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It is with great sadness that we acknowledge the death of Sir John Leslie Carrick AC KCMG, war veteran, former Senator and Minister in the Fraser Government.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41643</transcript-id><title>Sir John Leslie Carrick AC KCMG</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>18/05/2018</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It is with great sadness that we acknowledge the death of Sir John Leslie Carrick AC KCMG, war veteran, former Senator and Minister in the Fraser Government.</p>
 <p>We remember Sir John as a lion of the Liberal Party, a soldier and a statesman whose passion for education improved the lives of many Australians.</p>
 <p>His contribution to the nation spans almost a century.</p>
 <p>Born at the end of the Great War, Sir John defended Australia in its darkest hour; fighting the Japanese with the Australian Army’s Sparrow Force in Timor during World War Two.</p>
@@ -25,6 +15,4 @@
 <p>His legacy will not be forgotten.</p>
 <p>Sir John’s beloved wife, Lady Angela, who had been by his side for so long, passed away in February.</p>
 <p>Lucy and I offer our deepest condolences to their daughters, Diane, Jane and Fiona, and to the extended Carrick family.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

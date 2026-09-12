@@ -1,16 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11581</transcript-id>
-    <title>Australian Report False</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/06/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The claim in today's Australian newspaper that I am concerned about the performance of Telstra management and that the Government is considering Mr Bob Mansfield for the role of executive chairman, is completely without foundation.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11581</transcript-id><title>Australian Report False</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/06/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The claim in today's Australian newspaper that I am concerned about the performance of Telstra management and that the Government is considering Mr Bob Mansfield for the role of executive chairman, is completely without foundation.</p>
 <p>I am amazed that the journalist in question has run these claims when my office specifically denied the story on two occasions when it was contacted by the Australian's national business correspondent, Mr Richard Gluyas, yesterday.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

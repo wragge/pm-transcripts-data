@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11297</transcript-id>
-    <title>VISIT TO NEW ZEALAND</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>04/02/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I have accepted an invitation from the New Zealand Prime Minister,</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11297</transcript-id><title>VISIT TO NEW ZEALAND</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>04/02/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I have accepted an invitation from the New Zealand Prime Minister,</p>
 <p> Mrs Shipley, to visit New Zealand from 20 to 22 February. This will</p>
 <p> reciprocate her visit to Australia last year shortly after her appointment</p>
 <p> as Prime Minister.</p>
@@ -32,6 +22,4 @@
 <p>My government is committed to a close and productive relationship</p>
 <p> with New Zealand.</p>
 <p> 4 February 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

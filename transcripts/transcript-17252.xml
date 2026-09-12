@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17252</transcript-id>
-    <title>Prime Minister Premier of New South Wales Blacktown Hospital - more beds and services 28 April 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>28/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Last week's historic health and hospital reform is already delivering more services and additional beds to families in Sydney's west at Blacktown Hospital.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17252</transcript-id><title>Prime Minister Premier of New South Wales Blacktown Hospital - more beds and services 28 April 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>28/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Last week's historic health and hospital reform is already delivering more services and additional beds to families in Sydney's west at Blacktown Hospital.</p>
 <p>Prime Minister Kevin Rudd and NSW Premier Kristina Keneally today announced an additional 18 new hospital beds would be opened at Blacktown Hospital from early July.</p>
 <p>Last week, the Prime Minister and Ms Keneally agreed at COAG to additional funding for NSW totalling $1.7 billion over four years to implement health and hospital reforms across the State.</p>
 <p>The announcement of new beds was made at Blacktown Hospital's 45th Anniversary celebrations.</p>
@@ -37,6 +27,4 @@
 <p>     * Blacktown Community Health Centre</p>
 <p>     * Dental Health</p>
 <p>     * Mental Health.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

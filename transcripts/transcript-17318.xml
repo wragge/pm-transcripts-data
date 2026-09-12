@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17318</transcript-id>
-    <title>Prime Minister Premier of Victoria Historic health agreement signed 29 May 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>29/05/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister and Victorian Premier today signed a historic agreement to deliver a National Health and Hospitals Network.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17318</transcript-id><title>Prime Minister Premier of Victoria Historic health agreement signed 29 May 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>29/05/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister and Victorian Premier today signed a historic agreement to deliver a National Health and Hospitals Network.</p>
 <p>The National Health and Hospitals Network will improve health outcomes for the people of Victoria and the sustainability of the Victorian health and hospitals system.</p>
 <p>This agreement delivers the most significant reform to our health and hospitals system since the introduction of Medicare.</p>
 <p>The National Health and Hospitals Network will deliver a dominant funder, so that patients in Victoria are no longer shunted from one system funded by the State Government to another funded by the Australian Government.</p>
@@ -29,6 +19,4 @@
 <p>The Australian Government will also deliver around $3.8 billion in top-up funds between 2014-15 and 2019-20, to guarantee sustainable funding for Victoria's health and hospital system.</p>
 <p>Today's agreement delivers fundamental reform to ensure that the Victorian health and hospitals system can cope with the pressures of a growing and ageing population.</p>
 <p>It will deliver a nationally funded and locally controlled health system that will ensure that future generations of Australians enjoy access to universally accessible health care. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

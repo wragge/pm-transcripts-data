@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17831</transcript-id>
-    <title>Transcript of interview with Michael Rowland, ABC Breakfast</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>03/05/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17831</transcript-id><title>Transcript of interview with Michael Rowland, ABC Breakfast</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>03/05/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: And we're joined now by the Prime Minister in Canberra. Ms Gillard, thank you for your time and good morning.</p>
 <p>PM: Good morning.</p>
 <p>HOST: Were you as shocked as everybody else when you learned the news that the world's most wanted fugitive was hiding in a relatively wealthy Pakistani city, just metres from that country's key military academy?</p>
@@ -42,6 +32,4 @@ HOST: And we're joined now by the Prime Minister in Canberra. Ms Gillard, thank 
 <p>PM: Well, of course, I'm going to disappoint you here and say I don't run commentary on the polls. I've got a lot of hard work to do as Prime Minister, we've got a lot of hard work to do as a Government, and we'll get on and do it.</p>
 <p>HOST: Julia Gillard, thank you very much for your time this morning.</p>
 <p>PM: Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

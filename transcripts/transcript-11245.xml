@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11245</transcript-id>
-    <title>EARLY WARNING AIRCRAFT TO BE BASED AT WILLIAMTOWN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/04/1999</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>A further $50 million and about 280 jobs will flow to the Hunter region</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11245</transcript-id><title>EARLY WARNING AIRCRAFT TO BE BASED AT WILLIAMTOWN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/04/1999</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>A further $50 million and about 280 jobs will flow to the Hunter region</p>
 <p> as a result of the decision I announced today to base the Airborne</p>
 <p> Early Warning and Control (AEW&amp;C) aircraft Australia is acquiring</p>
 <p> at RAAF Williamtown. It is the main operating and training base for</p>
@@ -33,6 +23,4 @@
 <p> on the system to be acquired will be made by mid-year. First aircraft</p>
 <p> deliveries will probably be around 2004.</p>
 <p> 15 April 1999</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

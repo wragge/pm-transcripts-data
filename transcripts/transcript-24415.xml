@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24415</transcript-id>
-    <title>Royal Birth </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>02/05/2015</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>On behalf of all Australians, Margie and I extend to the Duke and Duchess of Cambridge congratulations on the birth of a daughter.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24415</transcript-id><title>Royal Birth </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>02/05/2015</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>On behalf of all Australians, Margie and I extend to the Duke and Duchess of Cambridge congratulations on the birth of a daughter.</p>
 <p>The birth of a baby is a great moment for any family and Australia shares this young family’s joy.</p>
 <p>We wish the young Princess, a long and happy life.</p>
 <p>I am sure that the Princess and her older brother, Prince George, will in time develop a deep familiarity and love of Australia – feelings the rest of their family already share.</p>
 <p>In the meantime, Australia sends its best wishes to the Duke and Duchess during this special time in their lives.</p>
-<p>2 May 2015  </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>2 May 2015 &nbsp;</p>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22743</transcript-id>
-    <title>NBN rolling out in Darwin</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>10/07/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Prime Minister, Minister for Broadband, Communications and the Digital Economy </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22743</transcript-id><title>NBN rolling out in Darwin</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>10/07/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Prime Minister, Minister for Broadband, Communications and the Digital Economy </p>
 <p>The Prime Minister has today helped roll out the National Broadband Network in Darwin, ahead of the network being officially switched on for 2,600 homes and businesses later this week.</p>
 <p>This is great news for the people of Darwin, with the NBN scheduled to be fully rolled out in the Northern Territory by the end of 2015.</p>
 <p>Labor’s National Broadband Network is a world class communications network that meets Australia’s broadband needs today and into the future.</p>
@@ -20,6 +10,4 @@
 <p>The Coalition wants to keep the copper, using last century’s technology to hold Australia back.</p>
 <p>The Government believes everyone deserves access to fast, reliable, affordable broadband – that’s why we’re connecting everyone to the NBN at no connection cost.</p>
 <p>Australians deserve the world’s best communications network, which only Labor’s National Broadband Network provides.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

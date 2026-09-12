@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41130</transcript-id>
-    <title>Radio interview with Luisa Pelizzari and Matt Griffith, Triple M The Border 105.7</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>24/08/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Visit to Albury; Drug testing trial; same sex marriage</subjects>
-    <content><![CDATA[<p><strong>MATT: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41130</transcript-id><title>Radio interview with Luisa Pelizzari and Matt Griffith, Triple M The Border 105.7</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>24/08/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Visit to Albury; Drug testing trial; same sex marriage</subjects><content><![CDATA[<p><strong>MATT: </strong></p>
 <p>Welcome the Prime Minister, the Honourable Malcolm Turnbull MP who joins us right now – Malcolm Turnbull, good morning.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good morning. It’s great to be with you. What a welcome.</p>
@@ -162,6 +152,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thanks so much, great to talk to you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

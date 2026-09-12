@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24397</transcript-id>
-    <title> 2015 Dawn Service, Gallipoli </title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/04/2015</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>It’s one hundred years since Australians and New Zealanders splashed out of the sea, right here.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24397</transcript-id><title> 2015 Dawn Service, Gallipoli </title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/04/2015</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>It’s one hundred years since Australians and New Zealanders splashed out of the sea, right here.</p>
 <p>So now we gather in the cold and dark before dawn; wondering what to say and how to honour those whose bones rest in the hills and the valleys above us, and whose spirit has moved our people for a century.</p>
 <p>Year after year, we journey to what’s now a peaceful coast to remember things that, normally, we might try to forget.</p>
 <p>Year after year, from all over our country, from every walk of life, from every background, young and old make this pilgrimage.</p>
@@ -41,7 +31,7 @@
 <p>Today, all of us who have not been tested in war salute all of those who have.</p>
 <p>Most of us have never worn our country’s uniform.</p>
 <p>We have not climbed the steep cliffs of Gallipoli.</p>
-<p>We have not trudged through the snow of Bullecourt. </p>
+<p>We have not trudged through the snow of Bullecourt.&nbsp;</p>
 <p>We have not struggled through the mud of Passchendaele.</p>
 <p>We have not experienced the horrors of Hellfire Pass, or fought through the jungles of Kokoda or Vietnam, or shaken the Uruzgun sand from our clothes.</p>
 <p>We have not risked being shot out of the skies over Germany or torpedoed in the Med or in the Pacific.</p>
@@ -56,8 +46,6 @@
 <p>They did their duty; now, let us do ours.</p>
 <p>They gave us an example; now, let us be worthy of it.</p>
 <p>They were as good as they could be in their time; now, let us be as good as we can be in ours.</p>
-<p>[ends]<br />
- </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>[ends]<br>
+&nbsp;</p>
+]]></content></item></response>

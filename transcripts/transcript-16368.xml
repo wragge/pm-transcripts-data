@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16368</transcript-id>
-    <title>2009 Australia Day Message    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>25/01/2009</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>As we celebrate Australia Day with our friends and families - over barbeques, picnic tables and beach towels - I know that many of you share my concerns about the impact of the global financial crisis on our families.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16368</transcript-id><title>2009 Australia Day Message    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>25/01/2009</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>As we celebrate Australia Day with our friends and families - over barbeques, picnic tables and beach towels - I know that many of you share my concerns about the impact of the global financial crisis on our families.</p>
 <p>This year will not be an easy one, and to be frank, we face some very big challenges.</p>
 <p>But I am confident that, if we all pull together, we can come through this together - and come out even stronger and emerge from this crisis even more resilient than before.</p>
 <p>Australia is better placed then almost every other nation to deal with the global financial crisis, but it's going to be tough.</p>
@@ -27,6 +17,4 @@
 <p>Our shared history as Australians shows that together, we can meet the challenges the world might throw at us in 2009.</p>
 <p>I wish you a very happy Australia Day.</p>
 <p>You can view the video of the Prime Minister's Australia Day message in the media hub. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16310</transcript-id>
-    <title>$4.7 Billion Nation Building Package    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>12/12/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Rudd Government today announced a $4.7 billion nation building package to strengthen the Australian economy and create Australian jobs.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16310</transcript-id><title>$4.7 Billion Nation Building Package    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>12/12/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Rudd Government today announced a $4.7 billion nation building package to strengthen the Australian economy and create Australian jobs.</p>
 <p>Today's package is a timely investment in road, rail, and education infrastructure, as well as vital tax changes to help Australian businesses during a global recession.</p>
 <p>These national infrastructure projects and the assistance to business will boost the level of GDP and help create up to 32,000 Australian jobs.</p>
 <p>There are three key infrastructure elements in today's package:</p>
@@ -64,6 +54,4 @@
 <p>Today's package will also help small business by cutting the next quarterly pay-as-you-go (PAYG) instalment for 1.3 million small businesses by 20 per cent. This reduction in the February instalment will provide immediate and much-needed cash flow relief to small businesses over the summer.</p>
 <p>The Budget will remain in surplus once this and other packages announced this year are taken into account. This nation building package is another step in the Rudd Government's long term nation building agenda. </p>
 <p>The Government's Nation Building - Rail, Road, Education &amp; Research and Business document is also available.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

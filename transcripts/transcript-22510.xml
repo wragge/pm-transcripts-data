@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22510</transcript-id>
-    <title>Visit by the Prime Minister of East Timor  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/10/2006</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I am pleased to announce that the Prime Minister of East Timor, His Excellency Dr Jos‚ Ramos-Horta, will visit Canberra on 12 October.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22510</transcript-id><title>Visit by the Prime Minister of East Timor  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/10/2006</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I am pleased to announce that the Prime Minister of East Timor, His Excellency Dr Jos‚ Ramos-Horta, will visit Canberra on 12 October.</p>
 <p>I look forward to discussing with Prime Minister Ramos-Horta ways to strengthen East Timor's governance and improve its long-term security and prosperity.</p>
 <p>  Australia has played a key role in stabilising the situation in East Timor.  Around 900 Australian troops remain deployed in East Timor, working closely with the East Timorese Government and the UN Mission to ensure security in Dili and surrounding areas.</p>
 <p>Australia has also provided $8 million in humanitarian relief for displaced persons following the civil unrest earlier this year.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17791</transcript-id>
-    <title>PM plants &#039;tree of knowledge&#039; at Arboretum</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/04/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17791</transcript-id><title><![CDATA[PM plants &#039;tree of knowledge&#039; at Arboretum]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/04/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today announced that the Commonwealth Government will contribute $20 million over four years to the development of the National Arboretum in Canberra to mark the upcoming centenary of Canberra in 2013.</p>
 <p>The Prime Minister joined ACT Chief Minister Jon Stanhope at the Arboretum to plant a tree grown from seeds taken from the ‘Tree of Knowledge' in Barcaldine, Queensland, before its death after being vandalised in 2006.</p>
 <p>Australian Labor Party folklore identifies the tree as the place where the Party was founded.</p>
@@ -22,6 +12,4 @@ Prime Minister Julia Gillard today announced that the Commonwealth Government wi
 <p>“By its official opening in 2013 to mark the centenary of Canberra, the Arboretum will showcase 100 forests of rare and endangered species from across the globe, as well as a mosaic of permanent gardens.”</p>
 <p>The Prime Minister encouraged all Australians to participate in the centenary celebrations in 2013.</p>
 <p>“The celebrations will give people the opportunity to discover the many things that Canberra has to offer and to appreciate its beauty and distinctive character”. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

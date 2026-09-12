@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17375</transcript-id>
-    <title>Health reform delivers more beds and better care in Queensland hospitals</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>02/12/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17375</transcript-id><title>Health reform delivers more beds and better care in Queensland hospitals</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>02/12/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard, Federal Minister for Health and Ageing Nicola Roxon and Queensland Treasurer and Acting Health Minister Andrew Fraser today announced new funding for Queensland hospitals under the Federal Government's national health reform.</p>
 <p>Speaking at Redcliffe Hospital today, the Prime Minister said the Gillard Labor Government would deliver $94.8 million over the next three years to improve Queensland's public hospitals.</p>
 <p>This initial investment is one of the first steps in providing Queensland hospitals with the resources they need for more beds and better care, following on from the COAG agreement reached in April this year.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard, Federal Minister for Health and Ageing Nicola Roxo
 <p>A further $33.8 million will go towards improving the paediatric facilities at Redcliffe and Caboolture Hospitals as part of the South East Queensland Paediatric Services Plan, with further investments to be announced at Logan Hospital in the near future.</p>
 <p>At Redcliffe Hospital, $15.6 million will be provided for six new children's short stay beds, four children's outpatient clinics and a dedicated children-friendly waiting room.</p>
 <p>At Caboolture Hospital the Federal Government will be providing $18.2 million to refurbish their paediatric unit, including five new short stay beds and an additional four paediatric outpatient consulting rooms.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

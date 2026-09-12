@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16192</transcript-id>
-    <title>Prime Minister&#039;s Address to the Nation Parliament House, Canberra   </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>14/10/2008</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Good evening. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16192</transcript-id><title><![CDATA[Prime Minister&#039;s Address to the Nation Parliament House, Canberra   ]]></title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>14/10/2008</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Good evening. </p>
 <p>Today I announced a $10.4 billion economic security strategy to help see Australia through the global financial crisis.</p>
 <p>Many Australians have become concerned, anxious and even fearful as to the future.</p>
 <p>The truth is that we are going through the worst financial crisis in our lifetime. I've described it as the economic equivalent of a national security crisis.</p>
@@ -32,6 +22,4 @@
 <p>But the Government remains determined to take whatever action is necessary in the future to steer the economy through this global financial crisis.</p>
 <p>And I have absolute confidence that as a nation, we will get through these tough times together.</p>
 <p>A video of this speech is also available.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19232</transcript-id>
-    <title>Transcript of Joint Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/04/2013</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19232</transcript-id><title>Transcript of Joint Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/04/2013</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>PM: I'm here with Minister Peter Garrett and with Parliamentary Secretary Jacinta Collins.</p>
 <p>Today, I am launching the biggest changes to school education in our nation for 40 years.</p>
 <p>Today, I am announcing a plan. Today, I am announcing a plan to properly resource teachers, classrooms and kids for generations to come.</p>
@@ -224,6 +214,4 @@
 <p>I can understand if I was a chancellor or vice-chancellor, I wouldn't like to see even a moderation of growth in the amount of money that is going into my university.</p>
 <p>I'm not a vice-chancellor or a chancellor, I'm Prime Minister, and I've got to make the right decisions for the nation, and moderating what has been a huge rate of growth in universities to fund this for kids is the right decision.</p>
 <p>Okay, thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

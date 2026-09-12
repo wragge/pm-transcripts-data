@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22904</transcript-id>
-    <title>Radio Interview with Neil Mitchell, 3AW</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/10/2000</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Minister Reith; GST; Economy; petrol prices.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22904</transcript-id><title>Radio Interview with Neil Mitchell, 3AW</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/10/2000</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Minister Reith; GST; Economy; petrol prices.</p>
 <p>E&amp;OE……………………………………………………………………………………</p>
 <p>MITCHELL:</p>
 <p>Mr Howard, good morning.</p>
@@ -273,6 +263,4 @@
 <p>MITCHELL:</p>
 <p>Thank you very much, Prime Minister John Howard.</p>
 <p>[Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

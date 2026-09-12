@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11025</transcript-id>
-    <title>Television Interview with Paul Bongiorno, Meet the Press </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/09/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>12 September 1999</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11025</transcript-id><title>Television Interview with Paul Bongiorno, Meet the Press </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/09/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>12 September 1999</p>
 <p>E&amp;OE…………………………………………………………………………….</p>
 <p><b>BONGIORNO</b>:</p>
 <p>Good morning and welcome to <i>Meet the Press</i>. Coming today from the media centre at the Asia Pacific Economic Cooperation Summit in Auckland. Twenty-two regional countries or economies are here but their meeting designed for matters of trade and commerce has been overshadowed by the tragic abuse of human rights in the Indonesian province of East Timor. A province that voted overwhelmingly for independence only to have that dream shattered by vengeful violence apparently aided and abetted by the military assigned to guarantee the peoples security. Australia has been at the forefront of urging Jakarta to allow in armed peacekeepers and there are hopeful signs that is about to happen.</p>
@@ -154,6 +144,4 @@
 <p><b>BONGIORNO:</b></p>
 <p>Prime Minister, we are right out of time, thank you very much for joining us today and all the best with your efforts.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

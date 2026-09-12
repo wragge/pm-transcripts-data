@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11214</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          TELEVISION INTERVIEW WITH PAUL LYNEHAM, NIGHTLINE, CHANNEL 9                          Subject: referendum result; Olympic Games, preamble</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>08/11/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE..........</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11214</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          TELEVISION INTERVIEW WITH PAUL LYNEHAM, NIGHTLINE, CHANNEL 9                          Subject: referendum result; Olympic Games, preamble</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>08/11/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE..........</p>
 <p>  LYNEHAM:</p>
 <p>  Some republicans are saying you knobbled the referendum, that we didn't</p>
 <p>   really get the result that most Australians wanted.</p>
@@ -125,6 +115,4 @@
 <p>  LYNEHAM:</p>
 <p>  Prime Minister thanks for your time.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

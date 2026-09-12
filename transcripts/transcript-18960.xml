@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18960</transcript-id>
-    <title>Sydney English Teacher takes out PM&#039;s Favourite Teacher Prize</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>11/12/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18960</transcript-id><title><![CDATA[Sydney English Teacher takes out PM&#039;s Favourite Teacher Prize]]></title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>11/12/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>An English teacher at Mary MacKillop College in south-west Sydney, has taken out the title of Australia's Favourite Teacher after a national competition launched by the Prime Minister in October.</p>
 <p>Mark O'Connor was nominated by HSC student Rebecca Knox for his dedication and commitment to helping his students achieve their best.</p>
 <p>Mr O'Connor has also inspired Rebecca to become a teacher when she finishes school.</p>
@@ -25,6 +15,4 @@
 <p>But we know we need to do more to lift the quality of teaching. That's why our National Plan for School Improvement will include:</p>
 <p>• Higher entry standards for the profession• A mentoring program and reduced workload for beginning teachers• Annual performance reviews to help teachers continuously improve their practice• Ongoing professional development and support for every teacher</p>
 <p>Our plan will help ensure that teachers are supported at work and feel valued and respected for the vital role they play. That way more students will have the benefits of a highly trained and motivated teacher helping them reach their full potential, just like Mr O'Connor and Rebecca. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

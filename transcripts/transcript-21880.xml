@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21880</transcript-id>
-    <title>Interview with Ellen Fanning Nightline, Channel Nine </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>24/08/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>FANNING:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21880</transcript-id><title>Interview with Ellen Fanning Nightline, Channel Nine </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>24/08/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>FANNING:</p>
 <p>Mr Howard, thanks for joining us. How willing were the Muslim leaders today in Canberra to accept that there is a need to crack down on extremism in Australia?</p>
 <p>PRIME MINISTER:</p>
 <p>Very willing.  It was a good, positive meeting.  Now we still have a long way to go and this is only one part of the response to the terrorist threat.  But it was a very constructive meeting and I was very pleased with the outcome.</p>
@@ -78,6 +68,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

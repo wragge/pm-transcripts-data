@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18349</transcript-id>
-    <title>Report into the Independent Review of the Intelligence Community</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>25/01/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18349</transcript-id><title>Report into the Independent Review of the Intelligence Community</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>25/01/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today released an unclassified overview of the Report of the Independent Review of the Intelligence Community (IRIC).</p>
 <p>This was the first comprehensive review of the Australian intelligence community since the 2004 inquiry conducted by Mr Philip Flood AO. The Flood inquiry recommended that Australia's intelligence agencies undergo external review every five to seven years.</p>
 <p>The full, classified Report was considered by the Government in November and work is underway to implement recommendations from the review.</p>
 <p>The review found that Australia's intelligence agencies are performing well following a period of significant growth to deal with the security challenges of the 9/11 decade.  </p>
 <p>Other findings were that:</p>
-<p> * 	Australia and its citizens are safer than they would otherwise have been as a result of intelligence efforts<br />
- * 	Our intelligence capabilities have contributed significantly to the global security effort<br />
- * 	Australia has built intelligence capabilities broadly commensurate with our growing security challenges<br />
+<p> * 	Australia and its citizens are safer than they would otherwise have been as a result of intelligence efforts<br>
+ * 	Our intelligence capabilities have contributed significantly to the global security effort<br>
+ * 	Australia has built intelligence capabilities broadly commensurate with our growing security challenges<br>
  * 	The current basic structure of the Australian Intelligence Community (AIC) remains appropriate, including the operational mandate of agencies</p>
 <p>The review covered challenges for the Australian intelligence community over the next five years stemming from geo-political and technological change and made recommendations to help maintain the performance of the community in a period of resource constraints.</p>
 <p>These recommendations covered areas such as priority setting and mission integration, performance evaluation, support for innovation and strategies for managing intelligence collection in the age of abundant information.  </p>
@@ -25,6 +15,4 @@ Prime Minister Julia Gillard today released an unclassified overview of the Repo
 <p>She said the Australian intelligence community played a vital role in keeping Australians safe and protecting Australia's security interests. The review demonstrated that the investment in the intelligence community over the past decade had resulted in more capability and increased performance.</p>
 <p>The Prime Minister said the findings of the review and its recommendations would help ensure the intelligence community maintained this level of performance and was well-positioned to meet the challenges of an evolving security environment.</p>
 <p>The unclassified overview of the IRIC Report is available at<a href="http://www.dpmc.gov.au/publications/index.cfm">http://www.dpmc.gov.au/publications/index.cfm</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

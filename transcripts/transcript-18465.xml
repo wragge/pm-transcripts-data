@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18465</transcript-id>
-    <title>Queensland election result</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>24/03/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18465</transcript-id><title>Queensland election result</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>24/03/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today congratulated Campbell Newman and the LNP on their comprehensive win in the Queensland election.</p>
 <p>The Prime Minister also congratulated Anna Bligh, who led a hard fought campaign and has served the people of Queensland as Premier for over four and a half years.</p>
 <p>Anna Bligh is a hugely talented leader who has worked hard each and every day to deliver Labor reforms for her state.</p>
@@ -18,6 +8,4 @@ Prime Minister Julia Gillard today congratulated Campbell Newman and the LNP on 
 <p>Just over 12 months ago, Anna showed her true strengths as a leader when she led Queenslanders though the worst floods and cyclone the state has ever seen, and since then, she has committed herself to the reconstruction task to make sure Queensland got back on its feet again.</p>
 <p>A special mention must also go to former QLD Premier Peter Beattie who also played a vital role in transforming Queensland into the "smart state" it is today- a place where people want to live and businesses want to invest.</p>
 <p>The Gillard Government has a big reform agenda and we will deliver for Queenslanders working with the new LNP Government in areas such as health, education, skills, infrastructure and the rollout of the NBN as we build a strong economy for the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

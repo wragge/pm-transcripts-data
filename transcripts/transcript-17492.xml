@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17492</transcript-id>
-    <title>Transcript of joint press conference, Canberra</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>07/12/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17492</transcript-id><title>Transcript of joint press conference, Canberra</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>07/12/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 PM: I'm here with David Bradbury, the Parliamentary Secretary to the Treasurer, to make an announcement relating to a Commonwealth loan arrangement with New South Wales for the asbestos-related victims of James Hardie.</p>
 <p>Can I start by saying that when I was a young solicitor I learned at first hand the cruelty of asbestos-related diseases for Australians and their families. This is a very difficult circumstance that Australians families in their thousands have had to confront - knowing that they were exposed to asbestos, the long wait to see whether or not that would cause a disease that then, of course, meant such tragedy for families.</p>
 <p>We've seen great Australian heroes like Bernie Banton fight against this cruel disease and fight for compensation in the full gaze of the Australian public, and I believe many members of the Australian community watched, particularly, Bernie Banton's fight with a great deal of sympathy and concern.</p>
@@ -115,6 +105,4 @@ PM: I'm here with David Bradbury, the Parliamentary Secretary to the Treasurer, 
 <p>JOURNALIST: Prime Minister, given your previous portfolio, will you be intervening personally in the national curriculum negotiations, and given that New South Wales is questioning education plans and Mike Taylor is questioning some of the water plan, are you confident that 2011 will still be a year of delivery?</p>
 <p>PM: Absolutely confident, and on national curriculum Minister Garrett has the matter well in hand.</p>
 <p>Thank you. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

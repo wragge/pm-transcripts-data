@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41016</transcript-id>
-    <title>Interview with Tom Elliott, 3AW</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>15/06/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Victorian judiciary sentencing; Mid-Winter Ball 2017</subjects>
-    <content><![CDATA[<p><strong>TOM ELLIOTT:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41016</transcript-id><title>Interview with Tom Elliott, 3AW</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>15/06/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Victorian judiciary sentencing; Mid-Winter Ball 2017</subjects><content><![CDATA[<p><strong>TOM ELLIOTT:</strong></p>
 <p>Joining us on the line is the Prime Minister of Australia Malcolm Turnbull. Mr Turnbull, good afternoon.</p>
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Good afternoon Tom. Great to be with you.</p>
@@ -75,6 +65,4 @@
 <p><strong>TOM ELLIOT: </strong></p>
 <p>Thank you Prime Minister we will let you get back to it. The Prime Minister Malcolm Turnbull.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

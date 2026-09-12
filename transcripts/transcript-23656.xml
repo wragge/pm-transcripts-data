@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>23656</transcript-id>
-    <title>Press Conference, Parliament House</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>18/07/2014</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Malaysia Airlines tragedy.</subjects>
-    <content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>23656</transcript-id><title>Press Conference, Parliament House</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>18/07/2014</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Malaysia Airlines tragedy.</subjects><content><![CDATA[<p><strong>PRIME MINISTER:</strong></p>
 <p>As you all know, Australians awoke to very bad news and in the course of the day the news has just got worse.</p>
 <p>There were 298 people on this aircraft. It is highly probable that MH17 was shot down by a pro-Russian separatist controlled surface-to-air missile. So, it was shot down over Russian-backed rebel territory by what appears to be a Russian-backed rebel missile.</p>
 <p>I can confirm that the nationalities of the victims are as follows: Netherlands – 154, Malaysia – 43, Indonesia – 12, the United Kingdom – 9, Germany – 4, Belgium – 4, the Philippines – 3, Canada – 1. There are still 41 whose nationality is unconfirmed. The advice that I have is that the final number of Australians on board is 28.</p>
@@ -92,6 +82,4 @@
 <p>There will be flags flying at half-mast across our country tomorrow. The Governor-General and I will be attending a church service on Sunday to show our respects to the families of the dead, to honour the dead, and at some suitable time in the future, there will be a national service to mark this terrible event.</p>
 <p>I do want to assure the families of those who have died that our thoughts and prayers are with them. We bleed for them, we grieve for them and we will do everything we can to ensure that the perpetrators of this are identified and as far as is humanly possible, brought to justice.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

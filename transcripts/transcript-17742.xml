@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17742</transcript-id>
-    <title>Speech to the Australian American Association Dinner, New York</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>09/03/2011</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17742</transcript-id><title>Speech to the Australian American Association Dinner, New York</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>09/03/2011</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Friends all</p>
 <p>I've always found my American friends so instinctively polite that even when you find me completely indecipherable all you still nod and smile sweetly. </p>
 <p>But among so many friends of Australia I hope I can relax and use my own vowels?</p>
@@ -113,6 +103,4 @@ Friends all</p>
 <p>We have so much in common but we can never take each other for granted.</p>
 <p>After centuries as friends, decades as allies, days and nights like these are precious still.  We are reminded of our best selves. </p>
 <p>Americans are still optimists, Australians still have a Go  and our future is there for us as long as we are bold. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

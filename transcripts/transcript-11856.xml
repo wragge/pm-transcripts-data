@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11856</transcript-id>
-    <title>Interview on 2GO Radio Breakfast Show</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>17/05/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Petrol prices; F3 Freeway improvements; GST; airlines</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11856</transcript-id><title>Interview on 2GO Radio Breakfast Show</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>17/05/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Petrol prices; F3 Freeway improvements; GST; airlines</p>
 <p>E&amp;OE................................</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister of Australia good morning.</p>
@@ -22,7 +12,7 @@
 <p>JOURNALIST:</p>
 <p>Yes we're looking forward to that and we do appreciate your time this morning and such an early start to the day. Prime Minister we've had several questions posed to us from our listeners over the last, it would be couple of days Sarah, and if you don't mind we'd like to put them to you.</p>
 <p>PRIME MINISTER:</p>
-<p>Yeah go right ahead Cameron.<br />
+<p>Yeah go right ahead Cameron.<br>
 JOURNALIST:</p>
 <p>Well the first one is Prime Minister, the situation on fuel prices. We'll get the heavy stuff out of the way first if that's alright with you. Fuel prices, we've just heard in the news, between 10 and 11 cents, gone up again overnight. Yesterday we had fuel in Newcastle at 90.9 to around 105 cents a litre, there's 15-16 cents a litre difference going up from what was 93 here about 48-72 hours ago. The fluctuations, Prime Minister, are unbelievable.</p>
 <p>PRIME MINISTER:</p>
@@ -52,8 +42,8 @@ JOURNALIST:</p>
 <p>JOURNALIST:</p>
 <p>Prime Minister, a change of the subject now. Pretty well a (inaudible) our road the F3 one of our major highways here bound for Sydney and up to Newcastle. There's always been a bone of contention, it doesn't seem to be able to handle the traffic, but we do have, anyway, a question from one of our listeners for you. This is Chris from Bensville.</p>
 <p>CALLER:</p>
-<p>Prime Minister, good morning. This is Chris from Bensville<br />
-.<br />
+<p>Prime Minister, good morning. This is Chris from Bensville<br>
+.<br>
 PRIME MINISTER:</p>
 <p>Good morning.</p>
 <p>CALLER:</p>
@@ -239,6 +229,4 @@ PRIME MINISTER:</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

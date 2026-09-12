@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15886</transcript-id>
-    <title>Joint Media release with the Minister for Innovation, Industry Science and Research - Top Researchers Awarded ARC Federation Fellowships  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>22/04/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>From a highly competitive field of candidates, the Prime Minister, the Hon. Kevin Rudd, and the Minister for Innovation, Industry, Science and Research, Senator Kim Carr, will tonight announce the award of Australian Research Council (ARC) Federation Fellowships worth more than $23 million over five years to 14 outstanding researchers.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15886</transcript-id><title>Joint Media release with the Minister for Innovation, Industry Science and Research - Top Researchers Awarded ARC Federation Fellowships  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>22/04/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>From a highly competitive field of candidates, the Prime Minister, the Hon. Kevin Rudd, and the Minister for Innovation, Industry, Science and Research, Senator Kim Carr, will tonight announce the award of Australian Research Council (ARC) Federation Fellowships worth more than $23 million over five years to 14 outstanding researchers.</p>
 <p>The winning researchers are:</p>
 <p>     * Dr Christopher Carilli</p>
 <p>     * Professor Dr Peter Teunissen</p>
@@ -38,6 +28,4 @@
 <p>In this round, three Federation Fellowships will be awarded to researchers to undertake their work at The University of New South Wales, with two each going to Monash University and The Australian National University.</p>
 <p>One each will go to the CSIRO - Australia Telescope National Facility; Curtin University of Technology; Flinders University; James Cook University; The University of Adelaide; The University of Queensland; and The University of Sydney.</p>
 <p>The Minister approved all of the projects recommended by the ARC for funding.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

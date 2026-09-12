@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20837</transcript-id>
-    <title>Interview with Pete Davies and Lisa Ridgley Mix 104.9 </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>05/08/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  DAVIES:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20837</transcript-id><title>Interview with Pete Davies and Lisa Ridgley Mix 104.9 </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>05/08/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  DAVIES:</p>
 <p>It's absolute delight, of course, to welcome the Prime Minister of Australia, John Howard.  Welcome to the top end and absolute delight to have you on board this morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Thanks.  Very nice to be here this morning Lisa and Pete.</p>
@@ -133,6 +123,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10438</transcript-id>
-    <title>Statement by the acting Prime Minister The Hon Peter Costello MP Thredbo</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>02/08/1997</release-date>
-    <release-type>Media Release</release-type>
-    <document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010438.pdf</document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Acting Prime Minister Press Release Statement by the Acting Prime Minister, Hon. Peter Costello MP - Thredbo</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10438</transcript-id><title>Statement by the acting Prime Minister The Hon Peter Costello MP Thredbo</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>02/08/1997</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au/sites/default/files/original/00010438.pdf</document><subjects></subjects><content><![CDATA[<p>Acting Prime Minister Press Release Statement by the Acting Prime Minister, Hon. Peter Costello MP - Thredbo</p>
 <p>It is thrilling news that a survivor has been rescued at Thredbo.</p>
 <p>It is a wonderful survival against all the odds.</p>
 <p>All Australians' hopes and prayers are for his recovery.</p>
@@ -18,7 +8,5 @@
 <p>Of course our hearts go out to the families of the victims that have not survived.</p>
 <p>2 August 1997</p>
 <p>Melbourne</p>
-<p> </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p>&nbsp;</p>
+]]></content></item></response>

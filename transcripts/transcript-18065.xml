@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18065</transcript-id>
-    <title>Agreement with Papua New Guinea</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>12/08/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18065</transcript-id><title>Agreement with Papua New Guinea</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>12/08/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 I welcome the comments made today by the Prime Minister of Papua New Guinea confirming agreement to establish an assessment centre in Papua New Guinea.</p>
 <p>The Australian Government thanks Prime Minister O'Neill and his newly formed Cabinet for giving prompt consideration to the proposal for an assessment centre on Manus Island and providing its approval for the proposal to proceed. </p>
 <p>This announcement follows ongoing discussions between the Australian and Papua New Guinea Governments.</p>
@@ -19,6 +9,4 @@ I welcome the comments made today by the Prime Minister of Papua New Guinea conf
 <p>The Bali Process Ministerial Conference earlier this year demonstrated our region's resolve to better work together on the issues of people smuggling, human trafficking and irregular migration.</p>
 <p>The Government is committed to the development of a lasting regional response to irregular migration. We will continue to work with our international partners to examine further opportunities to enhance the region's response to refugees and asylum seekers. </p>
 <p>Through this arrangement, Australia and Papua New Guinea can make a valuable contribution to regional efforts to counter people smuggling and address irregular migration more broadly. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

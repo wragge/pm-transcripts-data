@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17599</transcript-id>
-    <title>Transcript of interview, 2UE</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/01/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17599</transcript-id><title>Transcript of interview, 2UE</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/01/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard at the evacuation centre, I know you've been here the last couple of days, when you look around the crèche, the stack of clothes, the books, all of the things that have been organised, Salvation Army, is it a humbling experience for you?</p>
 <p>PM: It's a really heart-warming experience. I was here yesterday and let me tell you kid's corner has really kicked on since yesterday because of the work of volunteers.</p>
 <p>I've been in three other evacuation centres today and the message in all of them is that volunteers have just stepped forward, Australians of all walks of life, from the smallest contributions to the biggest contributions, all pulling together. It really is tremendously heart-warming.</p>
@@ -24,6 +14,4 @@ HOST: Prime Minister Julia Gillard at the evacuation centre, I know you've been 
 <p>PM: Yes this is Ipswich mud, I was out in the CBD of Ipswich today which was inundated by water, but the water has cleared in some parts and people are down to the painful task of trying to hose that mud out and get their shops back up and running. But even in doing that task, volunteers have come forward to help businesspeople who are literally sweeping filth out of their stores. I met a lady today and there's an arcade of shops there, they've had volunteers working with them all day to clean those shops, help those businesspeople and those employees get their businesses back running, get those employees back to work. I mean that's a real spirit of volunteerism right round the nation, people here in Queensland looking after each other, people around the nation sending in their donations, it's just wonderful.</p>
 <p>HOST: Another busy day ahead for you tomorrow, I wish you well, thank you Prime Minister.</p>
 <p>PM: Thank you very much. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

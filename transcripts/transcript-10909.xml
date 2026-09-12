@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>10909</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT SUSAN JEANES OFFICE &amp;#150; ADELAIDE</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>16/07/1998</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE................................................................................................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>10909</transcript-id><title><![CDATA[TRANSCRIPT OF THE PRIME MINISTER                THE HON JOHN HOWARD MP                ADDRESS AT SUSAN JEANES OFFICE &amp;#150; ADELAIDE]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>16/07/1998</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE................................................................................................</p>
 <p>Thank you very much Mr Mayor. To my colleague, Susan Jeanes, ladies</p>
 <p>   and gentlemen. Of course, as a very young boy I learnt the word</p>
 <p>   Onkaparinga' and as a student at the Sydney University</p>
@@ -146,6 +136,4 @@
 <p>So ladies and gentleman, thank you most warmly for being here today,</p>
 <p>   its been a great privilege to address you for a few moments. Thank</p>
 <p>   you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

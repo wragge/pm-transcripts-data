@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18773</transcript-id>
-    <title>Saving Pacific fish stocks and ecosystems</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>31/08/2012</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18773</transcript-id><title>Saving Pacific fish stocks and ecosystems</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>31/08/2012</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Pacific communities will receive support to manage and conserve their valuable fish stocks and marine ecosystems.</p>
 <p>The Gillard Government will support strengthened regional efforts to ensure valuable tuna stocks are not over-fished by foreign fishing fleets.</p>
 <p>The Government will also help protect environmentally threatened inshore fisheries which are a vital source of food for millions of Pacific islanders.  </p>
@@ -21,6 +11,4 @@ Pacific communities will receive support to manage and conserve their valuable f
 <p>Australia will also assist Pacific nations to ensure food security for their people, noting that fish is a vital source of protein for Pacific populations.</p>
 <p>Experts have recently assessed that climate change and other environmental factors will damage coral reefs and associated marine environments, including through sea temperature rises and acidification.Productivity of currently harvested species may fall significantly.  Australia will provide funding to the Australian Centre for International Agricultural Research to support community based efforts to manage these processes better.</p>
 <p>Australia will also provide Pacific countries with support to ensure their maritime boundaries are fully defined and internationally recognised, so they are better able to exert full control over their marine jurisdictions.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

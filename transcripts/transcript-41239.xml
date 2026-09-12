@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41239</transcript-id>
-    <title>Facebook Live interview with Professor Ian Hickie and Professor Jane Burns</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/10/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Mental health;</subjects>
-    <content><![CDATA[<p>Watch the interview on Facebook live.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41239</transcript-id><title>Facebook Live interview with Professor Ian Hickie and Professor Jane Burns</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/10/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Mental health;</subjects><content><![CDATA[<p>Watch the interview on Facebook live.</p>
 <p><strong>PROFESSOR IAN HICKIE:</strong></p>
 <p>Good morning. I’m Professor Ian Hickie from the Brain and Mind Centre at the University of Sydney. Its my great pleasure during this Mental Health Week to have as a guest the Prime Minister of Australia, Malcolm Turnbull. One of our greatest supporters really, in terms of a really important concept, one you’ve taken and mentioned many times; how do we grow the mental wealth of Australia?</p>
 <p>Can you just say again how important mental health is to our wealth as a nation?</p>
@@ -110,8 +100,8 @@
 <p>There’s a series of trials. So in each community and in each group, we trial, we modify and then we deploy.</p>
 <p>So what’s happening for example - and the best example is through the Headspace systems - here in central eastern Sydney with the Headspace cluster, we trial, we’ve designed we’re now deploying that through those systems.</p>
 <p>So those that come into those systems, will start to be using that Synergy system, behind the service reform. So, making Headspace work in local communities.</p>
-<p>We’ll see in veterans communities here in Sydney and then in Townsville, they’re developing services, we’ll be working with eating disorder services in Geelong and the coast down there and Butterfly Foundation.  So what you’ll see, is the Synergy system coming into work with existing players. Through your Government’s commitment to conducting over ten of these trials, our plan is to work with the other key organisations - with Lifeline, with other organisations who work in, allow other organisations like Sane Australia and ReachOut and others, to participate, to come together.</p>
-<p>So I think what’s been really great about your Government’s commitment it isn’t just funding 20 different organisations to do 20 different things. It’s about how do we coordinate the system, so you’re at the centre and in addition to the quality of the service that’s provided, the clinical governance - </p>
+<p>We’ll see in veterans communities here in Sydney and then in Townsville, they’re developing services, we’ll be working with eating disorder services in Geelong and the coast down there and Butterfly Foundation.&nbsp; So what you’ll see, is the Synergy system coming into work with existing players. Through your Government’s commitment to conducting over ten of these trials, our plan is to work with the other key organisations - with Lifeline, with other organisations who work in, allow other organisations like Sane Australia and ReachOut and others, to participate, to come together.</p>
+<p>So I think what’s been really great about your Government’s commitment it isn’t just funding 20 different organisations to do 20 different things. It’s about how do we coordinate the system, so you’re at the centre and in addition to the quality of the service that’s provided, the clinical governance -&nbsp;</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>When you say “you’re” at the centre, you mean “the person” -</p>
 <p><strong>PROFESSOR JANE BURNS:</strong></p>
@@ -180,7 +170,7 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Yeah.</p>
 <p><strong>PROFESSOR IAN HICKIE:</strong></p>
-<p>As distinct from: “We’ve got to work together around the needs”. Much like the National Disability Insurance Scheme – it’s got to be about the people and the families in the middle of this and Government’s funding systems that encourage us to cooperate. </p>
+<p>As distinct from: “We’ve got to work together around the needs”. Much like the National Disability Insurance Scheme – it’s got to be about the people and the families in the middle of this and Government’s funding systems that encourage us to cooperate.&nbsp;</p>
 <p>We think technology is at the heart of it, because your other favourite thing - which I love, I was just showing data on outcomes. We could argue for more money and to be clear, I’m going to argue for money, but good money is money that delivers better outcomes.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>That’s right.</p>
@@ -230,6 +220,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you, thanks a lot.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

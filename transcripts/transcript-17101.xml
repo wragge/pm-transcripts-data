@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17101</transcript-id>
-    <title>Taking majority funding responsibility for public hospitals    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>03/03/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17101</transcript-id><title>Taking majority funding responsibility for public hospitals    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>03/03/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Australian Government will for the first time become the majority funder of the public hospital system.</p>
 <p>To deliver these changes, the Commonwealth will fund:</p>
 <p>- 60 per cent of the efficient price of every public hospital service;</p>
@@ -28,6 +18,4 @@ The Australian Government will for the first time become the majority funder of 
 <p>- $750 million to take pressure off Emergency Departments; and</p>
 <p>- $600 million for elective surgery waiting lists.</p>
 <p>The Government will announce further complementary investments to take pressure off hospitals and increase the availability of hospital beds over the coming weeks and months.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

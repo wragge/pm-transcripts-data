@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21570</transcript-id>
-    <title>New Year Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>01/01/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Our thoughts are naturally overwhelmed by the appalling tragedy that has claimed so many lives, not only of Australians but in their tens of thousands, the citizens of many of our neighbouring countries.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21570</transcript-id><title>New Year Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>01/01/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Our thoughts are naturally overwhelmed by the appalling tragedy that has claimed so many lives, not only of Australians but in their tens of thousands, the citizens of many of our neighbouring countries.</p>
 <p>As we come to the end of this year, we reflect upon the terrible tragedy that has affected so many.</p>
 <p>Australians, through their government and individually, have already responded very generously.  But that generosity must be sustained if the process of recovery in these afflicted countries is to be successful.</p>
 <p>Our hearts and our condolences go out to those Australians who have lost loved ones, those who know that they will never return but also those who wait in anxiety and hope against hope and expectation that perhaps it will be some good news.  We think of them, particularly, at this time.</p>
@@ -17,6 +7,4 @@
 <p>We are economically strong and successful, we are united and cohesive as a people, we are seen around the world as being warm and generous.</p>
 <p>Our greatest challenge in 2005 is to convert these significant strengths and attributes and consolidate them to our permanent advantage as a nation.</p>
 <p>My wife Janette joins me in wishing all Australians and their families a very happy 2005.  We wish you the very best in the months ahead.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

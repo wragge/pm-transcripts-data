@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17858</transcript-id>
-    <title>Gillard Government delivers reconstruction funding for flood-affected Victorian communities</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>13/05/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17858</transcript-id><title>Gillard Government delivers reconstruction funding for flood-affected Victorian communities</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>13/05/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard announced Victoria will today receive $500 million in upfront funding to help with the rebuilding of crucial infrastructure damaged by recent flooding.</p>
 <p>The Gillard Government has signed a National Partnership Agreement with the Victorian Government that will allow for the advance payment to be made today.</p>
 <p>The Prime Minister made the announcement during a visit to the flood-damaged Victorian communities of Clunes and Creswick with the Member for Ballarat, Catherine King.</p>
@@ -21,7 +11,7 @@ Prime Minister Julia Gillard announced Victoria will today receive $500 million 
 <p>In Victoria, almost 100 townships across 27 municipalities and more than 3,000 properties were disaster-affected by floods.</p>
 <p>The Federal Government is providing more than $6 billion to support communities in meeting the cost of floods, cyclones and bushfires that have devastated many parts of Australia over the summer.</p>
 <p>Victorians affected by the flooding have already received more than:</p>
-<p> * 	$36 million in Australian Government Disaster Recovery Payments (AGDRP) to help them with immediate relief<br />
+<p> * 	$36 million in Australian Government Disaster Recovery Payments (AGDRP) to help them with immediate relief<br>
  * 	$2 million in Disaster Income Recovery Subsidy payments to assist employees, small business operators and farmers who lost income as a result of the flooding.</p>
 <p>Nationally, more than one million AGDRP payments have been made through Centrelink, providing around $812 million to people across the country who are in real need.</p>
 <p>A further $72 million in income relief payments have been made Australia-wide.</p>
@@ -30,6 +20,4 @@ Prime Minister Julia Gillard announced Victoria will today receive $500 million 
 <p>The National Partnership Agreement provides for the Reconstruction Inspectorate, led by Mr John Fahey AC, to oversee reconstruction activity to provide assurance that value for money is being achieved in the disaster response in Victoria.</p>
 <p>The Queensland Government has also signed a National Partnership Agreement with the Federal Government for natural disaster reconstruction.</p>
 <p>For specific information about NDRRA assistance made available in response to specific disasters visit <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

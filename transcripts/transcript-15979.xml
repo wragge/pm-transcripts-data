@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15979</transcript-id>
-    <title>Joint Media Release with the Minister for Employment and Workplace Relations, Julia Gillard, New National Employment Standards Released, Parliament House Canberra</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>16/06/2008</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Prime Minister, Kevin Rudd and Minister for Employment and Workplace Relations Julia Gillard, today released the new National Employment Standards (NES).</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15979</transcript-id><title>Joint Media Release with the Minister for Employment and Workplace Relations, Julia Gillard, New National Employment Standards Released, Parliament House Canberra</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>16/06/2008</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Prime Minister, Kevin Rudd and Minister for Employment and Workplace Relations Julia Gillard, today released the new National Employment Standards (NES).</p>
 <p>The NES are a key element of the Rudd Government's new modern workplace relations system and will come into effect on 1 January 2010.</p>
 <p>The NES will ensure that all employees are protected by a strong safety net of fair minimum conditions that can't be stripped away.</p>
 <p>The NES will apply to all employees in the Federal system regardless of industry, occupation or income.</p>
@@ -35,6 +25,4 @@
 <p>The NES and award modernisation are integral components of the Government's commitment to deliver a modern workplace relations system to benefit all Australians.</p>
 <p>Legislation will be introduced into Parliament later this year to give effect to the Government's commitment. The legislation will include other aspects of workplace relations relating to the NES including compliance, interaction with agreement making and future reviews.</p>
 <p>The National Employment Standards in more detail can be found at <a href="http://www.workplace.gov.au">www.workplace.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22604</transcript-id>
-    <title>Weekly Radio Message  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>27/11/2006</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Later today, the report of Mr Terence Cole into the activities of AWB Limited will be tabled in Parliament. Until then I will not comment upon the contents of that report.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22604</transcript-id><title>Weekly Radio Message  </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>27/11/2006</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Later today, the report of Mr Terence Cole into the activities of AWB Limited will be tabled in Parliament. Until then I will not comment upon the contents of that report.</p>
 <p>I can, however, without making such comment, emphatically dismiss the major claim about the report already being made by the Labor Party.</p>
 <p>Mr Beazley says that the terms of reference for the inquiry were rorted so as to protect me and my ministers from any adverse findings. That allegation is totally false.</p>
 <p>This was demonstrated as far back as the third of February 2006 when Mr Cole himself said that if during the course of his investigation it appeared that any officer of the Commonwealth, and that includes a minister, had broken the law, he would seek an extension of his terms of reference.</p>
@@ -19,6 +9,4 @@
 <p> For more than a year now, Mr Beazley, Mr Rudd and others in the Labor Party have alleged dishonesty, conspiracy and negligence by members of the Government regarding AWB Limited.</p>
 <p> Once the contents of the report of the Cole inquiry are available, Australians can judge for themselves the worth or otherwise of these allegations.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

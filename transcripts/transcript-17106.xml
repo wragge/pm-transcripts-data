@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17106</transcript-id>
-    <title>Prime Minister Transcript of interview with Lisa Wilkinson Today Show 4 March 2010 </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/03/2010</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>WILKINSON: And the Prime Minister joins me now from Brisbane. Good morning to you, Prime Minister.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17106</transcript-id><title>Prime Minister Transcript of interview with Lisa Wilkinson Today Show 4 March 2010 </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/03/2010</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>WILKINSON: And the Prime Minister joins me now from Brisbane. Good morning to you, Prime Minister.</p>
 <p>PM: Good morning.</p>
 <p>WILKINSON: Thank you for your time. Now, it looks like the states are going to be the sticking point on this, Prime Minister. You're threatening a referendum at the next election, but this was a promise that you made at the last election. Why should Australians vote for you again?</p>
 <p>PM: What we've spent the last two years doing, our two years in office, is getting the detail right on what must be the funding and structure of our national health and hospital network for the decade ahead. You've got to get that right to deliver better health and better hospitals for all the working families of Australia.</p>
@@ -29,6 +19,4 @@
 <p>So, the independent umpire should get on with the business of deciding what's fair in these circumstances, and everyone will be having their say to this review. Members of the public should have their say as well.</p>
 <p>WILKINSON: OK, Prime Minister, we'll have to leave it there. Thank you very much for your time this morning. We appreciate it.</p>
 <p>PM: Thanks for having me on the program.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

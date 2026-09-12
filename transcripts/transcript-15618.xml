@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15618</transcript-id>
-    <title>Doorstop Interview, Denistone East Public School,  Denistone East</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15618</transcript-id><title>Doorstop Interview, Denistone East Public School,  Denistone East</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Zimbabwe; workplace reform; education</p>
 <p>E&amp;OE...</p>
 <p>PRIME MINISTER:</p>
@@ -67,6 +57,4 @@ Zimbabwe; workplace reform; education</p>
 <p>PRIME MINISTER:</p>
 <p>Well what we're proposing in relation to this area is to, as I have indicated in previous comments and I will indicate it tonight, we will be providing as part of our funding package that there be greater attention given particularly to the power and the role of school principals. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

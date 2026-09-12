@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>20714</transcript-id>
-    <title>Interview with Liam Bartlett Radio 6WF </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/05/2003</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>BARTLETT:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>20714</transcript-id><title>Interview with Liam Bartlett Radio 6WF </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/05/2003</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>BARTLETT:</p>
 <p>And we're joined by Prime Minister John Howard from the Canberra studios. Prime Minister, good morning.</p>
 <p>PRIME MINISTER:</p>
 <p>Good morning Liam.</p>
@@ -401,6 +391,4 @@
 <p>Matthew, the Prime Minister is listening.</p>
 <p>CALLER:</p>
 <p>Prime Minister, I have a question about the surplus. What I want to know is that given that the States are all having to increase their taxes to pa</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18979</transcript-id>
-    <title>Federal Financial Assistance to Help Tasmanians Get Back on Their Feet</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>06/01/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Sydney</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18979</transcript-id><title>Federal Financial Assistance to Help Tasmanians Get Back on Their Feet</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>06/01/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Sydney</p>
 <p>Australian Government Disaster Recovery Payments (AGDRP) are now available to residents in the southeast and east of Tasmania covering the affected Local Government Areas of Sorell, Tasman and Glamorgan-Spring Bay.</p>
 <p>Eligible people affected by the recent bushfires that commenced on 3 and 4 January in southeast and east Tasmania will be able to claim payments of $1,000 for each adult and $400 for each child.</p>
 <p>These bushfires have had a devastating impact on some communities.</p>
@@ -20,6 +10,4 @@
 <p>This assistance is over and above the support to be provided by the Australian and Tasmanian Governments under the jointly funded Natural Disaster Relief and Recovery Arrangements (NDRRA) in coming days.</p>
 <p>Affected residents may also be eligible for personal hardship and distress assistance, including a range of grants administered by the Tasmanian Government.</p>
 <p>Further information on Australian Government assistance is available online at <a href="http://www.disasterassist.gov.au">www.disasterassist.gov.au</a>.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

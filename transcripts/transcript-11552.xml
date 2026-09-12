@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11552</transcript-id>
-    <title>LOYAL TOAST AND NATIONAL ANTHEM</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/03/2000</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>During the forthcoming visit of The Queen and The Duke of Edinburgh the</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11552</transcript-id><title>LOYAL TOAST AND NATIONAL ANTHEM</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/03/2000</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>During the forthcoming visit of The Queen and The Duke of Edinburgh the</p>
 <p> Loyal Toast at Commonwealth functions will take the form of "The</p>
 <p> Queen and the People of Australia".</p>
 <p>This form of Toast has been used at functions at both Government House</p>
@@ -22,6 +12,4 @@
 <p> term back in 1985 shortly after "Advance Australia Fair" was</p>
 <p> proclaimed Australia's National Anthem.</p>
 <p>Statements concerning these earlier arrangements are attached.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

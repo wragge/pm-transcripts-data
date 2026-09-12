@@ -1,99 +1,87 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41202</transcript-id>
-    <title>Radio interview with Hamish &amp; Andy, 2DAY FM</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>22/09/2017</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Company Tax Cuts; Same Sex Marriage</subjects>
-    <content><![CDATA[<p><strong>ANDY: </strong>The Prime Minister is about to join us on the line!</p>
-<p><strong>HAMISH: </strong>Mr Prime Minister, are you there?</p>
-<p><strong>PRIME MINISTER: </strong>Hamish and Andy – good to talk to you.</p>
-<p><strong>HAMISH: </strong>Great to talk to you Mr Prime Minister.</p>
-<p><strong>PRIME MINISTER: </strong>Yeah, how’s everything going?</p>
-<p><strong>HAMISH: </strong>Very good, we do like to kick off every Friday’s show with a quick chat with the PM.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41202</transcript-id><title><![CDATA[Radio interview with Hamish &amp; Andy, 2DAY FM]]></title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>22/09/2017</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Company Tax Cuts; Same Sex Marriage</subjects><content><![CDATA[<p><strong>ANDY:&nbsp;</strong>The Prime Minister is about to join us on the line!</p>
+<p><strong>HAMISH:&nbsp;</strong>Mr Prime Minister, are you there?</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Hamish and Andy – good to talk to you.</p>
+<p><strong>HAMISH:&nbsp;</strong>Great to talk to you Mr Prime Minister.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Yeah, how’s everything going?</p>
+<p><strong>HAMISH:&nbsp;</strong>Very good, we do like to kick off every Friday’s show with a quick chat with the PM.</p>
 <p>(Laughter)</p>
-<p><strong>PRIME MINISTER: </strong>Very good!</p>
-<p><strong>PRESENTER: </strong>And obviously schedules have been a little bit of a nuisance up until now, but it is great to get it happening.</p>
-<p><strong>PRIME MINISTER: </strong>Excellent.</p>
-<p><strong>PRESENTER: </strong>Malcolm, we understand that you’re about to vote in this plebiscite?</p>
-<p><strong>PRIME MINISTER: </strong>Yes, yes I am.</p>
-<p><strong>PRESENTER: </strong>You’ve already told everybody which way you’re voting-</p>
-<p><strong>HAMISH: </strong>Unless you’re ringing up to drop a bombshell and switch it?!</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Very good!</p>
+<p><strong>PRESENTER:&nbsp;</strong>And obviously schedules have been a little bit of a nuisance up until now, but it is great to get it happening.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Excellent.</p>
+<p><strong>PRESENTER:&nbsp;</strong>Malcolm, we understand that you’re about to vote in this plebiscite?</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Yes, yes I am.</p>
+<p><strong>PRESENTER:&nbsp;</strong>You’ve already told everybody which way you’re voting-</p>
+<p><strong>HAMISH:&nbsp;</strong>Unless you’re ringing up to drop a bombshell and switch it?!</p>
 <p>(Laughter)</p>
-<p><strong>PRIME MINISTER: </strong>No, I have just got back from Queensland and while I was away our survey forms arrived so this afternoon Lucy and I will be filling it in, voting ‘yes’ and we’ll be going to the post box, just like you did Hamish when you broke your admin drought.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>No, I have just got back from Queensland and while I was away our survey forms arrived so this afternoon Lucy and I will be filling it in, voting ‘yes’ and we’ll be going to the post box, just like you did Hamish when you broke your admin drought.</p>
 <p>(Laughter)</p>
 <p>And we’ll be posting it back.</p>
-<p><strong>HAMISH: </strong>All good fun there.</p>
-<p><strong>ANDY: </strong>Well I wanted to bring that up!</p>
-<p><strong>HAMISH: </strong>It is true, I do throw a lot of stuff in the bin - but not the plebiscite.</p>
-<p><strong>PRIME MINISTER: </strong>Oh that’s good.</p>
-<p><strong>ANDY: </strong>I wanted to bring that up Malcolm – as the Prime Minister of Australia do you want to speak to Hamish now-</p>
-<p><strong>HAMISH: </strong>He’s got better things to do Ando.</p>
-<p><strong>ANDY: </strong>And ask him and tell him how important it is for him to read government information and participate in Australia’s future in the future.</p>
-<p><strong>PRIME MINISTER: </strong>Hamish, it is very important – particularly since you’re the CEO of the Important Fragrance Company.</p>
-<p><strong>ANDY: </strong>Yeah.</p>
-<p><strong>HAMISH: </strong>True.</p>
-<p><strong>PRIME MINISTER: </strong>You could move on to energy, a nice non-controversial industry, you could move onto that shortly.</p>
-<p><strong>HAMISH: </strong>Feels a little bit too coal heavy for my liking at the moment, Malcolm.</p>
+<p><strong>HAMISH:&nbsp;</strong>All good fun there.</p>
+<p><strong>ANDY:&nbsp;</strong>Well I wanted to bring that up!</p>
+<p><strong>HAMISH:&nbsp;</strong>It is true, I do throw a lot of stuff in the bin - but not the plebiscite.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Oh that’s good.</p>
+<p><strong>ANDY:&nbsp;</strong>I wanted to bring that up Malcolm – as the Prime Minister of Australia do you want to speak to Hamish now-</p>
+<p><strong>HAMISH:&nbsp;</strong>He’s got better things to do Ando.</p>
+<p><strong>ANDY:&nbsp;</strong>And ask him and tell him how important it is for him to read government information and participate in Australia’s future in the future.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Hamish, it is very important – particularly since you’re the CEO of the Important Fragrance Company.</p>
+<p><strong>ANDY:&nbsp;</strong>Yeah.</p>
+<p><strong>HAMISH:&nbsp;</strong>True.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>You could move on to energy, a nice non-controversial industry, you could move onto that shortly.</p>
+<p><strong>HAMISH:&nbsp;</strong>Feels a little bit too coal heavy for my liking at the moment, Malcolm.</p>
 <p>(Laughter)</p>
-<p><strong>PRIME MINISTER: </strong>Well, or you could be spinning around like a wind turbine!</p>
-<p><strong>HAMISH: </strong>I’m glad I’ve got your ear Mr Prime Minister, since you are aware of my business activities, I do know it is important for the government to keep big business within Australia. The last thing you want to see me do is float on the American Stock Exchange and take all those valuable tax dollars overseas. Might we talk about few tax breaks to keep Andy by Hamish within Australian borders?</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Well, or you could be spinning around like a wind turbine!</p>
+<p><strong>HAMISH:&nbsp;</strong>I’m glad I’ve got your ear Mr Prime Minister, since you are aware of my business activities, I do know it is important for the government to keep big business within Australia. The last thing you want to see me do is float on the American Stock Exchange and take all those valuable tax dollars overseas. Might we talk about few tax breaks to keep Andy by Hamish within Australian borders?</p>
 <p>(Laughter)</p>
-<p><strong>PRIME MINISTER: </strong>Well, I mean, you’re probably already generating billions of dollars in revenue a year-</p>
-<p><strong>HAMISH: </strong>Correct!</p>
-<p><strong>PRIME MINISTER: </strong>But just in case you haven’t gone over $50 million a year in revenue yet, there are tax cuts already delivered.</p>
-<p><strong>HAMISH: </strong>Do we get one above $50 mill?</p>
-<p><strong>PRIME MINISTER: </strong>The tax cuts that have been legislated, we got through the Senate apply to companies up to $50 million.</p>
-<p><strong>ANDY: </strong>So under?</p>
-<p><strong>HAMISH: </strong>Oh great!</p>
-<p><strong>PRIME MINISTER: </strong>$25 million this year in turnover and next year it goes up to $50 million in turnover.</p>
-<p><strong>HAMISH: </strong>We’ve just scraped in, we’ve just scraped in.</p>
-<p><strong>PRIME MINISTER: </strong>Yes, you will have just scraped in. The reason for it by the way is that if you reduce business taxes, you increase the return on investment, you get more investment, you get more employment.</p>
-<p><strong>HAMISH: </strong>Yep. About time.</p>
-<p><strong>PRIME MINISTER: </strong>And that’s exactly what we’ve got in the last year – 325,000 more jobs.</p>
-<p><strong>HAMISH: </strong>Well congrats on that and I had to actually let my only staff member go recently so I’m operating the opposite way.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Well, I mean, you’re probably already generating billions of dollars in revenue a year-</p>
+<p><strong>HAMISH:&nbsp;</strong>Correct!</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>But just in case you haven’t gone over $50 million a year in revenue yet, there are tax cuts already delivered.</p>
+<p><strong>HAMISH:&nbsp;</strong>Do we get one above $50 mill?</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>The tax cuts that have been legislated, we got through the Senate apply to companies up to $50 million.</p>
+<p><strong>ANDY:&nbsp;</strong>So under?</p>
+<p><strong>HAMISH:&nbsp;</strong>Oh great!</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>$25 million this year in turnover and next year it goes up to $50 million in turnover.</p>
+<p><strong>HAMISH:&nbsp;</strong>We’ve just scraped in, we’ve just scraped in.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Yes, you will have just scraped in. The reason for it by the way is that if you reduce business taxes, you increase the return on investment, you get more investment, you get more employment.</p>
+<p><strong>HAMISH:&nbsp;</strong>Yep. About time.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>And that’s exactly what we’ve got in the last year – 325,000 more jobs.</p>
+<p><strong>HAMISH:&nbsp;</strong>Well congrats on that and I had to actually let my only staff member go recently so I’m operating the opposite way.</p>
 <p>(Laughter)</p>
-<p><strong>PRIME MINISTER: </strong>You’re not showing a great example there.</p>
-<p><strong>HAMISH: </strong>No, I’m not am I. I might have to re-look at that. But Mr Prime Minister, all jokes aside, we’re far too small for the ATO to ever look at us.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>You’re not showing a great example there.</p>
+<p><strong>HAMISH:&nbsp;</strong>No, I’m not am I. I might have to re-look at that. But Mr Prime Minister, all jokes aside, we’re far too small for the ATO to ever look at us.</p>
 <p>(Laughter)</p>
-<p><strong>PRIME MINISTER: </strong>Yeah well, I wouldn’t bet on that.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Yeah well, I wouldn’t bet on that.</p>
 <p>(Laughter)</p>
-<p><strong>ANDY: </strong>Malcolm, a couple of things we’ve got to talk about. First of all – I’m not sure this ever gets to you but Haim and I have a lot of wild ideas on this radio show, and one idea we had was it’d be fun to broadcast from the Prime Minister’s Office. Now it did go to your people, now I just wonder did it ever get to you? Did someone ever come up to you personally and go, “Hey there’s two non-sirs that want to do a radio show live from your office”, is that something you’d entertain?</p>
-<p><strong>PRIME MINISTER: </strong>Well I think the problem is you’d be filling up my office for quite a few hours, that’d be the only-</p>
-<p><strong>ANDY: </strong>Yes.</p>
-<p><strong>PRIME MINISTER: </strong>Yeah we’ve got other things to do-</p>
-<p><strong>ANDY: </strong>And we’d snoop, we would snoop.</p>
+<p><strong>ANDY:&nbsp;</strong>Malcolm, a couple of things we’ve got to talk about. First of all – I’m not sure this ever gets to you but Haim and I have a lot of wild ideas on this radio show, and one idea we had was it’d be fun to broadcast from the Prime Minister’s Office. Now it did go to your people, now I just wonder did it ever get to you? Did someone ever come up to you personally and go, “Hey there’s two non-sirs&nbsp;that want to do a radio show live from your office”, is that something you’d entertain?</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Well I think the problem is you’d be filling up my office for quite a few hours, that’d be the only-</p>
+<p><strong>ANDY:&nbsp;</strong>Yes.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Yeah we’ve got other things to do-</p>
+<p><strong>ANDY:&nbsp;</strong>And we’d snoop, we would snoop.</p>
 <p>(Laughter)</p>
-<p><strong>PRIME MINISTER: </strong>I’m in my office now, I’m just standing up here at my standing desk, remember sitting is the new smoking so good to stand up.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>I’m in my office now, I’m just standing up here at my standing desk, remember sitting is the new smoking so good to stand up.</p>
 <p>(Laughter)</p>
 <p>So I’m standing up talking to you from my office.</p>
-<p><strong>ANDY: </strong>Malcolm, obviously you’re on the phone to us, how different is talking to us now, then talking to Donald Trump? Is there a place you like to be? Is there a seat you like to sit in? Is there a certain-</p>
-<p><strong>PRIME MINISTER: </strong>It doesn’t matter, it doesn’t matter where you are, doesn’t matter where you are.</p>
-<p><strong>HAMISH: </strong>For a big call would you schedule in ten minutes Malcolm time afterwards, just to shake it out?</p>
+<p><strong>ANDY:&nbsp;</strong>Malcolm, obviously you’re on the phone to us, how different is talking to us now, then talking to Donald Trump? Is there a place you like to be? Is there a seat you like to sit in? Is there a certain-</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>It doesn’t matter, it doesn’t matter where you are, doesn’t matter where you are.</p>
+<p><strong>HAMISH:&nbsp;</strong>For a big call would you schedule in ten minutes Malcolm time afterwards, just to shake it out?</p>
 <p>(Laughter)</p>
-<p><strong>ANDY: </strong>Malcolm - we know you’re a very busy man because you are running our country - but one last thing, and look we’re not known for hard hitting on this show. But with regards to this plebiscite and marriage equality, it’s great that you’re heading out to obviously vote today and you got a ‘yes’; tick. How do you feel about, obviously the plebiscite itself has brought out I think the worst in a lot of people, and it’s got Australia arguing a lot more than it’s ever had in the last ten years. The decision itself to have a plebiscite, how do you feel about that decision now given obviously the hindsight of what we’ve seen?</p>
-<p><strong>HAMISH: </strong>Some of the ugly stuff we’ve seen.</p>
-<p><strong>PRIME MINISTER: </strong>Well firstly, it was a commitment we took to the election to give everybody a say, so I take the promises I make at an election very very seriously indeed, so we’re honouring that.</p>
+<p><strong>ANDY:&nbsp;</strong>Malcolm - we know you’re a very busy man because you are running our country - but one last thing, and look we’re not known for hard hitting on this show. But with regards to this plebiscite and marriage equality, it’s great that you’re heading out to obviously vote today and you got a ‘yes’; tick. How do you feel about, obviously the plebiscite itself has brought out I think the worst in a lot of people, and it’s got Australia arguing a lot more than it’s ever had in the last ten years. The decision itself to have a plebiscite, how do you feel about that decision now given obviously the hindsight of what we’ve seen?</p>
+<p><strong>HAMISH:&nbsp;</strong>Some of the ugly stuff we’ve seen.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Well firstly, it was a commitment we took to the election to give everybody a say, so I take the promises I make at an election very very seriously indeed, so we’re honouring that.</p>
 <p>The second thing I’d say is you know, Hamish and Andy, honestly there have been some ugly incidents, you know there have been cases where people have been disrespectful, there’s even been cases where people have been violent as we know. But these are a tiny minority, overwhelmingly Australians are treating this issue seriously and in good faith.</p>
 <p>We condemn all disrespectful conduct - violent conduct - we condemn it absolutely. But it is the exception. Our whole achievement, our whole great Australian project, the most successful multicultural society in the world is based on mutual respect. And that’s what we need to show each other, and I think overwhelmingly that’s what Australians are doing. Above all, as you said, participate.</p>
-<p><strong>HAMISH: </strong>Participate, that’s it. Thank you Mr Prime Minister. Quick one I know we sent you a tester bottle of Andy by Hamish, have you had a sniff?</p>
-<p><strong>PRIME MINISTER: </strong>No I have not had a sniff yet but I’m looking forward to doing so, I might even – I’ll give you an appraisal. I have almost no sense of smell so-</p>
+<p><strong>HAMISH:&nbsp;</strong>Participate, that’s it. Thank you Mr Prime Minister. Quick one I know we sent you a tester bottle of Andy by Hamish, have you had a sniff?</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>No I have not had a sniff yet but I’m looking forward to doing so, I might even – I’ll give you an appraisal. I have almost no sense of smell so-</p>
 <p>(Laughter)</p>
-<p><strong>HAMISH: </strong>Spritz it heavily.</p>
-<p><strong>PRIME MINISTER: </strong>It has to be fairly pungent for me to pick it up.</p>
-<p><strong>HAMISH: </strong>It’s a powerful smart casual fragrance, Mr Prime Minister.</p>
-<p><strong>PRIME MINISTER: </strong>Powerful smart casual.</p>
-<p><strong>HAMISH: </strong>I would recommend spritzing it liberally round the office before any high-powered guests come in.</p>
-<p><strong>ANDY: </strong>And certainly before any summits.</p>
+<p><strong>HAMISH:&nbsp;</strong>Spritz it heavily.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>It has to be fairly pungent for me to pick it up.</p>
+<p><strong>HAMISH:&nbsp;</strong>It’s a powerful smart casual fragrance, Mr Prime Minister.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Powerful smart casual.</p>
+<p><strong>HAMISH:&nbsp;</strong>I would recommend spritzing it liberally round the office before any high-powered guests come in.</p>
+<p><strong>ANDY:&nbsp;</strong>And certainly before any summits.</p>
 <p>(Laughter)</p>
 <p>Mr Prime Minister, thank you so much for joining us, well done today.</p>
-<p><strong>PRIME MINISTER: </strong>Thanks so much.</p>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Thanks so much.</p>
 <p><strong>ANDY</strong>: Thanks mate.</p>
-<p><strong>PRIME MINISTER: </strong>Thanks guys, bye. </p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><strong>PRIME MINISTER:&nbsp;</strong>Thanks guys, bye.&nbsp;</p>
+]]></content></item></response>

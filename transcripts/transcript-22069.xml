@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22069</transcript-id>
-    <title>Doorstop Interview National Portrait Gallery, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>07/12/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>PRIME MINISTER:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22069</transcript-id><title>Doorstop Interview National Portrait Gallery, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>07/12/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>PRIME MINISTER:</p>
 <p> Right, you all okay? Any questions?</p>
 <p>JOURNALIST:</p>
 <p> Prime Minister this building is being opened I am told in 18 months time, will you officiate it?</p>
@@ -48,6 +38,4 @@
 <p>PRIME MINISTER:</p>
 <p> I don't think it is, I think this is a beautiful spot, it's a wonderful design and the National Portrait Gallery has been going for only a few years and it has been a wonderful vehicle through pictures and paintings and reproductions to tell the Australian story in all its richness and all its variety, I think it's a wonderful addition to the parliamentary triangle and to the national capital and the patronage of this gallery will more than justify the investment in it. Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

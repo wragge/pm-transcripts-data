@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17460</transcript-id>
-    <title>Royal Engagement</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>18/11/2010</release-date>
-    <release-type>Honours, Commemorations &amp; Condolences</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17460</transcript-id><title>Royal Engagement</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>18/11/2010</field_date><release-type><![CDATA[Honours, Commemorations &amp; Condolences]]></release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Prime Minister Julia Gillard today congratulated His Royal Highness Prince William of Wales and Catherine Middleton on the announcement of their engagement.</p>
 <p>The Prime Minister said it was a happy time for the royal couple who will be married next year.</p>
 <p>The Prince is well known for his charity work and for his ongoing service in the British Royal Air Force.</p>
@@ -17,6 +7,4 @@ The Prime Minister Julia Gillard today congratulated His Royal Highness Prince W
 <p>Ms Middleton will no doubt strengthen this remarkable reputation and she has the nation's best wishes and support.</p>
 <p>The royal engagement is a time for celebration amongst the Royal and Middleton families and the Prime Minister wishes them all the very best at this happy time.</p>
 <p>Governor-General Quentin Bryce AC has sent formal congratulations to the Palace on behalf of the Government and people of Australia.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22627</transcript-id>
-    <title>Interview with Murray Olds Radio 2UE, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>12/12/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>OLDS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22627</transcript-id><title>Interview with Murray Olds Radio 2UE, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>12/12/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>OLDS:</p>
 <p>I am joined on line from our Parliament House studios in Canberra by the Prime Minister of Australia John Howard. Good afternoon to you sir.</p>
 <p>PRIME MINISTER:</p>
 <p> Hello Murray.</p>
@@ -146,6 +136,4 @@
 <p>PRIME MINISTER:</p>
 <p>Merry Christmas to you, Murray, and all of your listeners.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

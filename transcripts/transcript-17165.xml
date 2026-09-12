@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17165</transcript-id>
-    <title>New cancer treatment and dentistry coming to Cairns    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>06/04/2010</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The first radiation oncology facility for Cairns is on track for its opening in July next year - when it will start providing local services for most of the city's cancer patients who need radiation treatment.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17165</transcript-id><title>New cancer treatment and dentistry coming to Cairns    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>06/04/2010</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The first radiation oncology facility for Cairns is on track for its opening in July next year - when it will start providing local services for most of the city's cancer patients who need radiation treatment.</p>
 <p>The Australian Government is contributing $8.3 million towards the radiation oncology facility in Cairns - alongside the Queensland Government investment in the facility which is being provided as part of the State Government's major $446 million redevelopment of Cairns Base Hospital.</p>
 <p>About 400 cancer patients a year are expected to benefit from local radiation treatment in Cairns when the facility opens.</p>
 <p>Two radiation-proof bunkers will be constructed in the radiation oncology facility in the Cairns Base Hospital. Initially, one linear accelerator will be used to deliver local radiation oncology treatment - with a provision for a second machine when required.</p>
@@ -24,6 +14,4 @@
 <p>The initiative means hundreds of Northern Queenslanders will benefit directly from dental services provided through JCU's Clinical Outreach Program, which received $7.2 million for this work.</p>
 <p>The Clinical Outreach Program will provide infrastructure and resources for the clinical training of James Cook University's dentistry students in remote localities.</p>
 <p>The dental school in Cairns enrolled 66 students last year - the first year the dental program was offered. This year, 62 students enrolled.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

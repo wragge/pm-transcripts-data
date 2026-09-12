@@ -1,30 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24006</transcript-id>
-    <title>Cyber Security Review</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>27/11/2014</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>The Australian Government will review Australia’s cyber-security strategy to better protect Australia’s networks from cyber attack.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24006</transcript-id><title>Cyber Security Review</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>27/11/2014</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>The Australian Government will review Australia’s cyber-security strategy to better protect Australia’s networks from cyber attack.</p>
 <p>The review, to report within six months, will explore how industry and the government can work together to make our online systems more resilient against attacks.</p>
 <p>The Department of the Prime Minister and Cabinet will lead the Cyber Security Review assisted by a panel of experts including the CEO of the Business Council of Australia, Ms Jennifer Westacott; Chief Security and Trust Officer at Cisco Systems in the United States, Mr John Stewart; Mr Mike Burgess, Chief Information Security Officer at Telstra and Dr Tobias Feakin, Director of the International Cyber Policy Centre at the Australian Strategic Policy Institute.</p>
 <p>This review will look for practical ways to improve our national security and work with business to make online commerce more secure.</p>
 <p>The Review will:</p>
-<ul><li>assess the risk of cyber attacks in the public and private sectors with a view to making our online systems more resilient to attack;</li>
+<ul>
+<li>assess the risk of cyber attacks in the public and private sectors with a view to making our online systems more resilient to attack;</li>
 <li>examine how government and industry can better work together to reduce the risk of cyber attacks;</li>
 <li>assess how Government protects its networks and information; and</li>
 <li>work to ensure we are one step ahead of the threats to government networks and critical infrastructure.</li>
-</ul><p>By 2017, more than nine out of ten Australians will be routinely online and Australian businesses and consumers benefit from the opportunities an interconnected world delivers. However, there are also risks.</p>
+</ul>
+<p>By 2017, more than nine out of ten Australians will be routinely online and Australian businesses and consumers benefit from the opportunities an interconnected world delivers. However, there are also risks.</p>
 <p>Australia faces real and growing cyber threats. Last year alone, the Australian Signals Directorate responded to 940 cyber incidents involving Government agencies, a 37 per cent increase on the previous year.</p>
 <p>The risks are also very real for the private sector. The direct cost of cyber-crime to Australia in the past 12 months is estimated to be more than $1 billion.</p>
 <p>As well, the Australian Cyber Security Centre opened in Canberra today.</p>
 <p>The Centre brings together the operational agencies that help secure cyberspace into one location: the Australian Crime Commission, the Australian Federal Police, the cyber elements of the Australian Security Intelligence Organisation (ASIO), the Australian Signals Directorate and the Attorney-General’s Department Computer Emergency Response Team (CERT) Australia.</p>
 <p>The Centre will build an understanding of the threats we face and help our security agencies respond more quickly and effectively to the growing problem of cyber attacks.</p>
 <p>27 November 2014</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

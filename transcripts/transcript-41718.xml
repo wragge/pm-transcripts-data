@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41718</transcript-id>
-    <title>Interview with David Koch, Sunrise</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>06/08/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Drought relief</subjects>
-    <content><![CDATA[<p><strong>DAVID KOCH:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41718</transcript-id><title>Interview with David Koch, Sunrise</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>06/08/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Drought relief</subjects><content><![CDATA[<p><strong>DAVID KOCH:</strong></p>
 <p>For more I'm joined by Prime Minister, Malcolm Turnbull who has spent the weekend out in drought-affected areas. Prime Minister thanks for your time.</p>
 <p>You've been out there, what advice and suggestions are you getting from the farmers?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -22,7 +12,7 @@
 <p><strong>DAVID KOCH:</strong></p>
 <p>Why?</p>
 <p><strong>PRIME MINISTER: </strong></p>
-<p>In September and another in March. </p>
+<p>In September and another in March.&nbsp;</p>
 <p><strong>DAVID KOCH:</strong></p>
 <p>They need it now.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -44,6 +34,4 @@
 <p>Okay, alright, Prime Minister. Thanks for your time it’s appreciated.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Thank you very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

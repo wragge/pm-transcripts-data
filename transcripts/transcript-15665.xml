@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15665</transcript-id>
-    <title>Interview with Geoff Hutchison ABC Radio, Perth</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>25/06/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15665</transcript-id><title>Interview with Geoff Hutchison ABC Radio, Perth</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>25/06/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Indigenous emergency; CFMEU; workplace relations.</p>
 <p>E&amp;OE...</p>
 <p>HUTCHISON:</p>
@@ -45,6 +35,4 @@ Indigenous emergency; CFMEU; workplace relations.</p>
 <p>No, but the criticism of you sir is that in the six months before the run up to an election after 11 years we are hearing of a national emergency in Aboriginal...</p>
 <p>PRIME MINISTER:</p>
 <p>Yes, but hang on, there's a reason for that. We have a report about conditions in the Northern Territory. A report that was provoked by the concern of my Minister, but an inquiry established by the Northern Territory Government called </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

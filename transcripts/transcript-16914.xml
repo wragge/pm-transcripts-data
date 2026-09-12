@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16914</transcript-id>
-    <title>Interview on 3AW with Neil Mitchell    </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>13/11/2009</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MITCHELL: Prime Minister, Mr Rudd, good morning.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16914</transcript-id><title>Interview on 3AW with Neil Mitchell    </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>13/11/2009</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MITCHELL: Prime Minister, Mr Rudd, good morning.</p>
 <p>PM: Good morning, Neil. I'd go for Clint Eastwood.</p>
 <p>MITCHELL: Would you?</p>
 <p>PM: Yeah, I'm just an old fan.</p>
@@ -71,6 +61,4 @@
 <p>MITCHELL: Well Sabi apparently can go and live in the Australian base in Kuwait for six months while they monitor her. If she's OK and doesn't show anything she goes into quarantine here for 30 days and then she moves into The Lodge.</p>
 <p>PM: I've got to talk to Abbey about that but anything's possible. Sabi the wonder dog, I think, it's just such a great story and, you know, there's a lot of hard things happening in Afghanistan but these are important symbols of getting our way through and I know all of our blokes and our women in uniform think it's just a fantastic outcome so, thank you, for that good news that AQIS is properly processing this matter.</p>
 <p>MITCHELL: Thank you very much for your time.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

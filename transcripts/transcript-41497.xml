@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>41497</transcript-id>
-    <title>Interview with Leigh Sales, 7.30 Report</title>
-    <prime-minister>Turnbull, Malcolm</prime-minister>
-    <period-of-service>20150915 - 20180824</period-of-service>
-    <release-date>12/03/2018</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects>Steel; TPP; Budget; Newspoll</subjects>
-    <content><![CDATA[<p><strong>LEIGH SALES: </strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>41497</transcript-id><title>Interview with Leigh Sales, 7.30 Report</title><prime-minister>Turnbull, Malcolm</prime-minister><period-of-service>20150915 - 20180824</period-of-service><field_date>12/03/2018</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Steel; TPP; Budget; Newspoll</subjects><content><![CDATA[<p><strong>LEIGH SALES: </strong></p>
 <p>Even the Labor Party is crediting the Turnbull Government with a diplomatic win. For persuading the Trump administration to exempt Australia from tariffs its set to impose on steel and aluminium. The US shift towards protectionism has been condemned around the world, including by Australia's Foreign Minister Julie Bishop last week. She said it could spark a global trade war. Australia’s exemption is good news for local jobs, although the global effects could end up reverberating here anyway.</p>
 <p>The Prime Minister Malcolm Turnbull joins me now, welcome to the program again.</p>
 <p><strong>PRIME MINISTER: </strong></p>
@@ -150,6 +140,4 @@
 <p><strong>PRIME MINISTER: </strong></p>
 <p>Thank you.</p>
 <p><strong>[ENDS]</strong></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

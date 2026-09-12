@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12018</transcript-id>
-    <title>Press Conference, Melbourne</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/09/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: conversation with President Bush; US response to terrorist attacks; CHOGM; Ansett; immigration; Cabinet Meeting.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12018</transcript-id><title>Press Conference, Melbourne</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/09/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: conversation with President Bush; US response to terrorist attacks; CHOGM; Ansett; immigration; Cabinet Meeting.</p>
 <p>E&amp;OE................................</p>
 <p>Ladies and Gentlemen I've called this news conference to report that last night President Bush rang me to discuss the American led response to the terrorist attack on the United States. We discussed the situation in general terms. He took the opportunity of thanking me very warmly for the expressions of sympathy and compassion which have not only been conveyed through the resolution of the Parliament but in the many memorial services and acts of public condolence which have occurred in Australia. He was very well informed on the reaction in this country to the terrible events of the 11th of September and he was very warm in his expressions of gratitude.</p>
 <p>He said to me in the course of the conversation that the American led response would not be over and done with quickly. He made it very clear that it was going to take some time and certainly confirmed to me in the discussion the comments that he'd made publicly to the effect that people should not imagine that it was something that could be handed and dealt with very very quickly. He thanked me for the offer of Australian military assistance which I made when I was in Washington and subsequently repeated in the Parliament and elsewhere in Australia. And we agreed that at the highest level our military people should have further discussions about the nature of an Australian contribution with a view to a further announcements being made when appropriate.</p>
@@ -138,6 +128,4 @@
 <p>PRIME MINISTER:</p>
 <p>In the AFL? I would like to see Brisbane win. I'm not sure that they will. I would like see them win.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

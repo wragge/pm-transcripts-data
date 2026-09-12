@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>31858</transcript-id>
-    <title>Radio Interview with Jeremy Cordeaux, 5DN</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>29/10/1999</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Alice Springs-Darwin rail link, River Murray, republic referendum, Constitutional preamble, Sir Robert Menzies, injecting rooms, Australia’s troop commitments in East Timor. </subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>31858</transcript-id><title>Radio Interview with Jeremy Cordeaux, 5DN</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>29/10/1999</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Alice Springs-Darwin rail link, River Murray, republic referendum, Constitutional preamble, Sir Robert Menzies, injecting rooms, Australia’s troop commitments in East Timor.</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><b>CORDEAUX: </b></p>
 <p>This is a good day. It is a good day ahead of what I hope is going to be a good weekend. A good reason to celebrate with the confirmation of funding for the Alice Springs-Darwin rail link. The Prime Minister, John Howard, granted an extra $65 million, I think it was, $65 million for the project. And the Prime Minister is with me. Sir, good morning and thank you.</p>
 <p><b>PRIME MINISTER: </b></p>
@@ -55,6 +45,4 @@
 <p>Prime Minister, good to talk to you. Have a great weekend.</p>
 <p><b>PRIME MINISTER: </b></p>
 <p>Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18139</transcript-id>
-    <title>Transcript of interview with Philip Clark, ABC Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>15/09/2011</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18139</transcript-id><title>Transcript of interview with Philip Clark, ABC Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>15/09/2011</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Prime Minister Julia Gillard joins me on the line this morning. Prime Minister, good morning.</p>
 <p>PM: Good morning Philip.</p>
 <p>HOST: Big week for you, carbon tax bills, it's fair to say that the fate of things hangs on these bills, isn't it?</p>
@@ -43,6 +33,4 @@ HOST: Prime Minister Julia Gillard joins me on the line this morning. Prime Mini
 <p>PM: Yes, but I do want to be clear about the purpose, because I think there's some misunderstanding here. It's about people setting limits for themselves, so if you go to the horses and say I'm putting a $10 bet down, you know you can lose $10, this is about going and using the poker machines and saying how much is it that I am prepared to gamble today.</p>
 <p>HOST: We'll have to leave it there Prime Minister. But you're backing yourself and from your point of view I'm sure you hope your wagers come in. I do appreciate your time this morning. Thank you very much.</p>
 <p>PM: Thanks Philip. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18308</transcript-id>
-    <title>Joint Statement with the Prime Minister of Norway</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/12/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18308</transcript-id><title>Joint Statement with the Prime Minister of Norway</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/12/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today welcomed Prime Minister Jens Stoltenberg to Australia.</p>
 <p>This is the first official visit to Australia by Prime Minister Stoltenberg and the first by a Norwegian Prime Minister since 2005.</p>
 <p>On behalf of the Australian Government and people, Prime Minister Gillard expressed Australia's profound sympathy for the victims of the tragedy in Norway in July. Prime Minister Gillard wanted the people of Norway to know the thoughts and prayers of all Australians were with them following the terrible attacks.</p>
@@ -24,6 +14,4 @@ Prime Minister Julia Gillard today welcomed Prime Minister Jens Stoltenberg to A
 <p>Prime Ministers Gillard and Stoltenberg expressed their concern that the current approach to the Doha Round had reached an impasse and agreed that efforts were needed to resist protectionism and strengthen the multilateral trading system. Australia and Norway will jointly host a meeting in the lead-up to the upcoming WTO Ministerial Conference to discuss new and innovative ways of advancing the Doha Round, including measures to ensure development in the world's poorest nations is not held back by deadlock in the WTO.</p>
 <p>The Prime Ministers discussed cooperation in Antarctica, noting that both Australia and Norway are celebrating major centenary events in 2011-12 to mark the achievements of the ‘heroic era' in Antarctica.  Australia recently celebrated the centenary of Sir Douglas Mawson's expedition to Antarctica, which laid the foundation of the Australian Antarctic Territory. Prime Minister Stoltenberg outlined his upcoming trip to Antarctica to mark the centenary of Roald Amundsen's arrival at the South Pole.</p>
 <p>The leaders agreed both countries are strongly committed to the Antarctic Treaty System and will work together closely to promote environmental conservation in Antarctica.  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19020</transcript-id>
-    <title>Natural Disasters Declared Following Flooding Across Northern NSW</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>29/01/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19020</transcript-id><title>Natural Disasters Declared Following Flooding Across Northern NSW</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>29/01/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard and NSW Premier Barry O'Farrell have today announced ten Local Government Areas will have access to jointly-funded national disaster assistance following extensive flooding.</p>
 <p>Natural disaster assistance is available to affected residents, small business owners and primary producers in the following LGAs:</p>
-<p> * 	Ballina Shire<br />
- * 	Bellingen Shire<br />
- * 	Byron Shire<br />
- * 	Clarence Valley<br />
- * 	Coffs Harbour City<br />
- * 	Kyogle<br />
- * 	Lismore City<br />
- * 	Nambucca Shire<br />
- * 	Richmond Valley<br />
+<p> * 	Ballina Shire<br>
+ * 	Bellingen Shire<br>
+ * 	Byron Shire<br>
+ * 	Clarence Valley<br>
+ * 	Coffs Harbour City<br>
+ * 	Kyogle<br>
+ * 	Lismore City<br>
+ * 	Nambucca Shire<br>
+ * 	Richmond Valley<br>
  * 	Tweed Shire</p>
 <p>The deluge right across northernNSW has resulted in extreme flooding in a number of areas.</p>
 <p>The NSW State Emergency Service has been inundated with calls for assistance with the heavy rain, strong winds and flash flooding bringing down power lines and trees and ripping roofs off homes.</p>
@@ -33,6 +23,4 @@ Prime Minister Julia Gillard and NSW Premier Barry O'Farrell have today announce
 <p>Australian Government agencies are working hand-in-hand with local emergency services to ensure that people receive the assistance they need during these difficult times.</p>
 <p>Anyone needing help from the SES should contact their local unit on 132 500. In a life threatening emergency, always ring Triple Zero (000).</p>
 <p>For more information about disaster assistance go to <a href="http://www.emergency.nsw.gov.au">www.emergency.nsw.gov.au</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

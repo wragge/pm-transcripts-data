@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22025</transcript-id>
-    <title>Interview with David Speers Sky News </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/11/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22025</transcript-id><title>Interview with David Speers Sky News </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/11/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>SPEERS:</p>
 <p> Well Prime Minister thanks for your time. There's a few things to get through today but just in the last little while we've seen your industrial relations reforms passed by the Lower House, are you still confident they will get through the Upper House though in a few weeks time.</p>
 <p> PRIME MINISTER:</p>
 <p> Well I never take anything for granted but I am optimistic that it will get through but that is a matter for the Senate. There is to be an inquiry and it will report and then the Senate will start debating the legislation in a couple of week's time. In the House of Representatives this has been the longest debate on any measure during my Prime Ministership so I am told. I am also told that if Opposition members had accepted the discipline on their speaking times that Government members accepted, every single one of them would have been able to participate.</p>
@@ -80,6 +70,4 @@
 <p>SPEERS:</p>
 <p>Prime Minister thanks for your time.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

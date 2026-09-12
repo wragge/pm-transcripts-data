@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22973</transcript-id>
-    <title>Interview with Murray Olds, Radio 2UE, Sydney</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/12/2000</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Sydney airports; illegal immigrants; high speed train; economic growth; next election</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22973</transcript-id><title>Interview with Murray Olds, Radio 2UE, Sydney</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/12/2000</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Sydney airports; illegal immigrants; high speed train; economic growth; next election</p>
 <p>E&amp;EO  …………………………………………………………………………………</p>
 <p>OLDS:</p>
 <p>Joining us from his Sydney office, the Prime Minister of Australia, John Howard.  Mr Howard, good afternoon.</p>
@@ -160,6 +150,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21930</transcript-id>
-    <title>Securing and Policing Australia&#039;s Airports  </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>21/09/2005</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I am pleased to announce new measures to further tighten security at Australia's major airports, providing additional Australian Government expenditure of almost $200 million.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21930</transcript-id><title><![CDATA[Securing and Policing Australia&#039;s Airports  ]]></title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>21/09/2005</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I am pleased to announce new measures to further tighten security at Australia's major airports, providing additional Australian Government expenditure of almost $200 million.</p>
 <p> In this context, I am also releasing the report of Sir John Wheeler on airport security and policing arrangements.</p>
 <p> Sir John has provided the Government with a comprehensive and detailed report that takes a fresh and independent look at our airport security and policing arrangements.</p>
 <p> Overall the report makes a positive assessment of Australia's airport security policy settings. The report notes the significant resources provided by the Australian Government to combat terrorism in response to the post-11 September security environment.</p>
@@ -61,6 +51,4 @@
 <p> arrangements for the aviation sector to engage assistance to target their greatest risks, vulnerabilities or consequences; and</p>
 <p> flexible delivery options, with a particular focus on regional and smaller airports.</p>
 <p>The transport sector, especially regional and small airports, will benefit from employees being able to develop nationally recognised skills and qualifications related to transport security.  This will provide operators with competent staff that support the effective and secure operation of transport services to the public.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

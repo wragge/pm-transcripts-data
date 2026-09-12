@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18188</transcript-id>
-    <title>Transcript of interview with Jon Faine, ABC Melbourne</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>14/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18188</transcript-id><title>Transcript of interview with Jon Faine, ABC Melbourne</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>14/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 HOST: Well let's start with the first Prime Minister, the Leader of the Labor Party. Bob Brown, Leader of the Greens joining us shortly.</p>
 <p>Julia Gillard in Canberra, good morning to you.</p>
 <p>PM: Good morning Jon and you've got the only Prime Minister.</p>
@@ -74,6 +64,4 @@ HOST: Well let's start with the first Prime Minister, the Leader of the Labor Pa
 <p>On the view in relation to the story that you refer to, I understand that there will be people campaigning about reform, that is clear from the front page of today's Financial Review. I do think people will ask the question, well if they've got $40 million to spend on that campaign, doesn't that tend to indicate that some of the claims we are hearing about the profitability of venues aren't quite right.</p>
 <p>HOST: I'm grateful to you for your time this morning, we've run over and I'm sorry about that and thank you for joining us.</p>
 <p>PM: Thanks Jon. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

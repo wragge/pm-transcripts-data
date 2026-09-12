@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11820</transcript-id>
-    <title>Doorstop Interview following the Great Debate Channel 9 Studios, Sydney </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>14/10/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11820</transcript-id><title>Doorstop Interview following the Great Debate Channel 9 Studios, Sydney </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>14/10/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p><strong>JOURNALIST:</strong></p>
 <p>Who won the debate Mr Howard?</p>
 <p><strong>PRIME MINISTER:</strong></p>
@@ -31,6 +21,4 @@
 <p><strong>PRIME MINISTER:</strong></p>
 <p>Well, he could have mentioned them tonight. I mean it wasn’t my fault that he spent time on other issues. He decided to talk about them. Any way look, these things in the end are not for you or for me or for selected audiences. In the end the Australian public decide who they want and whatever decision they make on the 10th of November I’ll be accepting of. I’ll be disappointed if they don’t re-elect us. I’ll be deeply honoured if they do. But whatever happens I’ll continue to serve the Australian people. Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18200</transcript-id>
-    <title>New centre to train more doctors and nurses in Western Sydney</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>19/10/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18200</transcript-id><title>New centre to train more doctors and nurses in Western Sydney</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>19/10/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 Prime Minister Julia Gillard today officially opened a new training centre in Blacktown that will play a key role in training more doctors and nurses for Western Sydney.</p>
 <p>The Gillard Labor Government has contributed $20.6 million to build the Universityof Western Sydney Blacktown Mt Druitt Clinical Schoolin one of the fastest growing areas of the country.</p>
 <p>The Prime Minister was joined by Health Minister Nicola Roxon at the opening along with Western Sydney Federal MPs Michelle Rowland, Julie Owens, Ed Husic and Chris Hayes.</p>
@@ -26,6 +16,4 @@ Prime Minister Julia Gillard today officially opened a new training centre in Bl
 <p>The $20.6 million of Commonwealth funding for the new training facilities was provided from the Health and Hospitals Fund and the Department of Education Employment Capital Development Pool.</p>
 <p>The Health and Hospitals Fund is the single largest investment in health infrastructure ever made by an Australian Government.</p>
 <p>It is a key part of the Government's reform agenda to reshape Australia's health care system for the future. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

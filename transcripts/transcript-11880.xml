@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11880</transcript-id>
-    <title>Radio Interview with Cathy Van Extel, Radio National </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>19/03/2001</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Ryan by-election; Opposition; Democrats.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11880</transcript-id><title>Radio Interview with Cathy Van Extel, Radio National </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>19/03/2001</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Ryan by-election; Opposition; Democrats.</p>
 <p>E&amp;OE................................ </p>
 <p>VAN EXTEL:</p>
 <p>Prime Minister you've described this election result as bad, although the polling before hand indicated that the swing would be far greater. Are you a relieved man?</p>
@@ -76,6 +66,4 @@
 <p>PRIME MINISTER:</p>
 <p>Well it's essentially the message I've had before and that is that we will maximise our prospects of winning if we work together very closely, we remain very unified. That of course puts obligations on the leadership as well as on the backbench. The backbench must work together but the leadership must listen, so it's a two way process.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

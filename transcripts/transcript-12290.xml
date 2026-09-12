@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12290</transcript-id>
-    <title>Remarks in the Rose Garden White House with President George W Bush, Washington</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>10/09/2001</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subjects: Free Trade Agreement; Lleyton Hewitt; National Missile Defence</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12290</transcript-id><title>Remarks in the Rose Garden White House with President George W Bush, Washington</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>10/09/2001</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subjects: Free Trade Agreement; Lleyton Hewitt; National Missile Defence</p>
 <p>E&amp;OE..................</p>
 <p>JOURNALIST:</p>
 <p>Mr President, how do you feel about a free trade agreement with Australia?</p>
@@ -51,6 +41,4 @@
 <p>PRESIDENT BUSH:</p>
 <p>I do.  The close allies will have close consultation and I look forward to the Prime Minister';s continuing advice.  We';ve had a great discussion about the Far East and his advice is very valuable for our foreign policy.  There';s nothing like a friend who will tell the truth.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

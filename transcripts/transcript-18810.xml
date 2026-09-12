@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>18810</transcript-id>
-    <title>Transcript of Press Conference</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>26/09/2012</release-date>
-    <release-type>Video Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>New York City, USA</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>18810</transcript-id><title>Transcript of Press Conference</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>26/09/2012</field_date><release-type>Video Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>New York City, USA</p>
 <p>PM: This morning I've had the privilege of attending the opening session of leaders' week here at the UN General Assembly.</p>
 <p>I had the opportunity to hear the address of the Secretary-General, to hear the address of the President of Brazil, President Rousseff, the address of President Obama of the United States of America, and I also had the opportunity to hear the address of President Yudhoyono of Indonesia, and congratulate him on the making of that address.</p>
 <p>So the leaders' week here at the General Assembly has started in full and in earnest. I've also had the opportunity during the course of the day to conduct a number of bilateral meetings.</p>
@@ -74,6 +64,4 @@
 <p>JOURNALIST: Prime Minister what was it that struck you down yesterday? Was it food poisoning?</p>
 <p>PM: It was a stomach bug of some indeterminate origin. All I can tell you is one other person on the travelling party got struck down by the same thing. So we don't quite know whether that means we ate something the same or whether it's a virus. But I'm alright now.</p>
 <p>Thanks very much.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

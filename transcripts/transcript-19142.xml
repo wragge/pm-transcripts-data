@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>19142</transcript-id>
-    <title>Western Australia Election Result</title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/03/2013</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Canberra</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>19142</transcript-id><title>Western Australia Election Result</title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/03/2013</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Canberra</p>
 <p>The Prime Minister congratulates Colin Barnett on his re-election as the Premier of Western Australia.</p>
 <p>The Gillard Government looks forward to continuing to work with the Barnett Government on a range of important initiatives which will benefit the people of Western Australia and recognise the importance that WA plays to the national economy.</p>
 <p>The Prime Minister acknowledges Mark McGowan and the WA Labor team for their hard-fought campaign.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

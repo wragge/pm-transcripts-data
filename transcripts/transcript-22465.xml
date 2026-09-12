@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22465</transcript-id>
-    <title>Interview with David Speers, Sky News Parliament House, Canberra </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>11/09/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>  SPEERS:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22465</transcript-id><title>Interview with David Speers, Sky News Parliament House, Canberra </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>11/09/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>  SPEERS:</p>
 <p> Well Prime Minister thanks for your time. You were there of course when the planes slammed into the Pentagon and into the twin towers in New York, what do you recall most vividly of that day in Washington?</p>
 <p> PRIME MINISTER:</p>
 <p>Well the shock of it and within a very quick period of time, I along with the rest of the world, realised that something dramatic had happened, that it was deliberate, it was no accident and that the world had really changed in a very big way.</p>
@@ -131,6 +121,4 @@
 <p> PRIME MINISTER:</p>
 <p> Thank you.</p>
 <p> [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

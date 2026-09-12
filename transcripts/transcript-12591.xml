@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12591</transcript-id>
-    <title>Interview with Charles Wooley, 60 Minutes</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>20/10/2002</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects>Bali tragedy.</subjects>
-    <content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12591</transcript-id><title>Interview with Charles Wooley, 60 Minutes</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>20/10/2002</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects>Bali tragedy.</subjects><content><![CDATA[<p>E&amp;OE……………………………………………………………………………………</p>
 <p>WOOLEY:</p>
 <p>Prime Minister, I know it’s early days yet but the question everyone wants to know is who did it? What is your thinking?</p>
 <p>PRIME MINISTER:</p>
@@ -66,7 +56,5 @@
 <p>Prime Minister thank you very much.</p>
 <p>PRIME MINISTER:</p>
 <p>Thank you.</p>
-<p><br />[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+<p><br>[ends]</p>
+]]></content></item></response>

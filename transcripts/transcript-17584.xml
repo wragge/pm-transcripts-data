@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17584</transcript-id>
-    <title>Income recovery subsidy assistance to help those affected by the floods </title>
-    <prime-minister>Gillard, Julia</prime-minister>
-    <period-of-service>20100624 - 20130627</period-of-service>
-    <release-date>10/01/2011</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17584</transcript-id><title>Income recovery subsidy assistance to help those affected by the floods </title><prime-minister>Gillard, Julia</prime-minister><period-of-service>20100624 - 20130627</period-of-service><field_date>10/01/2011</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
 The Gillard Labor Government today announced that it will provide additional support for employees, small businesses and farmers who have lost income as a direct result of the floods crisis.</p>
 <p>Currently, over 150 Local Government Areas across Queensland, Victoria, Western Australia, New South Wales and South Australia have been declared natural disaster zones as a result of flooding and severe weather conditions since November last year.</p>
 <p>The Disaster Income Recovery Subsidy is a fortnightly payment of up to the maximum rate of existing Newstart Allowance for a period of 13 weeks. The subsidy will be available to those who have experienced a loss of income as a direct result of the flooding and are not currently receiving, or eligible for, any other income support payment.</p>
@@ -21,6 +11,4 @@ The Gillard Labor Government today announced that it will provide additional sup
 <p>This additional support is the latest in the range of assistance provided by the Australian Government for people affected by floods or severe storms in affected areas.</p>
 <p>The Disaster Income Recovery Subsidy is in addition to the Australian Government's ongoing assistance to individuals, state and local Governments in the flood and severe weather affected areas across Queensland, New South Wales, Western Australia, Victoria and South Australia.</p>
 <p>For more information or to claim the Disaster Income Recovery Subsidy, people should contact the Australian Government Emergency Information line on 180 22 66 to register their details.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

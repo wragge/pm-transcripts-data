@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>17328</transcript-id>
-    <title>Prime Minister Speech to the Queensland Media Club A stronger economy and a fairer share for Queensland Brisbane 4 June 2010</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>04/06/2010</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>17328</transcript-id><title>Prime Minister Speech to the Queensland Media Club A stronger economy and a fairer share for Queensland Brisbane 4 June 2010</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>04/06/2010</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>I acknowledge the First Australians on whose land we meet, and whose cultures we celebrate as among the oldest continuing cultures in human history.</p>
 <p>It's good to be back home in Queensland.</p>
 <p>It's good to be here at the Queensland Media Club.</p>
 <p>And it's good to be given the opportunity to talk both about the nation's future and Queensland's future.</p>
@@ -247,6 +237,4 @@
 <p>Delivering tax reform that gives all Queenslanders, and all Australians, their fair share.</p>
 <p>Delivering better schools, better health and better hospitals. </p>
 <p>Delivering a strong economy, with a secure future for Australian families.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

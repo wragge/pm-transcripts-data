@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>11385</transcript-id>
-    <title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          ADDRESS AT OFFICIAL OPENING OF THE          SIR ROLAND WILSON BUILDING          AUSTRALIAN NATIONAL UNIVERSITY, CANBERRA</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>26/08/1999</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>E&amp;OE....................</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>11385</transcript-id><title>TRANSCRIPT OF THE PRIME MINISTER          THE HON JOHN HOWARD MP          ADDRESS AT OFFICIAL OPENING OF THE          SIR ROLAND WILSON BUILDING          AUSTRALIAN NATIONAL UNIVERSITY, CANBERRA</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>26/08/1999</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>E&amp;OE....................</p>
 <p>  Well, thank you very much, Vice Chancellor; to Mrs Terrell; to Lady Wilson;</p>
 <p>   to Professor Ross Garnaut, my Parliamentary colleagues, the academic staff</p>
 <p>   of the university, Your Excellencies, ladies and gentlemen.</p>
@@ -95,6 +85,4 @@
 <p>   how important and appropriate it is that the University should name this</p>
 <p>   building after him. Thank you.</p>
 <p>  [Ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

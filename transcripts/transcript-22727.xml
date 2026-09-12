@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22727</transcript-id>
-    <title>Changes to the Ministry</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>01/07/2013</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Today I announce changes to the Cabinet and Ministry that I will recommend to Her Excellency the Governor-General.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22727</transcript-id><title>Changes to the Ministry</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>01/07/2013</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Today I announce changes to the Cabinet and Ministry that I will recommend to Her Excellency the Governor-General.</p>
 <p>The team I am announcing today are a strong, smart and experienced group of people who will continue to deliver the great work that this Government is doing.</p>
 <p>This is a strong team to build our economy for the future.</p>
 <p>Cabinet changes</p>
@@ -44,6 +34,4 @@
 <p>I want to thank all Ministers who have served the Government so well in their current portfolios.</p>
 <p>I will recommend to Her Excellency the Governor-General that the new Ministry be sworn in on Monday 1 July 2013.</p>
 <p>The full list can be viewed at <a href="http://www.dpmc.gov.au/parliamentary/index.cfm">http://www.dpmc.gov.au/parliamentary/index.cfm</a></p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

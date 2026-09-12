@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22631</transcript-id>
-    <title>Interview with Nick McCallum Radio 3AW, Melbourne </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>13/12/2006</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>MCCALLUM:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22631</transcript-id><title>Interview with Nick McCallum Radio 3AW, Melbourne </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>13/12/2006</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>MCCALLUM:</p>
 <p>We have the Prime Minister John Howard on the line, thanks indeed for your time Mr Prime Minister.</p>
 <p>PRIME MINISTER:</p>
 <p>Nice to talk to you Nick.</p>
@@ -42,6 +32,4 @@
 <p>PRIME MINISTER:</p>
 <p>Thanks you. Bye, bye.</p>
 <p>  [ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

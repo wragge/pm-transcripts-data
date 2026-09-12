@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>21985</transcript-id>
-    <title>Doorstop Interview Robertson Barracks, Darwin </title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>15/10/2005</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>JOURNALIST:</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>21985</transcript-id><title>Doorstop Interview Robertson Barracks, Darwin </title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>15/10/2005</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>JOURNALIST:</p>
 <p>Prime Minister, before the election you said there would not be a nuclear waste facility in the Northern Territory.  Why have you gone against your word?</p>
 <p>PRIME MINISTER:</p>
 <p>Look, we have to solve this problem.  We started, as a country, 13 years ago to try and solve the issue of a nuclear waste dump.  We had an agreement and then when it came for that to be located in a particular part of Australia, all of the States and Territories just ran away from it.  And this issue has got to be brought to a head and it will be.</p>
@@ -43,6 +33,4 @@
 <p>No, no, no. I don't want to provoke any diplomatic incidents.</p>
 <p>Thank you.</p>
 <p>[ends]  </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

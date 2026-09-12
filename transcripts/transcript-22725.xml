@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>22725</transcript-id>
-    <title>Transcript of Press Conference - Newcastle</title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20130627 - 20130907</period-of-service>
-    <release-date>01/07/2013</release-date>
-    <release-type>Press Conference</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject(s): New Ministry and Cabinet; Simon Crean; Carbon pricing; Women in the Ministry; Federal Election</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>22725</transcript-id><title>Transcript of Press Conference - Newcastle</title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20130627 - 20130907</period-of-service><field_date>01/07/2013</field_date><release-type>Press Conference</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject(s): New Ministry and Cabinet; Simon Crean; Carbon pricing; Women in the Ministry; Federal Election</p>
 <p>PM: Thank you for joining us in Newcastle, one of Australia's truly great regional cities.</p>
 <p>We are in Newcastle today to launch the first day of operations of DisabilityCare Australia, Australia's first comprehensive national disability insurance scheme.</p>
 <p>And here in Newcastle it is also my great pleasure to announce the members of my Cabinet. There will be a full list circulated of the members of the Outer Ministry and of course of the Parliamentary Secretaries as well.</p>
@@ -158,6 +148,4 @@
 <p>And I think he is a very good fit for the portfolio.</p>
 <p>So I just say to people give Joel a go. He has been four years on the sidelines. I think everyone deserves to get a second chance.</p>
 <p>[ENDS]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

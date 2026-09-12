@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>15656</transcript-id>
-    <title>Doorstop Interview Kalgoorlie, Western Australia</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>23/07/2007</release-date>
-    <release-type>Interview</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Subject:<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>15656</transcript-id><title>Doorstop Interview Kalgoorlie, Western Australia</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>23/07/2007</field_date><release-type>Interview</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Subject:<br>
 Workplace reform, CDMA network, border security, AFP investigation, indigenous   emergency, Liberal Party</p>
 <p>E&amp;OE...</p>
 <p>JOURNALIST: </p>
@@ -104,6 +94,4 @@ Workplace reform, CDMA network, border security, AFP investigation, indigenous  
 <p>How many seats do you think you could pick up here?</p>
 <p>PRIME MINISTER:</p>
 <p>Oh look, Jim, I am not making any bold predictions. This election is going to be very tough. We have good candidates in our marginal seats, both the ones we hold and the ones we don't hold. But every seat is going to be quite a battle and I'll leave the hubris to my opponent. Thank you.</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

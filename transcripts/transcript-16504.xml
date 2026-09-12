@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>16504</transcript-id>
-    <title>Official Launch of Lifehouse at RPA The New Sydney Cancer Centre Sydney  </title>
-    <prime-minister>Rudd, Kevin</prime-minister>
-    <period-of-service>20071203 - 20100624</period-of-service>
-    <release-date>17/04/2009</release-date>
-    <release-type>Speech</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>Each of us is here today because of a bloke who has shown incredible leadership, incredible vision and incredible courage. </p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>16504</transcript-id><title>Official Launch of Lifehouse at RPA The New Sydney Cancer Centre Sydney  </title><prime-minister>Rudd, Kevin</prime-minister><period-of-service>20071203 - 20100624</period-of-service><field_date>17/04/2009</field_date><release-type>Speech</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>Each of us is here today because of a bloke who has shown incredible leadership, incredible vision and incredible courage. </p>
 <p>He's inspired us, each and everyone of us.</p>
 <p>He's challenged us, each and everyone of us.</p>
 <p>And for many of us here today, he's also become a friend. And I now regard Chris O'Brien as a friend of mine.</p>
@@ -152,6 +142,4 @@
 <p>Looking out for each other.</p>
 <p>Looking out for each other when times are tough.</p>
 <p>And it is my great honour therefore, to launch the Chris O'Brien Capital Appeal for this new Sydney Integrated Cancer Centre  -  Lifehouse at RPA. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

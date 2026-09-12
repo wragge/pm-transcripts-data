@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>12251</transcript-id>
-    <title>VISIT TO AUSTRALIA BY THE QUEEN AND THE DUKE OF EDINBURGH</title>
-    <prime-minister>Howard, John</prime-minister>
-    <period-of-service>19960311 - 20071203</period-of-service>
-    <release-date>03/10/2001</release-date>
-    <release-type>Media Release</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p>
-I am pleased to announce that Her Majesty The Queen and His Royal Highness The Duke of Edinburgh will visit Australia, arriving in Canberra on Wednesday 3 October 2001 and departing from Adelaide at the end of the following week.<br />
-Her Majesty The Queen will open the Commonwealth Heads of Government Meeting in Brisbane on Saturday 6 October 2001.  Her Majesty and His Royal Highness will also carry out programmes in Queensland and South Australia, the States not included in the itinerary for the 2000 Royal Visit.<br />
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>12251</transcript-id><title>VISIT TO AUSTRALIA BY THE QUEEN AND THE DUKE OF EDINBURGH</title><prime-minister>Howard, John</prime-minister><period-of-service>19960311 - 20071203</period-of-service><field_date>03/10/2001</field_date><release-type>Media Release</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p>
+I am pleased to announce that Her Majesty The Queen and His Royal Highness The Duke of Edinburgh will visit Australia, arriving in Canberra on Wednesday 3 October 2001 and departing from Adelaide at the end of the following week.<br>
+Her Majesty The Queen will open the Commonwealth Heads of Government Meeting in Brisbane on Saturday 6 October 2001.  Her Majesty and His Royal Highness will also carry out programmes in Queensland and South Australia, the States not included in the itinerary for the 2000 Royal Visit.<br>
 The Premiers of Queensland and South Australia are being consulted in the preparation of the programme.  Details will be announced at a later date. </p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

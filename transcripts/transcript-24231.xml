@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<transcripts>
-  <transcript>
-    <transcript-id>24231</transcript-id>
-    <title>Joint Doorstop Interview, Kogarah</title>
-    <prime-minister>Abbott, Tony</prime-minister>
-    <period-of-service>20130918 - 20150915</period-of-service>
-    <release-date>25/02/2015</release-date>
-    <release-type>Transcript</release-type>
-    <document></document>
-    <subjects></subjects>
-    <content><![CDATA[<p><strong>NICK VARVARIS:</strong></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<response><item key="0"><transcript-id>24231</transcript-id><title>Joint Doorstop Interview, Kogarah</title><prime-minister>Abbott, Tony</prime-minister><period-of-service>20130918 - 20150915</period-of-service><field_date>25/02/2015</field_date><release-type>Transcript</release-type><document>https://pmtranscripts.pmc.gov.au</document><subjects></subjects><content><![CDATA[<p><strong>NICK VARVARIS:</strong></p>
 <p>Good morning and thank you all for being here today. It is a great pleasure to have the Prime Minister and the Treasurer here in Kogarah, one of the great suburbs in the electorate of Barton. I would like to hand over to the Prime Minister.</p>
 <p><strong>PRIME MINISTER:</strong></p>
 <p>It is good to be here in Kogarah. It's great to be in the electorate of Barton, it’s great to be in the heartland of our country. This is the heart of Sydney, the heart of multicultural Sydney and it's good to be here with the Treasurer.</p>
@@ -119,6 +109,4 @@
 <p>It's very simple. The Government has lost confidence in Gillian Triggs as President of the Human Rights Commission. We've lost confidence in her. What she does is a matter for her but as the Secretary of the Attorney-General's Department has made clear, she was not asked to resign and no inducement has been offered.</p>
 <p>Thank you.</p>
 <p>[ends]</p>
-]]></content>
-  </transcript>
-</transcripts>
+]]></content></item></response>

@@ -1,6 +1,6 @@
 # pm-transcripts-data
 
-
+The Department of Prime Minister and Cabinet's [PM Transcripts site](https://pmtranscripts.pmc.gov.au) provides transcripts of more than 20,000 speeches, media releases, and interviews by Australian Prime Ministers. These transcripts can be searched online, and the underlying XML files can be downloaded using a simple API. This repository includes transcripts harvested from the PM Transcripts site, together with a CSV index, and aggregations of transcripts by Prime Minister.
 
 These datasets were generated using notebooks in the [GitHub - GLAM-Workbench/pm-transcripts · GitHub](https://github.com/GLAM-Workbench/pm-transcripts/) repository.
 

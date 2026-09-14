@@ -62,6 +62,10 @@ fqdn==1.5.1
     # via jsonschema
 frictionless==5.19.0
     # via -r requirements.in
+gitdb==4.0.12
+    # via gitpython
+gitpython==3.1.62
+    # via -r requirements.in
 h11==0.16.0
     # via httpcore
 httpcore==1.0.9
@@ -288,6 +292,8 @@ six==1.17.0
     # via
     #   python-dateutil
     #   rfc3339-validator
+smmap==5.0.3
+    # via gitdb
 soupsieve==2.9.2
     # via beautifulsoup4
 stack-data==0.6.3

@@ -1,52 +1,100 @@
-# PM Transcripts repository
+# pm-transcripts-data
 
-The Department of Prime Minister and Cabinet provides transcripts of more than [20,000 speeches, media releases, and interviews](https://pmtranscripts.pmc.gov.au/about-collection) by Australian Prime Ministers. These transcripts can be [searched online](https://pmtranscripts.pmc.gov.au/), and the underlying XML files [can be downloaded](https://pmtranscripts.pmc.gov.au/developers) using a simple API.
 
-This repository contains transcripts harvested from the PM Transcripts web site on 11 July 2019.
 
-The XML files are all saved in the [`transcripts`](transcripts/) folder.
+These datasets were generated using notebooks in the [GitHub - GLAM-Workbench/pm-transcripts · GitHub](https://github.com/GLAM-Workbench/pm-transcripts/) repository.
 
-I've also created a simple [index](index.csv) (in CSV format) that contains the metadata from each of the XML files. The fields are:
+For more information and documentation see the [PM Transcripts data - GLAM Workbench](https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/) section of the [GLAM Workbench](https://glam-workbench.net).
 
-* `id` – transcript id
-* `date` – release date
-* `title`
-* `pm` – prime minister's name
-* `release_type` – type of transcript (speech, interview, media release etc)
-* `subjects` – subjects (not used very often)
-* `pdf` – url for PDF version (if there is one)
+## Dataset summary
+- [pms/combined](https://github.com/wragge/pm-transcripts-data/tree/master/pms/combined) (directory containing 18 files)
+- [pms/zips](https://github.com/wragge/pm-transcripts-data/tree/master/pms/zips) (directory containing 18 files)
+- [pms/speech](https://github.com/wragge/pm-transcripts-data/tree/master/pms/speech) (directory containing 18 files)
+- [transcripts](https://github.com/wragge/pm-transcripts-data/tree/master/transcripts) (directory containing 28,560 files)
+- [index.csv](https://github.com/wragge/pm-transcripts-data/blob/master/index.csv) (4.9 MB, text/csv)
 
-I've combined copies of all the transcripts for each PM and saved them to the [`pms`](pms/) folder -- one file per PM. These files contain only the texts of each transcript, ordered chronologically.
 
-I've also created a zip file for each PM and saved them to the [`pms`](pms/) folder.
+## Dataset details
 
-The code for harvesting, indexing, analysing, and aggregating the transcripts is [in the GLAM Workbench](https://github.com/GLAM-Workbench/pm-transcripts).
+### [pms/combined](https://github.com/wragge/pm-transcripts-data/tree/master/pms/combined)
 
-Here's the number of transcripts for each Prime Minister:
+|                 |                                                                                                                                                                                                                            |
+|:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date harvested  | 2026-09-12                                                                                                                                                                                                                 |
+| number of files | 18                                                                                                                                                                                                                         |
+| format          | directory                                                                                                                                                                                                                  |
+| created by      | <a href='https://github.com/GLAM-Workbench/pm-transcripts/blob/master/aggregate_transcripts.ipynb'>Aggregate transcripts by PM</a> ([documentation](https://www.glam-workbench.net/pm-transcripts/aggregate_transcripts/)) |
+| description     | One text file for each Prime Minister containing the aggregated contents of all the XML transcript files.                                                                                                                  |
+| license         | [Creative Commons Attribution 4.0 International  Licence](https://creativecommons.org/licenses/by/4.0/)                                                                                                                    |
+| copyright       | Commonwealth of Australia                                                                                                                                                                                                  |
 
-```
-Howard, John         5865
-Hawke, Robert        2321
-Fraser, Malcolm      2081
-Gillard, Julia       2072
-Turnbull, Malcolm    1751
-Rudd, Kevin          1735
-Keating, Paul        1582
-Abbott, Tony         1371
-Whitlam, Gough       1238
-Menzies, Robert      1212
-Gorton, John          625
-Holt, Harold          507
-McMahon, William      349
-McEwen, John           16
-Chifley, Ben           11
-Curtin, John            4
-```
 
-Thanks to the Department of Prime Minister and Cabinet for making these documents available [under a CC-BY licence](https://pmtranscripts.pmc.gov.au/copyright).
 
-## Attribution
+### [pms/zips](https://github.com/wragge/pm-transcripts-data/tree/master/pms/zips)
 
-Source: Licensed from the Commonwealth of Australia under a Creative Commons Attribution 3.0 Australia Licence.
+|                 |                                                                                                                                                                                                                            |
+|:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date harvested  | 2026-09-12                                                                                                                                                                                                                 |
+| number of files | 18                                                                                                                                                                                                                         |
+| format          | directory                                                                                                                                                                                                                  |
+| created by      | <a href='https://github.com/GLAM-Workbench/pm-transcripts/blob/master/aggregate_transcripts.ipynb'>Aggregate transcripts by PM</a> ([documentation](https://www.glam-workbench.net/pm-transcripts/aggregate_transcripts/)) |
+| description     | One zip file for each Prime Minister containing the aggregated XML transcript files.                                                                                                                                       |
+| license         | [Creative Commons Attribution 4.0 International  Licence](https://creativecommons.org/licenses/by/4.0/)                                                                                                                    |
+| copyright       | Commonwealth of Australia                                                                                                                                                                                                  |
 
-The Commonwealth of Australia does not necessarily endorse the content of this publication.
+
+
+### [pms/speech](https://github.com/wragge/pm-transcripts-data/tree/master/pms/speech)
+
+|                 |                                                                                                                                                                                                                            |
+|:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date harvested  | 2026-09-10                                                                                                                                                                                                                 |
+| number of files | 18                                                                                                                                                                                                                         |
+| format          | directory                                                                                                                                                                                                                  |
+| created by      | <a href='https://github.com/GLAM-Workbench/pm-transcripts/blob/master/aggregate_transcripts.ipynb'>Aggregate transcripts by PM</a> ([documentation](https://www.glam-workbench.net/pm-transcripts/aggregate_transcripts/)) |
+| description     | One text file for each Prime Minister containing the aggregated contents of all the XML transcript files identified as speeches in the file metadata.                                                                      |
+| license         | [Creative Commons Attribution 4.0 International  Licence](https://creativecommons.org/licenses/by/4.0/)                                                                                                                    |
+| copyright       | Commonwealth of Australia                                                                                                                                                                                                  |
+
+
+
+### [transcripts](https://github.com/wragge/pm-transcripts-data/tree/master/transcripts)
+
+|                 |                                                                                                                                                                                                                |
+|:----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date harvested  | 2026-09-12                                                                                                                                                                                                     |
+| number of files | 28,560                                                                                                                                                                                                         |
+| format          | directory                                                                                                                                                                                                      |
+| created by      | <a href='https://github.com/GLAM-Workbench/pm-transcripts/blob/master/harvest_transcripts.ipynb'>Harvest transcripts</a> ([documentation](https://www.glam-workbench.net/pm-transcripts/harvest_transcripts/)) |
+| description     | The complete collection of XML-formatted transcript files downloaded from PM Transcripts.                                                                                                                      |
+| license         | [Creative Commons Attribution 4.0 International  Licence](https://creativecommons.org/licenses/by/4.0/)                                                                                                        |
+| copyright       | Commonwealth of Australia                                                                                                                                                                                      |
+
+
+
+### [index.csv](https://github.com/wragge/pm-transcripts-data/blob/master/index.csv)
+
+|                |                                                                                                                                                                                                                                                                       |
+|:---------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| date harvested | 2026-09-12                                                                                                                                                                                                                                                            |
+| file size      | 4.9 MB                                                                                                                                                                                                                                                                |
+| format         | text/csv                                                                                                                                                                                                                                                              |
+| created by     | <a href='https://github.com/GLAM-Workbench/pm-transcripts/blob/master/index_and_analyse_transcript_metadata.ipynb'>Create an index to the harvested files</a> ([documentation](https://www.glam-workbench.net/pm-transcripts/index_and_analyse_transcript_metadata/)) |
+| number of rows | 28561                                                                                                                                                                                                                                                                 |
+| description    | A CSV file containing metadata extracted from the transcript XML files.                                                                                                                                                                                               |
+| license        | [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)                                                                                                                                                                                    |
+
+#### Columns
+
+| name           | type    | description                                              |
+|:---------------|:--------|:---------------------------------------------------------|
+| `id`           | integer | transcript identifier                                    |
+| `title`        | string  | title of the transcript                                  |
+| `pm`           | string  | name of the Prime Minister                               |
+| `date`         | date    | date the text was issued/created                         |
+| `release_type` | string  | type of transcript, eg: speech, interview, press release |
+| `subjects`     | string  | subjects covered by the transcript                       |
+| `pdf`          | string  | link to a PDF version (where available)                  |
+
+----
+Created by [Tim Sherratt](https://timsherratt.au) for the [GLAM Workbench](https://glam-workbench.net)

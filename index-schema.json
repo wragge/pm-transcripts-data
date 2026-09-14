@@ -1,0 +1,40 @@
+{
+    "fields":
+    [
+        {
+            "name": "id",
+            "type": "integer",
+            "description": "transcript identifier"
+        },
+        {
+            "name": "title",
+            "type": "string",
+            "description": "title of the transcript"
+        },
+        {
+            "name": "pm",
+            "type": "string",
+            "description": "name of the Prime Minister"
+        },
+        {
+            "name": "date",
+            "type": "date",
+            "description": "date the text was issued/created"
+        },
+        {
+            "name": "release_type",
+            "type": "string",
+            "description": "type of transcript, eg: speech, interview, press release"
+        },
+        {
+            "name": "subjects",
+            "type": "string",
+            "description": "subjects covered by the transcript"
+        },
+        {
+            "name": "pdf",
+            "type": "string",
+            "description": "link to a PDF version (where available)"
+        }
+    ]
+}

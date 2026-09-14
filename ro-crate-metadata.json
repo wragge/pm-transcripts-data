@@ -1,26 +1,22 @@
 {
     "@context": "https://w3id.org/ro/crate/1.2/context",
-    "@graph":
-    [
+    "@graph": [
         {
             "@id": "./",
             "@type": "Dataset",
-            "author":
-            [
+            "author": [
                 {
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
             "datePublished": "2026-09-14",
-            "description": "The Department of Prime Minister and Cabinet's [PM Transcripts site](https://pmtranscripts.pmc.gov.au) provides transcripts of more than 20,000 speeches, media releases, and interviews by Australian Prime Ministers. These transcripts can be searched online, and the underlying XML files can be downloaded using a simple API. This repository includes transcripts harvested from the PM Transcripts site, together with a CSV index, and aggregations of transcripts by Prime Minister.",
-            "distribution":
-            {
+            "description": "",
+            "distribution": {
                 "@id": "https://github.com/wragge/pm-transcripts-data/archive/refs/heads/main.zip"
             },
-            "hasPart":
-            [
+            "hasPart": [
                 {
-                    "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/aggregate_transcripts.ipynb"
+                    "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/aggregate_transcripts.ipynb"
                 },
                 {
                     "@id": "combined"
@@ -32,13 +28,13 @@
                     "@id": "speech"
                 },
                 {
-                    "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/harvest_transcripts.ipynb"
+                    "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/harvest_transcripts.ipynb"
                 },
                 {
                     "@id": "transcripts"
                 },
                 {
-                    "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/index_and_analyse_transcript_metadata.ipynb"
+                    "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/index_and_analyse_transcript_metadata.ipynb"
                 },
                 {
                     "@id": "index.csv"
@@ -47,20 +43,16 @@
                     "@id": "index-schema.json"
                 }
             ],
-            "isBasedOn":
-            {
+            "isBasedOn": {
                 "@id": "https://github.com/GLAM-Workbench/pm-transcripts/"
             },
-            "license":
-            {
+            "license": {
                 "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
-            "mentions":
-            [
+            "mentions": [
                 {
                     "@id": "#aggregate_transcripts_run_0"
                 },
@@ -77,246 +69,205 @@
         {
             "@id": "ro-crate-metadata.json",
             "@type": "CreativeWork",
-            "about":
-            {
+            "about": {
                 "@id": "./"
             },
-            "conformsTo":
-            {
+            "conformsTo": {
                 "@id": "https://w3id.org/ro/crate/1.2"
             }
         },
         {
-            "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/aggregate_transcripts.ipynb",
-            "@type":
-            [
+            "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/aggregate_transcripts.ipynb",
+            "@type": [
                 "File",
                 "SoftwareSourceCode"
             ],
-            "author":
-            {
+            "author": {
                 "@id": "https://orcid.org/0000-0001-7956-4498"
             },
-            "conformsTo":
-            {
+            "conformsTo": {
                 "@id": "https://purl.archive.org/textcommons/profile#Notebook"
             },
             "description": "Depending on how you want to analyse them, it can be useful to group the transcripts by prime minister. This notebook aggregates the transcripts in two ways: by extracting the text content of each XML file and combining them into one big text file, and by zipping up the original XML files.",
             "encodingFormat": "application/x-ipynb+json",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/GLAM-Workbench/pm-transcripts/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/aggregate_transcripts/"
             },
             "name": "Aggregate transcripts by PM",
-            "programmingLanguage":
-            {
+            "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31211/"
             },
-            "url": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/aggregate_transcripts.ipynb"
+            "url": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/aggregate_transcripts.ipynb"
         },
         {
             "@id": "combined",
-            "@type":
-            [
+            "@type": [
                 "File",
                 "Dataset"
             ],
             "copyrightHolder": "Commonwealth of Australia",
             "dateModified": "2026-09-12",
             "description": "One text file for each Prime Minister containing the aggregated contents of all the XML transcript files.",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/wragge/pm-transcripts-data"
             },
-            "license":
-            {
+            "license": {
                 "@id": "https://creativecommons.org/licenses/by/4.0/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
             "name": "pms/combined",
             "size": 18,
-            "url": "https://github.com/wragge/pm-transcripts-data/tree/master/pms/combined"
+            "url": "https://github.com/wragge/pm-transcripts-data/tree/main/pms/combined"
         },
         {
             "@id": "zips",
-            "@type":
-            [
+            "@type": [
                 "File",
                 "Dataset"
             ],
             "copyrightHolder": "Commonwealth of Australia",
             "dateModified": "2026-09-12",
             "description": "One zip file for each Prime Minister containing the aggregated XML transcript files.",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/wragge/pm-transcripts-data"
             },
-            "license":
-            {
+            "license": {
                 "@id": "https://creativecommons.org/licenses/by/4.0/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
             "name": "pms/zips",
             "size": 18,
-            "url": "https://github.com/wragge/pm-transcripts-data/tree/master/pms/zips"
+            "url": "https://github.com/wragge/pm-transcripts-data/tree/main/pms/zips"
         },
         {
             "@id": "speech",
-            "@type":
-            [
+            "@type": [
                 "File",
                 "Dataset"
             ],
             "copyrightHolder": "Commonwealth of Australia",
             "dateModified": "2026-09-10",
             "description": "One text file for each Prime Minister containing the aggregated contents of all the XML transcript files identified as speeches in the file metadata.",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/wragge/pm-transcripts-data"
             },
-            "license":
-            {
+            "license": {
                 "@id": "https://creativecommons.org/licenses/by/4.0/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
             "name": "pms/speech",
             "size": 18,
-            "url": "https://github.com/wragge/pm-transcripts-data/tree/master/pms/speech"
+            "url": "https://github.com/wragge/pm-transcripts-data/tree/main/pms/speech"
         },
         {
-            "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/harvest_transcripts.ipynb",
-            "@type":
-            [
+            "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/harvest_transcripts.ipynb",
+            "@type": [
                 "File",
                 "SoftwareSourceCode"
             ],
-            "author":
-            {
+            "author": {
                 "@id": "https://orcid.org/0000-0001-7956-4498"
             },
-            "conformsTo":
-            {
+            "conformsTo": {
                 "@id": "https://purl.archive.org/textcommons/profile#Notebook"
             },
             "description": "Harvest all the XML transcripts from the PMs Transcripts site.",
             "encodingFormat": "application/x-ipynb+json",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/GLAM-Workbench/pm-transcripts/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/harvest_transcripts/"
             },
             "name": "Harvest transcripts",
-            "programmingLanguage":
-            {
+            "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31211/"
             },
-            "url": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/harvest_transcripts.ipynb"
+            "url": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/harvest_transcripts.ipynb"
         },
         {
             "@id": "transcripts",
-            "@type":
-            [
+            "@type": [
                 "File",
                 "Dataset"
             ],
             "copyrightHolder": "Commonwealth of Australia",
             "dateModified": "2026-09-12",
             "description": "The complete collection of XML-formatted transcript files downloaded from PM Transcripts.",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/wragge/pm-transcripts-data"
             },
-            "license":
-            {
+            "license": {
                 "@id": "https://creativecommons.org/licenses/by/4.0/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
             "name": "transcripts",
             "size": 28560,
-            "url": "https://github.com/wragge/pm-transcripts-data/tree/master/transcripts"
+            "url": "https://github.com/wragge/pm-transcripts-data/tree/main/transcripts"
         },
         {
-            "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/index_and_analyse_transcript_metadata.ipynb",
-            "@type":
-            [
+            "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/index_and_analyse_transcript_metadata.ipynb",
+            "@type": [
                 "File",
                 "SoftwareSourceCode"
             ],
-            "author":
-            {
+            "author": {
                 "@id": "https://orcid.org/0000-0001-7956-4498"
             },
-            "conformsTo":
-            {
+            "conformsTo": {
                 "@id": "https://purl.archive.org/textcommons/profile#Notebook"
             },
             "description": "The transcript XML files contain embedded metadata that includes the name of the prime minister, and the title and date of the transcript. This notebook extracts that metadata from the harvested files and creates a CSV formatted spreadsheet for easy analysis. It also demonstrates some ways of summarising and visualising the metadata.",
             "encodingFormat": "application/x-ipynb+json",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/GLAM-Workbench/pm-transcripts/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/index_and_analyse_transcript_metadata/"
             },
             "name": "Create an index to the harvested files",
-            "programmingLanguage":
-            {
+            "programmingLanguage": {
                 "@id": "https://www.python.org/downloads/release/python-31211/"
             },
-            "url": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/index_and_analyse_transcript_metadata.ipynb"
+            "url": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/index_and_analyse_transcript_metadata.ipynb"
         },
         {
             "@id": "index.csv",
-            "@type":
-            [
+            "@type": [
                 "File",
                 "Dataset"
             ],
-            "conformsTo":
-            {
+            "conformsTo": {
                 "@id": "index-schema.json"
             },
             "contentSize": 4907819,
             "dateModified": "2026-09-12",
             "description": "A CSV file containing metadata extracted from the transcript XML files.",
             "encodingFormat": "text/csv",
-            "isPartOf":
-            {
+            "isPartOf": {
                 "@id": "https://github.com/wragge/pm-transcripts-data"
             },
-            "license":
-            {
+            "license": {
                 "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
             "name": "index.csv",
-            "sdDatePublished": "2026-09-14T01:44:11.974300+00:00",
+            "sdDatePublished": "2026-09-14T03:34:28.022579+00:00",
             "size": 28561,
-            "url": "https://github.com/wragge/pm-transcripts-data/blob/master/index.csv"
+            "url": "https://github.com/wragge/pm-transcripts-data/blob/main/index.csv"
         },
         {
             "@id": "https://github.com/GLAM-Workbench/pm-transcripts/",
@@ -332,8 +283,7 @@
         },
         {
             "@id": "https://www.python.org/downloads/release/python-31211/",
-            "@type":
-            [
+            "@type": [
                 "ComputerLanguage",
                 "SoftwareApplication"
             ],
@@ -362,18 +312,15 @@
         {
             "@id": "#aggregate_transcripts_run_0",
             "@type": "CreateAction",
-            "actionStatus":
-            {
+            "actionStatus": {
                 "@id": "http://schema.org/CompletedActionStatus"
             },
             "endDate": "2026-09-12",
-            "instrument":
-            {
-                "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/aggregate_transcripts.ipynb"
+            "instrument": {
+                "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/aggregate_transcripts.ipynb"
             },
             "name": "Run of notebook: aggregate_transcripts.ipynb",
-            "result":
-            [
+            "result": [
                 {
                     "@id": "combined"
                 },
@@ -388,8 +335,7 @@
         {
             "@id": "https://orcid.org/0000-0001-7956-4498",
             "@type": "Person",
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://timsherratt.au"
             },
             "name": "Sherratt, Tim"
@@ -409,22 +355,18 @@
         {
             "@id": "#harvest_transcripts_run_0",
             "@type": "CreateAction",
-            "actionStatus":
-            {
+            "actionStatus": {
                 "@id": "http://schema.org/CompletedActionStatus"
             },
             "endDate": "2026-09-12",
-            "instrument":
-            {
-                "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/harvest_transcripts.ipynb"
+            "instrument": {
+                "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/harvest_transcripts.ipynb"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
             "name": "Run of notebook: harvest_transcripts.ipynb",
-            "result":
-            {
+            "result": {
                 "@id": "transcripts"
             }
         },
@@ -443,22 +385,18 @@
         {
             "@id": "#index_and_analyse_transcript_metadata_run_0",
             "@type": "CreateAction",
-            "actionStatus":
-            {
+            "actionStatus": {
                 "@id": "http://schema.org/CompletedActionStatus"
             },
             "endDate": "2026-09-12",
-            "instrument":
-            {
-                "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/master/index_and_analyse_transcript_metadata.ipynb"
+            "instrument": {
+                "@id": "https://github.com/GLAM-Workbench/pm-transcripts/blob/main/index_and_analyse_transcript_metadata.ipynb"
             },
-            "mainEntityOfPage":
-            {
+            "mainEntityOfPage": {
                 "@id": "https://www.glam-workbench.net/pm-transcripts/pm-transcripts-data/"
             },
             "name": "Run of notebook: index_and_analyse_transcript_metadata.ipynb",
-            "result":
-            {
+            "result": {
                 "@id": "index.csv"
             }
         },
@@ -470,12 +408,10 @@
         },
         {
             "@id": "index-schema.json",
-            "@type":
-            [
+            "@type": [
                 "File"
             ],
-            "conformsTo":
-            {
+            "conformsTo": {
                 "@id": "https://specs.frictionlessdata.io/table-schema/"
             },
             "encodingFormat": "application/json",
